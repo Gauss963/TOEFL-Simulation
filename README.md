@@ -16,7 +16,8 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
 - Local microphone recording for Speaking; recordings stay in the system temporary directory
 - Timer, mark/review, section transitions, answer review, and on-device score history
 - 1–6 half-band practice scores, CEFR display, and a comparable 0–120 overall estimate
-- Searchable starter academic vocabulary bank with Taiwan Traditional Chinese definitions
+- Searchable 1,375-entry vocabulary bank with Taiwan Traditional Chinese definitions and source filters
+- Browse and Flash Cards modes with shuffled 20/50/100/all-card decks and persistent mastery progress
 - Light and dark appearance, responsive split-view design, iPad landscape/portrait support
 
 ## Scoring boundary
@@ -68,6 +69,10 @@ DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer \
 ## App icon
 
 `Design/AppIconSource.png` is the supplied artwork. iPadOS receives the square source and applies the system mask. `Tools/generate_mac_app_icon.swift` creates a separate transparent macOS icon with Big Sur-style padding and rounded corners without redrawing the wordmark.
+
+## Vocabulary import
+
+`Tools/import_authorized_vocabulary.py` rebuilds the normalized offline JSON from the three structured 500-word PDFs in the owner's authorized `References` directory. It removes duplicate headwords, repairs OCR whitespace, rejects incomplete cards, and can enrich pronunciation and compact English glosses from the same offline lexical sources used by the GRE simulator. The source PDFs remain outside Git and the application bundle.
 
 ## Trademark
 

@@ -17,9 +17,9 @@ enum TOEFLAppPage: String, CaseIterable, Identifiable {
     var title: String {
         switch self {
         case .dashboard: "Practice Tests"
-        case .study: "Study Library"
+        case .study: "Vocabulary"
         case .history: "Score History"
-        case .resources: "Standards & Sources"
+        case .resources: "Official Resources"
         }
     }
     var icon: String {
@@ -40,7 +40,9 @@ struct ContentView: View {
     init() {
         #if DEBUG
         let args = ProcessInfo.processInfo.arguments
-        if args.contains("-openStudy") { _selection = State(initialValue: .study) }
+        if args.contains("-openStudy") || args.contains("-openVocabulary") {
+            _selection = State(initialValue: .study)
+        }
         if args.contains("-startReadingPractice") { _activeExamMode = State(initialValue: .readingPractice) }
         if args.contains("-startFullPractice") { _activeExamMode = State(initialValue: .fullLength) }
         #endif
@@ -78,7 +80,7 @@ struct ContentView: View {
             Group {
                 switch selection ?? .dashboard {
                 case .dashboard: DashboardView(history: history.results) { activeExamMode = $0 }
-                case .study: StudyLibraryView()
+                case .study: VocabularyView()
                 case .history: HistoryView(store: history)
                 case .resources: ResourcesView()
                 }

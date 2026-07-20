@@ -11,7 +11,7 @@ import SwiftUI
 struct TOEFL_SimulationApp: App {
     init() {
         #if DEBUG
-        let issues = TOEFLQuestionBank.validate()
+        let issues = TOEFLQuestionBank.validate() + TOEFLStudyBank.validate()
         assert(issues.isEmpty, issues.joined(separator: "\n"))
         #endif
     }
