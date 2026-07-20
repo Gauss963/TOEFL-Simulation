@@ -9,9 +9,20 @@ import SwiftUI
 
 @main
 struct TOEFL_SimulationApp: App {
+    init() {
+        #if DEBUG
+        let issues = TOEFLQuestionBank.validate()
+        assert(issues.isEmpty, issues.joined(separator: "\n"))
+        #endif
+    }
+
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
+        #if os(macOS)
+        .defaultSize(width: 1220, height: 800)
+        .windowResizability(.contentMinSize)
+        #endif
     }
 }
