@@ -3,6 +3,12 @@ import Foundation
 enum TOEFLQuestionBank {
     private static let formatSource = "Original practice item aligned to the ETS TOEFL iBT 2026 blueprint; not an official ETS question."
 
+    static let allQuestions: [TOEFLQuestion] = {
+        fullSections().flatMap(\.questions)
+            + readingModuleQuestions(route: .upper)
+            + listeningModuleQuestions(route: .upper)
+    }()
+
     static func fullSections() -> [TOEFLExamSection] {
         let readingRouter = readingRouterQuestions()
         let listeningRouter = listeningRouterQuestions()
@@ -92,9 +98,10 @@ enum TOEFLQuestionBank {
                 issues.append("\(kind.title) upper route has an invalid item distribution.")
             }
         }
-        let all = sections.flatMap(\.questions)
-            + readingModuleQuestions(route: .upper)
-            + listeningModuleQuestions(route: .upper)
+        let all = allQuestions
+        if all.count != 168 {
+            issues.append("Question bank has \(all.count) items; expected 168 across all adaptive routes.")
+        }
         let duplicates = Dictionary(grouping: all, by: \.id).filter { $0.value.count > 1 }
         if !duplicates.isEmpty { issues.append("Duplicate question IDs: \(duplicates.keys.sorted().joined(separator: ", "))") }
         for question in all {

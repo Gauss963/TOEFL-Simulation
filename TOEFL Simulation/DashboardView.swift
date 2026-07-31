@@ -30,6 +30,9 @@ struct DashboardView: View {
                     .font(.title3)
                     .foregroundStyle(.secondary)
                     .fixedSize(horizontal: false, vertical: true)
+                Label("\(TOEFLQuestionBank.allQuestions.count) questions · \(TOEFLStudyBank.words.count) vocabulary entries", systemImage: "books.vertical.fill")
+                    .font(.subheadline.weight(.semibold))
+                    .foregroundStyle(TOEFLTheme.teal)
             }
             Spacer(minLength: 12)
             ZStack {

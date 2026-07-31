@@ -5,6 +5,7 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
 ## First-version features
 
 - Full-length 2026 sequence: Reading → Listening → Writing → Speaking (about 90 minutes of section time; allow approximately two hours overall with directions and administration)
+- 168 unique practice questions across the base form and alternate adaptive Reading/Listening routes
 - Official blueprint counts and base timing: 50 / 47 / 12 / 11 items and 30 / 29 / 23 / 8 minutes
 - Two-stage adaptive Reading and Listening with router and lower/upper modules
 - All current task families:
