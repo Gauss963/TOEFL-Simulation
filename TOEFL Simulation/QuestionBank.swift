@@ -3,21 +3,62 @@ import Foundation
 enum TOEFLQuestionBank {
     private static let formatSource = "Original practice item aligned to the ETS TOEFL iBT 2026 blueprint; not an official ETS question."
 
-    static let allQuestions: [TOEFLQuestion] = {
-        fullSections().flatMap(\.questions)
-            + readingModuleQuestions(route: .upper)
-            + listeningModuleQuestions(route: .upper)
+    private static let expandedQuestions: [TOEFLQuestion] = {
+        let candidates = [
+            Bundle.main.url(forResource: "ExpandedQuestionBank", withExtension: "json"),
+            Bundle.main.url(
+                forResource: "ExpandedQuestionBank",
+                withExtension: "json",
+                subdirectory: "Resources"
+            )
+        ]
+        for url in candidates.compactMap({ $0 }) {
+            guard let data = try? Data(contentsOf: url) else { continue }
+            do {
+                return try JSONDecoder().decode([TOEFLQuestion].self, from: data)
+            } catch {
+                assertionFailure("Could not decode ExpandedQuestionBank.json: \(error)")
+            }
+        }
+        assertionFailure("Missing bundled resource: ExpandedQuestionBank.json")
+        return []
     }()
 
-    static func fullSections() -> [TOEFLExamSection] {
-        let readingRouter = readingRouterQuestions()
-        let listeningRouter = listeningRouterQuestions()
+    private static let coreQuestions: [TOEFLQuestion] = {
+        readingRouterQuestions()
+            + readingModuleQuestions(route: .lower)
+            + readingModuleQuestions(route: .upper)
+            + listeningRouterQuestions()
+            + listeningModuleQuestions(route: .lower)
+            + listeningModuleQuestions(route: .upper)
+            + writingQuestions
+            + speakingQuestions
+    }()
+
+    static let allQuestions: [TOEFLQuestion] = {
+        coreQuestions + expandedQuestions
+    }()
+
+    static func fullSections(seed: UInt64 = UInt64.random(in: UInt64.min...UInt64.max)) -> [TOEFLExamSection] {
+        let readingRouter = questions(
+            plan: [(.completeWords, 15), (.readDailyLife, 5), (.readAcademicPassage, 5)],
+            seed: mixedSeed(seed, label: "reading-router")
+        )
+        let listeningRouter = questions(
+            plan: [(.listenChooseResponse, 9), (.listenConversation, 5), (.listenAnnouncement, 4), (.listenAcademicTalk, 6)],
+            seed: mixedSeed(seed, label: "listening-router")
+        )
         return [
             TOEFLExamSection(
                 id: "reading-full",
                 kind: .reading,
                 durationSeconds: 30 * 60,
-                questions: readingRouter + readingModuleQuestions(route: .lower),
+                questions: readingRouter + moduleQuestions(
+                    for: .reading,
+                    route: .lower,
+                    seed: seed,
+                    excluding: Set(readingRouter.map(\.id))
+                ),
                 routerCount: readingRouter.count,
                 route: nil
             ),
@@ -25,7 +66,12 @@ enum TOEFLQuestionBank {
                 id: "listening-full",
                 kind: .listening,
                 durationSeconds: 29 * 60,
-                questions: listeningRouter + listeningModuleQuestions(route: .lower),
+                questions: listeningRouter + moduleQuestions(
+                    for: .listening,
+                    route: .lower,
+                    seed: seed,
+                    excluding: Set(listeningRouter.map(\.id))
+                ),
                 routerCount: listeningRouter.count,
                 route: nil
             ),
@@ -33,7 +79,10 @@ enum TOEFLQuestionBank {
                 id: "writing-full",
                 kind: .writing,
                 durationSeconds: 23 * 60,
-                questions: writingQuestions,
+                questions: questions(
+                    plan: [(.buildSentence, 10), (.writeEmail, 1), (.academicDiscussion, 1)],
+                    seed: mixedSeed(seed, label: "writing-linear")
+                ),
                 routerCount: nil,
                 route: nil
             ),
@@ -41,36 +90,89 @@ enum TOEFLQuestionBank {
                 id: "speaking-full",
                 kind: .speaking,
                 durationSeconds: 8 * 60,
-                questions: speakingQuestions,
+                questions: questions(
+                    plan: [(.listenRepeat, 7), (.interview, 4)],
+                    seed: mixedSeed(seed, label: "speaking-linear")
+                ),
                 routerCount: nil,
                 route: nil
             )
         ]
     }
 
-    static func practiceSection(for kind: TOEFLSectionKind) -> TOEFLExamSection {
+    static func practiceSection(
+        for kind: TOEFLSectionKind,
+        seed: UInt64 = UInt64.random(in: UInt64.min...UInt64.max)
+    ) -> TOEFLExamSection {
         switch kind {
         case .reading:
-            return TOEFLExamSection(id: "reading-practice", kind: .reading, durationSeconds: 10 * 60, questions: Array(readingRouterQuestions().prefix(15)), routerCount: nil, route: nil)
+            return TOEFLExamSection(
+                id: "reading-practice", kind: .reading, durationSeconds: 10 * 60,
+                questions: questions(
+                    plan: [(.completeWords, 9), (.readDailyLife, 3), (.readAcademicPassage, 3)],
+                    seed: mixedSeed(seed, label: "reading-practice")
+                ),
+                routerCount: nil, route: nil
+            )
         case .listening:
-            return TOEFLExamSection(id: "listening-practice", kind: .listening, durationSeconds: 10 * 60, questions: Array(listeningRouterQuestions().prefix(14)), routerCount: nil, route: nil)
+            return TOEFLExamSection(
+                id: "listening-practice", kind: .listening, durationSeconds: 10 * 60,
+                questions: questions(
+                    plan: [(.listenChooseResponse, 5), (.listenConversation, 3), (.listenAnnouncement, 2), (.listenAcademicTalk, 4)],
+                    seed: mixedSeed(seed, label: "listening-practice")
+                ),
+                routerCount: nil, route: nil
+            )
         case .writing:
-            return TOEFLExamSection(id: "writing-practice", kind: .writing, durationSeconds: 23 * 60, questions: writingQuestions, routerCount: nil, route: nil)
+            return TOEFLExamSection(
+                id: "writing-practice", kind: .writing, durationSeconds: 23 * 60,
+                questions: questions(
+                    plan: [(.buildSentence, 10), (.writeEmail, 1), (.academicDiscussion, 1)],
+                    seed: mixedSeed(seed, label: "writing-practice")
+                ),
+                routerCount: nil, route: nil
+            )
         case .speaking:
-            return TOEFLExamSection(id: "speaking-practice", kind: .speaking, durationSeconds: 8 * 60, questions: speakingQuestions, routerCount: nil, route: nil)
+            return TOEFLExamSection(
+                id: "speaking-practice", kind: .speaking, durationSeconds: 8 * 60,
+                questions: questions(
+                    plan: [(.listenRepeat, 7), (.interview, 4)],
+                    seed: mixedSeed(seed, label: "speaking-practice")
+                ),
+                routerCount: nil, route: nil
+            )
         }
     }
 
-    static func moduleQuestions(for kind: TOEFLSectionKind, route: AdaptiveRoute) -> [TOEFLQuestion] {
+    static func moduleQuestions(
+        for kind: TOEFLSectionKind,
+        route: AdaptiveRoute,
+        seed: UInt64 = UInt64.random(in: UInt64.min...UInt64.max),
+        excluding excludedIDs: Set<String> = []
+    ) -> [TOEFLQuestion] {
+        let allowed: Set<TOEFLDifficulty> = route == .lower
+            ? [.foundational, .intermediate]
+            : [.intermediate, .advanced]
         switch kind {
-        case .reading: readingModuleQuestions(route: route)
-        case .listening: listeningModuleQuestions(route: route)
-        case .writing, .speaking: []
+        case .reading:
+            return questions(
+                plan: [(.completeWords, 15), (.readDailyLife, 5), (.readAcademicPassage, 5)],
+                difficulties: allowed,
+                seed: mixedSeed(seed, label: "reading-\(route.rawValue)"),
+                excluding: excludedIDs
+            )
+        case .listening:
+            return questions(
+                plan: [(.listenChooseResponse, 8), (.listenConversation, 5), (.listenAnnouncement, 4), (.listenAcademicTalk, 6)],
+                difficulties: allowed,
+                seed: mixedSeed(seed, label: "listening-\(route.rawValue)"),
+                excluding: excludedIDs
+            )
+        case .writing, .speaking: return []
         }
     }
 
     static func validate() -> [String] {
-        let sections = fullSections()
         var issues: [String] = []
         let expected: [TOEFLSectionKind: Int] = [.reading: 50, .listening: 47, .writing: 12, .speaking: 11]
         let expectedTasks: [TOEFLSectionKind: [TOEFLTaskType: Int]] = [
@@ -79,40 +181,137 @@ enum TOEFLQuestionBank {
             .writing: [.buildSentence: 10, .writeEmail: 1, .academicDiscussion: 1],
             .speaking: [.listenRepeat: 7, .interview: 4]
         ]
-        for section in sections {
-            if section.questions.count != expected[section.kind] {
-                issues.append("\(section.kind.title) has \(section.questions.count) items; expected \(expected[section.kind] ?? 0).")
-            }
-            let counts = Dictionary(grouping: section.questions, by: \.taskType).mapValues(\.count)
-            if counts != expectedTasks[section.kind] {
-                issues.append("\(section.kind.title) task distribution does not match the 2026 blueprint used by this form.")
-            }
-        }
-        let upperForms: [(TOEFLSectionKind, [TOEFLQuestion])] = [
-            (.reading, readingRouterQuestions() + readingModuleQuestions(route: .upper)),
-            (.listening, listeningRouterQuestions() + listeningModuleQuestions(route: .upper))
-        ]
-        for (kind, questions) in upperForms {
-            let counts = Dictionary(grouping: questions, by: \.taskType).mapValues(\.count)
-            if questions.count != expected[kind] || counts != expectedTasks[kind] {
-                issues.append("\(kind.title) upper route has an invalid item distribution.")
-            }
-        }
         let all = allQuestions
-        if all.count != 168 {
-            issues.append("Question bank has \(all.count) items; expected 168 across all adaptive routes.")
+        if all.count < 1_680 {
+            issues.append("Question bank has \(all.count) items; expected at least 1,680.")
         }
         let duplicates = Dictionary(grouping: all, by: \.id).filter { $0.value.count > 1 }
         if !duplicates.isEmpty { issues.append("Duplicate question IDs: \(duplicates.keys.sorted().joined(separator: ", "))") }
+        let fingerprints = Dictionary(grouping: all) { question in
+            [
+                question.taskType.rawValue,
+                question.prompt,
+                question.passage ?? "",
+                question.audioScript ?? "",
+                question.correctSentenceTokens.joined(separator: " ")
+            ].joined(separator: "|")
+        }.filter { $0.value.count > 1 }
+        if !fingerprints.isEmpty {
+            issues.append("Question bank contains \(fingerprints.count) duplicate prompt/stimulus fingerprints.")
+        }
         for question in all {
             if let correct = question.correctChoiceID, !question.choices.contains(where: { $0.id == correct }) {
                 issues.append("\(question.id) has a missing correct choice.")
             }
-            if question.taskType == .buildSentence && question.correctSentenceTokens.isEmpty {
-                issues.append("\(question.id) has no sentence key.")
+            if !question.choices.isEmpty && question.choices.count != 4 {
+                issues.append("\(question.id) does not have four choices.")
+            }
+            if question.taskType == .completeWords && question.acceptedTextAnswers.isEmpty {
+                issues.append("\(question.id) has no accepted word answer.")
+            }
+            if question.taskType == .buildSentence {
+                if question.correctSentenceTokens.isEmpty {
+                    issues.append("\(question.id) has no sentence key.")
+                }
+                if question.sentenceTokens.sorted() != question.correctSentenceTokens.sorted() {
+                    issues.append("\(question.id) has a sentence token/key mismatch.")
+                }
+                if Set(question.sentenceTokens).count != question.sentenceTokens.count {
+                    issues.append("\(question.id) repeats a sentence token that the interface cannot distinguish.")
+                }
             }
         }
-        return issues
+
+        for sampleSeed in UInt64(0)..<40 {
+            let sections = fullSections(seed: sampleSeed)
+            for section in sections {
+                if section.questions.count != expected[section.kind] {
+                    issues.append("\(section.kind.title) has an invalid item count at seed \(sampleSeed).")
+                }
+                let counts = Dictionary(grouping: section.questions, by: \.taskType).mapValues(\.count)
+                if counts != expectedTasks[section.kind] {
+                    issues.append("\(section.kind.title) has an invalid task distribution at seed \(sampleSeed).")
+                }
+                if Set(section.questions.map(\.id)).count != section.questions.count {
+                    issues.append("\(section.kind.title) repeats an item at seed \(sampleSeed).")
+                }
+                guard let routerCount = section.routerCount else { continue }
+                let router = Array(section.questions.prefix(routerCount))
+                let upper = moduleQuestions(
+                    for: section.kind,
+                    route: .upper,
+                    seed: sampleSeed,
+                    excluding: Set(router.map(\.id))
+                )
+                let upperForm = router + upper
+                let upperCounts = Dictionary(grouping: upperForm, by: \.taskType).mapValues(\.count)
+                if upperForm.count != expected[section.kind] || upperCounts != expectedTasks[section.kind] {
+                    issues.append("\(section.kind.title) upper route is invalid at seed \(sampleSeed).")
+                }
+                if upper.contains(where: { $0.difficulty == .foundational }) {
+                    issues.append("\(section.kind.title) upper route contains a foundational item at seed \(sampleSeed).")
+                }
+                let lower = Array(section.questions.dropFirst(routerCount))
+                if lower.contains(where: { $0.difficulty == .advanced }) {
+                    issues.append("\(section.kind.title) lower route contains an advanced item at seed \(sampleSeed).")
+                }
+            }
+        }
+        return Array(Set(issues)).sorted()
+    }
+
+    private static func questions(
+        plan: [(TOEFLTaskType, Int)],
+        difficulties: Set<TOEFLDifficulty> = Set(TOEFLDifficulty.allCases),
+        seed: UInt64,
+        excluding excludedIDs: Set<String> = []
+    ) -> [TOEFLQuestion] {
+        var selected: [TOEFLQuestion] = []
+        var used = excludedIDs
+        for (index, entry) in plan.enumerated() {
+            let (task, count) = entry
+            let preferred = allQuestions.filter {
+                $0.taskType == task && difficulties.contains($0.difficulty) && !used.contains($0.id)
+            }
+            let fallback = allQuestions.filter {
+                $0.taskType == task && !used.contains($0.id) && !preferred.contains($0)
+            }
+            var generator = SeededGenerator(seed: mixedSeed(seed, label: "\(task.rawValue)-\(index)"))
+            var candidates = preferred.shuffled(using: &generator)
+            if candidates.count < count {
+                candidates += fallback.shuffled(using: &generator)
+            }
+            let drawn = Array(candidates.prefix(count))
+            precondition(drawn.count == count, "Not enough \(task.title) questions in the bank")
+            selected += drawn
+            used.formUnion(drawn.map(\.id))
+        }
+        return selected
+    }
+
+    private static func mixedSeed(_ seed: UInt64, label: String) -> UInt64 {
+        var hash = seed ^ 0xcbf29ce484222325
+        for byte in label.utf8 {
+            hash ^= UInt64(byte)
+            hash &*= 0x100000001b3
+        }
+        return hash
+    }
+
+    private struct SeededGenerator: RandomNumberGenerator {
+        private var state: UInt64
+
+        init(seed: UInt64) {
+            state = seed &+ 0x9e3779b97f4a7c15
+        }
+
+        mutating func next() -> UInt64 {
+            state &+= 0x9e3779b97f4a7c15
+            var value = state
+            value = (value ^ (value >> 30)) &* 0xbf58476d1ce4e5b9
+            value = (value ^ (value >> 27)) &* 0x94d049bb133111eb
+            return value ^ (value >> 31)
+        }
     }
 
     // MARK: - Reading
@@ -399,9 +598,19 @@ enum TOEFLQuestionBank {
     }
 
     private static func listeningResponseSet(prefix: String, difficulty: TOEFLDifficulty, rows: [(String, [String], Int)]) -> [TOEFLQuestion] {
-        rows.enumerated().map { index, row in
+        let additionalDistractors = [
+            "The notice is posted beside the main entrance.",
+            "I borrowed that textbook last semester.",
+            "The lecture lasted nearly an hour.",
+            "We usually take the north campus bus."
+        ]
+        return rows.enumerated().map { index, row in
             let number = String(format: "%02d", index + 1)
-            return listeningChoice("\(prefix)-resp-\(number)", .listenChooseResponse, row.0, "Choose the most appropriate response.", row.1, row.2, difficulty)
+            var answers = row.1
+            if answers.count == 3 {
+                answers.append(additionalDistractors[index % additionalDistractors.count])
+            }
+            return listeningChoice("\(prefix)-resp-\(number)", .listenChooseResponse, row.0, "Choose the most appropriate response.", answers, row.2, difficulty)
         }
     }
 

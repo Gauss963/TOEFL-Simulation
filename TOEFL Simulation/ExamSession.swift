@@ -23,15 +23,18 @@ final class TOEFLExamSession: ObservableObject {
     @Published private(set) var result: TOEFLExamResult?
 
     private let startedAt = Date()
+    private let formSeed: UInt64
     private var sectionDeadline: Date?
     private var summaries: [TOEFLSectionSummary] = []
 
     init(mode: ExamMode) {
+        let formSeed = UInt64.random(in: UInt64.min...UInt64.max)
         self.mode = mode
+        self.formSeed = formSeed
         if mode == .fullLength {
-            self.sections = TOEFLQuestionBank.fullSections()
+            self.sections = TOEFLQuestionBank.fullSections(seed: formSeed)
         } else if let kind = mode.sectionKinds.first {
-            self.sections = [TOEFLQuestionBank.practiceSection(for: kind)]
+            self.sections = [TOEFLQuestionBank.practiceSection(for: kind, seed: formSeed)]
         } else {
             self.sections = []
         }
@@ -210,7 +213,12 @@ final class TOEFLExamSession: ObservableObject {
         }
         let accuracy = objective.isEmpty ? 0 : Double(objective.filter { $0 }.count) / Double(objective.count)
         let route: AdaptiveRoute = accuracy >= 0.65 ? .upper : .lower
-        let module = TOEFLQuestionBank.moduleQuestions(for: currentSection.kind, route: route)
+        let module = TOEFLQuestionBank.moduleQuestions(
+            for: currentSection.kind,
+            route: route,
+            seed: formSeed,
+            excluding: Set(routerQuestions.map(\.id))
+        )
         sections[currentSectionIndex].questions = routerQuestions + module
         sections[currentSectionIndex].route = route
     }

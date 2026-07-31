@@ -2,10 +2,11 @@
 
 Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around the test format in effect from January 21, 2026.
 
-## First-version features
+## Features
 
 - Full-length 2026 sequence: Reading → Listening → Writing → Speaking (about 90 minutes of section time; allow approximately two hours overall with directions and administration)
-- 168 unique practice questions across the base form and alternate adaptive Reading/Listening routes
+- 1,968 unique practice questions, including a 1,800-item expanded offline bank
+- Seeded, stratified form generation so full tests and section practices draw different items while preserving task quotas
 - Official blueprint counts and base timing: 50 / 47 / 12 / 11 items and 30 / 29 / 23 / 8 minutes
 - Two-stage adaptive Reading and Listening with router and lower/upper modules
 - All current task families:
@@ -42,6 +43,28 @@ The official specification describes Reading and Listening as two-stage adaptive
 
 See [SOURCES.md](SOURCES.md) for the official standard and authorized reference inventory.
 
+## Download and use
+
+### macOS release
+
+1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.0.1-macOS-Universal.app.zip`.
+2. Double-click the ZIP file, then move `TOEFL Simulation.app` to the Applications folder.
+3. The downloadable build uses an ad-hoc signature and is not Apple-notarized. The first time you launch it, Control-click the app in Finder and choose **Open**. If macOS still blocks it, open **System Settings → Privacy & Security** and choose **Open Anyway**.
+4. Allow microphone access when prompted if you want to record Speaking responses. Recordings remain local and use the system temporary directory.
+
+The Universal build supports both Apple Silicon and Intel Macs running macOS 15.7 or later. The release also includes a SHA-256 file so the downloaded ZIP can be verified.
+
+### App workflow
+
+- Choose **Full-length 2026 Practice Test** for the four-section simulation, or select a timed Reading, Listening, Writing, or Speaking practice set.
+- Follow the section directions, answer or mark questions, and use Review where that task permits it. Reading and Listening select the second adaptive module after the router is submitted.
+- Speaking prompts play once in full-test mode. Record a response and complete the disclosed self-rating used by the local practice estimate.
+- After submission, open the score report to review section bands, adaptive routes, answers, explanations, and the clearly labeled comparable 0–120 estimate.
+- Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks and retain mastery progress on the device.
+- Open **Score History** to revisit saved practice reports and per-question review.
+
+All scores are diagnostic practice estimates, not official TOEFL scores or admissions predictions.
+
 ## Build
 
 Requirements:
@@ -74,6 +97,12 @@ DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer \
 ## Vocabulary import
 
 `Tools/import_authorized_vocabulary.py` rebuilds the normalized offline JSON from the three structured 500-word PDFs in the owner's authorized `References` directory. It removes duplicate headwords, repairs OCR whitespace, rejects incomplete cards, and can enrich pronunciation and compact English glosses from the same offline lexical sources used by the GRE simulator. The source PDFs remain outside Git and the application bundle.
+
+## Question bank generation
+
+`Tools/generate_expanded_question_bank.py` deterministically rebuilds and validates `ExpandedQuestionBank.json`. The generated resource adds 1,800 original practice items: 720 Reading, 600 Listening, 240 Writing, and 240 Speaking. Its topic taxonomy and skill coverage were informed by the owner-authorized reference library, while its form quotas, stimulus lengths, task names, and adaptive routing follow the current ETS 2026 specification.
+
+The runtime combines those items with the 168 hand-authored core questions for a 1,968-item bank. Each new exam uses one stable seed throughout the session. Reading and Listening draw a router first, then select a non-overlapping lower or upper module after routing; Writing and Speaking draw linear forms. Debug validation samples 40 deterministic forms across both routes and checks counts, task distributions, answer keys, duplicate IDs, duplicate stimuli, sentence-token integrity, and route difficulty boundaries.
 
 ## Trademark
 

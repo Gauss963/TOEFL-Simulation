@@ -2,7 +2,7 @@
 
 ## Current TOEFL iBT standard
 
-The simulator's structure and score display were checked on July 20, 2026 against these ETS sources:
+The simulator's structure and score display were checked again on August 1, 2026 against these ETS sources:
 
 - [TOEFL iBT test content and structure](https://www.ets.org/toefl/test-takers/ibt/about/content.html)
 - [TOEFL iBT 2026 Test Blueprint and Specifications](https://www.ets.org/content/dam/ets-india/pdfs/toefl/toefl-ibt-test-specifications-2026.pdf)
@@ -55,6 +55,18 @@ Pronunciation and compact English lexical fields are supplemented from the exist
 
 ## Bundled practice content
 
-Practice questions, short passages, listening scripts, sample responses, and explanations bundled in the exam simulator were written for this app. Vocabulary cards are either original curated entries or compact normalized records from the user-authorized vocabulary sources listed above. Every exam review item is labeled as an original practice item aligned to the ETS 2026 blueprint and not as an official ETS question.
+The runtime question bank contains 1,968 unique items. It combines 168 hand-authored core questions with a reproducible 1,800-item expansion:
+
+| Section | Expanded items | Runtime total including core |
+| --- | ---: | ---: |
+| Reading | 720 | 795 |
+| Listening | 600 | 670 |
+| Writing | 240 | 252 |
+| Speaking | 240 | 251 |
+| **Total** | **1,800** | **1,968** |
+
+Practice questions, short passages, listening scripts, sample responses, and explanations bundled in the exam simulator were written for this app. The authorized reference library was used to map topic domains, campus situations, tested skills, distractor purposes, and legacy explanation conventions; retired pre-2026 questions were not relabeled as current items or copied into the expanded bank. Vocabulary cards are either original curated entries or compact normalized records from the user-authorized vocabulary sources listed above.
+
+`Tools/generate_expanded_question_bank.py` rebuilds the expansion and checks exact per-task counts, unique IDs and prompt/stimulus fingerprints, four-choice answer keys, sentence token integrity, and required response fields. Runtime debug validation additionally samples 40 full forms, verifies both adaptive routes, and prevents router/module overlap. Every exam review item identifies itself as independent practice aligned to the ETS 2026 blueprint, not as an official ETS question.
 
 The source app icon is user-provided artwork stored at `Design/AppIconSource.png`.
