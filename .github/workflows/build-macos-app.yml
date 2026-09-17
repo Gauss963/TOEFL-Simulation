@@ -1,0 +1,102 @@
+name: Build macOS App
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-macos-app:
+    name: Build Universal macOS app
+    runs-on: macos-26-intel
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Select Xcode 26.3
+        run: sudo xcode-select --switch /Applications/Xcode_26.3.app/Contents/Developer
+
+      - name: Show build environment
+        run: |
+          set -euo pipefail
+          sw_vers
+          xcodebuild -version
+
+      - name: Build Universal Release app
+        run: |
+          set -euo pipefail
+
+          xcodebuild \
+            -project "TOEFL Simulation.xcodeproj" \
+            -scheme "TOEFL Simulation" \
+            -configuration Release \
+            -destination "generic/platform=macOS" \
+            -derivedDataPath "$RUNNER_TEMP/DerivedData" \
+            ARCHS="arm64 x86_64" \
+            ONLY_ACTIVE_ARCH=NO \
+            CODE_SIGNING_ALLOWED=NO \
+            build
+
+      - name: Sign, verify, and package app
+        id: package
+        env:
+          APP_PATH: ${{ runner.temp }}/DerivedData/Build/Products/Release/TOEFL Simulation.app
+          OUTPUT_DIR: ${{ runner.temp }}/release
+        run: |
+          set -euo pipefail
+
+          test -d "$APP_PATH"
+          test -x "$APP_PATH/Contents/MacOS/TOEFL Simulation"
+          test -s "$APP_PATH/Contents/Resources/ExpandedQuestionBank.json"
+
+          version=$(/usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" "$APP_PATH/Contents/Info.plist")
+          build=$(/usr/libexec/PlistBuddy -c "Print :CFBundleVersion" "$APP_PATH/Contents/Info.plist")
+          archive="TOEFL-Simulation-${version}-main-${GITHUB_RUN_NUMBER}-macOS-Universal.app.zip"
+
+          mkdir -p "$OUTPUT_DIR"
+          codesign --force --deep --sign - "$APP_PATH"
+          codesign --verify --deep --strict --verbose=2 "$APP_PATH"
+
+          architectures=$(lipo -archs "$APP_PATH/Contents/MacOS/TOEFL Simulation")
+          [[ " $architectures " == *" arm64 "* ]]
+          [[ " $architectures " == *" x86_64 "* ]]
+
+          ditto -c -k --sequesterRsrc --keepParent "$APP_PATH" "$OUTPUT_DIR/$archive"
+          (
+            cd "$OUTPUT_DIR"
+            shasum -a 256 "$archive" > "${archive%.zip}-SHA256.txt"
+          )
+
+          echo "artifact_name=TOEFL-Simulation-${version}-main-${GITHUB_RUN_NUMBER}-macOS-Universal" >> "$GITHUB_OUTPUT"
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+          echo "build=$build" >> "$GITHUB_OUTPUT"
+          echo "architectures=$architectures" >> "$GITHUB_OUTPUT"
+
+      - name: Upload macOS app artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.package.outputs.artifact_name }}
+          path: ${{ runner.temp }}/release/*
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Add build summary
+        env:
+          APP_VERSION: ${{ steps.package.outputs.version }}
+          APP_BUILD: ${{ steps.package.outputs.build }}
+          APP_ARCHITECTURES: ${{ steps.package.outputs.architectures }}
+        run: |
+          {
+            echo "## macOS app built"
+            echo
+            echo "- Version: \`$APP_VERSION\` (build \`$APP_BUILD\`)"
+            echo "- Architectures: \`$APP_ARCHITECTURES\`"
+            echo "- Artifact: \`${{ steps.package.outputs.artifact_name }}\`"
+            echo "- Retention: 14 days"
+          } >> "$GITHUB_STEP_SUMMARY"

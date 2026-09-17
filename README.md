@@ -90,6 +90,8 @@ DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer \
   CODE_SIGNING_ALLOWED=NO build
 ```
 
+Every push to `main` also runs [Build macOS App](.github/workflows/build-macos-app.yml). The workflow builds an ad-hoc-signed Universal macOS app and uploads the `.app.zip` plus its SHA-256 checksum as a workflow artifact retained for 14 days.
+
 ## App icon
 
 `Design/AppIconSource.png` is the supplied artwork. iPadOS receives the square source and applies the system mask. `Tools/generate_mac_app_icon.swift` creates a separate transparent macOS icon with Big Sur-style padding and rounded corners without redrawing the wordmark.
