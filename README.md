@@ -19,7 +19,7 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
 - Timer, mark/review, section transitions, answer review, and on-device score history
 - 1–6 half-band practice scores, CEFR display, and a comparable 0–120 overall estimate
 - Searchable 1,375-entry vocabulary bank with Taiwan Traditional Chinese definitions and source filters
-- Browse and Flash Cards modes with shuffled 20/50/100/all-card decks and persistent mastery progress
+- Browse and Flash Cards modes with shuffled 20/50/100/all-card decks, persistent mastery progress, and offline system-voice pronunciation
 - Light and dark appearance, responsive split-view design, iPad landscape/portrait support
 
 ## Scoring boundary
@@ -47,7 +47,7 @@ See [SOURCES.md](SOURCES.md) for the official standard and authorized reference 
 
 ### macOS release
 
-1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.0.1-macOS-Universal.app.zip`.
+1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.0.2-macOS-Universal.app.zip`.
 2. Double-click the ZIP file, then move `TOEFL Simulation.app` to the Applications folder.
 3. The downloadable build uses an ad-hoc signature and is not Apple-notarized. The first time you launch it, Control-click the app in Finder and choose **Open**. If macOS still blocks it, open **System Settings → Privacy & Security** and choose **Open Anyway**.
 4. Allow microphone access when prompted if you want to record Speaking responses. Recordings remain local and use the system temporary directory.
@@ -60,7 +60,7 @@ The Universal build supports both Apple Silicon and Intel Macs running macOS 15.
 - Follow the section directions, answer or mark questions, and use Review where that task permits it. Reading and Listening select the second adaptive module after the router is submitted.
 - Speaking prompts play once in full-test mode. Record a response and complete the disclosed self-rating used by the local practice estimate.
 - After submission, open the score report to review section bands, adaptive routes, answers, explanations, and the clearly labeled comparable 0–120 estimate.
-- Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks and retain mastery progress on the device.
+- Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks, hear each word with the system English voice, and retain mastery progress on the device.
 - Open **Score History** to revisit saved practice reports and per-question review.
 
 All scores are diagnostic practice estimates, not official TOEFL scores or admissions predictions.

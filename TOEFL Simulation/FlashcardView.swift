@@ -39,6 +39,7 @@ struct TOEFLFlashcardStudyView: View {
     let words: [VocabularyEntry]
 
     @StateObject private var progress = TOEFLFlashcardProgressStore()
+    @StateObject private var pronunciationPlayer = PromptSpeechPlayer()
     @State private var selectedSource = "All sources"
     @State private var deckSize: TOEFLFlashcardDeckSize = .twenty
     @State private var unmasteredOnly = true
@@ -104,6 +105,7 @@ struct TOEFLFlashcardStudyView: View {
             if !hasStarted { startNewDeck() }
             restoreKeyboardFocus()
         }
+        .onDisappear { pronunciationPlayer.stop() }
         .confirmationDialog(
             "Reset all flash-card progress?",
             isPresented: $confirmReset,
@@ -237,13 +239,14 @@ struct TOEFLFlashcardStudyView: View {
             }
             .font(.title3)
             .foregroundStyle(.secondary)
+            pronunciationButton(for: item, showsTitle: true)
             Label("Tap the card or press Space to reveal", systemImage: "rectangle.on.rectangle.angled")
                 .font(.subheadline)
                 .foregroundStyle(TOEFLTheme.blue)
                 .padding(.top, 18)
         }
         .frame(maxWidth: .infinity)
-        .accessibilityElement(children: .combine)
+        .accessibilityElement(children: .contain)
     }
 
     private func cardBack(_ item: VocabularyEntry) -> some View {
@@ -260,6 +263,7 @@ struct TOEFLFlashcardStudyView: View {
                     .font(.caption)
                     .foregroundStyle(.secondary)
                 Spacer()
+                pronunciationButton(for: item, showsTitle: false)
                 if item.isHighFrequency {
                     Image(systemName: "flame.fill")
                         .foregroundStyle(TOEFLTheme.gold)
@@ -297,6 +301,32 @@ struct TOEFLFlashcardStudyView: View {
                 .font(.body.weight(.medium))
                 .foregroundStyle(color ?? Color.primary)
         }
+    }
+
+    private func pronunciationButton(for item: VocabularyEntry, showsTitle: Bool) -> some View {
+        Button {
+            if pronunciationPlayer.isSpeaking {
+                pronunciationPlayer.stop()
+            } else {
+                pronunciationPlayer.speak(item.word)
+            }
+            restoreKeyboardFocus()
+        } label: {
+            HStack(spacing: 7) {
+                Image(systemName: pronunciationPlayer.isSpeaking ? "stop.fill" : "speaker.wave.2.fill")
+                if showsTitle {
+                    Text(pronunciationPlayer.isSpeaking ? "Stop pronunciation" : "Hear pronunciation")
+                }
+            }
+        }
+        .buttonStyle(.bordered)
+        .tint(TOEFLTheme.blue)
+        .accessibilityLabel(
+            pronunciationPlayer.isSpeaking
+                ? "Stop pronunciation of \(item.word)"
+                : "Hear pronunciation of \(item.word)"
+        )
+        .accessibilityHint("Uses the system English voice and works without an internet connection.")
     }
 
     @ViewBuilder
@@ -362,6 +392,7 @@ struct TOEFLFlashcardStudyView: View {
 
     private func rateCurrentCard(asMastered: Bool) {
         guard let currentCard else { return }
+        pronunciationPlayer.stop()
         progress.setMastered(currentCard.id, isMastered: asMastered)
         if asMastered {
             masteredThisRound.insert(currentCard.id)
@@ -378,6 +409,7 @@ struct TOEFLFlashcardStudyView: View {
     }
 
     private func startNewDeck() {
+        pronunciationPlayer.stop()
         let shuffled = eligibleWords.shuffled()
         let limit = deckSize.rawValue == 0 ? shuffled.count : min(deckSize.rawValue, shuffled.count)
         deck = Array(shuffled.prefix(limit))
@@ -390,6 +422,7 @@ struct TOEFLFlashcardStudyView: View {
     }
 
     private func reviewMissedCards() {
+        pronunciationPlayer.stop()
         deck = words.filter { missedThisRound.contains($0.id) }.shuffled()
         currentIndex = 0
         isRevealed = false
