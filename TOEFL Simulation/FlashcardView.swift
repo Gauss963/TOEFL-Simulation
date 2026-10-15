@@ -91,6 +91,11 @@ struct TOEFLFlashcardStudyView: View {
             revealCard()
             return .handled
         }
+        .onKeyPress("v") {
+            guard let currentCard else { return .ignored }
+            togglePronunciation(for: currentCard)
+            return .handled
+        }
         .onKeyPress(.leftArrow) {
             guard currentCard != nil, isRevealed else { return .ignored }
             rateCurrentCard(asMastered: false)
@@ -240,7 +245,7 @@ struct TOEFLFlashcardStudyView: View {
             .font(.title3)
             .foregroundStyle(.secondary)
             pronunciationButton(for: item, showsTitle: true)
-            Label("Tap the card or press Space to reveal", systemImage: "rectangle.on.rectangle.angled")
+            Label("Press V to hear · Tap the card or press Space to reveal", systemImage: "rectangle.on.rectangle.angled")
                 .font(.subheadline)
                 .foregroundStyle(TOEFLTheme.blue)
                 .padding(.top, 18)
@@ -305,12 +310,7 @@ struct TOEFLFlashcardStudyView: View {
 
     private func pronunciationButton(for item: VocabularyEntry, showsTitle: Bool) -> some View {
         Button {
-            if pronunciationPlayer.isSpeaking {
-                pronunciationPlayer.stop()
-            } else {
-                pronunciationPlayer.speak(item.word)
-            }
-            restoreKeyboardFocus()
+            togglePronunciation(for: item)
         } label: {
             HStack(spacing: 7) {
                 Image(systemName: pronunciationPlayer.isSpeaking ? "stop.fill" : "speaker.wave.2.fill")
@@ -327,6 +327,15 @@ struct TOEFLFlashcardStudyView: View {
                 : "Hear pronunciation of \(item.word)"
         )
         .accessibilityHint("Uses the system English voice and works without an internet connection.")
+    }
+
+    private func togglePronunciation(for item: VocabularyEntry) {
+        if pronunciationPlayer.isSpeaking {
+            pronunciationPlayer.stop()
+        } else {
+            pronunciationPlayer.speak(item.word)
+        }
+        restoreKeyboardFocus()
     }
 
     @ViewBuilder
