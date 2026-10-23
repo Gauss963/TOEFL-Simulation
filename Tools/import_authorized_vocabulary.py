@@ -32,6 +32,7 @@ ENTRY_HEADER = re.compile(
     re.S,
 )
 CJK = re.compile(r"[\u3400-\u9fff\uf900-\ufaff]+")
+DEFAULT_REVIEWED_GLOSSES = Path(__file__).with_name("reviewed_vocabulary_glosses.json")
 
 
 @dataclass
@@ -203,6 +204,24 @@ def original_fallback(word: str, definition: str, chinese: str, part_of_speech: 
     return f'The lecture uses “{word}” to refer to {meaning}.'
 
 
+def load_reviewed_glosses(path: Path | None) -> dict[str, dict]:
+    """Manually reviewed Taiwan Chinese senses, ordered by TOEFL frequency."""
+    if path is None or not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def apply_reviewed_glosses(entries: list[dict], reviewed: dict[str, dict]) -> list[dict]:
+    for entry in entries:
+        review = reviewed.get(entry["word"])
+        if not review:
+            continue
+        entry["partOfSpeech"] = review["partOfSpeech"]
+        entry["chinese"] = review["chinese"]
+        entry["definition"] = review["definition"]
+    return entries
+
+
 def merge_entries(
     extracted: list[ExtractedEntry],
     gre: dict[str, dict],
@@ -268,6 +287,7 @@ def main() -> None:
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--gre-vocabulary", type=Path)
     parser.add_argument("--ecdict", type=Path)
+    parser.add_argument("--reviewed-glosses", type=Path, default=DEFAULT_REVIEWED_GLOSSES)
     args = parser.parse_args()
 
     extracted: list[ExtractedEntry] = []
@@ -283,6 +303,7 @@ def main() -> None:
         load_gre_vocabulary(args.gre_vocabulary),
         load_ecdict(args.ecdict, targets),
     )
+    merged = apply_reviewed_glosses(merged, load_reviewed_glosses(args.reviewed_glosses))
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Extracted {len(extracted)} rows and wrote {len(merged)} unique vocabulary entries.")

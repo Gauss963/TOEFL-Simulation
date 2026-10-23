@@ -18,7 +18,7 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
 - Local microphone recording for Speaking; recordings stay in the system temporary directory
 - Timer, mark/review, section transitions, answer review, and on-device score history
 - 1–6 half-band practice scores, CEFR display, and a comparable 0–120 overall estimate
-- Searchable 1,375-entry vocabulary bank with Taiwan Traditional Chinese definitions and source filters
+- Searchable 1,375-entry vocabulary bank with manually reviewed Taiwan Traditional Chinese definitions (complete senses, ordered by how often each appears on the 2026 TOEFL iBT) and source filters
 - Browse and Flash Cards modes with shuffled 20/50/100/all-card decks, persistent mastery progress, offline system-voice pronunciation, and a `V` play/stop shortcut
 - Light and dark appearance, responsive split-view design, iPad landscape/portrait support
 
@@ -47,7 +47,7 @@ See [SOURCES.md](SOURCES.md) for the official standard and authorized reference 
 
 ### macOS release
 
-1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.0.3-macOS-Universal.app.zip`.
+1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.0.4-macOS-Universal.app.zip`.
 2. Double-click the ZIP file, then move `TOEFL Simulation.app` to the Applications folder.
 3. The downloadable build uses an ad-hoc signature and is not Apple-notarized. The first time you launch it, Control-click the app in Finder and choose **Open**. If macOS still blocks it, open **System Settings → Privacy & Security** and choose **Open Anyway**.
 4. Allow microphone access when prompted if you want to record Speaking responses. Recordings remain local and use the system temporary directory.
@@ -98,7 +98,7 @@ Every push to `main` also runs [Build macOS App](.github/workflows/build-macos-a
 
 ## Vocabulary import
 
-`Tools/import_authorized_vocabulary.py` rebuilds the normalized offline JSON from the three structured 500-word PDFs in the owner's authorized `References` directory. It removes duplicate headwords, repairs OCR whitespace, rejects incomplete cards, and can enrich pronunciation and compact English glosses from the same offline lexical sources used by the GRE simulator. The source PDFs remain outside Git and the application bundle.
+`Tools/import_authorized_vocabulary.py` rebuilds the normalized offline JSON from the three structured 500-word PDFs in the owner's authorized `References` directory. It removes duplicate headwords, repairs OCR whitespace, rejects incomplete cards, and can enrich pronunciation and compact English glosses from the same offline lexical sources used by the GRE simulator. It then applies `Tools/reviewed_vocabulary_glosses.json`, the manually reviewed part of speech, English definition, and Taiwan Chinese senses for every headword, so a re-import keeps those corrections. Chinese senses are separated by `；`, ordered from the most to the least common meaning in 2026 TOEFL iBT academic and campus contexts, and prefixed with `n.`, `v.`, or `adj.` when a word has several parts of speech. The source PDFs remain outside Git and the application bundle.
 
 ## Question bank generation
 
