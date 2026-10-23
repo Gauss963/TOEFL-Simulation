@@ -19,7 +19,7 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
 - Timer, mark/review, section transitions, answer review, and on-device score history
 - 1–6 half-band practice scores, CEFR display, and a comparable 0–120 overall estimate
 - Searchable 1,375-entry vocabulary bank with manually reviewed Taiwan Traditional Chinese definitions (complete senses, ordered by how often each appears on the 2026 TOEFL iBT) and source filters
-- Browse and Flash Cards modes with shuffled 20/50/100/all-card decks, persistent mastery progress, offline system-voice pronunciation, and a `V` play/stop shortcut
+- Browse and Flash Cards modes with shuffled 20/50/100/all-card decks or an **Infinite loop** that keeps recycling missed cards until every card is mastered, persistent mastery progress, natural offline neural pronunciation for every headword, and a `V` play/stop shortcut
 - Light and dark appearance, responsive split-view design, iPad landscape/portrait support
 
 ## Scoring boundary
@@ -47,7 +47,7 @@ See [SOURCES.md](SOURCES.md) for the official standard and authorized reference 
 
 ### macOS release
 
-1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.0.4-macOS-Universal.app.zip`.
+1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.1.0-macOS-Universal.app.zip`.
 2. Double-click the ZIP file, then move `TOEFL Simulation.app` to the Applications folder.
 3. The downloadable build uses an ad-hoc signature and is not Apple-notarized. The first time you launch it, Control-click the app in Finder and choose **Open**. If macOS still blocks it, open **System Settings → Privacy & Security** and choose **Open Anyway**.
 4. Allow microphone access when prompted if you want to record Speaking responses. Recordings remain local and use the system temporary directory.
@@ -60,7 +60,7 @@ The Universal build supports both Apple Silicon and Intel Macs running macOS 15.
 - Follow the section directions, answer or mark questions, and use Review where that task permits it. Reading and Listening select the second adaptive module after the router is submitted.
 - Speaking prompts play once in full-test mode. Record a response and complete the disclosed self-rating used by the local practice estimate.
 - After submission, open the score report to review section bands, adaptive routes, answers, explanations, and the clearly labeled comparable 0–120 estimate.
-- Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks, hear each word with the system English voice (or press `V` to play/stop), and retain mastery progress on the device.
+- Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks or choose **Infinite loop** mode, where Know it masters a card and Study again brings it back a few cards later until the whole pool is mastered. Hear each word in a natural recorded voice (or press `V` to play/stop); mastery progress stays on the device.
 - Open **Score History** to revisit saved practice reports and per-question review.
 
 All scores are diagnostic practice estimates, not official TOEFL scores or admissions predictions.
@@ -99,6 +99,10 @@ Every push to `main` also runs [Build macOS App](.github/workflows/build-macos-a
 ## Vocabulary import
 
 `Tools/import_authorized_vocabulary.py` rebuilds the normalized offline JSON from the three structured 500-word PDFs in the owner's authorized `References` directory. It removes duplicate headwords, repairs OCR whitespace, rejects incomplete cards, and can enrich pronunciation and compact English glosses from the same offline lexical sources used by the GRE simulator. It then applies `Tools/reviewed_vocabulary_glosses.json`, the manually reviewed part of speech, English definition, and Taiwan Chinese senses for every headword, so a re-import keeps those corrections. Chinese senses are separated by `；`, ordered from the most to the least common meaning in 2026 TOEFL iBT academic and campus contexts, and prefixed with `n.`, `v.`, or `adj.` when a word has several parts of speech. The source PDFs remain outside Git and the application bundle.
+
+## Pronunciation generation
+
+`Tools/generate_word_pronunciations.py` pre-renders every headword once with the Apache-2.0 [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) neural voice (`af_heart`), trims silence, encodes 32 kbps mono AAC with macOS `afconvert`, and packs the clips into `WordPronunciations.pack` (about 10 MB) with a byte-range index in `WordPronunciations.json`. Kokoro runs only at build time in a disposable virtual environment (`pip install kokoro soundfile`); the app has no third-party runtime dependency and plays the clips offline with AVFoundation. Words without a bundled clip fall back to the highest-quality installed system voice, and debug launches fail if any headword lacks a clip.
 
 ## Question bank generation
 

@@ -113,6 +113,10 @@ enum TOEFLStudyBank {
         if words.contains(where: { $0.definition.isEmpty || $0.chinese.contains("/") || $0.chinese.contains(";") }) {
             issues.append("Vocabulary bank contains an unreviewed definition or sense separator.")
         }
+        let missingAudio = words.filter { WordPronunciationLibrary.shared.clip(for: $0.word) == nil }
+        if !missingAudio.isEmpty {
+            issues.append("\(missingAudio.count) words have no bundled pronunciation, e.g. \(missingAudio.prefix(3).map(\.word)).")
+        }
         return issues
     }
 

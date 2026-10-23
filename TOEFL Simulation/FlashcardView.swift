@@ -35,11 +35,20 @@ private enum TOEFLFlashcardDeckSize: Int, CaseIterable, Identifiable {
     var title: String { rawValue == 0 ? "All" : "\(rawValue) cards" }
 }
 
+private enum TOEFLFlashcardMode: String, CaseIterable, Identifiable {
+    case deck
+    case infinite
+
+    var id: String { rawValue }
+    var title: String { self == .deck ? "Fixed deck" : "Infinite loop" }
+}
+
 struct TOEFLFlashcardStudyView: View {
     let words: [VocabularyEntry]
 
     @StateObject private var progress = TOEFLFlashcardProgressStore()
-    @StateObject private var pronunciationPlayer = PromptSpeechPlayer()
+    @StateObject private var pronunciationPlayer = WordPronunciationPlayer()
+    @AppStorage("toefl-simulation.flashcards.mode") private var studyMode: TOEFLFlashcardMode = .deck
     @State private var selectedSource = "All sources"
     @State private var deckSize: TOEFLFlashcardDeckSize = .twenty
     @State private var unmasteredOnly = true
@@ -49,13 +58,15 @@ struct TOEFLFlashcardStudyView: View {
     @State private var masteredThisRound: Set<String> = []
     @State private var missedThisRound: Set<String> = []
     @State private var hasStarted = false
+    @State private var infiniteTotal = 0
     @State private var confirmReset = false
     @FocusState private var acceptsKeyboardInput: Bool
 
     private var eligibleWords: [VocabularyEntry] {
         words.filter { item in
             let matchesSource = selectedSource == "All sources" || item.sources.contains(selectedSource)
-            let matchesProgress = !unmasteredOnly || !progress.mastered.contains(item.id)
+            let skipsMastered = unmasteredOnly || studyMode == .infinite
+            let matchesProgress = !skipsMastered || !progress.mastered.contains(item.id)
             return matchesSource && matchesProgress
         }
     }
@@ -77,6 +88,8 @@ struct TOEFLFlashcardStudyView: View {
                 sessionProgress
                 flashCard(currentCard)
                 ratingControls
+            } else if hasStarted, studyMode == .infinite, infiniteTotal > 0 {
+                infiniteCompletion
             } else if hasStarted, !deck.isEmpty {
                 completionSummary
             } else if hasStarted {
@@ -111,6 +124,7 @@ struct TOEFLFlashcardStudyView: View {
             restoreKeyboardFocus()
         }
         .onDisappear { pronunciationPlayer.stop() }
+        .onChange(of: studyMode) { startNewDeck() }
         .confirmationDialog(
             "Reset all flash-card progress?",
             isPresented: $confirmReset,
@@ -157,7 +171,7 @@ struct TOEFLFlashcardStudyView: View {
                 Spacer()
                 Label("\(overallMasteredCount) mastered", systemImage: "checkmark.seal.fill")
                     .foregroundStyle(TOEFLTheme.teal)
-                Button("New shuffled deck") { startNewDeck() }
+                Button(studyMode == .infinite ? "Restart loop" : "New shuffled deck") { startNewDeck() }
                     .buttonStyle(TOEFLSecondaryButtonStyle())
             }
             .font(.caption.weight(.semibold))
@@ -175,19 +189,56 @@ struct TOEFLFlashcardStudyView: View {
             }
             .pickerStyle(.menu)
 
-            Picker("Deck size", selection: $deckSize) {
-                ForEach(TOEFLFlashcardDeckSize.allCases) { size in
-                    Text(size.title).tag(size)
+            Picker("Mode", selection: $studyMode) {
+                ForEach(TOEFLFlashcardMode.allCases) { mode in
+                    Text(mode.title).tag(mode)
                 }
             }
             .pickerStyle(.menu)
 
-            Toggle("Unmastered only", isOn: $unmasteredOnly)
-                .toggleStyle(.switch)
+            if studyMode == .deck {
+                Picker("Deck size", selection: $deckSize) {
+                    ForEach(TOEFLFlashcardDeckSize.allCases) { size in
+                        Text(size.title).tag(size)
+                    }
+                }
+                .pickerStyle(.menu)
+
+                Toggle("Unmastered only", isOn: $unmasteredOnly)
+                    .toggleStyle(.switch)
+            }
         }
     }
 
+    @ViewBuilder
     private var sessionProgress: some View {
+        if studyMode == .infinite {
+            infiniteProgress
+        } else {
+            deckProgress
+        }
+    }
+
+    private var infiniteProgress: some View {
+        VStack(spacing: 8) {
+            HStack {
+                Label("Infinite loop", systemImage: "infinity")
+                    .font(.subheadline.weight(.semibold))
+                Spacer()
+                Text("\(masteredThisRound.count) of \(infiniteTotal) mastered · \(deck.count) left")
+                    .font(.caption.monospacedDigit())
+                    .foregroundStyle(.secondary)
+            }
+            ProgressView(value: Double(masteredThisRound.count), total: Double(max(infiniteTotal, 1)))
+                .tint(TOEFLTheme.teal)
+            Text("Cards marked Study again come back a few cards later until you know them.")
+                .font(.caption)
+                .foregroundStyle(.secondary)
+                .frame(maxWidth: .infinity, alignment: .leading)
+        }
+    }
+
+    private var deckProgress: some View {
         VStack(spacing: 8) {
             HStack {
                 Text("Card \(currentIndex + 1) of \(deck.count)")
@@ -326,7 +377,7 @@ struct TOEFLFlashcardStudyView: View {
                 ? "Stop pronunciation of \(item.word)"
                 : "Hear pronunciation of \(item.word)"
         )
-        .accessibilityHint("Uses the system English voice and works without an internet connection.")
+        .accessibilityHint("Plays a natural recorded voice that works without an internet connection.")
     }
 
     private func togglePronunciation(for item: VocabularyEntry) {
@@ -380,13 +431,30 @@ struct TOEFLFlashcardStudyView: View {
         .toeflCard()
     }
 
+    private var infiniteCompletion: some View {
+        VStack(spacing: 18) {
+            Image(systemName: "checkmark.seal.fill")
+                .font(.system(size: 48))
+                .foregroundStyle(TOEFLTheme.teal)
+            Text("Every card mastered")
+                .font(.largeTitle.bold())
+            Text("You worked through all \(infiniteTotal) cards in this loop until each one was marked Know it.")
+                .foregroundStyle(.secondary)
+                .multilineTextAlignment(.center)
+            Button("Start a fixed deck") { studyMode = .deck }
+                .buttonStyle(TOEFLPrimaryButtonStyle())
+        }
+        .frame(maxWidth: .infinity, minHeight: 360)
+        .toeflCard()
+    }
+
     private var emptyDeck: some View {
         ContentUnavailableView {
             Label("No matching cards", systemImage: "checkmark.seal")
         } description: {
             Text(
-                unmasteredOnly
-                    ? "Every matching card is mastered. Turn off Unmastered only or reset mastery progress."
+                unmasteredOnly || studyMode == .infinite
+                    ? "Every matching card is mastered. Switch to a fixed deck with Unmastered only off, or reset mastery progress."
                     : "Choose a different source to build a deck."
             )
         }
@@ -411,17 +479,35 @@ struct TOEFLFlashcardStudyView: View {
             masteredThisRound.remove(currentCard.id)
         }
         withAnimation(.easeInOut(duration: 0.18)) {
-            currentIndex += 1
+            if studyMode == .infinite {
+                advanceInfiniteLoop(requeue: asMastered ? nil : currentCard)
+            } else {
+                currentIndex += 1
+            }
             isRevealed = false
         }
         restoreKeyboardFocus()
     }
 
+    /// Removes the current card; a missed card returns a few cards later.
+    private func advanceInfiniteLoop(requeue missed: VocabularyEntry?) {
+        var queue = deck
+        queue.remove(at: currentIndex)
+        if let missed {
+            queue.insert(missed, at: min(queue.count, Int.random(in: 3...7)))
+        }
+        deck = queue
+        currentIndex = 0
+    }
+
     private func startNewDeck() {
         pronunciationPlayer.stop()
         let shuffled = eligibleWords.shuffled()
-        let limit = deckSize.rawValue == 0 ? shuffled.count : min(deckSize.rawValue, shuffled.count)
+        let limit = deckSize.rawValue == 0 || studyMode == .infinite
+            ? shuffled.count
+            : min(deckSize.rawValue, shuffled.count)
         deck = Array(shuffled.prefix(limit))
+        infiniteTotal = studyMode == .infinite ? deck.count : 0
         currentIndex = 0
         isRevealed = false
         masteredThisRound.removeAll()
@@ -433,6 +519,7 @@ struct TOEFLFlashcardStudyView: View {
     private func reviewMissedCards() {
         pronunciationPlayer.stop()
         deck = words.filter { missedThisRound.contains($0.id) }.shuffled()
+        infiniteTotal = 0
         currentIndex = 0
         isRevealed = false
         masteredThisRound.removeAll()

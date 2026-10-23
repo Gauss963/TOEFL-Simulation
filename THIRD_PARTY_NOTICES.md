@@ -1,6 +1,6 @@
 # Third-party content notices
 
-No third-party source-code package is bundled. The application uses Apple platform frameworks including SwiftUI, Foundation, Combine, and AVFoundation.
+No third-party source-code package is bundled or linked. The application uses Apple platform frameworks including SwiftUI, Foundation, Combine, and AVFoundation.
 
 ## Open English WordNet 2025
 
@@ -19,6 +19,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Kokoro-82M pronunciation clips
+
+The bundled `WordPronunciations.pack` contains one pre-rendered pronunciation clip per headword, synthesized at build time with the [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) model and its `af_heart` voice. The model weights and voices are released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Neither the model nor any Python, PyTorch, or phonemizer library is bundled or linked; the app only plays the generated AAC audio with AVFoundation.
 
 ## Authorized local references
 
