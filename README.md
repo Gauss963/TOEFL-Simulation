@@ -47,7 +47,7 @@ See [SOURCES.md](SOURCES.md) for the official standard and authorized reference 
 
 ### macOS release
 
-1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.1.0-macOS-Universal.app.zip`.
+1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.1.1-macOS-Universal.app.zip`.
 2. Double-click the ZIP file, then move `TOEFL Simulation.app` to the Applications folder.
 3. The downloadable build uses an ad-hoc signature and is not Apple-notarized. The first time you launch it, Control-click the app in Finder and choose **Open**. If macOS still blocks it, open **System Settings → Privacy & Security** and choose **Open Anyway**.
 4. Allow microphone access when prompted if you want to record Speaking responses. Recordings remain local and use the system temporary directory.
@@ -60,7 +60,7 @@ The Universal build supports both Apple Silicon and Intel Macs running macOS 15.
 - Follow the section directions, answer or mark questions, and use Review where that task permits it. Reading and Listening select the second adaptive module after the router is submitted.
 - Speaking prompts play once in full-test mode. Record a response and complete the disclosed self-rating used by the local practice estimate.
 - After submission, open the score report to review section bands, adaptive routes, answers, explanations, and the clearly labeled comparable 0–120 estimate.
-- Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks or choose **Infinite loop** mode, where Know it masters a card and Study again brings it back a few cards later until the whole pool is mastered. Hear each word in a natural recorded voice (or press `V` to play/stop); mastery progress stays on the device.
+- Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks or choose **Infinite loop** mode, where Know it masters a card and Study again brings it back after about 15–40 other cards (about a quarter of the remaining queue, or at the end of a short queue) so recall is tested after a real delay, until the whole pool is mastered. Hear each word in a natural recorded voice (or press `V` to play/stop); mastery progress stays on the device.
 - Open **Score History** to revisit saved practice reports and per-question review.
 
 All scores are diagnostic practice estimates, not official TOEFL scores or admissions predictions.
