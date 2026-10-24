@@ -1,0 +1,686 @@
+[
+ {
+  "id": "at1-01",
+  "difficulty": "intermediate",
+  "course": "marine biology",
+  "intro": "Listen to a talk in a marine biology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Okay, so today I want to talk about a clever trick some ocean animals use to hide. Picture yourself as a predator swimming near the seafloor at night, looking up. What do you see? Moonlight filtering down from the surface. Now, anything swimming above you shows up as a dark silhouette against that light. That's a real problem for prey. So how do you hide when there's nowhere to hide? Well, some animals produce their own light on their undersides. It's called counterillumination. The idea is to match the brightness of the light coming from above, so the silhouette basically disappears. A great example is the Hawaiian bobtail squid. Here's the interesting part: the squid doesn't make the light itself. It has a special organ on its underside that houses glowing bacteria. The squid gives the bacteria food and shelter, and the bacteria provide the glow. And the squid can actually adjust the light, using a kind of shutter made of ink, so the brightness matches the moonlight. Then every morning, it pushes most of the bacteria out into the water, and the population grows back by nightfall. So it's a partnership, and a pretty efficient one.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How some sea animals use light to avoid being seen from below",
+     "How ocean bacteria produce light to attract their food",
+     "Why predators near the seafloor hunt mainly at night",
+     "How squid use ink to escape from their predators"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains counterillumination, in which animals glow on their undersides to hide their silhouettes from predators below."
+   },
+   {
+    "prompt": "According to the professor, why is an animal swimming above a predator easy to see?",
+    "options": [
+     "Its body reflects moonlight down toward the seafloor.",
+     "It produces light that predators are able to detect.",
+     "It appears as a dark shape against light from the surface.",
+     "It swims more slowly than animals near the bottom."
+    ],
+    "answer": 2,
+    "explanation": "The professor says anything above the predator shows up as a dark silhouette against the moonlight."
+   },
+   {
+    "prompt": "What does the bobtail squid do every morning?",
+    "options": [
+     "It moves into deeper water to avoid predators.",
+     "It releases most of the bacteria from its light organ.",
+     "It feeds the bacteria a special kind of ink.",
+     "It closes its light organ to save energy."
+    ],
+    "answer": 1,
+    "explanation": "The professor states that each morning the squid pushes most of the bacteria out and the population regrows by nightfall."
+   },
+   {
+    "prompt": "Why does the professor ask the students to picture themselves as a predator?",
+    "options": [
+     "To explain how predators produce their own light",
+     "To introduce a study of predator behavior at night",
+     "To show that predators rarely look toward the surface",
+     "To help them understand why prey are visible from below"
+    ],
+    "answer": 3,
+    "explanation": "Imagining the predator's view makes it clear why prey appear as silhouettes, which is the problem counterillumination solves."
+   }
+  ]
+ },
+ {
+  "id": "at1-02",
+  "difficulty": "intermediate",
+  "course": "astronomy",
+  "intro": "Listen to a talk in an astronomy class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Alright, let's start with a quick question. Which planet is the hottest in our solar system? Most people guess Mercury, and that makes sense, right? It's the closest planet to the Sun. But actually, the answer is Venus. Its surface temperature is around four hundred sixty degrees Celsius, hot enough to melt lead, and that's hotter than anywhere on Mercury. So what's going on? The key is the atmosphere. Mercury has almost no atmosphere at all, so the heat it gets from the Sun escapes back into space pretty easily. Its night side actually gets extremely cold. Venus is the opposite. It has a very thick atmosphere made mostly of carbon dioxide. Sunlight passes through and warms the surface, and the surface then gives off heat as infrared radiation. But carbon dioxide absorbs that infrared energy, so the heat can't get out. It's trapped. Now, this happens on Earth too, in a much milder way. It's the greenhouse effect. On Venus, though, the effect is so extreme that the temperature is about the same everywhere, day side or night side, poles or equator. So distance from the Sun isn't the whole story. What surrounds a planet matters just as much.",
+  "questions": [
+   {
+    "prompt": "What is the main topic of the talk?",
+    "options": [
+     "How scientists measure temperatures on other planets",
+     "Why Venus is hotter than a planet closer to the Sun",
+     "Why Mercury lost most of its original atmosphere",
+     "How the greenhouse effect on Earth has changed over time"
+    ],
+    "answer": 1,
+    "explanation": "The professor explains that Venus is hotter than Mercury because its thick atmosphere traps heat."
+   },
+   {
+    "prompt": "According to the professor, why does Mercury's night side become very cold?",
+    "options": [
+     "Mercury's night side faces away from the Sun for years.",
+     "Mercury's surface reflects most of the sunlight it gets.",
+     "Mercury's atmosphere absorbs most infrared energy.",
+     "Mercury has almost no atmosphere to hold in heat."
+    ],
+    "answer": 3,
+    "explanation": "The professor says Mercury has almost no atmosphere, so its heat escapes easily into space."
+   },
+   {
+    "prompt": "What does the professor say about the temperature on Venus?",
+    "options": [
+     "It is about the same on the day side and the night side.",
+     "It is much higher near the equator than elsewhere.",
+     "It drops sharply near the planet's poles.",
+     "It changes greatly from one season to the next."
+    ],
+    "answer": 0,
+    "explanation": "The professor states that Venus's temperature is about the same everywhere, day or night, poles or equator."
+   },
+   {
+    "prompt": "Why does the professor mention Earth?",
+    "options": [
+     "To compare Earth's distance from the Sun with that of Venus",
+     "To show that Earth's atmosphere is also mostly carbon dioxide",
+     "To point out that the same process occurs there to a lesser degree",
+     "To suggest that Earth will eventually become as hot as Venus"
+    ],
+    "answer": 2,
+    "explanation": "He notes that the greenhouse effect happens on Earth too, but in a much milder way."
+   }
+  ]
+ },
+ {
+  "id": "at1-03",
+  "difficulty": "intermediate",
+  "course": "geology",
+  "intro": "Listen to a talk in a geology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So, today we're talking about caves, specifically limestone caves, which are the most common kind. You might think caves are carved out by rushing underground rivers, but most of the work is actually done by something much quieter: chemistry. Here's how it works. When rain falls, it picks up a little carbon dioxide from the air, and even more from the soil as it soaks into the ground. That carbon dioxide combines with the water to form a weak acid called carbonic acid. Now, on its own, carbonic acid isn't very strong. You drink it every time you have a fizzy drink. But limestone is made of calcium carbonate, and calcium carbonate dissolves in acid. So as this slightly acidic water seeps through cracks in the rock, it slowly dissolves the limestone and widens those cracks. Over hundreds of thousands of years, the cracks become passages, and the passages become huge chambers. And the process can also run in reverse. When water drips from a cave ceiling, it releases some carbon dioxide into the cave air, and the dissolved minerals come back out of the water. That's how stalactites form, one tiny layer at a time. So the same chemistry that hollows out a cave also decorates it.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why underground rivers are the main cause of caves",
+     "How scientists estimate the age of limestone caves",
+     "How a chemical process creates and shapes limestone caves",
+     "Why limestone is more common than other types of rock"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains how carbonic acid dissolves limestone to form caves and how the reverse process forms stalactites."
+   },
+   {
+    "prompt": "According to the professor, where does rainwater get most of its carbon dioxide?",
+    "options": [
+     "From the soil it soaks through",
+     "From the air as it falls",
+     "From the limestone it dissolves",
+     "From the air inside caves"
+    ],
+    "answer": 0,
+    "explanation": "The professor says rain picks up a little carbon dioxide from the air and even more from the soil."
+   },
+   {
+    "prompt": "How do stalactites form?",
+    "options": [
+     "Acidic water dissolves the cave ceiling in very thin layers.",
+     "Underground rivers deposit sand on the ceilings of caves.",
+     "Carbon dioxide in the cave air hardens into solid rock.",
+     "Minerals come out of dripping water after it releases carbon dioxide."
+    ],
+    "answer": 3,
+    "explanation": "Dripping water releases carbon dioxide, so dissolved minerals come back out of the water layer by layer."
+   },
+   {
+    "prompt": "Why does the professor mention fizzy drinks?",
+    "options": [
+     "To explain why cave water often has an unusual taste",
+     "To show that carbonic acid is a relatively weak acid",
+     "To give an example of a drink containing limestone",
+     "To suggest that carbon dioxide quickly damages rock"
+    ],
+    "answer": 1,
+    "explanation": "She mentions that people drink carbonic acid in fizzy drinks to illustrate that it is not very strong."
+   }
+  ]
+ },
+ {
+  "id": "at1-04",
+  "difficulty": "intermediate",
+  "course": "botany",
+  "intro": "Listen to a talk in a botany class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Okay, if you've ever kept a plant on a windowsill, you've probably noticed that after a week or so, it starts leaning toward the window. This is called phototropism, growth in response to light. But how does a plant, which has no eyes and no muscles, manage to bend? Well, the answer involves a plant hormone called auxin. Auxin is produced near the tip of the stem, and one of its jobs is to make cells grow longer. Now, here's the thing. When light hits the stem from one side, auxin moves away from the light, toward the shaded side. So the cells on the shaded side get more auxin, and they stretch more than the cells on the sunny side. And when one side of a stem grows longer than the other, what happens? The stem curves toward the shorter side, which is the side facing the light. Charles Darwin and his son actually did early experiments on this. They covered the tips of grass seedlings with little caps, and the seedlings stopped bending toward the light. That told them the tip was detecting the light, even though the bending happened lower down. So the plant isn't really moving toward light. It's growing unevenly, on purpose.",
+  "questions": [
+   {
+    "prompt": "What is the main topic of the talk?",
+    "options": [
+     "Why plants need sunlight to make their food",
+     "How plant hormones control the timing of flowering",
+     "Why seedlings grow faster than older plants",
+     "How plants bend toward a source of light"
+    ],
+    "answer": 3,
+    "explanation": "The professor explains phototropism and the role of auxin in making stems bend toward light."
+   },
+   {
+    "prompt": "According to the professor, what happens to auxin when light comes from one side?",
+    "options": [
+     "It is broken down on the side facing the light.",
+     "It moves to the side of the stem that is shaded.",
+     "It collects at the very tip of the stem.",
+     "It spreads evenly throughout the whole stem."
+    ],
+    "answer": 1,
+    "explanation": "The professor says auxin moves away from the light toward the shaded side of the stem."
+   },
+   {
+    "prompt": "What did the Darwins learn by covering the tips of the seedlings?",
+    "options": [
+     "Seedlings grow faster when they are kept in the dark.",
+     "Bending takes place only at the tip of the stem.",
+     "The tip of a seedling is where light is detected.",
+     "Auxin is produced mainly in the roots of seedlings."
+    ],
+    "answer": 2,
+    "explanation": "When the tips were capped the seedlings stopped bending, showing the tip detects light."
+   },
+   {
+    "prompt": "What does the professor imply when he says the plant is growing unevenly?",
+    "options": [
+     "The bending results from cells growing at different rates.",
+     "Plants that grow unevenly are usually unhealthy.",
+     "Plants move their stems by contracting certain cells.",
+     "Uneven growth happens only in grass seedlings."
+    ],
+    "answer": 0,
+    "explanation": "Cells on the shaded side stretch more than those on the sunny side, so the stem curves."
+   }
+  ]
+ },
+ {
+  "id": "at1-05",
+  "difficulty": "intermediate",
+  "course": "environmental science",
+  "intro": "Listen to a talk in an environmental science class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Let's turn to something many of you have probably felt without knowing the name for it. Have you ever noticed that a city feels hotter than the countryside around it, especially at night? That's called the urban heat island effect, and on some evenings a city can be several degrees warmer than nearby farmland. So why does this happen? There are a few reasons. First, think about the materials. Asphalt, concrete, and dark rooftops absorb a lot of sunlight during the day and store it as heat. Then, after sunset, they slowly release that heat back into the air, which is why the difference is often biggest at night. Second, cities have fewer trees and less exposed soil. In the countryside, plants release water vapor through their leaves, and that process cools the air, a bit like sweating cools your skin. Third, there's heat from cars, air conditioners, and factories. Now, the good news is that cities can fight back. Some are planting more street trees. Others are painting rooftops white or light gray so they reflect sunlight instead of absorbing it. Some cities have even tested lighter-colored pavement on a few streets, and surface temperatures there dropped noticeably. So small design choices can add up.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why cities are often warmer than nearby areas and how to reduce this",
+     "How air conditioners have changed the climate of cities",
+     "Why farmland is cooler during the day than at night",
+     "How city planners choose materials for new streets"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains the causes of the urban heat island effect and ways cities can lessen it."
+   },
+   {
+    "prompt": "According to the professor, why is the temperature difference often greatest at night?",
+    "options": [
+     "Plants in the countryside stop releasing water vapor.",
+     "Traffic in cities usually increases in the evening.",
+     "Cities receive more sunlight late in the day.",
+     "Building materials release stored heat after sunset."
+    ],
+    "answer": 3,
+    "explanation": "She says asphalt, concrete, and rooftops store heat during the day and release it after sunset."
+   },
+   {
+    "prompt": "What does the professor say plants do that helps cool the air?",
+    "options": [
+     "They absorb heat that is stored in the soil.",
+     "They block the wind from reaching the ground.",
+     "They release water vapor through their leaves.",
+     "They reflect sunlight back into the sky."
+    ],
+    "answer": 2,
+    "explanation": "The professor states that plants release water vapor through their leaves, which cools the air."
+   },
+   {
+    "prompt": "Why does the professor mention sweating?",
+    "options": [
+     "To explain why people feel uncomfortable in cities",
+     "To compare a cooling process in plants to one in the body",
+     "To show that water vapor raises the air temperature",
+     "To suggest that people in cities need to drink more water"
+    ],
+    "answer": 1,
+    "explanation": "She likens plants releasing water vapor to sweat cooling a person's skin."
+   }
+  ]
+ },
+ {
+  "id": "at1-06",
+  "difficulty": "intermediate",
+  "course": "biology",
+  "intro": "Listen to a talk in a biology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "So, honeybees have a problem. A single forager might find a great patch of flowers a kilometer or more from the hive. How does she tell her sisters where it is? She can't exactly draw a map. Well, she dances. Specifically, she does what's called the waggle dance. Back inside the dark hive, she runs in a straight line across the honeycomb, shaking her body from side to side, then circles back and repeats it, again and again. The other bees crowd around and follow her movements. Now, here's the clever part. The direction of that straight run tells the others which way to fly. If she runs straight up the comb, that means fly directly toward the sun. If she runs at an angle, say, forty degrees to the right of straight up, the food is forty degrees to the right of the sun. And the length of the waggle run tells them distance. A longer waggle means the flowers are farther away. What's remarkable is that bees adjust the angle as the sun moves across the sky during the day. So the dance isn't fixed. It's updated. Researchers figured much of this out by moving feeding stations around and watching how the dances changed.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How honeybees choose which flowers to visit",
+     "How honeybees communicate the location of food",
+     "Why honeybees build their hives in dark places",
+     "How researchers train honeybees to find feeding stations"
+    ],
+    "answer": 1,
+    "explanation": "The professor explains how the waggle dance tells other bees the direction and distance of food."
+   },
+   {
+    "prompt": "According to the professor, what does the length of the waggle run indicate?",
+    "options": [
+     "How far away the food is",
+     "How much food is available",
+     "Which direction to fly in",
+     "What kind of flowers were found"
+    ],
+    "answer": 0,
+    "explanation": "The professor says a longer waggle means the flowers are farther away."
+   },
+   {
+    "prompt": "What does a bee communicate by running straight up the comb?",
+    "options": [
+     "The food is directly above the hive.",
+     "The food is very close to the hive.",
+     "The food is directly away from the sun.",
+     "The food is in the direction of the sun."
+    ],
+    "answer": 3,
+    "explanation": "Running straight up the comb tells the other bees to fly directly toward the sun."
+   },
+   {
+    "prompt": "What can be inferred about the waggle dance?",
+    "options": [
+     "Bees perform the dance only when the sun is high in the sky.",
+     "Only older bees in the hive are able to understand the dance.",
+     "The same food source can produce different dances at different times of day.",
+     "The dance is much less accurate for food that is far away."
+    ],
+    "answer": 2,
+    "explanation": "Because bees adjust the angle as the sun moves, the dance for one location changes over the day."
+   }
+  ]
+ },
+ {
+  "id": "at1-07",
+  "difficulty": "advanced",
+  "course": "chemistry",
+  "intro": "Listen to a talk in a chemistry class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Now, I want to look at something so ordinary we almost never question it: ice floats. For almost any other substance, the solid form is denser than the liquid, so the solid sinks. Solid wax sinks in melted wax, for instance. Water breaks that pattern, and the reason comes down to hydrogen bonding. A water molecule is bent, with the oxygen carrying a slight negative charge and the hydrogens a slight positive charge. So neighboring molecules attract each other. In liquid water, those hydrogen bonds are constantly breaking and re-forming, which lets molecules crowd fairly close together. But when water freezes, each molecule locks into bonds with four neighbors in a rigid, open, hexagonal arrangement. That structure has a lot of empty space in it, so ice ends up roughly nine percent less dense than liquid water. Here's why that matters beyond the chemistry lab. When a lake freezes in winter, the ice forms on top and acts as an insulating layer. The water underneath stays liquid, and fish and other organisms survive. Now, imagine the reverse. If ice sank, lakes would freeze from the bottom up, layer after layer, and many might freeze solid. So this one odd property of a small molecule has enormous consequences for life on Earth.",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the talk?",
+    "options": [
+     "To compare the freezing points of water and several other liquids",
+     "To describe how hydrogen bonds form between different kinds of molecules",
+     "To explain why ice is less dense than liquid water and why this matters",
+     "To show how lakes are affected by seasonal changes in temperature"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains the hydrogen-bonded structure that makes ice float and its importance for life in lakes."
+   },
+   {
+    "prompt": "According to the professor, what happens to water molecules when water freezes?",
+    "options": [
+     "They move closer together than they are in liquid water.",
+     "They lock into an open structure that contains a lot of space.",
+     "They lose the slight electrical charges they carry.",
+     "They break the hydrogen bonds with their neighbors."
+    ],
+    "answer": 1,
+    "explanation": "She says freezing locks each molecule into a rigid, open hexagonal arrangement with much empty space."
+   },
+   {
+    "prompt": "What does the professor say ice does for a frozen lake?",
+    "options": [
+     "It insulates the water below it.",
+     "It adds oxygen to the water below it.",
+     "It reflects heat back into the lake.",
+     "It causes the lake bottom to freeze first."
+    ],
+    "answer": 0,
+    "explanation": "The professor states that ice forms on top and acts as an insulating layer, keeping the water beneath liquid."
+   },
+   {
+    "prompt": "Why does the professor mention wax?",
+    "options": [
+     "To show that some solids are less dense than water",
+     "To illustrate how hydrogen bonds form in solid substances",
+     "To explain why wax and water do not mix with each other",
+     "To give an example of the usual relationship between a solid and its liquid"
+    ],
+    "answer": 3,
+    "explanation": "Solid wax sinking in melted wax illustrates the normal pattern that water breaks."
+   }
+  ]
+ },
+ {
+  "id": "at1-08",
+  "difficulty": "advanced",
+  "course": "ecology",
+  "intro": "Listen to a talk in an ecology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Today I want to introduce the idea of a keystone species. The term comes from architecture. In a stone arch, the keystone is the wedge-shaped piece at the very top, and if you pull it out, the whole arch collapses. Ecologists borrowed that image for species whose effect on an ecosystem is far larger than their numbers would suggest. The classic example is the sea otter along the Pacific coast of North America. Sea otters eat sea urchins, and sea urchins eat kelp, the giant seaweed that forms underwater forests. Now, during the eighteenth and nineteenth centuries, otters were hunted almost to extinction for their fur. And what happened? With their main predator gone, urchin populations exploded, and they grazed the kelp down to bare rock. Researchers have a name for these places: urchin barrens. When otters were protected and returned to some areas, urchin numbers dropped and kelp forests came back, along with the fish, crabs, and other animals that depend on them. So notice what's going on here. Otters don't eat kelp at all, yet they determine whether kelp forests exist. That's an indirect effect passing down through a food chain, and ecologists call it a trophic cascade. It's also a reminder that removing one species can reshape an entire community in ways nobody predicted.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why sea otters were hunted during the eighteenth and nineteenth centuries",
+     "How kelp forests recover after being damaged by severe storms",
+     "Why sea urchins are considered a keystone species by ecologists",
+     "How one predator can indirectly determine the structure of an ecosystem"
+    ],
+    "answer": 3,
+    "explanation": "The professor uses sea otters to explain keystone species and how they shape ecosystems through a trophic cascade."
+   },
+   {
+    "prompt": "Why does the professor describe a stone arch?",
+    "options": [
+     "To compare the shape of kelp to a building structure",
+     "To show how ecologists build models of food chains",
+     "To explain the origin of a term used in ecology",
+     "To describe how sea otters break open urchin shells"
+    ],
+    "answer": 2,
+    "explanation": "He explains that the term keystone species was borrowed from the keystone of an arch."
+   },
+   {
+    "prompt": "According to the professor, what happened when sea otters nearly disappeared?",
+    "options": [
+     "Kelp forests grew larger because there was less grazing.",
+     "Sea urchins multiplied and destroyed large areas of kelp.",
+     "Fish and crabs began feeding mainly on sea urchins.",
+     "Sea urchins moved from the coast into deeper waters."
+    ],
+    "answer": 1,
+    "explanation": "Without otters, urchin populations exploded and grazed kelp down to bare rock."
+   },
+   {
+    "prompt": "What is a trophic cascade?",
+    "options": [
+     "An indirect effect that passes through several levels of a food chain",
+     "A sudden decline in the number of predators in an area",
+     "A process in which kelp forests spread into new areas",
+     "The replacement of one predator by another in an ecosystem"
+    ],
+    "answer": 0,
+    "explanation": "The professor defines a trophic cascade as an indirect effect passing down through a food chain."
+   }
+  ]
+ },
+ {
+  "id": "at1-09",
+  "difficulty": "advanced",
+  "course": "physics",
+  "intro": "Listen to a talk in a physics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So here's a question children ask all the time, and plenty of adults can't answer: why is the sky blue? Sunlight looks white, but it's really a mixture of all the colors, each with a different wavelength. Red light has the longest wavelengths we can see, and violet and blue have the shortest. Now, when sunlight enters the atmosphere, it runs into gas molecules, mostly nitrogen and oxygen, which are far smaller than the wavelength of the light. Those tiny molecules scatter light in all directions, but not equally. Shorter wavelengths are scattered much more strongly than longer ones. Blue light, for instance, is scattered several times more than red light. This is called Rayleigh scattering. So wherever you look in the sky, you're seeing blue light that's been bounced toward you from all over. Okay, but if violet is scattered even more, why isn't the sky violet? Partly because sunlight contains less violet to begin with, and partly because our eyes are much less sensitive to it. Now, the same physics explains sunsets. When the sun is low, its light travels through far more atmosphere to reach you. By then, most of the blue has been scattered away from your line of sight, leaving mostly the reds and oranges.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why sunlight is made up of many different colors",
+     "How the scattering of light by air explains the color of the sky",
+     "How the human eye detects different wavelengths of light",
+     "Why nitrogen and oxygen are common in the atmosphere"
+    ],
+    "answer": 1,
+    "explanation": "The professor explains Rayleigh scattering and how it produces blue skies and red sunsets."
+   },
+   {
+    "prompt": "According to the professor, which light is scattered most strongly by gas molecules?",
+    "options": [
+     "Light with long wavelengths",
+     "Light that enters at sunset",
+     "Light with short wavelengths",
+     "Light reflected from the ground"
+    ],
+    "answer": 2,
+    "explanation": "She says shorter wavelengths are scattered much more strongly than longer ones."
+   },
+   {
+    "prompt": "What is one reason the professor gives for why the sky does not look violet?",
+    "options": [
+     "Violet light is absorbed by oxygen molecules.",
+     "Violet light has longer wavelengths than blue light.",
+     "Violet light is scattered less than blue light.",
+     "Human eyes are not very sensitive to violet light."
+    ],
+    "answer": 3,
+    "explanation": "She explains that sunlight has less violet and that our eyes are much less sensitive to it."
+   },
+   {
+    "prompt": "What can be inferred about the sky at sunset?",
+    "options": [
+     "The light reaching the viewer has lost much of its blue.",
+     "Gas molecules scatter red light more strongly in the evening.",
+     "The atmosphere becomes thinner when the sun is low.",
+     "Sunlight contains more red light late in the day."
+    ],
+    "answer": 0,
+    "explanation": "Light at sunset passes through more air, so most blue is scattered away before it reaches the viewer."
+   }
+  ]
+ },
+ {
+  "id": "at1-10",
+  "difficulty": "advanced",
+  "course": "earth science",
+  "intro": "Listen to a talk in an earth science class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Let's talk about one of the most valuable archives in climate science, and it isn't stored in a library. It's stored in ice. In places like Antarctica and Greenland, snow falls and never fully melts. Each year's snow gets buried by the next, and gradually the weight compresses it into solid ice. So if you drill straight down, you pull up a cylinder, an ice core, that's essentially a timeline, with older ice the deeper you go. Some Antarctic cores reach back around eight hundred thousand years. Now, what can we actually learn from them? Two things in particular. First, as snow turns to ice, it traps tiny bubbles of air. Those bubbles are samples of the ancient atmosphere, so we can measure how much carbon dioxide was in the air at different times. Second, the ice itself records temperature. Water molecules come in slightly heavier and lighter forms, called isotopes, and the ratio between them in snow depends on how cold it was when the snow formed. Put those two records side by side, and you find that carbon dioxide levels and temperature rose and fell together across many glacial cycles. Of course, there are complications. Near the bottom, ice can flow and fold, scrambling the layers. So researchers have to choose drilling sites very carefully.",
+  "questions": [
+   {
+    "prompt": "What is the main topic of the talk?",
+    "options": [
+     "Why snow in polar regions never fully melts",
+     "How carbon dioxide becomes trapped in ocean water",
+     "How ice cores provide information about past climate",
+     "Why drilling in Antarctica is difficult and expensive"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains how ice cores record past atmospheric carbon dioxide and temperature."
+   },
+   {
+    "prompt": "According to the professor, what do the air bubbles in ice cores reveal?",
+    "options": [
+     "The temperature at the time the snow fell",
+     "The exact age of each layer of ice",
+     "The speed at which the ice sheet moved",
+     "The amount of carbon dioxide in the ancient atmosphere"
+    ],
+    "answer": 3,
+    "explanation": "He says the bubbles are samples of ancient air, so scientists can measure past carbon dioxide levels."
+   },
+   {
+    "prompt": "How do scientists estimate past temperatures from ice?",
+    "options": [
+     "By measuring the ratio of heavier and lighter forms of water",
+     "By counting the number of air bubbles in each layer",
+     "By measuring how deeply each layer of ice is buried",
+     "By comparing the thickness of the yearly snow layers"
+    ],
+    "answer": 0,
+    "explanation": "The ratio of heavier and lighter water isotopes depends on how cold it was when the snow formed."
+   },
+   {
+    "prompt": "Why does the professor mention that ice near the bottom can flow and fold?",
+    "options": [
+     "To show that ice cores cannot exceed a certain length",
+     "To explain why the oldest layers may be harder to interpret",
+     "To suggest that Greenland ice is more useful than Antarctic ice",
+     "To explain how air bubbles become trapped in the ice"
+    ],
+    "answer": 1,
+    "explanation": "Flowing and folding scrambles the deepest, oldest layers, which complicates reading the record."
+   }
+  ]
+ },
+ {
+  "id": "at1-11",
+  "difficulty": "advanced",
+  "course": "plant biology",
+  "intro": "Listen to a talk in a plant biology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Okay, so when you walk through a forest, you see individual trees, each one apparently standing on its own. But underground, a lot of those trees are connected. The connection comes from fungi. Most plants form partnerships with fungi called mycorrhizae. The fungus wraps around or even grows into the plant's roots, and then sends out incredibly fine threads, called hyphae, far into the soil. Those threads are much thinner than roots, so they can reach water and nutrients, especially phosphorus, that roots can't get to. The fungus passes those nutrients to the plant, and in return, the plant supplies the fungus with sugars it makes through photosynthesis. Now, here's where it gets interesting. A single fungus can link to several trees at once, sometimes trees of different species. Experiments using carbon labeled so it can be traced have shown that carbon can move from one tree to another through these fungal links. Some researchers have argued that large, older trees support shaded seedlings this way. I'd be careful with that interpretation, though. How much carbon actually moves in a natural forest, and whether it really helps the receiving tree, is still debated. What's well established is the basic trade: nutrients for sugar. The bigger network story is promising, but it's not settled.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How trees in a forest compete with one another for sunlight",
+     "How fungi break down dead plant material on the forest floor",
+     "Why phosphorus is one of the most essential nutrients for plant growth",
+     "Underground partnerships between fungi and plants and the networks they may form"
+    ],
+    "answer": 3,
+    "explanation": "The professor describes mycorrhizal partnerships and the possible networks linking trees."
+   },
+   {
+    "prompt": "According to the professor, what does the plant provide to the fungus?",
+    "options": [
+     "Sugars produced through photosynthesis",
+     "Water absorbed from deep in the soil",
+     "Phosphorus taken up by its roots",
+     "Protection from other kinds of fungi"
+    ],
+    "answer": 0,
+    "explanation": "She says the plant supplies the fungus with sugars it makes through photosynthesis."
+   },
+   {
+    "prompt": "Why are hyphae able to reach nutrients that roots cannot?",
+    "options": [
+     "They grow deeper than any root system.",
+     "They are much thinner than roots.",
+     "They produce chemicals that dissolve rock.",
+     "They connect to several trees at once."
+    ],
+    "answer": 1,
+    "explanation": "The professor says hyphae are much thinner than roots, so they reach water and nutrients roots cannot."
+   },
+   {
+    "prompt": "What is the professor's attitude toward the idea that older trees support seedlings through fungal networks?",
+    "options": [
+     "She believes it has been clearly demonstrated.",
+     "She thinks it has been completely disproven.",
+     "She thinks it is interesting but not yet proven.",
+     "She thinks it applies only to trees of one species."
+    ],
+    "answer": 2,
+    "explanation": "She calls the network story promising but says it is still debated and not settled."
+   }
+  ]
+ },
+ {
+  "id": "at1-12",
+  "difficulty": "advanced",
+  "course": "astronomy",
+  "intro": "Listen to a talk in an astronomy class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Have you ever noticed that we always see the same face of the Moon? The craters and dark patches are always in the same places. Now, that might make you think the Moon doesn't rotate at all. But it does. It rotates exactly once for every orbit around Earth, about twenty-seven days, so the same side always faces us. This is called tidal locking, and it isn't a coincidence. Here's how it happens. Earth's gravity pulls more strongly on the near side of the Moon than on the far side, and that stretches the Moon slightly, creating two bulges. Early in its history, the Moon spun faster than it does now. As it rotated, those bulges kept getting carried slightly ahead of the line between Earth and the Moon, and Earth's gravity kept tugging them back. That tug acted like a brake. Over millions of years, the Moon's spin slowed until it matched its orbit, and at that point, the bulges stayed lined up and the braking stopped. And the Moon isn't the only body affected. The same process is slowly acting on Earth, too. Our days are getting longer by a tiny fraction of a second each century. In fact, many moons in the solar system are tidally locked to their planets. So what we see in our own sky is actually a very common outcome.",
+  "questions": [
+   {
+    "prompt": "What is the main topic of the talk?",
+    "options": [
+     "Why the same side of the Moon always faces Earth",
+     "How the Moon's craters and dark patches formed",
+     "Why the Moon takes about twenty-seven days to orbit Earth",
+     "How the Moon's gravity causes ocean tides on Earth"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains tidal locking, which keeps one side of the Moon facing Earth."
+   },
+   {
+    "prompt": "According to the professor, what creates the bulges on the Moon?",
+    "options": [
+     "The Moon's fast rotation early in its history",
+     "Earth's gravity pulling unevenly on the near and far sides",
+     "Impacts from objects that also created craters",
+     "The Sun's gravity acting on the Moon's far side"
+    ],
+    "answer": 1,
+    "explanation": "He says Earth pulls more strongly on the near side than the far side, stretching the Moon into two bulges."
+   },
+   {
+    "prompt": "What does the professor say about Earth's rotation?",
+    "options": [
+     "It now matches the Moon's orbit.",
+     "It speeds up slightly each century.",
+     "It is no longer affected by the Moon.",
+     "It is gradually slowing down."
+    ],
+    "answer": 3,
+    "explanation": "He notes that Earth's days are getting longer by a tiny fraction of a second each century."
+   },
+   {
+    "prompt": "What does the professor imply about tidal locking?",
+    "options": [
+     "It happened to the Moon suddenly, in a single event.",
+     "It can easily be reversed if a moon's orbit changes.",
+     "It is a common result of gravitational interaction between bodies.",
+     "It is rare and very difficult for scientists to explain."
+    ],
+    "answer": 2,
+    "explanation": "He says many moons are tidally locked, so the Moon's case is a very common outcome."
+   }
+  ]
+ }
+]

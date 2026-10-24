@@ -1,0 +1,692 @@
+[
+ {
+  "id": "ap3-01",
+  "difficulty": "intermediate",
+  "title": "The Spacing Effect",
+  "discipline": "Psychology",
+  "passage": "For more than a century, psychologists have known that when people study matters as much as how long they study. In early experiments, researchers asked participants to memorize lists of unfamiliar syllables. Some participants reviewed the material in one long session, while others divided the same amount of practice across several days. When tested later, the second group remembered far more. This pattern, known as the spacing effect, has since been confirmed with vocabulary, historical facts, motor skills, and even the procedures used by medical trainees.\n\nWhy should spreading out practice be so helpful? One explanation focuses on forgetting. When a learner returns to material after a delay, some of it has begun to fade, so recalling it requires effort. That effort appears to strengthen the memory more than an easy review would. In contrast, repeating information that is still fresh in mind feels productive but adds little lasting benefit.\n\nDespite this evidence, many students continue to cram before exams. Part of the reason is that cramming often works in the short term: a student who studies intensively the night before may perform reasonably well the next morning. The weakness of this approach becomes apparent only weeks later, when much of the information has disappeared. Because learners rarely notice what they have lost, they tend to underestimate the value of spacing.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what did early experiments on memory show?",
+    "options": [
+     "Participants learned unfamiliar syllables faster than familiar words.",
+     "Participants who studied in one long session remembered more.",
+     "Participants forgot syllables more slowly than historical facts.",
+     "Participants who spread practice over several days remembered more."
+    ],
+    "answer": 3,
+    "explanation": "The passage states that the group dividing practice across several days remembered far more when tested later."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention the procedures used by medical trainees?",
+    "options": [
+     "To argue that medical training requires more practice than other fields",
+     "To explain why early experiments used lists of unfamiliar syllables",
+     "To show that the spacing effect applies to many kinds of learning",
+     "To suggest that motor skills are harder to learn than vocabulary"
+    ],
+    "answer": 2,
+    "explanation": "Medical procedures appear in a list of varied materials for which the spacing effect has been confirmed."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"fade\" in the passage is closest in meaning to",
+    "options": [
+     "spread",
+     "return",
+     "weaken",
+     "change"
+    ],
+    "answer": 2,
+    "explanation": "Material that has begun to fade after a delay has started to weaken in memory."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 2 about reviewing material?",
+    "options": [
+     "A review that feels easy may do less for memory than one that feels hard.",
+     "Learners should avoid reviewing material they have partly forgotten.",
+     "Once information begins to fade, it can no longer be relearned.",
+     "Effortful recall is helpful mainly for learning motor skills."
+    ],
+    "answer": 0,
+    "explanation": "The paragraph says effortful recall strengthens memory more than an easy review, which feels productive but adds little."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, why do many students continue to cram?",
+    "options": [
+     "Cramming can lead to acceptable results on an exam the next day.",
+     "Cramming has been shown to improve memory over several weeks.",
+     "Teachers usually advise students to study intensively before exams.",
+     "Students notice clearly how much they forget after spaced study."
+    ],
+    "answer": 0,
+    "explanation": "The passage explains that cramming often works in the short term, so a student may do reasonably well the next morning."
+   }
+  ]
+ },
+ {
+  "id": "ap3-02",
+  "difficulty": "intermediate",
+  "title": "Anchoring and Price",
+  "discipline": "Economics",
+  "passage": "Traditional economic models assume that buyers judge a product's value by comparing its price with the benefits it offers. Research in behavioral economics, however, suggests that people's sense of what something is worth can be shaped by numbers that have little to do with the product itself. This tendency is called anchoring: an initial figure serves as a reference point, and later judgments are adjusted from it, usually not far enough.\n\nIn a typical laboratory study, participants are first asked whether they would pay a certain amount for an item, such as a bottle of olive oil or a textbook, and then asked to state the most they would actually pay. When the first amount is high, the final answers tend to be high as well, even when participants are told that the initial number was chosen at random. The anchor, in other words, influences decisions even when people know it is meaningless.\n\nRetailers have long made use of this effect. A store may display an expensive model next to a moderately priced one, not because it expects to sell many of the costly items, but because the high price makes the second option seem reasonable. Similarly, a tag showing an \"original\" price beside a sale price invites shoppers to evaluate the discount rather than the actual cost.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what do traditional economic models assume about buyers?",
+    "options": [
+     "They compare a product's price with the benefits it provides.",
+     "They rely mainly on the first price they happen to see.",
+     "They prefer products that are offered at a discount.",
+     "They judge value by comparing prices across many stores."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 states that traditional models assume buyers compare a product's price with its benefits."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"adjusted\" in the passage is closest in meaning to",
+    "options": [
+     "ignored",
+     "announced",
+     "doubled",
+     "modified"
+    ],
+    "answer": 3,
+    "explanation": "Judgments that are adjusted from a reference point are modified, or changed somewhat, from it."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about participants in the study who were first shown a low amount?",
+    "options": [
+     "They probably refused to name any maximum price for the item.",
+     "They probably realized that the first amount had been chosen at random.",
+     "They probably named lower maximum prices than those shown a high amount.",
+     "They probably named the same prices as those shown a high amount."
+    ],
+    "answer": 2,
+    "explanation": "Since high anchors led to high final answers, low anchors would be expected to lead to lower ones."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention an expensive model displayed next to a moderately priced one?",
+    "options": [
+     "To show that stores earn most of their profit from costly items",
+     "To explain why shoppers usually prefer the most expensive option",
+     "To contrast laboratory findings with the behavior of real stores",
+     "To give an example of how sellers take advantage of anchoring"
+    ],
+    "answer": 3,
+    "explanation": "The display is an illustration of retailers using a high price as an anchor so a second option seems reasonable."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, a tag showing an \"original\" price encourages shoppers to",
+    "options": [
+     "compare the item with similar products in other stores",
+     "focus on the size of the discount instead of the actual cost",
+     "assume that the product was of higher quality than before",
+     "wait until the price falls further before deciding to buy"
+    ],
+    "answer": 1,
+    "explanation": "The passage says such a tag invites shoppers to evaluate the discount rather than the actual cost."
+   }
+  ]
+ },
+ {
+  "id": "ap3-03",
+  "difficulty": "intermediate",
+  "title": "The Strength of Weak Ties",
+  "discipline": "Sociology",
+  "passage": "When people look for work, they often turn to their closest friends and relatives for help. It might seem reasonable to expect that these strong ties would be the most useful sources of job information. Yet a well-known sociological study of professional workers in the 1970s found something surprising: most respondents who had found jobs through personal contacts had heard about the opening from acquaintances, people they saw only occasionally, rather than from close friends.\n\nSociologists explain this pattern by looking at the structure of social networks. Close friends tend to know one another and to move in the same circles, so the information they possess largely overlaps with what a person already knows. Acquaintances, by contrast, belong to different groups. They work for other employers, live in other neighborhoods, and hear news that would not otherwise reach the job seeker. Weak ties therefore act as bridges between otherwise separate clusters of people.\n\nThis idea has influenced research far beyond the job market. Studies of how new products, rumors, and innovations spread have shown that weak ties often carry information across a community more quickly than strong ties do. The insight suggests that a person's usefulness to others may depend less on the closeness of a relationship than on his or her position in a network.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what did the study of professional workers find?",
+    "options": [
+     "Many jobs found through contacts were learned about from acquaintances.",
+     "Most workers found their jobs without any help from personal contacts.",
+     "Close friends were the most common source of information about jobs.",
+     "Relatives were more helpful than friends in finding professional jobs."
+    ],
+    "answer": 0,
+    "explanation": "The study found that most respondents who used contacts heard about openings from acquaintances rather than close friends."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"overlaps\" in the passage is closest in meaning to",
+    "options": [
+     "contradicts",
+     "replaces",
+     "explains",
+     "partly duplicates"
+    ],
+    "answer": 3,
+    "explanation": "Information that overlaps with what a person already knows partly duplicates that knowledge."
+   },
+   {
+    "type": "relationship",
+    "prompt": "How does paragraph 2 relate to paragraph 1?",
+    "options": [
+     "It presents evidence that contradicts the study in paragraph 1.",
+     "It offers an explanation for the finding described in paragraph 1.",
+     "It describes a second study that repeated the one in paragraph 1.",
+     "It gives advice to the job seekers mentioned in paragraph 1."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 explains, using network structure, why acquaintances were more useful than close friends."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a person whose friends all know one another well?",
+    "options": [
+     "The person will probably find a job faster than other job seekers.",
+     "The person's friends are likely to work for many different employers.",
+     "The person may learn about fewer new opportunities from those friends.",
+     "The person has no need to rely on acquaintances for information."
+    ],
+    "answer": 2,
+    "explanation": "Because tightly connected friends share the same information, they are less likely to bring the person news from outside the group."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 3, research on weak ties has studied the spread of all of the following EXCEPT",
+    "options": [
+     "new products",
+     "rumors",
+     "family traditions",
+     "innovations"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 3 mentions products, rumors, and innovations, but not family traditions."
+   }
+  ]
+ },
+ {
+  "id": "ap3-04",
+  "difficulty": "intermediate",
+  "title": "Streetcar Suburbs",
+  "discipline": "Urban Studies",
+  "passage": "Before the late nineteenth century, most American cities were compact. Because the majority of residents traveled on foot, homes, shops, and workplaces had to be located within a short walk of one another, and wealthy and working families often lived on the same crowded streets. The introduction of electric streetcars in the late 1880s changed this arrangement dramatically.\n\nStreetcars could carry passengers several miles in the time it once took to walk a single mile. Developers quickly recognized the opportunity. They purchased inexpensive farmland at the edge of the city, built streetcar lines out to it, and sold house lots to families eager to escape the noise and congestion of the center. Because riders needed to walk to the nearest stop, these new neighborhoods took a distinctive shape: narrow strips of housing stretched along the tracks, with small stores clustered at the stops.\n\nThe streetcar suburbs also contributed to a sorting of urban populations. A daily fare that was affordable for a clerk might be too expensive for a factory laborer, so outer neighborhoods tended to attract middle-class households, while poorer workers remained closer to the industrial core. In this way, a new transportation technology reshaped not only the physical form of cities but also their social geography.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why were most cities compact before the late nineteenth century?",
+    "options": [
+     "Wealthy families preferred to live near their workplaces.",
+     "Most residents had to walk wherever they went.",
+     "Land at the edge of cities was too costly to buy.",
+     "City governments limited how far streets could extend."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 explains that because most residents traveled on foot, everything had to be within a short walk."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"congestion\" in the passage is closest in meaning to",
+    "options": [
+     "pollution",
+     "danger",
+     "expense",
+     "crowding"
+    ],
+    "answer": 3,
+    "explanation": "The congestion of the city center refers to its crowding."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 2 about the developers?",
+    "options": [
+     "They profited because streetcar access made cheap land more valuable.",
+     "They built streetcar lines mainly to serve existing farm families.",
+     "They lost money because few families wanted to leave the center.",
+     "They were required by cities to build stores at every streetcar stop."
+    ],
+    "answer": 0,
+    "explanation": "Developers bought inexpensive farmland, connected it by streetcar, and sold lots to eager families, implying a profit."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, why did streetcar neighborhoods form narrow strips along the tracks?",
+    "options": [
+     "Developers could only afford to buy small pieces of land.",
+     "Stores refused to open far from the city's industrial core.",
+     "Farmland at the edge of cities was divided into long fields.",
+     "Residents needed to live within walking distance of a stop."
+    ],
+    "answer": 3,
+    "explanation": "The passage says the strips formed because riders needed to walk to the nearest stop."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention a clerk and a factory laborer?",
+    "options": [
+     "To illustrate how the cost of fares helped separate residents by income",
+     "To show that most streetcar riders worked in offices or factories",
+     "To explain why stores clustered at the stops along streetcar lines",
+     "To compare working conditions in different parts of the city"
+    ],
+    "answer": 0,
+    "explanation": "The example shows that fares affordable to the middle class but not to laborers sorted neighborhoods by income."
+   }
+  ]
+ },
+ {
+  "id": "ap3-05",
+  "difficulty": "intermediate",
+  "title": "Learning by Teaching",
+  "discipline": "Education",
+  "passage": "Peer tutoring programs are usually created to help students who are having difficulty with a subject. Over the past several decades, however, education researchers have noticed that the tutors themselves frequently benefit as much as the students they assist. In some studies, tutors showed greater improvement on later tests than their tutees did, even though they had begun with a stronger understanding of the material.\n\nSeveral factors seem to account for this result. Preparing to teach encourages students to organize information more carefully than they would if they were studying only for themselves. They anticipate questions, look for clear examples, and identify gaps in their own knowledge. Explaining a concept aloud also forces tutors to put vague ideas into precise words, and when a tutee is confused, the tutor must find a second or third way of presenting the same point.\n\nInterestingly, some of the benefit appears even before any teaching occurs. In laboratory experiments, students who were told they would later teach a passage to someone else remembered it better than students who expected only to take a test on it, although both groups studied for the same amount of time. Simply adopting the mindset of a teacher, it seems, changes the way people process new information.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what have education researchers noticed about peer tutoring?",
+    "options": [
+     "Tutees usually improve more quickly than their tutors.",
+     "Tutors often benefit as much as the students they help.",
+     "Tutoring works best when tutors and tutees are equally skilled.",
+     "Tutoring programs rarely help students with real difficulties."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 states that tutors frequently benefit as much as the students they assist."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 2, students preparing to teach do all of the following EXCEPT",
+    "options": [
+     "anticipate questions they may be asked",
+     "look for clear examples to use",
+     "memorize the textbook word for word",
+     "identify gaps in their own knowledge"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2 lists anticipating questions, finding examples, and identifying gaps, but not word-for-word memorization."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"vague\" in the passage is closest in meaning to",
+    "options": [
+     "incorrect",
+     "familiar",
+     "unclear",
+     "complex"
+    ],
+    "answer": 2,
+    "explanation": "Vague ideas are unclear ones, which tutors must turn into precise words."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention students who were told they would later teach a passage?",
+    "options": [
+     "To show that expecting to teach can improve learning before any teaching",
+     "To show that taking a test is a poor way to measure what students learn",
+     "To argue that tutors should spend more time studying than their tutees",
+     "To explain why confused tutees need several different explanations"
+    ],
+    "answer": 0,
+    "explanation": "The experiment supports the claim that some of the benefit appears even before any teaching occurs."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the two groups of students in the laboratory experiments?",
+    "options": [
+     "The group expecting a test had stronger knowledge of the subject at first.",
+     "The difference in their memory was not caused by different study times.",
+     "Both groups actually taught the passage to other students afterward.",
+     "The group expecting to teach studied for a longer period of time."
+    ],
+    "answer": 1,
+    "explanation": "Because both groups studied for the same amount of time, study time cannot explain the difference in recall."
+   }
+  ]
+ },
+ {
+  "id": "ap3-06",
+  "difficulty": "advanced",
+  "title": "From Pidgin to Creole",
+  "discipline": "Linguistics",
+  "passage": "When speakers of mutually unintelligible languages come into sustained contact, for instance through trade or plantation labor, they sometimes develop a simplified means of communication known as a pidgin. A pidgin typically draws most of its vocabulary from one dominant language, while its grammar is drastically reduced: verbs may lack tense endings, nouns may lack plural markers, and word order tends to be rigid. Crucially, a pidgin has no native speakers; it is a second language used for limited purposes.\n\nThe situation changes when children are raised in a community where a pidgin is the principal shared language. Exposed to input that is inconsistent and incomplete, these children do not merely reproduce what they hear. Instead, within one or two generations, they elaborate it into a fully expressive language, termed a creole, with systematic ways of marking time, aspect, and complex sentence structure.\n\nThis transformation has attracted scholarly interest because it seems to offer a window onto the human capacity for language. Some linguists have argued that the striking grammatical similarities among creoles that arose independently reflect an innate blueprint that children impose when their input is impoverished. Others contend that these resemblances can be traced to the languages spoken by the original adult populations, whose structures were carried over into the new varieties. The debate remains unresolved, partly because historical records of early creole communities are often sparse.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, which of the following is true of a pidgin?",
+    "options": [
+     "It takes its vocabulary equally from all the languages in contact.",
+     "It is used as a second language rather than learned from birth.",
+     "It has a more flexible word order than the languages it comes from.",
+     "It is used for the full range of purposes in a community."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 states that a pidgin has no native speakers and is a second language used for limited purposes."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"elaborate\" in the passage is closest in meaning to",
+    "options": [
+     "expand",
+     "abandon",
+     "imitate",
+     "simplify"
+    ],
+    "answer": 0,
+    "explanation": "Children elaborate a pidgin by expanding it into a fully expressive language."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 2 about children raised in a pidgin-speaking community?",
+    "options": [
+     "They usually learn the dominant language instead of the community's pidgin.",
+     "They acquire language more slowly than children in other communities do.",
+     "They reproduce the pidgin of their parents without making any changes.",
+     "They create grammatical patterns that were absent from the speech around them."
+    ],
+    "answer": 3,
+    "explanation": "Because the input is inconsistent and incomplete yet the children develop systematic grammar, they must add structure not present in what they hear."
+   },
+   {
+    "type": "relationship",
+    "prompt": "In paragraph 3, how does the second view of creole similarities differ from the first?",
+    "options": [
+     "It denies that creoles in different places share any grammatical features.",
+     "It claims that creoles develop more slowly than the first view suggests.",
+     "It relies on detailed historical records that the first view ignores.",
+     "It credits the influence of earlier languages rather than an inborn capacity."
+    ],
+    "answer": 3,
+    "explanation": "The first view points to an innate blueprint, while the second traces similarities to the original adults' languages."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, why has the debate about creoles not been settled?",
+    "options": [
+     "Linguists disagree about the definition of a pidgin.",
+     "Few creole languages are still spoken by children today.",
+     "Records of early creole communities are often limited.",
+     "Creoles that arose independently share no common features."
+    ],
+    "answer": 2,
+    "explanation": "The passage says the debate is unresolved partly because historical records of early creole communities are sparse."
+   }
+  ]
+ },
+ {
+  "id": "ap3-07",
+  "difficulty": "advanced",
+  "title": "The Obligations of the Gift",
+  "discipline": "Anthropology",
+  "passage": "In many societies, the exchange of gifts is far more than an expression of personal generosity. Early twentieth-century anthropologists, comparing accounts from Polynesia, Melanesia, and northwestern North America, argued that gifts are embedded in a system of three interlocking obligations: the obligation to give, the obligation to receive, and the obligation to reciprocate. Refusing a gift, in this view, is not a neutral act but a rejection of the social relationship it proposes, and failing to return one in due course can bring a loss of standing.\n\nA celebrated example comes from the islands off the eastern tip of New Guinea, where men traditionally undertook long canoe voyages to exchange shell necklaces and armbands with partners on other islands. The objects had little practical use, and no participant kept them permanently; necklaces circulated in one direction around the ring of islands and armbands in the other. What the exchange produced, rather, was a durable web of partnerships that also facilitated more ordinary trade and cooperation.\n\nSuch cases have led scholars to distinguish gift economies from market exchange. In a market transaction, payment settles the account, and buyer and seller owe each other nothing further. A gift, by contrast, deliberately leaves something unsettled. The lingering sense of obligation is precisely what binds the parties together, so that an immediate and exactly equivalent return might even be regarded as an insult.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, how is refusing a gift viewed in the system described?",
+    "options": [
+     "As a rejection of the relationship that the gift offers",
+     "As a neutral act that has no social consequences",
+     "As a polite way of avoiding a future obligation",
+     "As a sign that the gift was not valuable enough"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 says refusing a gift is not neutral but a rejection of the social relationship it proposes."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author describe the canoe voyages to exchange necklaces and armbands?",
+    "options": [
+     "To show that island societies depended on shell objects for survival",
+     "To illustrate an exchange valued chiefly for the relationships it created",
+     "To explain how island traders set prices for ordinary goods",
+     "To argue that the three obligations apply only to Melanesia"
+    ],
+    "answer": 1,
+    "explanation": "The objects had little practical use; what the exchange produced was a lasting web of partnerships."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 2, all of the following are true of the shell objects EXCEPT",
+    "options": [
+     "They had little practical use for the people who held them.",
+     "They were not kept permanently by any single participant.",
+     "Necklaces and armbands moved in opposite directions.",
+     "They were usually traded for food and other practical goods."
+    ],
+    "answer": 3,
+    "explanation": "The passage says the objects themselves had little practical use and circulated; it does not say they were traded for practical goods."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"durable\" in the passage is closest in meaning to",
+    "options": [
+     "visible",
+     "complicated",
+     "temporary",
+     "lasting"
+    ],
+    "answer": 3,
+    "explanation": "A durable web of partnerships is one that is lasting."
+   },
+   {
+    "type": "inference",
+    "prompt": "Why might an immediate and exactly equivalent return gift be regarded as an insult?",
+    "options": [
+     "It could suggest that the original gift was too costly.",
+     "It could show that the giver did not follow market rules.",
+     "It could imply that the receiver wanted a larger gift.",
+     "It could signal a wish to end the ongoing relationship."
+    ],
+    "answer": 3,
+    "explanation": "Since the lingering obligation binds the parties together, settling it at once would suggest the receiver wants no further tie."
+   }
+  ]
+ },
+ {
+  "id": "ap3-08",
+  "difficulty": "advanced",
+  "title": "The Container Revolution",
+  "discipline": "Business History",
+  "passage": "For centuries, the loading and unloading of cargo ships was one of the most labor-intensive stages of international trade. Goods arrived at the docks in sacks, barrels, crates, and bales of every size, and gangs of workers transferred them piece by piece between ships, warehouses, trucks, and railcars. A vessel might spend nearly as much time in port as at sea, and theft and damage were routine.\n\nThe adoption of standardized steel containers in the 1950s and 1960s transformed this system. Because every box conformed to the same dimensions and corner fittings, it could be lifted by crane directly from a truck to a ship and later onto a train without its contents ever being touched. Loading times fell from days to hours, and losses declined sharply. Achieving these gains, however, required more than the box itself. Ports had to invest heavily in specialized cranes and storage yards, shipping lines had to build new vessels, and competing firms had to agree on common specifications, a process that took years of negotiation.\n\nThe consequences extended well beyond the waterfront. As the cost of moving goods dropped, manufacturers could locate production far from their customers, and supply chains spanning several continents became economically viable. Meanwhile, many older harbors that lacked space for container terminals declined, while new ports emerged where land was plentiful.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, which was a problem with traditional cargo handling?",
+    "options": [
+     "Ships often spent long periods waiting in port.",
+     "Ships were too small to carry goods of every size.",
+     "Warehouses were located too far from the docks.",
+     "Workers refused to handle goods packed in barrels."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 notes that a vessel might spend nearly as much time in port as at sea."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"conformed\" in the passage is closest in meaning to",
+    "options": [
+     "surpassed",
+     "matched",
+     "altered",
+     "ignored"
+    ],
+    "answer": 1,
+    "explanation": "A box that conformed to the same dimensions matched those standard measurements."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author state that achieving these gains \"required more than the box itself\"?",
+    "options": [
+     "To suggest that containers were less efficient than first believed",
+     "To explain why loading times did not change for several decades",
+     "To introduce the investments and agreements containers depended on",
+     "To argue that ports should not have built specialized equipment"
+    ],
+    "answer": 2,
+    "explanation": "The sentence leads into a description of new cranes, vessels, and common specifications that were also needed."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the agreement on common specifications?",
+    "options": [
+     "It was reached quickly because all firms had the same interests.",
+     "Without it, containers might not have fit the same equipment everywhere.",
+     "It made older harbors more competitive than newer ports.",
+     "It required shipping lines to stop building new vessels."
+    ],
+    "answer": 1,
+    "explanation": "Standardization mattered because boxes had to be lifted by the same cranes and carried by trucks, ships, and trains."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, why did some older harbors decline?",
+    "options": [
+     "They could not afford to hire enough workers.",
+     "They were located too far from manufacturers.",
+     "They refused to agree on container specifications.",
+     "They did not have room for container terminals."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 3 says older harbors that lacked space for container terminals declined."
+   }
+  ]
+ },
+ {
+  "id": "ap3-09",
+  "difficulty": "advanced",
+  "title": "Managing the Commons",
+  "discipline": "Economics",
+  "passage": "Economists have long worried about the fate of resources that many people can use but no one owns, such as fishing grounds, grazing land, and groundwater. Because each user captures the full benefit of taking more while the cost of depletion is shared among everyone, individuals have an incentive to overuse the resource even when they recognize that collective restraint would leave them all better off. An influential essay published in 1968 popularized this dilemma as the \"tragedy of the commons\" and concluded that only two remedies were available: dividing the resource into private property or placing it under government regulation.\n\nSubsequent fieldwork complicated this conclusion. Researchers documented numerous communities, from alpine villages that share mountain pastures to coastal groups that manage inshore fisheries, that had sustained common resources for generations without either privatization or central control. These arrangements were not matters of informal goodwill; they rested on designed institutions. Successful communities defined clearly who was entitled to use the resource, allowed users to participate in making and modifying the rules, monitored compliance, and imposed graduated penalties that grew more severe with repeated violations.\n\nThe findings did not show that collective management always succeeds. Self-governance tends to falter when user groups are large, when boundaries are hard to enforce, or when outsiders can exploit the resource. Nonetheless, they demonstrated that the choice between markets and states is not exhaustive.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why do individuals tend to overuse common resources?",
+    "options": [
+     "Each user gains all the benefit of extra use but shares its cost.",
+     "Users do not understand that the resource can be depleted.",
+     "Governments encourage users to take as much as possible.",
+     "Private owners compete with users for the same resource."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 explains that each user captures the full benefit of taking more while depletion costs are shared."
+   },
+   {
+    "type": "relationship",
+    "prompt": "How does paragraph 2 relate to the conclusion of the 1968 essay?",
+    "options": [
+     "It provides additional examples that support the essay's argument.",
+     "It presents evidence that there are more than two possible remedies.",
+     "It explains why government regulation is the most effective remedy.",
+     "It shows that privatization succeeded in alpine villages and fisheries."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 describes communities that managed resources without privatization or central control, challenging the two-remedy claim."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 2, successful communities typically did all of the following EXCEPT",
+    "options": [
+     "define clearly who could use the resource",
+     "apply the same fixed penalty to every violation",
+     "let users help make and change the rules",
+     "monitor whether people followed the rules"
+    ],
+    "answer": 1,
+    "explanation": "The passage says penalties were graduated and grew more severe with repeated violations, not fixed."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"falter\" in the passage is closest in meaning to",
+    "options": [
+     "spread",
+     "persist",
+     "weaken",
+     "begin"
+    ],
+    "answer": 2,
+    "explanation": "Self-governance that tends to falter is likely to weaken or fail under certain conditions."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about the author's view?",
+    "options": [
+     "Community management is always better than privatization or regulation.",
+     "Community management should be considered alongside markets and states.",
+     "Large user groups are the best candidates for self-governance.",
+     "The 1968 essay was correct about every type of shared resource."
+    ],
+    "answer": 1,
+    "explanation": "The author notes limits but concludes that the choice between markets and states is not exhaustive, implying a third option deserves consideration."
+   }
+  ]
+ },
+ {
+  "id": "ap3-10",
+  "difficulty": "advanced",
+  "title": "Change Blindness",
+  "discipline": "Psychology",
+  "passage": "Most people believe that they maintain a detailed and continuous picture of the scene in front of them. Experiments on what psychologists call change blindness suggest that this impression is largely an illusion. In a common laboratory procedure, observers view a photograph that alternates with a slightly altered version, separated by a brief blank screen. Even when the modification is substantial, such as a building vanishing from a skyline, many observers need dozens of cycles before they notice it, and some never do.\n\nThe blank interval is essential. Without it, the change produces a local flicker of motion that draws attention to the altered region. When that signal is masked, observers must compare the two images from memory, and their failures reveal how little of a scene is actually stored. Similar effects occur in everyday settings. In one field study, a researcher asking a pedestrian for directions was replaced by a different person during an interruption, and roughly half of the pedestrians failed to notice the switch.\n\nThese findings have prompted a reconsideration of how vision works. Rather than constructing a complete internal replica of the environment, the visual system may represent only the few objects currently receiving attention, relying on the world itself as an external memory. On this account, the sense of a richly detailed scene arises because information is available the moment we look for it.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what happens in the common laboratory procedure?",
+    "options": [
+     "Observers quickly notice changes once a blank screen appears.",
+     "Many observers need many cycles to detect even a large change.",
+     "Observers detect small changes more easily than large ones.",
+     "Most observers report that the photographs never changed at all."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 states that many observers need dozens of cycles to notice a substantial change, and some never do."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, why is the blank interval essential?",
+    "options": [
+     "It gives observers time to memorize every detail of the scene.",
+     "It prevents observers from seeing the second photograph clearly.",
+     "It allows researchers to measure how long attention lasts.",
+     "It hides the motion signal that would otherwise attract attention."
+    ],
+    "answer": 3,
+    "explanation": "Without the blank, the change produces a flicker of motion that draws attention; the blank masks that signal."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention the field study in which a researcher asked for directions?",
+    "options": [
+     "To show that change blindness also occurs outside the laboratory",
+     "To show that people pay close attention to strangers' faces",
+     "To explain why the blank screen is used in laboratory studies",
+     "To argue that field studies are more reliable than lab studies"
+    ],
+    "answer": 0,
+    "explanation": "The study is introduced with the statement that similar effects occur in everyday settings."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"replica\" in the passage is closest in meaning to",
+    "options": [
+     "copy",
+     "record",
+     "outline",
+     "theory"
+    ],
+    "answer": 0,
+    "explanation": "A complete internal replica of the environment is a complete copy of it."
+   },
+   {
+    "type": "inference",
+    "prompt": "According to the account in paragraph 3, a change is most likely to be noticed when it",
+    "options": [
+     "occurs in a part of the scene the observer has seen before",
+     "happens slowly over a long period of time",
+     "affects an object that the observer is attending to",
+     "involves an object at the edge of the visual field"
+    ],
+    "answer": 2,
+    "explanation": "If vision represents only the objects currently receiving attention, changes to those objects are the ones likely to be detected."
+   }
+  ]
+ }
+]

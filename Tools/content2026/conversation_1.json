@@ -1,0 +1,1123 @@
+[
+ {
+  "id": "cv1-01",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a librarian.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Priya",
+    "gender": "female"
+   },
+   {
+    "role": "librarian",
+    "name": "Mr. Halvorsen",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I requested a book through interlibrary loan about three weeks ago, and it still hasn't arrived. I need it for a paper that's due next Friday."
+   },
+   {
+    "speaker": 1,
+    "text": "Let me look that up. Okay, it's a 1962 study of coastal fishing villages, right? It looks like the lending library flagged it as too fragile to ship."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh no. So I can't get it at all?"
+   },
+   {
+    "speaker": 1,
+    "text": "Not the physical copy, no. But many libraries will scan a chapter or two instead. Do you know which sections you actually need?"
+   },
+   {
+    "speaker": 0,
+    "text": "Really just chapter four. That's where the author describes how the villages shared their boats."
+   },
+   {
+    "speaker": 1,
+    "text": "Then I'll submit a scan request right now. Those usually come back within three or four days, and you'll get a link by email."
+   },
+   {
+    "speaker": 0,
+    "text": "That would be perfect. Thanks so much."
+   },
+   {
+    "speaker": 1,
+    "text": "Sure. And next time, list the chapters you need when you make a request. It speeds things up."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What is the conversation mainly about?",
+    "options": [
+     "Getting the content of a requested book that has not arrived",
+     "Extending the due date of a paper about fishing villages",
+     "Finding a newer study to replace an outdated source",
+     "Paying a fee for a book that was damaged in the mail"
+    ],
+    "answer": 0,
+    "explanation": "The student asks about a delayed interlibrary loan, and the librarian arranges a scan of the chapter she needs."
+   },
+   {
+    "prompt": "Why was the book not sent to the student?",
+    "options": [
+     "Another student had already borrowed it.",
+     "The library does not lend books that old.",
+     "The lending library considered it too fragile.",
+     "Her request was missing the chapter numbers."
+    ],
+    "answer": 2,
+    "explanation": "The librarian says the lending library flagged the book as too fragile to ship."
+   }
+  ]
+ },
+ {
+  "id": "cv1-02",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and an employee at the housing office.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Daniel",
+    "gender": "male"
+   },
+   {
+    "role": "housing office employee",
+    "name": "Ms. Brennan",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I'm in Larkin Hall, room 312. The heater in my room stopped working on Sunday, and it's getting really cold at night."
+   },
+   {
+    "speaker": 1,
+    "text": "I'm sorry about that. Did you submit a maintenance request online?"
+   },
+   {
+    "speaker": 0,
+    "text": "I did, on Monday, but nobody's come by yet."
+   },
+   {
+    "speaker": 1,
+    "text": "Let me check. Okay, I see it. The problem is that your floor uses an older heating system, and the technicians need a special part. It won't arrive until Thursday."
+   },
+   {
+    "speaker": 0,
+    "text": "Thursday? That's three more nights."
+   },
+   {
+    "speaker": 1,
+    "text": "I know. What I can do is lend you a portable heater from our office today. You'd just need to sign it out and return it once the repair is done."
+   },
+   {
+    "speaker": 0,
+    "text": "That'd help a lot. Can I take it now?"
+   },
+   {
+    "speaker": 1,
+    "text": "Yes. Just fill out this short form, and I'll bring one from the back."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "Why does the student go to the housing office?",
+    "options": [
+     "To ask to move to a room on a different floor",
+     "To find out why his broken heater has not been fixed",
+     "To complain about the noise from a heating system",
+     "To submit his first maintenance request in person"
+    ],
+    "answer": 1,
+    "explanation": "He explains that his heater broke and nobody has come to fix it despite his online request."
+   },
+   {
+    "prompt": "What will the woman give the student?",
+    "options": [
+     "A key to a temporary room in another building",
+     "A form to request a refund for his housing fees",
+     "A list of technicians he can contact directly",
+     "A portable heater to use until the repair is done"
+    ],
+    "answer": 3,
+    "explanation": "She offers to lend him a portable heater from the office until the part arrives and the repair is finished."
+   }
+  ]
+ },
+ {
+  "id": "cv1-03",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a professor.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Leila",
+    "gender": "female"
+   },
+   {
+    "role": "professor",
+    "name": "Professor Navarro",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Professor Navarro, do you have a minute? It's about my proposal on urban heat islands."
+   },
+   {
+    "speaker": 1,
+    "text": "Of course. I thought it was a strong proposal. What's on your mind?"
+   },
+   {
+    "speaker": 0,
+    "text": "Well, most of the research I'm reading focuses on huge tropical cities. Could I study our own town instead? It's much smaller, and nobody seems to have looked at it."
+   },
+   {
+    "speaker": 1,
+    "text": "Interesting. The risk, though, is that 'nobody has studied it' can also mean there's no data to work with."
+   },
+   {
+    "speaker": 0,
+    "text": "Actually, the county has recorded surface temperatures at a dozen sites since 2015. I found the files last night."
+   },
+   {
+    "speaker": 1,
+    "text": "Ah, then you're in better shape than most students who ask me that. Send me a one-page revision by Monday explaining how you'll compare the sites, and I'll approve it."
+   },
+   {
+    "speaker": 0,
+    "text": "Great. Should I keep the tropical studies in my literature review?"
+   },
+   {
+    "speaker": 1,
+    "text": "Definitely. They'll give you a baseline, or help you show how a small town differs."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the conversation?",
+    "options": [
+     "The student wants help locating temperature data for her town.",
+     "The professor is explaining why the student's proposal was weak.",
+     "The student wants approval to change the focus of her research.",
+     "The professor is recommending studies of large tropical cities."
+    ],
+    "answer": 2,
+    "explanation": "Leila asks whether she can shift her heat-island project from large tropical cities to her own small town."
+   },
+   {
+    "prompt": "What can be inferred about the professor's first reaction to the student's idea?",
+    "options": [
+     "She worried the student might not find enough evidence.",
+     "She thought the topic had already been studied too often.",
+     "She believed a small town would show no heat-island effect.",
+     "She felt the student was trying to avoid reading research."
+    ],
+    "answer": 0,
+    "explanation": "She warns that an unstudied topic may have no data, and relaxes only after hearing that county temperature records exist."
+   }
+  ]
+ },
+ {
+  "id": "cv1-04",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and his academic advisor.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Marcus",
+    "gender": "male"
+   },
+   {
+    "role": "academic advisor",
+    "name": "Dr. Okafor",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Dr. Okafor, I think I need to drop organic chemistry. I was sick for almost three weeks, and I've fallen way behind."
+   },
+   {
+    "speaker": 1,
+    "text": "I'm sorry to hear that. The withdrawal deadline passed last Friday, though, so you'd have to file a late petition with a doctor's note."
+   },
+   {
+    "speaker": 0,
+    "text": "I can get a note. Is that the only option?"
+   },
+   {
+    "speaker": 1,
+    "text": "Not necessarily. How were you doing before you got sick?"
+   },
+   {
+    "speaker": 0,
+    "text": "Pretty well, actually. I got a B on the first exam, and my lab reports are all done."
+   },
+   {
+    "speaker": 1,
+    "text": "Then you might ask your professor for an incomplete instead. You'd finish the remaining work over the break and keep credit for what you've done. If you withdraw, you'd retake the whole course next year."
+   },
+   {
+    "speaker": 0,
+    "text": "I didn't know that was possible. Do I just email her?"
+   },
+   {
+    "speaker": 1,
+    "text": "Talk to her in person if you can, and bring the doctor's note. Then come back, and we'll file the form together."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What are the speakers mainly discussing?",
+    "options": [
+     "Why the student received a low grade on an exam",
+     "Which chemistry course the student should take next year",
+     "How the student can get a doctor's note for his absence",
+     "How the student should handle a course after missing weeks"
+    ],
+    "answer": 3,
+    "explanation": "The conversation focuses on the student's options for organic chemistry after a long illness put him behind."
+   },
+   {
+    "prompt": "Why does the advisor ask how the student was doing before he got sick?",
+    "options": [
+     "To find out whether the student's illness was serious",
+     "To judge whether an option other than withdrawing makes sense",
+     "To check whether the student had missed the petition deadline",
+     "To decide which professor the student should speak with"
+    ],
+    "answer": 1,
+    "explanation": "Hearing that the student had done well leads the advisor to suggest an incomplete instead of a withdrawal."
+   }
+  ]
+ },
+ {
+  "id": "cv1-05",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a lab assistant.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Hannah",
+    "gender": "female"
+   },
+   {
+    "role": "lab assistant",
+    "name": "Kevin",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I'm working on my independent project, and I'd like to use the spectrophotometer this afternoon. Is it free?"
+   },
+   {
+    "speaker": 1,
+    "text": "It's free from two to four. But first, have you completed the instrument training?"
+   },
+   {
+    "speaker": 0,
+    "text": "I did the general lab safety course in September. Isn't that enough?"
+   },
+   {
+    "speaker": 1,
+    "text": "Unfortunately, no. This machine has its own short training, because the light source can be damaged if it's switched off the wrong way."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh. How long does that take?"
+   },
+   {
+    "speaker": 1,
+    "text": "It's an online module, about thirty minutes, plus a five-question quiz. Once you pass, your name goes on the approved list automatically."
+   },
+   {
+    "speaker": 0,
+    "text": "So if I do it over lunch, I could still come in at two?"
+   },
+   {
+    "speaker": 1,
+    "text": "Exactly. Just write your name on the sign-up sheet by the door so nobody else takes the slot."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What does the student want to do?",
+    "options": [
+     "Use a piece of lab equipment for her project",
+     "Sign up for the general lab safety course",
+     "Ask the lab assistant to check her results",
+     "Change the time of her afternoon lab section"
+    ],
+    "answer": 0,
+    "explanation": "She asks to use the spectrophotometer for her independent project that afternoon."
+   },
+   {
+    "prompt": "Why does the instrument require its own training?",
+    "options": [
+     "It produces results that are hard to interpret.",
+     "Its light can be harmful to a user's eyes.",
+     "Turning it off improperly can damage part of it.",
+     "Only a few students are allowed to reserve it."
+    ],
+    "answer": 2,
+    "explanation": "The lab assistant says the light source can be damaged if the machine is switched off the wrong way."
+   }
+  ]
+ },
+ {
+  "id": "cv1-06",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between two students.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Jamal",
+    "gender": "male"
+   },
+   {
+    "role": "student",
+    "name": "Sofia",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hey Sofia, a few of us are putting together a study group for the statistics midterm. Want to join?"
+   },
+   {
+    "speaker": 1,
+    "text": "Definitely. I'm completely lost on the probability section. When are you meeting?"
+   },
+   {
+    "speaker": 0,
+    "text": "We were thinking Tuesday evenings, starting next week."
+   },
+   {
+    "speaker": 1,
+    "text": "Hmm, I work a part-time job on Tuesday nights. Would weekends work for anyone?"
+   },
+   {
+    "speaker": 0,
+    "text": "Maybe. The others said Sunday afternoons were open, but we couldn't find a place to meet. The coffee shop's way too loud."
+   },
+   {
+    "speaker": 1,
+    "text": "The library has group study rooms with whiteboards. You can reserve them online up to a week ahead."
+   },
+   {
+    "speaker": 0,
+    "text": "Really? That'd be perfect for working through problems. Could you book one?"
+   },
+   {
+    "speaker": 1,
+    "text": "Sure. I'll reserve a room for Sunday at two and send everyone the details tonight."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What are the students mainly discussing?",
+    "options": [
+     "How to solve a difficult probability problem",
+     "Arranging a time and place for a study group",
+     "Whether the statistics midterm will be postponed",
+     "Finding a quieter coffee shop near the campus"
+    ],
+    "answer": 1,
+    "explanation": "They work out when the group can meet and where, settling on a library room on Sunday."
+   },
+   {
+    "prompt": "What will the woman do tonight?",
+    "options": [
+     "Ask her manager to change her work schedule",
+     "Review the probability section of the textbook",
+     "Call the coffee shop to ask about a quiet table",
+     "Send the group information about a reserved room"
+    ],
+    "answer": 3,
+    "explanation": "She says she will reserve a room for Sunday at two and send everyone the details tonight."
+   }
+  ]
+ },
+ {
+  "id": "cv1-07",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a dining services manager.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Grace",
+    "gender": "female"
+   },
+   {
+    "role": "dining services manager",
+    "name": "Ms. Delgado",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I was just diagnosed with celiac disease, so I can't eat gluten. I'm on the full meal plan, and I'm worried I won't find much to eat."
+   },
+   {
+    "speaker": 1,
+    "text": "Thanks for coming to us. You're definitely not the only one. Have you seen the allergen-friendly station in the main dining hall?"
+   },
+   {
+    "speaker": 0,
+    "text": "The one near the salad bar? I thought it was just for nut allergies."
+   },
+   {
+    "speaker": 1,
+    "text": "It's free of the most common food allergens, including wheat. Everything there is cooked in a separate kitchen area, so there's no cross-contact."
+   },
+   {
+    "speaker": 0,
+    "text": "That's a relief. But it closes at seven, and I have a lab until eight on Wednesdays."
+   },
+   {
+    "speaker": 1,
+    "text": "In that case, you can pre-order a gluten-free meal on the dining website by noon, and we'll keep it in a labeled fridge for you to pick up anytime before ten."
+   },
+   {
+    "speaker": 0,
+    "text": "That's so helpful. Thank you."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "Why does the student speak with the woman?",
+    "options": [
+     "She wants to cancel her full meal plan.",
+     "She is applying for a job at the dining hall.",
+     "She needs meals that fit a new dietary restriction.",
+     "She wants to report a problem with the salad bar."
+    ],
+    "answer": 2,
+    "explanation": "Grace explains that she was just diagnosed with celiac disease and is worried about finding gluten-free food."
+   },
+   {
+    "prompt": "What does the woman suggest for Wednesday evenings?",
+    "options": [
+     "Ordering a meal in advance and picking it up later",
+     "Eating at the allergen-friendly station before her lab",
+     "Asking her lab instructor to let her leave at seven",
+     "Bringing her own food to the main dining hall"
+    ],
+    "answer": 0,
+    "explanation": "She suggests pre-ordering a gluten-free meal by noon and picking it up from a labeled fridge before ten."
+   }
+  ]
+ },
+ {
+  "id": "cv1-08",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a career center counselor.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Ethan",
+    "gender": "male"
+   },
+   {
+    "role": "career counselor",
+    "name": "Ms. Whitfield",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Thanks for meeting with me. I'm applying for an education internship at the natural history museum, and I'm not sure my resume is strong enough."
+   },
+   {
+    "speaker": 1,
+    "text": "Let's take a look. Hmm, the first half is mostly courses you've taken. Why did you put those at the top?"
+   },
+   {
+    "speaker": 0,
+    "text": "I figured they'd show I know the science."
+   },
+   {
+    "speaker": 1,
+    "text": "They do, but the posting emphasizes teaching young visitors. Down here, you mention volunteering at a weekend science club for kids. Tell me about that."
+   },
+   {
+    "speaker": 0,
+    "text": "I've done it for two years. I design small experiments, like building rain gauges, and run them for groups of about fifteen children."
+   },
+   {
+    "speaker": 1,
+    "text": "That's exactly what they're looking for, and it's buried at the bottom. Move it up, and describe it the way you just did, with numbers."
+   },
+   {
+    "speaker": 0,
+    "text": "So the coursework should go lower?"
+   },
+   {
+    "speaker": 1,
+    "text": "Keep one line listing your most relevant courses. The experience is what will get you an interview."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the conversation?",
+    "options": [
+     "To decide which museum the student should apply to",
+     "To improve how the student presents his qualifications",
+     "To prepare the student for a job interview next week",
+     "To find a volunteer position that involves teaching"
+    ],
+    "answer": 1,
+    "explanation": "The counselor reviews the student's resume and advises him on how to reorganize it for the internship."
+   },
+   {
+    "prompt": "What does the counselor imply about the student's volunteer work?",
+    "options": [
+     "It should be removed because it is not paid work.",
+     "It would be more impressive if he had done it longer.",
+     "It should be described in a single line of the resume.",
+     "It matters more for this internship than his coursework."
+    ],
+    "answer": 3,
+    "explanation": "She says the volunteer experience is exactly what the museum wants and is what will get him an interview."
+   }
+  ]
+ },
+ {
+  "id": "cv1-09",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a psychology professor.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Ryan",
+    "gender": "male"
+   },
+   {
+    "role": "professor",
+    "name": "Professor Lindqvist",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Professor Lindqvist, I'm worried about my replication project. The original study found that people remembered words better after drawing them, but my results showed no difference."
+   },
+   {
+    "speaker": 1,
+    "text": "That's not necessarily a problem. Plenty of published effects don't hold up when someone repeats the study. Tell me about your participants."
+   },
+   {
+    "speaker": 0,
+    "text": "There were twenty-four, all from the same evening class. Most had been on campus since morning."
+   },
+   {
+    "speaker": 1,
+    "text": "So they might have been tired, and twenty-four is fairly small. Either could hide a real effect, or the effect could be weaker than the original paper claimed."
+   },
+   {
+    "speaker": 0,
+    "text": "Should I recruit more people and run it again?"
+   },
+   {
+    "speaker": 1,
+    "text": "Not before the deadline. Report what you found honestly, and use your discussion section to explain those possible reasons."
+   },
+   {
+    "speaker": 0,
+    "text": "Okay. I guess I thought a result like this meant I'd made a mistake."
+   },
+   {
+    "speaker": 1,
+    "text": "Not at all. A careful result that shows no effect is still evidence."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What is the conversation mainly about?",
+    "options": [
+     "How to interpret a result that differed from the original study",
+     "Why drawing pictures helps people remember new words",
+     "How to recruit more participants from evening classes",
+     "Whether the student can have more time for his project"
+    ],
+    "answer": 0,
+    "explanation": "The student is worried that his replication found no effect, and the professor explains how to understand and report it."
+   },
+   {
+    "prompt": "What is the professor's attitude toward the student's findings?",
+    "options": [
+     "He suspects the student made an error in collecting data.",
+     "He thinks they prove the original study was incorrect.",
+     "He views them as valuable if they are reported carefully.",
+     "He believes they will only be useful after more testing."
+    ],
+    "answer": 2,
+    "explanation": "He tells the student to report the results honestly and says a careful result showing no effect is still evidence."
+   }
+  ]
+ },
+ {
+  "id": "cv1-10",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a technician at the campus computer help desk.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Aiko",
+    "gender": "female"
+   },
+   {
+    "role": "help desk technician",
+    "name": "Luis",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, my laptop suddenly stopped connecting to the campus Wi-Fi. My phone works fine, though."
+   },
+   {
+    "speaker": 1,
+    "text": "Okay. Did anything change recently, like an update or a new password?"
+   },
+   {
+    "speaker": 0,
+    "text": "Well, I had to reset my university password on Tuesday. The system said it had expired."
+   },
+   {
+    "speaker": 1,
+    "text": "That's probably it. Your laptop is still trying to log in with the old password, so the network keeps rejecting it."
+   },
+   {
+    "speaker": 0,
+    "text": "But my phone connected without any problem."
+   },
+   {
+    "speaker": 1,
+    "text": "You probably typed the new password on your phone when it asked. Laptops often don't ask; they just fail quietly. Here, we'll tell your laptop to forget the network and then connect again."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh, now it's asking for my password."
+   },
+   {
+    "speaker": 1,
+    "text": "Right. Type in the new one, and you should be all set."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "Why does the student go to the help desk?",
+    "options": [
+     "Her phone stopped working after an update.",
+     "She forgot her university account password.",
+     "She wants to buy a new laptop for her classes.",
+     "Her laptop cannot connect to the campus network."
+    ],
+    "answer": 3,
+    "explanation": "She says her laptop suddenly stopped connecting to the campus Wi-Fi."
+   },
+   {
+    "prompt": "What caused the problem?",
+    "options": [
+     "The campus network was temporarily down.",
+     "The laptop was still using an old password.",
+     "The laptop needed a software update.",
+     "The student's account had been locked."
+    ],
+    "answer": 1,
+    "explanation": "The technician explains that the laptop kept trying to log in with the expired password."
+   }
+  ]
+ },
+ {
+  "id": "cv1-11",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a financial aid officer.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Omar",
+    "gender": "male"
+   },
+   {
+    "role": "financial aid officer",
+    "name": "Ms. Fairbanks",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I have a work-study job at the library, and the art department just offered me a second position. Can I do both?"
+   },
+   {
+    "speaker": 1,
+    "text": "You can hold two jobs, but your work-study award is a fixed amount for the year. Both paychecks would come out of it, so you'd likely reach the limit by early spring."
+   },
+   {
+    "speaker": 0,
+    "text": "And then I'd have to stop working?"
+   },
+   {
+    "speaker": 1,
+    "text": "In work-study positions, yes, unless your award changes. Has anything changed with your family's finances since you applied?"
+   },
+   {
+    "speaker": 0,
+    "text": "Actually, yes. My father's hours were cut back in August."
+   },
+   {
+    "speaker": 1,
+    "text": "Then you may qualify for a review. Bring documentation of his reduced income, and we'll reconsider your eligibility. I can't promise an increase, but it's worth applying."
+   },
+   {
+    "speaker": 0,
+    "text": "How long does that usually take?"
+   },
+   {
+    "speaker": 1,
+    "text": "About two weeks. In the meantime, don't accept the second job until we know the outcome."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What is the student's main concern?",
+    "options": [
+     "Whether he can be paid more at his library job",
+     "How to apply for a position in the art department",
+     "Whether his financial aid allows him a second job",
+     "Why his work-study paychecks have been delayed"
+    ],
+    "answer": 2,
+    "explanation": "Omar asks whether he can take a second work-study job in addition to his library position."
+   },
+   {
+    "prompt": "Why does the woman ask about the student's family finances?",
+    "options": [
+     "A change in circumstances could increase his award.",
+     "Students with two jobs must report family income.",
+     "She needs to confirm his eligibility for the library job.",
+     "His father's employer must approve the second position."
+    ],
+    "answer": 0,
+    "explanation": "She asks because a change in finances may qualify him for a review that could raise his work-study award."
+   }
+  ]
+ },
+ {
+  "id": "cv1-12",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between two students.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Chloe",
+    "gender": "female"
+   },
+   {
+    "role": "student",
+    "name": "Nadia",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "So, did you register for next semester yet? You were stuck between two courses, right?"
+   },
+   {
+    "speaker": 1,
+    "text": "Still stuck. There's the seminar on water resource management, which is pretty much exactly what I want to study in graduate school. But there's also the coastal ecology field course."
+   },
+   {
+    "speaker": 0,
+    "text": "The one where you spend three weeks at the research station? That sounds amazing."
+   },
+   {
+    "speaker": 1,
+    "text": "It does, but it's a lot of travel, and the seminar seems more practical for my plans."
+   },
+   {
+    "speaker": 0,
+    "text": "Wait, isn't the field course only offered every other year? My roommate said she had to wait for it."
+   },
+   {
+    "speaker": 1,
+    "text": "Hmm, you're right. And I think the seminar runs every semester."
+   },
+   {
+    "speaker": 0,
+    "text": "So you could take the seminar in the fall, but if you skip the field course now, you'd probably graduate without it."
+   },
+   {
+    "speaker": 1,
+    "text": "Good point. Okay, field course it is. I'll sign up tonight before it fills."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What are the students mainly discussing?",
+    "options": [
+     "Which graduate programs Nadia should apply to",
+     "How Chloe's roommate enjoyed the field course",
+     "Why the research station is difficult to reach",
+     "Which of two courses Nadia should take next"
+    ],
+    "answer": 3,
+    "explanation": "The conversation centers on Nadia's choice between a water resource seminar and a coastal ecology field course."
+   },
+   {
+    "prompt": "Why does Nadia finally choose the field course?",
+    "options": [
+     "She decides it fits her graduate plans better.",
+     "She may not get another chance to take it.",
+     "Her roommate strongly recommended it to her.",
+     "The seminar is already full for next semester."
+    ],
+    "answer": 1,
+    "explanation": "Chloe points out that the field course is offered only every other year, while the seminar runs every semester."
+   }
+  ]
+ },
+ {
+  "id": "cv1-13",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a clerk at the campus bookstore.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Victor",
+    "gender": "male"
+   },
+   {
+    "role": "bookstore clerk",
+    "name": "Sam",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I rented this economics textbook here last week, but it turns out it's the wrong edition. Can I exchange it?"
+   },
+   {
+    "speaker": 1,
+    "text": "Let me see. Rental exchanges are usually only allowed within five days, and it's been eight."
+   },
+   {
+    "speaker": 0,
+    "text": "I know, but I rented exactly what the course list said. My professor told us yesterday that she switched to the newer edition."
+   },
+   {
+    "speaker": 1,
+    "text": "Oh, let me check the system. You're right, the list was updated two days ago. That's on our end, then, so we can swap it at no charge."
+   },
+   {
+    "speaker": 0,
+    "text": "Great. Do you have the new one in stock?"
+   },
+   {
+    "speaker": 1,
+    "text": "We've got a few left. Rental or purchase?"
+   },
+   {
+    "speaker": 0,
+    "text": "Rental, please. Same as before."
+   },
+   {
+    "speaker": 1,
+    "text": "Okay, here you go. It's due back on the last day of finals, like the other one."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "Why does the student come to the bookstore?",
+    "options": [
+     "To exchange a textbook he rented",
+     "To sell back a used economics book",
+     "To ask when his rental is due back",
+     "To order a book that is out of stock"
+    ],
+    "answer": 0,
+    "explanation": "He says he rented the wrong edition of a textbook and asks to exchange it."
+   },
+   {
+    "prompt": "Why does the clerk agree to the exchange?",
+    "options": [
+     "The student paid an extra fee for a late exchange.",
+     "The student's professor called the store directly.",
+     "The required edition changed after the student rented it.",
+     "The old edition was damaged when the student got it."
+    ],
+    "answer": 2,
+    "explanation": "The clerk sees that the course list was updated after the rental, so the store takes responsibility."
+   }
+  ]
+ },
+ {
+  "id": "cv1-14",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and an employee at the campus recreation center.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Isabel",
+    "gender": "female"
+   },
+   {
+    "role": "recreation center employee",
+    "name": "Derek",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I'd like to start using the climbing wall. Do I just sign in?"
+   },
+   {
+    "speaker": 1,
+    "text": "For the tall walls, you'll need a belay certification first. That's the class where you learn to handle the rope for your partner."
+   },
+   {
+    "speaker": 0,
+    "text": "Okay. When's the next class?"
+   },
+   {
+    "speaker": 1,
+    "text": "The Saturday morning session is full, unfortunately. But there's one on Thursday evening at six with two spots left."
+   },
+   {
+    "speaker": 0,
+    "text": "Thursday works. Is there a fee?"
+   },
+   {
+    "speaker": 1,
+    "text": "Fifteen dollars, and that covers the harness for the class. In the meantime, you can use the bouldering area without the certification. Those walls are short, and there are thick mats underneath."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh, nice. So I could try that today?"
+   },
+   {
+    "speaker": 1,
+    "text": "Sure. Just sign the waiver at the front desk and grab some climbing shoes."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What does the student want to do?",
+    "options": [
+     "Teach a class on climbing safety",
+     "Begin climbing at the recreation center",
+     "Buy her own harness and climbing shoes",
+     "Find a partner for the Saturday session"
+    ],
+    "answer": 1,
+    "explanation": "She asks how to start using the climbing wall at the recreation center."
+   },
+   {
+    "prompt": "What can the student do before she takes the class?",
+    "options": [
+     "Climb the tall walls with an instructor",
+     "Rent a harness for half the usual price",
+     "Watch the Saturday morning session",
+     "Climb the low walls in the bouldering area"
+    ],
+    "answer": 3,
+    "explanation": "The employee says she can use the bouldering area, which has short walls, without the certification."
+   }
+  ]
+ },
+ {
+  "id": "cv1-15",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a tutor at the campus writing center.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Noah",
+    "gender": "male"
+   },
+   {
+    "role": "writing tutor",
+    "name": "Rebecca",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, my history professor said my thesis is too broad, but I'm not sure how to fix it."
+   },
+   {
+    "speaker": 1,
+    "text": "Let's read it. 'The printing press transformed European society.' Well, she's right. Whole books have been written about that. What did you focus on in your research?"
+   },
+   {
+    "speaker": 0,
+    "text": "Mostly almanacs. They were cheap little books, and almost every household in rural England seemed to have one."
+   },
+   {
+    "speaker": 1,
+    "text": "That's much more specific. What did people use them for?"
+   },
+   {
+    "speaker": 0,
+    "text": "Lots of things: calendars, weather predictions, advice on when to plant crops."
+   },
+   {
+    "speaker": 1,
+    "text": "So what's your argument about them? Remember, a thesis should be something a reader could disagree with."
+   },
+   {
+    "speaker": 0,
+    "text": "I guess that almanacs spread practical knowledge to farmers who never would've read longer books."
+   },
+   {
+    "speaker": 1,
+    "text": "Now that's a thesis. It's narrow, it's debatable, and your sources can actually support it."
+   }
+  ],
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the conversation?",
+    "options": [
+     "To check the accuracy of the student's historical facts",
+     "To find more sources about the history of printing",
+     "To help the student narrow the main argument of his essay",
+     "To explain why almanacs were popular in rural England"
+    ],
+    "answer": 2,
+    "explanation": "The tutor helps Noah replace a very broad thesis with a narrower, debatable one."
+   },
+   {
+    "prompt": "Why does the tutor ask the student what people used almanacs for?",
+    "options": [
+     "To guide him toward forming a specific claim",
+     "To test whether he has read his sources closely",
+     "To suggest that he change his research topic",
+     "To show that almanacs are too minor to study"
+    ],
+    "answer": 0,
+    "explanation": "Her questions lead the student step by step from his research focus to a specific, arguable thesis."
+   }
+  ]
+ }
+]

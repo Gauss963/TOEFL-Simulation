@@ -4,42 +4,42 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
 
 ## Features
 
-- Full-length 2026 sequence: Reading → Listening → Writing → Speaking (about 90 minutes of section time; allow approximately two hours overall with directions and administration)
-- 1,968 unique practice questions, including a 1,800-item expanded offline bank
-- Seeded, stratified form generation so full tests and section practices draw different items while preserving task quotas
-- Official blueprint counts and base timing: 50 / 47 / 12 / 11 items and 30 / 29 / 23 / 8 minutes
-- Two-stage adaptive Reading and Listening with router and lower/upper modules
-- All current task families:
-  - Reading: Complete the Words, Read in Daily Life, Read an Academic Passage
-  - Listening: Listen and Choose a Response, Conversation, Announcement, Academic Talk
-  - Writing: Build a Sentence, Write an Email, Academic Discussion
-  - Speaking: Listen and Repeat, Take an Interview
-- One-prompt audio delivery in full-test mode using native speech synthesis
-- Local microphone recording for Speaking; recordings stay in the system temporary directory
-- Timer, mark/review, section transitions, answer review, and on-device score history
-- 1–6 half-band practice scores, CEFR display, and a comparable 0–120 overall estimate
+- Full-length 2026 sequence: Reading → Listening → Writing → Speaking, with the official item counts on every path (50 / 47 / 12 / 11) and base timing (30 / 29 / 23 / 8 minutes)
+- **Two-stage adaptive Reading and Listening** that follows the ETS technical manual: a router module and a lower or upper second module with 35 scored items per path, plus unscored pretest items (15 in Reading, 12 in Listening) placed inside the modules just like the real test
+- **Real-test timing and navigation**: Reading Module 1 (21 min) and Module 2 (9 min) with Next/Back inside a module; Listening Module 1 (18 min) and Module 2 (11 min), Next only, each recording played once; Writing task clocks (Build a Sentence 6 min, Email 7 min, Academic Discussion 10 min); Speaking paced automatically with no preparation time
+- Task formats matched to the official specifications:
+  - **Complete the Words**: 70–100-word academic paragraphs with an intact first sentence and the second half of every second word removed (10 blanks), answered inline
+  - **Read in Daily Life**: notices, menus, web pages, posts, schedules, emails, text chains, ads, news, forms, invoices, and receipts with 2- or 3-question sets
+  - **Read an Academic Passage**: ~200-word passages with five questions (factual, vocabulary, inference, purpose/relationship)
+  - **Listening**: Listen and Choose a Response, two-speaker conversations (2 questions), 45–85-word announcements (2 questions), and 170–230-word academic talks (4 questions), introduced by a narrator, with speaker visuals
+  - **Build a Sentence**: a first speaker's line and a reply built from word chunks, with fixed words and one distractor
+  - **Write an Email** (scenario + three tasks) and **Academic Discussion** (professor post + two student posts)
+  - **Listen and Repeat**: seven progressively longer sentences in one illustrated scenario, 8–12-second automatic recording windows
+  - **Take an Interview**: one interview scenario with four questions progressing from personal to broader issues, 45 seconds each
+- **Natural multi-voice audio**: every Listening and Speaking recording is pre-rendered with distinct neural voices (North American and British English, female and male, plus a narrator), fully offline
+- **Official-rubric scoring**: Speaking responses are transcribed on this device and scored 0–5 per item (raw 0–55); Email and Academic Discussion are scored 0–5 (Writing raw 0–20 with Build a Sentence); Reading and Listening count scored items only (raw 0–35) with path-aware band conversion
+- Volume control, microphone check before Speaking, and per-item answer review with transcripts, rubric points, and unscored-item labels
+- 1–6 half-band section scores, overall average rounded to the nearest half band, CEFR display, and the comparable 0–120 transition score
 - Searchable 1,375-entry vocabulary bank with manually reviewed Taiwan Traditional Chinese definitions (complete senses, ordered by how often each appears on the 2026 TOEFL iBT) and source filters
 - Browse and Flash Cards modes with shuffled 20/50/100/all-card decks or an **Infinite loop** that keeps recycling missed cards until every card is mastered, persistent mastery progress, natural offline neural pronunciation for every headword, and a `V` play/stop shortcut
 - Light and dark appearance, responsive split-view design, iPad landscape/portrait support
 
 ## Scoring boundary
 
-Reading, Listening, and Build a Sentence are checked against answer keys. Email and Academic Discussion use a disclosed local heuristic based on completion, development, lexical variety, cohesion, and email conventions. Speaking combines recording completion with the learner's 1–5 rubric self-check.
+Reading, Listening, and Build a Sentence are key-scored. For Email and Academic Discussion, a local engine measures the features ETS lists for its writing models (task completion, elaboration, sentence variety, word choice, cohesion, politeness conventions, and spelling) and maps them to the official 0–5 rubric points. Each Speaking response is transcribed with Apple's on-device speech recognizer (audio never leaves the device): Listen and Repeat is scored by word-level accuracy against the sentence following the rubric (exact = 5; meaning kept with minor changes = 4; and so on), and interview answers by relevance, elaboration, speaking rate, pauses, vocabulary, and connectors.
 
-ETS uses secure calibrated test forms and a combination of AI scoring and certified raters for constructed responses. Those models and item parameters are not public. Scores from this app are diagnostic practice estimates, not official TOEFL scores and not admissions predictions.
-
-The overall 1–6 result averages available section bands and rounds to the nearest half band. The comparable 0–120 display uses the midpoint of the ETS transition ranges. A single-section practice report describes only that section.
+ETS combines proprietary AI scoring engines with certified human raters and equates forms with IRT; those models are not public, so the simulator converts raw scores to bands with a disclosed approximation. Scores are practice estimates, not official TOEFL scores.
 
 ## 2026 format basis
 
-| Section | Task types | Items | Approx. base time |
-| --- | --- | ---: | ---: |
-| Reading | Complete the Words; Daily Life; Academic Passage | 50 | 30 min |
-| Listening | Response; Conversation; Announcement; Academic Talk | 47 | 29 min |
-| Writing | Build a Sentence; Email; Academic Discussion | 12 | 23 min |
-| Speaking | Listen and Repeat; Interview | 11 | 8 min |
+| Section | Module / task timing | Items (scored) |
+| --- | --- | ---: |
+| Reading | Module 1: 21 min · Module 2: 9 min | 50 (35) |
+| Listening | Module 1: 18 min · Module 2: 11 min | 47 (35) |
+| Writing | Build a Sentence 6 min · Email 7 min · Discussion 10 min | 12 |
+| Speaking | Listen and Repeat 7 × 8–12 s · Interview 4 × 45 s | 11 |
 
-The official specification describes Reading and Listening as two-stage adaptive and Writing and Speaking as linear. Exact time and item totals may vary on a production form because Reading or Listening can contain unscored pretest items.
+Scored counts per module follow the ETS technical manual (Reading router 20 + module 15; Listening router 20 + module 15). ETS does not publish where unscored items appear, so the simulator places them inside the task blocks so that every path matches the published totals for each task type.
 
 See [SOURCES.md](SOURCES.md) for the official standard and authorized reference inventory.
 
@@ -47,18 +47,18 @@ See [SOURCES.md](SOURCES.md) for the official standard and authorized reference 
 
 ### macOS release
 
-1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.1.1-macOS-Universal.app.zip`.
+1. Open the [latest GitHub release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest) and download `TOEFL-Simulation-1.2.0-macOS-Universal.app.zip`.
 2. Double-click the ZIP file, then move `TOEFL Simulation.app` to the Applications folder.
 3. The downloadable build uses an ad-hoc signature and is not Apple-notarized. The first time you launch it, Control-click the app in Finder and choose **Open**. If macOS still blocks it, open **System Settings → Privacy & Security** and choose **Open Anyway**.
-4. Allow microphone access when prompted if you want to record Speaking responses. Recordings remain local and use the system temporary directory.
+4. Allow microphone and speech-recognition access when the Speaking section asks for them. Recordings and transcription stay on the device; recordings use the system temporary directory.
 
 The Universal build supports both Apple Silicon and Intel Macs running macOS 15.7 or later. The release also includes a SHA-256 file so the downloaded ZIP can be verified.
 
 ### App workflow
 
-- Choose **Full-length 2026 Practice Test** for the four-section simulation, or select a timed Reading, Listening, Writing, or Speaking practice set.
-- Follow the section directions, answer or mark questions, and use Review where that task permits it. Reading and Listening select the second adaptive module after the router is submitted.
-- Speaking prompts play once in full-test mode. Record a response and complete the disclosed self-rating used by the local practice estimate.
+- Choose **Full-length 2026 Practice Test** for the four-section simulation, or run any single section exactly as it appears in the full test.
+- Reading and Listening move from Module 1 to Module 2 automatically when you finish Module 1 or its time runs out; your Module 1 performance chooses the lower or upper module.
+- Listening recordings play once; take notes while you listen. Speaking runs on its own: listen, wait for the tone, and speak until the timer ends.
 - After submission, open the score report to review section bands, adaptive routes, answers, explanations, and the clearly labeled comparable 0–120 estimate.
 - Use **Vocabulary** to browse or search the study bank. Switch to **Flash Cards** to create shuffled decks or choose **Infinite loop** mode, where Know it masters a card and Study again brings it back after about 15–40 other cards (about a quarter of the remaining queue, or at the end of a short queue) so recall is tested after a real delay, until the whole pool is mastered. Hear each word in a natural recorded voice (or press `V` to play/stop); mastery progress stays on the device.
 - Open **Score History** to revisit saved practice reports and per-question review.
@@ -104,11 +104,11 @@ Every push to `main` also runs [Build macOS App](.github/workflows/build-macos-a
 
 `Tools/generate_word_pronunciations.py` pre-renders every headword once with the Apache-2.0 [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) neural voice (`af_heart`), trims silence, encodes 32 kbps mono AAC with macOS `afconvert`, and packs the clips into `WordPronunciations.pack` (about 10 MB) with a byte-range index in `WordPronunciations.json`. Kokoro runs only at build time in a disposable virtual environment (`pip install kokoro soundfile`); the app has no third-party runtime dependency and plays the clips offline with AVFoundation. Words without a bundled clip fall back to the highest-quality installed system voice, and debug launches fail if any headword lacks a clip.
 
-## Question bank generation
+## Question bank and audio generation
 
-`Tools/generate_expanded_question_bank.py` deterministically rebuilds and validates `ExpandedQuestionBank.json`. The generated resource adds 1,800 original practice items: 720 Reading, 600 Listening, 240 Writing, and 240 Speaking. Its topic taxonomy and skill coverage were informed by the owner-authorized reference library, while its form quotas, stimulus lengths, task names, and adaptive routing follow the current ETS 2026 specification.
+`Tools/content2026/` holds the original items written to the ETS 2026 task specifications (academic passages, daily-life texts, talks, conversations, announcements, Build a Sentence items, email tasks, academic discussions, Listen and Repeat scenarios, and interview sets). `Tools/build_toefl_2026_bank.py` turns them into `TOEFL2026Bank.json` (1,854 items with set structure), generates the Complete the Words paragraphs with the official deletion rule, and assigns each speaker a distinct voice. `Tools/generate_exam_audio.py` renders every Listening and Speaking recording with Kokoro-82M voices at build time (`--device mps` uses the Apple GPU) and packs them into `ExamAudio.pack`.
 
-The runtime combines those items with the 168 hand-authored core questions for a 1,968-item bank. Each new exam uses one stable seed throughout the session. Reading and Listening draw a router first, then select a non-overlapping lower or upper module after routing; Writing and Speaking draw linear forms. Debug validation samples 40 deterministic forms across both routes and checks counts, task distributions, answer keys, duplicate IDs, duplicate stimuli, sentence-token integrity, and route difficulty boundaries.
+Each new exam uses one seed throughout the session. Debug validation checks every item's answer key, recording, and Build a Sentence structure, then samples 30 forms on both adaptive paths to confirm 50/47/12/11 items, 35 scored items per adaptive path, and no repeated items.
 
 ## Trademark
 

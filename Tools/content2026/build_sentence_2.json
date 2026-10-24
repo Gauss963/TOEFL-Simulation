@@ -1,0 +1,1054 @@
+[
+ {
+  "id": "bs2-01",
+  "difficulty": "intermediate",
+  "context": "Did you finish the quarterly sales report for your manager?",
+  "template": "No, I ___ ___ ___ ___ it.",
+  "chunks": [
+   "haven't",
+   "had",
+   "time",
+   "to finish"
+  ],
+  "distractor": "has",
+  "explanation": "The present perfect negative \"haven't had\" is followed by the noun \"time\" and an infinitive of purpose, \"to finish.\""
+ },
+ {
+  "id": "bs2-02",
+  "difficulty": "intermediate",
+  "context": "What time does our flight to Denver leave tomorrow?",
+  "template": "I'm not sure ___ ___ ___ ___ .",
+  "chunks": [
+   "when",
+   "the flight",
+   "is scheduled",
+   "to leave"
+  ],
+  "distractor": "does",
+  "explanation": "An embedded question keeps statement word order (subject before verb), so no auxiliary \"does\" is needed."
+ },
+ {
+  "id": "bs2-03",
+  "difficulty": "intermediate",
+  "context": "How is your grandmother doing after her surgery?",
+  "template": "She ___ ___ ___ ___ .",
+  "chunks": [
+   "is recovering",
+   "much faster",
+   "than",
+   "we expected"
+  ],
+  "distractor": "fastest",
+  "explanation": "The comparative \"much faster\" must be followed by \"than\" and the clause \"we expected\"; the superlative \"fastest\" cannot be used with \"than.\""
+ },
+ {
+  "id": "bs2-04",
+  "difficulty": "intermediate",
+  "context": "Why did you stop going to your Saturday pottery class?",
+  "template": "The instructor ___ ___ ___ ___ city.",
+  "chunks": [
+   "who",
+   "taught it",
+   "moved to",
+   "another"
+  ],
+  "distractor": "moving",
+  "explanation": "The relative clause \"who taught it\" describes the instructor, and the main verb \"moved to\" comes after it."
+ },
+ {
+  "id": "bs2-05",
+  "difficulty": "intermediate",
+  "context": "Have you made an appointment with the dentist yet?",
+  "template": "Yes, I ___ ___ ___ ___ Tuesday.",
+  "chunks": [
+   "am going",
+   "to see",
+   "her",
+   "next"
+  ],
+  "distractor": "seeing",
+  "explanation": "\"Be going to\" plus a base verb expresses a future plan, and \"next\" directly modifies \"Tuesday.\""
+ },
+ {
+  "id": "bs2-06",
+  "difficulty": "intermediate",
+  "context": "Did you buy that jacket you were looking at online?",
+  "template": "No, I ___ ___ ___ ___ ___ money.",
+  "chunks": [
+   "decided",
+   "it",
+   "wasn't",
+   "worth",
+   "the"
+  ],
+  "distractor": "worthy",
+  "explanation": "\"Decided\" introduces a clause, and \"worth\" (not \"worthy\") is followed directly by a noun phrase such as \"the money.\""
+ },
+ {
+  "id": "bs2-07",
+  "difficulty": "intermediate",
+  "context": "Why didn't you answer my call this morning?",
+  "template": "My phone ___ ___ ___ ___ .",
+  "chunks": [
+   "battery",
+   "had died",
+   "before",
+   "I woke up"
+  ],
+  "distractor": "dying",
+  "explanation": "The past perfect \"had died\" shows the battery died before another past event, introduced by \"before I woke up.\""
+ },
+ {
+  "id": "bs2-08",
+  "difficulty": "intermediate",
+  "context": "Is the team meeting still happening this afternoon?",
+  "template": "It ___ ___ ___ ___ morning.",
+  "chunks": [
+   "has",
+   "been moved",
+   "to",
+   "Thursday"
+  ],
+  "distractor": "being",
+  "explanation": "The present perfect passive is formed with \"has been\" plus a past participle, so \"being\" does not fit."
+ },
+ {
+  "id": "bs2-09",
+  "difficulty": "intermediate",
+  "context": "Does the hotel near the beach have any rooms left?",
+  "template": "The receptionist ___ ___ ___ ___ ___ booked.",
+  "chunks": [
+   "told",
+   "me",
+   "that they",
+   "were",
+   "fully"
+  ],
+  "distractor": "said",
+  "explanation": "In reported speech, \"told\" takes an object (\"me\") before the \"that\" clause; \"said\" cannot be followed directly by \"me.\""
+ },
+ {
+  "id": "bs2-10",
+  "difficulty": "intermediate",
+  "context": "Does your younger brother still live with your parents?",
+  "template": "He ___ ___ ___ ___ ___ spring.",
+  "chunks": [
+   "has been",
+   "living",
+   "on his own",
+   "since",
+   "last"
+  ],
+  "distractor": "for",
+  "explanation": "The present perfect progressive \"has been living\" pairs with \"since\" plus a point in time; \"for\" needs a length of time."
+ },
+ {
+  "id": "bs2-11",
+  "difficulty": "intermediate",
+  "context": "Are you still taking guitar lessons on weekends?",
+  "template": "I ___ ___ ___ ___ ___ busy.",
+  "chunks": [
+   "gave",
+   "them up",
+   "because",
+   "I was",
+   "too"
+  ],
+  "distractor": "giving",
+  "explanation": "The phrasal verb \"gave them up\" is in the simple past, and the reason clause \"because I was too busy\" follows it."
+ },
+ {
+  "id": "bs2-12",
+  "difficulty": "intermediate",
+  "context": "You look tired. Did you sleep well last night?",
+  "template": "The ___ ___ ___ ___ from sleeping.",
+  "chunks": [
+   "loud music",
+   "from upstairs",
+   "kept",
+   "me"
+  ],
+  "distractor": "keeping",
+  "explanation": "The pattern \"keep someone from doing something\" needs a finite past verb, \"kept,\" after the subject \"the loud music from upstairs.\""
+ },
+ {
+  "id": "bs2-13",
+  "difficulty": "intermediate",
+  "context": "Could you pick up some milk on your way home?",
+  "template": "Sure, do ___ ___ ___ ___ else?",
+  "chunks": [
+   "you",
+   "want",
+   "me to get",
+   "anything"
+  ],
+  "distractor": "getting",
+  "explanation": "In the question \"do you want me to get anything else,\" the verb \"want\" takes an object plus an infinitive, not a gerund."
+ },
+ {
+  "id": "bs2-14",
+  "difficulty": "intermediate",
+  "context": "Can you help me install this software on my laptop?",
+  "template": "I ___ ___ ___ ___ ___ either.",
+  "chunks": [
+   "don't",
+   "know",
+   "how",
+   "to install",
+   "it"
+  ],
+  "distractor": "installing",
+  "explanation": "\"Know how\" is followed by an infinitive (\"to install\"), not a gerund."
+ },
+ {
+  "id": "bs2-15",
+  "difficulty": "intermediate",
+  "context": "Have you met the new designer on our team yet?",
+  "template": "Yes, she ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "seems",
+   "very",
+   "easy",
+   "to work",
+   "with"
+  ],
+  "distractor": "working",
+  "explanation": "After \"easy,\" English uses an infinitive (\"to work with\"), and the preposition \"with\" ends the phrase."
+ },
+ {
+  "id": "bs2-16",
+  "difficulty": "intermediate",
+  "context": "Do you know where you put your passport?",
+  "template": "I ___ ___ ___ ___ ___ desk.",
+  "chunks": [
+   "must",
+   "have left",
+   "it",
+   "at the",
+   "front"
+  ],
+  "distractor": "having",
+  "explanation": "The modal perfect \"must have left\" expresses a confident guess about the past; \"having\" cannot follow \"must.\""
+ },
+ {
+  "id": "bs2-17",
+  "difficulty": "intermediate",
+  "context": "What are you planning for your parents' anniversary?",
+  "template": "We ___ ___ ___ ___ ___ party.",
+  "chunks": [
+   "are going",
+   "to surprise",
+   "them",
+   "with a",
+   "dinner"
+  ],
+  "distractor": "surprising",
+  "explanation": "\"Are going\" is followed by the infinitive \"to surprise,\" then the object \"them\" and \"with a dinner party.\""
+ },
+ {
+  "id": "bs2-18",
+  "difficulty": "intermediate",
+  "context": "When did you start painting landscapes?",
+  "template": "I ___ ___ ___ ___ ___ mountains.",
+  "chunks": [
+   "became",
+   "interested",
+   "in it",
+   "after visiting",
+   "the"
+  ],
+  "distractor": "interesting",
+  "explanation": "A person \"becomes interested in\" something; the \"-ing\" adjective \"interesting\" describes the thing, not the person."
+ },
+ {
+  "id": "bs2-19",
+  "difficulty": "intermediate",
+  "context": "Is your doctor happy with your progress?",
+  "template": "She ___ ___ ___ ___ ___ day.",
+  "chunks": [
+   "told",
+   "me",
+   "to keep",
+   "walking",
+   "every"
+  ],
+  "distractor": "said",
+  "explanation": "\"Told\" takes an object and an infinitive (\"told me to keep\"), and \"keep\" is followed by a gerund (\"walking\")."
+ },
+ {
+  "id": "bs2-20",
+  "difficulty": "intermediate",
+  "context": "Were you able to return the broken blender?",
+  "template": "Yes, but ___ ___ ___ ___ ___ hour.",
+  "chunks": [
+   "they",
+   "made",
+   "me",
+   "wait for",
+   "an"
+  ],
+  "distractor": "to wait",
+  "explanation": "The causative \"made\" is followed by an object and a bare infinitive (\"made me wait\"), not \"to wait.\""
+ },
+ {
+  "id": "bs2-21",
+  "difficulty": "intermediate",
+  "context": "Why can't you log in to your email account?",
+  "template": "I ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "can't",
+   "remember",
+   "which",
+   "password",
+   "I used"
+  ],
+  "distractor": "remembering",
+  "explanation": "After the modal \"can't,\" the base form \"remember\" is required, followed by the embedded question \"which password I used.\""
+ },
+ {
+  "id": "bs2-22",
+  "difficulty": "intermediate",
+  "context": "Why is Daniel leaving the office early today?",
+  "template": "He ___ ___ ___ ___ position.",
+  "chunks": [
+   "is",
+   "being",
+   "interviewed",
+   "for a new"
+  ],
+  "distractor": "been",
+  "explanation": "The present progressive passive is \"is being\" plus a past participle; \"is been\" is not grammatical."
+ },
+ {
+  "id": "bs2-23",
+  "difficulty": "intermediate",
+  "context": "Should we take the train or drive to the coast?",
+  "template": "Taking ___ ___ ___ ___ ___ relaxing.",
+  "chunks": [
+   "the train",
+   "would",
+   "be",
+   "much",
+   "more"
+  ],
+  "distractor": "most",
+  "explanation": "The gerund phrase \"taking the train\" is the subject, and \"much more relaxing\" is a comparative, so \"most\" does not fit."
+ },
+ {
+  "id": "bs2-24",
+  "difficulty": "intermediate",
+  "context": "Do your children help with the housework?",
+  "template": "They ___ ___ ___ ___ ___ rooms.",
+  "chunks": [
+   "are",
+   "expected",
+   "to clean",
+   "their",
+   "own"
+  ],
+  "distractor": "cleaning",
+  "explanation": "The passive \"are expected\" is followed by an infinitive (\"to clean\"), and \"their own\" modifies \"rooms.\""
+ },
+ {
+  "id": "bs2-25",
+  "difficulty": "intermediate",
+  "context": "Who taught you to play chess so well?",
+  "template": "My grandfather ___ ___ ___ ___ ___ seven.",
+  "chunks": [
+   "taught",
+   "me",
+   "when",
+   "I",
+   "was"
+  ],
+  "distractor": "learned",
+  "explanation": "\"Taught\" takes a personal object (\"taught me\"); \"learned\" cannot be followed by \"me\" in this sense."
+ },
+ {
+  "id": "bs2-26",
+  "difficulty": "intermediate",
+  "context": "Why aren't you eating any of the cake?",
+  "template": "I'm ___ ___ ___ ___ ___ it.",
+  "chunks": [
+   "allergic",
+   "to the",
+   "nuts",
+   "that are",
+   "in"
+  ],
+  "distractor": "allergy",
+  "explanation": "The adjective \"allergic\" (not the noun \"allergy\") is followed by \"to,\" and the relative clause \"that are in it\" identifies the nuts."
+ },
+ {
+  "id": "bs2-27",
+  "difficulty": "intermediate",
+  "context": "Is the furniture store still having its big sale?",
+  "template": "No, the ___ ___ ___ ___ ___ go.",
+  "chunks": [
+   "sale",
+   "ended",
+   "before",
+   "I",
+   "could"
+  ],
+  "distractor": "been",
+  "explanation": "The time clause \"before I could go\" needs the modal \"could\" plus the base verb \"go.\""
+ },
+ {
+  "id": "bs2-28",
+  "difficulty": "intermediate",
+  "context": "What does that new device in your kitchen do?",
+  "template": "It ___ ___ ___ ___ voice.",
+  "chunks": [
+   "lets",
+   "me control",
+   "the lights",
+   "with my"
+  ],
+  "distractor": "to control",
+  "explanation": "\"Let\" is followed by an object and a bare infinitive (\"lets me control\"), never \"to control.\""
+ },
+ {
+  "id": "bs2-29",
+  "difficulty": "intermediate",
+  "context": "When does the client need the final design?",
+  "template": "They ___ ___ ___ ___ ___ Friday.",
+  "chunks": [
+   "asked",
+   "us",
+   "to send",
+   "it",
+   "by"
+  ],
+  "distractor": "sending",
+  "explanation": "\"Ask\" takes an object plus an infinitive (\"asked us to send\"), and \"by Friday\" gives the deadline."
+ },
+ {
+  "id": "bs2-30",
+  "difficulty": "intermediate",
+  "context": "What happened to your suitcase at the airport?",
+  "template": "It ___ ___ ___ ___ ___ mistake.",
+  "chunks": [
+   "was sent",
+   "to",
+   "the wrong",
+   "city",
+   "by"
+  ],
+  "distractor": "sending",
+  "explanation": "The simple past passive \"was sent\" is followed by the destination \"to the wrong city\" and the phrase \"by mistake.\""
+ },
+ {
+  "id": "bs2-31",
+  "difficulty": "intermediate",
+  "context": "Are you going to your cousin's wedding next month?",
+  "template": "I ___ ___ ___ ___ anything.",
+  "chunks": [
+   "wouldn't",
+   "miss",
+   "it",
+   "for"
+  ],
+  "distractor": "missing",
+  "explanation": "The modal \"wouldn't\" requires the base form \"miss,\" and the idiom is \"wouldn't miss it for anything.\""
+ },
+ {
+  "id": "bs2-32",
+  "difficulty": "intermediate",
+  "context": "Your tomato plants look amazing this year.",
+  "template": "Thanks, I ___ ___ ___ ___ ___ morning.",
+  "chunks": [
+   "have",
+   "been",
+   "watering",
+   "them",
+   "every"
+  ],
+  "distractor": "watered",
+  "explanation": "The present perfect progressive is \"have been\" plus an \"-ing\" verb, so \"watered\" does not fit."
+ },
+ {
+  "id": "bs2-33",
+  "difficulty": "intermediate",
+  "context": "Did the pharmacist explain how to take the medicine?",
+  "template": "Yes, I ___ ___ ___ ___ ___ day.",
+  "chunks": [
+   "should",
+   "take",
+   "it",
+   "twice",
+   "a"
+  ],
+  "distractor": "taking",
+  "explanation": "The modal \"should\" requires the base form \"take,\" and the frequency phrase is \"twice a day.\""
+ },
+ {
+  "id": "bs2-34",
+  "difficulty": "intermediate",
+  "context": "Has your online order arrived yet?",
+  "template": "No, the ___ ___ ___ ___ yet.",
+  "chunks": [
+   "package",
+   "hasn't",
+   "been",
+   "delivered"
+  ],
+  "distractor": "being",
+  "explanation": "The present perfect passive is \"hasn't been delivered\"; \"hasn't being\" is ungrammatical."
+ },
+ {
+  "id": "bs2-35",
+  "difficulty": "intermediate",
+  "context": "Why did the video call keep freezing?",
+  "template": "The ___ ___ ___ ___ ___ it.",
+  "chunks": [
+   "internet connection",
+   "was",
+   "too slow",
+   "to",
+   "handle"
+  ],
+  "distractor": "handling",
+  "explanation": "The pattern \"too + adjective + to + base verb\" requires \"to handle,\" not a gerund."
+ },
+ {
+  "id": "bs2-36",
+  "difficulty": "advanced",
+  "context": "Do you know why the conference was canceled?",
+  "template": "The organizers ___ ___ ___ ___ ___ off.",
+  "chunks": [
+   "didn't",
+   "explain",
+   "why",
+   "it had",
+   "been called"
+  ],
+  "distractor": "was",
+  "explanation": "The embedded question \"why it had been called off\" uses statement order and the past perfect passive, leaving no place for \"was.\""
+ },
+ {
+  "id": "bs2-37",
+  "difficulty": "advanced",
+  "context": "Was it stressful getting your visa approved before the trip?",
+  "template": "I ___ ___ ___ ___ ___ sooner.",
+  "chunks": [
+   "wish",
+   "I had",
+   "applied",
+   "for",
+   "it"
+  ],
+  "distractor": "have",
+  "explanation": "To express regret about the past, \"wish\" is followed by the past perfect (\"I had applied\")."
+ },
+ {
+  "id": "bs2-38",
+  "difficulty": "advanced",
+  "context": "Why didn't your sister come to the family reunion?",
+  "template": "She ___ ___ ___ ___ ___ ___ work.",
+  "chunks": [
+   "said",
+   "she",
+   "couldn't",
+   "get",
+   "time off",
+   "from"
+  ],
+  "distractor": "told",
+  "explanation": "In reported speech, \"said\" can introduce a clause directly, but \"told\" would need a listener as its object."
+ },
+ {
+  "id": "bs2-39",
+  "difficulty": "advanced",
+  "context": "How did your first marathon go last weekend?",
+  "template": "It ___ ___ ___ ___ ___ ___ done.",
+  "chunks": [
+   "was",
+   "harder",
+   "than",
+   "anything",
+   "I had",
+   "ever"
+  ],
+  "distractor": "hardest",
+  "explanation": "The comparative \"harder than\" introduces \"anything I had ever done\"; the superlative \"hardest\" cannot be followed by \"than.\""
+ },
+ {
+  "id": "bs2-40",
+  "difficulty": "advanced",
+  "context": "Have you gotten the results of your blood test?",
+  "template": "I'm ___ ___ ___ ___ ___ normal.",
+  "chunks": [
+   "still waiting",
+   "to find out",
+   "whether",
+   "everything",
+   "is"
+  ],
+  "distractor": "does",
+  "explanation": "The embedded question \"whether everything is normal\" uses the linking verb \"is\" in statement order; \"does\" has no place."
+ },
+ {
+  "id": "bs2-41",
+  "difficulty": "advanced",
+  "context": "Can I still get my washing machine repaired for free?",
+  "template": "That's ___ ___ ___ ___ ___ warranty.",
+  "chunks": [
+   "only possible",
+   "if",
+   "the damage",
+   "is covered",
+   "by the"
+  ],
+  "distractor": "covering",
+  "explanation": "The conditional clause uses the passive \"is covered by the warranty,\" so the active \"-ing\" form does not fit."
+ },
+ {
+  "id": "bs2-42",
+  "difficulty": "advanced",
+  "context": "Why does that app on your phone look so different today?",
+  "template": "The developers ___ ___ ___ ___ ___ overnight.",
+  "chunks": [
+   "must",
+   "have released",
+   "a",
+   "major",
+   "update"
+  ],
+  "distractor": "had",
+  "explanation": "The modal perfect \"must have released\" expresses a logical conclusion about the past; \"must had\" is ungrammatical."
+ },
+ {
+  "id": "bs2-43",
+  "difficulty": "advanced",
+  "context": "Does your company allow employees to work from home?",
+  "template": "Our manager ___ ___ ___ ___ ___ ___ to.",
+  "chunks": [
+   "lets",
+   "us",
+   "work",
+   "from home",
+   "whenever",
+   "we need"
+  ],
+  "distractor": "to work",
+  "explanation": "\"Let\" takes an object plus a bare infinitive (\"lets us work\"), and the clause \"whenever we need to\" ends the sentence."
+ },
+ {
+  "id": "bs2-44",
+  "difficulty": "advanced",
+  "context": "Excuse me, could you tell me how to get to the museum?",
+  "template": "Sorry, I ___ ___ ___ ___ ___ located.",
+  "chunks": [
+   "have",
+   "no idea",
+   "where",
+   "the museum",
+   "is"
+  ],
+  "distractor": "does",
+  "explanation": "The embedded question \"where the museum is located\" keeps statement order and uses a passive form, so \"does\" is not possible."
+ },
+ {
+  "id": "bs2-45",
+  "difficulty": "advanced",
+  "context": "Who usually does the cooking in your family?",
+  "template": "It's ___ ___ ___ ___ ___ cooking.",
+  "chunks": [
+   "my father",
+   "who",
+   "does",
+   "most",
+   "of the"
+  ],
+  "distractor": "whom",
+  "explanation": "In this cleft sentence the relative pronoun is the subject of \"does,\" so \"who\" is required, not the object form \"whom.\""
+ },
+ {
+  "id": "bs2-46",
+  "difficulty": "advanced",
+  "context": "Your photos from the lake are beautiful. What camera did you use?",
+  "template": "They ___ ___ ___ ___ ___ ___ year.",
+  "chunks": [
+   "were all",
+   "taken",
+   "with",
+   "the phone",
+   "I bought",
+   "last"
+  ],
+  "distractor": "took",
+  "explanation": "The passive \"were all taken\" needs the past participle, not the past tense \"took,\" and the reduced relative clause \"I bought last year\" describes the phone."
+ },
+ {
+  "id": "bs2-47",
+  "difficulty": "advanced",
+  "context": "How did you hurt your ankle?",
+  "template": "I ___ ___ ___ ___ ___ ___ stairs.",
+  "chunks": [
+   "twisted",
+   "it",
+   "when",
+   "I slipped",
+   "on the",
+   "wet"
+  ],
+  "distractor": "slips",
+  "explanation": "Both clauses describe a finished past event, so the main verb \"twisted\" and the time clause \"when I slipped\" are in the simple past."
+ },
+ {
+  "id": "bs2-48",
+  "difficulty": "advanced",
+  "context": "Have you decided what to buy for Emma's birthday?",
+  "template": "I ___ ___ ___ ___ ___ ___ get.",
+  "chunks": [
+   "can't",
+   "decide",
+   "which",
+   "of the",
+   "two scarves",
+   "to"
+  ],
+  "distractor": "deciding",
+  "explanation": "After \"can't,\" the base form \"decide\" is needed, followed by the infinitive question phrase \"which of the two scarves to get.\""
+ },
+ {
+  "id": "bs2-49",
+  "difficulty": "advanced",
+  "context": "Is the office printer on the second floor working again?",
+  "template": "It ___ ___ ___ ___ ___ technician.",
+  "chunks": [
+   "still needs",
+   "to be",
+   "repaired",
+   "by",
+   "a"
+  ],
+  "distractor": "repairing",
+  "explanation": "\"Needs\" is followed by the passive infinitive \"to be repaired,\" and \"by a technician\" names the agent."
+ },
+ {
+  "id": "bs2-50",
+  "difficulty": "advanced",
+  "context": "What did you think of the training workshop yesterday?",
+  "template": "It ___ ___ ___ ___ ___ ___ year.",
+  "chunks": [
+   "was",
+   "the most",
+   "useful",
+   "session",
+   "I've attended",
+   "this"
+  ],
+  "distractor": "more",
+  "explanation": "The superlative \"the most useful\" fits a phrase followed by the relative clause \"I've attended this year\"; \"more\" would need \"than.\""
+ },
+ {
+  "id": "bs2-51",
+  "difficulty": "advanced",
+  "context": "Why did you have to pay extra for the rental car?",
+  "template": "I ___ ___ ___ ___ ___ tank.",
+  "chunks": [
+   "was charged",
+   "for",
+   "returning",
+   "it",
+   "with an empty"
+  ],
+  "distractor": "return",
+  "explanation": "After the preposition \"for,\" a gerund (\"returning\") is required, not the base verb \"return.\""
+ },
+ {
+  "id": "bs2-52",
+  "difficulty": "advanced",
+  "context": "Do you remember the house where your grandparents lived?",
+  "template": "Yes, it ___ ___ ___ ___ ___ ___ summers.",
+  "chunks": [
+   "is",
+   "where",
+   "I spent",
+   "most",
+   "of my",
+   "childhood"
+  ],
+  "distractor": "which",
+  "explanation": "\"Where\" introduces a clause about a place in which something happened; \"which\" would need a preposition such as \"in.\""
+ },
+ {
+  "id": "bs2-53",
+  "difficulty": "advanced",
+  "context": "Why did you decide to join a book club this year?",
+  "template": "I ___ ___ ___ ___ ___ ___ myself.",
+  "chunks": [
+   "wanted",
+   "to read",
+   "books",
+   "I would",
+   "never have",
+   "chosen"
+  ],
+  "distractor": "choosing",
+  "explanation": "The relative clause \"I would never have chosen myself\" uses a modal perfect, which requires the past participle \"chosen.\""
+ },
+ {
+  "id": "bs2-54",
+  "difficulty": "advanced",
+  "context": "Has changing your diet made any real difference?",
+  "template": "I ___ ___ ___ ___ ___ years.",
+  "chunks": [
+   "have",
+   "more energy",
+   "than",
+   "I've had",
+   "in"
+  ],
+  "distractor": "most",
+  "explanation": "The comparative \"more energy than\" is completed by the present perfect clause \"I've had in years.\""
+ },
+ {
+  "id": "bs2-55",
+  "difficulty": "advanced",
+  "context": "Where do you usually buy your fruit and vegetables?",
+  "template": "I go ___ ___ ___ ___ ___ locally.",
+  "chunks": [
+   "to a",
+   "market",
+   "where",
+   "everything",
+   "is grown"
+  ],
+  "distractor": "which",
+  "explanation": "\"Where\" introduces a relative clause about a place; \"which\" cannot replace it without a preposition."
+ },
+ {
+  "id": "bs2-56",
+  "difficulty": "advanced",
+  "context": "Did you lose all your files when your computer crashed?",
+  "template": "Luckily, I ___ ___ ___ ___ before.",
+  "chunks": [
+   "had",
+   "backed them",
+   "up",
+   "the night"
+  ],
+  "distractor": "backing",
+  "explanation": "The past perfect \"had backed them up\" shows the action happened before the crash; \"had backing\" is ungrammatical."
+ },
+ {
+  "id": "bs2-57",
+  "difficulty": "advanced",
+  "context": "Has the company chosen someone to replace Ms. Lee yet?",
+  "template": "Not until ___ ___ ___ ___ ___ hired.",
+  "chunks": [
+   "next week",
+   "will they",
+   "announce",
+   "who",
+   "was"
+  ],
+  "distractor": "they will",
+  "explanation": "A sentence beginning with \"Not until\" requires subject-auxiliary inversion in the main clause (\"will they\"), so \"they will\" does not fit."
+ },
+ {
+  "id": "bs2-58",
+  "difficulty": "advanced",
+  "context": "How did you end up spending a night in Chicago?",
+  "template": "Our flight ___ ___ ___ ___ ___ ___ connection.",
+  "chunks": [
+   "was delayed",
+   "so long",
+   "that",
+   "we",
+   "missed",
+   "the"
+  ],
+  "distractor": "too",
+  "explanation": "The \"so ... that\" structure links a cause to its result; \"too\" cannot be followed by a \"that\" clause."
+ },
+ {
+  "id": "bs2-59",
+  "difficulty": "advanced",
+  "context": "Can you tell your twin nephews apart?",
+  "template": "I ___ ___ ___ ___ ___ voices.",
+  "chunks": [
+   "can only",
+   "tell",
+   "them",
+   "apart",
+   "by their"
+  ],
+  "distractor": "telling",
+  "explanation": "The modal \"can only\" requires the base verb \"tell,\" and the separable phrasal verb is \"tell them apart.\""
+ },
+ {
+  "id": "bs2-60",
+  "difficulty": "advanced",
+  "context": "Were you nervous before your piano recital?",
+  "template": "I ___ ___ ___ ___ ___ expected.",
+  "chunks": [
+   "wasn't",
+   "nearly",
+   "as nervous",
+   "as",
+   "I had"
+  ],
+  "distractor": "than",
+  "explanation": "The equal comparison \"as nervous as\" requires a second \"as,\" not \"than.\""
+ },
+ {
+  "id": "bs2-61",
+  "difficulty": "advanced",
+  "context": "Can I visit my friend in the hospital this evening?",
+  "template": "You'll ___ ___ ___ ___ ___ ___ six.",
+  "chunks": [
+   "have",
+   "to check",
+   "whether",
+   "visitors",
+   "are allowed",
+   "after"
+  ],
+  "distractor": "allowing",
+  "explanation": "The embedded question \"whether visitors are allowed\" uses the passive, so the active \"allowing\" has no place."
+ },
+ {
+  "id": "bs2-62",
+  "difficulty": "advanced",
+  "context": "Why are you returning those running shoes?",
+  "template": "The pair ___ ___ ___ ___ ___ ___ small.",
+  "chunks": [
+   "I ordered",
+   "turned out",
+   "to be",
+   "half",
+   "a size",
+   "too"
+  ],
+  "distractor": "turning",
+  "explanation": "The main verb \"turned out\" follows the reduced relative clause \"I ordered\" and takes an infinitive (\"to be\")."
+ },
+ {
+  "id": "bs2-63",
+  "difficulty": "advanced",
+  "context": "Which phone do you think I should buy?",
+  "template": "It ___ ___ ___ ___ ___ ___ spend.",
+  "chunks": [
+   "depends",
+   "on",
+   "how much",
+   "you are",
+   "willing",
+   "to"
+  ],
+  "distractor": "are you",
+  "explanation": "After \"depends on,\" the embedded question keeps statement order (\"you are\"), not question order (\"are you\")."
+ },
+ {
+  "id": "bs2-64",
+  "difficulty": "advanced",
+  "context": "How did your presentation to the board go?",
+  "template": "I ___ ___ ___ ___ ___ for.",
+  "chunks": [
+   "was asked",
+   "several",
+   "questions",
+   "I hadn't",
+   "prepared"
+  ],
+  "distractor": "asking",
+  "explanation": "The passive \"was asked\" is followed by its object, which is modified by the relative clause \"I hadn't prepared for.\""
+ },
+ {
+  "id": "bs2-65",
+  "difficulty": "advanced",
+  "context": "Did you have trouble communicating while you were in Brazil?",
+  "template": "Most ___ ___ ___ ___ ___ ___ English.",
+  "chunks": [
+   "of the",
+   "people",
+   "I met",
+   "could",
+   "speak",
+   "some"
+  ],
+  "distractor": "spoke",
+  "explanation": "The modal \"could\" must be followed by the base form \"speak,\" not the past tense \"spoke.\""
+ },
+ {
+  "id": "bs2-66",
+  "difficulty": "advanced",
+  "context": "Why did your parents decide to sell their house?",
+  "template": "It ___ ___ ___ ___ ___ them.",
+  "chunks": [
+   "had",
+   "become",
+   "too big",
+   "for just",
+   "the two of"
+  ],
+  "distractor": "became",
+  "explanation": "The past perfect is \"had\" plus the past participle \"become\"; \"had became\" is ungrammatical."
+ },
+ {
+  "id": "bs2-67",
+  "difficulty": "advanced",
+  "context": "Is knitting difficult to learn as a beginner?",
+  "template": "It's ___ ___ ___ ___ ___ ___ started.",
+  "chunks": [
+   "easier",
+   "than",
+   "it looks",
+   "once",
+   "you",
+   "get"
+  ],
+  "distractor": "easiest",
+  "explanation": "The comparative \"easier than it looks\" is followed by the time clause \"once you get started\"; \"easiest\" cannot take \"than.\""
+ },
+ {
+  "id": "bs2-68",
+  "difficulty": "advanced",
+  "context": "Do I need any vaccinations before my trip abroad?",
+  "template": "You ___ ___ ___ ___ ___ ___ recommended.",
+  "chunks": [
+   "should",
+   "ask",
+   "your doctor",
+   "which",
+   "ones",
+   "are"
+  ],
+  "distractor": "do",
+  "explanation": "The embedded question \"which ones are recommended\" uses a passive verb, so the auxiliary \"do\" has no place."
+ },
+ {
+  "id": "bs2-69",
+  "difficulty": "advanced",
+  "context": "Did you use the discount coupon at the checkout?",
+  "template": "I ___ ___ ___ ___ ___ expired.",
+  "chunks": [
+   "couldn't",
+   "use it",
+   "because",
+   "it",
+   "had already"
+  ],
+  "distractor": "using",
+  "explanation": "The modal \"couldn't\" requires the base form \"use,\" and the past perfect \"had already expired\" gives the earlier cause."
+ },
+ {
+  "id": "bs2-70",
+  "difficulty": "advanced",
+  "context": "Why did you delete your social media accounts?",
+  "template": "I ___ ___ ___ ___ ___ to.",
+  "chunks": [
+   "was spending",
+   "far more",
+   "time on them",
+   "than",
+   "I wanted"
+  ],
+  "distractor": "most",
+  "explanation": "The comparative \"far more time ... than I wanted to\" requires \"more,\" so the superlative \"most\" does not fit."
+ }
+]

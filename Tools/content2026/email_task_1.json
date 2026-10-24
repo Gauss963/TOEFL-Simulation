@@ -1,0 +1,362 @@
+[
+ {
+  "id": "em-01",
+  "difficulty": "intermediate",
+  "scenario": "You missed Professor Lin's biology lab last Thursday because you had a high fever and visited the campus health center. The lab counted toward your final grade, and the syllabus says make-up sessions are possible only with instructor approval. You want to make up the missed work before the next exam.",
+  "to": "Professor Daniel Lin, biology instructor",
+  "subject": "Request to make up a missed lab",
+  "bullets": [
+   "Explain why you missed the lab.",
+   "Ask whether you can make up the work.",
+   "Suggest a time when you are available."
+  ]
+ },
+ {
+  "id": "em-02",
+  "difficulty": "intermediate",
+  "scenario": "For the past two weeks, the kitchen faucet in your apartment has been dripping constantly, and the noise keeps you awake at night. You told the building's maintenance worker about it, but nothing has been fixed. Your landlord, Ms. Patel, manages the building and handles all repair requests.",
+  "to": "Ms. Anita Patel, landlord",
+  "subject": "Leaking kitchen faucet",
+  "bullets": [
+   "Describe the problem with the faucet.",
+   "Explain how it has affected you.",
+   "Ask when it can be repaired."
+  ]
+ },
+ {
+  "id": "em-03",
+  "difficulty": "intermediate",
+  "scenario": "You recently joined the campus photography club. You enjoy the weekly meetings, but they are held on Tuesday evenings, when many members, including you, have a required lab course. You think more people would attend if the meeting time changed. The club president, Jordan, welcomes ideas from members.",
+  "to": "Jordan Reyes, president of the photography club",
+  "subject": "Idea about our meeting time",
+  "bullets": [
+   "Say what you enjoy about the club.",
+   "Explain the problem with the current meeting time.",
+   "Suggest a different time and give a reason."
+  ]
+ },
+ {
+  "id": "em-04",
+  "difficulty": "intermediate",
+  "scenario": "You work part-time at a campus coffee shop. Next month, your sister is getting married in another city, and you need to be away for three days. Your manager, Mr. Brooks, posts the work schedule two weeks in advance, so you want to let him know early.",
+  "to": "Mr. Kevin Brooks, coffee shop manager",
+  "subject": "Time off request for next month",
+  "bullets": [
+   "Explain why you need time off.",
+   "Give the dates you will be away.",
+   "Offer a way to cover your shifts."
+  ]
+ },
+ {
+  "id": "em-05",
+  "difficulty": "intermediate",
+  "scenario": "Your neighbor, Mrs. Alvarez, watered your plants and collected your mail while you were visiting your family last week. You are very grateful. This weekend you are hosting a small dinner for people living on your floor, and you would like her to come.",
+  "to": "Mrs. Rosa Alvarez, neighbor",
+  "subject": "Thank you and a dinner invitation",
+  "bullets": [
+   "Thank her for her help.",
+   "Describe the dinner you are planning.",
+   "Invite her and ask her to reply by Friday."
+  ]
+ },
+ {
+  "id": "em-06",
+  "difficulty": "intermediate",
+  "scenario": "You ordered a desk lamp from an online store for your dorm room. When the package arrived, the lamp's base was cracked and the light would not turn on. The store's website says customers should contact customer service within ten days of delivery.",
+  "to": "Customer Service Team, online home goods store",
+  "subject": "Damaged lamp in my order",
+  "bullets": [
+   "Describe what was wrong with the item.",
+   "Explain when you received it.",
+   "Say what you would like the store to do."
+  ]
+ },
+ {
+  "id": "em-07",
+  "difficulty": "intermediate",
+  "scenario": "You need a book for a history paper, but the library's only copy has been checked out for six weeks and is now overdue. Your paper is due in ten days. The librarian, Mr. Okafor, is in charge of the history collection.",
+  "to": "Mr. Samuel Okafor, reference librarian",
+  "subject": "Help finding an overdue book",
+  "bullets": [
+   "Explain which book you need and why.",
+   "Describe the problem you are having.",
+   "Ask what options are available to you."
+  ]
+ },
+ {
+  "id": "em-08",
+  "difficulty": "intermediate",
+  "scenario": "You are a member of the university swim team. Last Saturday, you arrived forty minutes late to an important practice because you misread the schedule. Coach Henderson seemed disappointed, and you want to make things right before the next meet.",
+  "to": "Coach Laura Henderson, swim team coach",
+  "subject": "Sorry about Saturday's practice",
+  "bullets": [
+   "Apologize for being late.",
+   "Explain what caused the mistake.",
+   "Describe what you will do to avoid it in the future."
+  ]
+ },
+ {
+  "id": "em-09",
+  "difficulty": "intermediate",
+  "scenario": "You plan to attend a regional student conference on environmental science next month. You registered online, but you have not received a confirmation email, and the event is in three weeks. The organizer, Dr. Kim, is listed as the contact person on the conference website.",
+  "to": "Dr. Grace Kim, conference organizer",
+  "subject": "Registration confirmation not received",
+  "bullets": [
+   "Explain when and how you registered.",
+   "Describe the problem.",
+   "Ask her to confirm your registration status."
+  ]
+ },
+ {
+  "id": "em-10",
+  "difficulty": "intermediate",
+  "scenario": "Your friend Leo recently moved to a city where you lived for several years. He wrote to say he feels lonely and doesn't know where to go on weekends. You know the city well and want to help him feel more at home.",
+  "to": "Leo, a close friend",
+  "subject": "Ideas for your new city",
+  "bullets": [
+   "Respond to how he is feeling.",
+   "Recommend two places he could visit.",
+   "Suggest a way for him to meet new people."
+  ]
+ },
+ {
+  "id": "em-11",
+  "difficulty": "intermediate",
+  "scenario": "Last week, Professor Moreno spent extra time after class helping you understand a difficult statistics concept. Thanks to her explanation, you did well on the quiz. Now you are thinking about taking her advanced course next semester, but you are not sure you are ready.",
+  "to": "Professor Elena Moreno, statistics professor",
+  "subject": "Thank you and a question about next semester",
+  "bullets": [
+   "Thank her for her help.",
+   "Describe how it made a difference.",
+   "Ask for her advice about the advanced course."
+  ]
+ },
+ {
+  "id": "em-12",
+  "difficulty": "intermediate",
+  "scenario": "The laundry machines in your apartment building have been out of order for ten days, so you have had to carry your clothes to a laundromat across town. Other residents are frustrated too. Your landlord, Mr. Fischer, has not posted any notice about repairs.",
+  "to": "Mr. Paul Fischer, landlord",
+  "subject": "Broken laundry machines",
+  "bullets": [
+   "Explain the problem.",
+   "Describe how it has affected residents.",
+   "Ask for a repair date and a temporary solution."
+  ]
+ },
+ {
+  "id": "em-13",
+  "difficulty": "intermediate",
+  "scenario": "You are on the student volunteer committee for a campus food drive. Your manager at the dining hall, Ms. Grant, has supported community events in the past. You would like the dining hall to place a donation box near its entrance during the two-week drive.",
+  "to": "Ms. Teresa Grant, dining hall manager",
+  "subject": "Request for food drive support",
+  "bullets": [
+   "Describe the food drive.",
+   "Explain how the dining hall could help.",
+   "Say how the committee will handle the donations."
+  ]
+ },
+ {
+  "id": "em-14",
+  "difficulty": "intermediate",
+  "scenario": "Your neighbor's dog barks loudly for several hours every afternoon while the owner, Mr. Nguyen, is at work. You study at home during that time and have found it hard to concentrate. You have always had a friendly relationship with Mr. Nguyen and want to keep it that way.",
+  "to": "Mr. David Nguyen, neighbor",
+  "subject": "About the afternoons",
+  "bullets": [
+   "Explain the situation politely.",
+   "Describe how it is affecting you.",
+   "Suggest a solution that could work for both of you."
+  ]
+ },
+ {
+  "id": "em-15",
+  "difficulty": "intermediate",
+  "scenario": "You signed up for a monthly gym membership near campus, but you were charged twice on your bank statement this month. You only have one membership. You called the front desk, and they told you to contact the company's customer service by email.",
+  "to": "Customer Support, fitness club membership office",
+  "subject": "Double charge on my account",
+  "bullets": [
+   "Explain what you noticed on your statement.",
+   "Provide details about your membership.",
+   "Ask them to correct the error."
+  ]
+ },
+ {
+  "id": "em-16",
+  "difficulty": "advanced",
+  "scenario": "You are writing a senior thesis, and the archive of historical maps you need is held in the special collections room, which is open only on weekday mornings. Your required internship keeps you busy at those times all semester. The head librarian, Ms. Duarte, sometimes grants special access arrangements to researchers.",
+  "to": "Ms. Helena Duarte, head of special collections",
+  "subject": "Request for alternative access to map archive",
+  "bullets": [
+   "Explain your research project and why you need the archive.",
+   "Describe the scheduling conflict you face.",
+   "Propose an arrangement that would work for you and the library."
+  ]
+ },
+ {
+  "id": "em-17",
+  "difficulty": "advanced",
+  "scenario": "Your soccer coach, Mr. Abara, has asked team members for feedback on the new training schedule, which adds early-morning sessions three days a week. Several teammates, including you, have noticed that they feel exhausted in afternoon classes and that injuries have increased. You support the coach's goals but have concerns.",
+  "to": "Coach Michael Abara, soccer team coach",
+  "subject": "Feedback on the new training schedule",
+  "bullets": [
+   "Acknowledge the benefits of the new schedule.",
+   "Explain the concerns you and your teammates have.",
+   "Recommend a change and explain how it would help the team."
+  ]
+ },
+ {
+  "id": "em-18",
+  "difficulty": "advanced",
+  "scenario": "You presented a poster at an academic conference last weekend. The event was well organized, but the poster session was placed in a narrow hallway where few visitors passed, and several presenters had almost no audience. The organizer, Dr. Feldman, sent a survey asking participants for detailed comments.",
+  "to": "Dr. Ruth Feldman, conference organizer",
+  "subject": "Comments on the poster session",
+  "bullets": [
+   "Mention what you appreciated about the conference.",
+   "Describe the problem with the poster session.",
+   "Suggest specific improvements for next year."
+  ]
+ },
+ {
+  "id": "em-19",
+  "difficulty": "advanced",
+  "scenario": "You have been chosen to lead a group project, and one team member, your friend Priya, has missed two planning meetings without explanation. The deadline is approaching, and other members are becoming frustrated. You value your friendship and want to address the problem honestly but kindly.",
+  "to": "Priya, a friend and project teammate",
+  "subject": "Checking in about our project",
+  "bullets": [
+   "Express concern about what has been happening.",
+   "Explain how the situation is affecting the group.",
+   "Propose a way to move forward together."
+  ]
+ },
+ {
+  "id": "em-20",
+  "difficulty": "advanced",
+  "scenario": "Three weeks ago, you emailed Professor Watanabe asking whether you could join his research lab as an undergraduate assistant next semester. You have not received a reply, and the department's deadline for research credit registration is in ten days. You remain very interested in his work on urban water systems.",
+  "to": "Professor Kenji Watanabe, civil engineering professor",
+  "subject": "Following up on research assistant position",
+  "bullets": [
+   "Remind him of your earlier message.",
+   "Explain why the timing matters to you.",
+   "Restate your qualifications and interest in his research."
+  ]
+ },
+ {
+  "id": "em-21",
+  "difficulty": "advanced",
+  "scenario": "Your landlord, Mr. Castillo, has announced a fifteen percent rent increase starting next month, giving tenants only two weeks' notice. Your lease requires sixty days' notice for any changes. You have been a reliable tenant for two years and would like to stay, but the sudden increase is a serious problem.",
+  "to": "Mr. Luis Castillo, landlord",
+  "subject": "Concern about the upcoming rent increase",
+  "bullets": [
+   "Explain your concern about the notice period.",
+   "Describe how the increase would affect you.",
+   "Propose a reasonable compromise."
+  ]
+ },
+ {
+  "id": "em-22",
+  "difficulty": "advanced",
+  "scenario": "You are a member of the campus debate club. During last week's practice tournament, you made a dismissive remark about another member's argument, and several people felt it was disrespectful. The club president, Amira, mentioned that the comment had upset others. You want to take responsibility.",
+  "to": "Amira Haddad, president of the debate club",
+  "subject": "Apology for my comment at the tournament",
+  "bullets": [
+   "Apologize for your behavior.",
+   "Explain what you have learned from the situation.",
+   "Suggest a way to help create a more respectful atmosphere in the club."
+  ]
+ },
+ {
+  "id": "em-23",
+  "difficulty": "advanced",
+  "scenario": "You work at a local bookstore. Your manager, Ms. Lindqvist, recently asked employees for ideas to attract more young customers. You have noticed that many students visit the café next door to study but rarely come into the store. You believe a new event or service could change that.",
+  "to": "Ms. Ingrid Lindqvist, bookstore manager",
+  "subject": "An idea to attract student customers",
+  "bullets": [
+   "Describe what you have observed.",
+   "Propose a specific idea.",
+   "Explain how the store would benefit and what resources it would need."
+  ]
+ },
+ {
+  "id": "em-24",
+  "difficulty": "advanced",
+  "scenario": "A new family recently moved into the house next to yours. Your neighborhood holds a community garden day each spring, and you are coordinating this year's event. You would like to welcome the newcomers, the Okonkwos, and encourage them to take part, but you don't want them to feel pressured.",
+  "to": "Mr. and Mrs. Okonkwo, new neighbors",
+  "subject": "Welcome to the neighborhood",
+  "bullets": [
+   "Welcome them to the neighborhood.",
+   "Describe the community garden day and its purpose.",
+   "Invite them to participate and explain how they could get involved."
+  ]
+ },
+ {
+  "id": "em-25",
+  "difficulty": "advanced",
+  "scenario": "You booked a train ticket to attend a job interview in another city, but the train was canceled without notice. You had to buy an expensive last-minute bus ticket and arrived late. When you asked for a refund at the station, staff told you to contact customer relations in writing.",
+  "to": "Customer Relations Department, regional rail service",
+  "subject": "Refund request for a canceled train",
+  "bullets": [
+   "Describe what happened on the day of travel.",
+   "Explain the consequences of the cancellation for you.",
+   "State what compensation you are requesting and why."
+  ]
+ },
+ {
+  "id": "em-26",
+  "difficulty": "advanced",
+  "scenario": "The university library recently reduced its weekend hours to save money. As a student who works full-time on weekdays, you depend on weekend access to study and use the computers. You have heard that the library director, Dr. Adeyemi, is reviewing student feedback before the next budget meeting.",
+  "to": "Dr. Folake Adeyemi, library director",
+  "subject": "Impact of reduced weekend hours",
+  "bullets": [
+   "Explain your situation as a student.",
+   "Describe how the change has affected you and others.",
+   "Suggest an alternative that could save money without reducing access."
+  ]
+ },
+ {
+  "id": "em-27",
+  "difficulty": "advanced",
+  "scenario": "You were the first-year representative on the student orientation committee this year. The committee president, Marcus, did an excellent job, and the new students gave the program high ratings. Marcus is now forming next year's committee, and you would like to take on a bigger role.",
+  "to": "Marcus Bell, president of the orientation committee",
+  "subject": "Thank you and next year's committee",
+  "bullets": [
+   "Thank him for his leadership this year.",
+   "Describe what you learned from the experience.",
+   "Ask to be considered for a larger role and explain what you could contribute."
+  ]
+ },
+ {
+  "id": "em-28",
+  "difficulty": "advanced",
+  "scenario": "Your friend Sofia invited you to be the main speaker at her graduation party next weekend. You agreed, but you have just learned that you must attend a mandatory work training session that same day in another city. You feel terrible about canceling at the last minute.",
+  "to": "Sofia, a close friend",
+  "subject": "I'm so sorry about next weekend",
+  "bullets": [
+   "Apologize and explain why you cannot attend.",
+   "Express how much the occasion means to you.",
+   "Suggest another way to celebrate or contribute."
+  ]
+ },
+ {
+  "id": "em-29",
+  "difficulty": "advanced",
+  "scenario": "Your manager at a marketing firm, Mr. Osei, asked you to lead a new client project starting next week. You are excited about the opportunity, but you are already responsible for two projects with deadlines this month. You worry that taking on more work could lower the quality of everything you do.",
+  "to": "Mr. Kwame Osei, department manager",
+  "subject": "Regarding the new client project",
+  "bullets": [
+   "Express your appreciation for the opportunity.",
+   "Explain your concern about your current workload.",
+   "Propose a plan that would allow you to take on the project successfully."
+  ]
+ },
+ {
+  "id": "em-30",
+  "difficulty": "advanced",
+  "scenario": "Your paper on renewable energy storage was accepted for an oral presentation at an international student conference. However, the program schedules your talk on the first morning, and your flight cannot arrive until that afternoon because of a final exam the day before. The organizer, Dr. Marchetti, handles all program changes.",
+  "to": "Dr. Paolo Marchetti, conference organizer",
+  "subject": "Request to reschedule my presentation",
+  "bullets": [
+   "Thank him for accepting your paper.",
+   "Explain why you cannot present at the scheduled time.",
+   "Propose possible solutions and say which you would prefer."
+  ]
+ }
+]

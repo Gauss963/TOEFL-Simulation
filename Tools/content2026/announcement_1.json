@@ -1,0 +1,886 @@
+[
+ {
+  "id": "an-01",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement in a chemistry class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "text": "Before we start today's lab, a quick safety reminder. Starting this week, the department is requiring splash goggles, not regular safety glasses, whenever acids are on the bench. If you don't have a pair, the stockroom will lend you one, but you'll need to leave your student ID there until you return it. Also, please tie back long hair and keep your bags in the cubbies by the door, not under the benches.",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the announcement?",
+    "options": [
+     "To introduce a new experiment involving acids",
+     "To explain new safety requirements for the lab",
+     "To announce that the stockroom will close early",
+     "To ask students to buy their own lab equipment"
+    ],
+    "answer": 1,
+    "explanation": "The professor describes the new goggle rule and other safety expectations for the lab."
+   },
+   {
+    "prompt": "According to the professor, what must students do to borrow goggles?",
+    "options": [
+     "Pay a small rental fee at the stockroom",
+     "Ask the professor for written permission",
+     "Return them before the end of the day",
+     "Leave their student ID at the stockroom"
+    ],
+    "answer": 3,
+    "explanation": "She says the stockroom will lend goggles if students leave their student ID until they return them."
+   }
+  ]
+ },
+ {
+  "id": "an-02",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement in a geology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "text": "Okay, about Saturday's field trip to Miller Canyon. The bus will now leave at seven thirty instead of eight, because the park asked us to finish before the afternoon heat. Meet in the parking lot behind the science building, not out front. Bring water, a hat, and sturdy shoes; sandals won't be allowed on the trail. And don't forget your field notebook, because you'll be sketching rock layers for your next assignment.",
+  "questions": [
+   {
+    "prompt": "Why was the departure time changed?",
+    "options": [
+     "The bus company had a scheduling conflict.",
+     "The trail is longer than originally planned.",
+     "Some students have classes on Saturday afternoon.",
+     "The park wants the group to avoid the afternoon heat."
+    ],
+    "answer": 3,
+    "explanation": "The professor says the park asked the group to finish before the afternoon heat."
+   },
+   {
+    "prompt": "What will students use their field notebooks for?",
+    "options": [
+     "Recording the names of plants on the trail",
+     "Writing down directions to the canyon",
+     "Sketching rock layers for an assignment",
+     "Taking notes during a park ranger's talk"
+    ],
+    "answer": 2,
+    "explanation": "He reminds students they will be sketching rock layers for their next assignment."
+   }
+  ]
+ },
+ {
+  "id": "an-03",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement in a history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "text": "I have an update about the midterm. Because so many of you asked for more time, the exam will now take place during our two-hour Thursday session instead of Tuesday. The format is also changing slightly: there will be three short-answer questions instead of five, plus one essay. I'll post a list of possible essay topics online by Friday, so you can prepare in advance. Your study guides from last week are still useful.",
+  "questions": [
+   {
+    "prompt": "What is the professor mainly announcing?",
+    "options": [
+     "Changes to the timing and format of an exam",
+     "A new requirement for a research essay",
+     "The results of a recent midterm exam",
+     "The cancellation of a Thursday class"
+    ],
+    "answer": 0,
+    "explanation": "She explains that the midterm is moving to Thursday and will have a different set of questions."
+   },
+   {
+    "prompt": "Why was the exam moved to Thursday?",
+    "options": [
+     "The professor will be away on Tuesday.",
+     "The classroom is unavailable on Tuesday.",
+     "The essay topics are not ready yet.",
+     "Students requested more time to complete it."
+    ],
+    "answer": 3,
+    "explanation": "The professor says the change was made because many students asked for more time."
+   }
+  ]
+ },
+ {
+  "id": "an-04",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement in a business class.",
+  "speaker": {
+   "role": "teaching assistant",
+   "gender": "male"
+  },
+  "text": "Hi everyone, I'm going over the rules for the group project. Teams should have four members, no more and no fewer. You can choose your own teammates, but please send me your team list by next Wednesday. If you haven't joined a team by then, I'll assign you to one. At the end of the project, each person will rate their teammates' contributions, and those ratings will count for ten percent of your grade.",
+  "questions": [
+   {
+    "prompt": "What will happen to students who are not on a team by next Wednesday?",
+    "options": [
+     "The teaching assistant will place them on a team.",
+     "They will have to complete the project alone.",
+     "They will lose ten percent of their grade.",
+     "They will be allowed to form a team of two."
+    ],
+    "answer": 0,
+    "explanation": "He says that he will assign anyone without a team to one."
+   },
+   {
+    "prompt": "What does the speaker say about the teammate ratings?",
+    "options": [
+     "They will be shared with the whole class.",
+     "They must be submitted by next Wednesday.",
+     "They are optional for most of the students.",
+     "They will affect part of each student's grade."
+    ],
+    "answer": 3,
+    "explanation": "He states that the ratings will count for ten percent of the grade."
+   }
+  ]
+ },
+ {
+  "id": "an-05",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement in a biology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "text": "Next Monday we'll have a guest speaker, Dr. Ellen Park, a wildlife veterinarian who works at a rehabilitation center for injured birds. She'll talk about how the center treats birds and prepares them to return to the wild. Since she's coming in person, please read the short article I posted before class, and come with at least one question for her. The talk will start right at ten, so don't be late.",
+  "questions": [
+   {
+    "prompt": "Who is the guest speaker?",
+    "options": [
+     "A researcher who studies bird migration",
+     "A zookeeper who trains birds for shows",
+     "A veterinarian who treats injured wild birds",
+     "A professor who writes about bird behavior"
+    ],
+    "answer": 2,
+    "explanation": "The professor introduces Dr. Park as a wildlife veterinarian at a rehabilitation center for injured birds."
+   },
+   {
+    "prompt": "What does the professor ask students to do before the talk?",
+    "options": [
+     "Visit the bird rehabilitation center",
+     "Write a short summary of a lecture",
+     "Read an article and prepare a question",
+     "Sign up to introduce the speaker"
+    ],
+    "answer": 2,
+    "explanation": "She asks students to read the posted article and bring at least one question."
+   }
+  ]
+ },
+ {
+  "id": "an-06",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement in an art history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "text": "For your next paper, you'll need to visit the university art museum and choose one painting from the landscape gallery on the second floor. The museum is free for students, but it's closed on Mondays, so plan accordingly. Photography is allowed, but no flash. Take careful notes on color, composition, and the painting's label. Your paper will compare that painting with one of the works we've discussed in class.",
+  "questions": [
+   {
+    "prompt": "What is the purpose of the museum visit?",
+    "options": [
+     "To gather material for a comparison paper",
+     "To attend a lecture by a museum curator",
+     "To photograph paintings for a class display",
+     "To choose a topic for a group presentation"
+    ],
+    "answer": 0,
+    "explanation": "Students must study one painting and compare it with a work discussed in class for their paper."
+   },
+   {
+    "prompt": "What does the professor say about taking pictures in the museum?",
+    "options": [
+     "Students may take pictures without using flash.",
+     "Students need special permission to take pictures.",
+     "Pictures are allowed only in the landscape gallery.",
+     "Pictures may be taken only on weekday mornings."
+    ],
+    "answer": 0,
+    "explanation": "He says photography is allowed but flash is not."
+   }
+  ]
+ },
+ {
+  "id": "an-07",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement in a statistics class.",
+  "speaker": {
+   "role": "teaching assistant",
+   "gender": "female"
+  },
+  "text": "Quick announcement for the statistics section. My office hours are moving from Tuesday afternoons to Wednesday mornings, nine to eleven, in room two-fourteen of the math building. The reason is that the tutoring center is now open Tuesday afternoons, and a lot of you were going there anyway. If neither time works for you, send me an email and we can set up a short video call instead.",
+  "questions": [
+   {
+    "prompt": "Why is the teaching assistant changing her office hours?",
+    "options": [
+     "Her own class schedule has changed.",
+     "The math building is closed on Tuesdays.",
+     "Tutoring is now offered at her old time.",
+     "Students said the room was too small."
+    ],
+    "answer": 2,
+    "explanation": "She explains that the tutoring center now opens on Tuesday afternoons, when her hours used to be."
+   },
+   {
+    "prompt": "What can students do if they cannot attend the new office hours?",
+    "options": [
+     "Arrange a video call by email",
+     "Go to the tutoring center on Wednesdays",
+     "Post questions on the course website",
+     "Visit the professor's office instead"
+    ],
+    "answer": 0,
+    "explanation": "She invites students to email her to set up a short video call."
+   }
+  ]
+ },
+ {
+  "id": "an-08",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement at the campus library.",
+  "speaker": {
+   "role": "librarian",
+   "gender": "male"
+  },
+  "text": "Attention, library visitors. Starting Monday and continuing through the end of final exams, the main library will stay open twenty-four hours a day. After midnight, you'll need to show your student ID at the front entrance to come in. The café on the ground floor will also stay open until two a.m. Please remember that the third floor is a silent study area at all hours, so take phone calls and group discussions to the first floor.",
+  "questions": [
+   {
+    "prompt": "What change is the librarian announcing?",
+    "options": [
+     "The library will close early during finals.",
+     "The library will be open all night during finals.",
+     "A new study area will open on the third floor.",
+     "The café will move to the first floor."
+    ],
+    "answer": 1,
+    "explanation": "He says the main library will stay open twenty-four hours a day through final exams."
+   },
+   {
+    "prompt": "What must visitors do to enter the library after midnight?",
+    "options": [
+     "Reserve a study room online",
+     "Show a student ID at the entrance",
+     "Enter through the ground-floor café",
+     "Sign a list at the circulation desk"
+    ],
+    "answer": 1,
+    "explanation": "The librarian says a student ID must be shown at the front entrance after midnight."
+   }
+  ]
+ },
+ {
+  "id": "an-09",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement on the campus radio station.",
+  "speaker": {
+   "role": "transportation coordinator",
+   "gender": "female"
+  },
+  "text": "Good morning. This is a message from Campus Transportation. Because of road construction on College Avenue, the blue shuttle line will follow a detour for the next three weeks. Buses will not stop at the Student Union. Instead, please use the temporary stop on Elm Street, about a block away. Expect delays of five to ten minutes during busy hours. Updated maps are available on the transportation website.",
+  "questions": [
+   {
+    "prompt": "Why is the shuttle route changing?",
+    "options": [
+     "Construction is taking place on a nearby road.",
+     "The Student Union is being renovated.",
+     "Fewer students are riding the blue line.",
+     "The shuttle company has hired new drivers."
+    ],
+    "answer": 0,
+    "explanation": "The detour is caused by road construction on College Avenue."
+   },
+   {
+    "prompt": "Where should riders wait instead of at the Student Union?",
+    "options": [
+     "In front of the transportation office",
+     "At a temporary stop on Elm Street",
+     "At the next stop on College Avenue",
+     "Inside the Student Union lobby"
+    ],
+    "answer": 1,
+    "explanation": "Riders are told to use the temporary stop on Elm Street, about a block away."
+   }
+  ]
+ },
+ {
+  "id": "an-10",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement at a new student orientation.",
+  "speaker": {
+   "role": "orientation leader",
+   "gender": "male"
+  },
+  "text": "Welcome, everyone! I'm one of your orientation leaders. Here's the plan for the rest of today. At one o'clock, we'll split into small groups for a campus tour, so check your name tag for your group color. At three, you'll meet with an academic advisor to choose your first-semester classes. Then at six, there's a free dinner on the main lawn. If it rains, dinner moves to the gym.",
+  "questions": [
+   {
+    "prompt": "How will students know which tour group to join?",
+    "options": [
+     "By the major they have chosen",
+     "By the advisor they are meeting",
+     "By the color on their name tag",
+     "By the dorm they will live in"
+    ],
+    "answer": 2,
+    "explanation": "He tells students to check their name tag for their group color."
+   },
+   {
+    "prompt": "What will happen at three o'clock?",
+    "options": [
+     "Students will meet with academic advisors.",
+     "Students will take a campus tour.",
+     "Students will have dinner on the lawn.",
+     "Students will go to the gym for games."
+    ],
+    "answer": 0,
+    "explanation": "At three, students meet an advisor to choose their first-semester classes."
+   }
+  ]
+ },
+ {
+  "id": "an-11",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement at the campus recreation center.",
+  "speaker": {
+   "role": "recreation center director",
+   "gender": "female"
+  },
+  "text": "Hello, swimmers. The recreation center pool will be closed from November third through the tenth while we replace the filtration system. During that week, students can use the pool at Riverside Community Center for free; just show your student ID at the front desk there. Lap swim classes are canceled for the week, but the instructors will hold dry-land training sessions in Studio B at the usual times.",
+  "questions": [
+   {
+    "prompt": "Why will the pool be closed?",
+    "options": [
+     "It is being used for a swim competition.",
+     "Its filtration system is being replaced.",
+     "Its lap lanes are being repainted.",
+     "Its staff are attending a training week."
+    ],
+    "answer": 1,
+    "explanation": "The director says the pool will close while the filtration system is replaced."
+   },
+   {
+    "prompt": "What will happen to the lap swim classes during the closure?",
+    "options": [
+     "They will meet at the community center pool.",
+     "They will be moved to different times.",
+     "They will be extended by an extra week.",
+     "They will be replaced by training in a studio."
+    ],
+    "answer": 3,
+    "explanation": "The instructors will hold dry-land training sessions in Studio B at the usual times."
+   }
+  ]
+ },
+ {
+  "id": "an-12",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement at a campus basketball game.",
+  "speaker": {
+   "role": "athletics announcer",
+   "gender": "male"
+  },
+  "text": "Good evening, fans, and thanks for coming out to tonight's game! A few quick notes. At halftime, we'll hold a free-throw contest, and three students chosen from the crowd will compete for a semester parking pass. Also, the first five hundred students through the gates received a free team T-shirt. If you got one, wear it to Saturday's home game, when we're trying to fill the arena with our school color.",
+  "questions": [
+   {
+    "prompt": "What prize will the halftime contest winner receive?",
+    "options": [
+     "A free team T-shirt",
+     "Tickets to Saturday's home game",
+     "A parking pass for the semester",
+     "A meal at the campus café"
+    ],
+    "answer": 2,
+    "explanation": "The announcer says the contestants will compete for a semester parking pass."
+   },
+   {
+    "prompt": "What are students with free T-shirts encouraged to do?",
+    "options": [
+     "Wear the shirts to the next home game",
+     "Take part in the halftime contest",
+     "Give the shirts to other students",
+     "Bring the shirts to be signed by players"
+    ],
+    "answer": 0,
+    "explanation": "He asks them to wear the shirts to Saturday's home game to fill the arena with the school color."
+   }
+  ]
+ },
+ {
+  "id": "an-13",
+  "difficulty": "intermediate",
+  "intro": "Listen to an announcement at a campus awards ceremony.",
+  "speaker": {
+   "role": "dean of students",
+   "gender": "female"
+  },
+  "text": "Good afternoon, everyone. It's my pleasure to announce the winners of this year's student poetry contest. We received over two hundred entries, the most in the contest's history. First place goes to Daniel Reyes, a sophomore in biology, for his poem about his grandmother's garden. Daniel will receive a five-hundred-dollar prize, and his poem will be printed in the spring issue of the campus literary magazine.",
+  "questions": [
+   {
+    "prompt": "What is notable about this year's contest?",
+    "options": [
+     "It was open to biology students for the first time.",
+     "It received more entries than ever before.",
+     "It offered a larger prize than in past years.",
+     "It was judged by students instead of faculty."
+    ],
+    "answer": 1,
+    "explanation": "The dean says the over two hundred entries were the most in the contest's history."
+   },
+   {
+    "prompt": "What will happen to the winning poem?",
+    "options": [
+     "It will be read aloud at graduation.",
+     "It will be displayed in a campus garden.",
+     "It will be entered in a national contest.",
+     "It will appear in a campus magazine."
+    ],
+    "answer": 3,
+    "explanation": "The poem will be printed in the spring issue of the campus literary magazine."
+   }
+  ]
+ },
+ {
+  "id": "an-14",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement in a physics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "text": "Before you leave, there's been a change to the final exam that'll affect how you study. Originally, I said the final would only cover material since the midterm. However, after reviewing your midterm results, I've decided to make it cumulative, since several early concepts, especially conservation of momentum, clearly need reinforcement. To balance that out, you'll be allowed to bring one page of handwritten formulas. Printed or photocopied sheets won't be accepted, so start compiling yours now.",
+  "questions": [
+   {
+    "prompt": "Why did the professor decide to make the final exam cumulative?",
+    "options": [
+     "Students requested a single comprehensive review.",
+     "The department requires all finals to be cumulative.",
+     "The material since the midterm was too limited.",
+     "Midterm results showed weaknesses in earlier material."
+    ],
+    "answer": 3,
+    "explanation": "He says the midterm results showed that early concepts like momentum need reinforcement."
+   },
+   {
+    "prompt": "Why does the professor allow students to bring a formula sheet?",
+    "options": [
+     "To offset the exam's broader coverage",
+     "To reward students who did well on the midterm",
+     "To replace the formulas printed in the textbook",
+     "To reduce the number of questions on the exam"
+    ],
+    "answer": 0,
+    "explanation": "He presents the handwritten formula sheet as a way to balance out the more demanding cumulative exam."
+   }
+  ]
+ },
+ {
+  "id": "an-15",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement in an anthropology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "text": "A reminder about your fieldwork projects. Anyone planning to interview people, even friends or family, must collect a signed consent form from each participant before the interview takes place, not afterward. Forms collected after the fact won't count, and I won't be able to accept data gathered without them. Also, remove names and any identifying details from your transcripts. If your project only involves observing public spaces, you don't need consent forms, but please describe your observation site in your proposal.",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the announcement?",
+    "options": [
+     "To describe how to choose a public observation site",
+     "To announce a new deadline for project proposals",
+     "To explain the rules for collecting data from participants",
+     "To discourage students from interviewing family members"
+    ],
+    "answer": 2,
+    "explanation": "The professor outlines consent and privacy requirements for gathering fieldwork data."
+   },
+   {
+    "prompt": "What does the professor imply about interview data gathered before consent is obtained?",
+    "options": [
+     "It must be stored separately from other data.",
+     "It is acceptable if participants are relatives.",
+     "It can be used if all names are removed.",
+     "It cannot be used in the project."
+    ],
+    "answer": 3,
+    "explanation": "Since forms collected afterward do not count and she cannot accept data gathered without them, such data is unusable."
+   }
+  ]
+ },
+ {
+  "id": "an-16",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement in a microbiology lab.",
+  "speaker": {
+   "role": "lab coordinator",
+   "gender": "male"
+  },
+  "text": "Everyone, please listen carefully before handling today's cultures. Although the bacteria we're using aren't considered dangerous, we treat every sample as potentially infectious. That means gloves and lab coats stay on until you've disinfected your bench. Broken glass that has touched a culture doesn't go in the regular glass box; it goes in the red sharps container by the sink. And if you spill anything, don't wipe it up immediately. Cover it with paper towels, soak it with disinfectant, and wait ten minutes.",
+  "questions": [
+   {
+    "prompt": "Why does the lab coordinator mention that the bacteria are not considered dangerous?",
+    "options": [
+     "To reassure students that gloves are unnecessary",
+     "To stress that precautions are required regardless",
+     "To explain why spills can be cleaned up quickly",
+     "To show that the experiment has been simplified"
+    ],
+    "answer": 1,
+    "explanation": "He contrasts their low risk with the rule that every sample is treated as potentially infectious."
+   },
+   {
+    "prompt": "What should students do first if they spill a culture?",
+    "options": [
+     "Cover the spill with paper towels",
+     "Wipe it up with disinfectant right away",
+     "Report it to the lab coordinator",
+     "Place it in the red sharps container"
+    ],
+    "answer": 0,
+    "explanation": "He says not to wipe it up but to cover it with paper towels, then soak it with disinfectant."
+   }
+  ]
+ },
+ {
+  "id": "an-17",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement in an environmental science class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "text": "About next Friday's trip to the Pine Hollow wetlands: you'll need to submit the signed liability waiver by Wednesday, or you won't be able to board the van. Bring waterproof boots. The boardwalk is partly flooded this season, and we'll be wading in to collect water samples. If heavy rain is forecast, we'll postpone to the following Friday rather than cancel, so keep that date open. Anyone who can't attend either day should see me about an alternative assignment.",
+  "questions": [
+   {
+    "prompt": "What will happen if heavy rain is forecast for the day of the trip?",
+    "options": [
+     "The trip will be canceled entirely.",
+     "Students will collect samples from the boardwalk only.",
+     "The trip will be moved to the following week.",
+     "All students will complete an alternative assignment."
+    ],
+    "answer": 2,
+    "explanation": "She says the trip would be postponed to the following Friday rather than canceled."
+   },
+   {
+    "prompt": "Why does the professor tell students to bring waterproof boots?",
+    "options": [
+     "Heavy rain is expected on Friday.",
+     "The van will park far from the boardwalk.",
+     "The waiver requires protective footwear.",
+     "They will walk through water to take samples."
+    ],
+    "answer": 3,
+    "explanation": "She explains that they will be wading in to collect water samples."
+   }
+  ]
+ },
+ {
+  "id": "an-18",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement in an architecture class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "text": "I'm delighted to confirm that Maria Lindqvist, the structural engineer behind the new pedestrian bridge downtown, will join us on Thursday. Since her talk focuses on the bridge's cable design, I'd strongly suggest reviewing chapter seven on tension structures beforehand; otherwise, much of it may be hard to follow. Because she's speaking during our regular session, attendance counts as usual. Afterward, she's agreed to stay for informal questions, so if you're considering a career in engineering, that's a rare opportunity.",
+  "questions": [
+   {
+    "prompt": "Why does the professor recommend reviewing chapter seven?",
+    "options": [
+     "It will be included on the next exam.",
+     "It was written by the guest speaker.",
+     "It covers concepts the speaker will discuss.",
+     "It describes the history of the bridge."
+    ],
+    "answer": 2,
+    "explanation": "He says the talk focuses on cable design, which chapter seven on tension structures explains."
+   },
+   {
+    "prompt": "What does the professor imply about the question session after the talk?",
+    "options": [
+     "It is required for all students in the class.",
+     "It will focus mainly on chapter seven.",
+     "It may be especially valuable for some students.",
+     "It will take place on a different day."
+    ],
+    "answer": 2,
+    "explanation": "He calls it a rare opportunity for students considering a career in engineering."
+   }
+  ]
+ },
+ {
+  "id": "an-19",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement in a linguistics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "text": "Let me clarify the policy on term paper drafts, since there's been some confusion. Submitting a draft is optional, but if you turn one in by November fifteenth, I'll give you written feedback, and you'll be allowed to revise the final version after it's graded. Students who skip the draft won't have that revision option. As for late final papers, they'll lose five percent per day, with no exceptions except documented emergencies.",
+  "questions": [
+   {
+    "prompt": "What is the professor mainly doing?",
+    "options": [
+     "Explaining how to give feedback on drafts",
+     "Announcing a change in the paper's topic",
+     "Extending the deadline for final papers",
+     "Clarifying the rules for submitting term papers"
+    ],
+    "answer": 3,
+    "explanation": "She clears up confusion about drafts, revisions, and late penalties for the term paper."
+   },
+   {
+    "prompt": "What benefit do students who submit a draft receive?",
+    "options": [
+     "They avoid penalties for late final papers.",
+     "They may revise their paper after grading.",
+     "They receive five extra percentage points.",
+     "They can choose a later final deadline."
+    ],
+    "answer": 1,
+    "explanation": "She says draft submitters may revise the final version after it is graded."
+   }
+  ]
+ },
+ {
+  "id": "an-20",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement on the campus radio station.",
+  "speaker": {
+   "role": "library dean",
+   "gender": "female"
+  },
+  "text": "As many of you know, renovation of the library's east wing begins next month. During construction, the print journals and newspapers housed there will be moved temporarily to the Science Annex. Most current journals will remain available, but older volumes will be placed in off-site storage. You can still request them online, and they'll be delivered to the main circulation desk within two business days. We expect the east wing to reopen by the start of fall semester.",
+  "questions": [
+   {
+    "prompt": "What is the announcement mainly about?",
+    "options": [
+     "Why the library decided to renovate the east wing",
+     "A new online system for borrowing library books",
+     "How a renovation will affect access to library materials",
+     "The opening of a new science library on campus"
+    ],
+    "answer": 2,
+    "explanation": "The dean explains where journals will go and how to obtain them during the renovation."
+   },
+   {
+    "prompt": "What can be inferred about older journal volumes during the renovation?",
+    "options": [
+     "They will be kept in the Science Annex.",
+     "Patrons will not be able to get them immediately.",
+     "They will no longer be available to students.",
+     "They can be viewed only in digital form."
+    ],
+    "answer": 1,
+    "explanation": "Because they must be requested and take up to two business days to arrive, access is delayed."
+   }
+  ]
+ },
+ {
+  "id": "an-21",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement at a student government meeting.",
+  "speaker": {
+   "role": "sustainability officer",
+   "gender": "male"
+  },
+  "text": "Good afternoon. Beginning in January, the university will launch a bike-share program with stations at ten locations across campus. Students can ride free for the first thirty minutes of each trip. At the same time, the price of daytime parking permits will rise by fifteen percent. The additional revenue won't go into the general budget; instead, it will fund the bike-share system and expanded shuttle service. Our goal is to give commuters practical alternatives, not just higher fees.",
+  "questions": [
+   {
+    "prompt": "What will the money from higher parking fees be used for?",
+    "options": [
+     "Supporting alternative ways to travel on campus",
+     "Building additional parking areas on campus",
+     "Repairing the roads around the university",
+     "Adding to the university's general budget"
+    ],
+    "answer": 0,
+    "explanation": "He says the revenue will fund the bike-share system and expanded shuttle service."
+   },
+   {
+    "prompt": "Why does the speaker mention that the extra revenue will not go into the general budget?",
+    "options": [
+     "To explain why the bike-share program is free",
+     "To suggest that the budget has been reduced",
+     "To apologize for the higher cost of permits",
+     "To show that the fee increase serves a specific purpose"
+    ],
+    "answer": 3,
+    "explanation": "He emphasizes that the money is earmarked for transportation alternatives."
+   }
+  ]
+ },
+ {
+  "id": "an-22",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement at a graduate research symposium.",
+  "speaker": {
+   "role": "vice president for research",
+   "gender": "female"
+  },
+  "text": "Thank you all for attending this year's symposium. Before we close, I'm pleased to announce the winner of the Graduate Research Prize. This year's committee faced a particularly difficult choice, but it ultimately selected Kwame Asante, a doctoral student in civil engineering, for his work on low-cost sensors that detect cracks in aging bridges. The judges noted that his project stood out not only for its technical quality but also for its potential to help cities with limited maintenance budgets.",
+  "questions": [
+   {
+    "prompt": "What is Kwame Asante's research about?",
+    "options": [
+     "New materials for building stronger bridges",
+     "Inexpensive devices that detect damage in bridges",
+     "Methods for reducing city maintenance budgets",
+     "Software that designs bridges automatically"
+    ],
+    "answer": 1,
+    "explanation": "His work involves low-cost sensors that detect cracks in aging bridges."
+   },
+   {
+    "prompt": "According to the speaker, why did the project stand out to the judges?",
+    "options": [
+     "It was completed faster than the other projects.",
+     "It was the only engineering project entered.",
+     "It had already been adopted by several cities.",
+     "It could help cities with little money for repairs."
+    ],
+    "answer": 3,
+    "explanation": "The judges noted its potential to help cities with limited maintenance budgets."
+   }
+  ]
+ },
+ {
+  "id": "an-23",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement from the campus facilities office.",
+  "speaker": {
+   "role": "facilities manager",
+   "gender": "male"
+  },
+  "text": "This is an important notice from Facilities Management. Hartwell Hall will be closed this coming Saturday and Sunday while crews replace the building's main electrical panel. Power will be off throughout the building, so anyone with experiments running in Hartwell labs must shut them down safely by Friday at five p.m. Refrigerated samples can be stored temporarily in the cold room at the Life Sciences Building, but space is limited, so reserve a shelf through our website as soon as possible.",
+  "questions": [
+   {
+    "prompt": "Why will Hartwell Hall be closed?",
+    "options": [
+     "Its labs are being inspected for safety.",
+     "Its cold room is being repaired.",
+     "Its main electrical panel is being replaced.",
+     "Its heating system is being upgraded."
+    ],
+    "answer": 2,
+    "explanation": "He says crews will replace the building's main electrical panel over the weekend."
+   },
+   {
+    "prompt": "What does the speaker suggest about the cold room space?",
+    "options": [
+     "It is available to researchers only on weekends.",
+     "It is reserved for Life Sciences researchers.",
+     "Researchers who wait too long may not get a shelf.",
+     "It will be closed until Friday afternoon."
+    ],
+    "answer": 2,
+    "explanation": "He notes that space is limited and urges people to reserve a shelf as soon as possible."
+   }
+  ]
+ },
+ {
+  "id": "an-24",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement at a campus sporting event.",
+  "speaker": {
+   "role": "athletics director",
+   "gender": "female"
+  },
+  "text": "Good morning, and welcome to the Fall River Regatta, hosted by our rowing team for the first time in twelve years. Spectators can watch from the north bank, where bleachers have been set up near the finish line. Please don't stand on the footbridge; it needs to stay clear for emergency crews. Free shuttles to the river leave from the stadium every fifteen minutes, and since parking near the boathouse is reserved for team trailers, we strongly encourage you to use them.",
+  "questions": [
+   {
+    "prompt": "Why are spectators asked not to stand on the footbridge?",
+    "options": [
+     "It must remain clear for emergency crews.",
+     "It does not offer a view of the finish line.",
+     "It is being repaired for the event.",
+     "It is reserved for team members only."
+    ],
+    "answer": 0,
+    "explanation": "The director says the footbridge must stay clear for emergency crews."
+   },
+   {
+    "prompt": "Why does the speaker encourage spectators to take the shuttle?",
+    "options": [
+     "The stadium is too far from the river to walk.",
+     "The bleachers fill up quickly in the morning.",
+     "The shuttle stops directly at the finish line.",
+     "Parking near the boathouse is not available to them."
+    ],
+    "answer": 3,
+    "explanation": "She explains that parking near the boathouse is reserved for team trailers."
+   }
+  ]
+ },
+ {
+  "id": "an-25",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement at a residence hall meeting.",
+  "speaker": {
+   "role": "career center director",
+   "gender": "female"
+  },
+  "text": "Thanks for having me. I'm here to remind everyone that the fall career fair is next Thursday in the Student Union ballroom. This year, over eighty employers are registered, which is a record. To make better use of your time, we're asking students to preregister online; that way, employers can review your resume before you arrive. Students who preregister by Monday will also get early access from eleven to noon, an hour before the doors open to everyone else.",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the announcement?",
+    "options": [
+     "To recruit volunteers to help at a career fair",
+     "To encourage students to register before a job fair",
+     "To announce a new location for a career fair",
+     "To explain how to write an effective resume"
+    ],
+    "answer": 1,
+    "explanation": "The director stresses the benefits of preregistering online for the career fair."
+   },
+   {
+    "prompt": "What advantage do students who preregister by Monday receive?",
+    "options": [
+     "They can meet employers in private interviews.",
+     "They can enter the fair an hour early.",
+     "They receive feedback on their resumes.",
+     "They are guaranteed a job interview."
+    ],
+    "answer": 1,
+    "explanation": "She says early registrants get access from eleven to noon, before the general opening."
+   }
+  ]
+ },
+ {
+  "id": "an-26",
+  "difficulty": "advanced",
+  "intro": "Listen to an announcement on the campus radio station.",
+  "speaker": {
+   "role": "observatory outreach coordinator",
+   "gender": "male"
+  },
+  "text": "Hi, this is the outreach coordinator for the campus observatory. On Friday night, we're hosting a public viewing session to observe Jupiter, which is especially bright this month. Telescopes on the roof will be available from eight until eleven. Admission is free, but since the roof holds only forty people at a time, visitors will be admitted in groups every half hour. If it's cloudy, we'll move indoors for a planetarium show instead.",
+  "questions": [
+   {
+    "prompt": "Why will visitors be admitted in groups?",
+    "options": [
+     "Only a few telescopes are working.",
+     "The viewing area has limited space.",
+     "Jupiter is visible only for short periods.",
+     "Each group needs a guided introduction."
+    ],
+    "answer": 1,
+    "explanation": "He says the roof holds only forty people at a time."
+   },
+   {
+    "prompt": "What will happen if the sky is cloudy?",
+    "options": [
+     "Visitors will see a planetarium show.",
+     "The event will be moved to Saturday.",
+     "Visitors will watch a recorded video.",
+     "The event will be canceled entirely."
+    ],
+    "answer": 0,
+    "explanation": "He says the event will move indoors for a planetarium show."
+   }
+  ]
+ }
+]

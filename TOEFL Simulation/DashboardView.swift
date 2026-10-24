@@ -136,7 +136,7 @@ struct DashboardView: View {
 
     private var accuracyNotice: some View {
         Label {
-            Text("Practice estimates are not official TOEFL scores. ETS uses secure calibrated forms plus AI and certified raters; this app uses answer keys and a disclosed local rubric.")
+            Text("Practice estimates are not official TOEFL scores. ETS uses secure calibrated forms plus AI and certified raters; this app uses answer keys, official rubrics, and on-device speech recognition.")
         } icon: {
             Image(systemName: "info.circle.fill").foregroundStyle(TOEFLTheme.gold)
         }

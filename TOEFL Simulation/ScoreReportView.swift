@@ -78,7 +78,7 @@ struct TOEFLScoreReportView: View {
                                 Text(String(format: "%.1f", section.band)).font(.title2.bold()).foregroundStyle(TOEFLTheme.navy)
                             }
                             ProgressView(value: section.band, total: 6).tint(TOEFLTheme.action)
-                            Text("\(section.answered)/\(section.total) answered" + (section.objectiveTotal > 0 ? " · \(section.correct)/\(section.objectiveTotal) keyed" : ""))
+                            Text(rawLine(section))
                                 .font(.caption).foregroundStyle(.secondary)
                             if let route = section.route { Text(route.title).font(.caption.bold()).foregroundStyle(TOEFLTheme.teal) }
                             if selectedSection == section.kind {
@@ -98,9 +98,9 @@ struct TOEFLScoreReportView: View {
     private var methodology: some View {
         VStack(alignment: .leading, spacing: 10) {
             Label("How this estimate works", systemImage: "info.circle.fill").font(.headline).foregroundStyle(TOEFLTheme.navy)
-            Text("Reading, Listening, and Build a Sentence use exact answer keys. Adaptive routes constrain the objective estimate. Email and Academic Discussion use a local, disclosed heuristic for completion, development, lexical variety, cohesion, and email conventions. Speaking combines recording completion with your 1–5 rubric self-check.")
+            Text("Reading and Listening count only the 35 scored items on your adaptive path; unscored pretest items are marked below. Build a Sentence uses answer keys (1 point each). Email and Academic Discussion are scored 0–5 by a local engine that measures the features ETS lists for its AI scoring (task completion, elaboration, language range, cohesion, conventions, and spelling). Every Speaking response is transcribed on this device and scored 0–5 on the official rubric: Listen and Repeat by word-level accuracy against the sentence, the interview by relevance, elaboration, speaking rate, pauses, vocabulary, and cohesion. Raw totals follow the ETS scale (Reading/Listening 35, Writing 20, Speaking 55) and convert to the 1–6 bands.")
                 .font(.subheadline).foregroundStyle(.secondary)
-            Text("ETS does not publish the secure item calibration or production AI/rater model. These results diagnose practice performance and are not official, predictive, or suitable for admissions.")
+            Text("ETS combines proprietary AI scoring engines with certified human raters and IRT-equated forms; those models are not public. These results estimate practice performance and are not official TOEFL scores.")
                 .font(.subheadline.bold()).foregroundStyle(.secondary)
         }
         .toeflCard()
@@ -129,7 +129,13 @@ struct TOEFLScoreReportView: View {
         VStack(alignment: .leading, spacing: 8) {
             HStack(alignment: .top) {
                 VStack(alignment: .leading, spacing: 3) {
-                    Text("Question \(record.number) · \(record.question.taskType.title)").font(.subheadline.bold())
+                    HStack(spacing: 6) {
+                        Text("Question \(record.number) · \(record.question.taskType.title)").font(.subheadline.bold())
+                        if !record.question.countsTowardScore {
+                            Text("Unscored").font(.caption2.bold()).padding(.horizontal, 6).padding(.vertical, 2)
+                                .background(Color.secondary.opacity(0.15), in: Capsule())
+                        }
+                    }
                     Text(record.question.prompt).font(.subheadline).foregroundStyle(.secondary)
                 }
                 Spacer()
@@ -139,6 +145,10 @@ struct TOEFLScoreReportView: View {
                 Text("Transcript: \(audio)").font(.footnote).foregroundStyle(.secondary)
             }
             Text("Your answer: \(answerText(record))").font(.footnote)
+            if let score = record.answer.rubricScore {
+                Text("Rubric score \(score)/5 · \(record.answer.rubricNote ?? "")")
+                    .font(.footnote.bold()).foregroundStyle(TOEFLTheme.blue)
+            }
             if let sample = record.question.sampleAnswer, !sample.isEmpty {
                 Text((record.isCorrect == nil ? "Sample / target: " : "Key: ") + sample)
                     .font(.footnote).foregroundStyle(TOEFLTheme.teal)
@@ -150,6 +160,13 @@ struct TOEFLScoreReportView: View {
         .padding(14)
         .background(TOEFLTheme.input, in: RoundedRectangle(cornerRadius: 9))
         .overlay(RoundedRectangle(cornerRadius: 9).stroke(TOEFLTheme.border))
+    }
+
+    private func rawLine(_ section: TOEFLSectionSummary) -> String {
+        if let raw = section.rawScore, let maximum = section.rawMaximum {
+            return "Raw \(raw)/\(maximum) · \(section.answered)/\(section.total) answered"
+        }
+        return "\(section.answered)/\(section.total) answered" + (section.objectiveTotal > 0 ? " · \(section.correct)/\(section.objectiveTotal) keyed" : "")
     }
 
     @ViewBuilder
@@ -169,7 +186,8 @@ struct TOEFLScoreReportView: View {
         if !record.answer.orderedTokens.isEmpty { return record.answer.orderedTokens.joined(separator: " ") }
         if !record.answer.writtenResponse.isEmpty { return record.answer.writtenResponse }
         if record.answer.recordingDuration > 0 {
-            return String(format: "Recording %.1f sec · self-rating %d/5", record.answer.recordingDuration, record.answer.speakingSelfRating)
+            let transcript = record.answer.transcript.map { $0.isEmpty ? "(no speech recognized)" : "“\($0)”" } ?? "(not transcribed)"
+            return String(format: "%.0f-second recording · ", record.answer.recordingDuration) + transcript
         }
         return "No response"
     }

@@ -1,0 +1,734 @@
+[
+ {
+  "id": "at2-01",
+  "difficulty": "intermediate",
+  "course": "psychology",
+  "intro": "Listen to a talk in a psychology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Okay, let's get started. Today I want to talk about something called the mere exposure effect. So, here's the basic idea: the more often we're exposed to something, the more we tend to like it, even if nothing about it changes. Sounds a little strange, right? Why would just seeing something again make us like it more? Well, think about a song you didn't care for the first time you heard it. Then it keeps playing in the café where you study, and a few weeks later, you catch yourself humming it. You didn't decide to like it. It just grew on you. Researchers have tested this with all kinds of things—unfamiliar words, faces, even simple shapes. In one classic type of study, people were shown shapes so quickly they couldn't say whether they'd seen them before. And yet, when asked which shapes they preferred, they still picked the ones they'd been shown more often. Now, one explanation is that familiar things are easier for the brain to process, and we tend to mistake that ease for liking. But here's the thing: the effect has limits. If the exposure goes on too long, people get bored, and liking actually starts to drop. So repetition helps, but only up to a point.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How people choose which songs to listen to while studying",
+     "Why the brain has trouble processing unfamiliar shapes",
+     "Why repeated exposure to something tends to increase liking for it",
+     "How researchers measure boredom in laboratory studies"
+    ],
+    "answer": 2,
+    "explanation": "The professor defines the mere exposure effect and explains its causes and limits."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, what happened in studies using shapes shown very quickly?",
+    "options": [
+     "Participants could not choose which shapes they preferred",
+     "Participants preferred shapes they had seen only once",
+     "Participants remembered most of the shapes they had seen",
+     "Participants preferred shapes they had seen more often without remembering them"
+    ],
+    "answer": 3,
+    "explanation": "She says people couldn't tell if they had seen the shapes, yet still preferred the more frequently shown ones."
+   },
+   {
+    "type": "detail",
+    "prompt": "What limit of the effect does the professor mention?",
+    "options": [
+     "The effect works only with words and not with images",
+     "Too much exposure can make people bored and reduce liking",
+     "The effect disappears if people notice the repetition",
+     "The effect lasts for only a few minutes after exposure"
+    ],
+    "answer": 1,
+    "explanation": "She states that if exposure goes on too long, people get bored and liking drops."
+   },
+   {
+    "type": "function",
+    "prompt": "Why does the professor mention a song playing in a café?",
+    "options": [
+     "To give a familiar example of liking something more after hearing it repeatedly",
+     "To explain why music is often used in psychology experiments",
+     "To suggest that students should avoid studying in noisy places",
+     "To show that people usually dislike songs they hear often"
+    ],
+    "answer": 0,
+    "explanation": "The song example illustrates how repeated exposure gradually increases liking."
+   }
+  ]
+ },
+ {
+  "id": "at2-02",
+  "difficulty": "advanced",
+  "course": "economics",
+  "intro": "Listen to a talk in an economics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "So last time we defined costs in terms of what you give up going forward. Today I want to look at a way people routinely violate that logic, which economists call the sunk cost fallacy. A sunk cost is money, time, or effort that's already been spent and can't be recovered. Now, in standard economic theory, sunk costs should be irrelevant. Your decision should depend only on future costs and future benefits. Whatever you've already spent is gone no matter what you choose next. But that's not how people actually behave, is it? Imagine you've paid for a nonrefundable concert ticket, and on the night of the show you feel sick and there's a snowstorm. A lot of people will go anyway, saying, \"Well, I already paid for it.\" But the payment is gone either way. The real question is simply whether the evening will be better at the concert or at home. And this isn't just about individuals. Organizations do it too—they'll keep pouring money into a failing project because they've invested so much already. Psychologists suggest a couple of reasons. One is that people hate to admit a loss. Another is that abandoning a project can look wasteful, even when continuing is the more wasteful option. So, the lesson here: when you're deciding, look forward, not back.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the main purpose of the talk?",
+    "options": [
+     "To explain why people let past spending influence decisions it should not affect",
+     "To explain how economists calculate the total cost of a project",
+     "To compare the spending habits of individuals and organizations",
+     "To argue that nonrefundable tickets should be made refundable"
+    ],
+    "answer": 0,
+    "explanation": "The professor defines sunk costs and explains why people irrationally let them shape choices."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to standard economic theory, what should a decision depend on?",
+    "options": [
+     "The total amount of money spent so far",
+     "The opinions of people affected by the decision",
+     "How much effort has already gone into a plan",
+     "Only the costs and benefits that lie in the future"
+    ],
+    "answer": 3,
+    "explanation": "He says decisions should depend only on future costs and future benefits."
+   },
+   {
+    "type": "detail",
+    "prompt": "What reasons does the professor give for the sunk cost fallacy?",
+    "options": [
+     "People forget how much they have already spent",
+     "People expect future costs to be lower than past costs",
+     "People dislike admitting a loss and fear appearing wasteful",
+     "People trust organizations more than their own judgment"
+    ],
+    "answer": 2,
+    "explanation": "He cites people hating to admit a loss and abandoning a project looking wasteful."
+   },
+   {
+    "type": "inference",
+    "prompt": "What would the professor most likely advise the sick person with the concert ticket to do?",
+    "options": [
+     "Attend the concert so that the money spent on the ticket is not wasted",
+     "Decide based only on whether going out or staying home would be more enjoyable",
+     "Try to sell the ticket to recover part of the cost before deciding",
+     "Stay home because the ticket price was probably too high anyway"
+    ],
+    "answer": 1,
+    "explanation": "He says the real question is simply whether the evening would be better at the concert or at home."
+   }
+  ]
+ },
+ {
+  "id": "at2-03",
+  "difficulty": "intermediate",
+  "course": "sociology",
+  "intro": "Listen to a talk in a sociology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "All right, today we're looking at social networks—not the apps on your phone, but the actual web of people you're connected to. And I want to start with a question. If you were looking for a job, who do you think would be more helpful: your closest friends, or people you barely know? Most people say close friends. They care about you, right? But sociologists studying how people actually found jobs discovered something surprising. Many people heard about their jobs through acquaintances—a former classmate, someone they'd met at a conference, a neighbor they chatted with now and then. Researchers call these connections \"weak ties.\" So why would weak ties be so useful? Here's the thing. Your close friends tend to know the same people you know, go to the same places, and hear the same news. Their information overlaps a lot with yours. Acquaintances, on the other hand, move in different circles. They're like bridges to groups you'd never reach on your own, so they're more likely to tell you something you haven't already heard. Now, that doesn't mean strong ties aren't important. When you need emotional support or a big favor, close friends are usually the ones who show up. Weak ties are just better at carrying new information.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The value of acquaintances as sources of new information",
+     "The reasons people lose touch with former classmates",
+     "The ways social media apps changed how people find jobs",
+     "The kinds of emotional support close friends can provide"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains why weak ties are especially useful for passing along new information such as job leads."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, why is information from close friends often less useful for finding a job?",
+    "options": [
+     "Close friends are often unwilling to share job information",
+     "Close friends usually know the same people and news that you know",
+     "Close friends usually work in very different fields",
+     "Close friends tend to give advice that is out of date"
+    ],
+    "answer": 1,
+    "explanation": "He says close friends' information overlaps a lot with your own."
+   },
+   {
+    "type": "detail",
+    "prompt": "How does the professor describe acquaintances?",
+    "options": [
+     "As people who offer more emotional support than friends",
+     "As connections that are formed mainly at conferences",
+     "As bridges that connect a person to other social groups",
+     "As relationships that usually become close friendships"
+    ],
+    "answer": 2,
+    "explanation": "He describes acquaintances as bridges to groups you would never reach on your own."
+   },
+   {
+    "type": "function",
+    "prompt": "Why does the professor ask the students who would be more helpful in a job search?",
+    "options": [
+     "To find out how many students are currently looking for jobs",
+     "To check whether students remember the previous lecture",
+     "To encourage students to rely mainly on their close friends",
+     "To set up a common assumption that the research turns out to challenge"
+    ],
+    "answer": 3,
+    "explanation": "Most people answer close friends, which the research findings on weak ties then contradict."
+   }
+  ]
+ },
+ {
+  "id": "at2-04",
+  "difficulty": "advanced",
+  "course": "linguistics",
+  "intro": "Listen to a talk in a linguistics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Today we're turning to what happens when languages come into contact under very particular conditions. Picture a situation—historically, often a trading port or a plantation—where groups of people with no shared language suddenly need to communicate every day. What do they do? Often, what emerges is a pidgin. Now, a pidgin isn't anyone's native language. It's a contact language, and it's typically quite reduced. The vocabulary usually comes mostly from one dominant language, the grammar is simplified—you might see little or no verb inflection, for instance—and it's used for a limited range of purposes, like trade or giving instructions at work. But here's where it gets really interesting. When children grow up in a community where a pidgin is widely used, they acquire it as their first language. And in the process, the language changes dramatically. Within a generation or two, it develops consistent ways to mark tense, more complex sentence structures, and an expanded vocabulary for every area of life. At that point, linguists call it a creole. So why does this matter? Well, for one thing, creoles were long dismissed as broken versions of other languages. That view is simply wrong. A creole is a full, rule-governed language. And the speed at which children build that grammar tells us something important about the human capacity for language itself.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the main topic of the talk?",
+    "options": [
+     "Why trading ports needed professional interpreters",
+     "How children learn more than one language at once",
+     "Why some languages lose their verb inflections over time",
+     "How pidgins arise and how they can develop into creoles"
+    ],
+    "answer": 3,
+    "explanation": "The professor explains the origin of pidgins and their transformation into creoles."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, what is true of a pidgin?",
+    "options": [
+     "It borrows its vocabulary equally from many languages",
+     "It has a more complex grammar than a creole",
+     "It is used for limited purposes and has no native speakers",
+     "It is spoken mainly by children in plantation communities"
+    ],
+    "answer": 2,
+    "explanation": "She says a pidgin isn't anyone's native language and is used for a limited range of purposes."
+   },
+   {
+    "type": "detail",
+    "prompt": "What happens when children acquire a pidgin as their first language?",
+    "options": [
+     "The language gains a fuller grammar and a broader vocabulary",
+     "The language gradually disappears within a generation",
+     "The language becomes identical to the dominant language",
+     "The language loses words related to trade and work"
+    ],
+    "answer": 0,
+    "explanation": "She describes consistent tense marking, more complex sentences, and expanded vocabulary developing."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the professor's view of creoles?",
+    "options": [
+     "She thinks they are simplified versions of older languages",
+     "She considers them as complete and systematic as any other language",
+     "She believes they are less useful than pidgins for trade",
+     "She suspects they develop more slowly than linguists claim"
+    ],
+    "answer": 1,
+    "explanation": "She calls the view of creoles as broken languages simply wrong and says a creole is a full, rule-governed language."
+   }
+  ]
+ },
+ {
+  "id": "at2-05",
+  "difficulty": "intermediate",
+  "course": "education",
+  "intro": "Listen to a talk in an education class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So, let me ask you something. When you study for an exam, what do you usually do? I'm guessing a lot of you reread your notes or highlight the textbook. Am I right? Yeah, I see some nods. Well, today we're talking about a finding that might change your habits. It's called the testing effect, or sometimes retrieval practice. The idea is that trying to pull information out of your memory—actually testing yourself—helps you remember it much better than simply reviewing it again. Here's a typical experiment. Students read a short passage. Then one group rereads it a few times, while another group reads it once and then practices writing down everything they can recall. A few minutes later, the rereading group often does just as well, or even better. But a week later? The group that practiced recalling remembers significantly more. Now, why don't more students do this? Part of the problem is that rereading feels productive. The material looks familiar, so you think you know it. Testing yourself, on the other hand, feels harder because you notice the gaps. But that effort is exactly what strengthens memory. So, for teachers, this suggests that frequent low-stakes quizzes aren't just a way to check learning. They're actually a way to create it.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The best ways to highlight important information in textbooks",
+     "The reasons students feel anxious before taking exams",
+     "The benefits of practicing recall for long-term memory",
+     "The differences between reading quickly and reading slowly"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains the testing effect and why retrieval practice improves retention."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, what did the typical experiment show?",
+    "options": [
+     "Students who reread the passage remembered more a week later",
+     "Both groups remembered the same amount after a week",
+     "Students who practiced recalling forgot the passage within minutes",
+     "Students who practiced recalling the passage remembered more a week later"
+    ],
+    "answer": 3,
+    "explanation": "She says the recall group remembered significantly more after a week."
+   },
+   {
+    "type": "detail",
+    "prompt": "Why do many students prefer rereading, according to the professor?",
+    "options": [
+     "Rereading takes less time than any other study method",
+     "Familiar material makes them feel they have already learned it",
+     "Teachers usually recommend rereading notes before exams",
+     "Testing themselves requires materials they do not have"
+    ],
+    "answer": 1,
+    "explanation": "She explains that rereading feels productive because the material looks familiar."
+   },
+   {
+    "type": "inference",
+    "prompt": "What does the professor imply about low-stakes quizzes?",
+    "options": [
+     "They help students learn material rather than only measure what they know",
+     "They should replace final exams in most courses",
+     "They are less effective than rereading for most students",
+     "They mainly help teachers identify struggling students"
+    ],
+    "answer": 0,
+    "explanation": "She says quizzes are not just a way to check learning but a way to create it."
+   }
+  ]
+ },
+ {
+  "id": "at2-06",
+  "difficulty": "advanced",
+  "course": "marketing",
+  "intro": "Listen to a talk in a marketing class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "So, we've been talking about how consumers compare options. Today I want to show you how a company can influence that comparison by adding an option that almost nobody is expected to buy. This is known as the decoy effect. Let's use a movie theater. Say the theater sells a small popcorn for three dollars and a large for seven. A lot of people look at that and think, \"Seven dollars? That's a big jump,\" and they buy the small. Now the theater adds a medium popcorn for six fifty. Suddenly, the large looks like a bargain—only fifty cents more than the medium for a lot more popcorn. And in studies of this kind of setup, sales of the large option tend to go up. The medium isn't really there to be sold. It's a decoy. It's designed to be clearly worse than the large but close to it in price, so it makes the large look attractive by comparison. Now, why does this work? Traditional economic models assume that adding an option nobody wants shouldn't change how people choose between the others. But people rarely judge value in absolute terms. We judge it relative to whatever's in front of us. So, when you're reading a menu or a price list, it's worth asking: which of these options is here just to make another one look good?",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the main purpose of the talk?",
+    "options": [
+     "To describe how movie theaters decide the sizes of popcorn they sell",
+     "To argue that consumers usually choose the cheapest option available",
+     "To explain how an unattractive option can steer consumers toward another choice",
+     "To compare the profits that different pricing strategies produce"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains the decoy effect, in which an added option makes another look better."
+   },
+   {
+    "type": "detail",
+    "prompt": "In the professor's example, what happens after the medium popcorn is added?",
+    "options": [
+     "More customers buy the medium popcorn",
+     "More customers buy the large popcorn",
+     "Fewer customers buy any popcorn at all",
+     "The theater lowers the price of the large popcorn"
+    ],
+    "answer": 1,
+    "explanation": "He says sales of the large option tend to go up once the medium decoy is introduced."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, what do traditional economic models assume?",
+    "options": [
+     "Adding an unwanted option should not affect choices among the others",
+     "Consumers always judge value relative to nearby options",
+     "Consumers prefer the middle option in any set of three",
+     "Prices should rise when new options are introduced"
+    ],
+    "answer": 0,
+    "explanation": "He says traditional models assume an option nobody wants shouldn't change choices between the others."
+   },
+   {
+    "type": "inference",
+    "prompt": "What does the professor suggest about how people judge value?",
+    "options": [
+     "They usually know the fair price of a product in advance",
+     "They rarely notice differences of less than a dollar",
+     "They prefer products that have been on the market longest",
+     "They tend to evaluate prices by comparing them to other available options"
+    ],
+    "answer": 3,
+    "explanation": "He says people judge value relative to whatever is in front of them, not in absolute terms."
+   }
+  ]
+ },
+ {
+  "id": "at2-07",
+  "difficulty": "intermediate",
+  "course": "anthropology",
+  "intro": "Listen to a talk in an anthropology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Okay, last week we talked about markets. Today we're looking at exchange that isn't really about buying and selling at all. And one of the most famous examples comes from the Trobriand Islands, off the coast of New Guinea. It's called the kula ring. So, here's how it works. People on a ring of islands travel long distances by canoe to exchange two kinds of valuable objects: necklaces made of red shell, and armbands made of white shell. And these move in opposite directions. The necklaces travel around the ring clockwise, and the armbands travel counterclockwise. Now, you might be wondering, what are these objects used for? Can you trade them for food or tools? Not really. That's what puzzled early anthropologists. The objects aren't kept permanently, either. You hold one for a while, and then you pass it on to a partner on the next island. So what's the point? Well, the value lies in the relationships. Each exchange creates a lasting partnership, often between people who live far apart. And having famous objects pass through your hands brings prestige. Alongside the kula, ordinary trade often takes place too, so these partnerships help keep a whole network of islands connected. The lesson here is that exchange can be about building social bonds, not just getting things.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The methods islanders use to build long-distance canoes",
+     "The ways markets developed on islands near New Guinea",
+     "The process of making jewelry from different kinds of shell",
+     "An exchange system whose main purpose is building relationships"
+    ],
+    "answer": 3,
+    "explanation": "The professor describes the kula ring and explains that its value lies in social bonds."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, how do the two kinds of objects move?",
+    "options": [
+     "Necklaces stay on one island while armbands travel",
+     "Necklaces and armbands travel around the ring in opposite directions",
+     "Both objects travel clockwise from island to island",
+     "Each object returns to its owner after one exchange"
+    ],
+    "answer": 1,
+    "explanation": "He says necklaces travel clockwise and armbands travel counterclockwise."
+   },
+   {
+    "type": "detail",
+    "prompt": "What does the professor say about how long people keep the objects?",
+    "options": [
+     "They hold them for a while and then pass them on",
+     "They keep them permanently as family property",
+     "They return them after a single ceremony",
+     "They bury them with their owners as a sign of respect"
+    ],
+    "answer": 0,
+    "explanation": "He states the objects aren't kept permanently; people hold one for a while and then pass it on."
+   },
+   {
+    "type": "function",
+    "prompt": "Why does the professor say that the kula objects puzzled early anthropologists?",
+    "options": [
+     "To show that early anthropologists misidentified the shells",
+     "To suggest that the kula ring had only recently begun",
+     "To emphasize that the objects had little practical use in trade",
+     "To explain why the islanders kept the objects hidden"
+    ],
+    "answer": 2,
+    "explanation": "The puzzle was that the objects couldn't really be traded for food or tools, highlighting their non-economic value."
+   }
+  ]
+ },
+ {
+  "id": "at2-08",
+  "difficulty": "advanced",
+  "course": "communication",
+  "intro": "Listen to a talk in a communication class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Let's pick up where we left off with early theories of mass media. You'll remember that some early thinkers imagined media as a kind of direct injection: a message goes out, and audiences simply absorb it. Today I want to look at research that complicated that picture considerably. In the 1940s and 1950s, researchers began interviewing people about how they made everyday decisions—what products to buy, which movies to see, what fashions to follow. And what they found was that media messages often didn't reach people directly. Instead, they seemed to flow in two steps. First, information from newspapers and radio reached a group of people the researchers called opinion leaders. These were folks who paid close attention to the media in a particular area. Then, in the second step, those opinion leaders passed ideas along—through ordinary conversation—to friends, family, and coworkers who paid less attention. Now, here's what surprised the researchers. Opinion leaders weren't necessarily wealthy or powerful. They were spread throughout every social group, and someone might be an opinion leader about fashion but not about movies. So, what's the takeaway? Personal influence matters, and it often filters what media can accomplish. Later research found the process is more complex than just two steps, but the core insight—that people shape how media messages travel—has held up remarkably well.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the main topic of the talk?",
+    "options": [
+     "Research showing that media influence often passes through other people",
+     "The rise of newspapers and radio during the 1940s",
+     "The reasons people choose certain fashions and movies",
+     "The methods researchers use to interview media audiences"
+    ],
+    "answer": 0,
+    "explanation": "The professor describes the two-step flow of communication through opinion leaders."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, who were opinion leaders?",
+    "options": [
+     "People who owned newspapers and radio stations",
+     "People with the highest incomes in their communities",
+     "People who were hired to promote new products",
+     "People who followed the media closely in a particular area"
+    ],
+    "answer": 3,
+    "explanation": "She describes them as people who paid close attention to the media in a particular area."
+   },
+   {
+    "type": "detail",
+    "prompt": "What surprised the researchers about opinion leaders?",
+    "options": [
+     "They rarely talked about the media with others",
+     "They could be found in every social group",
+     "They influenced people only through written letters",
+     "They held the same role on every kind of topic"
+    ],
+    "answer": 1,
+    "explanation": "She says opinion leaders were spread throughout every social group, not just the wealthy or powerful."
+   },
+   {
+    "type": "function",
+    "prompt": "Why does the professor mention the idea of media as a direct injection?",
+    "options": [
+     "To explain how modern advertising campaigns are designed",
+     "To argue that media influence is stronger than many believe",
+     "To present an earlier view that the research she describes challenged",
+     "To introduce a theory that later researchers fully confirmed"
+    ],
+    "answer": 2,
+    "explanation": "She mentions it as the earlier picture that the two-step research complicated."
+   }
+  ]
+ },
+ {
+  "id": "at2-09",
+  "difficulty": "intermediate",
+  "course": "behavioral economics",
+  "intro": "Listen to part of a podcast about the power of default options.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "female"
+  },
+  "talk": "Welcome back to the show. Today I want to talk about one of the simplest but most powerful ideas in behavioral economics: the default option. So, what's a default? It's simply what happens if you don't make a choice. Think about when you install a new app. There's a box that's already checked, maybe for receiving notifications. Most people just leave it that way. They don't really decide; they go with whatever was set for them. Now, here's why this matters. Let's take retirement savings. For a long time, many companies required employees to sign up if they wanted to join a savings plan. Lots of people meant to do it but never got around to it. Then some companies flipped the default. New employees were enrolled automatically, and they could leave the plan anytime they wanted. And participation jumped dramatically—even though the choices available were exactly the same. So why do defaults have such a strong pull? There are a few reasons. Making a decision takes effort, and people often put it off. Some people also see the default as a kind of recommendation—like, \"This must be the sensible option.\" And, honestly, sticking with the default just feels safer. So, next time you fill out a form, take a second to look at what's already been chosen for you.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "How companies design apps to send more notifications",
+     "Why preset choices have a strong influence on people's decisions",
+     "Why employees often change jobs early in their careers",
+     "How people can plan for retirement at a young age"
+    ],
+    "answer": 1,
+    "explanation": "The host explains what default options are and why people tend to stick with them."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the host, what happened when companies enrolled new employees automatically?",
+    "options": [
+     "Many more employees ended up participating in the savings plan",
+     "Many employees complained and left the company",
+     "Most employees immediately chose to leave the plan",
+     "Companies had to offer employees more savings options"
+    ],
+    "answer": 0,
+    "explanation": "She says participation jumped dramatically after the default was flipped."
+   },
+   {
+    "type": "detail",
+    "prompt": "Which reason for the power of defaults does the host mention?",
+    "options": [
+     "People usually do not understand the available options",
+     "People are often required by law to keep the default",
+     "People may treat the default as a recommended choice",
+     "People rarely have enough time to read entire forms"
+    ],
+    "answer": 2,
+    "explanation": "She says some people see the default as a kind of recommendation."
+   },
+   {
+    "type": "function",
+    "prompt": "Why does the host mention installing a new app?",
+    "options": [
+     "To explain why notifications distract people at work",
+     "To show that app designers dislike default settings",
+     "To compare saving money with spending money on apps",
+     "To give an everyday example of people accepting a preset choice"
+    ],
+    "answer": 3,
+    "explanation": "The pre-checked notification box illustrates how people usually leave defaults as they are."
+   }
+  ]
+ },
+ {
+  "id": "at2-10",
+  "difficulty": "advanced",
+  "course": "economic anthropology",
+  "intro": "Listen to part of a podcast about unusual forms of money.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Hi, everyone, and welcome to another episode. Today's story is about some of the strangest money ever used, and what it reveals about what money really is. On the island of Yap, in the western Pacific, people traditionally used large stone discs as a form of currency. Some were small enough to carry, but others were taller than a person and weighed several tons. And here's the remarkable part: the stone wasn't found on Yap. It was quarried on islands hundreds of kilometers away and brought back by canoe, at enormous risk. So, how do you spend a stone that weighs as much as a car? Well, you don't move it. When ownership changed hands, the stone usually stayed exactly where it was. Everyone in the community simply knew, and remembered, who owned it. There's even a well-known account of a huge stone that sank to the bottom of the sea during transport. Did that make it worthless? Not at all. The community agreed it existed, so its owner's family was still considered wealthy—even though no one had seen the stone in generations. Now, you might think that's odd, but is it really so different from today? Most of our money is just numbers in a record. What gives it value is that everyone agrees on who owns what.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the main point of the podcast?",
+    "options": [
+     "Stone discs were more reliable than modern forms of currency",
+     "Pacific islanders developed advanced methods of moving heavy objects",
+     "Quarrying stone was the main economic activity on Yap",
+     "The value of money depends on shared agreement about ownership"
+    ],
+    "answer": 3,
+    "explanation": "The host uses Yap's stone money to show that money's value rests on communal agreement."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the host, what usually happened to a stone when its ownership changed?",
+    "options": [
+     "It was moved to the home of the new owner",
+     "It stayed in place while the community remembered the new owner",
+     "It was carved with the name of the new owner",
+     "It was taken back to the island where it was quarried"
+    ],
+    "answer": 1,
+    "explanation": "The host says the stone usually stayed where it was, and everyone knew who owned it."
+   },
+   {
+    "type": "detail",
+    "prompt": "What does the host say about the stone that sank during transport?",
+    "options": [
+     "Its owner's family was still regarded as wealthy",
+     "Its owner's family paid to have it recovered",
+     "It was replaced by a smaller stone from Yap",
+     "It was no longer counted as having any value"
+    ],
+    "answer": 0,
+    "explanation": "The host says the community agreed it existed, so the family remained wealthy."
+   },
+   {
+    "type": "function",
+    "prompt": "Why does the host mention that most modern money is just numbers in a record?",
+    "options": [
+     "To argue that physical money is safer than electronic money",
+     "To explain why Yap eventually stopped using stone money",
+     "To suggest that modern money works on the same principle as the stones",
+     "To show that modern money is harder to lose than stones"
+    ],
+    "answer": 2,
+    "explanation": "The comparison shows that modern money, like the stones, gets its value from shared agreement."
+   }
+  ]
+ },
+ {
+  "id": "at2-11",
+  "difficulty": "advanced",
+  "course": "organizational psychology",
+  "intro": "Listen to a talk in an organizational psychology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Today I want to talk about one of the most cited, and most debated, findings in the history of workplace research: the Hawthorne effect. The name comes from a series of studies done in the 1920s and 1930s at a large factory near Chicago. The original question was practical: does better lighting make workers more productive? So the researchers increased the lighting for one group of workers, and productivity went up. Fine, that makes sense. But then they dimmed the lights—and productivity went up again. In some cases, it kept rising until the workers could barely see. So what was going on? The interpretation that became famous was that the workers weren't responding to the lighting at all. They were responding to being studied. Knowing that researchers were paying attention to them changed how they behaved. And that's what we now call the Hawthorne effect: people change their behavior because they know they're being observed. Now, here's the complication. When later scholars went back and reanalyzed the original data, many found it far less clear-cut than the textbooks suggest. Changes in productivity could also be explained by things like feedback, practice, or changes in how workers were paid. So, does that mean the effect isn't real? Not exactly. But it does mean we should treat a famous story with some caution.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The effect of factory lighting on workers' eyesight",
+     "The development of new payment systems in factories",
+     "The methods researchers use to observe people at work",
+     "A well-known workplace finding and questions about how it was interpreted"
+    ],
+    "answer": 3,
+    "explanation": "The professor describes the Hawthorne studies and later doubts about their famous conclusion."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, what happened when the researchers dimmed the lights?",
+    "options": [
+     "Productivity continued to increase",
+     "Productivity returned to its original level",
+     "Workers asked for the lights to be brightened",
+     "The researchers stopped that part of the study"
+    ],
+    "answer": 0,
+    "explanation": "She says productivity went up again when the lights were dimmed."
+   },
+   {
+    "type": "detail",
+    "prompt": "What did later reanalyses of the original data suggest?",
+    "options": [
+     "The lighting changes had been recorded incorrectly",
+     "Other factors could also explain the changes in productivity",
+     "Workers had not known they were being studied",
+     "Productivity had actually fallen during the studies"
+    ],
+    "answer": 1,
+    "explanation": "She mentions feedback, practice, and changes in pay as alternative explanations."
+   },
+   {
+    "type": "inference",
+    "prompt": "What is the professor's attitude toward the Hawthorne effect?",
+    "options": [
+     "She believes it has been completely disproven by later research",
+     "She considers it the most reliable finding in workplace research",
+     "She thinks it may exist but that its famous evidence is weaker than often claimed",
+     "She thinks it applies only to studies involving lighting"
+    ],
+    "answer": 2,
+    "explanation": "She says it doesn't mean the effect isn't real but that the famous story should be treated with caution."
+   }
+  ]
+ },
+ {
+  "id": "at2-12",
+  "difficulty": "intermediate",
+  "course": "developmental psychology",
+  "intro": "Listen to a talk in a developmental psychology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Okay, so today we're going to look at a kind of mistake that young children make when they're learning to talk—and why that mistake is actually a good sign. If you've spent time around a three- or four-year-old, you've probably heard something like, \"I goed to the park,\" or \"I saw two mouses.\" Now, adults almost never say \"goed\" or \"mouses.\" So where do children get these words? They can't be copying them. Here's what's happening. The child has figured out a general rule of English: to talk about the past, you add \"-ed,\" and to make a plural, you add \"-s.\" And then they apply that rule to everything—even to irregular words that don't follow it. Linguists call this overregularization. And what's really interesting is the pattern over time. Very young children often say \"went\" correctly at first, probably because they've memorized it as a single word. Then, as they learn the rule, they switch to \"goed.\" And later, they go back to \"went\" again, once they've learned which words are exceptions. So their accuracy actually gets worse before it gets better. So, why does this matter? Because it shows that children aren't just imitating what they hear. They're actively working out the system behind the language. The errors are evidence of learning, not a lack of it.",
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The ages at which children usually begin to speak",
+     "The reasons English has so many irregular verbs",
+     "The methods parents use to correct children's speech",
+     "A type of language error that shows children are learning grammatical rules"
+    ],
+    "answer": 3,
+    "explanation": "The professor explains overregularization and what it reveals about language learning."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the professor, why can't children be copying words like \"goed\"?",
+    "options": [
+     "Children rarely listen to adult conversations",
+     "Adults rarely use those forms",
+     "Those forms are too long for young children",
+     "Children learn words mainly from books"
+    ],
+    "answer": 1,
+    "explanation": "He notes that adults almost never say goed or mouses, so children can't be imitating them."
+   },
+   {
+    "type": "detail",
+    "prompt": "What pattern does the professor describe in how children use the word \"went\"?",
+    "options": [
+     "They use it correctly, then say \"goed,\" and later use \"went\" again",
+     "They say \"goed\" first and then learn \"went\" permanently",
+     "They use \"went\" and \"goed\" equally at all ages",
+     "They avoid using any past tense forms until age five"
+    ],
+    "answer": 0,
+    "explanation": "He describes accuracy getting worse before it gets better: went, then goed, then went again."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the professor's view of overregularization errors?",
+    "options": [
+     "He thinks parents should correct them immediately",
+     "He believes they show a lack of attention to adults",
+     "He sees them as a positive sign of language development",
+     "He considers them a sign of a learning difficulty"
+    ],
+    "answer": 2,
+    "explanation": "He says the errors are evidence of learning, not a lack of it, and calls the mistake a good sign."
+   }
+  ]
+ }
+]

@@ -1,0 +1,732 @@
+[
+ {
+  "id": "dl2-01",
+  "difficulty": "intermediate",
+  "text_type": "advertisement",
+  "title": "Bicycle for Sale",
+  "text": "FOR SALE: Commuter Bicycle\nGently used 21-speed bike, blue, medium frame.\nNew tires and brakes installed last month.\nIncludes front basket, lock, and rear light.\nAsking $140 (firm).\nTest rides available on weekends only.\nCall or text Dana at 555-0148 after 6 PM. Cash only, please.",
+  "questions": [
+   {
+    "prompt": "What is mentioned about the bicycle?",
+    "options": [
+     "It comes with a helmet and gloves.",
+     "Some of its parts were recently replaced.",
+     "It has never been ridden before.",
+     "It is available in several colors."
+    ],
+    "answer": 1,
+    "explanation": "The ad says new tires and brakes were installed last month."
+   },
+   {
+    "prompt": "The word \"firm\" in the advertisement is closest in meaning to",
+    "options": [
+     "serious",
+     "sturdy",
+     "official",
+     "fixed"
+    ],
+    "answer": 3,
+    "explanation": "\"Firm\" after a price means the seller will not change or lower it."
+   }
+  ]
+ },
+ {
+  "id": "dl2-02",
+  "difficulty": "intermediate",
+  "text_type": "news_article",
+  "title": "Community Garden Expands",
+  "text": "MAPLE HEIGHTS — The Maple Street Community Garden will open 24 new raised-bed plots this spring, nearly doubling its size. The expansion was made possible by a grant from the county parks department, which also paid for a new water line and a tool shed.\n\nPlots measure 4 by 8 feet and rent for $30 per season. Residents who have never had a plot before will be given priority during the first two weeks of registration, which begins March 3. After that, any remaining plots will be offered to returning gardeners.\n\n\"We've had a waiting list for three years,\" said garden coordinator Ellen Ruiz. \"This finally gives more neighbors a chance to grow their own food.\"",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the article?",
+    "options": [
+     "To ask residents to donate gardening tools",
+     "To announce that a local garden is getting larger",
+     "To explain how to build a raised-bed plot",
+     "To report on a dispute over garden fees"
+    ],
+    "answer": 1,
+    "explanation": "The article reports that the garden is adding 24 plots and nearly doubling in size."
+   },
+   {
+    "prompt": "According to the article, who will get first access to the new plots?",
+    "options": [
+     "People who have not rented a plot before",
+     "Employees of the county parks department",
+     "Gardeners who rented plots last season",
+     "Residents who live closest to the garden"
+    ],
+    "answer": 0,
+    "explanation": "Residents who have never had a plot get priority for the first two weeks."
+   },
+   {
+    "prompt": "What can be inferred from Ellen Ruiz's statement?",
+    "options": [
+     "The garden recently lost several members.",
+     "Most neighbors prefer to buy food at stores.",
+     "Demand for plots has been greater than the supply.",
+     "The waiting list will now be closed for good."
+    ],
+    "answer": 2,
+    "explanation": "A three-year waiting list shows more people wanted plots than were available."
+   }
+  ]
+ },
+ {
+  "id": "dl2-03",
+  "difficulty": "intermediate",
+  "text_type": "form",
+  "title": "Lost Item Report",
+  "text": "LOST ITEM REPORT\nWestfield Recreation Center\nName: Priya Natarajan\nPhone: 555-0192\nItem: Black water bottle with a green lid and a mountain sticker\nLast seen: Tuesday, about 7:30 PM\nLocation: Basketball court 2, near the bleachers\nContact me by: [X] Phone  [ ] Email\nStaff note: Items not claimed within 30 days are donated to charity.",
+  "questions": [
+   {
+    "prompt": "Where did Priya most likely leave her item?",
+    "options": [
+     "In a locker room on Tuesday morning",
+     "Near the seating beside a basketball court",
+     "Next to the entrance of the swimming pool",
+     "At the front desk of the center"
+    ],
+    "answer": 1,
+    "explanation": "The form lists basketball court 2, near the bleachers, which are seats."
+   },
+   {
+    "prompt": "What will probably happen if the bottle is found but not picked up within a month?",
+    "options": [
+     "It will be given away.",
+     "It will be mailed to Priya's home.",
+     "It will be kept at the center permanently.",
+     "Priya will be charged a storage fee."
+    ],
+    "answer": 0,
+    "explanation": "The staff note says unclaimed items are donated after 30 days."
+   }
+  ]
+ },
+ {
+  "id": "dl2-04",
+  "difficulty": "intermediate",
+  "text_type": "invoice",
+  "title": "Laptop Repair Invoice",
+  "text": "BRIGHTLINE COMPUTER REPAIR\nInvoice #2741    Date: October 9\nCustomer: Marcus Bell\nDevice: Laptop (14-inch)\n\nDiagnostic fee ............ $40.00\nReplacement keyboard ...... $65.00\nLabor (1.5 hours) ......... $75.00\nScreen cleaning ........... FREE\n\nSubtotal .................. $180.00\nStudent discount (10%) .... -$18.00\nTotal due ................. $162.00\n\nPayment is due within 15 days. The diagnostic fee is waived for customers who return for another repair within 60 days. All replacement parts carry a 90-day warranty.",
+  "questions": [
+   {
+    "prompt": "What problem did the shop most likely fix?",
+    "options": [
+     "The battery would not hold a charge.",
+     "The laptop screen was cracked.",
+     "Some keys on the laptop were not working.",
+     "The computer had a harmful virus."
+    ],
+    "answer": 2,
+    "explanation": "The invoice charges for a replacement keyboard, suggesting the keys had a problem."
+   },
+   {
+    "prompt": "Why is the total due lower than the subtotal?",
+    "options": [
+     "The screen cleaning was not charged.",
+     "The diagnostic fee was waived.",
+     "Marcus received a discount as a student.",
+     "The labor took less time than planned."
+    ],
+    "answer": 2,
+    "explanation": "The invoice subtracts a 10 percent student discount from the subtotal."
+   },
+   {
+    "prompt": "What is indicated about the replacement keyboard?",
+    "options": [
+     "It is covered by a warranty for three months.",
+     "It must be paid for within 60 days.",
+     "It was ordered from a different store.",
+     "It was installed free of charge."
+    ],
+    "answer": 0,
+    "explanation": "All replacement parts carry a 90-day warranty, which is about three months."
+   }
+  ]
+ },
+ {
+  "id": "dl2-05",
+  "difficulty": "intermediate",
+  "text_type": "receipt",
+  "title": "Cafe Receipt",
+  "text": "CORNER CUP CAFE\n412 Elm Avenue\nOct 14    8:52 AM\n\n1 Large Hot Tea ........ $3.25\n1 Blueberry Muffin ..... $2.75\n1 Egg Sandwich ......... $5.50\nSubtotal ............... $11.50\nReward: free drink ..... -$3.25\nTotal .................. $8.25\nPaid: Card\n\nStamps on your card: 0 of 10\nShow this receipt for 10% off any purchase after 3 PM today!",
+  "questions": [
+   {
+    "prompt": "Why did the customer not pay for the tea?",
+    "options": [
+     "The cafe had prepared the wrong drink.",
+     "The tea was part of a breakfast special.",
+     "The customer paid for it with cash.",
+     "The customer used a loyalty reward."
+    ],
+    "answer": 3,
+    "explanation": "The receipt shows a free-drink reward, and the stamp card was reset to zero."
+   },
+   {
+    "prompt": "How can the customer get a discount on a future purchase?",
+    "options": [
+     "By buying ten drinks in a single visit",
+     "By paying with cash instead of a card",
+     "By ordering before 9 AM the next morning",
+     "By returning to the cafe later the same day"
+    ],
+    "answer": 3,
+    "explanation": "The receipt offers 10 percent off any purchase after 3 PM that day."
+   }
+  ]
+ },
+ {
+  "id": "dl2-06",
+  "difficulty": "intermediate",
+  "text_type": "text_messages",
+  "title": "Dinner Shopping",
+  "text": "Jenna (4:05 PM): I'm at the grocery store for Saturday's dinner. Did we decide on pasta or tacos?\nOmar (4:07 PM): Tacos! Leo can't eat wheat, remember?\nJenna (4:08 PM): Right, good call. Should I get corn tortillas, then?\nOmar (4:09 PM): Yes. And we still have rice and beans at home, so skip those.\nJenna (4:11 PM): Got it. How many people are coming now?\nOmar (4:12 PM): Eight, counting us. Mia's bringing dessert, so don't buy any.\nJenna (4:14 PM): Perfect. I'll grab avocados too, but they're pretty hard. Hopefully they'll be ready by Saturday.",
+  "questions": [
+   {
+    "prompt": "Why did Jenna send her first message?",
+    "options": [
+     "To complain about prices at the store",
+     "To confirm which meal she should shop for",
+     "To invite Omar to a dinner party",
+     "To ask Omar to meet her at the store"
+    ],
+    "answer": 1,
+    "explanation": "Jenna asks whether they decided on pasta or tacos while she is shopping."
+   },
+   {
+    "prompt": "Why did they choose tacos for the dinner?",
+    "options": [
+     "They already had tortillas at home.",
+     "Tacos are cheaper to make than pasta.",
+     "One of the guests cannot eat wheat.",
+     "Mia specifically asked for tacos."
+    ],
+    "answer": 2,
+    "explanation": "Omar reminds Jenna that Leo can't eat wheat."
+   },
+   {
+    "prompt": "What does Jenna imply about the avocados?",
+    "options": [
+     "They are not needed for tacos.",
+     "They are not ripe yet.",
+     "Omar does not like them.",
+     "They are too expensive."
+    ],
+    "answer": 1,
+    "explanation": "She says they are hard and hopes they will be ready by Saturday."
+   }
+  ]
+ },
+ {
+  "id": "dl2-07",
+  "difficulty": "intermediate",
+  "text_type": "email",
+  "title": "Library Hold Notice",
+  "text": "To: Samuel Okafor\nFrom: Glenwood Public Library\nSubject: Your hold is ready\n\nDear Samuel,\nThe audiobook you requested, Rivers of the High Plains, is now available. It will be held at the front desk until Friday, November 7. Please bring your library card or a photo ID. If you no longer need the item, simply reply to cancel your hold.",
+  "questions": [
+   {
+    "prompt": "What is the purpose of the email?",
+    "options": [
+     "To remind Samuel that a book he borrowed is overdue",
+     "To ask Samuel to renew his library card soon",
+     "To tell Samuel that an item he requested can be collected",
+     "To announce new opening hours at the library"
+    ],
+    "answer": 2,
+    "explanation": "The email says the audiobook he requested is now available at the front desk."
+   },
+   {
+    "prompt": "What should Samuel do if he does not want the item anymore?",
+    "options": [
+     "Respond to the email",
+     "Call the front desk",
+     "Visit the library by Friday",
+     "Return his library card"
+    ],
+    "answer": 0,
+    "explanation": "The email says to reply to cancel the hold."
+   }
+  ]
+ },
+ {
+  "id": "dl2-08",
+  "difficulty": "intermediate",
+  "text_type": "schedule",
+  "title": "Campus Shuttle Schedule",
+  "text": "CAMPUS LOOP SHUTTLE — FALL SEMESTER\nMonday–Friday\nFirst bus leaves Main Gate: 7:00 AM\nLast bus leaves Main Gate: 10:30 PM\nBuses every 15 minutes (every 30 minutes after 7:00 PM)\n\nStops in order: Main Gate → Science Library → Student Union → Hilltop Dorms → Athletic Fields → Main Gate\nOne full loop takes about 25 minutes.\n\nSaturday: 10:00 AM–6:00 PM, every 40 minutes\nSunday: No service\n\nRiders must show a valid student ID. Bikes are not permitted on board.",
+  "questions": [
+   {
+    "prompt": "How often does the shuttle run at 8:00 PM on a Wednesday?",
+    "options": [
+     "Every 15 minutes",
+     "Every 25 minutes",
+     "Every 30 minutes",
+     "Every 40 minutes"
+    ],
+    "answer": 2,
+    "explanation": "On weekdays, buses run every 30 minutes after 7:00 PM."
+   },
+   {
+    "prompt": "A student at Hilltop Dorms wants to ride to the Science Library. What is true?",
+    "options": [
+     "She must change buses at the Student Union.",
+     "She cannot make the trip on a Saturday.",
+     "She will arrive in about five minutes.",
+     "The bus will stop at two other places on the way."
+    ],
+    "answer": 3,
+    "explanation": "From Hilltop Dorms the bus goes to Athletic Fields and Main Gate before reaching the Science Library."
+   },
+   {
+    "prompt": "What is stated about riding the shuttle?",
+    "options": [
+     "Passengers need to show identification.",
+     "Passengers must pay a small fare.",
+     "Passengers may bring bikes on Saturdays.",
+     "Passengers should reserve seats in advance."
+    ],
+    "answer": 0,
+    "explanation": "The schedule says riders must show a valid student ID."
+   }
+  ]
+ },
+ {
+  "id": "dl2-09",
+  "difficulty": "intermediate",
+  "text_type": "advertisement",
+  "title": "Pottery Workshop",
+  "text": "LEARN THE POTTER'S WHEEL!\nBeginner Workshops at the Harbor Arts Center\n\nSpend four Saturday mornings learning to shape bowls, cups, and plates on a potter's wheel. Small classes (no more than 8 students) mean plenty of one-on-one help from instructor Teresa Lindqvist, who has taught ceramics for over 15 years.\n\nDates: November 1, 8, 15, and 22, 9:00 AM–12:00 PM\nCost: $120 (all clay, tools, and glazes included)\nFiring: Finished pieces will be fired in our kiln and ready for pickup two weeks after the final class.\n\nWear clothes you don't mind getting dirty! Register online or at the front desk.",
+  "questions": [
+   {
+    "prompt": "What is included in the price of the workshop?",
+    "options": [
+     "All the materials needed to make the pieces",
+     "An apron to protect students' clothing",
+     "Delivery of finished pieces to students' homes",
+     "A private lesson with the instructor"
+    ],
+    "answer": 0,
+    "explanation": "The cost includes all clay, tools, and glazes."
+   },
+   {
+    "prompt": "The word \"fired\" in the advertisement is closest in meaning to",
+    "options": [
+     "baked at a high heat",
+     "painted in bright colors",
+     "thrown very quickly",
+     "dismissed from a job"
+    ],
+    "answer": 0,
+    "explanation": "Pottery is fired by heating it in a kiln."
+   },
+   {
+    "prompt": "When will students most likely be able to collect their finished work?",
+    "options": [
+     "In late January",
+     "At the end of each class",
+     "In early December",
+     "In the middle of November"
+    ],
+    "answer": 2,
+    "explanation": "Pieces are ready two weeks after the final class on November 22, which is early December."
+   }
+  ]
+ },
+ {
+  "id": "dl2-10",
+  "difficulty": "intermediate",
+  "text_type": "text_messages",
+  "title": "Running Late",
+  "text": "Kayla (6:40 PM): Running late — my bus broke down. I'll be there in 20 min.\nDev (6:41 PM): No worries. The movie starts at 7:15, so you should still make it.\nKayla (6:42 PM): Can you buy my ticket? I'll pay you back.\nDev (6:43 PM): Already did. I'll save you a seat near the back.\nKayla (6:44 PM): You're the best!",
+  "questions": [
+   {
+    "prompt": "Why is Kayla late?",
+    "options": [
+     "She had to stay late at her job.",
+     "There was a problem with her transportation.",
+     "She went to the wrong theater first.",
+     "She forgot what time the movie started."
+    ],
+    "answer": 1,
+    "explanation": "Kayla says her bus broke down."
+   },
+   {
+    "prompt": "What can be inferred about Dev?",
+    "options": [
+     "He thinks Kayla will miss the start of the movie.",
+     "He prefers to sit near the front of the theater.",
+     "He bought Kayla's ticket before she asked him to.",
+     "He wants Kayla to pay him back tonight."
+    ],
+    "answer": 2,
+    "explanation": "When Kayla asks, Dev replies that he already bought it."
+   }
+  ]
+ },
+ {
+  "id": "dl2-11",
+  "difficulty": "advanced",
+  "text_type": "news_article",
+  "title": "Streetlight Upgrade",
+  "text": "CITY BRIEFS\nStreetlight Upgrade Begins Monday\nCrews will start replacing the city's 3,200 older streetlights with energy-efficient LED fixtures on Monday, beginning in the Northside district. Officials expect the project to cut the city's lighting costs by roughly 40 percent. Brief lane closures are anticipated, though work will be scheduled outside rush hours wherever feasible.",
+  "questions": [
+   {
+    "prompt": "What is the expected benefit of the project?",
+    "options": [
+     "Fewer traffic accidents at night",
+     "Lower spending on street lighting",
+     "Brighter streets only in Northside",
+     "Faster commutes during rush hour"
+    ],
+    "answer": 1,
+    "explanation": "Officials expect lighting costs to drop by about 40 percent."
+   },
+   {
+    "prompt": "The word \"feasible\" in the article is closest in meaning to",
+    "options": [
+     "affordable",
+     "possible",
+     "required",
+     "popular"
+    ],
+    "answer": 1,
+    "explanation": "\"Wherever feasible\" means wherever it can be done."
+   }
+  ]
+ },
+ {
+  "id": "dl2-12",
+  "difficulty": "advanced",
+  "text_type": "form",
+  "title": "Shelter Volunteer Application",
+  "text": "VOLUNTEER APPLICATION — Pinecrest Animal Shelter\n\nName: Tomás Herrera     Age: 17\nAvailability: [X] Weekday evenings  [ ] Weekday mornings  [X] Sunday afternoons\nPreferred role: [ ] Dog walking  [X] Cat care  [ ] Front desk  [ ] Fundraising\nPrior experience: Fostered two kittens for a neighbor last summer\n\nPlease note:\n• Volunteers must be at least 16; those under 18 need a signed parent consent form.\n• All new volunteers attend a two-hour orientation before their first shift.\n• Dog walkers must also complete a handling course.\n• We ask for a commitment of at least 4 hours per month for six months.",
+  "questions": [
+   {
+    "prompt": "What will Tomás need to provide with his application?",
+    "options": [
+     "Proof that he has walked dogs",
+     "A certificate from a handling course",
+     "A letter from his former neighbor",
+     "A form signed by a parent"
+    ],
+    "answer": 3,
+    "explanation": "Tomás is 17, and volunteers under 18 need a signed parent consent form."
+   },
+   {
+    "prompt": "Why is Tomás probably interested in the role he selected?",
+    "options": [
+     "He is too young to walk dogs.",
+     "He wants to help the shelter raise money.",
+     "He can volunteer only on weekday mornings.",
+     "He has experience caring for young cats."
+    ],
+    "answer": 3,
+    "explanation": "He lists fostering two kittens as his prior experience and chose cat care."
+   },
+   {
+    "prompt": "What is indicated about the shelter's expectations of volunteers?",
+    "options": [
+     "They should work every Sunday afternoon.",
+     "They should help regularly for at least half a year.",
+     "They must be at least 18 years old.",
+     "They must choose more than one role."
+    ],
+    "answer": 1,
+    "explanation": "The shelter asks for at least 4 hours per month for six months."
+   }
+  ]
+ },
+ {
+  "id": "dl2-13",
+  "difficulty": "advanced",
+  "text_type": "invoice",
+  "title": "Catering Invoice",
+  "text": "INVOICE #C-0588\nSunrise Catering Co.\nBill to: Hollis Elementary PTA\nEvent: Teacher Appreciation Lunch, May 6\n\nBuffet lunch (40 guests × $14) .... $560.00\nDeposit received April 2 ........... -$200.00\nBalance due ........................ $360.00\n\nBalance must be paid 7 days before the event. Cancellations made after April 29 forfeit the deposit.",
+  "questions": [
+   {
+    "prompt": "By what date must the PTA pay the remaining amount?",
+    "options": [
+     "April 2",
+     "April 29",
+     "May 13",
+     "May 6"
+    ],
+    "answer": 1,
+    "explanation": "The balance is due 7 days before the May 6 event, which is April 29."
+   },
+   {
+    "prompt": "The word \"forfeit\" in the invoice is closest in meaning to",
+    "options": [
+     "delay",
+     "lose",
+     "double",
+     "return"
+    ],
+    "answer": 1,
+    "explanation": "Late cancellations mean the PTA gives up, or loses, its deposit."
+   }
+  ]
+ },
+ {
+  "id": "dl2-14",
+  "difficulty": "advanced",
+  "text_type": "receipt",
+  "title": "Hardware Store Exchange",
+  "text": "OAKRIDGE HARDWARE\nStore #12    Oct 18    2:47 PM\nRETURN / EXCHANGE\n\nReturned: Cordless drill (model 3B) ...... -$89.99\n  Reason: Battery would not hold a charge\nPurchased: Cordless drill (model 3C) ..... $104.99\nPurchased: Wood screws, 100 pack ......... $6.49\n\nNet amount ............................... $21.49\nTax ...................................... $1.72\nTotal charged to card .................... $23.21\n\nReturns accepted within 30 days with receipt. Power tools must include all original parts and packaging. Store credit only after 30 days.",
+  "questions": [
+   {
+    "prompt": "Why did the customer return the drill?",
+    "options": [
+     "It was the wrong model.",
+     "It had a problem with its battery.",
+     "It cost more than expected.",
+     "It was missing some parts."
+    ],
+    "answer": 1,
+    "explanation": "The listed reason is that the battery would not hold a charge."
+   },
+   {
+    "prompt": "What can be inferred about the customer's new drill?",
+    "options": [
+     "It costs more than the one that was returned.",
+     "It cannot be returned after today.",
+     "It came with a free pack of screws.",
+     "It was paid for with store credit."
+    ],
+    "answer": 0,
+    "explanation": "The new drill is $104.99, while the returned one was $89.99."
+   },
+   {
+    "prompt": "According to the receipt, what happens if an item is returned after 30 days?",
+    "options": [
+     "The return is refused unless it is a power tool.",
+     "The item can be exchanged only for the same model.",
+     "The customer must pay an extra restocking fee.",
+     "The customer receives store credit instead of money."
+    ],
+    "answer": 3,
+    "explanation": "The receipt states that only store credit is given after 30 days."
+   }
+  ]
+ },
+ {
+  "id": "dl2-15",
+  "difficulty": "advanced",
+  "text_type": "email",
+  "title": "Water Shutoff Notice",
+  "text": "To: All Residents, Linden Court Apartments\nFrom: Building Management\nSubject: Water shutoff — Thursday, November 13\n\nDear Residents,\n\nTo replace a corroded section of the main supply pipe, water service to the entire building will be shut off on Thursday, November 13, from 9:00 AM until approximately 3:00 PM. Please store enough water in advance for drinking and cooking.\n\nWhen service resumes, the water may look cloudy for a few minutes. This is harmless; simply run your cold tap until it clears. Avoid using hot water until then, as sediment can enter your water heater.\n\nIf the work is completed early, we will notify you by text.\n\nSincerely,\nRachel Kim, Property Manager",
+  "questions": [
+   {
+    "prompt": "Why will the water be shut off?",
+    "options": [
+     "A damaged pipe needs to be replaced.",
+     "New taps are being installed in each unit.",
+     "The water has been found to be unsafe.",
+     "The water heaters are being inspected."
+    ],
+    "answer": 0,
+    "explanation": "Management is replacing a corroded section of the main supply pipe."
+   },
+   {
+    "prompt": "The word \"resumes\" in the email is closest in meaning to",
+    "options": [
+     "slows down",
+     "is reduced",
+     "is tested",
+     "starts again"
+    ],
+    "answer": 3,
+    "explanation": "\"When service resumes\" means when the water comes back on."
+   },
+   {
+    "prompt": "What does the email suggest about using hot water right after service returns?",
+    "options": [
+     "It could allow particles to get into an appliance.",
+     "It will not be available until the next day.",
+     "It is necessary to restart the water heater.",
+     "It will clear the cloudy water more quickly."
+    ],
+    "answer": 0,
+    "explanation": "The email warns that sediment can enter the water heater if hot water is used too soon."
+   }
+  ]
+ },
+ {
+  "id": "dl2-16",
+  "difficulty": "advanced",
+  "text_type": "schedule",
+  "title": "Pool Lane Schedule",
+  "text": "WEEKDAY POOL SCHEDULE\n6:00–8:00 AM: Lap swim (all 8 lanes)\n8:00–11:00 AM: Lap swim (lanes 1–4) / Water aerobics (lanes 5–8)\n11:00 AM–1:00 PM: Swim lessons (closed to public)\n1:00–5:00 PM: Open swim\n5:00–7:00 PM: Swim team (lanes 1–6) / Lap swim (lanes 7–8)\n*Lap lanes are first come, first served.",
+  "questions": [
+   {
+    "prompt": "When is the pool unavailable to the general public?",
+    "options": [
+     "From 11:00 AM to 1:00 PM",
+     "From 6:00 AM to 8:00 AM",
+     "From 1:00 PM to 5:00 PM",
+     "From 5:00 PM to 7:00 PM"
+    ],
+    "answer": 0,
+    "explanation": "The schedule shows swim lessons from 11:00 AM to 1:00 PM, when the pool is closed to the public."
+   },
+   {
+    "prompt": "What can be inferred about lap swimming in the early evening?",
+    "options": [
+     "Lap swimmers must reserve a lane in advance.",
+     "Lap swimmers must share lanes with aerobics classes.",
+     "Space for it is more limited than in the early morning.",
+     "It is not offered at all after 5:00 PM."
+    ],
+    "answer": 2,
+    "explanation": "Only 2 lanes are for laps from 5:00 to 7:00 PM, compared with all 8 lanes early in the morning."
+   }
+  ]
+ },
+ {
+  "id": "dl2-17",
+  "difficulty": "advanced",
+  "text_type": "advertisement",
+  "title": "Tutor Job Opening",
+  "text": "NOW HIRING: Part-Time Math Tutors\nNorthgate Learning Center seeks tutors for students in grades 6–10. Flexible afternoon and evening shifts; 8–15 hours per week. Applicants should be comfortable explaining algebra and geometry; prior teaching experience is a plus but not essential. Paid training provided. Send a résumé and the names of two references to the center director by June 1.",
+  "questions": [
+   {
+    "prompt": "What is expected of applicants?",
+    "options": [
+     "Availability on weekday mornings",
+     "A university degree in mathematics",
+     "Previous experience working as a teacher",
+     "The ability to explain certain math topics"
+    ],
+    "answer": 3,
+    "explanation": "Applicants should be comfortable explaining algebra and geometry."
+   },
+   {
+    "prompt": "The phrase \"a plus\" in the advertisement is closest in meaning to",
+    "options": [
+     "a bonus payment",
+     "a problem",
+     "a requirement",
+     "an advantage"
+    ],
+    "answer": 3,
+    "explanation": "Teaching experience is helpful but not essential, so it is an advantage."
+   }
+  ]
+ },
+ {
+  "id": "dl2-18",
+  "difficulty": "advanced",
+  "text_type": "news_article",
+  "title": "Museum Reopening",
+  "text": "Hartwell Museum Reopens After Renovation\n\nAfter a two-year, $18 million renovation, the Hartwell Museum of Natural History will reopen to the public on Saturday. The project added climate-controlled galleries, which will allow the museum to display delicate items, such as pressed plants and insect specimens, that had been kept in storage for decades.\n\nTo prevent overcrowding during the first month, visitors will need timed-entry tickets, which can be reserved online up to two weeks in advance. Admission itself remains free, as it has been since the museum's founding.\n\nMuseum director Alan Pruitt said the renovation also improved accessibility. \"Every gallery can now be reached by elevator,\" he noted, \"which wasn't true before.\"",
+  "questions": [
+   {
+    "prompt": "Why can the museum now display items that were previously stored?",
+    "options": [
+     "It received the items as recent donations.",
+     "It has hired more guards to protect them.",
+     "Its new galleries keep conditions carefully controlled.",
+     "Its storage rooms were turned into galleries."
+    ],
+    "answer": 2,
+    "explanation": "The renovation added climate-controlled galleries suitable for delicate items."
+   },
+   {
+    "prompt": "What is implied about the timed-entry tickets?",
+    "options": [
+     "They can be obtained only at the museum.",
+     "They cost more than regular admission.",
+     "They are intended as a temporary measure.",
+     "They are needed only for the new galleries."
+    ],
+    "answer": 2,
+    "explanation": "Timed tickets are required to prevent overcrowding during the first month."
+   },
+   {
+    "prompt": "What does Alan Pruitt's statement suggest about the museum before the renovation?",
+    "options": [
+     "It charged visitors an admission fee.",
+     "It was often too crowded to enter.",
+     "Some galleries were hard for certain visitors to reach.",
+     "It did not have any elevators at all."
+    ],
+    "answer": 2,
+    "explanation": "He says every gallery can now be reached by elevator, which was not true before."
+   }
+  ]
+ },
+ {
+  "id": "dl2-19",
+  "difficulty": "advanced",
+  "text_type": "text_messages",
+  "title": "Shift Swap",
+  "text": "Nadia (11:02 AM): Could you cover my Friday closing shift? My sister's flight got moved up.\nBen (11:15 AM): I'm on Saturday morning, so closing Friday would be rough. Could Jorge take it?\nNadia (11:16 AM): Asked already — he's away.\nBen (11:20 AM): OK, I'll do it if you take my Saturday opening.\nNadia (11:21 AM): Deal. I'll let the manager know.",
+  "questions": [
+   {
+    "prompt": "Why is Ben reluctant at first to help Nadia?",
+    "options": [
+     "He has never worked a closing shift.",
+     "He is scheduled to work early the next day.",
+     "He has plans with his own family.",
+     "He thinks the manager would object."
+    ],
+    "answer": 1,
+    "explanation": "Ben says he works Saturday morning, so closing Friday would be hard."
+   },
+   {
+    "prompt": "What do Nadia and Ben finally agree to do?",
+    "options": [
+     "Ask the manager to find someone else",
+     "Split the Friday shift between them",
+     "Both work the Saturday opening",
+     "Trade one shift with each other"
+    ],
+    "answer": 3,
+    "explanation": "Ben will close Friday if Nadia takes his Saturday opening."
+   }
+  ]
+ },
+ {
+  "id": "dl2-20",
+  "difficulty": "advanced",
+  "text_type": "email",
+  "title": "Membership Freeze",
+  "text": "To: Leah Brennan\nFrom: Summit Fitness Member Services\nSubject: Re: Membership freeze request\n\nHi Leah,\n\nThanks for letting us know about your study-abroad semester. We've approved your request to freeze your membership from January 5 through May 20. During that period, your monthly fee will drop from $45 to a $5 hold charge, which keeps your current rate locked in. (New members now pay $55.)\n\nYour access card will be deactivated while the freeze is in effect. If you return early, just stop by the front desk and we can reactivate it the same day; regular billing will restart at that point.\n\nSafe travels!\nMarco, Member Services",
+  "questions": [
+   {
+    "prompt": "Why did Marco write to Leah?",
+    "options": [
+     "To confirm that her membership will be paused",
+     "To remind her that a payment is overdue",
+     "To explain why her card stopped working",
+     "To invite her to renew at a new rate"
+    ],
+    "answer": 0,
+    "explanation": "Marco says her request to freeze her membership has been approved."
+   },
+   {
+    "prompt": "Why might Leah prefer paying the hold charge to canceling?",
+    "options": [
+     "She will avoid paying a higher monthly rate later.",
+     "She will get a refund when she returns.",
+     "She will receive free training sessions.",
+     "She can use partner gyms while abroad."
+    ],
+    "answer": 0,
+    "explanation": "The hold keeps her $45 rate, while new members pay $55."
+   },
+   {
+    "prompt": "What will happen if Leah comes back before May 20?",
+    "options": [
+     "She must wait until May 20 to use the gym.",
+     "She will be charged the new member rate.",
+     "She will have to pay a reactivation fee.",
+     "Her card can be turned back on immediately."
+    ],
+    "answer": 3,
+    "explanation": "The front desk can reactivate her card the same day she returns."
+   }
+  ]
+ }
+]

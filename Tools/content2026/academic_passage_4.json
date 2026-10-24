@@ -1,0 +1,692 @@
+[
+ {
+  "id": "ap4-01",
+  "difficulty": "intermediate",
+  "title": "The Secret of Roman Concrete",
+  "discipline": "History of Engineering",
+  "passage": "Many structures built by the ancient Romans are still standing after two thousand years, and much of their durability comes from a material known as Roman concrete. Unlike modern concrete, which is made with Portland cement, Roman concrete combined lime with a volcanic ash called pozzolana, along with chunks of rock or broken brick. When mixed with water, the lime and ash reacted to form a strong binding material that could harden even under water.\n\nThis property made Roman concrete especially valuable for harbor construction. Builders poured the mixture into wooden frames sunk into the sea, and over time, seawater actually strengthened the structures. Researchers studying ancient piers have found that salt water reacted with the volcanic ash to grow new minerals inside the concrete, filling small cracks before they could spread.\n\nModern concrete, by contrast, often weakens in seawater, partly because the steel bars placed inside it eventually rust and expand. For this reason, engineers have become interested in Roman techniques. Some laboratories are now testing mixtures that use volcanic ash or similar materials, hoping to produce concrete that lasts longer and requires less energy to manufacture. Ancient builders, it seems, may still have lessons to teach.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what were the main ingredients of Roman concrete?",
+    "options": [
+     "Lime, volcanic ash, and pieces of rock or brick",
+     "Portland cement, sand, and steel bars",
+     "Clay, straw, and seawater from harbors",
+     "Volcanic ash, iron, and crushed seashells"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 states that Roman concrete combined lime with volcanic ash and chunks of rock or broken brick."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"durability\" in the passage is closest in meaning to",
+    "options": [
+     "attractive appearance",
+     "ability to last",
+     "great weight",
+     "low cost"
+    ],
+    "answer": 1,
+    "explanation": "Durability refers to the ability of something to last a long time, which fits structures still standing after two thousand years."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, what happened when seawater came into contact with Roman concrete?",
+    "options": [
+     "The lime slowly dissolved and washed away.",
+     "New minerals formed that filled small cracks.",
+     "The wooden frames turned into solid stone.",
+     "The concrete became softer and easier to shape."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 explains that salt water reacted with the ash to grow new minerals that filled small cracks."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about Roman harbor concrete?",
+    "options": [
+     "It did not depend on steel bars that could rust.",
+     "It required more energy to make than modern concrete.",
+     "It was usually repaired every few decades.",
+     "It was weaker than modern concrete on dry land."
+    ],
+    "answer": 0,
+    "explanation": "Since modern concrete weakens partly because its steel bars rust, the contrast implies that Roman concrete lacked such bars."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention laboratories testing mixtures with volcanic ash?",
+    "options": [
+     "To argue that modern concrete should no longer be used",
+     "To explain how the Romans discovered pozzolana",
+     "To describe a problem with Roman harbor construction",
+     "To show that ancient methods may influence modern engineering"
+    ],
+    "answer": 3,
+    "explanation": "The laboratories illustrate the author's point that engineers today are learning from Roman techniques."
+   }
+  ]
+ },
+ {
+  "id": "ap4-02",
+  "difficulty": "intermediate",
+  "title": "How Buildings Learned to Rise",
+  "discipline": "Architecture",
+  "passage": "Before the late nineteenth century, the height of a building was limited by the thickness of its walls. In traditional masonry construction, the walls themselves carried the weight of every floor above, so the taller the building, the thicker its lower walls had to be. A sixteen-story masonry building completed in Chicago in 1891 required walls nearly two meters thick at its base, which consumed valuable space on the ground floor.\n\nThe solution was the metal frame. Instead of resting on the walls, the floors were attached to a skeleton of vertical columns and horizontal beams. The outer walls now carried only their own weight and could be made thin, with large windows. Chicago's Home Insurance Building, finished in 1885, is often cited as the first tall building to rely mainly on a metal frame, though historians still debate the title.\n\nA frame alone, however, would not have made tall buildings practical. Few people were willing to climb ten or more flights of stairs every day. The safety elevator, which included a device that stopped the car if its cable broke, reassured the public that upper floors could be reached without danger. Together, the metal frame and the elevator transformed the skyline of the modern city.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why were very tall masonry buildings impractical?",
+    "options": [
+     "Their windows let in too little light for the upper floors.",
+     "Their stone was too expensive to transport to large cities.",
+     "Their walls could not be built higher than ten stories.",
+     "Their lower walls had to be so thick that they took up floor space."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 1 explains that taller masonry buildings needed thicker lower walls, which consumed ground-floor space."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"consumed\" in the passage is closest in meaning to",
+    "options": [
+     "decorated",
+     "supported",
+     "divided",
+     "used up"
+    ],
+    "answer": 3,
+    "explanation": "The thick walls used up valuable space on the ground floor."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, how did the metal frame change building construction?",
+    "options": [
+     "Walls were made thicker to hold larger windows.",
+     "Columns and beams, not walls, supported the floors.",
+     "Floors were built from metal instead of wood.",
+     "Buildings were designed with fewer interior rooms."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 states that floors were attached to a skeleton of columns and beams instead of resting on the walls."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from the statement that historians \"still debate the title\"?",
+    "options": [
+     "The Home Insurance Building was never actually completed.",
+     "Other buildings may also have a claim to being the first.",
+     "Historians doubt that metal frames were used in Chicago.",
+     "The building's name was changed after it was finished."
+    ],
+    "answer": 1,
+    "explanation": "If the title of first metal-frame skyscraper is debated, other buildings must have competing claims to it."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention the device that stopped the elevator car if its cable broke?",
+    "options": [
+     "To show that early elevators were often dangerous",
+     "To compare elevators with the metal frame",
+     "To explain why people became willing to use upper floors",
+     "To describe how elevator cables were manufactured"
+    ],
+    "answer": 2,
+    "explanation": "The safety device reassured the public that upper floors could be reached safely, making tall buildings practical."
+   }
+  ]
+ },
+ {
+  "id": "ap4-03",
+  "difficulty": "intermediate",
+  "title": "From Plucked Strings to Struck Strings",
+  "discipline": "Music History",
+  "passage": "Before the piano was invented, the most common keyboard instrument in European homes was the harpsichord. When a player pressed a harpsichord key, a small quill plucked a string. The mechanism produced a bright, clear tone, but it had one important limitation: each string sounded at nearly the same volume no matter how hard or how softly the key was pressed.\n\nAround 1700, an Italian instrument maker named Bartolomeo Cristofori designed a keyboard in which small hammers struck the strings instead of plucking them. Because the force of each hammer depended on the player's touch, the instrument could produce both soft and loud notes. Cristofori's invention came to be called the pianoforte, from the Italian words for \"soft\" and \"loud,\" a name later shortened to piano.\n\nThe early piano was much quieter than the modern instrument, and at first it spread slowly. Over the next century, however, makers strengthened its frame, added thicker strings, and eventually used iron to withstand the greater tension. These changes produced a fuller sound that could fill large concert halls. Composers responded by writing music with dramatic contrasts between gentle and powerful passages, effects that would have been impossible on the harpsichord. In this way, a mechanical improvement helped shape the style of music itself.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what was the main limitation of the harpsichord?",
+    "options": [
+     "Its volume could not be changed by the player's touch.",
+     "Its tone was too dull for performances at home.",
+     "Its strings broke easily when struck with force.",
+     "Its keys were too heavy for most players to press."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 says the strings sounded at nearly the same volume no matter how hard the keys were pressed."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, where does the name \"piano\" come from?",
+    "options": [
+     "The name of the inventor's hometown",
+     "An Italian word for a small hammer",
+     "Italian words meaning \"soft\" and \"loud\"",
+     "A term for keyboard instruments in homes"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2 explains that pianoforte comes from the Italian words for soft and loud."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"withstand\" in the passage is closest in meaning to",
+    "options": [
+     "produce",
+     "resist",
+     "reduce",
+     "measure"
+    ],
+    "answer": 1,
+    "explanation": "Iron was used so the frame could resist, or hold up against, the greater string tension."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about early pianos?",
+    "options": [
+     "They were more popular than harpsichords right away.",
+     "They could not play soft notes as well as later pianos.",
+     "They were less suited to large concert halls than later pianos.",
+     "They already had iron frames and very thick strings."
+    ],
+    "answer": 2,
+    "explanation": "Because later changes produced a sound that could fill large halls, early pianos were presumably too quiet for such spaces."
+   },
+   {
+    "type": "relationship",
+    "prompt": "How does paragraph 3 relate to paragraph 2?",
+    "options": [
+     "It presents evidence that Cristofori did not invent the piano.",
+     "It explains why the harpsichord remained more popular.",
+     "It compares the piano with other instruments of the period.",
+     "It describes how the invention was improved and how it affected music."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 3 follows the invention described in paragraph 2 by tracing its later improvements and influence on composers."
+   }
+  ]
+ },
+ {
+  "id": "ap4-04",
+  "difficulty": "intermediate",
+  "title": "Reading History in Tree Rings",
+  "discipline": "Archaeology",
+  "passage": "Archaeologists often need to know exactly when a wooden building or object was made. One of the most precise methods for answering this question is dendrochronology, the study of tree rings. Each year, a tree in a temperate climate adds a new layer of wood, which appears as a ring when the trunk is cut. In a wet year the ring tends to be wide, while in a dry year it is narrow.\n\nBecause trees of the same species in a region experience similar weather, they record a similar pattern of wide and narrow rings. By comparing samples from living trees with samples from older timbers, researchers can match overlapping patterns and extend the record far into the past. In some parts of Europe, such sequences now reach back more than ten thousand years.\n\nWhen archaeologists find a wooden beam in an ancient house, they can compare its ring pattern with this master sequence. If the outermost ring, just beneath the bark, has survived, the year the tree was cut can often be identified exactly. The method does have limits, however. Some species do not produce clear rings, and tropical trees, which grow throughout the year, are rarely useful. Even so, tree rings have dated sites ranging from prehistoric villages to medieval bridges.",
+  "questions": [
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"precise\" in the passage is closest in meaning to",
+    "options": [
+     "ancient",
+     "expensive",
+     "exact",
+     "popular"
+    ],
+    "answer": 2,
+    "explanation": "A precise method gives exact results, such as identifying a single year."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what does a narrow tree ring usually indicate?",
+    "options": [
+     "The tree grew during a dry year.",
+     "The tree was cut down that year.",
+     "The tree grew in a tropical climate.",
+     "The tree was very young at the time."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 states that rings are wide in wet years and narrow in dry years."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, how do researchers extend the tree-ring record into the past?",
+    "options": [
+     "By counting the rings of the oldest living trees",
+     "By testing the chemical content of each ring",
+     "By matching overlapping patterns in younger and older wood",
+     "By studying written weather records from towns"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2 explains that researchers match overlapping patterns from living trees and older timbers."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about a beam whose outer rings are missing?",
+    "options": [
+     "It must have come from a tropical tree species.",
+     "The exact year it was cut may be hard to determine.",
+     "It cannot be compared with the master sequence.",
+     "It was probably cut during a very dry year."
+    ],
+    "answer": 1,
+    "explanation": "Since an exact cutting date depends on the outermost ring surviving, its absence would make the exact year uncertain."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention tropical trees?",
+    "options": [
+     "To give an example of a limitation of the method",
+     "To show where the longest sequences were found",
+     "To explain why rings are wide in wet years",
+     "To describe the wood used in medieval bridges"
+    ],
+    "answer": 0,
+    "explanation": "Tropical trees grow all year and lack useful rings, illustrating one of the method's limits."
+   }
+  ]
+ },
+ {
+  "id": "ap4-05",
+  "difficulty": "intermediate",
+  "title": "Novels in Installments",
+  "discipline": "Literature",
+  "passage": "In the nineteenth century, many famous novels were not first published as complete books. Instead, they appeared in installments, a few chapters at a time, in magazines or in separate monthly parts. This practice, known as serialization, became especially popular in Britain after the 1830s, when cheaper printing and growing literacy created a large new audience of readers.\n\nSerialization had clear advantages for both publishers and readers. A complete novel in three volumes was expensive, but a single monthly part cost only a small amount, so families who could never afford a full book could follow a story over many months. Publishers, for their part, received a steady income and could judge a story's popularity before investing in a bound edition.\n\nThe format also influenced how novels were written. Authors often ended an installment at a moment of suspense to make sure readers would buy the next one. Because they were sometimes writing only weeks ahead of publication, writers could respond to readers' letters and reviews, occasionally changing a character's fate in later chapters. Critics have argued that the long, crowded plots of many novels from this period, with their numerous characters and parallel storylines, are partly a product of this system. Readers today who open these books in a single volume are experiencing them in a way their first audiences did not.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what helped serialization become popular in Britain?",
+    "options": [
+     "Cheaper printing and an increase in the number of readers",
+     "New laws that lowered the price of complete books",
+     "A decline in the number of magazines being sold",
+     "Authors who refused to write novels in three volumes"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 says cheaper printing and growing literacy created a large new audience."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"steady\" in the passage is closest in meaning to",
+    "options": [
+     "regular",
+     "sudden",
+     "enormous",
+     "uncertain"
+    ],
+    "answer": 0,
+    "explanation": "A steady income is one that arrives regularly over time."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, how did serialization benefit publishers?",
+    "options": [
+     "They could avoid paying authors until the story was finished.",
+     "They could test a story's popularity before printing a full book.",
+     "They could sell complete novels at much higher prices.",
+     "They could print fewer copies of each monthly part."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 states that publishers could judge a story's popularity before investing in a bound edition."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about authors of serialized novels?",
+    "options": [
+     "They usually refused to read letters from their readers.",
+     "They preferred short plots with only a few characters.",
+     "They did not always finish a novel before it began appearing.",
+     "They were paid only after the bound edition was sold."
+    ],
+    "answer": 2,
+    "explanation": "Writing only weeks ahead of publication means the novel was still being written while early parts were on sale."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention readers today who open these books in a single volume?",
+    "options": [
+     "To argue that serialized novels should be republished in parts",
+     "To point out that the modern reading experience differs from the original",
+     "To explain why the novels are less popular than before",
+     "To suggest that modern readers prefer shorter novels"
+    ],
+    "answer": 1,
+    "explanation": "The final sentence contrasts modern single-volume reading with how the first audiences encountered the stories."
+   }
+  ]
+ },
+ {
+  "id": "ap4-06",
+  "difficulty": "advanced",
+  "title": "The Geometry of Seeing",
+  "discipline": "Art History",
+  "passage": "Although painters in many cultures had developed ways of suggesting depth, the systematic technique known as linear perspective emerged in early fifteenth-century Florence. Its formulation is usually credited to the architect Filippo Brunelleschi, who reportedly demonstrated it with a painted panel of a city building viewed through a small hole, allowing observers to compare the image directly with the real scene. Some years later, the scholar Leon Battista Alberti codified the method in a treatise, giving painters a set of geometric rules rather than a single demonstration.\n\nThe principle underlying the technique is that parallel lines receding from the viewer appear to converge at a single vanishing point on the horizon, while objects diminish in size at a rate that can be calculated. Applying these rules allowed artists to construct a coherent pictorial space in which figures and buildings occupied consistent positions relative to one another and to the observer.\n\nHistorians have emphasized that this innovation was not merely technical. Linear perspective presupposes a fixed, singular viewpoint, effectively placing the spectator at the center of the represented world. Some scholars have therefore linked its adoption to a broader cultural interest in individual observation and measurement. Others caution against overstating the connection, noting that many painters treated the rules flexibly, deliberately distorting perspective when strict accuracy would have weakened a composition's emotional or narrative effect.",
+  "questions": [
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 1 about Brunelleschi's demonstration?",
+    "options": [
+     "It was the first painting ever to suggest any sense of depth.",
+     "It was designed to teach painters a written set of rules.",
+     "It was meant to show that a constructed image could match a real view.",
+     "It was criticized by observers for distorting the building."
+    ],
+    "answer": 2,
+    "explanation": "Letting observers compare the panel directly with the real scene suggests its aim was to show the image matched reality."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what was Alberti's contribution to linear perspective?",
+    "options": [
+     "He built the panel used in the first demonstration.",
+     "He discovered that distant objects appear smaller.",
+     "He was the first to paint buildings in Florence.",
+     "He recorded the method as rules that painters could follow."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 1 states that Alberti codified the method in a treatise, giving painters geometric rules."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"converge\" in the passage is closest in meaning to",
+    "options": [
+     "disappear",
+     "come together",
+     "bend sharply",
+     "multiply"
+    ],
+    "answer": 1,
+    "explanation": "Parallel lines appear to come together at a single vanishing point."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author state that linear perspective \"presupposes a fixed, singular viewpoint\"?",
+    "options": [
+     "To show that the technique was difficult for painters to learn",
+     "To argue that the technique was purely a matter of geometry",
+     "To explain why paintings were displayed at a certain height",
+     "To explain why some scholars connect the technique to broader cultural ideas"
+    ],
+    "answer": 3,
+    "explanation": "The fixed viewpoint places the spectator at the center, which is the basis for linking perspective to a cultural interest in individual observation."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, why do some scholars caution against overstating the cultural significance of perspective?",
+    "options": [
+     "Painters often bent the rules for artistic reasons.",
+     "The rules were not widely known until much later.",
+     "Most painters lacked training in geometry.",
+     "Few viewers noticed whether perspective was accurate."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 3 notes that many painters treated the rules flexibly and deliberately distorted perspective for emotional or narrative effect."
+   }
+  ]
+ },
+ {
+  "id": "ap4-07",
+  "difficulty": "advanced",
+  "title": "Railroads and the Standardization of Time",
+  "discipline": "History of Technology",
+  "passage": "Until the mid-nineteenth century, most towns kept their own local time, setting clocks so that noon corresponded to the moment the sun stood highest in the sky. Because the sun's position shifts gradually as one travels east or west, neighboring towns might differ by several minutes. For travelers moving on foot or by horse, such discrepancies were trivial, since no one could cover enough distance in a day for them to matter.\n\nThe railroad altered this situation fundamentally. A passenger could now pass through dozens of local times in a single journey, and railroad companies, each publishing schedules according to its own reference clock, compounded the confusion. More seriously, operating trains on shared single tracks required precise coordination; a discrepancy of a few minutes between two stations could put two trains on one track simultaneously.\n\nIn response, British railways adopted a uniform standard based on Greenwich time during the 1840s, and in 1883 railroads in the United States and Canada introduced a system of time zones, each spanning roughly fifteen degrees of longitude and differing from its neighbors by one hour. Notably, this reform was implemented by private companies rather than by governments; the United States did not make time zones official in federal law until 1918. The episode shows how a new technology can reshape something as seemingly natural as the measurement of a day.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why did differences in local time cause little difficulty before the railroad?",
+    "options": [
+     "Travel was too slow for the differences to become noticeable.",
+     "Most towns agreed to follow the time of the nearest city.",
+     "Clocks were too inaccurate to show such small differences.",
+     "Few people needed to know the time of day precisely."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 says no one could cover enough distance in a day for the discrepancies to matter."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"trivial\" in the passage is closest in meaning to",
+    "options": [
+     "unimportant",
+     "confusing",
+     "frequent",
+     "measurable"
+    ],
+    "answer": 0,
+    "explanation": "The discrepancies were unimportant for slow travelers because they never mattered in practice."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 2, all of the following added to the problems created by local time EXCEPT",
+    "options": [
+     "passengers passing through many local times on one trip",
+     "companies publishing schedules based on different clocks",
+     "governments requiring railroads to use a single national standard",
+     "trains sharing single tracks that required precise timing"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2 mentions passengers, company schedules, and shared tracks, but not any government requirement; the passage says governments acted only later."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from the fact that the United States made time zones official only in 1918?",
+    "options": [
+     "Railroads stopped using time zones between 1883 and 1918.",
+     "Time zones were widely followed for years before they were legally required.",
+     "Time zones were first proposed by the federal government.",
+     "Most towns rejected railroad time until the law was passed."
+    ],
+    "answer": 1,
+    "explanation": "Because railroads introduced time zones in 1883 and the law came in 1918, the system was in use for decades without legal status."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author describe the measurement of time as \"seemingly natural\"?",
+    "options": [
+     "To argue that local solar time was more accurate than time zones",
+     "To suggest that a familiar practice actually resulted from technological pressure",
+     "To explain why people resisted the introduction of time zones",
+     "To show that time zones follow the natural movement of the sun exactly"
+    ],
+    "answer": 1,
+    "explanation": "The phrase emphasizes that something people take for granted was in fact reshaped by the needs of the railroad."
+   }
+  ]
+ },
+ {
+  "id": "ap4-08",
+  "difficulty": "advanced",
+  "title": "Formulas and the Homeric Epics",
+  "discipline": "Literature",
+  "passage": "For centuries, readers of the Homeric epics, the Iliad and the Odyssey, were puzzled by their frequent repetitions. Certain phrases, such as descriptions of the dawn or standard epithets attached to heroes' names, recur dozens of times, often in contexts where they seem only loosely relevant. Many scholars regarded these repetitions as stylistic flaws or as evidence that the poems had been assembled carelessly from earlier fragments.\n\nIn the 1920s and 1930s, the American scholar Milman Parry proposed a radically different explanation. He argued that the epics were products of an oral tradition in which poets composed while performing, without the aid of writing. To sustain a long narrative in strict meter, such poets relied on a vast stock of ready-made phrases, or formulas, each fitted to a particular position in the line. The repetitions, in this view, were not defects but essential tools of composition.\n\nTo test his hypothesis, Parry and his assistant Albert Lord recorded singers of epic poetry in the Balkans, some of whom could perform poems thousands of lines long. Their recordings revealed precisely the formulaic techniques Parry had inferred from the Greek texts. The theory has since been refined, and scholars still debate how the oral poems came to be written down and how much individual artistry they reflect. Nevertheless, Parry's work permanently changed how literary historians understand the relationship between memory, performance, and text.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, how did many earlier scholars view the repetitions in the Homeric epics?",
+    "options": [
+     "As weaknesses or signs of careless assembly",
+     "As proof that the poems were composed orally",
+     "As the most beautiful passages in the poems",
+     "As later additions made by translators"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 says many scholars regarded the repetitions as stylistic flaws or evidence of careless assembly."
+   },
+   {
+    "type": "relationship",
+    "prompt": "How does paragraph 2 relate to paragraph 1?",
+    "options": [
+     "It provides further examples of the flaws described in paragraph 1.",
+     "It summarizes the evidence that supports the view in paragraph 1.",
+     "It describes the historical events that the epics recount.",
+     "It offers a new explanation for the feature described in paragraph 1."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 1 presents the repetitions as a puzzle, and paragraph 2 gives Parry's radically different explanation for them."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"sustain\" in the passage is closest in meaning to",
+    "options": [
+     "shorten",
+     "interrupt",
+     "maintain",
+     "record"
+    ],
+    "answer": 2,
+    "explanation": "Formulas helped poets maintain, or keep going, a long narrative in strict meter."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention singers of epic poetry in the Balkans?",
+    "options": [
+     "To suggest that the Homeric epics originated in the Balkans",
+     "To show how Parry gathered evidence to test his theory",
+     "To argue that living singers were more skilled than Homer",
+     "To explain how the Greek poems were eventually written down"
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 3 explains that Parry and Lord recorded these singers to test his hypothesis."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about Parry's theory today?",
+    "options": [
+     "It has been rejected because the recordings were incomplete.",
+     "It is accepted only by scholars who study Balkan poetry.",
+     "It has resolved every question about how the epics were written.",
+     "Its central idea is widely accepted, though some details are still debated."
+    ],
+    "answer": 3,
+    "explanation": "The theory has been refined and permanently changed the field, yet scholars still debate specific questions."
+   }
+  ]
+ },
+ {
+  "id": "ap4-09",
+  "difficulty": "advanced",
+  "title": "The Bessemer Process and Cheap Steel",
+  "discipline": "History of Technology",
+  "passage": "Before the mid-nineteenth century, steel was a costly material produced in small quantities and reserved for items such as blades and springs. Most structural metal took the form of cast iron, which was strong under compression but brittle, or wrought iron, which was tougher but required laborious manual processing. The obstacle to producing steel cheaply lay in controlling carbon: pig iron from blast furnaces contained too much carbon, and removing the excess was slow and fuel-intensive.\n\nIn 1856, the English inventor Henry Bessemer patented a process that addressed this problem with surprising simplicity. Air was blown through molten pig iron in a large vessel called a converter. The oxygen combined with carbon and other impurities, and because these reactions released heat, the metal remained molten without additional fuel. Several tons of iron could now be converted in roughly twenty minutes, a task that had previously required many hours.\n\nThe early process was not without difficulties. Iron ores containing phosphorus yielded brittle steel, a problem not resolved until the late 1870s, when two British researchers developed a converter lining that absorbed phosphorus. Once this refinement made a wider range of ores usable, steel output expanded dramatically and prices fell steeply. Inexpensive steel subsequently made possible longer-lasting railroad rails, larger ships, and the frames of tall buildings, suggesting that a change in a single industrial step can ripple across an entire economy.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what was the main obstacle to producing steel cheaply?",
+    "options": [
+     "Blast furnaces could not produce enough pig iron.",
+     "Cast iron was too brittle to be turned into steel.",
+     "Removing excess carbon from pig iron was slow and costly.",
+     "Steel was needed only for blades and springs."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 1 states that the obstacle lay in controlling carbon, since removing the excess was slow and fuel-intensive."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 2 about the Bessemer process?",
+    "options": [
+     "It worked only with iron that contained little carbon.",
+     "It required workers to stir the metal by hand.",
+     "It used much less fuel than earlier methods of making steel.",
+     "It produced steel that was harder than any earlier steel."
+    ],
+    "answer": 2,
+    "explanation": "Because the reactions released enough heat to keep the metal molten without extra fuel, the process saved fuel compared with earlier methods."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"yielded\" in the passage is closest in meaning to",
+    "options": [
+     "required",
+     "resisted",
+     "produced",
+     "replaced"
+    ],
+    "answer": 2,
+    "explanation": "Ores containing phosphorus produced brittle steel."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, how was the problem of phosphorus solved?",
+    "options": [
+     "Ores containing phosphorus were no longer mined.",
+     "Air was blown through the iron for a longer time.",
+     "Extra fuel was added to raise the temperature.",
+     "A converter lining was developed that absorbed phosphorus."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 3 says researchers developed a converter lining that absorbed phosphorus."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention railroad rails, ships, and building frames?",
+    "options": [
+     "To show which industries opposed the new process",
+     "To explain why phosphorus made steel brittle",
+     "To compare the strength of steel with that of iron",
+     "To illustrate the wide-ranging effects of inexpensive steel"
+    ],
+    "answer": 3,
+    "explanation": "These examples support the claim that a change in one industrial step can ripple across an entire economy."
+   }
+  ]
+ },
+ {
+  "id": "ap4-10",
+  "difficulty": "advanced",
+  "title": "Experimental Archaeology",
+  "discipline": "Archaeology",
+  "passage": "Archaeologists generally interpret the past through objects recovered from excavation, but artifacts alone rarely reveal how they were made or used. To address this gap, a field known as experimental archaeology attempts to reproduce ancient technologies under controlled conditions. Researchers might shape flint into stone tools, build replica houses using only materials available at the time, or smelt metal in reconstructed furnaces, recording each step in detail.\n\nSuch experiments can test hypotheses that would otherwise remain speculative. For example, by cutting meat and wood with replica stone tools and examining the resulting edges under a microscope, researchers have identified characteristic patterns of wear. These patterns can then be compared with those on ancient tools, allowing archaeologists to infer what a particular tool was used for. Similarly, deliberately burning reconstructed houses has shown investigators how the remains of a fire collapse and settle, helping them interpret burned structures at real sites.\n\nNonetheless, practitioners acknowledge important limitations. A successful replication shows only that a method was possible, not that ancient people actually used it. Modern experimenters also lack the years of practice that skilled craftspeople accumulated, so their results may underestimate what experienced workers could achieve. For these reasons, the most persuasive studies combine experimental results with other evidence, such as the distribution of finds at a site or residues preserved on artifacts, rather than treating replication as proof in itself.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why do archaeologists reproduce ancient technologies?",
+    "options": [
+     "Excavations have become too expensive to carry out regularly.",
+     "Ancient objects are usually too fragile to be studied directly.",
+     "Museums need replicas to display instead of the originals.",
+     "Artifacts by themselves often do not show how they were made or used."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 1 says artifacts alone rarely reveal how they were made or used, and experiments address this gap."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"speculative\" in the passage is closest in meaning to",
+    "options": [
+     "based on guesswork",
+     "widely accepted",
+     "carefully measured",
+     "easily forgotten"
+    ],
+    "answer": 0,
+    "explanation": "Without testing, hypotheses would remain based on guesswork rather than evidence."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, how can archaeologists determine what an ancient stone tool was used for?",
+    "options": [
+     "By measuring the size and weight of the tool",
+     "By comparing its wear with patterns on replica tools",
+     "By finding written records that describe the tool",
+     "By testing how sharp the tool remains today"
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 explains that wear patterns from replica tools are compared with those on ancient tools."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about an experiment in which modern researchers fail to reproduce an ancient technique?",
+    "options": [
+     "It does not prove that ancient people were unable to use that technique.",
+     "It shows that the artifacts must have been made by a later culture.",
+     "It proves that the technique required tools that no longer exist.",
+     "It means the hypothesis should be tested with older materials."
+    ],
+    "answer": 0,
+    "explanation": "Because experimenters lack the skill of experienced craftspeople, a failure may reflect their inexperience rather than ancient limits."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention residues preserved on artifacts?",
+    "options": [
+     "To explain why replicated tools wear out quickly",
+     "To show that experiments are no longer necessary",
+     "To describe a method used to build replica houses",
+     "To give an example of evidence that can strengthen experimental results"
+    ],
+    "answer": 3,
+    "explanation": "Residues are cited as one kind of other evidence that persuasive studies combine with experimental findings."
+   }
+  ]
+ }
+]
