@@ -1,0 +1,692 @@
+[
+ {
+  "id": "ap2-01",
+  "difficulty": "intermediate",
+  "title": "How Limestone Caves Form",
+  "discipline": "Geology",
+  "passage": "Most of the world's large caves form in limestone, a sedimentary rock composed largely of calcium carbonate. Although limestone appears solid and durable, it is vulnerable to a slow chemical attack. As rain falls through the atmosphere and then percolates through soil, it absorbs carbon dioxide, much of it released by decaying plant matter. The result is a weak solution of carbonic acid, which gradually dissolves calcium carbonate as it seeps into cracks in the rock.\n\nOver thousands of years, this process widens the original fractures into channels. Dissolution is most rapid near the water table, where groundwater moves horizontally and constantly brings fresh acidic water into contact with the rock. For this reason, many cave systems consist of long, nearly level passages arranged in distinct tiers. Each tier is thought to mark a former position of the water table, which dropped as nearby rivers cut their valleys deeper.\n\nOnce a passage is drained and filled with air, a reverse process can begin. Water dripping from the ceiling releases some of its dissolved carbon dioxide into the cave air, and as a result it can no longer hold all of its calcium carbonate. The mineral is deposited as stalactites and other formations, so caves are simultaneously products of erosion and sites of new rock growth.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, where does much of the carbon dioxide absorbed by rainwater come from?",
+    "options": [
+     "Volcanic gases trapped inside the limestone",
+     "Decaying plant material in the soil",
+     "Seawater that floods low-lying caves",
+     "Chemical reactions inside stalactites"
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 states that the carbon dioxide is largely released by decaying plant matter in the soil."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"percolates\" in the passage is closest in meaning to",
+    "options": [
+     "evaporates",
+     "settles",
+     "erupts",
+     "seeps"
+    ],
+    "answer": 3,
+    "explanation": "To percolate is to pass slowly through a porous material, which is to seep."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a cave system that has three distinct tiers of passages?",
+    "options": [
+     "It formed entirely within the last few centuries.",
+     "Its lowest tier is probably the oldest one.",
+     "The local water table has dropped at least twice.",
+     "Its upper tiers cannot contain any stalactites."
+    ],
+    "answer": 2,
+    "explanation": "Each tier marks a former water-table level, so three tiers imply the water table fell at least twice."
+   },
+   {
+    "type": "relationship",
+    "prompt": "Why does the author mention rivers cutting their valleys deeper?",
+    "options": [
+     "To explain why the water table dropped over time",
+     "To show that rivers dissolve limestone faster than groundwater",
+     "To argue that most caves form at the surface",
+     "To describe how stalactites are deposited"
+    ],
+    "answer": 0,
+    "explanation": "The author links deepening river valleys to the falling water table that left passages at different levels."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, why does dripping water deposit calcium carbonate in a cave?",
+    "options": [
+     "The cave air is warmer than the water.",
+     "The water gains acid from the ceiling rock.",
+     "The water loses some of its dissolved carbon dioxide.",
+     "The rising water table floods the passage."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 3 says the water releases carbon dioxide and can then no longer hold all of its calcium carbonate."
+   }
+  ]
+ },
+ {
+  "id": "ap2-02",
+  "difficulty": "intermediate",
+  "title": "Sea Breezes and Land Breezes",
+  "discipline": "Meteorology",
+  "passage": "On many coastlines, a cool wind begins blowing in from the sea by late morning on sunny days and fades after sunset. This sea breeze is a small-scale circulation driven by the different ways land and water respond to sunlight. Land surfaces heat up quickly because sunlight is absorbed in a thin top layer and soil has a relatively low heat capacity. Water, by contrast, warms slowly: sunlight penetrates several meters, waves and currents mix the heat downward, and water requires more energy than soil to raise its temperature by the same amount.\n\nAs the land warms, the air above it expands and rises, lowering the air pressure near the ground. Cooler, denser air over the sea flows inland to replace it, producing the breeze. Aloft, the rising air drifts back out over the water and sinks, completing a loop. The leading edge of the incoming marine air, called the sea-breeze front, can push tens of kilometers inland and sometimes triggers afternoon thunderstorms where it lifts warm, moist air.\n\nAt night the pattern reverses. Land loses heat rapidly by radiation, while the sea stays comparatively warm, so a land breeze flows offshore. Because the temperature contrast is usually smaller at night, land breezes are generally gentler than their daytime counterparts.",
+  "questions": [
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 1, all of the following help explain why water warms more slowly than land EXCEPT:",
+    "options": [
+     "Sunlight penetrates below the water's surface.",
+     "Waves and currents carry heat downward.",
+     "Water needs more energy than soil to warm by the same amount.",
+     "Water reflects nearly all of the sunlight that reaches it."
+    ],
+    "answer": 3,
+    "explanation": "The passage never says water reflects nearly all sunlight; the other three reasons are stated in paragraph 1."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, what happens to the air that rises over the warm land?",
+    "options": [
+     "It condenses immediately into fog.",
+     "It flows back toward the sea at higher altitude and sinks.",
+     "It becomes trapped beneath the sea-breeze front.",
+     "It cools and sinks back onto the same land."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 says the rising air drifts back out over the water aloft and sinks, completing a loop."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about thunderstorms triggered by a sea-breeze front?",
+    "options": [
+     "They are most likely when the air over land is warm and humid.",
+     "They usually develop in the hours before sunrise.",
+     "They form only directly above the open ocean.",
+     "They prevent sea breezes from reaching the coast."
+    ],
+    "answer": 0,
+    "explanation": "The front triggers storms where it lifts warm, moist air, so humid, warm conditions inland favor them."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author describe the land breeze in paragraph 3?",
+    "options": [
+     "To argue that land breezes cause more storms than sea breezes",
+     "To correct a common misunderstanding about sea-breeze fronts",
+     "To show that the same principle produces a reversed circulation at night",
+     "To demonstrate that the sea cools faster than land after sunset"
+    ],
+    "answer": 2,
+    "explanation": "The land breeze illustrates how the same land-sea temperature difference, reversed at night, drives an offshore flow."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"counterparts\" in the passage is closest in meaning to",
+    "options": [
+     "causes",
+     "remnants",
+     "opponents",
+     "equivalents"
+    ],
+    "answer": 3,
+    "explanation": "Counterparts are things that correspond to or are equivalent to others, here the daytime sea breezes."
+   }
+  ]
+ },
+ {
+  "id": "ap2-03",
+  "difficulty": "intermediate",
+  "title": "The Tails of Comets",
+  "discipline": "Astronomy",
+  "passage": "A comet spends most of its orbit far from the Sun as a frozen nucleus only a few kilometers across, made of ice, dust, and rocky fragments. Astronomers often describe such a nucleus as a dirty snowball. Only when its orbit carries it into the inner solar system does a comet develop the glowing features that make it visible from Earth.\n\nAs the nucleus warms, its ices turn directly into gas, a process called sublimation, releasing dust grains that were trapped inside. The gas and dust form a vast, hazy cloud, or coma, that can grow larger than a planet. From the coma, two distinct tails usually stream away. The dust tail is broad, curved, and yellowish, because the grains reflect sunlight and are pushed gently outward by the pressure of light itself. The ion tail is narrow, straight, and often bluish. It consists of gas molecules that have been electrically charged by solar ultraviolet light and are swept along by the solar wind, a stream of charged particles flowing from the Sun.\n\nBecause both forces originate at the Sun, a comet's tails point away from the Sun rather than trailing behind the comet along its path. As a comet moves outward after its closest approach, its tails actually travel ahead of it.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, when does a comet become visible from Earth?",
+    "options": [
+     "When it collides with dust in the outer solar system",
+     "When its nucleus breaks into several fragments",
+     "When its orbit brings it into the inner solar system",
+     "When it reaches the farthest point of its orbit"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 1 says the comet develops its glowing, visible features only in the inner solar system."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"distinct\" in the passage is closest in meaning to",
+    "options": [
+     "faint",
+     "separate",
+     "identical",
+     "temporary"
+    ],
+    "answer": 1,
+    "explanation": "Distinct means clearly separate or different from one another."
+   },
+   {
+    "type": "relationship",
+    "prompt": "According to paragraph 2, how does the dust tail differ from the ion tail?",
+    "options": [
+     "It is pushed by the pressure of sunlight rather than by the solar wind.",
+     "It is made of charged gas rather than solid grains.",
+     "It is straight and narrow rather than broad and curved.",
+     "It forms only after the comet leaves the inner solar system."
+    ],
+    "answer": 0,
+    "explanation": "The dust tail is driven by light pressure, while the ion tail is swept along by the solar wind."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a comet located far beyond the inner solar system?",
+    "options": [
+     "Its two tails point toward the Sun.",
+     "It is surrounded by a coma larger than a planet.",
+     "Its ions are pushed outward by sunlight.",
+     "It has little or no coma or tail."
+    ],
+    "answer": 3,
+    "explanation": "Since the coma and tails develop only when the nucleus warms near the Sun, a distant comet would lack them."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author state that a comet's tails travel ahead of it as it moves outward?",
+    "options": [
+     "To show that tails always form in front of the nucleus",
+     "To emphasize that tail direction is set by the Sun, not by the comet's motion",
+     "To suggest that comets speed up after passing the Sun",
+     "To explain why the dust tail appears curved"
+    ],
+    "answer": 1,
+    "explanation": "The example highlights that tails always point away from the Sun regardless of the direction the comet travels."
+   }
+  ]
+ },
+ {
+  "id": "ap2-04",
+  "difficulty": "intermediate",
+  "title": "Coastal Upwelling",
+  "discipline": "Oceanography",
+  "passage": "Some of the most productive fishing grounds on Earth lie off the western coasts of continents, in places such as Peru, California, and Namibia. Their richness results from upwelling, a process that brings cold water from depth up to the sunlit surface.\n\nUpwelling begins with wind. Along these coasts, prevailing winds blow roughly parallel to the shoreline, toward the equator. Because of Earth's rotation, however, the surface water set in motion does not simply follow the wind. In the Northern Hemisphere it is deflected to the right, and in the Southern Hemisphere to the left, so that the net movement of the upper layer is directed away from the coast. As surface water is pushed offshore, deeper water rises to take its place.\n\nThis deep water is cold, but it is also loaded with nitrates, phosphates, and other nutrients released as organic matter decayed while sinking through the ocean. Once these nutrients reach the surface, microscopic algae called phytoplankton multiply rapidly, supporting dense populations of small fish such as anchovies and sardines, which in turn feed seabirds, marine mammals, and larger fish. Upwelling zones cover only a tiny fraction of the ocean's surface, yet they account for a remarkably large share of the global fish catch. When the winds weaken, as happens periodically off Peru, upwelling slows and fisheries can decline sharply.",
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention Peru, California, and Namibia?",
+    "options": [
+     "To identify places where coastal winds are unusually weak",
+     "To give examples of regions where upwelling occurs",
+     "To compare fishing methods used in different countries",
+     "To show that upwelling occurs only in the Southern Hemisphere"
+    ],
+    "answer": 1,
+    "explanation": "They are named as productive fishing grounds whose richness results from upwelling."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, why does surface water move away from the coast?",
+    "options": [
+     "Winds blow directly offshore from the land.",
+     "Cold water sinks and pulls surface water outward.",
+     "Earth's rotation deflects the water moved by the wind.",
+     "Rivers push large volumes of water out to sea."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2 explains that Earth's rotation deflects wind-driven surface water so it moves offshore."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"deflected\" in the passage is closest in meaning to",
+    "options": [
+     "slowed down",
+     "heated up",
+     "broken apart",
+     "turned aside"
+    ],
+    "answer": 3,
+    "explanation": "To be deflected is to be turned aside from a straight course."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, where do the nutrients in deep water come from?",
+    "options": [
+     "Organic matter that decayed while sinking",
+     "Minerals dissolved from seafloor rocks",
+     "Runoff carried by rivers into coastal waters",
+     "Waste produced by surface-dwelling fish"
+    ],
+    "answer": 0,
+    "explanation": "The passage says the nutrients were released as organic matter decayed while sinking through the ocean."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a period of weak winds off Peru?",
+    "options": [
+     "Surface water temperatures would probably drop.",
+     "Seabirds would likely find more food than usual.",
+     "Phytoplankton near the surface would likely become less abundant.",
+     "Deep water would rise to the surface more quickly."
+    ],
+    "answer": 2,
+    "explanation": "Weaker winds slow upwelling, reducing the nutrient supply that allows phytoplankton to multiply."
+   }
+  ]
+ },
+ {
+  "id": "ap2-05",
+  "difficulty": "intermediate",
+  "title": "Why Ice Floats",
+  "discipline": "Chemistry",
+  "passage": "For most substances, the solid form is denser than the liquid, so a chunk of the solid sinks in its own melt. Water is a striking exception. Ice is about nine percent less dense than liquid water, which is why ice cubes float in a glass and lakes freeze from the top down.\n\nThe explanation lies in the structure of the water molecule. Each molecule consists of one oxygen atom bonded to two hydrogen atoms, and the oxygen pulls the shared electrons toward itself. As a result, the oxygen end carries a slight negative charge and the hydrogen ends carry slight positive charges. The positive hydrogen of one molecule is attracted to the negative oxygen of a neighbor, forming what is called a hydrogen bond.\n\nIn liquid water, these bonds constantly break and re-form, allowing molecules to crowd closely together. When water freezes, however, each molecule becomes locked into hydrogen bonds with four neighbors, arranged in an open, six-sided lattice containing considerable empty space. This rigid framework holds the molecules farther apart than in the liquid, lowering the density. The consequences are significant for living things. Because floating ice insulates the water beneath it, lakes and ponds rarely freeze solid in winter, and fish and other aquatic organisms can survive in the liquid layer below.",
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention that lakes freeze from the top down?",
+    "options": [
+     "To illustrate a consequence of ice being less dense than water",
+     "To explain why water has an unusually high boiling point",
+     "To show that most liquids behave the same way as water",
+     "To argue that lake ice melts faster than ice cubes"
+    ],
+    "answer": 0,
+    "explanation": "Lakes freezing from the top is given as an example of what happens because ice floats."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, why does the oxygen end of a water molecule carry a slight negative charge?",
+    "options": [
+     "It contains more atoms than the hydrogen end.",
+     "It pulls the shared electrons toward itself.",
+     "It gives electrons away to neighboring molecules.",
+     "It is bonded to four hydrogen atoms at once."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 states that oxygen pulls shared electrons toward itself, giving that end a slight negative charge."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"rigid\" in the passage is closest in meaning to",
+    "options": [
+     "fragile",
+     "temporary",
+     "crowded",
+     "stiff"
+    ],
+    "answer": 3,
+    "explanation": "Rigid means stiff and unable to bend or change shape easily."
+   },
+   {
+    "type": "relationship",
+    "prompt": "According to paragraph 3, how does the arrangement of molecules in ice differ from that in liquid water?",
+    "options": [
+     "In ice, the molecules are packed more tightly together.",
+     "In ice, hydrogen bonds break and re-form more often.",
+     "In ice, the molecules are held in a fixed, open pattern.",
+     "In ice, each molecule bonds with only two neighbors."
+    ],
+    "answer": 2,
+    "explanation": "Ice locks molecules into an open lattice, whereas liquid molecules move and crowd closely together."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a deep lake in a region with very cold winters?",
+    "options": [
+     "Liquid water probably remains beneath its surface ice.",
+     "Its ice probably sinks and builds up on the bottom.",
+     "Its entire volume probably turns to ice by midwinter.",
+     "Its fish probably must migrate to warmer streams."
+    ],
+    "answer": 0,
+    "explanation": "Floating ice insulates the water below, so liquid water is likely to remain under the ice."
+   }
+  ]
+ },
+ {
+  "id": "ap2-06",
+  "difficulty": "advanced",
+  "title": "Postglacial Rebound",
+  "discipline": "Geology",
+  "passage": "During the last glacial period, ice sheets up to three kilometers thick covered much of Canada and Scandinavia. Their immense weight did more than scour the landscape; it pressed the underlying crust downward into the mantle. Although the mantle is solid rock, over geologic time it behaves like an extremely viscous fluid, slowly flowing away from regions under load. The crust, in effect, floats on this deformable layer, a state of balance that geologists call isostasy.\n\nWhen the ice sheets melted at the close of the glacial period, the load was removed, but the crust did not spring back immediately. Because mantle rock flows so sluggishly, the land has been rising ever since and continues to do so today. Around the northern Gulf of Bothnia, uplift still exceeds eight millimeters per year. Evidence of this ongoing rebound is visible in raised beaches, ancient shorelines now stranded well above present sea level, and in harbors that have had to be dredged or relocated as the water grew shallower.\n\nThe phenomenon has scientific value beyond its local effects. By comparing rates of uplift with the size and timing of former ice sheets, researchers can estimate the viscosity of the mantle, a property that cannot be measured directly. Rebound also complicates the interpretation of tide-gauge records, since a gauge on rising land registers less sea-level rise than the global average.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, how does the mantle behave over geologic time?",
+    "options": [
+     "It fractures under the weight of overlying ice.",
+     "It flows slowly like an extremely thick fluid.",
+     "It melts into large pockets of magma.",
+     "It rises faster than the crust above it."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 states that the solid mantle behaves like an extremely viscous fluid over geologic time."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"sluggishly\" in the passage is closest in meaning to",
+    "options": [
+     "unevenly",
+     "violently",
+     "briefly",
+     "slowly"
+    ],
+    "answer": 3,
+    "explanation": "Sluggishly means in a slow, inactive manner."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention harbors that have been dredged or relocated?",
+    "options": [
+     "To show that rebound has practical effects that can be observed",
+     "To argue that ports should not be built in formerly glaciated areas",
+     "To explain how rising seas threaten northern coastlines",
+     "To suggest that dredging speeds up the rate of rebound"
+    ],
+    "answer": 0,
+    "explanation": "The harbors are cited as visible, practical evidence that the land is still rising."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about the viscosity of the mantle?",
+    "options": [
+     "It is the same beneath every region of the crust.",
+     "It can be determined from samples collected by drilling.",
+     "It must be studied indirectly through processes such as rebound.",
+     "It has increased steadily since the ice sheets melted."
+    ],
+    "answer": 2,
+    "explanation": "Because viscosity cannot be measured directly, scientists infer it from observations such as uplift rates."
+   },
+   {
+    "type": "inference",
+    "prompt": "It can be inferred from paragraph 3 that, if left uncorrected, tide-gauge data from the northern Gulf of Bothnia would",
+    "options": [
+     "overestimate the rate of global sea-level rise",
+     "underestimate the rate of global sea-level rise",
+     "show no change in sea level from season to season",
+     "reveal the original thickness of the ice sheets"
+    ],
+    "answer": 1,
+    "explanation": "Gauges on rising land record less sea-level rise than the global average, so raw data would understate it."
+   }
+  ]
+ },
+ {
+  "id": "ap2-07",
+  "difficulty": "advanced",
+  "title": "Cepheid Variables as Standard Candles",
+  "discipline": "Astronomy",
+  "passage": "Measuring distances to remote objects is one of astronomy's most persistent challenges. Parallax, the apparent shift of a nearby star against more distant background stars as Earth orbits the Sun, works well for close stars, but beyond a certain range the shift becomes too small to detect. To reach farther, astronomers rely on standard candles: objects whose true brightness can be determined independently of their distance.\n\nThe most historically important standard candles are Cepheid variables, giant stars that brighten and dim in a regular cycle lasting from about a day to several months. In the early twentieth century, Henrietta Leavitt, studying many such stars in the Small Magellanic Cloud, noticed that the brighter Cepheids had longer periods. Because all the stars in that cloud lie at roughly the same distance from Earth, differences in their apparent brightness reflected genuine differences in their luminosity. Leavitt had uncovered a period-luminosity relationship.\n\nThe implication was profound. By timing a Cepheid's cycle, an astronomer could infer its luminosity; comparing that value with how bright the star appears from Earth then yields its distance, since light dims predictably with distance. Later, Cepheids observed in the Andromeda nebula demonstrated that it lay far outside the Milky Way, establishing that our galaxy is only one of many. Calibrating the relationship, however, required independent distances to nearby Cepheids, which is why parallax remained essential.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why is parallax limited as a method of measuring distance?",
+    "options": [
+     "It requires knowing the true brightness of a star.",
+     "It works only for stars that vary in brightness.",
+     "Earth's orbit is too irregular for accurate results.",
+     "For distant stars, the apparent shift is too small to detect."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 1 says that beyond a certain range the parallax shift becomes too small to detect."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"genuine\" in the passage is closest in meaning to",
+    "options": [
+     "real",
+     "minor",
+     "temporary",
+     "visible"
+    ],
+    "answer": 0,
+    "explanation": "Genuine means real or actual rather than apparent."
+   },
+   {
+    "type": "relationship",
+    "prompt": "Why was it important that the Cepheids Leavitt studied were all at roughly the same distance?",
+    "options": [
+     "It allowed her to measure their parallax directly.",
+     "It meant differences in apparent brightness reflected real differences in luminosity.",
+     "It ensured that all of their periods would be identical.",
+     "It made them appear brighter than Cepheids in the Milky Way."
+    ],
+    "answer": 1,
+    "explanation": "With distance held constant, brightness differences could only come from true luminosity differences."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about astronomical knowledge before Cepheids were observed in the Andromeda nebula?",
+    "options": [
+     "Andromeda was widely believed to be a single Cepheid variable.",
+     "Parallax had already been used to measure Andromeda's distance.",
+     "It had not yet been established that other galaxies exist beyond the Milky Way.",
+     "Most astronomers had rejected Leavitt's period-luminosity relationship."
+    ],
+    "answer": 2,
+    "explanation": "The Andromeda observations are said to have established that the Milky Way is one of many galaxies, implying this was not known before."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention parallax at the end of the passage?",
+    "options": [
+     "To argue that parallax is more accurate than the Cepheid method",
+     "To explain why Cepheids cannot be seen in distant galaxies",
+     "To suggest that Leavitt's discovery was later disproved",
+     "To show that the Cepheid method still depended on a more direct technique"
+    ],
+    "answer": 3,
+    "explanation": "Calibrating the period-luminosity relationship required parallax distances to nearby Cepheids."
+   }
+  ]
+ },
+ {
+  "id": "ap2-08",
+  "difficulty": "advanced",
+  "title": "Climate Records in Polar Ice",
+  "discipline": "Climate Science",
+  "passage": "The ice sheets of Antarctica and Greenland preserve one of the most detailed records of Earth's past climate. Each year, snow accumulates on the surface and is compressed by later layers into glacial ice. Where snowfall is high, annual layers remain distinguishable, much like tree rings, allowing scientists to count back through time. Where accumulation is low, as in central Antarctica, the layers are too thin to count, and ages must instead be estimated by modeling how the ice flows and thins with depth.\n\nTwo kinds of evidence make these cores valuable. First, the ratio of heavy to light isotopes of oxygen and hydrogen in the ice reflects the temperature at which the snow formed; colder conditions yield snow depleted in the heavier isotopes. Second, as snow turns to ice, small bubbles become sealed inside, trapping samples of the ancient atmosphere. Analyzing these bubbles allows researchers to reconstruct past concentrations of carbon dioxide and methane directly.\n\nCompared side by side, the two records reveal a close correspondence: during cold glacial periods greenhouse gas concentrations were low, and during warm interglacials they were higher. The correlation alone does not establish which change came first, and interpreting the timing is complicated because the air in the bubbles is younger than the surrounding ice. Air continues to circulate through porous snow until it is buried deeply enough to be sealed.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why can annual layers not be counted in central Antarctica?",
+    "options": [
+     "So little snow falls that the layers are too thin.",
+     "The ice there is too old to contain any layers.",
+     "Summer melting erases the boundaries between layers.",
+     "The ice flows too quickly to be drilled."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 says accumulation is low in central Antarctica, making layers too thin to count."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"depleted\" in the passage is closest in meaning to",
+    "options": [
+     "composed",
+     "protected",
+     "enriched",
+     "lacking"
+    ],
+    "answer": 3,
+    "explanation": "Depleted means reduced in amount, that is, lacking in the heavier isotopes."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, how do ice cores provide information about past carbon dioxide levels?",
+    "options": [
+     "Isotope ratios in the ice reveal them indirectly.",
+     "The thickness of annual layers reflects them.",
+     "Trapped air bubbles preserve samples of the ancient atmosphere.",
+     "Dust particles in the ice absorb and store carbon dioxide."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2 explains that air bubbles sealed in the ice allow direct measurement of past gas concentrations."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 3 about the link between temperature and greenhouse gases in ice cores?",
+    "options": [
+     "It proves that rising carbon dioxide caused every past warming.",
+     "Further analysis is needed to determine which change occurred first.",
+     "It was first identified in tree-ring records.",
+     "It does not appear in cores drilled in Greenland."
+    ],
+    "answer": 1,
+    "explanation": "The author notes the correlation alone does not establish which change came first, so more analysis is needed."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention that air continues to circulate through porous snow?",
+    "options": [
+     "To explain why the air in the bubbles is younger than the ice around it",
+     "To show that the bubbles contain modern rather than ancient air",
+     "To argue that isotope measurements are unreliable",
+     "To describe how snow is compressed into glacial ice"
+    ],
+    "answer": 0,
+    "explanation": "Because air keeps exchanging until the snow is sealed, trapped air is younger than the enclosing ice."
+   }
+  ]
+ },
+ {
+  "id": "ap2-09",
+  "difficulty": "advanced",
+  "title": "Shape-Memory Alloys",
+  "discipline": "Materials Science",
+  "passage": "Most metals, once bent beyond a certain point, stay bent. Shape-memory alloys behave differently. A wire made of nickel-titanium, the most widely used such alloy, can be deformed at room temperature and then, when gently heated, return precisely to its original form. This seemingly magical behavior arises from a reversible change in the alloy's crystal structure.\n\nAt higher temperatures, nickel-titanium adopts a highly ordered structure called austenite. When it cools, it transforms into a phase called martensite, whose crystals can shift into many slightly different orientations without breaking atomic bonds. Deforming the cooled alloy simply rearranges these orientations to accommodate the new shape. On heating, the martensite reverts to austenite, which has only one possible arrangement, so the metal is forced back into the configuration it held before cooling. The temperature at which this reversal occurs can be tuned by adjusting the ratio of nickel to titanium, sometimes by a fraction of a percent.\n\nA related property, superelasticity, appears when the alloy is used slightly above its transformation temperature. Here, stress itself triggers the formation of martensite, allowing the material to stretch several percent and then spring back once the load is removed, far beyond the recoverable strain of ordinary steel. These properties have found applications ranging from medical stents, which are compressed for insertion and then expand inside a blood vessel, to eyeglass frames that resist permanent bending.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what happens when a deformed nickel-titanium wire is gently heated?",
+    "options": [
+     "It becomes permanently brittle.",
+     "It returns to its original shape.",
+     "It bends further in the same direction.",
+     "It separates into nickel and titanium."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 says the heated wire returns precisely to its original form."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"reverts\" in the passage is closest in meaning to",
+    "options": [
+     "melts",
+     "expands",
+     "returns",
+     "hardens"
+    ],
+    "answer": 2,
+    "explanation": "To revert is to return to a former state, here from martensite back to austenite."
+   },
+   {
+    "type": "relationship",
+    "prompt": "According to paragraph 2, why is the alloy forced back into its original configuration when heated?",
+    "options": [
+     "Heating breaks the atomic bonds formed during deformation.",
+     "The ratio of nickel to titanium changes at high temperature.",
+     "Austenite crystals are much softer than martensite crystals.",
+     "Martensite allows many orientations, but austenite allows only one."
+    ],
+    "answer": 3,
+    "explanation": "Austenite has only one possible arrangement, so the varied martensite orientations must return to it."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about adjusting the ratio of nickel to titanium?",
+    "options": [
+     "It lets manufacturers design alloys that recover their shape at chosen temperatures.",
+     "It prevents alloys with extra nickel from being deformed.",
+     "Small changes in the ratio have little effect on the alloy.",
+     "It determines whether the alloy becomes magnetic."
+    ],
+    "answer": 0,
+    "explanation": "Since the ratio tunes the transformation temperature, alloys can be made to change shape at specific temperatures."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention medical stents?",
+    "options": [
+     "To show that steel is preferable for medical devices",
+     "To explain how superelasticity was first discovered",
+     "To illustrate a practical use of the alloy's ability to recover its shape",
+     "To argue that eyeglass frames are the alloy's most common use"
+    ],
+    "answer": 2,
+    "explanation": "Stents are given as an application that relies on the alloy being compressed and then recovering its shape."
+   }
+  ]
+ },
+ {
+  "id": "ap2-10",
+  "difficulty": "advanced",
+  "title": "The Color of the Sky",
+  "discipline": "Physics",
+  "passage": "Sunlight looks white because it mixes all visible wavelengths. Yet the daytime sky is blue, and the Sun near the horizon looks orange or red. Both effects arise from how light interacts with air molecules.\n\nNitrogen and oxygen molecules are far smaller than the wavelengths of visible light. When light encounters such tiny particles, some of it is redirected in all directions, a process known as Rayleigh scattering. The strength of this scattering depends steeply on wavelength: it is inversely proportional to the fourth power of the wavelength. Because blue light has a shorter wavelength than red, it is scattered several times more strongly. As a result, blue light is redistributed across the whole sky and reaches an observer from every direction, while longer wavelengths tend to travel straight from the Sun. Violet light is scattered even more than blue, but the sky does not look violet, partly because sunlight contains less violet and partly because human eyes are less sensitive to it.\n\nAt sunrise and sunset, sunlight must cross a much longer path through the atmosphere to reach an observer. Along the way, most of the blue light is scattered out of the direct beam, leaving the remaining light dominated by orange and red. Larger particles, such as water droplets in clouds, scatter all wavelengths about equally, which is why clouds appear white or gray rather than blue.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, what condition produces Rayleigh scattering?",
+    "options": [
+     "Light striking particles larger than water droplets",
+     "Light striking particles much smaller than its wavelength",
+     "Light passing through dense layers of cloud",
+     "Light with wavelengths longer than those of red light"
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 describes Rayleigh scattering as occurring when light meets particles far smaller than its wavelength."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"steeply\" in the passage is closest in meaning to",
+    "options": [
+     "gradually",
+     "slightly",
+     "rarely",
+     "sharply"
+    ],
+    "answer": 3,
+    "explanation": "Depending steeply on something means changing sharply as that thing changes."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 2, all of the following are true EXCEPT:",
+    "options": [
+     "Violet light is scattered less strongly than blue light.",
+     "Sunlight contains relatively little violet light.",
+     "Human eyes are less sensitive to violet than to blue.",
+     "Blue light reaches an observer from all parts of the sky."
+    ],
+    "answer": 0,
+    "explanation": "The passage says violet is scattered even more than blue, so the first statement is false."
+   },
+   {
+    "type": "inference",
+    "prompt": "It can be inferred from paragraph 3 that the Sun looks whiter at midday than at sunset because at midday",
+    "options": [
+     "clouds scatter more of its light",
+     "the air contains more nitrogen",
+     "its light passes through less of the atmosphere",
+     "it produces more blue light"
+    ],
+    "answer": 2,
+    "explanation": "At sunset light crosses a much longer atmospheric path, so at midday the shorter path removes less blue light."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention clouds in the final sentence?",
+    "options": [
+     "To explain why clouds tend to form at sunset",
+     "To contrast scattering by larger particles with Rayleigh scattering",
+     "To show that water droplets absorb blue light",
+     "To argue that clouds make the sky appear bluer"
+    ],
+    "answer": 1,
+    "explanation": "Clouds illustrate that large particles scatter all wavelengths equally, unlike the wavelength-dependent Rayleigh scattering."
+   }
+  ]
+ }
+]

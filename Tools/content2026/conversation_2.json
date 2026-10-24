@@ -1,0 +1,1137 @@
+[
+ {
+  "id": "cv2-01",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a bike shop mechanic.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Jordan",
+    "gender": "male"
+   },
+   {
+    "role": "bike mechanic",
+    "name": "Ms. Reyes",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, my bike's been making a clicking noise, and yesterday the chain slipped right off on my way to class. Could you take a look?"
+   },
+   {
+    "speaker": 1,
+    "text": "Sure. Let me spin the pedals... Yeah, your chain's stretched, and the teeth on the back gears are pretty worn down. That's why it keeps slipping."
+   },
+   {
+    "speaker": 0,
+    "text": "Is that expensive to fix? I'm kind of on a student budget."
+   },
+   {
+    "speaker": 1,
+    "text": "Replacing both runs about sixty dollars. If you only replace the chain, the new one probably won't grip the old gears, so I'd really recommend doing both."
+   },
+   {
+    "speaker": 0,
+    "text": "Okay, that makes sense. How long will it take? I ride to campus every day."
+   },
+   {
+    "speaker": 1,
+    "text": "We're a little backed up, so it'd be ready Thursday afternoon. But we lend loaner bikes to repair customers for free. You'd just need to leave your student ID with us."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh, perfect. Let's do that, then."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "Why does the man go to the bike shop?",
+    "options": [
+     "To buy a new bike for riding to campus",
+     "To get a problem with his bike's chain fixed",
+     "To ask about a job repairing bicycles",
+     "To return a bike he borrowed last week"
+    ],
+    "answer": 1,
+    "explanation": "The man explains that his chain slipped off and asks the mechanic to look at his bike."
+   },
+   {
+    "type": "detail",
+    "prompt": "What does the man need to do to borrow a loaner bike?",
+    "options": [
+     "Pay a small daily rental fee",
+     "Bring it back by Thursday morning",
+     "Show a receipt for his repair",
+     "Leave his student ID at the shop"
+    ],
+    "answer": 3,
+    "explanation": "The mechanic says loaners are free but he must leave his student ID with the shop."
+   }
+  ]
+ },
+ {
+  "id": "cv2-02",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a staff member at the campus gym.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Priya",
+    "gender": "female"
+   },
+   {
+    "role": "gym staff member",
+    "name": "Mr. Daniels",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I tried to sign up for the Tuesday evening spin class online, but the website says it's full. Is there any way to get in?"
+   },
+   {
+    "speaker": 1,
+    "text": "That one fills up fast. You can add your name to the waitlist here, though. People cancel all the time, especially around midterms."
+   },
+   {
+    "speaker": 0,
+    "text": "How would I know if a spot opens up?"
+   },
+   {
+    "speaker": 1,
+    "text": "You'd get a text about two hours before class. You just have to reply within thirty minutes, or the spot goes to the next person."
+   },
+   {
+    "speaker": 0,
+    "text": "Got it. Are there any other spin classes I could try in the meantime?"
+   },
+   {
+    "speaker": 1,
+    "text": "There's a Thursday session at seven in the morning. It's early, so it almost never fills."
+   },
+   {
+    "speaker": 0,
+    "text": "Seven's tough, but I'll give it a shot. Can you put me on both lists?"
+   },
+   {
+    "speaker": 1,
+    "text": "Thursday doesn't need a list. Just show up. I'll add you to Tuesday's waitlist now."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the woman's main problem?",
+    "options": [
+     "A class she wants to take is already full",
+     "She forgot to bring her gym membership card",
+     "She missed a class that she had paid for",
+     "The website would not accept her payment"
+    ],
+    "answer": 0,
+    "explanation": "The woman says the Tuesday spin class is full and asks how she can get in."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the Thursday morning class?",
+    "options": [
+     "It requires students to register online",
+     "It is taught by the Tuesday instructor",
+     "Its early start time keeps attendance low",
+     "It is usually canceled around midterms"
+    ],
+    "answer": 2,
+    "explanation": "The staff member says the class is early, so it almost never fills, implying the time discourages attendance."
+   }
+  ]
+ },
+ {
+  "id": "cv2-03",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a clerk at the campus bookstore.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Sam",
+    "gender": "male"
+   },
+   {
+    "role": "bookstore clerk",
+    "name": "Ms. Novak",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I'd like to return this chemistry textbook. I dropped the course yesterday."
+   },
+   {
+    "speaker": 1,
+    "text": "No problem. Do you have your receipt?"
+   },
+   {
+    "speaker": 0,
+    "text": "Um, I think I threw it away. I bought the book the first week of the semester."
+   },
+   {
+    "speaker": 1,
+    "text": "That's okay. If you paid with a card, I can look up the purchase. Otherwise, I can only give you store credit."
+   },
+   {
+    "speaker": 0,
+    "text": "I used my debit card. Here it is."
+   },
+   {
+    "speaker": 1,
+    "text": "Great, I found it. Since you're returning it within the drop period and it's still in new condition, you'll get a full refund to your card."
+   },
+   {
+    "speaker": 0,
+    "text": "What if I'd written in it?"
+   },
+   {
+    "speaker": 1,
+    "text": "Then we'd treat it as used, and you'd get about half. You're fine, though. These pages look untouched."
+   }
+  ],
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the man go to the bookstore?",
+    "options": [
+     "To exchange a book for a newer edition",
+     "To buy a textbook for a new course",
+     "To return a book for a course he dropped",
+     "To complain about a damaged textbook"
+    ],
+    "answer": 2,
+    "explanation": "The man says he wants to return his chemistry textbook because he dropped the course."
+   },
+   {
+    "type": "detail",
+    "prompt": "Why is the man able to get a full refund?",
+    "options": [
+     "The book is unmarked and returned on time",
+     "He found his original paper receipt",
+     "The store refunds all dropped-course books",
+     "He agreed to accept store credit instead"
+    ],
+    "answer": 0,
+    "explanation": "The clerk says he gets a full refund because he is within the drop period and the book is in new condition."
+   }
+  ]
+ },
+ {
+  "id": "cv2-04",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between two roommates.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Lena",
+    "gender": "female"
+   },
+   {
+    "role": "roommate",
+    "name": "Marcus",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Marcus, do you have a minute? The electric bill came, and it's way higher than last month."
+   },
+   {
+    "speaker": 1,
+    "text": "Really? How much?"
+   },
+   {
+    "speaker": 0,
+    "text": "Almost ninety dollars. I think it's the space heater in your room. You leave it on all night."
+   },
+   {
+    "speaker": 1,
+    "text": "Yeah, that's fair. My room's freezing, though. The window doesn't close all the way."
+   },
+   {
+    "speaker": 0,
+    "text": "Have you told building maintenance? If they fix the window, you might not need the heater at all."
+   },
+   {
+    "speaker": 1,
+    "text": "I didn't even think of that. I'll submit a repair request tonight."
+   },
+   {
+    "speaker": 0,
+    "text": "And for this month, how about you cover a bit more of the bill? Say, fifty, and I'll pay forty."
+   },
+   {
+    "speaker": 1,
+    "text": "Sounds reasonable. I'll send you the money this weekend."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What are the speakers mainly discussing?",
+    "options": [
+     "Whether to buy a second space heater",
+     "Where to find a cheaper apartment",
+     "When to clean their shared kitchen",
+     "How to deal with a higher electric bill"
+    ],
+    "answer": 3,
+    "explanation": "The conversation begins with the high electric bill and ends with a plan to split it and reduce heater use."
+   },
+   {
+    "type": "detail",
+    "prompt": "What does the man say he will do tonight?",
+    "options": [
+     "Pay his share of the electric bill",
+     "Ask maintenance to repair his window",
+     "Turn off his heater permanently",
+     "Move into a warmer bedroom"
+    ],
+    "answer": 1,
+    "explanation": "The man says he will submit a repair request for the window tonight."
+   }
+  ]
+ },
+ {
+  "id": "cv2-05",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a lost-and-found attendant.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Kenji",
+    "gender": "male"
+   },
+   {
+    "role": "lost-and-found attendant",
+    "name": "Mrs. Patel",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I lost my graphing calculator somewhere in the science building on Monday. Has anyone turned one in?"
+   },
+   {
+    "speaker": 1,
+    "text": "We get a lot of calculators. Can you describe it?"
+   },
+   {
+    "speaker": 0,
+    "text": "It's black, with a green sticker on the back. And my initials, K.T., are scratched near the battery cover."
+   },
+   {
+    "speaker": 1,
+    "text": "Let me check Monday's bin... Here's one with a green sticker. Do you see your initials?"
+   },
+   {
+    "speaker": 0,
+    "text": "Yes! That's it. I was about to buy a new one for my exam on Friday."
+   },
+   {
+    "speaker": 1,
+    "text": "Lucky timing. I just need you to sign this form and show me your student ID."
+   },
+   {
+    "speaker": 0,
+    "text": "Sure. Is there any way to keep this from happening again?"
+   },
+   {
+    "speaker": 1,
+    "text": "Some students tape their email address inside the cover. Then we can contact them directly."
+   }
+  ],
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the man visit the lost-and-found office?",
+    "options": [
+     "To turn in a calculator he found",
+     "To look for an item he misplaced",
+     "To buy a calculator for an exam",
+     "To report that his bag was stolen"
+    ],
+    "answer": 1,
+    "explanation": "The man asks whether anyone has turned in the graphing calculator he lost."
+   },
+   {
+    "type": "detail",
+    "prompt": "What does the woman suggest the man do in the future?",
+    "options": [
+     "Leave the calculator at home on exam days",
+     "Buy a calculator that has a lock",
+     "Put his contact details inside the cover",
+     "Check the lost-and-found bin weekly"
+    ],
+    "answer": 2,
+    "explanation": "She says some students tape their email inside the cover so the office can contact them."
+   }
+  ]
+ },
+ {
+  "id": "cv2-06",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and a clerk at the campus transit office.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Ana",
+    "gender": "female"
+   },
+   {
+    "role": "transit office clerk",
+    "name": "Mr. Lee",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, my bus pass stopped working. The driver's scanner just beeps red every time I tap it."
+   },
+   {
+    "speaker": 1,
+    "text": "Let me scan it here... The card's chip is damaged. Did it get bent, maybe?"
+   },
+   {
+    "speaker": 0,
+    "text": "I don't think so. It's always in my wallet, and it's only two months old."
+   },
+   {
+    "speaker": 1,
+    "text": "Hmm, we've had a batch of cards from this fall with faulty chips. Actually, yours is from that batch."
+   },
+   {
+    "speaker": 0,
+    "text": "So do I have to pay for a new one? I heard replacements are fifteen dollars."
+   },
+   {
+    "speaker": 1,
+    "text": "Normally, yes, but not for defective cards. I'll print you a new one right now, and your remaining balance will transfer over."
+   },
+   {
+    "speaker": 0,
+    "text": "That's a relief. Will I need to register it again online?"
+   },
+   {
+    "speaker": 1,
+    "text": "No, it's linked to your student account automatically."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the woman's problem?",
+    "options": [
+     "Her bus pass no longer scans correctly",
+     "She lost her bus pass on the way to campus",
+     "She was charged twice for her monthly pass",
+     "Her bus route changed without any notice"
+    ],
+    "answer": 0,
+    "explanation": "The woman says her pass stopped working and the scanner beeps red when she taps it."
+   },
+   {
+    "type": "detail",
+    "prompt": "Why will the woman not have to pay for a replacement card?",
+    "options": [
+     "She has had the card only two months",
+     "She registered her card online",
+     "Her balance already covers the fee",
+     "Her card came from a defective batch"
+    ],
+    "answer": 3,
+    "explanation": "The clerk says replacements are free for defective cards, and hers is from the faulty batch."
+   }
+  ]
+ },
+ {
+  "id": "cv2-07",
+  "difficulty": "intermediate",
+  "intro": "Listen to a conversation between a student and his supervisor at a campus cafe.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Tom",
+    "gender": "male"
+   },
+   {
+    "role": "shift supervisor",
+    "name": "Grace",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Grace, can I ask you something? I'm scheduled for the Saturday morning shift, but my biology lab exam just got moved to that day."
+   },
+   {
+    "speaker": 1,
+    "text": "Oh no. Saturday mornings are our busiest time. Have you asked anyone to switch?"
+   },
+   {
+    "speaker": 0,
+    "text": "I asked Rosa, but she's going out of town. I haven't asked anyone else yet."
+   },
+   {
+    "speaker": 1,
+    "text": "Try Ben. He told me last week he wants more hours. If he agrees, he can take your shift, and you could cover his Wednesday evening."
+   },
+   {
+    "speaker": 0,
+    "text": "Wednesday works for me. Do I need to fill anything out?"
+   },
+   {
+    "speaker": 1,
+    "text": "Just update the swap on the shared schedule and message me once he confirms. I need to approve it before Friday."
+   },
+   {
+    "speaker": 0,
+    "text": "Okay. I'll text him right after my shift."
+   }
+  ],
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the man talk to the woman?",
+    "options": [
+     "To ask for more weekly hours at the cafe",
+     "To complain about the weekend schedule",
+     "To arrange coverage for a shift he cannot work",
+     "To request a change in his job duties"
+    ],
+    "answer": 2,
+    "explanation": "The man explains that his lab exam conflicts with his Saturday shift and seeks a way to get it covered."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about Ben?",
+    "options": [
+     "He already works on Saturday mornings",
+     "He is likely to accept the shift swap",
+     "He is going out of town this weekend",
+     "He is in charge of the shared schedule"
+    ],
+    "answer": 1,
+    "explanation": "The supervisor suggests Ben because he recently said he wants more hours, so he would probably agree."
+   }
+  ]
+ },
+ {
+  "id": "cv2-08",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and the advisor of a campus theater club.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Olivia",
+    "gender": "female"
+   },
+   {
+    "role": "theater club advisor",
+    "name": "Mr. Hart",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Mr. Hart, about the spring production: I'd love to audition for a role, but I also signed up for the lighting crew."
+   },
+   {
+    "speaker": 1,
+    "text": "I saw that. The trouble is, lighting is busiest during tech week, which is exactly when actors run full rehearsals. You can't be on stage and in the booth at once."
+   },
+   {
+    "speaker": 0,
+    "text": "Right. I was hoping to learn the technical side without giving up acting."
+   },
+   {
+    "speaker": 1,
+    "text": "Here's a thought. Audition this spring, and attend a few Saturday workshops with our lighting designer. She runs them before tech week, so there's no overlap. Then next fall, for the smaller studio show, you could design the lights yourself."
+   },
+   {
+    "speaker": 0,
+    "text": "Design them myself? I've never done that."
+   },
+   {
+    "speaker": 1,
+    "text": "That's why the workshops matter. The studio show uses a much simpler setup, so it's a good place to start."
+   },
+   {
+    "speaker": 0,
+    "text": "Okay, that sounds like a better plan."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the conversation mainly about?",
+    "options": [
+     "Which role the student should audition for",
+     "Why the spring production schedule changed",
+     "Whether the club needs more crew members",
+     "How the student can pursue both acting and lighting"
+    ],
+    "answer": 3,
+    "explanation": "The advisor explains a schedule conflict and proposes a plan that lets the student act now and learn lighting too."
+   },
+   {
+    "type": "inference",
+    "prompt": "What does the advisor imply about the fall studio show?",
+    "options": [
+     "It is less technically demanding than the spring show",
+     "It will take place during the spring tech week",
+     "It does not include any roles for actors",
+     "It will be directed by the lighting designer"
+    ],
+    "answer": 0,
+    "explanation": "He says the studio show uses a much simpler setup, making it a good first design project."
+   }
+  ]
+ },
+ {
+  "id": "cv2-09",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a career counselor.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "David",
+    "gender": "male"
+   },
+   {
+    "role": "career counselor",
+    "name": "Ms. Okafor",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Ms. Okafor, I got an interview with that engineering firm, but they want to meet next Thursday at ten, which is exactly when my statistics midterm is."
+   },
+   {
+    "speaker": 1,
+    "text": "Congratulations! Have you contacted them about it yet?"
+   },
+   {
+    "speaker": 0,
+    "text": "Not yet. I'm worried that if I ask to reschedule, they'll think I'm not serious."
+   },
+   {
+    "speaker": 1,
+    "text": "Honestly, recruiters deal with this constantly. What matters is how you ask. Reply quickly, thank them, explain the conflict briefly, and offer two or three specific times that work for you."
+   },
+   {
+    "speaker": 0,
+    "text": "Should I mention it's an exam, or just say I'm unavailable?"
+   },
+   {
+    "speaker": 1,
+    "text": "Mention the exam. It shows you take your commitments seriously, which is exactly what they want in an intern."
+   },
+   {
+    "speaker": 0,
+    "text": "Good point. But what if they can't move it?"
+   },
+   {
+    "speaker": 1,
+    "text": "Then talk to your professor about taking the midterm another day. But I doubt it'll come to that."
+   }
+  ],
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the student go to see the counselor?",
+    "options": [
+     "To get advice about an interview that conflicts with an exam",
+     "To practice answering common interview questions",
+     "To ask her to contact the engineering firm for him",
+     "To find out which local firms are hiring interns"
+    ],
+    "answer": 0,
+    "explanation": "The student explains the scheduling conflict and asks how to handle it with the firm."
+   },
+   {
+    "type": "inference",
+    "prompt": "Why does the counselor recommend that the student mention his exam?",
+    "options": [
+     "It makes the firm more likely to offer a video call",
+     "It proves that he has strong statistics skills",
+     "It signals that he is responsible about his obligations",
+     "It is required by the university's career policy"
+    ],
+    "answer": 2,
+    "explanation": "She says mentioning the exam shows he takes commitments seriously, a quality firms want in interns."
+   }
+  ]
+ },
+ {
+  "id": "cv2-10",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a study-abroad advisor.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Hannah",
+    "gender": "female"
+   },
+   {
+    "role": "study-abroad advisor",
+    "name": "Mr. Silva",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, Mr. Silva. I'm finishing my application for a semester in Lisbon, and I have a question about credits. One course I want, urban geography, isn't on the approved list."
+   },
+   {
+    "speaker": 1,
+    "text": "That happens a lot. The list only covers courses our students have taken before. It doesn't mean the course won't count."
+   },
+   {
+    "speaker": 0,
+    "text": "So how do I get it approved?"
+   },
+   {
+    "speaker": 1,
+    "text": "You'll need the syllabus, ideally with the reading list and the number of class hours. Send it to the geography department, and they'll decide whether it matches one of our courses or counts as a general elective."
+   },
+   {
+    "speaker": 0,
+    "text": "How long does that take? The application's due in three weeks."
+   },
+   {
+    "speaker": 1,
+    "text": "Usually about ten days. But you don't have to wait for approval to submit. Just list the course as pending."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh, good. I'll email the department today, then."
+   }
+  ],
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "What is the woman's main purpose in talking to the advisor?",
+    "options": [
+     "To ask for an extension on her application deadline",
+     "To learn how to get credit for an unlisted course",
+     "To choose between two study-abroad destinations",
+     "To request a list of courses offered in Lisbon"
+    ],
+    "answer": 1,
+    "explanation": "She asks how to get approval for a course that is not on the approved list."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the urban geography course?",
+    "options": [
+     "It will definitely count as a general elective",
+     "It was already rejected by the geography department",
+     "It is a required course for the woman's major",
+     "No student from her university has taken it before"
+    ],
+    "answer": 3,
+    "explanation": "The advisor says the approved list only includes courses students have taken, so this course has not been taken yet."
+   }
+  ]
+ },
+ {
+  "id": "cv2-11",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a receptionist at the campus health clinic.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Leo",
+    "gender": "male"
+   },
+   {
+    "role": "clinic receptionist",
+    "name": "Ms. Grant",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I need a form signed for a hospital volunteer program. They want proof of a tuberculosis test from the past year."
+   },
+   {
+    "speaker": 1,
+    "text": "Have you had one recently?"
+   },
+   {
+    "speaker": 0,
+    "text": "No, I don't think so. Can I get one today?"
+   },
+   {
+    "speaker": 1,
+    "text": "We can start it today, but it's a two-visit process. The nurse places the test today, and you come back in two or three days so she can read the result. The form can only be signed after that."
+   },
+   {
+    "speaker": 0,
+    "text": "Hmm. The program wants everything by Friday, and it's already Tuesday."
+   },
+   {
+    "speaker": 1,
+    "text": "Then you're cutting it close, but it works if you come in this afternoon. The nurse has openings at two and three-thirty, and your follow-up would be Thursday or Friday morning."
+   },
+   {
+    "speaker": 0,
+    "text": "Let's do two o'clock. Do I need to bring anything?"
+   },
+   {
+    "speaker": 1,
+    "text": "Just your insurance card and the volunteer form, so the nurse can complete it at your second visit."
+   }
+  ],
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the man go to the campus clinic?",
+    "options": [
+     "To get treatment for an illness before Friday",
+     "To apply for a volunteer position at the clinic",
+     "To meet a health requirement for a volunteer program",
+     "To pick up the results of an earlier test"
+    ],
+    "answer": 2,
+    "explanation": "He needs proof of a recent tuberculosis test for his hospital volunteer program."
+   },
+   {
+    "type": "inference",
+    "prompt": "Why does the receptionist say the man is \"cutting it close\"?",
+    "options": [
+     "The two-visit test barely fits before his deadline",
+     "The nurse rarely has openings on Tuesdays",
+     "His insurance may not cover the test",
+     "The program has already chosen its volunteers"
+    ],
+    "answer": 0,
+    "explanation": "The test requires a second visit days later, which leaves just enough time before Friday."
+   }
+  ]
+ },
+ {
+  "id": "cv2-12",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a volunteer coordinator.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Aisha",
+    "gender": "female"
+   },
+   {
+    "role": "volunteer coordinator",
+    "name": "Mr. Brooks",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, Mr. Brooks. I signed up to tutor in the elementary school reading program, but I just got an email saying I can't start next week."
+   },
+   {
+    "speaker": 1,
+    "text": "Right. That's because your background check hasn't cleared yet. It usually takes about two weeks for anyone working directly with children."
+   },
+   {
+    "speaker": 0,
+    "text": "Two weeks? I was hoping to log volunteer hours for my education course. I need twenty by the end of the month."
+   },
+   {
+    "speaker": 1,
+    "text": "I understand. In the meantime, you could help with our book drive. We're sorting donated books for the school library, and that doesn't require clearance because there's no contact with kids."
+   },
+   {
+    "speaker": 0,
+    "text": "Would those hours count for my course?"
+   },
+   {
+    "speaker": 1,
+    "text": "They should, since it supports the same literacy program. But double-check with your instructor to be safe."
+   },
+   {
+    "speaker": 0,
+    "text": "I will. Could I start sorting this weekend?"
+   },
+   {
+    "speaker": 1,
+    "text": "Absolutely. We're in the community center basement Saturday from nine to noon."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the woman's problem?",
+    "options": [
+     "She missed the deadline to join the reading program",
+     "Her instructor will not accept volunteer hours",
+     "The elementary school canceled its reading program",
+     "She cannot start tutoring until a check is complete"
+    ],
+    "answer": 3,
+    "explanation": "The coordinator explains she cannot begin because her background check has not cleared."
+   },
+   {
+    "type": "inference",
+    "prompt": "Why does the coordinator tell the woman to check with her instructor?",
+    "options": [
+     "The instructor is the organizer of the book drive",
+     "He is not completely sure the hours will qualify",
+     "The instructor must approve her background check",
+     "He believes the course accepts only tutoring hours"
+    ],
+    "answer": 1,
+    "explanation": "He says the hours should count but advises confirming, showing he is not certain."
+   }
+  ]
+ },
+ {
+  "id": "cv2-13",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a technician at the campus IT help desk.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Ethan",
+    "gender": "male"
+   },
+   {
+    "role": "IT technician",
+    "name": "Ms. Kim",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, my laptop won't connect to the campus wireless network anymore. My phone's fine, though."
+   },
+   {
+    "speaker": 1,
+    "text": "Did you change your university password recently?"
+   },
+   {
+    "speaker": 0,
+    "text": "Yeah, on Monday. The system made me update it."
+   },
+   {
+    "speaker": 1,
+    "text": "That's almost certainly it. Your phone probably asked for the new password, but laptops often keep trying the old saved one. After a few failed attempts, the network temporarily locks the device out."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh. So what should I do?"
+   },
+   {
+    "speaker": 1,
+    "text": "First, tell your laptop to forget the network. Then wait about fifteen minutes for the lockout to clear before reconnecting with your new password."
+   },
+   {
+    "speaker": 0,
+    "text": "Why wait? Can't I just reconnect right away?"
+   },
+   {
+    "speaker": 1,
+    "text": "If you try during the lockout, it counts as another failed attempt and resets the timer. So grab a coffee and try again afterward."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "Why does the man go to the help desk?",
+    "options": [
+     "His laptop cannot connect to the campus network",
+     "He forgot the new password he created",
+     "His phone stopped receiving campus email",
+     "He wants advice on buying a faster laptop"
+    ],
+    "answer": 0,
+    "explanation": "The man says his laptop no longer connects to the campus wireless network."
+   },
+   {
+    "type": "inference",
+    "prompt": "What would most likely happen if the man tried to reconnect immediately?",
+    "options": [
+     "His phone would lose its network connection",
+     "His password would have to be reset again",
+     "The lockout period would start over again",
+     "The laptop would connect without any problem"
+    ],
+    "answer": 2,
+    "explanation": "The technician says an attempt during the lockout counts as a failure and resets the timer."
+   }
+  ]
+ },
+ {
+  "id": "cv2-14",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and the coordinator of the campus community garden.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Noah",
+    "gender": "male"
+   },
+   {
+    "role": "garden coordinator",
+    "name": "Ms. Alvarez",
+    "gender": "female"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I applied for a plot in the campus garden last month, but I haven't heard anything. Do you know where I stand?"
+   },
+   {
+    "speaker": 1,
+    "text": "Let me look... You're seventh on the waitlist. Honestly, with only twenty plots, spots don't open up often. Maybe one or two a semester."
+   },
+   {
+    "speaker": 0,
+    "text": "That's disappointing. I was hoping to grow vegetables this spring."
+   },
+   {
+    "speaker": 1,
+    "text": "Well, have you considered a shared plot? A graduate student, Mei, told me she can't keep up with hers this year and would welcome a partner."
+   },
+   {
+    "speaker": 0,
+    "text": "Would I still keep my place on the waitlist?"
+   },
+   {
+    "speaker": 1,
+    "text": "Yes, sharing doesn't affect your position. And frankly, it's a good way to learn. Mei's been gardening here for three years."
+   },
+   {
+    "speaker": 0,
+    "text": "Then I'd definitely like to meet her."
+   },
+   {
+    "speaker": 1,
+    "text": "Great. I'll email you both and set something up."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the main topic of the conversation?",
+    "options": [
+     "The rules for maintaining a plot in the garden",
+     "A way for the student to garden despite a long waitlist",
+     "Which vegetables grow best during the spring",
+     "How the graduate student obtained her plot"
+    ],
+    "answer": 1,
+    "explanation": "The coordinator explains the long waitlist and suggests sharing a plot so he can garden this spring."
+   },
+   {
+    "type": "inference",
+    "prompt": "Why does the coordinator mention that Mei has gardened for three years?",
+    "options": [
+     "To explain why Mei has priority on the waitlist",
+     "To show that plots are rarely given up",
+     "To point out that Mei does not need help",
+     "To suggest that the student could learn from her"
+    ],
+    "answer": 3,
+    "explanation": "She says sharing is a good way to learn and then notes Mei's experience."
+   }
+  ]
+ },
+ {
+  "id": "cv2-15",
+  "difficulty": "advanced",
+  "intro": "Listen to a conversation between a student and a technician at the campus print center.",
+  "speakers": [
+   {
+    "role": "student",
+    "name": "Chloe",
+    "gender": "female"
+   },
+   {
+    "role": "print center technician",
+    "name": "Mr. Evans",
+    "gender": "male"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": 0,
+    "text": "Hi, I'm printing a poster for a research conference this weekend, and the test print looks blurry. On my screen it's perfectly sharp."
+   },
+   {
+    "speaker": 1,
+    "text": "Let me see the file... Ah, your photos are low resolution. They look fine on a screen, but when we enlarge them to poster size, every pixel gets stretched."
+   },
+   {
+    "speaker": 0,
+    "text": "Oh no. They're photos I took of my lab samples. Can you fix them?"
+   },
+   {
+    "speaker": 1,
+    "text": "Not really. You can't add detail that isn't there. Do you still have the original images from the camera?"
+   },
+   {
+    "speaker": 0,
+    "text": "I think so. I probably shrank them when I pasted them into my slides."
+   },
+   {
+    "speaker": 1,
+    "text": "That's likely it. Replace them with the originals, export the file again at full quality, and send it over. If it's in by noon tomorrow, we'll have it ready Thursday."
+   },
+   {
+    "speaker": 0,
+    "text": "That still gives me a day to spare. Thanks so much."
+   }
+  ],
+  "questions": [
+   {
+    "type": "gist",
+    "prompt": "What is the woman's main problem?",
+    "options": [
+     "Her poster file is too large to send by email",
+     "The print center cannot finish before the weekend",
+     "The images on her poster print without enough detail",
+     "She deleted the original photos of her samples"
+    ],
+    "answer": 2,
+    "explanation": "Her test print is blurry because the photos are low resolution."
+   },
+   {
+    "type": "inference",
+    "prompt": "What most likely caused the blurry images?",
+    "options": [
+     "The woman made the photos smaller when inserting them",
+     "The print center's printer settings were incorrect",
+     "The lab camera took photos of poor quality",
+     "The poster was exported at too high a quality"
+    ],
+    "answer": 0,
+    "explanation": "She says she probably shrank the photos when pasting them into her slides, and the technician agrees."
+   }
+  ]
+ }
+]

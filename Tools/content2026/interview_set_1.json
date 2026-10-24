@@ -1,0 +1,392 @@
+[
+ {
+  "id": "iv-01",
+  "difficulty": "intermediate",
+  "intro": "You have agreed to take part in a research study about the study habits of university students. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "female"
+  },
+  "questions": [
+   "Thanks for joining us today. To start, could you tell me where you usually study and what a typical study session looks like for you?",
+   "Think about a time when you had to prepare for a really important exam. How did you get ready, and how did it turn out?",
+   "Some students like to study in groups, while others prefer to work alone. Which do you prefer, and why do you think it works better for you?",
+   "Many universities now offer courses on how to study effectively. Do you think schools should require all first-year students to take a course like that? Why or why not?"
+  ]
+ },
+ {
+  "id": "iv-02",
+  "difficulty": "advanced",
+  "intro": "You have agreed to take part in a research study about how people travel to work and school in their communities. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "male"
+  },
+  "questions": [
+   "Let's begin with your daily routine. How do you normally get to campus or work, and roughly how long does the trip take you?",
+   "Can you describe a time when your usual way of getting around wasn't available, maybe because of weather or a breakdown? How did you handle it?",
+   "Some people argue that cities should make public transportation completely free. Would you support that idea? Please explain your reasons and any concerns you might have.",
+   "As more people work from home part of the week, commuting patterns are changing. How do you think this shift might affect the way cities plan roads, buses, and train lines in the future?"
+  ]
+ },
+ {
+  "id": "iv-03",
+  "difficulty": "intermediate",
+  "intro": "You have agreed to take part in a research study about how students use technology in their daily lives. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "male"
+  },
+  "questions": [
+   "First, I'd like to know which devices you use most often during a normal day, and what you mainly use each one for.",
+   "Tell me about a piece of technology, like an app or a tool, that made some part of your life easier. What changed after you started using it?",
+   "Some teachers ask students to put away their phones and laptops during class. Do you think that's a good policy? Why or why not?",
+   "Many young children now grow up using tablets and smartphones. In your opinion, what are the biggest benefits and risks of children using technology so early?"
+  ]
+ },
+ {
+  "id": "iv-04",
+  "difficulty": "advanced",
+  "intro": "You have agreed to take part in a research study about how people decide what to eat. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "female"
+  },
+  "questions": [
+   "To get us started, could you walk me through what you ate yesterday, and whether that was a fairly typical day for you?",
+   "Have you ever tried to change your eating habits in a significant way, for example by cooking more or cutting back on something? What motivated you, and did it last?",
+   "Some schools have removed sugary drinks and snacks from their cafeterias. Do you think that's an effective way to encourage healthier eating, or is it better to let students choose for themselves?",
+   "Food choices are shaped by price, convenience, culture, and advertising. Which of these factors do you think has the greatest influence on what people eat today, and what, if anything, should be done about it?"
+  ]
+ },
+ {
+  "id": "iv-05",
+  "difficulty": "intermediate",
+  "intro": "You have agreed to take part in a research study about exercise and physical activity among young adults. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "male"
+  },
+  "questions": [
+   "Let's start simple. What kinds of physical activity do you do in a normal week, and how often do you do them?",
+   "Can you tell me about a sport or activity you really enjoyed at some point in your life? What did you like about it?",
+   "Some people prefer exercising at a gym, while others would rather exercise outdoors. Which do you prefer, and what are your reasons?",
+   "Many adults say they're too busy to exercise regularly. What do you think employers or schools could do to help people stay more active?"
+  ]
+ },
+ {
+  "id": "iv-06",
+  "difficulty": "advanced",
+  "intro": "You have agreed to take part in a research study about reading habits in the digital age. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "female"
+  },
+  "questions": [
+   "Thanks for taking the time to talk with me. Apart from assigned course material, what do you usually read, and how much time do you spend reading each week?",
+   "Is there a book or article that changed the way you think about something? Tell me what it was and how it affected you.",
+   "Some readers insist that printed books offer a deeper reading experience than screens do. Do you agree with them? Please support your view with reasons or examples from your own experience.",
+   "Studies suggest that people are reading fewer long texts and more short posts and headlines. What long-term effects do you think this trend could have on education and public discussion?"
+  ]
+ },
+ {
+  "id": "iv-07",
+  "difficulty": "intermediate",
+  "intro": "You have agreed to take part in a research study about the role of music in people's everyday lives. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "female"
+  },
+  "questions": [
+   "First, what kind of music do you usually listen to, and at what times of the day do you listen to it most?",
+   "Tell me about a memorable experience you've had with music, such as a concert, a performance, or learning to play an instrument.",
+   "Some students say they study better when listening to music, but others find it distracting. What's your opinion, and why?",
+   "Some schools have cut music classes to save money. Do you think music education should be a required part of school? Please explain your reasons."
+  ]
+ },
+ {
+  "id": "iv-08",
+  "difficulty": "advanced",
+  "intro": "You have agreed to take part in a research study about volunteering and community service among university students. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "male"
+  },
+  "questions": [
+   "To begin, have you ever done any kind of volunteer work? If so, what did you do, and how did you first get involved?",
+   "Describe a time when helping others turned out to be more challenging or more rewarding than you expected. What did you learn from that experience?",
+   "Some high schools require students to complete a certain number of volunteer hours before they can graduate. Do you think required service still counts as real volunteering? Why or why not?",
+   "Many communities depend heavily on volunteers to run libraries, shelters, and local events. Is it fair for society to rely on unpaid work this way, or should governments take on more of that responsibility?"
+  ]
+ },
+ {
+  "id": "iv-09",
+  "difficulty": "intermediate",
+  "intro": "You have agreed to take part in a research study about sleep patterns among college students. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "male"
+  },
+  "questions": [
+   "Let's start with your schedule. What time do you usually go to bed and wake up during the week, and is it different on weekends?",
+   "Can you describe a time when you didn't get enough sleep for several days? How did it affect your studies or your mood?",
+   "Some people take short naps during the day to stay alert. Do you think napping is a good habit for students? Why or why not?",
+   "Some researchers suggest that high schools should start classes later in the morning so teenagers can sleep more. Do you think this is a good idea? Explain your answer."
+  ]
+ },
+ {
+  "id": "iv-10",
+  "difficulty": "advanced",
+  "intro": "You have agreed to take part in a research study about how young people use social media. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "female"
+  },
+  "questions": [
+   "First, which social media platforms do you use, and roughly how much time would you say you spend on them on a typical day?",
+   "Think of a time when something you saw on social media influenced a decision you made, like a purchase, a trip, or an opinion. What happened?",
+   "Some people take long breaks from social media to improve their well-being. Do you think stepping away completely is more effective than simply cutting back? Explain your reasoning.",
+   "Social media has made it much easier for false information to spread quickly. Who do you think should be mainly responsible for limiting this problem: the platforms, governments, or individual users? Why?"
+  ]
+ },
+ {
+  "id": "iv-11",
+  "difficulty": "intermediate",
+  "intro": "You have agreed to take part in a research study about students' experiences with online and remote learning. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "female"
+  },
+  "questions": [
+   "To begin, have you ever taken a class online? If so, what was the subject, and how was the class organized?",
+   "Tell me about a challenge you faced while learning online, and explain what you did to deal with it.",
+   "Do you think students learn better in a regular classroom or in an online course? Please give specific reasons for your answer.",
+   "Many universities now offer entire degree programs online. In your opinion, how might this change higher education over the next ten or twenty years?"
+  ]
+ },
+ {
+  "id": "iv-12",
+  "difficulty": "advanced",
+  "intro": "You have agreed to take part in a research study about what people value about living in cities. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "male"
+  },
+  "questions": [
+   "Let's start with where you live. Could you describe your neighborhood and tell me what you like or dislike about living there?",
+   "Have you ever moved from one place to another, for example from a small town to a city? What was the hardest part of adjusting, and what surprised you?",
+   "Some people believe that large cities offer a better quality of life than small towns because of the opportunities they provide. Do you agree? Explain your position with specific reasons.",
+   "As cities grow, housing often becomes too expensive for many residents. What approaches do you think city governments could take to keep neighborhoods affordable without discouraging new development?"
+  ]
+ },
+ {
+  "id": "iv-13",
+  "difficulty": "intermediate",
+  "intro": "You have agreed to take part in a research study about why and how young people travel. You will have a short online interview with a researcher. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "researcher",
+   "gender": "female"
+  },
+  "questions": [
+   "First, could you tell me about the last trip you took? Where did you go, and who did you travel with?",
+   "Describe something unexpected that happened to you while traveling. How did you handle the situation?",
+   "Some travelers like to plan every detail before a trip, while others prefer to be spontaneous. Which style do you prefer, and why?",
+   "Tourism brings money to many places, but it can also cause crowding and pollution. Do you think popular destinations should limit the number of visitors? Why or why not?"
+  ]
+ },
+ {
+  "id": "iv-14",
+  "difficulty": "advanced",
+  "intro": "You have applied for a scholarship that supports one semester of study abroad. You will have a short online interview with a member of the scholarship committee. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "scholarship committee member",
+   "gender": "female"
+  },
+  "questions": [
+   "Thank you for applying. To start, could you tell me about your current field of study and which country or university you're hoping to attend?",
+   "Living abroad often means adapting to unfamiliar situations. Describe a time when you had to adjust to a new environment, and explain what helped you succeed.",
+   "Some people argue that a semester abroad is valuable mainly for personal growth rather than academic learning. Do you agree with that view? Please explain your reasoning.",
+   "International student exchange programs are often expensive to run. Why do you think universities and governments should, or should not, continue to invest in them?"
+  ]
+ },
+ {
+  "id": "iv-15",
+  "difficulty": "intermediate",
+  "intro": "You have applied to a summer research program for undergraduate students. You will have a short online interview with the program coordinator. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "program coordinator",
+   "gender": "male"
+  },
+  "questions": [
+   "Thanks for your application. Can you tell me a little about yourself and explain what made you interested in this summer research program?",
+   "Describe a class project or assignment that you were especially proud of. What was your role, and what did you learn from it?",
+   "In research, experiments often fail before they succeed. How do you usually react when something doesn't go as planned? Please give an example.",
+   "Do you think every undergraduate student should have the chance to take part in research, even if they don't plan to become scientists? Why or why not?"
+  ]
+ },
+ {
+  "id": "iv-16",
+  "difficulty": "advanced",
+  "intro": "You have applied to join a student leadership development program at your university. You will have a short online interview with a program director. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "program director",
+   "gender": "male"
+  },
+  "questions": [
+   "Let's begin with your background. What groups or activities are you currently involved in on or off campus, and what responsibilities do you have in them?",
+   "Tell me about a situation in which you had to resolve a disagreement within a team. What steps did you take, and what was the outcome?",
+   "Some people believe that good leaders are born with natural talent, while others think leadership can be taught. Which view do you find more convincing, and why?",
+   "Many organizations say they want leaders who represent a wide range of backgrounds and perspectives. Why might diverse leadership matter, and what challenges could it create for a group?"
+  ]
+ },
+ {
+  "id": "iv-17",
+  "difficulty": "intermediate",
+  "intro": "You have applied for a campus sustainability fellowship. You will have a short online interview with a member of the selection committee. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "selection committee member",
+   "gender": "female"
+  },
+  "questions": [
+   "To begin, could you tell me why you applied for this sustainability fellowship and what you hope to gain from it?",
+   "Describe something you've done, at home or at school, to reduce waste or save energy. How did you get started?",
+   "If you could change one thing on our campus to make it more environmentally friendly, what would it be? Explain why you chose that idea.",
+   "Some people think individual actions, like recycling, make little difference compared to large government policies. Do you agree or disagree? Explain your view."
+  ]
+ },
+ {
+  "id": "iv-18",
+  "difficulty": "advanced",
+  "intro": "You have applied for a part-time job as a library assistant on campus. You will have a short online interview with the library's student staff supervisor. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "library supervisor",
+   "gender": "female"
+  },
+  "questions": [
+   "Thanks for coming in today. Could you tell me about your class schedule this term and how many hours a week you'd realistically be able to work?",
+   "Library assistants often help visitors who are confused or frustrated. Tell me about a time you helped someone solve a problem, and explain how you approached it.",
+   "Suppose a group of students keeps talking loudly in a quiet study area even after a polite reminder. How would you handle it, and why would you choose that approach?",
+   "With so much information available online, some people question whether university libraries are still necessary. What role do you think libraries should play on campuses in the future?"
+  ]
+ },
+ {
+  "id": "iv-19",
+  "difficulty": "intermediate",
+  "intro": "You have applied for a job as a campus tour guide for the admissions office. You will have a short online interview with an admissions officer. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "admissions officer",
+   "gender": "male"
+  },
+  "questions": [
+   "Let's start with the basics. What's your major, and what's your favorite place on campus to spend time?",
+   "Tell me about a time when you spoke in front of a group of people. How did you prepare, and how did it go?",
+   "If a visiting family asked you about a weakness of our university, how would you answer them honestly? Explain your approach.",
+   "Do you think campus visits are still important when students can take virtual tours online? Why or why not?"
+  ]
+ },
+ {
+  "id": "iv-20",
+  "difficulty": "advanced",
+  "intro": "You have applied for a position as a peer tutor at the campus writing center. You will have a short online interview with the writing center director. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "writing center director",
+   "gender": "female"
+  },
+  "questions": [
+   "To begin, could you tell me what kinds of writing you do most often, both for your classes and outside of school?",
+   "Think about a piece of feedback on your own writing that was especially helpful. What made it useful, and how did you apply it?",
+   "Imagine a student asks you to simply fix all the grammar mistakes in their essay. Would you do it? Explain how you would handle the session and why.",
+   "Some instructors worry that automated writing tools may prevent students from developing their own writing skills. How do you think universities should respond to these tools in their writing programs?"
+  ]
+ },
+ {
+  "id": "iv-21",
+  "difficulty": "intermediate",
+  "intro": "You have applied for a part-time job at a campus dining hall. You will have a short online interview with the dining services manager. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "dining services manager",
+   "gender": "male"
+  },
+  "questions": [
+   "Thanks for applying. Could you tell me why you're interested in working in the dining hall and whether you've had a job before?",
+   "Describe a time when you had to work quickly under pressure. What did you do to stay organized?",
+   "Which do you think is more important when working with customers: speed or friendliness? Please explain your answer.",
+   "Many students work part-time while studying. Do you think having a job helps or hurts a student's academic performance? Explain your opinion."
+  ]
+ },
+ {
+  "id": "iv-22",
+  "difficulty": "advanced",
+  "intro": "You have applied for a student position at the campus technology help desk. You will have a short online interview with the help desk coordinator. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "help desk coordinator",
+   "gender": "male"
+  },
+  "questions": [
+   "Let's start with your experience. What kinds of technical problems have you solved before, either for yourself or for friends and family?",
+   "Tell me about a time you had to explain something complicated to someone without much technical knowledge. How did you make sure they understood?",
+   "When a frustrated user is in a hurry, would you rather fix the problem for them quickly or teach them how to fix it themselves? Explain the reasoning behind your choice.",
+   "Universities collect a great deal of personal data about their students. How should institutions balance the convenience of digital services with the need to protect student privacy?"
+  ]
+ },
+ {
+  "id": "iv-23",
+  "difficulty": "intermediate",
+  "intro": "You have applied to join your university's debate club. You will have a short online interview with the club's president. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "club president",
+   "gender": "female"
+  },
+  "questions": [
+   "Hi, thanks for your interest in the debate club. Can you tell me a bit about yourself and why you'd like to join?",
+   "Tell me about a time you changed someone's mind about something, or someone changed yours. What happened?",
+   "In a debate, you're sometimes asked to argue for a side you personally disagree with. Do you think that's a useful skill? Why or why not?",
+   "Some people feel that public discussions today have become less respectful. What do you think people could do to have more productive conversations about difficult topics?"
+  ]
+ },
+ {
+  "id": "iv-24",
+  "difficulty": "advanced",
+  "intro": "You have applied for membership in a campus photography club that runs exhibitions and workshops. You will have a short online interview with the club's membership coordinator. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "membership coordinator",
+   "gender": "male"
+  },
+  "questions": [
+   "To start, how long have you been taking photos, and what subjects or styles do you find yourself drawn to most?",
+   "Describe a photograph you've taken that you're particularly proud of. What was happening when you took it, and why does it matter to you?",
+   "Our club debates whether editing photos heavily makes them less authentic. Where do you stand on that question? Please explain your reasoning with an example if you can.",
+   "Since nearly everyone now carries a camera in their phone, millions of images are shared every day. Has this made photography more meaningful as an art form, or less? Why?"
+  ]
+ },
+ {
+  "id": "iv-25",
+  "difficulty": "intermediate",
+  "intro": "You have applied to join a student outdoor adventure club that organizes hiking and camping trips. You will have a short online interview with one of the club's trip leaders. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "club trip leader",
+   "gender": "female"
+  },
+  "questions": [
+   "Thanks for applying. Could you tell me what kinds of outdoor activities you've done before and how often you get outside?",
+   "Describe the most memorable time you've spent in nature. What made that experience stand out for you?",
+   "On group trips, safety rules sometimes limit what people can do. Do you think strict rules make outdoor trips better or worse? Explain why.",
+   "Some popular parks have become very crowded in recent years. What do you think should be done to protect natural areas while still allowing people to enjoy them?"
+  ]
+ },
+ {
+  "id": "iv-26",
+  "difficulty": "advanced",
+  "intro": "You have applied to become a staff writer for the student newspaper. You will have a short online interview with the paper's editor-in-chief. Answer each question as fully as you can.",
+  "interviewer": {
+   "role": "editor-in-chief",
+   "gender": "female"
+  },
+  "questions": [
+   "Let's start with your interests. Which sections of a newspaper do you usually read first, and what kinds of stories would you most like to write for us?",
+   "Tell me about a time you had to meet a tight deadline on a writing project. How did you manage your time, and what would you do differently now?",
+   "Student journalists sometimes have to report critically on their own university. Do you think a campus newspaper should be fully independent from the school's administration? Why or why not?",
+   "Many local newspapers have closed in recent years as readers move online. What do you think communities lose when local journalism disappears, and how might that gap be filled?"
+  ]
+ }
+]

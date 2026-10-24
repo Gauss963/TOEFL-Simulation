@@ -1,0 +1,692 @@
+[
+ {
+  "id": "ap1-01",
+  "difficulty": "intermediate",
+  "title": "Underground Partnerships",
+  "discipline": "Botany",
+  "passage": "Most land plants do not absorb nutrients from the soil entirely on their own. Instead, their roots form partnerships with fungi known as mycorrhizae. The fungus grows thin threads, called hyphae, that spread far beyond the reach of the roots. Because these threads are much narrower than even the finest root hairs, they can penetrate tiny spaces between soil particles and collect water and minerals, especially phosphorus, that the plant could not otherwise obtain.\n\nThe arrangement benefits both partners. In exchange for minerals, the plant supplies the fungus with sugars produced during photosynthesis. Some estimates suggest that a plant may transfer up to a fifth of the carbon it fixes to its fungal partners. This is a considerable cost, but experiments show that plants grown in sterilized soil, where the fungi have been removed, often grow more slowly and are more vulnerable to drought.\n\nResearchers have also found that hyphae can connect the roots of neighboring plants, forming extensive underground networks. Through these links, carbon and certain chemical signals may pass from one plant to another. For example, seedlings growing in deep shade sometimes receive carbon from taller trees nearby. Scientists continue to debate how significant such transfers are in natural forests, but the discovery has changed how ecologists view competition among plants.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why are fungal hyphae able to gather resources that plant roots cannot?",
+    "options": [
+     "They release chemicals that turn rock into phosphorus.",
+     "They grow closer to the soil surface than roots do.",
+     "They store water for long periods during dry seasons.",
+     "They are thin enough to enter very small gaps in the soil."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 1 states that hyphae are narrower than root hairs and can penetrate tiny spaces between soil particles."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"considerable\" in the passage is closest in meaning to",
+    "options": [
+     "unexpected",
+     "temporary",
+     "substantial",
+     "reasonable"
+    ],
+    "answer": 2,
+    "explanation": "A \"considerable\" cost is a large or substantial one, here up to a fifth of the plant's carbon."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from the experiments with sterilized soil?",
+    "options": [
+     "Sterilized soil contains more phosphorus than ordinary soil.",
+     "Mycorrhizal fungi help plants cope with dry conditions.",
+     "Plants give away more carbon when fungi are absent.",
+     "Fungi grow more slowly in soil that lacks drought."
+    ],
+    "answer": 1,
+    "explanation": "Plants without fungi were more vulnerable to drought, implying that the fungi normally help them tolerate dry conditions."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention seedlings growing in deep shade?",
+    "options": [
+     "To explain why some seedlings fail to form fungal partnerships",
+     "To show that shade prevents young plants from photosynthesizing",
+     "To argue that tall trees compete harshly with nearby seedlings",
+     "To illustrate how resources may move between plants through networks"
+    ],
+    "answer": 3,
+    "explanation": "The shaded seedlings receiving carbon from taller trees are given as an example of transfer through fungal networks."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, what effect has the discovery of fungal networks had?",
+    "options": [
+     "It has proved that such transfers dominate natural forests.",
+     "It has led ecologists to rethink how plants interact.",
+     "It has shown that plants never compete for sunlight.",
+     "It has revealed that fungi can carry out photosynthesis."
+    ],
+    "answer": 1,
+    "explanation": "The final sentence says the discovery has changed how ecologists view competition among plants."
+   }
+  ]
+ },
+ {
+  "id": "ap1-02",
+  "difficulty": "intermediate",
+  "title": "Hunting with Echoes",
+  "discipline": "Zoology",
+  "passage": "Many bats hunt at night, when vision is of little use. To find their way and locate prey, they rely on echolocation. A bat produces short, high-pitched calls, most of which are far above the range of human hearing. When these sound waves strike an object, such as a moth or a branch, part of the sound bounces back. By analyzing the returning echoes, the bat can judge the object's distance, size, and even its texture.\n\nThe timing of the echo is especially important. Because sound travels at a fairly steady speed through air, a longer delay between a call and its echo indicates a more distant object. As a bat closes in on an insect, it calls more and more rapidly, sometimes producing over a hundred calls per second just before capture. This final burst of sound, known as the feeding buzz, gives the bat constantly updated information about the insect's position.\n\nSome insects have evolved defenses against this hunting strategy. Certain moths possess ears that can detect bat calls, allowing them to dive or fly erratically when a bat approaches. A few species of tiger moth go further, producing clicking sounds of their own. These clicks may warn bats that the moth tastes unpleasant, or they may interfere with the bat's ability to interpret its echoes.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what can a bat learn from the echoes of its calls?",
+    "options": [
+     "The distance, size, and texture of an object",
+     "The color and temperature of an object",
+     "The age and species of other nearby bats",
+     "The direction of the wind and coming weather"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 states that echoes let the bat judge an object's distance, size, and texture."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 2 about an echo that returns very quickly?",
+    "options": [
+     "It was produced by a call too low for insects to hear.",
+     "It was reflected by an object larger than the bat.",
+     "It was weakened by the movement of the insect.",
+     "It was reflected by an object close to the bat."
+    ],
+    "answer": 3,
+    "explanation": "Since a longer delay means a more distant object, a very short delay implies a nearby object."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention that bats may produce over a hundred calls per second?",
+    "options": [
+     "To explain why humans are unable to hear most bat calls",
+     "To show that bats waste energy when they hunt insects",
+     "To emphasize how frequently a bat updates its information near prey",
+     "To compare the hunting methods of different bat species"
+    ],
+    "answer": 2,
+    "explanation": "The high call rate illustrates the feeding buzz, which gives the bat constantly updated information just before capture."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"erratically\" in the passage is closest in meaning to",
+    "options": [
+     "silently",
+     "directly",
+     "unpredictably",
+     "slowly"
+    ],
+    "answer": 2,
+    "explanation": "Flying \"erratically\" means moving in an irregular, unpredictable way that is hard for a bat to follow."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, the clicking sounds of some tiger moths may",
+    "options": [
+     "attract other moths to help defend against the bat",
+     "make it harder for bats to make sense of their echoes",
+     "allow the moths to locate bats from great distances",
+     "signal to nearby moths that a bat is coming"
+    ],
+    "answer": 1,
+    "explanation": "The passage says the clicks may interfere with the bat's ability to interpret its echoes."
+   }
+  ]
+ },
+ {
+  "id": "ap1-03",
+  "difficulty": "intermediate",
+  "title": "Why Corals Turn White",
+  "discipline": "Marine Biology",
+  "passage": "Reef-building corals may look like rocks or plants, but they are animals. Each coral colony consists of thousands of tiny individuals called polyps, which build hard skeletons of calcium carbonate. Living inside the tissues of most of these polyps are single-celled algae. The algae carry out photosynthesis and pass much of the food they produce to their hosts. In return, the corals provide the algae with shelter and with nutrients from their waste. The algae also give corals much of their color.\n\nThis relationship is sensitive to temperature. When seawater stays only one or two degrees Celsius above its usual summer maximum for several weeks, the partnership begins to break down. Stressed corals expel their algae, and because the coral tissue itself is nearly transparent, the white skeleton becomes visible underneath. This process is known as bleaching.\n\nBleaching does not necessarily mean that a coral is dead. If water temperatures return to normal fairly quickly, the corals can take in new algae and gradually recover. However, without its algae, a coral loses its main source of food, and prolonged bleaching often leads to starvation and disease. Because large bleaching events have become more frequent, scientists are studying whether some types of algae are more tolerant of heat and might help reefs survive warmer conditions.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what do corals provide to the algae living in their tissues?",
+    "options": [
+     "Sugars produced through photosynthesis",
+     "Calcium carbonate for building skeletons",
+     "Shelter and nutrients from the corals' waste",
+     "Color that protects them from sunlight"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 1 states that corals give the algae shelter and nutrients from their waste."
+   },
+   {
+    "type": "relationship",
+    "prompt": "In paragraph 2, what is the relationship between the loss of algae and the white color of bleached corals?",
+    "options": [
+     "Losing the algae causes the skeleton to change color.",
+     "The white color causes the algae to leave the coral.",
+     "The algae turn white just before they leave the coral.",
+     "Losing the algae lets the white skeleton show through."
+    ],
+    "answer": 3,
+    "explanation": "Because coral tissue is nearly transparent, expelling the colorful algae reveals the white skeleton beneath."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"prolonged\" in the passage is closest in meaning to",
+    "options": [
+     "extended",
+     "sudden",
+     "partial",
+     "mild"
+    ],
+    "answer": 0,
+    "explanation": "\"Prolonged\" bleaching is bleaching that lasts for an extended period of time."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 3, all of the following are true about bleached corals EXCEPT:",
+    "options": [
+     "They can recover if water cools soon.",
+     "They lose their main source of food.",
+     "They always die within a few weeks.",
+     "They become more likely to get disease."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 3 says bleaching does not necessarily mean a coral is dead, so they do not always die."
+   },
+   {
+    "type": "inference",
+    "prompt": "What does the author imply about the type of algae a coral hosts?",
+    "options": [
+     "It determines the shape of the coral's skeleton.",
+     "It changes each summer as the water warms.",
+     "It has no effect on whether bleaching occurs.",
+     "It may affect how well the coral withstands heat."
+    ],
+    "answer": 3,
+    "explanation": "Scientists are studying whether heat-tolerant algae might help reefs survive, implying the algae type influences heat resistance."
+   }
+  ]
+ },
+ {
+  "id": "ap1-04",
+  "difficulty": "intermediate",
+  "title": "The Language of the Hive",
+  "discipline": "Animal Behavior",
+  "passage": "When a honeybee forager discovers a rich patch of flowers, she returns to the hive and shares its location with her nestmates through a remarkable series of movements called the waggle dance. The dance is performed on the vertical surface of the honeycomb, usually in the darkness of the hive. The forager runs forward in a straight line while shaking her abdomen from side to side, then circles back to her starting point and repeats the run.\n\nTwo features of the dance carry most of the information. The first is the angle of the straight run. Bees treat straight up on the comb as the direction of the sun, so a run angled forty degrees to the right of vertical tells other bees to fly forty degrees to the right of the sun. The second is the duration of the waggle run: the longer the run lasts, the farther away the food source is.\n\nBecause other workers cannot see the dancer clearly in the dark, they follow her closely, detecting her movements through touch and the vibrations she produces. They also pick up the scent of the flowers clinging to her body. Interestingly, studies have shown that recruits often need several trips before they find the advertised site, suggesting that the dance provides a general direction rather than a precise map.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what does a forager do during the waggle run?",
+    "options": [
+     "She flies in circles above the entrance of the hive.",
+     "She moves in a straight line while shaking her abdomen.",
+     "She leaves flower scent at the edges of the comb.",
+     "She taps the other workers with her front legs."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 1 says the forager runs forward in a straight line while shaking her abdomen from side to side."
+   },
+   {
+    "type": "inference",
+    "prompt": "A waggle run pointing straight down the comb most likely tells bees to fly",
+    "options": [
+     "directly toward the sun",
+     "to a source very close to the hive",
+     "only after the sun has set",
+     "in the direction opposite the sun"
+    ],
+    "answer": 3,
+    "explanation": "Since straight up represents the sun's direction, straight down would indicate the opposite direction."
+   },
+   {
+    "type": "relationship",
+    "prompt": "According to paragraph 2, how is the duration of the waggle run related to the food source?",
+    "options": [
+     "A longer run indicates that the food is more plentiful.",
+     "A longer run indicates that the food is farther away.",
+     "A shorter run indicates that the food is to the right.",
+     "A shorter run indicates that the food is of high quality."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 states that the longer the run lasts, the farther away the food source is."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"advertised\" in the passage is closest in meaning to",
+    "options": [
+     "abandoned",
+     "preferred",
+     "announced",
+     "protected"
+    ],
+    "answer": 2,
+    "explanation": "The \"advertised\" site is the one announced or communicated by the dancing bee."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention that recruits often need several trips to find the site?",
+    "options": [
+     "To suggest that the dance gives only approximate directions",
+     "To show that most recruits ignore the forager's dance",
+     "To explain why foragers dance in the darkness of the hive",
+     "To argue that scent matters more than the dance itself"
+    ],
+    "answer": 0,
+    "explanation": "The author uses this finding to suggest the dance provides a general direction rather than a precise map."
+   }
+  ]
+ },
+ {
+  "id": "ap1-05",
+  "difficulty": "intermediate",
+  "title": "Seeds Carried by Ants",
+  "discipline": "Ecology",
+  "passage": "Plants cannot move, yet many of them rely on animals to carry their seeds to new places. Birds and mammals that eat fruit are the best-known seed dispersers, but thousands of plant species depend on a much smaller partner: the ant. This relationship, called myrmecochory, is especially common in the dry shrublands of Australia and South Africa and in the forests of eastern North America.\n\nSeeds dispersed by ants carry a small attachment called an elaiosome, a fatty structure rich in nutrients. Worker ants pick up the seed, using the elaiosome as a convenient handle, and carry it back to their nest. There, the elaiosome is removed and fed to the colony's larvae. The seed itself, which is hard and difficult for ants to damage, is then discarded, either in an underground waste chamber or outside the nest entrance.\n\nFor the plant, this treatment provides several advantages. Seeds are moved away from the parent plant, which reduces competition between parent and offspring. Seeds buried in the nest are also hidden from rodents and birds that would otherwise eat them. In addition, ant waste chambers tend to be rich in nutrients, offering seedlings a favorable place to grow. In fire-prone habitats, buried seeds are also protected from the intense heat that destroys seeds lying on the surface.",
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention birds and mammals in paragraph 1?",
+    "options": [
+     "To explain why ants avoid plants that produce fruit",
+     "To show that ants and birds compete for the same seeds",
+     "To identify the animals that eat seeds carried by ants",
+     "To contrast familiar seed dispersers with a less obvious one"
+    ],
+    "answer": 3,
+    "explanation": "Birds and mammals are described as the best-known dispersers before the author introduces the smaller, less familiar ant."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, what happens to the elaiosome?",
+    "options": [
+     "It is buried with the seed outside the nest.",
+     "It helps the seed sprout inside the nest.",
+     "It is used to build walls inside the nest.",
+     "It is fed to young ants in the colony."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 2 states that the elaiosome is removed and fed to the colony's larvae."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the hardness of the seed?",
+    "options": [
+     "It makes the seed too heavy for most ants to lift.",
+     "It attracts ants more strongly than the elaiosome.",
+     "It allows the seed to survive being handled by ants.",
+     "It prevents the seed from sprouting in the nest."
+    ],
+    "answer": 2,
+    "explanation": "Because the seed is hard and difficult to damage, it can be carried and discarded by ants without being destroyed."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"favorable\" in the passage is closest in meaning to",
+    "options": [
+     "crowded",
+     "advantageous",
+     "temporary",
+     "familiar"
+    ],
+    "answer": 1,
+    "explanation": "A \"favorable\" place to grow is an advantageous one that helps seedlings succeed."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "According to paragraph 3, all of the following are advantages of ant dispersal EXCEPT:",
+    "options": [
+     "Seeds face less competition from the parent.",
+     "Seeds receive extra water from the ants.",
+     "Seeds are hidden from seed-eating animals.",
+     "Seeds are protected from the heat of fires."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 3 mentions reduced competition, protection from seed eaters, nutrients, and fire protection, but not water from ants."
+   }
+  ]
+ },
+ {
+  "id": "ap1-06",
+  "difficulty": "advanced",
+  "title": "Bacteria That Count",
+  "discipline": "Microbiology",
+  "passage": "For much of the twentieth century, bacteria were regarded as solitary organisms, each cell acting independently of its neighbors. This view was challenged by research on Vibrio fischeri, a marine bacterium that produces light. Investigators noticed that the bacteria glowed brightly when densely packed but remained dark when dispersed in open seawater. The explanation proved to be a process now called quorum sensing.\n\nEach bacterial cell releases small signaling molecules known as autoinducers. When cells are sparse, these molecules diffuse away and their concentration stays low. As a population grows within a confined space, however, the molecules accumulate until they cross a threshold concentration. At that point, they bind to receptor proteins inside the cells and switch on particular genes, in this case those responsible for light production. The behavior is thus triggered not by any single cell but by the population as a whole.\n\nSuch coordination makes sense for activities that are futile when attempted alone. A lone glowing cell would be invisible and merely squander energy, whereas billions glowing at once produce a useful effect. In the Hawaiian bobtail squid, which houses V. fischeri in a special organ, the glow is thought to hide the squid's shadow from predators below on moonlit nights. Quorum sensing has since been found in many disease-causing bacteria, some of which delay releasing toxins until their numbers can overwhelm a host's defenses.",
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does the author begin by stating that bacteria were once regarded as solitary organisms?",
+    "options": [
+     "To explain why Vibrio fischeri was difficult to study in the laboratory",
+     "To introduce an assumption that later research called into question",
+     "To show that most bacteria live far apart in open seawater",
+     "To argue that early microbiologists ignored marine bacteria entirely"
+    ],
+    "answer": 1,
+    "explanation": "The author presents the older view and then says it was challenged by research on Vibrio fischeri."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, what happens when autoinducers reach a threshold concentration?",
+    "options": [
+     "They diffuse out of the confined space into open water.",
+     "They bind to receptors in cells and activate certain genes.",
+     "They break down and release energy for producing light.",
+     "They cause individual cells to divide much more rapidly."
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 states that at the threshold the molecules bind to receptor proteins and switch on particular genes."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"squander\" in the passage is closest in meaning to",
+    "options": [
+     "store",
+     "transfer",
+     "waste",
+     "generate"
+    ],
+    "answer": 2,
+    "explanation": "To \"squander\" energy is to waste it on something that brings no benefit."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the Hawaiian bobtail squid?",
+    "options": [
+     "It produces light on its own without the help of any bacteria.",
+     "It gains protection from hosting a dense population of V. fischeri.",
+     "It is hunted mainly by predators swimming above it at night.",
+     "It releases autoinducers to control the bacteria in its body."
+    ],
+    "answer": 1,
+    "explanation": "The bacterial glow hides the squid's shadow from predators, so the squid benefits from housing many glowing bacteria."
+   },
+   {
+    "type": "inference",
+    "prompt": "Based on paragraph 3, why might some disease-causing bacteria delay releasing toxins?",
+    "options": [
+     "Toxins released by a small population would likely be defeated by the host.",
+     "Toxins can be produced only after the bacteria have stopped glowing.",
+     "Toxins released early would harm the bacteria more than the host.",
+     "Toxins are needed first to build the special organs where bacteria live."
+    ],
+    "answer": 0,
+    "explanation": "Waiting until numbers can overwhelm the host's defenses implies that an attack by a few cells would fail."
+   }
+  ]
+ },
+ {
+  "id": "ap1-07",
+  "difficulty": "advanced",
+  "title": "Keeping Cool in the Desert",
+  "discipline": "Physiology",
+  "passage": "Large mammals living in hot deserts face a difficult trade-off. The most effective way to shed excess heat is to evaporate water, by sweating or panting, yet water is precisely the resource a desert animal can least afford to lose. The dromedary camel resolves this conflict in part through a strategy called adaptive heterothermy. Rather than holding its body temperature nearly constant, as most mammals do, a dehydrated camel allows its temperature to rise by as much as six degrees Celsius over the course of a hot day.\n\nThis tolerance yields two benefits. First, heat that would otherwise have to be removed by evaporation is simply stored in the body and released at night, when the air is cool, by conduction and radiation. Second, a warmer body narrows the difference between the animal's temperature and that of the surrounding air, so less heat flows into the camel from its environment. Calculations suggest that a large camel can save several liters of water per day in this way.\n\nThe camel's nose contributes as well. Its nasal passages are lined with elaborate folded surfaces. When the animal exhales, moisture in the warm breath condenses on these cooler surfaces and is reabsorbed rather than lost to the atmosphere. Notably, these adjustments are most pronounced when water is scarce; a well-watered camel regulates its temperature much like other mammals.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what is the \"difficult trade-off\" faced by large desert mammals?",
+    "options": [
+     "Seeking shade during the day leaves less time to find food.",
+     "A large body holds water well but absorbs heat very quickly.",
+     "The best way to lose heat uses up a resource that is scarce.",
+     "Panting cools the body but requires a great deal of energy."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 1 explains that evaporating water is the most effective cooling method, yet water is what desert animals can least afford to lose."
+   },
+   {
+    "type": "relationship",
+    "prompt": "In paragraph 2, what is the relationship between a camel's body temperature and the heat it gains from the air?",
+    "options": [
+     "The warmer the camel becomes, the more heat it absorbs from the air.",
+     "The cooler the camel stays, the less heat it gains during the day.",
+     "The camel's temperature has no effect on heat gained from the air.",
+     "The warmer the camel becomes, the less heat flows in from outside."
+    ],
+    "answer": 3,
+    "explanation": "A warmer body narrows the temperature difference with the air, so less heat flows into the camel."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"elaborate\" in the passage is closest in meaning to",
+    "options": [
+     "intricate",
+     "fragile",
+     "narrow",
+     "damp"
+    ],
+    "answer": 0,
+    "explanation": "\"Elaborate\" folded surfaces are intricate and complex in structure."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a well-watered camel on a hot day?",
+    "options": [
+     "It allows its temperature to rise even more than a dehydrated camel.",
+     "It stores more heat during the day and releases it at night.",
+     "It reabsorbs more moisture from its breath than a dehydrated camel.",
+     "It depends more on evaporation to keep its temperature steady."
+    ],
+    "answer": 3,
+    "explanation": "Since a well-watered camel regulates temperature like other mammals rather than storing heat, it must rely more on evaporative cooling such as sweating."
+   },
+   {
+    "type": "negative_factual",
+    "prompt": "All of the following are mentioned as ways a dehydrated camel conserves water EXCEPT",
+    "options": [
+     "producing smaller amounts of urine",
+     "storing heat until the cooler night",
+     "reabsorbing moisture from its breath",
+     "reducing the heat gained from the air"
+    ],
+    "answer": 0,
+    "explanation": "The passage discusses heat storage, reduced heat gain, and nasal moisture recovery, but never mentions urine."
+   }
+  ]
+ },
+ {
+  "id": "ap1-08",
+  "difficulty": "advanced",
+  "title": "Otters, Urchins, and Kelp",
+  "discipline": "Ecology",
+  "passage": "In the late 1960s, ecologists coined the term keystone species to describe organisms whose influence on an ecosystem is far greater than their abundance would suggest. Among the most cited examples is the sea otter of the North Pacific. Sea otters feed heavily on sea urchins, which in turn graze on kelp, the large brown algae that form dense underwater forests.\n\nThe importance of this chain of interactions became evident through a kind of unplanned experiment. During the eighteenth and nineteenth centuries, otters were hunted for their fur until they had vanished from much of their range. Where otters disappeared, urchin populations expanded unchecked and consumed kelp so thoroughly that forests gave way to barren stretches of rock covered with urchins. Where otters survived or were later reintroduced, kelp forests persisted, along with the fish, invertebrates, and seabirds that depend on them. Because the predator's effect passes down through two feeding levels, such a pattern is called a trophic cascade.\n\nSubsequent research has complicated this tidy picture. Kelp forests are also shaped by water temperature, storms, and nutrient supply, and in some regions urchin numbers are controlled by disease or by other predators, such as large sea stars. Nevertheless, comparisons of coastlines with and without otters consistently reveal striking differences, and the otter remains a compelling illustration of how removing a single species can reorganize an entire community.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, what distinguishes a keystone species?",
+    "options": [
+     "Its effect on an ecosystem is out of proportion to its numbers.",
+     "It is the most abundant predator in its particular ecosystem.",
+     "It feeds on more kinds of prey than any other local species.",
+     "It was the first species in its habitat to be studied closely."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 1 defines keystone species as organisms whose influence is far greater than their abundance would suggest."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author discuss the hunting of sea otters in paragraph 2?",
+    "options": [
+     "To criticize the fur trade for harming coastal communities",
+     "To show that sea otters were once more common than urchins",
+     "To explain how the otter's role in kelp ecosystems became apparent",
+     "To describe the method scientists used to reintroduce otters"
+    ],
+    "answer": 2,
+    "explanation": "The hunting acted as an unplanned experiment that revealed the importance of otters to kelp forests."
+   },
+   {
+    "type": "inference",
+    "prompt": "It can be inferred from paragraph 2 that in areas where otters vanished, seabirds that depend on kelp forests",
+    "options": [
+     "began feeding mainly on sea urchins instead",
+     "moved into the barren areas to find shelter",
+     "were unaffected by the changes in the kelp",
+     "probably declined as the kelp disappeared"
+    ],
+    "answer": 3,
+    "explanation": "Seabirds are listed among species that depend on kelp forests, so the loss of kelp would likely reduce their numbers."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"compelling\" in the passage is closest in meaning to",
+    "options": [
+     "convincing",
+     "unusual",
+     "recent",
+     "disputed"
+    ],
+    "answer": 0,
+    "explanation": "A \"compelling\" illustration is one that is convincing and persuasive."
+   },
+   {
+    "type": "relationship",
+    "prompt": "How does paragraph 3 relate to the earlier paragraphs?",
+    "options": [
+     "It qualifies the earlier account without rejecting its main conclusion.",
+     "It provides new evidence that otters are not truly a keystone species.",
+     "It repeats the earlier account using examples from other oceans.",
+     "It explains why the term keystone species is no longer used today."
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 3 adds complicating factors but still affirms that otters strongly shape their communities."
+   }
+  ]
+ },
+ {
+  "id": "ap1-09",
+  "difficulty": "advanced",
+  "title": "A More Efficient Leaf",
+  "discipline": "Plant Physiology",
+  "passage": "Nearly all plants capture carbon dioxide with the help of an enzyme called rubisco, which is probably the most abundant protein on Earth. Despite its central role, rubisco is surprisingly inefficient. In addition to carbon dioxide, it readily binds oxygen, triggering a wasteful process known as photorespiration that releases previously fixed carbon. The problem worsens at high temperatures, when rubisco's preference for carbon dioxide declines and leaves, closing their pores to conserve water, allow oxygen to build up inside.\n\nSome plants, including maize, sugarcane, and many tropical grasses, have evolved a solution called C4 photosynthesis. In these species, carbon dioxide is first captured in the outer cells of the leaf by a different enzyme that does not react with oxygen. The resulting four-carbon compound is then shuttled into an inner ring of cells surrounding the leaf veins, where it is broken down to release carbon dioxide. Rubisco is confined to these inner cells, so it works where carbon dioxide is highly concentrated and photorespiration is suppressed.\n\nThis arrangement is not free; pumping carbon dioxide inward consumes additional energy. As a result, C4 plants hold a clear advantage in hot, sunny, and dry habitats but tend to be outcompeted in cool, shaded ones. The C4 pathway has arisen independently more than sixty times in different plant lineages, which suggests that it is an accessible evolutionary path when conditions favor it.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 1, why is rubisco described as inefficient?",
+    "options": [
+     "It is produced in very small amounts by most plants.",
+     "It works only when the leaf's pores are fully closed.",
+     "It reacts with oxygen as well as with carbon dioxide.",
+     "It requires high temperatures to bind carbon dioxide."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 1 explains that rubisco readily binds oxygen, triggering wasteful photorespiration."
+   },
+   {
+    "type": "relationship",
+    "prompt": "How does the leaf structure described in paragraph 2 relate to the problem described in paragraph 1?",
+    "options": [
+     "It concentrates carbon dioxide around rubisco and limits photorespiration.",
+     "It replaces rubisco with an enzyme that performs all carbon fixation.",
+     "It keeps the leaf's pores open so that oxygen can escape more easily.",
+     "It moves rubisco to the outer cells where carbon dioxide first enters."
+    ],
+    "answer": 0,
+    "explanation": "C4 plants deliver concentrated carbon dioxide to inner cells where rubisco is confined, suppressing photorespiration."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"confined\" in the passage is closest in meaning to",
+    "options": [
+     "restricted",
+     "attached",
+     "delivered",
+     "compared"
+    ],
+    "answer": 0,
+    "explanation": "Rubisco being \"confined\" to the inner cells means it is restricted to them."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about C4 plants growing in cool, shaded environments?",
+    "options": [
+     "They lose the ability to produce four-carbon compounds there.",
+     "They suffer more photorespiration there than other plants do.",
+     "They close their pores more often there to save extra water.",
+     "The energy cost of their pathway outweighs its benefits there."
+    ],
+    "answer": 3,
+    "explanation": "Since photorespiration is less severe in cool conditions, the extra energy C4 plants spend is not repaid, so they are outcompeted."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention that the C4 pathway has arisen more than sixty times?",
+    "options": [
+     "To support the idea that this adaptation evolves readily when favored",
+     "To show that C4 plants are now more common than other plants",
+     "To argue that C4 photosynthesis first appeared in tropical grasses",
+     "To explain why C4 plants cannot survive in cool, shaded habitats"
+    ],
+    "answer": 0,
+    "explanation": "The repeated independent origins are cited as evidence that C4 is an accessible evolutionary path."
+   }
+  ]
+ },
+ {
+  "id": "ap1-10",
+  "difficulty": "advanced",
+  "title": "A Compass in the Eye",
+  "discipline": "Animal Behavior",
+  "passage": "Each autumn, many songbirds fly thousands of kilometers to their wintering grounds, often at night over unfamiliar terrain. How they maintain their heading has long puzzled biologists. Birds are known to use several cues, including the position of the sun and the patterns of stars, but one of the most intriguing is Earth's magnetic field.\n\nEvidence for a magnetic compass came from experiments in the 1960s with European robins. During the migratory season, caged robins hop restlessly in the direction they would normally fly. When researchers placed the cages inside coils that shifted the direction of the magnetic field, the birds shifted their orientation accordingly. Further tests produced an unexpected result: the birds did not distinguish magnetic north from magnetic south. Instead, they appeared to sense the angle at which field lines dip toward the ground, which differs between the poleward and equatorward directions. The robins' compass therefore works differently from a human-made one.\n\nHow birds detect the field remains debated. One leading hypothesis holds that light-sensitive proteins in the eye undergo chemical reactions influenced by magnetic fields, perhaps allowing birds to perceive the field as a pattern overlaid on their vision. Consistent with this idea, the robins' compass appears to require light of certain wavelengths. Other researchers have proposed that iron-containing particles in the beak region serve as magnetic sensors, and birds may use more than one mechanism.",
+  "questions": [
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 2, how did researchers show that robins use a magnetic compass?",
+    "options": [
+     "By altering the field around the cages and observing the birds' orientation",
+     "By releasing robins at night and tracking them across unfamiliar terrain",
+     "By covering the cages so that the birds could not see the stars",
+     "By attaching small magnets to the birds and comparing their flight paths"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 2 says that when coils shifted the field direction, the birds shifted their orientation accordingly."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"accordingly\" in the passage is closest in meaning to",
+    "options": [
+     "gradually",
+     "correspondingly",
+     "reluctantly",
+     "randomly"
+    ],
+    "answer": 1,
+    "explanation": "The birds shifted their orientation \"accordingly,\" that is, in a way corresponding to the change in the field."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from paragraph 2 about the robins' magnetic sense?",
+    "options": [
+     "It works only when the birds are flying freely rather than sitting in cages.",
+     "It indicates which way is poleward rather than which way is magnetic north.",
+     "It is identical in principle to the needle of a human-made compass.",
+     "It allows the birds to see the field lines when they are near the ground."
+    ],
+    "answer": 1,
+    "explanation": "Because the birds read the dip angle, which differs toward the pole and the equator, they sense poleward direction rather than north versus south."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the author mention that the robins' compass appears to require light of certain wavelengths?",
+    "options": [
+     "To explain why robins migrate only during the hours of daylight",
+     "To present evidence consistent with the light-sensitive protein hypothesis",
+     "To show that the iron-particle hypothesis has been fully disproved",
+     "To suggest that robins navigate mainly by the patterns of stars"
+    ],
+    "answer": 1,
+    "explanation": "The author introduces the light requirement with the phrase \"Consistent with this idea,\" linking it to the eye-protein hypothesis."
+   },
+   {
+    "type": "factual",
+    "prompt": "According to paragraph 3, which of the following is true about how birds detect the magnetic field?",
+    "options": [
+     "Iron particles in the eye have been shown to act as sensors.",
+     "Birds are known to rely on one single sensory mechanism.",
+     "Scientists have not yet agreed on the mechanism involved.",
+     "The field is detected only when light is completely absent."
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 3 opens by stating that how birds detect the field remains debated."
+   }
+  ]
+ }
+]

@@ -4,6 +4,7 @@ import Combine
 enum TOEFLExamPhase: Equatable {
     case directions
     case testing
+    case scoring
     case completed
 }
 
@@ -13,19 +14,24 @@ final class TOEFLExamSession: ObservableObject {
 
     @Published private(set) var sections: [TOEFLExamSection]
     @Published private(set) var currentSectionIndex = 0
-    @Published var currentQuestionIndex = 0
+    @Published private(set) var currentQuestionIndex = 0
     @Published var answers: [String: TOEFLAnswer] = [:]
-    @Published var markedQuestionIDs: Set<String> = []
-    @Published private(set) var playedPromptIDs: Set<String> = []
+    @Published private(set) var playedStimuli: Set<String> = []
     @Published private(set) var phase: TOEFLExamPhase = .directions
     @Published private(set) var secondsRemaining = 0
+    @Published private(set) var pendingScores = 0
     @Published var isTimeVisible = true
     @Published private(set) var result: TOEFLExamResult?
 
+    /// Set by the view while a recording plays, so listening time is not spent on audio.
+    var isClockPaused = false
+
     private let startedAt = Date()
     private let formSeed: UInt64
-    private var sectionDeadline: Date?
+    private var partRemaining: Double = 0
+    private var lastTick: Date?
     private var summaries: [TOEFLSectionSummary] = []
+    private var awaitingSectionScores = false
 
     init(mode: ExamMode) {
         let formSeed = UInt64.random(in: UInt64.min...UInt64.max)
@@ -40,67 +46,109 @@ final class TOEFLExamSession: ObservableObject {
         }
     }
 
+    // MARK: - Position
+
     var currentSection: TOEFLExamSection { sections[currentSectionIndex] }
     var currentQuestion: TOEFLQuestion { currentSection.questions[currentQuestionIndex] }
     var currentAnswer: TOEFLAnswer { answers[currentQuestion.id] ?? TOEFLAnswer() }
-    var isCurrentMarked: Bool { markedQuestionIDs.contains(currentQuestion.id) }
-    var isLastQuestion: Bool { currentQuestionIndex == currentSection.questions.count - 1 }
-    var progress: Double { Double(currentQuestionIndex + 1) / Double(max(1, currentSection.questions.count)) }
-    var answeredCount: Int { currentSection.questions.filter { !(answers[$0.id] ?? TOEFLAnswer()).isEmpty }.count }
-    var markedCount: Int { currentSection.questions.filter { markedQuestionIDs.contains($0.id) }.count }
-    var canReview: Bool { currentSection.kind == .reading || currentSection.kind == .writing }
-    var minimumReachableIndex: Int {
-        guard let router = currentSection.routerCount, currentSection.route != nil, currentQuestionIndex >= router else { return 0 }
-        return router
+
+    var currentPart: TOEFLTimedPart {
+        currentSection.timedParts.first { $0.range.contains(currentQuestionIndex) } ?? currentSection.timedParts[0]
     }
+
+    /// Complete the Words paragraphs are answered on one screen; every other item has its own screen.
+    func screenRange(containing index: Int) -> Range<Int> {
+        let questions = currentSection.questions
+        let question = questions[index]
+        guard question.taskType == .completeWords, let setID = question.setID else { return index..<(index + 1) }
+        var lower = index, upper = index + 1
+        while lower > 0, questions[lower - 1].setID == setID { lower -= 1 }
+        while upper < questions.count, questions[upper].setID == setID { upper += 1 }
+        return lower..<upper
+    }
+
+    var currentScreen: Range<Int> { screenRange(containing: currentQuestionIndex) }
+    var currentScreenQuestions: [TOEFLQuestion] { Array(currentSection.questions[currentScreen]) }
+
+    var questionLabel: String {
+        let screen = currentScreen
+        let total = currentSection.questions.count
+        return screen.count > 1
+            ? "Questions \(screen.lowerBound + 1)–\(screen.upperBound) of \(total)"
+            : "Question \(screen.lowerBound + 1) of \(total)"
+    }
+
     var canGoBack: Bool {
-        guard currentSection.kind != .listening && currentSection.kind != .speaking else { return false }
-        return currentQuestionIndex > minimumReachableIndex
+        let part = currentPart
+        return part.allowsBack && currentScreen.lowerBound > part.range.lowerBound
     }
-    var routeLabel: String? { currentSection.route?.title }
+
+    var isLastInPart: Bool { currentScreen.upperBound >= currentPart.range.upperBound }
+
+    var isLastPart: Bool { currentSection.timedParts.last == currentPart }
+
+    var routeLabel: String? {
+        guard currentSection.kind.isAdaptive else { return nil }
+        return currentPart.title
+    }
+
+    var answeredCount: Int { currentSection.questions.filter { !(answers[$0.id] ?? TOEFLAnswer()).isEmpty }.count }
+
+    // MARK: - Flow
 
     func beginSection() {
-        secondsRemaining = currentSection.durationSeconds
-        sectionDeadline = Date().addingTimeInterval(TimeInterval(secondsRemaining))
         currentQuestionIndex = 0
+        startPart(currentSection.timedParts[0])
         phase = .testing
     }
 
+    private func startPart(_ part: TOEFLTimedPart) {
+        currentQuestionIndex = part.range.lowerBound
+        partRemaining = Double(part.seconds)
+        secondsRemaining = part.seconds
+        lastTick = Date()
+    }
+
     func tick() {
-        guard phase == .testing, let sectionDeadline else { return }
-        secondsRemaining = max(0, Int(ceil(sectionDeadline.timeIntervalSinceNow)))
-        if secondsRemaining == 0 { finishSection() }
+        guard phase == .testing else { return }
+        let now = Date()
+        let delta = lastTick.map { now.timeIntervalSince($0) } ?? 0
+        lastTick = now
+        guard !isClockPaused, currentSection.kind != .speaking else { return }
+        partRemaining = max(0, partRemaining - delta)
+        secondsRemaining = Int(ceil(partRemaining))
+        if partRemaining <= 0 { advancePart() }
+    }
+
+    func goNext() {
+        if isLastInPart {
+            advancePart()
+        } else {
+            currentQuestionIndex = currentScreen.upperBound
+        }
     }
 
     func goBack() {
         guard canGoBack else { return }
-        currentQuestionIndex -= 1
+        currentQuestionIndex = screenRange(containing: currentScreen.lowerBound - 1).lowerBound
     }
 
-    func goNext() {
-        if isLastQuestion {
-            finishSection()
-            return
-        }
-        if let routerCount = currentSection.routerCount,
-           currentSection.route == nil,
-           currentQuestionIndex + 1 == routerCount {
+    /// Ends the current module or task; time left on its clock is forfeited, as in the real test.
+    func advancePart() {
+        let parts = currentSection.timedParts
+        let part = currentPart
+        if currentSection.kind.isAdaptive, currentSection.route == nil, part == parts.first {
             configureAdaptiveModule()
         }
-        currentQuestionIndex += 1
+        let refreshed = currentSection.timedParts
+        if let index = refreshed.firstIndex(where: { $0.range.lowerBound == part.range.lowerBound }), index + 1 < refreshed.count {
+            startPart(refreshed[index + 1])
+        } else {
+            finishSection()
+        }
     }
 
-    func goToQuestion(_ index: Int) {
-        guard canReview,
-              currentSection.questions.indices.contains(index),
-              index >= minimumReachableIndex else { return }
-        currentQuestionIndex = index
-    }
-
-    func toggleMark() {
-        if isCurrentMarked { markedQuestionIDs.remove(currentQuestion.id) }
-        else { markedQuestionIDs.insert(currentQuestion.id) }
-    }
+    // MARK: - Answers
 
     func selectChoice(_ choiceID: String) {
         var answer = currentAnswer
@@ -108,17 +156,17 @@ final class TOEFLExamSession: ObservableObject {
         answers[currentQuestion.id] = answer
     }
 
-    func updateTextEntry(_ value: String) {
-        var answer = currentAnswer
+    func updateTextEntry(_ value: String, for questionID: String) {
+        var answer = answers[questionID] ?? TOEFLAnswer()
         answer.textEntry = value
-        answers[currentQuestion.id] = answer
+        answers[questionID] = answer
     }
 
     func toggleSentenceToken(_ token: String) {
         var answer = currentAnswer
         if let index = answer.orderedTokens.firstIndex(of: token) {
             answer.orderedTokens.remove(at: index)
-        } else if answer.orderedTokens.count < currentQuestion.sentenceTokens.count {
+        } else if answer.orderedTokens.count < currentQuestion.correctSentenceTokens.count {
             answer.orderedTokens.append(token)
         }
         answers[currentQuestion.id] = answer
@@ -136,54 +184,90 @@ final class TOEFLExamSession: ObservableObject {
         answers[currentQuestion.id] = answer
     }
 
-    func updateRecording(duration: Double) {
-        var answer = currentAnswer
-        answer.recordingDuration = max(answer.recordingDuration, duration)
-        answers[currentQuestion.id] = answer
+    // MARK: - Listening
+
+    func needsStimulus(_ question: TOEFLQuestion) -> Bool {
+        question.taskType.isListeningStimulus
+            && (question.setIndex ?? 0) == 0
+            && !playedStimuli.contains(question.audioKey)
     }
 
-    func updateSpeakingSelfRating(_ value: Int) {
-        var answer = currentAnswer
-        answer.speakingSelfRating = max(0, min(5, value))
-        answers[currentQuestion.id] = answer
+    func markStimulusPlayed(_ question: TOEFLQuestion) {
+        playedStimuli.insert(question.audioKey)
     }
 
-    func markPromptPlayed() {
-        playedPromptIDs.insert(currentQuestion.id)
+    // MARK: - Speaking
+
+    /// Stores a finished recording and scores it on-device in the background.
+    func recordSpeaking(question: TOEFLQuestion, duration: Double, url: URL?) {
+        var answer = answers[question.id] ?? TOEFLAnswer()
+        answer.recordingDuration = duration
+        answers[question.id] = answer
+        pendingScores += 1
+        Task {
+            let transcription: SpeechTranscription? = if let url { await SpeechTranscriber.transcribe(url, contextualStrings: question.taskType == .listenRepeat ? [question.audioScript ?? ""] : []) } else { nil }
+            let scored: (Int, String) = question.taskType == .listenRepeat
+                ? SpeakingRubric.scoreRepeat(target: question.audioScript ?? "", transcription: transcription)
+                : SpeakingRubric.scoreInterview(question: question.audioScript ?? "", transcription: transcription, responseSeconds: question.responseSeconds ?? 45)
+            var updated = self.answers[question.id] ?? TOEFLAnswer()
+            updated.transcript = transcription?.text
+            updated.rubricScore = scored.0
+            updated.rubricNote = scored.1
+            self.answers[question.id] = updated
+            self.pendingScores -= 1
+            if self.awaitingSectionScores, self.pendingScores == 0 {
+                self.awaitingSectionScores = false
+                self.summarizeSection()
+            }
+        }
     }
 
-    func canPlayPrompt(for question: TOEFLQuestion) -> Bool {
-        mode != .fullLength || !playedPromptIDs.contains(question.id)
-    }
-
-    func status(for question: TOEFLQuestion) -> QuestionProgressStatus {
-        if markedQuestionIDs.contains(question.id) { return .marked }
-        if !(answers[question.id] ?? TOEFLAnswer()).isEmpty { return .answered }
-        return .unanswered
-    }
+    // MARK: - Scoring
 
     func finishSection() {
         guard phase == .testing else { return }
-        sectionDeadline = nil
+        lastTick = nil
         if currentSection.routerCount != nil && currentSection.route == nil {
             configureAdaptiveModule()
         }
+        if currentSection.kind == .speaking, pendingScores > 0 {
+            awaitingSectionScores = true
+            phase = .scoring
+            return
+        }
+        summarizeSection()
+    }
+
+    private func summarizeSection() {
         let section = currentSection
-        let objective = section.questions.compactMap { question -> Bool? in
+        if section.kind == .writing {
+            for question in section.questions where question.taskType == .writeEmail || question.taskType == .academicDiscussion {
+                var answer = answers[question.id] ?? TOEFLAnswer()
+                let scored = WritingRubric.score(question: question, response: answer.writtenResponse)
+                answer.rubricScore = scored.0
+                answer.rubricNote = scored.1
+                answers[question.id] = answer
+            }
+        }
+        let scoredQuestions = section.questions.filter(\.countsTowardScore)
+        let objective = scoredQuestions.compactMap { question -> Bool? in
             TOEFLAnswerMatcher.isCorrect(question: question, answer: answers[question.id] ?? TOEFLAnswer())
         }
         let correct = objective.filter { $0 }.count
         let answered = section.questions.filter { !(answers[$0.id] ?? TOEFLAnswer()).isEmpty }.count
-        let score: (Double, String)
+        let band: Double
+        let detail: String
+        let raw: Int
         switch section.kind {
         case .reading, .listening:
-            let band = TOEFLPracticeScoring.objectiveBand(correct: correct, total: objective.count, route: section.route)
-            let routeText = section.route.map { " Route: \($0.title)." } ?? ""
-            score = (band, "Machine-scored practice accuracy: \(correct)/\(objective.count).\(routeText)")
+            band = TOEFLPracticeScoring.objectiveBand(correct: correct, total: objective.count, route: section.route)
+            raw = correct
+            let pretest = section.questions.count - scoredQuestions.count
+            detail = "Raw \(correct)/\(objective.count) scored items · \(section.route?.title ?? "Linear") · \(pretest) unscored pretest items not counted."
         case .writing:
-            score = TOEFLPracticeScoring.writingBand(questions: section.questions, answers: answers)
+            (band, detail, raw) = TOEFLPracticeScoring.writingBand(questions: section.questions, answers: answers)
         case .speaking:
-            score = TOEFLPracticeScoring.speakingBand(questions: section.questions, answers: answers)
+            (band, detail, raw) = TOEFLPracticeScoring.speakingBand(questions: section.questions, answers: answers)
         }
         summaries.append(TOEFLSectionSummary(
             kind: section.kind,
@@ -192,8 +276,10 @@ final class TOEFLExamSession: ObservableObject {
             answered: answered,
             total: section.questions.count,
             route: section.route,
-            band: score.0,
-            rubricDetail: score.1
+            band: band,
+            rubricDetail: detail,
+            rawScore: raw,
+            rawMaximum: section.kind.rawMaximum
         ))
 
         if currentSectionIndex + 1 < sections.count {
@@ -207,26 +293,26 @@ final class TOEFLExamSession: ObservableObject {
 
     private func configureAdaptiveModule() {
         guard let routerCount = currentSection.routerCount else { return }
-        let routerQuestions = Array(currentSection.questions.prefix(routerCount))
+        let routerQuestions = Array(currentSection.questions.prefix(routerCount)).filter(\.countsTowardScore)
         let objective = routerQuestions.compactMap { question in
             TOEFLAnswerMatcher.isCorrect(question: question, answer: answers[question.id] ?? TOEFLAnswer())
         }
         let accuracy = objective.isEmpty ? 0 : Double(objective.filter { $0 }.count) / Double(objective.count)
         let route: AdaptiveRoute = accuracy >= 0.65 ? .upper : .lower
+        let router = Array(currentSection.questions.prefix(routerCount))
         let module = TOEFLQuestionBank.moduleQuestions(
             for: currentSection.kind,
             route: route,
             seed: formSeed,
-            excluding: Set(routerQuestions.map(\.id))
+            excluding: Set(router.map(\.id))
         )
-        sections[currentSectionIndex].questions = routerQuestions + module
+        sections[currentSectionIndex].questions = router + module
         sections[currentSectionIndex].route = route
     }
 
     private func completeExam() {
         phase = .completed
-        let bands = summaries.map(\.band)
-        let overall = TOEFLPracticeScoring.overall(bands)
+        let overall = TOEFLPracticeScoring.overall(summaries.map(\.band))
         let reviews = sections.flatMap { section in
             section.questions.enumerated().map { index, question in
                 TOEFLQuestionReview(
@@ -256,29 +342,31 @@ final class TOEFLExamSession: ObservableObject {
         while phase != .completed && guardCount < 10 {
             guardCount += 1
             if phase == .directions { beginSection() }
-            for question in currentSection.questions {
-                var answer = TOEFLAnswer()
-                answer.selectedChoiceID = question.correctChoiceID
-                answer.textEntry = question.acceptedTextAnswers.first ?? ""
-                answer.orderedTokens = question.correctSentenceTokens
-                if question.taskType == .writeEmail || question.taskType == .academicDiscussion {
-                    answer.writtenResponse = question.sampleAnswer ?? "I support this position because it offers a practical benefit. For example, students can apply what they learn and reflect on the result. However, flexible options would make the policy fairer."
-                }
-                if question.section == .speaking {
-                    answer.recordingDuration = question.taskType == .listenRepeat ? 6 : 25
-                    answer.speakingSelfRating = 4
-                }
-                answers[question.id] = answer
+            if currentSection.routerCount != nil && currentSection.route == nil {
+                for question in currentSection.questions.prefix(currentSection.routerCount ?? 0) { answers[question.id] = sampleAnswer(question) }
+                configureAdaptiveModule()
             }
-            if currentSection.routerCount != nil && currentSection.route == nil { configureAdaptiveModule() }
+            for question in currentSection.questions {
+                answers[question.id] = sampleAnswer(question)
+            }
             finishSection()
         }
     }
-    #endif
-}
 
-enum QuestionProgressStatus {
-    case unanswered
-    case answered
-    case marked
+    private func sampleAnswer(_ question: TOEFLQuestion) -> TOEFLAnswer {
+        var answer = TOEFLAnswer()
+        answer.selectedChoiceID = question.correctChoiceID
+        answer.textEntry = question.acceptedTextAnswers.first ?? ""
+        answer.orderedTokens = question.correctSentenceTokens
+        if question.taskType == .writeEmail || question.taskType == .academicDiscussion {
+            answer.writtenResponse = question.sampleAnswer ?? "Dear Professor, I am writing because the schedule changed. However, I would appreciate your help. For example, could we meet on Friday? Thank you. Best regards."
+        }
+        if question.section == .speaking {
+            answer.recordingDuration = Double(question.responseSeconds ?? 10)
+            answer.rubricScore = 4
+            answer.transcript = question.taskType == .listenRepeat ? question.audioScript : "Sample response."
+        }
+        return answer
+    }
+    #endif
 }

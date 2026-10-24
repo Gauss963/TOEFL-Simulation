@@ -1,0 +1,618 @@
+[
+ {
+  "id": "lr-01",
+  "difficulty": "intermediate",
+  "setting": "City zoo",
+  "speaker": {
+   "role": "volunteer coordinator",
+   "gender": "female"
+  },
+  "intro": "You are a new volunteer at the city zoo. Listen to the volunteer coordinator and repeat what you hear.",
+  "stops": [
+   "Main entrance",
+   "Map stand",
+   "Penguin pool",
+   "Reptile house",
+   "Feeding station",
+   "Gift shop",
+   "First aid booth"
+  ],
+  "sentences": [
+   "Welcome to the city zoo.",
+   "You can grab a map right here.",
+   "The penguins are fed every morning at ten o'clock.",
+   "The reptile house is kept warm for the snakes and lizards.",
+   "This is where keepers prepare the food, so please stay behind the yellow line.",
+   "Volunteers get a small discount at the gift shop, so remember to show your badge.",
+   "If a visitor feels sick or gets hurt, bring them to the first aid booth right away."
+  ]
+ },
+ {
+  "id": "lr-02",
+  "difficulty": "intermediate",
+  "setting": "Campus fitness center",
+  "speaker": {
+   "role": "fitness center manager",
+   "gender": "male"
+  },
+  "intro": "You are a new member at the campus fitness center. Listen to the manager and repeat what you hear.",
+  "stops": [
+   "Front desk",
+   "Locker rooms",
+   "Cardio area",
+   "Weight room",
+   "Group fitness studio",
+   "Climbing wall",
+   "Equipment checkout"
+  ],
+  "sentences": [
+   "Please scan your card here.",
+   "The locker rooms are down this hallway.",
+   "Treadmills and bikes can be used for thirty minutes.",
+   "Always wipe down the benches after you finish your workout.",
+   "Yoga and spin classes are held in this studio throughout the week.",
+   "You need to complete a short safety session before you can use the climbing wall.",
+   "Towels, jump ropes, and resistance bands can be borrowed here, but they must be returned before closing time."
+  ]
+ },
+ {
+  "id": "lr-03",
+  "difficulty": "intermediate",
+  "setting": "University library",
+  "speaker": {
+   "role": "librarian",
+   "gender": "female"
+  },
+  "intro": "You are a new student at the university library. Listen to the librarian and repeat what you hear.",
+  "stops": [
+   "Circulation desk",
+   "Self-checkout machines",
+   "New arrivals shelf",
+   "Quiet study floor",
+   "Course reserves",
+   "Printing station",
+   "Book return slot"
+  ],
+  "sentences": [
+   "Books are checked out here.",
+   "These machines let you borrow books yourself.",
+   "Recently published titles are displayed on this shelf.",
+   "Please keep your voice down on the quiet study floor.",
+   "Course reserve materials can only be borrowed for two hours at a time.",
+   "You can send documents to these printers from any computer connected to the library network.",
+   "When the library is closed, you can drop your books into this slot beside the main door."
+  ]
+ },
+ {
+  "id": "lr-04",
+  "difficulty": "intermediate",
+  "setting": "University orientation",
+  "speaker": {
+   "role": "orientation leader",
+   "gender": "male"
+  },
+  "intro": "You are a new student attending university orientation. Listen to the orientation leader and repeat what you hear.",
+  "stops": [
+   "Welcome tent",
+   "Student ID office",
+   "Main quad",
+   "Lecture hall",
+   "Advising center",
+   "Career services",
+   "Shuttle stop"
+  ],
+  "sentences": [
+   "Welcome to orientation week, everyone.",
+   "Your student ID photo is taken here.",
+   "This quad is the center of campus life.",
+   "Most of your first-year classes will meet in this building.",
+   "Make an appointment with your academic advisor before you register for classes.",
+   "Career services can help you write a resume and find a part-time job on campus.",
+   "The campus shuttle stops here every fifteen minutes and will take you to the dorms and the downtown area."
+  ]
+ },
+ {
+  "id": "lr-05",
+  "difficulty": "intermediate",
+  "setting": "Science museum",
+  "speaker": {
+   "role": "museum guide",
+   "gender": "female"
+  },
+  "intro": "You are visiting the science museum with your class. Listen to the museum guide and repeat what you hear.",
+  "stops": [
+   "Ticket counter",
+   "Coat check",
+   "Dinosaur hall",
+   "Space exhibit",
+   "Hands-on lab",
+   "Theater",
+   "Cafeteria"
+  ],
+  "sentences": [
+   "Please keep your ticket handy.",
+   "Coats and bags can be left here.",
+   "This dinosaur skeleton is our most popular exhibit.",
+   "In the space exhibit, you can step inside a model rocket.",
+   "Children can try simple experiments in this lab with help from our staff.",
+   "Short films about the ocean and outer space are shown in the theater every hour.",
+   "If you get hungry, the cafeteria on the lower level serves sandwiches, soup, and snacks until four o'clock."
+  ]
+ },
+ {
+  "id": "lr-06",
+  "difficulty": "intermediate",
+  "setting": "Botanical garden",
+  "speaker": {
+   "role": "garden guide",
+   "gender": "male"
+  },
+  "intro": "You are a new volunteer at the botanical garden. Listen to the garden guide and repeat what you hear.",
+  "stops": [
+   "Visitor center",
+   "Rose garden",
+   "Herb garden",
+   "Tropical greenhouse",
+   "Pond",
+   "Seed library",
+   "Garden shop"
+  ],
+  "sentences": [
+   "Let's start at the visitor center.",
+   "The roses bloom from late spring to fall.",
+   "You may touch and smell the herbs here.",
+   "The tropical greenhouse is warm and humid all year round.",
+   "Turtles and frogs live in this pond, so please don't feed them.",
+   "At the seed library, members can borrow seeds and return new ones after harvest.",
+   "Before you leave, be sure to visit the garden shop, which sells plants grown right here in our greenhouses."
+  ]
+ },
+ {
+  "id": "lr-07",
+  "difficulty": "intermediate",
+  "setting": "Campus dining hall",
+  "speaker": {
+   "role": "dining services manager",
+   "gender": "female"
+  },
+  "intro": "You are a new student eating at the campus dining hall. Listen to the dining services manager and repeat what you hear.",
+  "stops": [
+   "Entrance",
+   "Salad bar",
+   "Grill station",
+   "Allergen-free station",
+   "Drink stations",
+   "Dish return",
+   "Meal plan office"
+  ],
+  "sentences": [
+   "Swipe your meal card here.",
+   "The salad bar is refilled throughout the day.",
+   "Burgers and grilled sandwiches are made to order here.",
+   "This station serves meals that are free of nuts, gluten, and dairy.",
+   "Machines for water, juice, and iced tea are located along this back wall.",
+   "When you finish eating, please place your tray and dishes on this moving belt.",
+   "If you want to add more meals to your plan, visit the office next to the exit."
+  ]
+ },
+ {
+  "id": "lr-08",
+  "difficulty": "intermediate",
+  "setting": "Campus art gallery",
+  "speaker": {
+   "role": "gallery docent",
+   "gender": "male"
+  },
+  "intro": "You are a new visitor at the campus art gallery. Listen to the gallery docent and repeat what you hear.",
+  "stops": [
+   "Lobby",
+   "Portrait room",
+   "Sculpture court",
+   "Photography wing",
+   "Print studio",
+   "Special exhibition",
+   "Gallery shop"
+  ],
+  "sentences": [
+   "Welcome to the campus art gallery.",
+   "Please don't touch any of the paintings.",
+   "These portraits were painted over two hundred years ago.",
+   "The sculptures in this courtyard were made by local artists.",
+   "Photography is allowed in this wing as long as you turn off your flash.",
+   "Students can watch printmakers at work in this studio on Tuesday and Thursday afternoons.",
+   "The special exhibition changes every season, and this one features landscapes from artists around the world."
+  ]
+ },
+ {
+  "id": "lr-09",
+  "difficulty": "intermediate",
+  "setting": "Student union",
+  "speaker": {
+   "role": "student union staff member",
+   "gender": "female"
+  },
+  "intro": "You are a new student touring the student union. Listen to the staff member and repeat what you hear.",
+  "stops": [
+   "Information desk",
+   "Lounge",
+   "Food court",
+   "Club offices",
+   "Game room",
+   "Ballroom",
+   "Mail center"
+  ],
+  "sentences": [
+   "This is the student union.",
+   "Ask at this desk if you get lost.",
+   "The lounge is a great place to relax between classes.",
+   "The food court has six restaurants and stays open until midnight.",
+   "Most student clubs have offices on this floor, and their doors are usually open.",
+   "You can rent pool tables and board games in the game room with your student ID.",
+   "Large events like concerts and dances are held in the ballroom, which can hold about five hundred people."
+  ]
+ },
+ {
+  "id": "lr-10",
+  "difficulty": "intermediate",
+  "setting": "Chemistry lab",
+  "speaker": {
+   "role": "lab safety officer",
+   "gender": "male"
+  },
+  "intro": "You are a new student in an introductory chemistry course. Listen to the lab safety officer and repeat what you hear.",
+  "stops": [
+   "Lab entrance",
+   "Goggle cabinet",
+   "Fume hood",
+   "Eyewash station",
+   "Safety shower",
+   "Fire extinguisher",
+   "Waste containers"
+  ],
+  "sentences": [
+   "Never enter the lab without permission.",
+   "Put on your safety goggles before every experiment.",
+   "Any chemicals with strong smells must be used under the hood.",
+   "If chemicals splash in your eyes, rinse them here for fifteen minutes.",
+   "Pull this handle if your clothes catch fire or get covered in chemicals.",
+   "The fire extinguisher is beside the door, and every student must learn how to use it.",
+   "Never pour chemicals down the sink; instead, place them in the labeled waste containers along the back wall."
+  ]
+ },
+ {
+  "id": "lr-11",
+  "difficulty": "intermediate",
+  "setting": "Dormitory move-in",
+  "speaker": {
+   "role": "resident assistant",
+   "gender": "female"
+  },
+  "intro": "You are moving into your dormitory for the first time. Listen to the resident assistant and repeat what you hear.",
+  "stops": [
+   "Check-in table",
+   "Elevators",
+   "Dorm room",
+   "Laundry room",
+   "Shared kitchen",
+   "Study lounge",
+   "Recycling area"
+  ],
+  "sentences": [
+   "Pick up your keys here.",
+   "Please use the elevators for heavy boxes.",
+   "Each room comes with two beds and two desks.",
+   "The washers and dryers in the basement accept your student card.",
+   "There's a shared kitchen on every floor, but please clean up after yourself.",
+   "The study lounge is open all night, so it's a good spot to prepare for exams.",
+   "Please flatten your empty boxes and leave them in the recycling area behind the building by tonight."
+  ]
+ },
+ {
+  "id": "lr-12",
+  "difficulty": "advanced",
+  "setting": "City bike share station",
+  "speaker": {
+   "role": "bike share program coordinator",
+   "gender": "male"
+  },
+  "intro": "You are signing up for the city bike share program. Listen to the program coordinator and repeat what you hear.",
+  "stops": [
+   "Docking station",
+   "Payment kiosk",
+   "Brake levers",
+   "Seat lever",
+   "Bike lane",
+   "Repair report screen",
+   "Return dock"
+  ],
+  "sentences": [
+   "Each station holds about twenty bikes.",
+   "Unlock a bike by entering your membership code.",
+   "Before riding off, check that both brakes respond smoothly.",
+   "You can raise or lower the seat by flipping this lever underneath.",
+   "Riders are expected to stay in the marked bike lanes whenever they're available downtown.",
+   "Should you notice a flat tire or loose chain, report it before taking the bike.",
+   "Make sure the bike clicks firmly into the dock, or you may continue to be charged for the ride."
+  ]
+ },
+ {
+  "id": "lr-13",
+  "difficulty": "advanced",
+  "setting": "Aquarium",
+  "speaker": {
+   "role": "aquarium educator",
+   "gender": "female"
+  },
+  "intro": "You are a new volunteer at the aquarium. Listen to the aquarium educator and repeat what you hear.",
+  "stops": [
+   "Entrance hall",
+   "Coral reef tank",
+   "Touch pool",
+   "Jellyfish gallery",
+   "Shark tunnel",
+   "Research lab window",
+   "Sea turtle rehabilitation center"
+  ],
+  "sentences": [
+   "Our aquarium houses hundreds of species.",
+   "This coral reef tank mimics tropical ocean conditions.",
+   "Use two fingers when gently touching the sea stars.",
+   "The jellyfish drift in circular tanks designed to keep them from getting injured.",
+   "Walking through this tunnel, you'll see sharks gliding just inches above your head.",
+   "Through this window, visitors can observe biologists analyzing water samples collected from the bay.",
+   "Injured sea turtles are brought to this center, where they're cared for until they're healthy enough to be released."
+  ]
+ },
+ {
+  "id": "lr-14",
+  "difficulty": "advanced",
+  "setting": "Campus health center",
+  "speaker": {
+   "role": "health center nurse",
+   "gender": "male"
+  },
+  "intro": "You are a new student visiting the campus health center. Listen to the nurse and repeat what you hear.",
+  "stops": [
+   "Reception",
+   "Waiting area",
+   "Pharmacy",
+   "Exam rooms",
+   "Vaccination clinic",
+   "Counseling services",
+   "After-hours phone line"
+  ],
+  "sentences": [
+   "Please check in at reception first.",
+   "Bring your insurance card to every appointment.",
+   "Prescriptions can usually be picked up within an hour.",
+   "A nurse will take your temperature and blood pressure before the doctor arrives.",
+   "Flu shots are offered free of charge to all enrolled students throughout the fall.",
+   "Counselors are available for confidential appointments if you're feeling stressed or overwhelmed by coursework.",
+   "If you need advice when the center is closed, call the after-hours line printed on your student ID."
+  ]
+ },
+ {
+  "id": "lr-15",
+  "difficulty": "advanced",
+  "setting": "Campus recording studio",
+  "speaker": {
+   "role": "studio engineer",
+   "gender": "female"
+  },
+  "intro": "You are a music student using the campus recording studio for the first time. Listen to the studio engineer and repeat what you hear.",
+  "stops": [
+   "Control room",
+   "Mixing console",
+   "Vocal booth",
+   "Microphone cabinet",
+   "Instrument storage",
+   "Soundproof door",
+   "Booking calendar"
+  ],
+  "sentences": [
+   "This is the main control room.",
+   "Engineers adjust every track on this mixing console.",
+   "Singers record in the booth to minimize background noise.",
+   "Each microphone must be signed out and handled with extreme care.",
+   "Guitars and keyboards are stored here, although drums stay set up in the live room.",
+   "Always close this heavy door completely, because even a small gap can let outside sound leak in.",
+   "Students may reserve the studio for up to three hours per week, provided they've completed the introductory training course."
+  ]
+ },
+ {
+  "id": "lr-16",
+  "difficulty": "advanced",
+  "setting": "Campus makerspace",
+  "speaker": {
+   "role": "makerspace technician",
+   "gender": "male"
+  },
+  "intro": "You are a new member of the campus makerspace. Listen to the technician and repeat what you hear.",
+  "stops": [
+   "Sign-in kiosk",
+   "Electronics bench",
+   "Laser cutter",
+   "Sewing machines",
+   "Woodshop",
+   "Tool wall",
+   "Project shelves"
+  ],
+  "sentences": [
+   "Everyone signs in at this kiosk.",
+   "Soldering irons must be switched off after use.",
+   "The laser cutter is never left running unattended.",
+   "These sewing machines are ideal for costumes, bags, and other fabric projects.",
+   "Closed-toe shoes and protective eyewear are required whenever you're working in the woodshop.",
+   "Every tool has an outlined spot on this wall, so it's easy to notice what's missing.",
+   "Unfinished projects can be stored on these shelves for two weeks, but they must be clearly labeled with your name."
+  ]
+ },
+ {
+  "id": "lr-17",
+  "difficulty": "advanced",
+  "setting": "History museum",
+  "speaker": {
+   "role": "museum curator",
+   "gender": "female"
+  },
+  "intro": "You are a new intern at the history museum. Listen to the curator and repeat what you hear.",
+  "stops": [
+   "Rotunda",
+   "Ancient tools gallery",
+   "Map room",
+   "Textile collection",
+   "Conservation lab",
+   "Archive reading room",
+   "Rooftop terrace"
+  ],
+  "sentences": [
+   "Our tour begins in the rotunda.",
+   "These stone tools are thousands of years old.",
+   "Early maps reveal how people imagined distant lands.",
+   "Light levels here are kept low to protect fragile fabrics from fading.",
+   "In the conservation lab, specialists repair damaged artifacts using carefully tested techniques.",
+   "Researchers wishing to examine original letters in the archive must request them in advance.",
+   "We'll finish on the rooftop terrace, which offers a remarkable view of the oldest neighborhood in the city."
+  ]
+ },
+ {
+  "id": "lr-18",
+  "difficulty": "advanced",
+  "setting": "Farmers market",
+  "speaker": {
+   "role": "market manager",
+   "gender": "male"
+  },
+  "intro": "You are a new volunteer at the downtown farmers market. Listen to the market manager and repeat what you hear.",
+  "stops": [
+   "Information booth",
+   "Produce stalls",
+   "Cheese stand",
+   "Bakery tent",
+   "Cooking demonstration",
+   "Token exchange",
+   "Compost bins"
+  ],
+  "sentences": [
+   "The market opens at seven sharp.",
+   "Most of these vegetables were harvested yesterday.",
+   "Ask the cheese vendors before sampling anything on their tables.",
+   "The bakery tent usually sells out of bread well before noon.",
+   "Local chefs demonstrate seasonal recipes here, and visitors are welcome to taste the results.",
+   "Shoppers can exchange their benefit cards for tokens, which are accepted at nearly every stall.",
+   "At closing, help vendors collect food scraps so they can be composted rather than sent to a landfill."
+  ]
+ },
+ {
+  "id": "lr-19",
+  "difficulty": "advanced",
+  "setting": "Campus planetarium",
+  "speaker": {
+   "role": "planetarium director",
+   "gender": "female"
+  },
+  "intro": "You are a new student worker at the campus planetarium. Listen to the director and repeat what you hear.",
+  "stops": [
+   "Lobby",
+   "Meteorite display",
+   "Planet scale model",
+   "Dome theater",
+   "Theater seating",
+   "Constellation wall",
+   "Rooftop observatory"
+  ],
+  "sentences": [
+   "Welcome to the campus planetarium.",
+   "Our largest meteorite weighs nearly two hundred pounds.",
+   "This model shows the planets' relative sizes and distances.",
+   "Inside the dome theater, the projector recreates the night sky in remarkable detail.",
+   "Once the lights dim, please put away your phones, since screens disrupt the view.",
+   "This wall map identifies the constellations that are visible from our latitude during each season.",
+   "On clear evenings, the observatory upstairs opens to the public, and volunteers help visitors locate planets through the telescope."
+  ]
+ },
+ {
+  "id": "lr-20",
+  "difficulty": "advanced",
+  "setting": "Campus bookstore",
+  "speaker": {
+   "role": "bookstore manager",
+   "gender": "male"
+  },
+  "intro": "You have just started a part-time job at the campus bookstore. Listen to the manager and repeat what you hear.",
+  "stops": [
+   "Textbook section",
+   "Used book shelves",
+   "Rental counter",
+   "Supplies aisle",
+   "Buyback desk",
+   "Course list board",
+   "Reading nook"
+  ],
+  "sentences": [
+   "Textbooks are organized by course number.",
+   "Used copies are considerably cheaper than new ones.",
+   "Renting a textbook can save you over half the cost.",
+   "Notebooks, calculators, and lab coats are stocked in this aisle.",
+   "At semester's end, we buy back books that remain in good condition.",
+   "Before purchasing anything, double-check your syllabus, because professors sometimes switch editions at the last minute.",
+   "Feel free to browse in the reading nook, but please return any books you've finished looking at to the cart."
+  ]
+ },
+ {
+  "id": "lr-21",
+  "difficulty": "advanced",
+  "setting": "Airport shuttle stop",
+  "speaker": {
+   "role": "shuttle service coordinator",
+   "gender": "female"
+  },
+  "intro": "You are an international student who has just arrived at the airport. Listen to the shuttle coordinator and repeat what you hear.",
+  "stops": [
+   "Arrivals exit",
+   "Shuttle pickup zone",
+   "Ticket booth",
+   "Luggage compartment",
+   "Boarding door",
+   "Waiting benches",
+   "Campus drop-off map"
+  ],
+  "sentences": [
+   "Follow the signs to ground transportation.",
+   "University shuttles depart from this marked zone.",
+   "Show your acceptance letter to receive a free ticket.",
+   "Large suitcases should be placed in the compartment beneath the bus.",
+   "Please board only when the driver confirms that your name appears on the passenger list.",
+   "If the shuttle is delayed, you can wait on these benches, which are sheltered from the weather.",
+   "The shuttle makes three campus stops, so check this map to find the one nearest your dorm."
+  ]
+ },
+ {
+  "id": "lr-22",
+  "difficulty": "advanced",
+  "setting": "Campus recreation center",
+  "speaker": {
+   "role": "recreation center supervisor",
+   "gender": "male"
+  },
+  "intro": "You are a new member at the campus recreation center. Listen to the supervisor and repeat what you hear.",
+  "stops": [
+   "Lap pool",
+   "Indoor track",
+   "Basketball courts",
+   "Rental office",
+   "Outdoor gear shop",
+   "Squash courts",
+   "Trip sign-up board"
+  ],
+  "sentences": [
+   "The lap pool reopens after maintenance.",
+   "Please run counterclockwise on the indoor track.",
+   "Courts can be reserved online up to three days ahead.",
+   "Kayaks and tents can be rented here for weekend camping trips.",
+   "Staff members in the gear shop can recommend equipment suited to your experience level.",
+   "Squash rackets are provided, but you'll need to bring non-marking shoes to protect the floor.",
+   "Guided hiking trips are posted on this board, and spaces often fill up within hours of being announced."
+  ]
+ }
+]

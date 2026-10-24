@@ -2,7 +2,7 @@
 
 ## Current TOEFL iBT standard
 
-The simulator's structure and score display were checked again on August 1, 2026 against these ETS sources:
+The simulator's structure, timing, task formats, and scoring were checked again on October 25, 2026 against these ETS sources:
 
 - [TOEFL iBT test content and structure](https://www.ets.org/toefl/test-takers/ibt/about/content.html)
 - [TOEFL iBT 2026 Test Blueprint and Specifications](https://www.ets.org/content/dam/ets-india/pdfs/toefl/toefl-ibt-test-specifications-2026.pdf)
@@ -12,6 +12,10 @@ The simulator's structure and score display were checked again on August 1, 2026
 - [Writing section](https://www.ets.org/toefl/test-takers/ibt/about/content/writing.html)
 - [Speaking section](https://www.ets.org/toefl/test-takers/ibt/about/content/speaking.html)
 - [TOEFL iBT 2026 research program](https://www.ets.org/toefl/research/toefl-ibt-updates-2026.html)
+- [Updated TOEFL iBT Test Overview](https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-test-overview.pdf) (task formats and scoring rubrics)
+- [TOEFL iBT Technical Manual, RR-25-12](https://rr.ets.org/index.php/etsrr/article/view/28/17) (scored items per module, scoring engines)
+- [A banded score scale for the TOEFL iBT test (2026)](https://www.eu.ets.org/pdfs/toefl/score-scale-update-2026.pdf)
+- [TOEFL iBT Teacher Resources Practice Tests 1 and 2](https://www.eu.ets.org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-1.pdf) (module layout and on-screen directions)
 
 Key implementation facts:
 
@@ -55,18 +59,10 @@ Pronunciation and compact English lexical fields are supplemented from the exist
 
 ## Bundled practice content
 
-The runtime question bank contains 1,968 unique items. It combines 168 hand-authored core questions with a reproducible 1,800-item expansion:
+The runtime bank (`TOEFL2026Bank.json`) contains 1,854 original items organized into the task sets of the January 2026 format: 60 Complete the Words paragraphs (600 blanks), 40 Read in Daily Life sets, 40 Read an Academic Passage sets, 240 Listen and Choose a Response items, 30 conversations, 26 announcements, 36 academic talks, 140 Build a Sentence items, 30 email tasks, 30 academic discussions, 22 Listen and Repeat scenarios, and 26 interviews.
 
-| Section | Expanded items | Runtime total including core |
-| --- | ---: | ---: |
-| Reading | 720 | 795 |
-| Listening | 600 | 670 |
-| Writing | 240 | 252 |
-| Speaking | 240 | 251 |
-| **Total** | **1,800** | **1,968** |
+The items were written for this app to the ETS specifications above (text types and lengths, question counts per set, question types, speaker settings, and timing) and checked with `Tools/content2026` validators for length, set size, answer-key balance, and structure. The authorized reference library informed topic domains and skill coverage; no ETS or published test question is copied or relabeled. Every review item identifies itself as an original practice item, not an official ETS question.
 
-Practice questions, short passages, listening scripts, sample responses, and explanations bundled in the exam simulator were written for this app. The authorized reference library was used to map topic domains, campus situations, tested skills, distractor purposes, and legacy explanation conventions; retired pre-2026 questions were not relabeled as current items or copied into the expanded bank. Vocabulary cards are either original curated entries or compact normalized records from the user-authorized vocabulary sources listed above.
-
-`Tools/generate_expanded_question_bank.py` rebuilds the expansion and checks exact per-task counts, unique IDs and prompt/stimulus fingerprints, four-choice answer keys, sentence token integrity, and required response fields. Runtime debug validation additionally samples 40 full forms, verifies both adaptive routes, and prevents router/module overlap. Every exam review item identifies itself as independent practice aligned to the ETS 2026 blueprint, not as an official ETS question.
+Recordings are synthesized at build time with the Apache-2.0 [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) model using North American and British English voices. ETS also uses Australian (and New Zealand) speakers; the bundled voice set does not include those accents.
 
 The source app icon is user-provided artwork stored at `Design/AppIconSource.png`.

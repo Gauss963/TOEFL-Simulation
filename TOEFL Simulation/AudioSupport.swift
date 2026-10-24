@@ -2,34 +2,66 @@ import AVFoundation
 import Foundation
 import Combine
 
-/// Pre-rendered neural word clips (Kokoro-82M, Apache-2.0) bundled as one resource pack.
-nonisolated final class WordPronunciationLibrary: Sendable {
-    static let shared = WordPronunciationLibrary()
-
+/// Pre-rendered audio clips (Kokoro-82M, Apache-2.0) bundled as one resource pack with a byte-range index.
+nonisolated final class AudioClipPack: Sendable {
     private let pack: Data?
     private let clips: [String: [Int]]
+    private let lowercasedKeys: Bool
 
-    init(bundle: Bundle = .main) {
+    init(name: String, lowercasedKeys: Bool, bundle: Bundle = .main) {
         struct Index: Decodable { let clips: [String: [Int]] }
-        let indexURL = bundle.url(forResource: "WordPronunciations", withExtension: "json")
-        let packURL = bundle.url(forResource: "WordPronunciations", withExtension: "pack")
-        let index = indexURL
+        let index = bundle.url(forResource: name, withExtension: "json")
             .flatMap { try? Data(contentsOf: $0) }
             .flatMap { try? JSONDecoder().decode(Index.self, from: $0) }
         clips = index?.clips ?? [:]
-        pack = packURL.flatMap { try? Data(contentsOf: $0, options: .alwaysMapped) }
+        pack = bundle.url(forResource: name, withExtension: "pack").flatMap { try? Data(contentsOf: $0, options: .alwaysMapped) }
+        self.lowercasedKeys = lowercasedKeys
     }
 
     var clipCount: Int { pack == nil ? 0 : clips.count }
 
-    func clip(for word: String) -> Data? {
-        guard let pack, let range = clips[Self.key(for: word)], range.count == 2,
+    func clip(for key: String) -> Data? {
+        let lookup = lowercasedKeys ? key.lowercased().trimmingCharacters(in: .whitespacesAndNewlines) : key
+        guard let pack, let range = clips[lookup], range.count == 2,
               range[0] >= 0, range[1] > 0, range[0] + range[1] <= pack.count else { return nil }
         return pack.subdata(in: range[0]..<(range[0] + range[1]))
     }
+}
 
-    static func key(for word: String) -> String {
-        word.lowercased().trimmingCharacters(in: .whitespacesAndNewlines)
+/// Natural word pronunciations for flash cards and the vocabulary bank.
+enum WordPronunciationLibrary {
+    static let shared = AudioClipPack(name: "WordPronunciations", lowercasedKeys: true)
+}
+
+/// Multi-voice recordings for Listening stimuli and Speaking prompts.
+enum TOEFLExamAudio {
+    static let pack = AudioClipPack(name: "ExamAudio", lowercasedKeys: false)
+
+    static func hasClip(_ key: String) -> Bool { pack.clip(for: key) != nil }
+
+    static func introKey(for setID: String) -> String { "intro-\(setID)" }
+
+    /// A short sine tone in WAV format, used for the "start speaking" and "stop" signals.
+    static let beep: Data = tone(frequency: 880, seconds: 0.32)
+    static let endTone: Data = tone(frequency: 660, seconds: 0.22)
+
+    private static func tone(frequency: Double, seconds: Double) -> Data {
+        let sampleRate = 24_000.0
+        let count = Int(sampleRate * seconds)
+        var samples = Data(capacity: count * 2)
+        for index in 0..<count {
+            let t = Double(index) / sampleRate
+            let envelope = min(1, min(t, seconds - t) / 0.02)
+            let value = Int16(sin(2 * .pi * frequency * t) * envelope * 0.45 * Double(Int16.max))
+            withUnsafeBytes(of: value.littleEndian) { samples.append(contentsOf: $0) }
+        }
+        var header = Data()
+        func append<T: FixedWidthInteger>(_ value: T) { withUnsafeBytes(of: value.littleEndian) { header.append(contentsOf: $0) } }
+        header.append(contentsOf: Array("RIFF".utf8)); append(UInt32(36 + samples.count))
+        header.append(contentsOf: Array("WAVEfmt ".utf8)); append(UInt32(16)); append(UInt16(1)); append(UInt16(1))
+        append(UInt32(sampleRate)); append(UInt32(sampleRate * 2)); append(UInt16(2)); append(UInt16(16))
+        header.append(contentsOf: Array("data".utf8)); append(UInt32(samples.count))
+        return header + samples
     }
 }
 
@@ -99,37 +131,95 @@ final class WordPronunciationPlayer: NSObject, ObservableObject, AVAudioPlayerDe
     }
 }
 
+/// Plays exam recordings once, in order, with a test-wide volume setting.
 @MainActor
-final class PromptSpeechPlayer: NSObject, ObservableObject, AVSpeechSynthesizerDelegate {
-    @Published private(set) var isSpeaking = false
+final class ExamAudioPlayer: NSObject, ObservableObject, AVAudioPlayerDelegate, AVSpeechSynthesizerDelegate {
+    @Published private(set) var isPlaying = false
+    @Published var volume: Float = 0.85 {
+        didSet { audioPlayer?.volume = volume }
+    }
+
+    private var audioPlayer: AVAudioPlayer?
     private let synthesizer = AVSpeechSynthesizer()
+    private var completion: (() -> Void)?
+    private var generation = 0
 
     override init() {
         super.init()
         synthesizer.delegate = self
     }
 
-    func speak(_ text: String) {
+    /// Plays the clip for `key`; if it is missing, reads `fallbackText` with the best system voice.
+    func play(key: String, fallbackText: String?, completion: @escaping () -> Void) {
+        if let data = TOEFLExamAudio.pack.clip(for: key) {
+            play(data: data, hint: AVFileType.m4a.rawValue, completion: completion)
+        } else if let fallbackText, !fallbackText.isEmpty {
+            stop()
+            prepareSession()
+            self.completion = completion
+            let utterance = AVSpeechUtterance(string: fallbackText)
+            utterance.voice = EnglishVoice.best
+            utterance.rate = 0.5
+            utterance.volume = volume
+            isPlaying = true
+            synthesizer.speak(utterance)
+        } else {
+            completion()
+        }
+    }
+
+    func playTone(_ data: Data, completion: @escaping () -> Void) {
+        play(data: data, hint: AVFileType.wav.rawValue, completion: completion)
+    }
+
+    private func play(data: Data, hint: String, completion: @escaping () -> Void) {
         stop()
-        let utterance = AVSpeechUtterance(string: text)
-        utterance.voice = EnglishVoice.best
-        utterance.rate = 0.47
-        utterance.pitchMultiplier = 1
-        isSpeaking = true
-        synthesizer.speak(utterance)
+        prepareSession()
+        guard let player = try? AVAudioPlayer(data: data, fileTypeHint: hint) else {
+            completion()
+            return
+        }
+        generation += 1
+        player.delegate = self
+        player.volume = volume
+        audioPlayer = player
+        self.completion = completion
+        isPlaying = player.play()
+        if !isPlaying { finish() }
     }
 
     func stop() {
+        completion = nil
+        audioPlayer?.stop()
+        audioPlayer = nil
         if synthesizer.isSpeaking { synthesizer.stopSpeaking(at: .immediate) }
-        isSpeaking = false
+        isPlaying = false
+    }
+
+    private func prepareSession() {
+        #if os(iOS)
+        try? AVAudioSession.sharedInstance().setCategory(.playAndRecord, mode: .spokenAudio, options: [.defaultToSpeaker, .allowBluetoothA2DP])
+        try? AVAudioSession.sharedInstance().setActive(true)
+        #endif
+    }
+
+    private func finish() {
+        isPlaying = false
+        audioPlayer = nil
+        let done = completion
+        completion = nil
+        done?()
+    }
+
+    nonisolated func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
+        Task { @MainActor in
+            guard player === self.audioPlayer else { return }
+            self.finish()
+        }
     }
 
     nonisolated func speechSynthesizer(_ synthesizer: AVSpeechSynthesizer, didFinish utterance: AVSpeechUtterance) {
-        Task { @MainActor in self.isSpeaking = false }
-    }
-
-    nonisolated func speechSynthesizer(_ synthesizer: AVSpeechSynthesizer, didCancel utterance: AVSpeechUtterance) {
-        Task { @MainActor in self.isSpeaking = false }
+        Task { @MainActor in self.finish() }
     }
 }
 
@@ -137,8 +227,11 @@ final class PromptSpeechPlayer: NSObject, ObservableObject, AVSpeechSynthesizerD
 final class SpeakingResponseRecorder: NSObject, ObservableObject, AVAudioRecorderDelegate {
     @Published private(set) var isRecording = false
     @Published private(set) var permissionDenied = false
+    @Published private(set) var level: Float = 0
 
     private var recorder: AVAudioRecorder?
+    private(set) var lastRecordingURL: URL?
+    private var meterTimer: Timer?
 
     func start(questionID: String) async -> Bool {
         let allowed = await requestPermission()
@@ -150,7 +243,7 @@ final class SpeakingResponseRecorder: NSObject, ObservableObject, AVAudioRecorde
         #if os(iOS)
         do {
             let session = AVAudioSession.sharedInstance()
-            try session.setCategory(.record, mode: .spokenAudio)
+            try session.setCategory(.playAndRecord, mode: .spokenAudio, options: [.defaultToSpeaker])
             try session.setActive(true)
         } catch {
             return false
@@ -169,8 +262,11 @@ final class SpeakingResponseRecorder: NSObject, ObservableObject, AVAudioRecorde
         do {
             recorder = try AVAudioRecorder(url: url, settings: settings)
             recorder?.delegate = self
+            recorder?.isMeteringEnabled = true
             recorder?.prepareToRecord()
             isRecording = recorder?.record() == true
+            lastRecordingURL = isRecording ? url : nil
+            startMetering()
             return isRecording
         } catch {
             recorder = nil
@@ -185,13 +281,14 @@ final class SpeakingResponseRecorder: NSObject, ObservableObject, AVAudioRecorde
         recorder?.stop()
         recorder = nil
         isRecording = false
-        #if os(iOS)
-        try? AVAudioSession.sharedInstance().setActive(false)
-        #endif
+        meterTimer?.invalidate()
+        meterTimer = nil
+        level = 0
         return duration
     }
 
-    private func requestPermission() async -> Bool {
+    /// Microphone permission without recording, used by the pre-Speaking microphone check.
+    func requestPermission() async -> Bool {
         #if os(iOS)
         return await withCheckedContinuation { continuation in
             AVAudioApplication.requestRecordPermission { continuation.resume(returning: $0) }
@@ -204,5 +301,17 @@ final class SpeakingResponseRecorder: NSObject, ObservableObject, AVAudioRecorde
         default: return false
         }
         #endif
+    }
+
+    private func startMetering() {
+        meterTimer?.invalidate()
+        meterTimer = Timer.scheduledTimer(withTimeInterval: 0.08, repeats: true) { [weak self] _ in
+            MainActor.assumeIsolated {
+                guard let self, let recorder = self.recorder else { return }
+                recorder.updateMeters()
+                let power = recorder.averagePower(forChannel: 0)
+                self.level = max(0, min(1, (power + 55) / 50))
+            }
+        }
     }
 }

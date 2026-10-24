@@ -1,0 +1,686 @@
+[
+ {
+  "id": "at3-01",
+  "difficulty": "intermediate",
+  "course": "history",
+  "intro": "Listen to a talk in a history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Okay, so last time we talked about how slowly news traveled in eighteenth-century Europe. Today I want to look at a system that changed that, and it's one most people have never heard of: the optical telegraph. In the 1790s, a French engineer named Claude Chappe built a chain of towers across the countryside, each one within sight of the next. On top of every tower sat a wooden beam with two movable arms. By setting the arms at different angles, an operator could form dozens of distinct shapes, and each shape stood for a letter, a number, or even a whole phrase from a codebook. Now, here's how it worked in practice. An operator would watch the neighboring tower through a telescope, copy the shape he saw, and then the next tower down the line would copy him. A short message could cross hundreds of kilometers in under an hour. Compare that with a rider on horseback, who might need several days. So why don't we remember it? Well, the system had a serious weakness. It only worked in daylight and clear weather. Fog, rain, or nightfall shut the whole line down. And within about fifty years, the electric telegraph arrived and did the same job in any conditions.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The codebooks used by eighteenth-century governments",
+     "An early signaling system that sent messages using towers",
+     "The reasons riders carried most news across France",
+     "How the electric telegraph was first invented in France"
+    ],
+    "answer": 1,
+    "explanation": "The professor describes how Chappe's optical telegraph towers relayed messages."
+   },
+   {
+    "prompt": "How did operators form different signals?",
+    "options": [
+     "By setting two movable arms at various angles",
+     "By changing the height of the wooden beam",
+     "By raising flags of different colors on poles",
+     "By flashing lamps in a coded sequence at night"
+    ],
+    "answer": 0,
+    "explanation": "The professor says the arms were set at different angles to form distinct shapes."
+   },
+   {
+    "prompt": "According to the professor, what was the main weakness of the system?",
+    "options": [
+     "Its codebooks were easily copied by outsiders",
+     "It required too many operators at every tower",
+     "It could not operate at night or in poor weather",
+     "Its towers were too expensive to keep repaired"
+    ],
+    "answer": 2,
+    "explanation": "The professor states it worked only in daylight and clear weather."
+   },
+   {
+    "prompt": "Why does the professor mention a rider on horseback?",
+    "options": [
+     "To suggest that riders were more reliable than the towers",
+     "To emphasize how fast the tower system was by comparison",
+     "To show that the towers were built along existing roads",
+     "To explain who delivered the codebooks to each tower"
+    ],
+    "answer": 1,
+    "explanation": "A rider needed days, while the towers sent a message in under an hour."
+   }
+  ]
+ },
+ {
+  "id": "at3-02",
+  "difficulty": "advanced",
+  "course": "art history",
+  "intro": "Listen to a talk in an art history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Alright, let's get into technique, because technique explains a lot about why some wall paintings survive and others don't. When we say fresco, we usually mean true fresco, or buon fresco. The painter spreads a fresh layer of wet lime plaster on the wall and then brushes on pigments mixed only with water. As the plaster dries, a chemical reaction takes place: the lime absorbs carbon dioxide from the air and forms a thin crystalline skin that locks the pigment in place. The color doesn't sit on the wall; it becomes part of the wall. Now, the catch is time. The plaster stays workable for about a day, so painters divided a composition into sections called giornate, which means a day's work. If you look closely at some Renaissance ceilings, you can actually spot the seams between those patches. The alternative was fresco secco, painting onto plaster that had already dried, using a binder like egg or glue. That's far more forgiving, and certain blues and greens that react badly with lime could only be applied this way. But here's the problem. Secco paint is just a surface layer, so over the centuries it tends to flake off. So when you see a famous mural where a figure's robe has faded to bare plaster, what do you think probably happened there?",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why Renaissance painters preferred blue and green pigments to others",
+     "How art historians date murals by counting their plaster sections",
+     "How two wall-painting methods differ and how that affects durability",
+     "Why lime plaster became difficult to obtain during the Renaissance"
+    ],
+    "answer": 2,
+    "explanation": "The professor contrasts buon fresco and fresco secco and explains why secco paint flakes."
+   },
+   {
+    "prompt": "What happens as the plaster dries in true fresco?",
+    "options": [
+     "The pigment sinks deep into the stone that lies behind the plaster",
+     "The lime reacts with the air and binds the pigment into the surface",
+     "The egg binder hardens into a protective and glossy outer coating",
+     "The water evaporates and leaves the pigment resting loosely on top"
+    ],
+    "answer": 1,
+    "explanation": "The lime absorbs carbon dioxide and forms a crystalline skin that locks in the pigment."
+   },
+   {
+    "prompt": "Why did painters divide a fresco into giornate?",
+    "options": [
+     "Patrons paid painters for each finished section",
+     "Each section required a different set of pigments",
+     "Large walls had to be plastered by several workers",
+     "Fresh plaster stays workable for only about one day"
+    ],
+    "answer": 3,
+    "explanation": "The professor says the plaster is workable for about a day, so the work was split into daily sections."
+   },
+   {
+    "prompt": "What does the professor imply about a mural in which a robe has faded to bare plaster?",
+    "options": [
+     "The robe was probably painted using the secco method",
+     "The robe was probably restored later with modern materials",
+     "The painter probably ran out of time to finish the robe",
+     "The plaster under the robe was probably applied too thickly"
+    ],
+    "answer": 0,
+    "explanation": "Secco paint sits on the surface and flakes off over time, leaving bare plaster."
+   }
+  ]
+ },
+ {
+  "id": "at3-03",
+  "difficulty": "intermediate",
+  "course": "archaeology",
+  "intro": "Listen to a talk in an archaeology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So, how do archaeologists put a date on a wooden beam from a house that was abandoned eight hundred years ago? One of the most precise tools we have is dendrochronology, which is just a fancy name for tree-ring dating. Here's the basic idea. Every year, a tree in a temperate climate adds a new ring of wood. In a good year, with plenty of rain, the ring is wide. In a dry year, it's narrow. Now, every tree in the same region experiences the same weather, so they all record the same pattern of wide and narrow rings, kind of like a barcode. Researchers start with living trees, where they know exactly which year each ring belongs to. Then they find older timbers whose inner rings overlap with the outer rings of the younger samples, and they match the patterns. By chaining samples together like this, some regions now have master sequences going back thousands of years. So when we find a beam at a site, we compare its rings to the master sequence and see where it fits. If the outermost ring under the bark is still there, we can sometimes say not just the year the tree was cut, but even the season. Pretty remarkable for something you can see with a magnifying glass.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "A method for dating wood by matching ring patterns",
+     "The reasons tree rings differ in wet and dry climates",
+     "The tools archaeologists use to preserve old wood",
+     "The way ancient builders selected timber for houses"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains how dendrochronology dates timber by comparing ring patterns."
+   },
+   {
+    "prompt": "According to the professor, what does a narrow tree ring indicate?",
+    "options": [
+     "A tree that was very young",
+     "A year with little rainfall",
+     "A tree growing in poor soil",
+     "A year with a long winter"
+    ],
+    "answer": 1,
+    "explanation": "The professor says the ring is narrow in a dry year."
+   },
+   {
+    "prompt": "How do researchers build a master sequence?",
+    "options": [
+     "By counting the rings on the oldest living tree",
+     "By measuring the chemical content of each ring",
+     "By comparing timbers from many distant regions",
+     "By linking samples whose ring patterns overlap"
+    ],
+    "answer": 3,
+    "explanation": "They chain together samples whose inner and outer rings overlap."
+   },
+   {
+    "prompt": "Why does the professor mention a barcode?",
+    "options": [
+     "To illustrate that ring patterns are shared and recognizable",
+     "To explain how researchers record data about each sample",
+     "To show that every single tree has a completely unique pattern",
+     "To suggest that the method depends on modern scanning tools"
+    ],
+    "answer": 0,
+    "explanation": "Trees in one region share the same recognizable pattern of wide and narrow rings, like a barcode."
+   }
+  ]
+ },
+ {
+  "id": "at3-04",
+  "difficulty": "advanced",
+  "course": "music",
+  "intro": "Listen to a talk in a music class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Today's topic sounds technical, but stick with me, because it shapes almost every piece of Western music you've ever heard. It's the question of tuning. Here's the problem. If you tune strings using pure mathematical ratios, the intervals sound beautifully smooth. A perfect fifth, for example, is a ratio of three to two. But if you keep stacking those pure fifths, twelve of them, you'd expect to land back on the note you started from, just several octaves higher. You don't. You overshoot by a small amount, called the Pythagorean comma. So something has to give. For centuries, keyboard tuners dealt with this by making most intervals pure and pushing all the error into one or two rarely used keys. That worked as long as composers stayed in comfortable keys. Play in the wrong key, though, and you got a sour, howling interval that musicians nicknamed the wolf. Equal temperament solves this differently. Instead of hiding the error in one place, it spreads it evenly across all twelve notes of the octave. Every fifth is just slightly narrow, so slightly that most listeners never notice. The result? Every key sounds equally in tune, or, if you like, equally a little out of tune. And that freedom let composers move through any key they wanted.",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the lecture?",
+    "options": [
+     "To compare the sound of string instruments with the sound of keyboards",
+     "To argue that pure intervals are more pleasing than tempered intervals",
+     "To describe how composers chose particular keys to suit particular moods",
+     "To explain the tuning problem that equal temperament was designed to solve"
+    ],
+    "answer": 3,
+    "explanation": "The professor explains the Pythagorean comma and how equal temperament distributes it."
+   },
+   {
+    "prompt": "According to the professor, what happens when twelve pure fifths are stacked?",
+    "options": [
+     "The final note is slightly higher than the expected octave",
+     "The final note falls slightly below the expected octave",
+     "The final note lands exactly several octaves above the start",
+     "The intervals become gradually narrower as more are added"
+    ],
+    "answer": 0,
+    "explanation": "The professor says you overshoot the starting note by the Pythagorean comma."
+   },
+   {
+    "prompt": "How does equal temperament handle the tuning error?",
+    "options": [
+     "It places the error in one or two rarely used keys",
+     "It divides the error evenly among all twelve notes",
+     "It removes the error by using pure ratios throughout",
+     "It shifts the error into the highest octave only"
+    ],
+    "answer": 1,
+    "explanation": "Equal temperament spreads the error evenly across the octave."
+   },
+   {
+    "prompt": "What does the professor mean when he says this: \"Every key sounds equally in tune, or, if you like, equally a little out of tune\"?",
+    "options": [
+     "No key is perfectly pure, but none sounds noticeably worse",
+     "Some keys still produce the harsh interval called the wolf",
+     "Most listeners can easily hear the error in every key",
+     "Musicians still disagree about whether the system works"
+    ],
+    "answer": 0,
+    "explanation": "Every interval is slightly impure, but the impurity is shared equally so no key stands out as bad."
+   }
+  ]
+ },
+ {
+  "id": "at3-05",
+  "difficulty": "intermediate",
+  "course": "architecture",
+  "intro": "Listen to a talk in an architecture class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Okay, before air conditioning, how did people in very hot, dry places keep buildings cool? Today I want to look at one clever answer: the wind catcher. You find these towers across parts of the Middle East and North Africa, rising above the rooftops, with openings near the top. So, how do they work? First, the tower is tall because wind blows faster and cleaner higher above the ground, away from the dust. The opening facing the breeze catches that moving air and channels it down a shaft into the rooms below. Meanwhile, warm air inside the house rises and escapes through openings on the opposite side of the tower. So you get a steady flow of air without using any energy at all. Now, some designers went a step further. They directed the incoming air over a pool of water or through an underground channel before it entered the living space. As the water evaporates, it absorbs heat, so the air arrives noticeably cooler. And here's the interesting part for us as future architects. Engineers today are studying these old towers and adapting the same principles for modern buildings, because they cut energy use. Sometimes the best new idea is a very old one.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "A traditional structure that cools buildings with natural airflow",
+     "Methods for storing water beneath houses in hot climates",
+     "The decorative features of rooftops in North Africa",
+     "The history of air conditioning in hot desert regions"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains how wind catchers use moving air to cool buildings."
+   },
+   {
+    "prompt": "Why are wind catchers built tall?",
+    "options": [
+     "Tall towers are easier for travelers to see from afar",
+     "Extra height allows the tower to store more water",
+     "Tall towers block sunlight from reaching the roof",
+     "Air higher up moves faster and carries less dust"
+    ],
+    "answer": 3,
+    "explanation": "The professor says wind blows faster and cleaner higher above the ground."
+   },
+   {
+    "prompt": "How did some designs make the incoming air cooler?",
+    "options": [
+     "By drawing it only from the shaded side of the house",
+     "By sending it through a narrow shaft lined with metal",
+     "By forcing it through thick walls made of dried clay",
+     "By passing it over water before it entered the rooms"
+    ],
+    "answer": 3,
+    "explanation": "Air passed over water, and evaporation absorbed heat."
+   },
+   {
+    "prompt": "What does the professor imply about wind catchers?",
+    "options": [
+     "They are quickly being replaced by modern machines",
+     "They worked well only in buildings near the coast",
+     "Their principles remain useful for designers today",
+     "They required a great deal of costly maintenance"
+    ],
+    "answer": 2,
+    "explanation": "She says engineers are adapting the same principles for modern buildings."
+   }
+  ]
+ },
+ {
+  "id": "at3-06",
+  "difficulty": "advanced",
+  "course": "film studies",
+  "intro": "Listen to a talk in a film studies class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Let's start today with an experiment that's become almost legendary in film theory. In the early 1920s, the Russian filmmaker Lev Kuleshov took a single close-up of an actor's face, a fairly neutral, expressionless face. He then edited it together with three different shots. In one version, the face was followed by a bowl of soup. In another, by a small child playing with a toy. In the third, by a woman resting on a sofa. According to Kuleshov's account, audiences praised the actor's subtle performance. They saw hunger in his face after the soup, tenderness after the child, longing after the woman. But of course, it was the same shot every time. So what's going on? The point is that viewers don't read a shot in isolation. They read it in relation to what comes before and after, and they actively build meaning by linking the two. Kuleshov concluded that editing, not the individual image, was the essential creative act of cinema. Now, I should add a word of caution. The original footage has been lost, and some later attempts to repeat the experiment found weaker effects than the legend suggests. Still, modern studies do show that context shifts how we interpret facial expressions. So the principle holds, even if the story's been polished a bit in the retelling.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "A technique that helps cameras capture subtle facial expressions",
+     "An experiment suggesting that editing shapes how viewers read images",
+     "How early Russian filmmakers trained actors to show emotion",
+     "The reasons early filmmakers preferred close-ups of their actors"
+    ],
+    "answer": 1,
+    "explanation": "The professor describes the Kuleshov experiment and its lesson about editing."
+   },
+   {
+    "prompt": "According to the professor, what did audiences believe about the actor?",
+    "options": [
+     "That he had been filmed on three different occasions",
+     "That he was a poor choice for such an emotional role",
+     "That his face showed no emotion in any of the versions",
+     "That he had changed his expression to suit each scene"
+    ],
+    "answer": 3,
+    "explanation": "Viewers praised his performance, seeing hunger, tenderness, and longing in the same shot."
+   },
+   {
+    "prompt": "What caution does the professor give about the experiment?",
+    "options": [
+     "It was carried out with far too few viewers to count",
+     "Audiences at the time noticed that the shot repeated",
+     "Later attempts to repeat it produced weaker results",
+     "Its footage was edited by someone other than Kuleshov"
+    ],
+    "answer": 2,
+    "explanation": "He says later replications found weaker effects than the legend suggests."
+   },
+   {
+    "prompt": "What is the professor's opinion of the Kuleshov experiment?",
+    "options": [
+     "Its basic idea is sound even if accounts of it are exaggerated",
+     "It is more relevant to psychology than to film studies",
+     "It proves that an actor's skill is unimportant in film",
+     "It should not be taught because its results were invented"
+    ],
+    "answer": 0,
+    "explanation": "He says the principle holds even though the story has been polished."
+   }
+  ]
+ },
+ {
+  "id": "at3-07",
+  "difficulty": "intermediate",
+  "course": "literature",
+  "intro": "Listen to a talk in a literature class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Today we're starting a new unit on the epistolary novel. That's a novel told entirely through documents the characters write, usually letters, but sometimes diary entries too. The form was hugely popular in eighteenth-century Europe. So, why would an author choose to tell a story this way? Let's think about what letters give us. First, immediacy. A character writes about something that happened that very morning, often without knowing how things will turn out. So we, as readers, experience the suspense right along with them. Second, letters let us hear several voices. If three characters write about the same event, we get three different versions, and we have to decide whom to trust. That puts a lot of the interpretive work on the reader. Now, the form has drawbacks too. Authors had to come up with reasons for characters to write constantly, and sometimes it gets a little silly. You'll find a heroine describing a dramatic scene in a long letter at a moment when, realistically, she wouldn't have had time to pick up a pen. Writers of the period were teased about this. Still, the influence lasted. Think about novels today that are told through text messages or emails. Same basic idea, new technology.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The life and work of one eighteenth-century novelist",
+     "How diaries became a popular form of literature",
+     "The ways that people in Europe exchanged letters",
+     "The features and appeal of novels written as letters"
+    ],
+    "answer": 3,
+    "explanation": "The professor explains what epistolary novels are and their strengths and weaknesses."
+   },
+   {
+    "prompt": "According to the professor, how do letters from several characters affect readers?",
+    "options": [
+     "Readers find it harder to feel any suspense",
+     "Readers identify with only one main character",
+     "Readers learn the ending of the story early",
+     "Readers must judge which account to believe"
+    ],
+    "answer": 3,
+    "explanation": "With several versions of an event, readers must decide whom to trust."
+   },
+   {
+    "prompt": "What weakness of the form does the professor mention?",
+    "options": [
+     "Authors could not describe any dramatic events at all",
+     "Letters make the stories too long for most readers",
+     "Readers cannot always tell which character is writing",
+     "Characters sometimes write at unrealistic moments"
+    ],
+    "answer": 3,
+    "explanation": "She says heroines write long letters when they would not realistically have time."
+   },
+   {
+    "prompt": "Why does the professor mention novels told through text messages?",
+    "options": [
+     "To explain why the epistolary form eventually died out",
+     "To contrast modern novels with older and better ones",
+     "To show that the form continues in a modern version",
+     "To suggest that students write stories of their own"
+    ],
+    "answer": 2,
+    "explanation": "She calls them the same basic idea with new technology."
+   }
+  ]
+ },
+ {
+  "id": "at3-08",
+  "difficulty": "advanced",
+  "course": "computer science",
+  "intro": "Listen to a talk in a computer science class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Okay, so far we've stored data in lists, and you've probably noticed the problem. To find one item in a list of a million entries, you might have to check every single one. Today's structure, the hash table, avoids that. Here's the idea. Instead of searching, we compute where an item should live. A hash function takes a key, say a student's name, and turns it into a number. We use that number as an index into an array, and we store the record right there. Later, when we want that record back, we just run the same function on the name and jump straight to the slot. No searching required. Now, there's a catch, and it's an unavoidable one. Because there are far more possible names than there are slots in the array, two different keys will sometimes produce the same index. We call that a collision. One common fix is chaining: each slot holds a small list, and colliding items simply share it. As long as the hash function spreads keys evenly, those lists stay short, and lookups remain very fast on average. But what happens if the function is poorly designed and sends most keys to the same few slots? Then you're right back where you started, searching through long lists one item at a time.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "How programmers sort student names into alphabetical order",
+     "Why arrays require more memory than other data structures",
+     "How a data structure finds items by computing their location",
+     "Why lists are the most efficient way to store large records"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains how hash tables compute where to store and find records."
+   },
+   {
+    "prompt": "What is a collision?",
+    "options": [
+     "Two identical keys are stored in two slots",
+     "Two different keys produce the same index",
+     "A hash function fails to return a number",
+     "An array runs out of empty slots entirely"
+    ],
+    "answer": 1,
+    "explanation": "The professor defines a collision as two different keys producing the same index."
+   },
+   {
+    "prompt": "How does chaining deal with collisions?",
+    "options": [
+     "Items with the same index are kept in a shared list",
+     "The hash function is changed for each new key added",
+     "The second item is moved into a larger array instead",
+     "The older item is deleted to make room for the new one"
+    ],
+    "answer": 0,
+    "explanation": "With chaining, each slot holds a small list that colliding items share."
+   },
+   {
+    "prompt": "What does the professor imply about a poorly designed hash function?",
+    "options": [
+     "It can make lookups as slow as searching a list",
+     "It requires the array to be sorted beforehand",
+     "It will cause the whole program to stop running",
+     "It prevents any collisions from ever occurring"
+    ],
+    "answer": 0,
+    "explanation": "If most keys go to a few slots, you must search long lists one item at a time."
+   }
+  ]
+ },
+ {
+  "id": "at3-09",
+  "difficulty": "intermediate",
+  "course": "civil engineering",
+  "intro": "Listen to a talk in a civil engineering class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So, last week we looked at how tall buildings resist wind. Today I want to show you one of the more surprising solutions engineers use: the tuned mass damper. Picture a skyscraper on a windy day. Every structure has a natural frequency, a rhythm at which it tends to sway. If the wind pushes at the right rhythm, the swaying builds up, and people on the upper floors may actually feel a bit seasick. The building is perfectly safe, but it's uncomfortable. So here's the clever part. Engineers mount a very heavy mass near the top of the building, sometimes hundreds of tons of steel or concrete, and they tune it to the same frequency as the building. When the building leans one way, the mass lags behind and moves the opposite way, pulling against the motion. Energy is transferred from the building into the mass, and dampers attached to it turn that energy into heat. The result is that swaying can be cut dramatically. Some towers even put their damper on display, painted in bright colors, so visitors can watch it work. Now, why not just make the building stiffer instead? Well, you can, but adding stiffness to a very tall tower is often far more expensive than adding one well-placed mass.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The reasons skyscrapers are built of steel and concrete",
+     "Why some people feel unwell inside tall buildings",
+     "A device that reduces the swaying of tall buildings",
+     "How engineers measure wind speeds at great heights"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains how a tuned mass damper reduces building sway."
+   },
+   {
+    "prompt": "According to the professor, how does the mass reduce swaying?",
+    "options": [
+     "It anchors the top of the building firmly to the ground",
+     "It moves opposite to the building and resists the motion",
+     "It makes the building's whole frame much stiffer overall",
+     "It blocks the wind from reaching the upper floors directly"
+    ],
+    "answer": 1,
+    "explanation": "The mass lags behind and moves the opposite way, pulling against the motion."
+   },
+   {
+    "prompt": "What happens to the energy transferred into the mass?",
+    "options": [
+     "It is sent back into the ground",
+     "It is stored in large batteries",
+     "It powers the lights on top floors",
+     "Dampers convert it into heat"
+    ],
+    "answer": 3,
+    "explanation": "The professor says dampers turn that energy into heat."
+   },
+   {
+    "prompt": "Why does the professor ask why engineers do not simply make buildings stiffer?",
+    "options": [
+     "To admit that dampers are rarely used in practice",
+     "To check whether students did the assigned reading",
+     "To introduce a cost advantage of using a damper",
+     "To suggest that stiffer buildings are less safe"
+    ],
+    "answer": 2,
+    "explanation": "She answers that stiffening a tall tower is often far more expensive than adding a mass."
+   }
+  ]
+ },
+ {
+  "id": "at3-10",
+  "difficulty": "advanced",
+  "course": "philosophy",
+  "intro": "Listen to a talk in a philosophy class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Let's begin with a puzzle that philosophers have argued about for over two thousand years. Imagine a wooden ship kept in a harbor as a monument. Over the years, as planks rot, they're replaced one at a time with new ones, until eventually not a single original plank remains. Is it still the same ship? Most people's instinct is yes. The change happened gradually, and the ship kept its shape, its name, and its function the whole time. Now, here's where it gets tricky. Suppose someone collected all the discarded old planks and reassembled them, exactly as before. Now we have two ships. Which one is the original? The one made of the original material, or the one that was continuously maintained in the harbor? Philosophers have offered different answers. Some say identity depends on continuity, on an unbroken history. Others say it depends on material composition. And some argue that the question doesn't have a deep answer at all, that same ship is just a label we apply for practical purposes, and the puzzle shows us where that label stops being useful. Why should we care? Because the same question applies to us. The cells in your body are constantly being replaced. So what exactly makes you the same person you were ten years ago?",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "How the human body gradually replaces its cells over time",
+     "The reasons that old monuments should be carefully preserved",
+     "The history of shipbuilding methods in the ancient world",
+     "A puzzle about what makes an object stay the same over time"
+    ],
+    "answer": 3,
+    "explanation": "The professor presents the ship puzzle about identity through change."
+   },
+   {
+    "prompt": "What complication does the professor add to the original puzzle?",
+    "options": [
+     "The new planks are made of a different material",
+     "The old planks are reassembled into a second ship",
+     "The ship is given a new name and a new purpose",
+     "The ship is moved to a different harbor for repairs"
+    ],
+    "answer": 1,
+    "explanation": "Someone rebuilds a ship from the discarded planks, producing two candidates."
+   },
+   {
+    "prompt": "According to the professor, what do some philosophers say about the phrase \"same ship\"?",
+    "options": [
+     "It refers only to the ship's original material",
+     "It means something different in every language",
+     "It is a practical label rather than a deep fact",
+     "It should be replaced by a more scientific term"
+    ],
+    "answer": 2,
+    "explanation": "Some argue it is just a label applied for practical purposes."
+   },
+   {
+    "prompt": "Why does the professor mention cells in the body?",
+    "options": [
+     "To introduce a scientific solution to the ancient puzzle",
+     "To argue that people change more quickly than objects do",
+     "To show that the puzzle also applies to personal identity",
+     "To explain why wooden planks eventually rot and break"
+    ],
+    "answer": 2,
+    "explanation": "He asks what makes you the same person despite your cells being replaced."
+   }
+  ]
+ },
+ {
+  "id": "at3-11",
+  "difficulty": "intermediate",
+  "course": "medieval history",
+  "intro": "Listen to a talk in a medieval history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Today we're turning to the craft guilds of medieval European towns. If you were a baker, a weaver, or a shoemaker in, say, the thirteenth century, chances are you belonged to one. So what exactly was a guild? Basically, it was an association of people practicing the same trade in the same town. And it controlled a lot. Guilds set standards for quality, fixed prices, and decided who was allowed to work in the trade at all. Here's how someone got in. A boy, and occasionally a girl, would start as an apprentice, living with a master and learning the craft for several years, often without pay. Next came the journeyman stage. The word comes from the French journée, meaning a day, because journeymen were paid by the day. Finally, to become a master, a journeyman might have to produce a masterpiece, an example of his work judged by the guild. That's where our modern word comes from. Now, were guilds good or bad for the economy? Historians disagree. On one hand, they protected buyers from poor-quality goods and supported members who fell ill. On the other, they limited competition and sometimes kept talented outsiders from working at all. We'll read two articles that take opposite sides.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Daily life for children in medieval European towns",
+     "The structure and role of medieval trade associations",
+     "The reasons medieval prices rose so very quickly",
+     "The origins of several modern words from French"
+    ],
+    "answer": 1,
+    "explanation": "The professor describes what guilds were, how members advanced, and their effects."
+   },
+   {
+    "prompt": "According to the professor, why were journeymen given that name?",
+    "options": [
+     "They were paid for each day of work",
+     "They traveled between towns to find jobs",
+     "They worked only during daylight hours",
+     "They made a long journey to qualify"
+    ],
+    "answer": 0,
+    "explanation": "The word comes from the French for a day because they were paid daily."
+   },
+   {
+    "prompt": "What did a journeyman sometimes have to do to become a master?",
+    "options": [
+     "Move to a town that had no other masters yet",
+     "Pay a large fee to the leaders of the town",
+     "Produce a piece of work to be judged by the guild",
+     "Train several apprentices for a number of years"
+    ],
+    "answer": 2,
+    "explanation": "He might have to produce a masterpiece judged by the guild."
+   },
+   {
+    "prompt": "What can be inferred about historians' views of guilds?",
+    "options": [
+     "They believe guilds had little real economic power",
+     "They see both benefits and costs in the guild system",
+     "They think guilds disappeared within a few decades",
+     "They agree that guilds mainly harmed ordinary buyers"
+    ],
+    "answer": 1,
+    "explanation": "The professor lists advantages and disadvantages and says historians disagree."
+   }
+  ]
+ },
+ {
+  "id": "at3-12",
+  "difficulty": "advanced",
+  "course": "materials engineering",
+  "intro": "Listen to a talk in a materials engineering class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Here's a question that puzzled engineers in the nineteenth century. Railway axles that were strong enough to carry far more than their usual load would suddenly crack after years of perfectly normal service. Nothing had overloaded them. So what was going on? The answer is something we now call metal fatigue. When a metal part is loaded and unloaded over and over, like an axle that bends slightly with every turn of the wheel, tiny cracks can form, usually at a point where stress is concentrated, such as a sharp corner, a scratch, or a hole. Each cycle opens the crack a little further. Individually, the growth is microscopic. But after millions of cycles, the remaining metal becomes too thin to hold the load, and the part fails suddenly, even though no single load ever exceeded its strength. A German engineer, August Wöhler, ran careful tests in the 1860s and found that for many steels, there's a stress level below which a part can survive an essentially unlimited number of cycles. That insight has shaped design ever since. So what do engineers do about fatigue? They round off sharp corners, polish surfaces, and inspect critical parts regularly to catch cracks while they're still small. Notice that none of these steps make the metal any stronger. They just give cracks fewer places to start.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why steel replaced iron on nineteenth-century railways",
+     "Why metal parts can fail under repeated ordinary loads",
+     "How engineers test the hardness of different metals",
+     "How railway axles were redesigned to carry more weight"
+    ],
+    "answer": 1,
+    "explanation": "The professor explains metal fatigue and how engineers limit it."
+   },
+   {
+    "prompt": "According to the professor, where do fatigue cracks usually begin?",
+    "options": [
+     "At places where the metal was heated",
+     "At the center of the thickest section",
+     "At joints between two different metals",
+     "At points where stress is concentrated"
+    ],
+    "answer": 3,
+    "explanation": "Cracks form where stress is concentrated, such as corners, scratches, or holes."
+   },
+   {
+    "prompt": "What did Wöhler's tests show?",
+    "options": [
+     "Cracks grow fastest during the first few cycles of loading",
+     "Polished steel is much stronger than steel with rough surfaces",
+     "Below a certain stress, many steels survive almost unlimited cycles",
+     "Any steel will eventually crack if it is loaded enough times"
+    ],
+    "answer": 2,
+    "explanation": "He found a stress level below which many steels endure essentially unlimited cycles."
+   },
+   {
+    "prompt": "What does the professor imply about rounding corners and polishing surfaces?",
+    "options": [
+     "They reduce failures without increasing the metal's strength",
+     "They make regular inspections of parts no longer necessary",
+     "They are less effective than simply using thicker parts",
+     "They mainly improve the appearance of finished parts"
+    ],
+    "answer": 0,
+    "explanation": "She notes these steps do not make the metal stronger but give cracks fewer places to start."
+   }
+  ]
+ }
+]

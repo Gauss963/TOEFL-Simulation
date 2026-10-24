@@ -1,0 +1,732 @@
+[
+ {
+  "id": "dl1-01",
+  "difficulty": "intermediate",
+  "text_type": "notice",
+  "title": "Laundry Room Closed",
+  "text": "NOTICE: Hall B Laundry Room\nThe laundry room will be closed Tuesday, March 4, from 8 AM to 4 PM while new dryers are installed.\nResidents may use the machines in Hall D during this time.\nPlease remove all clothing from the machines by Monday night. Items left behind will be placed in the lost-and-found bin.",
+  "questions": [
+   {
+    "prompt": "Why will the laundry room be closed?",
+    "options": [
+     "The machines are being cleaned.",
+     "The building will lose power.",
+     "New equipment is being put in.",
+     "Staff will sort lost items."
+    ],
+    "answer": 2,
+    "explanation": "The notice says the room will close while new dryers are installed."
+   },
+   {
+    "prompt": "What should residents do by Monday night?",
+    "options": [
+     "Take their clothes out of the machines",
+     "Sign up for a time slot in Hall D",
+     "Report any dryers that are broken",
+     "Check the lost-and-found bin"
+    ],
+    "answer": 0,
+    "explanation": "Residents are asked to remove all clothing from the machines by Monday night."
+   }
+  ]
+ },
+ {
+  "id": "dl1-02",
+  "difficulty": "advanced",
+  "text_type": "notice",
+  "title": "Garden Plot Renewal",
+  "text": "Riverside Community Garden: Plot Renewal Notice\n\nCurrent gardeners who wish to keep their plots for the coming season must submit a renewal form by February 15. Forms are available in the toolshed or on the garden's website.\n\nPlease note that plots showing little activity last season (for example, beds left unweeded for more than three weeks) will not be eligible for automatic renewal. Those gardeners will be placed on the general waiting list instead.\n\nThe annual fee remains $30, but members who volunteer at least six hours during the spring cleanup will receive a $10 reduction. Fees are due at the first members' meeting in March.\n\nQuestions may be directed to the garden coordinator at the toolshed on Saturday mornings.",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the notice?",
+    "options": [
+     "To announce an increase in the yearly fee",
+     "To explain how gardeners can keep their plots",
+     "To recruit new members from the waiting list",
+     "To describe the schedule for spring cleanup"
+    ],
+    "answer": 1,
+    "explanation": "The notice mainly explains the renewal form, eligibility rules, and fees for keeping a plot."
+   },
+   {
+    "prompt": "What can be inferred about a gardener who neglected a plot last season?",
+    "options": [
+     "The gardener will have to pay a higher fee.",
+     "The gardener must volunteer for six hours.",
+     "The gardener cannot attend the March meeting.",
+     "The gardener may have to wait to get a plot."
+    ],
+    "answer": 3,
+    "explanation": "Inactive plots are not renewed automatically, and those gardeners go on the general waiting list."
+   },
+   {
+    "prompt": "The word \"eligible\" in the notice is closest in meaning to",
+    "options": [
+     "scheduled",
+     "responsible",
+     "qualified",
+     "available"
+    ],
+    "answer": 2,
+    "explanation": "Plots that are not \"eligible\" for renewal do not qualify for it."
+   }
+  ]
+ },
+ {
+  "id": "dl1-03",
+  "difficulty": "intermediate",
+  "text_type": "menu",
+  "title": "Maple Hall Café Breakfast",
+  "text": "Maple Hall Café\nBreakfast (served 7:00–10:30 AM)\n\nOatmeal with fruit ........ $3.50\nEgg and cheese sandwich ........ $4.75\nYogurt parfait ........ $4.00\nBreakfast burrito ........ $5.50\nCoffee or tea ........ $1.75\n\nAdd a coffee to any sandwich or burrito for just $1.00.\nStudents with a meal card receive 10% off all items.",
+  "questions": [
+   {
+    "prompt": "How much would a customer without a meal card pay for an egg and cheese sandwich with coffee?",
+    "options": [
+     "$6.50",
+     "$5.50",
+     "$4.75",
+     "$5.75"
+    ],
+    "answer": 3,
+    "explanation": "The sandwich costs $4.75, and adding coffee to a sandwich costs only $1.00, for a total of $5.75."
+   },
+   {
+    "prompt": "What is true about breakfast at the café?",
+    "options": [
+     "It is not served after 10:30 AM.",
+     "Coffee is free with any burrito.",
+     "Meal card holders get free tea.",
+     "Oatmeal is the most expensive item."
+    ],
+    "answer": 0,
+    "explanation": "The menu states that breakfast is served from 7:00 to 10:30 AM."
+   }
+  ]
+ },
+ {
+  "id": "dl1-04",
+  "difficulty": "advanced",
+  "text_type": "menu",
+  "title": "Reception Catering Packages",
+  "text": "Lakeside Catering: Reception Packages\nPrices are per guest. Minimum order: 20 guests.\n\nPackage A, Light Bites ........ $9\nSeasonal fruit, cheese and crackers, sparkling water\n\nPackage B, Afternoon Tea ........ $13\nAssorted finger sandwiches, scones, hot tea and coffee\n\nPackage C, Full Reception ........ $18\nWarm appetizers, vegetable platter, dessert tray, choice of two beverages\n\nAll packages can be adapted for vegetarian or gluten-free guests at no extra charge if requested 72 hours in advance. Orders placed less than 72 hours ahead may be subject to a 15% rush fee. Delivery is free on campus; setup and cleanup service is available for an additional $40.",
+  "questions": [
+   {
+    "prompt": "Which item is included only in Package C?",
+    "options": [
+     "Cheese and crackers",
+     "Finger sandwiches",
+     "Warm appetizers",
+     "Sparkling water"
+    ],
+    "answer": 2,
+    "explanation": "Warm appetizers appear only in the Full Reception package."
+   },
+   {
+    "prompt": "A department orders Package A for 25 guests two days before its event. What will most likely happen?",
+    "options": [
+     "It may be charged an additional fee.",
+     "Its order will be refused as too small.",
+     "It will have to pay for delivery.",
+     "It will receive free setup service."
+    ],
+    "answer": 0,
+    "explanation": "Two days is less than 72 hours, so the order may be subject to the 15% rush fee."
+   },
+   {
+    "prompt": "The word \"adapted\" in the menu is closest in meaning to",
+    "options": [
+     "delivered",
+     "reserved",
+     "combined",
+     "modified"
+    ],
+    "answer": 3,
+    "explanation": "Packages can be \"adapted,\" or modified, to suit vegetarian or gluten-free guests."
+   }
+  ]
+ },
+ {
+  "id": "dl1-05",
+  "difficulty": "intermediate",
+  "text_type": "web_page",
+  "title": "Museum Pass Program",
+  "text": "Oakdale Public Library > Services > Museum Passes\n\nMuseum Pass Program\nCardholders can borrow free passes to six local museums, including the Science Discovery Center and the Oakdale Art Gallery. Each pass admits up to four people.\n\nHow it works:\n• Reserve a pass online up to 30 days in advance.\n• Pick up your pass at the front desk on the day before or the day of your visit.\n• Return the pass within two days. A $5 late fee is charged for each day it is overdue.\n\nPasses cannot be renewed, and each card may reserve only one pass per month.",
+  "questions": [
+   {
+    "prompt": "What is the purpose of this web page?",
+    "options": [
+     "To advertise new exhibits at several local museums",
+     "To announce changes to the cost of library cards",
+     "To explain how library members can visit museums for free",
+     "To invite residents to volunteer at a local museum"
+    ],
+    "answer": 2,
+    "explanation": "The page describes how cardholders can borrow free museum passes."
+   },
+   {
+    "prompt": "According to the page, when can a pass be picked up?",
+    "options": [
+     "Up to 30 days before the planned visit",
+     "On the day before or the day of the visit",
+     "At any time during the month of the visit",
+     "Only after a librarian confirms by phone"
+    ],
+    "answer": 1,
+    "explanation": "The page says to pick up the pass the day before or the day of the visit."
+   },
+   {
+    "prompt": "A family of six wants to visit the Science Discovery Center together. What can be inferred?",
+    "options": [
+     "One pass will not admit the whole family.",
+     "The family must pay a $5 fee at the museum.",
+     "The family must reserve two months ahead.",
+     "The family can renew the pass for a later visit."
+    ],
+    "answer": 0,
+    "explanation": "Each pass admits only up to four people, so it cannot cover a family of six."
+   }
+  ]
+ },
+ {
+  "id": "dl1-06",
+  "difficulty": "advanced",
+  "text_type": "web_page",
+  "title": "Campus Bike Share FAQ",
+  "text": "Northfield University Transportation > Bike Share > FAQ\n\nHow much does it cost?\nRides of up to 45 minutes are included with a semester membership ($25). Each additional 15 minutes costs $1.\n\nWhere can I leave a bike?\nBikes must be returned to one of the 14 docking stations on campus. Bikes left elsewhere will be collected by staff, and the rider will be charged a $20 retrieval fee.\n\nWhat if a bike is damaged?\nUse the repair button on the dock to flag the bike before you ride, or report problems in the app. Riders are not held responsible for damage that was reported before their trip began.\n\nCan visitors use the system?\nGuests may purchase a day pass at any station kiosk.",
+  "questions": [
+   {
+    "prompt": "What happens if a rider leaves a bike away from a docking station?",
+    "options": [
+     "The rider's membership is canceled.",
+     "The rider is charged for its collection.",
+     "The rider must report it in the app.",
+     "The rider receives a written warning."
+    ],
+    "answer": 1,
+    "explanation": "Bikes left elsewhere are collected by staff, and the rider pays a $20 retrieval fee."
+   },
+   {
+    "prompt": "Why would a rider press the repair button before riding a damaged bike?",
+    "options": [
+     "To avoid being blamed for the damage",
+     "To unlock a different bike at no cost",
+     "To receive extra free riding time",
+     "To have the bike fixed immediately"
+    ],
+    "answer": 0,
+    "explanation": "Riders are not held responsible for damage reported before their trip began."
+   },
+   {
+    "prompt": "A member takes a 75-minute ride. How much extra will the member pay?",
+    "options": [
+     "$1",
+     "$3",
+     "$2",
+     "$5"
+    ],
+    "answer": 2,
+    "explanation": "The first 45 minutes are included, and the remaining 30 minutes cost $1 per 15 minutes, or $2."
+   }
+  ]
+ },
+ {
+  "id": "dl1-07",
+  "difficulty": "intermediate",
+  "text_type": "social_media_post",
+  "title": "Readers' Club Book Sale",
+  "text": "Campus Readers' Club\nOur spring used book sale is this Friday, 10 AM–3 PM, in the Student Union lobby. Paperbacks are $1 and hardcovers are $3. All money raised will buy books for the children's reading program at Elm Street Elementary. Have books to donate? Drop them off at the Union front desk by Thursday!",
+  "questions": [
+   {
+    "prompt": "Why is the club holding the sale?",
+    "options": [
+     "To make more space in the Student Union",
+     "To pay for the club's trip in the spring",
+     "To buy new books for the club's members",
+     "To raise money for a children's reading program"
+    ],
+    "answer": 3,
+    "explanation": "The post says all money raised will buy books for an elementary school reading program."
+   },
+   {
+    "prompt": "What can people do before Friday?",
+    "options": [
+     "Reserve hardcovers at a lower price",
+     "Leave books they want to give away",
+     "Sign up to read to young children",
+     "Buy paperbacks at the front desk"
+    ],
+    "answer": 1,
+    "explanation": "Donated books can be dropped off at the Union front desk by Thursday."
+   }
+  ]
+ },
+ {
+  "id": "dl1-08",
+  "difficulty": "advanced",
+  "text_type": "social_media_post",
+  "title": "Valley Trail Walkers Update",
+  "text": "Valley Trail Walkers · Posted 2 hours ago\n\nChange of plans for Sunday! The park service has temporarily closed the upper section of Cedar Ridge Trail after last week's heavy rain washed out part of the path. Rather than cancel, we'll hike the lower loop instead. It's shorter (about 4 miles round trip) and much flatter, so this is a great chance for newer members to join us.\n\nWe'll still meet at the north parking lot at 8 AM, but carpools will leave 30 minutes later than originally planned since the drive is shorter. Expect muddy conditions; waterproof boots are strongly recommended.\n\nComment below if you're coming so we know how many to expect!",
+  "questions": [
+   {
+    "prompt": "What is the main purpose of the post?",
+    "options": [
+     "To report damage caused by a recent storm",
+     "To recruit members for a trail cleanup",
+     "To recommend equipment for winter hiking",
+     "To announce a change to a planned hike"
+    ],
+    "answer": 3,
+    "explanation": "The post explains that the group will hike a different trail because part of the original one is closed."
+   },
+   {
+    "prompt": "What does the post suggest about the original route?",
+    "options": [
+     "It started from a different parking lot.",
+     "It was more challenging than the new one.",
+     "It was designed mainly for new members.",
+     "It had already been canceled once before."
+    ],
+    "answer": 1,
+    "explanation": "The new loop is described as shorter and much flatter, implying the original hike was harder."
+   },
+   {
+    "prompt": "The word \"originally\" in the post is closest in meaning to",
+    "options": [
+     "officially",
+     "usually",
+     "at first",
+     "eventually"
+    ],
+    "answer": 2,
+    "explanation": "The carpools will leave later than first planned."
+   }
+  ]
+ },
+ {
+  "id": "dl1-09",
+  "difficulty": "intermediate",
+  "text_type": "schedule",
+  "title": "Green Line Shuttle Schedule",
+  "text": "Green Line Shuttle: Weekday Schedule\n\nLibrary ........ 7:30 | 8:00 | 8:30 | 9:00\nScience Hall ........ 7:38 | 8:08 | 8:38 | 9:08\nStadium Lot ........ 7:45 | 8:15 | 8:45 | 9:15\nMedical Center ........ 7:55 | 8:25 | 8:55 | 9:25\n\nAfter 9 AM, buses leave the Library every 30 minutes until 6 PM. No weekend service.",
+  "questions": [
+   {
+    "prompt": "A student must reach the Medical Center by 8:30 AM. What is the latest bus she can take from Science Hall?",
+    "options": [
+     "8:08",
+     "7:38",
+     "8:38",
+     "8:15"
+    ],
+    "answer": 0,
+    "explanation": "The 8:08 bus from Science Hall arrives at the Medical Center at 8:25."
+   },
+   {
+    "prompt": "What is true about the shuttle?",
+    "options": [
+     "It does not run on Saturdays.",
+     "It runs every 15 minutes after 9 AM.",
+     "It stops at the Library last.",
+     "Its final bus leaves at 9:25 AM."
+    ],
+    "answer": 0,
+    "explanation": "The schedule states that there is no weekend service."
+   }
+  ]
+ },
+ {
+  "id": "dl1-10",
+  "difficulty": "advanced",
+  "text_type": "schedule",
+  "title": "Orientation Day 1",
+  "text": "International Student Orientation, Day 1 (Monday)\n\n8:30 Check-in and breakfast, Hartley Hall lobby\n9:00 Welcome session, Hartley Auditorium\n10:30 Document review (bring your passport and admission letter), Rooms 101–104\n11:30 Lunch with peer mentors, Dining Commons\n12:45 Campus walking tour (groups leave from the Dining Commons entrance)\n2:15 Banking and phone plan information fair, Student Center\n3:30 Optional: course registration help, Computer Lab B\n\nNote: Students whose flights arrive on Monday may skip the walking tour, but the document review is required for all students. Anyone who misses it must schedule an individual appointment by Wednesday.",
+  "questions": [
+   {
+    "prompt": "Which activity is described as optional for all students?",
+    "options": [
+     "The document review",
+     "The welcome session",
+     "Course registration help",
+     "The information fair"
+    ],
+    "answer": 2,
+    "explanation": "Only the 3:30 course registration help session is labeled optional."
+   },
+   {
+    "prompt": "A student's flight lands on Monday at noon. What must she do?",
+    "options": [
+     "Join the walking tour at the Dining Commons",
+     "Arrange a document review appointment by Wednesday",
+     "Attend the welcome session the next morning",
+     "Bring her passport to the information fair"
+    ],
+    "answer": 1,
+    "explanation": "She will miss the required 10:30 document review, so she must schedule an individual appointment by Wednesday."
+   },
+   {
+    "prompt": "Where does the campus walking tour begin?",
+    "options": [
+     "At the Dining Commons entrance",
+     "In the Hartley Hall lobby",
+     "Outside the Student Center",
+     "Next to Computer Lab B"
+    ],
+    "answer": 0,
+    "explanation": "The schedule says tour groups leave from the Dining Commons entrance."
+   }
+  ]
+ },
+ {
+  "id": "dl1-11",
+  "difficulty": "intermediate",
+  "text_type": "email",
+  "title": "Office Hours Moved",
+  "text": "To: Students in BIO 210\nFrom: Dr. Laura Kim\nSubject: Office hours moved this week\n\nHi everyone,\n\nBecause I'll be attending a conference on Thursday, my usual Thursday office hours (2:00–4:00 PM) are canceled this week. Instead, I'll hold extra office hours on Wednesday from 1:00 to 3:00 PM in Room 318 of Carver Hall.\n\nIf you can't make it on Wednesday, you can email me your questions about the lab report, and I'll respond by Friday morning. The lab report deadline has not changed; it is still due next Monday.\n\nBest,\nDr. Kim",
+  "questions": [
+   {
+    "prompt": "Why did Dr. Kim write the email?",
+    "options": [
+     "To extend the deadline for the class lab report",
+     "To invite students to attend a conference with her",
+     "To tell students about a change in her availability",
+     "To announce a new classroom for the biology course"
+    ],
+    "answer": 2,
+    "explanation": "She explains that her Thursday office hours are canceled and replaced with Wednesday hours."
+   },
+   {
+    "prompt": "What can students who are busy on Wednesday do?",
+    "options": [
+     "Meet her on Thursday afternoon",
+     "Submit the lab report on Friday",
+     "Visit Room 318 next Monday",
+     "Send her their questions by email"
+    ],
+    "answer": 3,
+    "explanation": "She says students who cannot come Wednesday may email their questions."
+   },
+   {
+    "prompt": "What is implied about Dr. Kim's usual schedule?",
+    "options": [
+     "She normally meets students on Thursday afternoons.",
+     "She normally teaches in Room 318 on Wednesdays.",
+     "She usually answers emails only on Friday mornings.",
+     "She regularly attends conferences on Thursdays."
+    ],
+    "answer": 0,
+    "explanation": "She refers to her usual Thursday office hours from 2:00 to 4:00 PM."
+   }
+  ]
+ },
+ {
+  "id": "dl1-12",
+  "difficulty": "advanced",
+  "text_type": "email",
+  "title": "Window Replacement Notice",
+  "text": "To: All Residents, Birchwood Apartments\nFrom: Dana Reyes, Property Manager\nSubject: Window replacement, access needed\n\nDear Residents,\n\nAs part of our energy-efficiency upgrade, contractors will replace the windows in every unit between October 6 and October 17. A notice will be taped to your door at least 48 hours before work begins in your apartment. Each unit should take about three hours.\n\nPlease clear a path at least three feet wide to each window and remove fragile items from nearby shelves. You do not need to be home; a staff member will accompany the workers at all times.\n\nIf the assigned date poses a serious conflict, for instance because of a medical need, contact the office and we will do our best to accommodate you.\n\nThank you for your cooperation,\nDana Reyes",
+  "questions": [
+   {
+    "prompt": "How will residents learn when work will be done in their unit?",
+    "options": [
+     "The office will call each resident.",
+     "The contractors will send an email.",
+     "A notice will be posted on their door.",
+     "A schedule will be posted in the lobby."
+    ],
+    "answer": 2,
+    "explanation": "The email says a notice will be taped to each door at least 48 hours before work begins."
+   },
+   {
+    "prompt": "What does the email suggest about residents who will be at work on their assigned day?",
+    "options": [
+     "They must give a key to the contractors.",
+     "They do not need to change their plans.",
+     "They should request a different date.",
+     "They will be charged a service fee."
+    ],
+    "answer": 1,
+    "explanation": "Residents do not need to be home because a staff member will accompany the workers."
+   },
+   {
+    "prompt": "The word \"accommodate\" in the email is closest in meaning to",
+    "options": [
+     "provide housing for",
+     "meet the needs of",
+     "send a notice to",
+     "make a payment to"
+    ],
+    "answer": 1,
+    "explanation": "The office will try to meet the needs of residents who have a serious conflict."
+   }
+  ]
+ },
+ {
+  "id": "dl1-13",
+  "difficulty": "intermediate",
+  "text_type": "text_messages",
+  "title": "Package at the Door",
+  "text": "Jordan (4:05 PM): Are you home? The driver says my package is at our door.\nSam (4:07 PM): No, still at the library until 7.\nJordan (4:08 PM): Ugh. It's my new laptop charger and I need it tonight.\nSam (4:10 PM): Ask Mrs. Patel next door? She often holds packages for people.\nJordan (4:11 PM): Good idea, I'll text her now.",
+  "questions": [
+   {
+    "prompt": "Why does Jordan text Sam?",
+    "options": [
+     "To ask Sam to buy a new laptop charger",
+     "To tell Sam about a problem at the library",
+     "To find out if someone can collect a delivery",
+     "To suggest that they both visit Mrs. Patel"
+    ],
+    "answer": 2,
+    "explanation": "Jordan asks if Sam is home because a package has been left at their door."
+   },
+   {
+    "prompt": "What will Jordan most likely do next?",
+    "options": [
+     "Go to the library",
+     "Contact a neighbor",
+     "Wait for Sam until 7",
+     "Order another charger"
+    ],
+    "answer": 1,
+    "explanation": "Jordan says he will text Mrs. Patel, who lives next door."
+   }
+  ]
+ },
+ {
+  "id": "dl1-14",
+  "difficulty": "advanced",
+  "text_type": "text_messages",
+  "title": "Covering a Shift",
+  "text": "Priya (9:12 AM): Hi Marco, any chance you could cover my Saturday shift at the front desk? My sister's graduation got moved up a week.\nMarco (9:20 AM): Saturday morning or evening?\nPriya (9:21 AM): Morning, 8 to 1.\nMarco (9:25 AM): I've got a dentist appointment at 11, so I couldn't do the whole thing. I could take 8 to 10:30, though.\nPriya (9:27 AM): That would help a lot. Maybe Lena could do the rest. I'll ask her.\nMarco (9:28 AM): Sounds good. Just make sure you update the shift sheet so Ms. Carter knows who's in.\nPriya (9:30 AM): Will do. Thanks so much. I owe you one!",
+  "questions": [
+   {
+    "prompt": "Why does Priya contact Marco?",
+    "options": [
+     "To invite him to a graduation",
+     "To ask him to work in her place",
+     "To reschedule his appointment",
+     "To ask about Ms. Carter's plans"
+    ],
+    "answer": 1,
+    "explanation": "Priya asks Marco to cover her Saturday shift because of a family event."
+   },
+   {
+    "prompt": "What is implied about Priya's Saturday shift?",
+    "options": [
+     "Marco has agreed to work the entire shift for her.",
+     "Lena has already offered to take the afternoon hours.",
+     "It has been moved from the morning to the evening.",
+     "More than one coworker will probably be needed to cover it."
+    ],
+    "answer": 3,
+    "explanation": "Marco can work only until 10:30, so Priya plans to ask Lena to cover the rest."
+   },
+   {
+    "prompt": "What does Priya mean when she writes \"I owe you one\"?",
+    "options": [
+     "She needs one more person to help her.",
+     "She forgot to pay back money she borrowed.",
+     "She has one more shift left to cover.",
+     "She will return the favor in the future."
+    ],
+    "answer": 3,
+    "explanation": "\"I owe you one\" is an expression of gratitude meaning the speaker will repay the favor."
+   }
+  ]
+ },
+ {
+  "id": "dl1-15",
+  "difficulty": "advanced",
+  "text_type": "notice",
+  "title": "West Garage Closure",
+  "text": "ATTENTION PERMIT HOLDERS\nLevels 3 and 4 of the West Garage will be closed May 12–16 for resurfacing. During this period, permit holders may park in the overflow area of Lot K at no additional cost. Vehicles remaining on Levels 3 and 4 after 6 AM on May 12 will be towed at the owner's expense.",
+  "questions": [
+   {
+    "prompt": "What will permit holders be allowed to do during the closure?",
+    "options": [
+     "Park on Levels 3 and 4 after 6 AM",
+     "Get a refund for their May permits",
+     "Park in Lot K without paying extra",
+     "Use the garage only on weekends"
+    ],
+    "answer": 2,
+    "explanation": "The notice says permit holders may use the Lot K overflow area at no additional cost."
+   },
+   {
+    "prompt": "What is implied about drivers who leave their cars on Levels 3 or 4 on May 12?",
+    "options": [
+     "They will lose their parking permits for May.",
+     "They will be moved to the overflow area free.",
+     "They will receive a warning from the city.",
+     "They will have to pay to get their cars back."
+    ],
+    "answer": 3,
+    "explanation": "Cars left there will be towed at the owner's expense, so owners must pay to recover them."
+   }
+  ]
+ },
+ {
+  "id": "dl1-16",
+  "difficulty": "intermediate",
+  "text_type": "menu",
+  "title": "Rolling Kitchen Food Truck",
+  "text": "The Rolling Kitchen: Today's Menu\n\nGrilled chicken tacos (2) ........ $7\nBlack bean tacos (2) ........ $6\nRice bowl with vegetables ........ $8\nChips and salsa ........ $3\nLemonade ........ $2\n\nCombo: any taco order + chips + lemonade = $10\nCash and cards accepted. Parked outside the Arts Building until 2 PM.",
+  "questions": [
+   {
+    "prompt": "How much does a customer save by ordering the combo with chicken tacos instead of buying each item separately?",
+    "options": [
+     "$1",
+     "$3",
+     "$4",
+     "$2"
+    ],
+    "answer": 3,
+    "explanation": "Chicken tacos, chips, and lemonade cost $12 separately, while the combo costs $10."
+   },
+   {
+    "prompt": "What is true about the food truck?",
+    "options": [
+     "It will leave its current spot in the afternoon.",
+     "It accepts payment in cash only.",
+     "Its rice bowl is the cheapest item.",
+     "It sells lemonade only with a combo."
+    ],
+    "answer": 0,
+    "explanation": "The menu says the truck is parked outside the Arts Building until 2 PM."
+   }
+  ]
+ },
+ {
+  "id": "dl1-17",
+  "difficulty": "advanced",
+  "text_type": "web_page",
+  "title": "Writing Center Appointments",
+  "text": "Writing Center > Appointments\nSessions last 45 minutes and must be booked at least 24 hours ahead through the online calendar. Please upload a draft and your assignment instructions when booking so your tutor can prepare. Students who miss two appointments without canceling will lose online booking privileges for the rest of the semester but may still use drop-in hours.",
+  "questions": [
+   {
+    "prompt": "What should students upload when they book a session?",
+    "options": [
+     "A list of questions for their tutor",
+     "A note of approval from their instructor",
+     "Their draft and the assignment instructions",
+     "The drop-in hours that suit them best"
+    ],
+    "answer": 2,
+    "explanation": "The page asks students to upload a draft and their assignment instructions."
+   },
+   {
+    "prompt": "What can be inferred about a student who misses two sessions without canceling?",
+    "options": [
+     "The student may no longer visit the center.",
+     "The student must book 48 hours in advance.",
+     "The student can still get help without booking.",
+     "The student's sessions will be made shorter."
+    ],
+    "answer": 2,
+    "explanation": "Such students lose online booking but may still use drop-in hours."
+   }
+  ]
+ },
+ {
+  "id": "dl1-18",
+  "difficulty": "intermediate",
+  "text_type": "social_media_post",
+  "title": "Elm Park Swap Meet",
+  "text": "Elm Park Neighbors Group\nPosted by Rosa M.\n\nHi neighbors! We're organizing a free swap meet this Saturday from 9 AM to noon in the community center parking lot. Bring clean clothes, books, toys, or kitchen items you no longer need, and take home anything you like. No money involved! Please don't bring large furniture or electronics, since we have no way to store or test them.\n\nAnything left at the end will be donated to the local shelter. We could also use a few volunteers to help sort items at 8 AM. Reply to this post if you can help!",
+  "questions": [
+   {
+    "prompt": "What is the purpose of the post?",
+    "options": [
+     "To sell used furniture at the community center",
+     "To collect money for a local shelter",
+     "To announce the opening of a secondhand store",
+     "To invite neighbors to exchange unwanted items"
+    ],
+    "answer": 3,
+    "explanation": "Rosa is organizing a free event where neighbors bring and take items they no longer need."
+   },
+   {
+    "prompt": "Why are electronics not accepted?",
+    "options": [
+     "The organizers cannot test or store them.",
+     "They are too valuable to give away free.",
+     "The local shelter does not accept them.",
+     "They take too long to sort before 9 AM."
+    ],
+    "answer": 0,
+    "explanation": "The post says there is no way to store or test large furniture or electronics."
+   },
+   {
+    "prompt": "What will happen to items that nobody takes?",
+    "options": [
+     "They will be returned to owners.",
+     "They will be given to a shelter.",
+     "They will be sold the next week.",
+     "They will be kept at the center."
+    ],
+    "answer": 1,
+    "explanation": "Anything left at the end will be donated to the local shelter."
+   }
+  ]
+ },
+ {
+  "id": "dl1-19",
+  "difficulty": "advanced",
+  "text_type": "schedule",
+  "title": "Fall Group Fitness",
+  "text": "Group Fitness: Fall\nMon/Wed 6:30 AM Cycling (Studio 2)\nTue/Thu 12:15 PM Yoga Basics (Studio 1)\nMon/Wed 5:30 PM Strength Circuit (Studio 2)\nFri 4 PM Dance Cardio (Studio 1)\nClasses are free for members, but cycling requires sign-up 24 hours ahead because bikes are limited. Studio 1 closes October 20–24 for repairs; its classes move to the Main Gym.",
+  "questions": [
+   {
+    "prompt": "Where will Yoga Basics meet during the week of October 20?",
+    "options": [
+     "In the Main Gym",
+     "In Studio 1",
+     "In Studio 2",
+     "In the lobby"
+    ],
+    "answer": 0,
+    "explanation": "Studio 1 classes, including Yoga Basics, move to the Main Gym while the studio is repaired."
+   },
+   {
+    "prompt": "What can be inferred about the cycling class?",
+    "options": [
+     "Members must pay an extra fee to attend it.",
+     "It moves to the Main Gym for one week in October.",
+     "It meets three mornings each week this fall.",
+     "Members who do not sign up may not get a bike."
+    ],
+    "answer": 3,
+    "explanation": "Sign-up is required because bikes are limited, so a member without a reservation may miss out."
+   }
+  ]
+ },
+ {
+  "id": "dl1-20",
+  "difficulty": "intermediate",
+  "text_type": "email",
+  "title": "Volunteer Shift Confirmation",
+  "text": "To: Ethan Brooks\nFrom: Happy Paws Animal Shelter\nSubject: Your volunteer shift\n\nHi Ethan,\nThanks for signing up! Your shift is Saturday, 10 AM–1 PM, walking dogs. Please arrive 15 minutes early for a short safety briefing, and wear closed-toe shoes.\n\nSee you soon,\nVolunteer Team",
+  "questions": [
+   {
+    "prompt": "Why should Ethan arrive early?",
+    "options": [
+     "To sign a volunteer agreement",
+     "To receive safety instructions",
+     "To choose which dogs to walk",
+     "To meet the shelter's director"
+    ],
+    "answer": 1,
+    "explanation": "The email asks him to come 15 minutes early for a short safety briefing."
+   },
+   {
+    "prompt": "What does the email ask Ethan to do?",
+    "options": [
+     "Bring his own dog leash",
+     "Wear a certain type of footwear",
+     "Reply to confirm his shift",
+     "Change the time of his shift"
+    ],
+    "answer": 1,
+    "explanation": "He is asked to wear closed-toe shoes."
+   }
+  ]
+ }
+]

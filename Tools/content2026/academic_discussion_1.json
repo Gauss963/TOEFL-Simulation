@@ -1,0 +1,602 @@
+[
+ {
+  "id": "ad-01",
+  "difficulty": "intermediate",
+  "course": "sociology",
+  "professor": {
+   "name": "Dr. Lee"
+  },
+  "professor_post": "This week we have been looking at socialization, the process through which people learn the values and habits of their society. Researchers often point to two major influences on teenagers: their families and their friends. Families shape children from birth, but during the teenage years, young people spend more and more time with peers, both in person and online. For our discussion, I'd like you to consider which group has the greater influence on the values of teenagers today. Is it their family or their friends? Explain your view.",
+  "students": [
+   {
+    "name": "Claire",
+    "post": "I believe families still have the stronger influence. Parents decide where children live, which school they attend, and what activities they join. Even when teenagers argue with their parents, they usually keep the basic values they learned at home, such as honesty and respect for others. Friends may change how teens dress or talk, but those are surface changes."
+   },
+   {
+    "name": "Paul",
+    "post": "In my opinion, friends matter more today. Teenagers spend most of their day at school and then keep chatting with friends online at night. They want to be accepted by their group, so they often adopt the group's attitudes about school, money, and the future. I saw this happen with my younger brother, who changed his goals after joining a new friend group."
+   }
+  ],
+  "sample_response": "I agree with Paul that friends have the greater influence on teenagers today, although Claire makes a fair point about the role of parents in early childhood. My main reason is that teenagers are at a stage of life when they are actively trying to build an identity separate from their families. Because of this, they pay close attention to what their peers think is valuable. For example, when I was in high school, many of my classmates decided to take extra science classes simply because their closest friends were planning to study engineering. Their parents had encouraged other subjects for years with little success. In addition, social media keeps friends connected around the clock, so peer opinions are present even at home. For these reasons, I think friends now shape teenagers' values more than families do."
+ },
+ {
+  "id": "ad-02",
+  "difficulty": "intermediate",
+  "course": "education",
+  "professor": {
+   "name": "Dr. Patel"
+  },
+  "professor_post": "Many universities require students to complete general education courses, which are classes outside their major field. For example, an engineering student might have to take a course in art history or philosophy. Supporters say these requirements produce well-rounded graduates. Critics argue that they take time and money away from the subjects students actually plan to use in their careers. What do you think? Should universities require students to take courses outside their major, or should students be allowed to focus only on their chosen field? Why?",
+  "students": [
+   {
+    "name": "Maya",
+    "post": "I think general education courses are valuable. Most jobs require skills like clear writing and the ability to understand different points of view, and those skills often come from classes outside a student's major. Also, many students change their majors after taking a course they never expected to enjoy. Without these requirements, they would never discover new interests."
+   },
+   {
+    "name": "Daniel",
+    "post": "I disagree with these requirements. University is very expensive, and students should be able to spend their limited time on courses that prepare them for their future jobs. If an engineering student is interested in art history, he can take a class voluntarily. Forcing everyone to take extra courses can also delay graduation, which costs even more money."
+   }
+  ],
+  "sample_response": "In my view, universities should continue to require some courses outside a student's major. I understand Daniel's concern about cost, but I think the benefits are worth it. Maya mentions that students sometimes discover new interests, and I would add another reason: these courses teach students how to communicate with people who think differently. In the workplace, engineers must explain their ideas to managers, clients, and designers who do not share their technical background. A philosophy or literature class trains students to build clear arguments and listen carefully to other perspectives. My cousin, who studied computer science, told me that a required public speaking course turned out to be the most useful class she took, because she now presents her projects every week. Therefore, I believe a few required courses outside one's field make graduates more effective professionals."
+ },
+ {
+  "id": "ad-03",
+  "difficulty": "intermediate",
+  "course": "business",
+  "professor": {
+   "name": "Professor Alvarez"
+  },
+  "professor_post": "In our unit on small business strategy, we've discussed how new companies decide what to sell. Some start-ups focus on doing just one product extremely well, hoping to build a strong reputation before expanding. Others offer a wide range of products from the beginning so that they can reach more customers and reduce the risk of depending on a single item. Imagine you are advising a new company. Would you recommend that it focus on one product or offer a variety of products? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Jasmine",
+    "post": "I would recommend focusing on one product. A new company has limited money and staff, so it cannot do many things well at the same time. If it creates one excellent product, customers will remember it and tell their friends. Later, the company can use that reputation to introduce new products more easily."
+   },
+   {
+    "name": "Kevin",
+    "post": "I think offering a variety of products is safer. Nobody knows in advance what customers will actually want. If a company sells only one item and that item fails, the whole business may close. With several products, the company can see which ones are popular and then put more effort into those."
+   }
+  ],
+  "sample_response": "I would advise a new company to focus on one product, as Jasmine suggests. Kevin is right that relying on a single item involves risk, but I think spreading resources too thinly is an even bigger danger. Another reason for focusing is that it makes marketing much simpler and cheaper. When a company has one clear product, it can explain exactly what makes that product special in a single message. For instance, a small bakery near my home began by selling only one type of bread. Because people knew it as the place for that bread, lines formed every morning, and the owner did not need to pay for advertising. Two years later, the bakery added pastries, and customers tried them immediately because they already trusted the brand. A clear focus helps a new business build that kind of trust."
+ },
+ {
+  "id": "ad-04",
+  "difficulty": "intermediate",
+  "course": "environmental studies",
+  "professor": {
+   "name": "Dr. Okafor"
+  },
+  "professor_post": "Food waste is a major environmental problem, and university dining halls throw away a surprising amount of food every day. Campuses have tried several approaches to reduce this waste. Some have removed trays and served smaller portions, so students take only what they will actually eat. Others focus on what happens after the meal, such as composting leftovers or donating unused food to local organizations. If our university wanted to reduce food waste, which approach do you think would be more effective: reducing how much food students take, or improving what happens to leftover food? Why?",
+  "students": [
+   {
+    "name": "Ethan",
+    "post": "I think reducing how much food students take is better. When students carry trays, they fill them with more food than they need. Removing trays and offering smaller plates is simple and inexpensive. It also stops the waste before it happens, which is better than trying to deal with it later."
+   },
+   {
+    "name": "Sofia",
+    "post": "I prefer improving what happens to leftovers. Students pay for their meal plans, and many will be unhappy if the dining hall limits their portions. Composting turns waste into something useful for campus gardens, and donating extra food helps people in the community. This approach reduces waste without changing students' eating habits."
+   }
+  ],
+  "sample_response": "I believe reducing the amount of food students take is the more effective approach, and I agree with Ethan's point that preventing waste is better than managing it afterward. Sofia raises a good concern about student satisfaction, but smaller portions do not mean students must go hungry, since they can always return for a second serving. My additional reason is that composting and donation programs require a lot of ongoing effort. Someone has to collect, sort, and transport the leftovers, and that costs money and energy every single day. In contrast, removing trays is a one-time change. At my high school, the cafeteria switched to smaller plates, and the amount of food thrown away dropped noticeably within a few weeks. Students simply got used to taking less. For these reasons, I think limiting what students take would make a bigger difference."
+ },
+ {
+  "id": "ad-05",
+  "difficulty": "intermediate",
+  "course": "psychology",
+  "professor": {
+   "name": "Dr. Nguyen"
+  },
+  "professor_post": "We have been studying motivation and goal setting. Some psychologists argue that people achieve the most when they set ambitious long-term goals, such as running a marathon or learning a new language within a year, because big goals give life direction and excitement. Others believe that focusing on small daily habits, like walking for twenty minutes or studying ten new words each day, is more effective because habits are easier to maintain. In your opinion, which approach is more likely to lead to success: setting ambitious long-term goals or building small daily habits? Explain why.",
+  "students": [
+   {
+    "name": "Hannah",
+    "post": "I think ambitious goals are more effective. A big goal gives me a clear reason to work hard, and it makes me excited about the future. When I decided to run a half marathon, I trained much more seriously than I ever had before. Small habits alone can feel boring because there is no clear finish line."
+   },
+   {
+    "name": "Lucas",
+    "post": "I believe small daily habits are better. Many people set huge goals at the beginning of the year and give up after a few weeks because the goal feels impossible. A small habit, on the other hand, is easy to start and easy to repeat. Over time, these small actions add up to big results."
+   }
+  ],
+  "sample_response": "I agree with Lucas that building small daily habits is more likely to lead to success. Hannah's experience shows that big goals can be exciting, but excitement usually fades, and what remains is the daily routine. One reason I prefer habits is that they build confidence step by step. Each time people complete a small task, they prove to themselves that they are capable, and this makes them more willing to try harder tasks later. For example, last year I wanted to improve my English, but trying to read whole novels made me feel discouraged. When I switched to reading one short article every morning, I never missed a day, and after a few months I could read novels comfortably. Small habits may seem less impressive, but they are far easier to keep, and consistency is what produces real progress."
+ },
+ {
+  "id": "ad-06",
+  "difficulty": "intermediate",
+  "course": "urban planning",
+  "professor": {
+   "name": "Dr. Fischer"
+  },
+  "professor_post": "Many cities around the world have converted busy downtown streets into pedestrian-only zones, where cars are not allowed. Supporters say these zones make city centers safer, quieter, and more attractive for shopping and socializing. However, some business owners worry that customers who drive will stop coming, and residents may find it harder to make deliveries or reach their homes. Imagine our city is considering turning its main shopping street into a pedestrian-only zone. Do you think this is a good idea? Why or why not?",
+  "students": [
+   {
+    "name": "Olivia",
+    "post": "I think it's a great idea. Without cars, people can walk slowly, look in shop windows, and sit at outdoor cafes. That kind of relaxed atmosphere encourages people to stay longer and spend more money. The street would also be much safer for children and older people, who often find crossing busy roads stressful."
+   },
+   {
+    "name": "Marcus",
+    "post": "I don't support the plan. Many people in our city live far from downtown and have no good bus connection. If they can't park near the shops, they will simply go to shopping malls on the edge of town instead. Small businesses on the main street could lose a lot of customers and might even have to close."
+   }
+  ],
+  "sample_response": "I support turning the main shopping street into a pedestrian-only zone, although Marcus raises an important point about people who live far from downtown. I think the city could solve that problem by building a parking area at the edge of the zone and adding a free shuttle. Olivia mentions the relaxed atmosphere, and I would add that a car-free street can host events that bring new visitors to the area. For example, when my hometown closed its central street to traffic, it began holding weekend markets and outdoor concerts there. These events attracted families from nearby towns who had never shopped downtown before, and several new restaurants opened as a result. A pedestrian zone gives people a reason to visit the city center that a shopping mall cannot offer. That is why I believe the change would benefit our city."
+ },
+ {
+  "id": "ad-07",
+  "difficulty": "intermediate",
+  "course": "media studies",
+  "professor": {
+   "name": "Dr. Haddad"
+  },
+  "professor_post": "In the past, people who wanted to learn about a new subject usually read books, magazines, or newspaper articles. Today, podcasts have become an extremely popular way to learn about everything from science to cooking. Listeners can enjoy them while driving, exercising, or doing housework. Some educators, however, argue that reading is still a better way to understand complex ideas. Which do you think is a better way to learn about a new topic: listening to podcasts or reading written articles? Explain your answer.",
+  "students": [
+   {
+    "name": "Aisha",
+    "post": "I prefer podcasts. I have a busy schedule, and podcasts let me learn while I'm commuting or cooking, which would be impossible with an article. Also, hearing experts talk in a natural, conversational way makes difficult topics feel more interesting and easier to understand than dry written explanations."
+   },
+   {
+    "name": "Ryan",
+    "post": "I think reading is better for learning. When I read, I can go at my own speed, reread confusing sentences, and take notes. With a podcast, it's easy to stop paying attention for a moment and miss an important point. Written articles also usually include charts and references, which help me check the information."
+   }
+  ],
+  "sample_response": "In my opinion, reading written articles is the better way to learn about a new topic, mainly for the reasons Ryan describes. I agree with Aisha that podcasts are convenient, but convenience is not the same as deep understanding. My additional reason is that reading makes it easier to remember information later. When I read, I can underline key ideas and return to them whenever I need to review. With a podcast, finding a specific point again means searching through an hour of audio. For example, last semester I tried to learn about climate science by listening to a popular podcast during my commute. I enjoyed it, but when a friend asked me to explain what I had learned, I could recall only a few general ideas. After I read two articles on the same subject, I could explain the details clearly. Therefore, I think reading leads to better learning."
+ },
+ {
+  "id": "ad-08",
+  "difficulty": "intermediate",
+  "course": "public health",
+  "professor": {
+   "name": "Dr. Kim"
+  },
+  "professor_post": "Regular physical activity is one of the best ways to prevent illness, yet many adults do not exercise enough. Public health experts have suggested different strategies to change this. One option is for employers to offer workplace programs, such as on-site gyms, exercise classes during lunch breaks, or rewards for employees who stay active. Another option is for communities to invest in public spaces like parks, bike paths, and sports fields that everyone can use for free. Which strategy do you think would encourage more people to exercise: workplace programs or community facilities? Why?",
+  "students": [
+   {
+    "name": "Grace",
+    "post": "I think workplace programs would work better. Most adults spend the majority of their day at work, and they often say they don't have time to exercise. If there is a gym or a class right in the office building, it removes that excuse. Coworkers can also motivate each other to keep attending."
+   },
+   {
+    "name": "Omar",
+    "post": "Community facilities are a better choice in my view. Not everyone has a job with a large employer, and many workers have no access to workplace programs at all. Parks and bike paths are available to children, retirees, and people with any kind of job. They help the whole community, not just one group."
+   }
+  ],
+  "sample_response": "I believe community facilities would encourage more people to exercise, and I agree with Omar that they reach a much wider group of people. Grace makes a good point that workplace programs save time, but I think they only help people who already work for large companies. My additional reason is that parks and bike paths make exercise part of everyday life rather than a separate activity. When a safe bike path connects neighborhoods to schools and shops, people start cycling for transportation without even thinking of it as exercise. In my city, a new riverside path opened two years ago, and now I see entire families walking and biking there every evening. Many of them probably never went to a gym. Because community facilities change the environment where people live, I think they have a stronger and longer-lasting effect on physical activity."
+ },
+ {
+  "id": "ad-09",
+  "difficulty": "intermediate",
+  "course": "economics",
+  "professor": {
+   "name": "Dr. Morgan"
+  },
+  "professor_post": "In our discussion of local economic development, we've seen that small towns often compete to attract jobs. One strategy is to bring in a single large employer, such as a factory or a distribution center, which can create hundreds of jobs at once. Another strategy is to support many small, locally owned businesses through training programs and small loans. Suppose you were advising the leaders of a small town that needs more jobs. Which strategy would you recommend: attracting one large employer or supporting many small businesses? Explain your choice.",
+  "students": [
+   {
+    "name": "Emily",
+    "post": "I would recommend attracting a large employer. A factory can hire hundreds of people right away, including workers without a college degree. Those workers will then spend their wages at local shops and restaurants, which helps other businesses grow too. Supporting small businesses takes many years before it creates the same number of jobs."
+   },
+   {
+    "name": "Jonah",
+    "post": "I would choose to support small businesses. If a town depends on one big factory, it is in serious trouble if that company decides to move away or close. Many small businesses are more stable as a group because if one fails, the others continue. Local owners also tend to care more about the town's future."
+   }
+  ],
+  "sample_response": "I would recommend supporting many small businesses, and Jonah's point about stability is the main reason. Emily is correct that a large employer creates jobs quickly, but a town that relies on one company takes a big risk. I would also add that small businesses keep more money inside the community. When a local family owns a store, its profits are usually spent or invested in the same town, while a large company often sends its profits to headquarters in another region. For example, my grandparents live in a town where a large factory closed ten years ago, and half of the residents lost their jobs at the same time. The town only recovered when people opened small shops, repair services, and cafes. That experience convinced me that a variety of local businesses gives a town a stronger and more reliable economy."
+ },
+ {
+  "id": "ad-10",
+  "difficulty": "intermediate",
+  "course": "technology and society",
+  "professor": {
+   "name": "Dr. Sato"
+  },
+  "professor_post": "As computers become part of almost every job, some educators believe that coding should be a required subject in elementary school, just like math and reading. They argue that children learn new skills quickly and that early coding lessons build problem-solving ability. Others feel that young children should spend their limited school time on basic skills and creative play, and that coding can wait until secondary school. What is your opinion? Should elementary schools require children to learn coding? Why or why not?",
+  "students": [
+   {
+    "name": "Leah",
+    "post": "Yes, I think coding should be required. Technology is everywhere, and children who learn coding early will feel comfortable with it for the rest of their lives. Coding also teaches logical thinking, because students must break a big problem into small steps. These are useful skills even for students who never become programmers."
+   },
+   {
+    "name": "Victor",
+    "post": "I don't think coding should be required so early. Young children still need a lot of time to master reading, writing, and arithmetic, which are the foundation for everything else. Adding another required subject would take time away from these basics. Coding languages also change quickly, so what children learn might be outdated by the time they grow up."
+   }
+  ],
+  "sample_response": "I agree with Leah that elementary schools should require some coding, although I would keep the lessons short and simple. Victor makes a reasonable point that the basics come first, but I do not think coding has to compete with them. In fact, coding can support other subjects. When children program a simple game, they use math to calculate scores and reading skills to follow instructions. My additional reason is that early lessons make technology less intimidating, especially for students who do not have computers at home. My younger sister's school started a weekly coding class, and she and her classmates now build small animations together. Several of her friends who had never used a computer before became the most enthusiastic students in the class. Giving every child this experience early helps make opportunities in technology more equal later in life."
+ },
+ {
+  "id": "ad-11",
+  "difficulty": "intermediate",
+  "course": "history",
+  "professor": {
+   "name": "Dr. Reyes"
+  },
+  "professor_post": "Students learn about history in many different ways. Some of the most memorable experiences come from visiting museums and historic sites, where people can see real objects and walk through the places where events actually happened. Other educators argue that reading primary documents, such as letters, diaries, and newspapers from the past, gives students a deeper understanding because they encounter the thoughts of people who lived through those events. Which do you think is a more valuable way to learn history: visiting museums and historic sites or reading primary documents? Explain why.",
+  "students": [
+   {
+    "name": "Nora",
+    "post": "I think visiting historic sites is more valuable. When I visited an old fortress on a school trip, I could see how small the soldiers' rooms were and imagine their daily lives. That experience stayed with me much longer than anything I read in a textbook. Seeing real places makes history feel alive."
+   },
+   {
+    "name": "Samuel",
+    "post": "I believe reading primary documents is more valuable. Museums often present one simplified story, but letters and diaries show what ordinary people were actually thinking and feeling. Different documents can also disagree, which teaches students to compare sources and think critically. That kind of analysis is the main skill historians use."
+   }
+  ],
+  "sample_response": "I believe reading primary documents is the more valuable approach, and Samuel's point about comparing different sources is important. Nora is right that historic sites make history feel real, but a visit usually lasts only a few hours, and much of the experience depends on a guide's short explanation. My additional reason is that primary documents are available to everyone. Many students live far from famous museums and cannot afford to travel, but thousands of historical letters and newspapers are now available online for free. Last year, my history class read letters written by immigrants arriving in a new country a century ago. We learned about their hopes, their worries about money, and their struggles with a new language. No museum display could have given us such personal and detailed information. For these reasons, I think documents offer a richer understanding of the past."
+ },
+ {
+  "id": "ad-12",
+  "difficulty": "intermediate",
+  "course": "ethics",
+  "professor": {
+   "name": "Dr. Novak"
+  },
+  "professor_post": "Many popular websites and apps, including search engines and social networks, are free to use. Instead of charging users, these companies collect information about what people search for, click on, and buy, and then use that data to show personalized advertisements. Some people see this as a fair exchange: users get a useful service, and companies earn money through advertising. Others believe it is wrong for companies to collect so much personal information, even if users technically agree to it. Do you think it is acceptable for companies to use customer data for personalized ads in exchange for free services? Why or why not?",
+  "students": [
+   {
+    "name": "Chloe",
+    "post": "I think it's acceptable. Nobody is forced to use these services, and running them costs a lot of money. If users don't want to pay a monthly fee, then advertising is a reasonable way for the company to survive. Personalized ads can even be helpful, because they show me products I might actually want."
+   },
+   {
+    "name": "Adam",
+    "post": "I don't think it's acceptable. Most users never read the long privacy agreements, so they don't really understand how much information is being collected. That means they haven't given true permission. Companies could earn money from ads that aren't based on detailed personal data, so there's no need to track people so closely."
+   }
+  ],
+  "sample_response": "I agree with Adam that this practice is not fully acceptable, at least in its current form. Chloe is right that free services must earn money somehow, but a fair exchange requires both sides to understand the deal, and most users simply do not. My additional reason is that personal data can be used in ways people never expected. Information collected for advertising might be sold to other companies or exposed in a security breach. For example, a friend of mine started receiving advertisements for baby products before she had told anyone except her doctor that she was pregnant, which made her feel uncomfortable and watched. I think companies should be required to explain their data use in short, simple language and allow users to choose a version of the service with less tracking. Only then would the exchange truly be fair."
+ },
+ {
+  "id": "ad-13",
+  "difficulty": "intermediate",
+  "course": "sociology",
+  "professor": {
+   "name": "Dr. Mensah"
+  },
+  "professor_post": "Some high schools require students to complete a certain number of community service hours before they can graduate. Students might volunteer at a food bank, tutor younger children, or help clean up a local park. Supporters say these programs teach responsibility and connect young people with their communities. Critics argue that volunteering should be a personal choice, and that forcing students to serve takes away the true meaning of helping others. Should high schools require students to complete community service in order to graduate? Explain your opinion.",
+  "students": [
+   {
+    "name": "Isabel",
+    "post": "Yes, I think it should be required. Many teenagers would never think about volunteering on their own, but once they try it, they often discover how rewarding it is. I had to volunteer at an animal shelter for school, and I enjoyed it so much that I still go there every month, even though it's no longer required."
+   },
+   {
+    "name": "Tyler",
+    "post": "I don't think it should be required. Volunteering means doing something because you want to, not because a school forces you. When students are required to serve, many of them just count the hours and don't really care about the work. Some students also have jobs or family responsibilities and simply don't have extra time."
+   }
+  ],
+  "sample_response": "I think high schools should require community service, and Isabel's experience at the animal shelter shows why. Tyler has a fair point that some students only count the hours, but I believe even reluctant volunteers gain something from the experience. My additional reason is that community service helps students understand people whose lives are different from their own. Many teenagers spend most of their time with classmates from similar backgrounds. When they serve meals at a shelter or tutor children from another neighborhood, they see real challenges that they would otherwise only read about. In my case, tutoring at a community center made me realize how many children lacked a quiet place to study, and that experience is the reason I now want to become a teacher. Schools could also offer flexible options for students with jobs, which would address Tyler's concern about time."
+ },
+ {
+  "id": "ad-14",
+  "difficulty": "intermediate",
+  "course": "education",
+  "professor": {
+   "name": "Dr. Lindqvist"
+  },
+  "professor_post": "Teachers have many ways to evaluate what students have learned. Group projects ask students to work together, divide responsibilities, and produce one final product, such as a presentation or report. Individual assignments, such as essays and exams, measure what each student can do alone. Both methods are common at universities, but students often have strong feelings about which is fairer and more useful. In your opinion, which is a better way to evaluate students: group projects or individual assignments? Please explain your reasons.",
+  "students": [
+   {
+    "name": "Benjamin",
+    "post": "I think individual assignments are better. In group projects, one or two students often do most of the work while the others receive the same grade without contributing much. That isn't fair. With individual assignments, the grade truly reflects what each person knows and how hard he or she worked."
+   },
+   {
+    "name": "Mia",
+    "post": "I prefer group projects. In almost every job, people have to work as part of a team, so school should give students practice with that. Group projects teach us how to communicate, solve disagreements, and combine different ideas. These skills are just as important as the knowledge measured on an exam."
+   }
+  ],
+  "sample_response": "I believe individual assignments are the better way to evaluate students, mainly because of the fairness problem Benjamin describes. Mia is right that teamwork is an important skill, and I think group projects are valuable for learning, but they are less reliable for grading. My additional reason is that individual assignments give students clear feedback about their own strengths and weaknesses. When a group receives one grade, no one knows exactly which parts of the project were strong and who was responsible for them. Last semester, my group received a high mark on a research presentation, but I later realized I did not fully understand the statistics section that a teammate had prepared. On the final exam, I struggled with exactly that topic. If I had completed the analysis myself, I would have noticed my weakness earlier. Therefore, individual work gives a more accurate picture of learning."
+ },
+ {
+  "id": "ad-15",
+  "difficulty": "intermediate",
+  "course": "business",
+  "professor": {
+   "name": "Dr. Costa"
+  },
+  "professor_post": "Several companies around the world have experimented with a four-day workweek, in which employees work four days instead of five while receiving the same salary. Some of these companies report that workers became noticeably happier, healthier, and more productive. Others found it difficult to serve customers who expected them to be available five days a week. Do you think companies in general should adopt a four-day workweek? Why or why not?",
+  "students": [
+   {
+    "name": "Ella",
+    "post": "I think companies should adopt it. When people have three days off, they come back to work rested and focused. They also have more time for family, exercise, and errands, so they're less stressed. Happy employees are less likely to quit, which saves the company the cost of hiring and training new workers."
+   },
+   {
+    "name": "Noah",
+    "post": "I don't think it works for most companies. Some businesses, like hospitals, stores, and customer service centers, need staff every day. If employees work only four days, these companies would have to hire more people, which is expensive. Also, some workers might feel pressure to finish five days of work in four, which could actually increase stress."
+   }
+  ],
+  "sample_response": "I believe companies should consider a four-day workweek, although I agree with Noah that it may not suit every type of business. For offices where work is mainly done on computers, I think the benefits Ella describes are real. My additional reason is that a shorter week encourages people to work more efficiently. When employees know they have only four days, they cut unnecessary meetings and focus on the most important tasks. My aunt's design company tried this schedule last year, and the managers discovered that many of their weekly meetings could be replaced with short written updates. As a result, the team completed the same amount of work in less time. For businesses that need daily coverage, staff could simply work different four-day schedules. Overall, I think the four-day week can help many companies become more productive while keeping employees healthier."
+ },
+ {
+  "id": "ad-16",
+  "difficulty": "advanced",
+  "course": "environmental studies",
+  "professor": {
+   "name": "Dr. Brennan"
+  },
+  "professor_post": "Conservation organizations operate with limited budgets, so they must decide where to direct their resources. Historically, many campaigns have centered on charismatic species such as pandas, tigers, and whales, partly because these animals attract public sympathy and donations. Some ecologists contend that this approach is misguided and that funding should instead target entire ecosystems or less glamorous organisms, such as insects, fungi, and amphibians, which often play a more fundamental ecological role. In your view, should conservation funding prioritize well-known flagship species or the protection of whole ecosystems and lesser-known organisms? Justify your position.",
+  "students": [
+   {
+    "name": "Priya",
+    "post": "I would argue that flagship species deserve priority, precisely because of their popularity. Campaigns featuring a recognizable animal raise far more money than appeals about soil fungi ever could. Moreover, protecting a large mammal usually requires preserving a vast habitat, so countless smaller organisms benefit indirectly. The flagship species functions as an umbrella for the entire ecosystem."
+   },
+   {
+    "name": "Henry",
+    "post": "Funding should go directly to ecosystems. Relying on charismatic animals produces lopsided results: some habitats receive enormous attention while equally vital ones, like wetlands or grasslands without a famous resident, are neglected. Pollinating insects, for instance, sustain agriculture and wild plants alike, yet their populations are declining with little public notice. Conservation should follow ecological need, not popularity."
+   }
+  ],
+  "sample_response": "While Priya makes a persuasive case that flagship species generate donations, I side with Henry in believing that funding should prioritize whole ecosystems. The umbrella argument works only when a famous animal happens to share its habitat with other threatened organisms, which is not always the case. My additional concern is that species-focused campaigns can encourage short-term thinking. Organizations may declare success once a population of a single animal recovers, even if the surrounding ecosystem continues to deteriorate. Consider coral reefs: a campaign to save one photogenic fish species would accomplish little if rising water temperatures and pollution are destroying the reefs it depends on. By contrast, an ecosystem-based approach addresses underlying threats such as habitat fragmentation and water quality, which benefits every species simultaneously. Popular animals can still appear in fundraising materials, but the money itself should be allocated according to scientific assessments of ecological importance."
+ },
+ {
+  "id": "ad-17",
+  "difficulty": "advanced",
+  "course": "psychology",
+  "professor": {
+   "name": "Dr. Iyer"
+  },
+  "professor_post": "Our recent readings examined two modes of decision-making. Intuitive judgment is fast and draws on accumulated experience, often producing a gut feeling about the right choice. Deliberate analysis is slower and involves consciously weighing evidence, listing pros and cons, and estimating probabilities. Research suggests each has strengths: intuition can be remarkably accurate for experts in familiar situations, whereas careful analysis helps people avoid common cognitive biases. When people face an important personal decision, such as choosing a career or deciding where to live, should they rely more on intuition or on deliberate analysis? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Fatima",
+    "post": "I believe deliberate analysis is essential for major life decisions. Gut feelings are easily distorted by mood, recent events, or wishful thinking. When choosing a career, for instance, it's crucial to research salaries, job prospects, and required training rather than simply following an exciting impression. Writing down the options forces people to confront facts they might otherwise ignore."
+   },
+   {
+    "name": "Julian",
+    "post": "I'd argue that intuition deserves more weight than people typically give it. Major decisions involve so many uncertain variables that no spreadsheet can capture them accurately. Our intuition integrates emotional information, like whether a workplace feels welcoming, that analytical methods tend to overlook. People who overanalyze frequently end up paralyzed or choose an option that looks ideal on paper but feels wrong."
+   }
+  ],
+  "sample_response": "Although Julian raises a valid point about the limits of spreadsheets, I lean toward Fatima's view that important personal decisions require deliberate analysis. The research our professor mentioned indicates that intuition is reliable mainly for experts operating in familiar territory, yet decisions such as choosing a career are, by definition, ones most people make only once or twice. They therefore lack the repeated experience that makes intuition trustworthy. I would add that analysis does not have to exclude emotion; it can treat feelings as data to be examined rather than as final verdicts. When I was choosing a university, I initially felt drawn to a campus simply because the weather was pleasant during my visit. After listing my priorities, I realized that its program in my field was relatively weak. Structured reflection allowed me to recognize that my first impression was driven by circumstance rather than genuine fit."
+ },
+ {
+  "id": "ad-18",
+  "difficulty": "advanced",
+  "course": "urban planning",
+  "professor": {
+   "name": "Dr. Walsh"
+  },
+  "professor_post": "Rapidly growing cities face mounting pressure to provide affordable housing. Broadly speaking, planners have two options. They can encourage vertical growth, permitting taller apartment buildings and denser development within existing neighborhoods, or they can allow outward expansion, converting land on the urban fringe into new suburban communities. Each approach involves trade-offs related to cost, infrastructure, environmental impact, and residents' quality of life. If you were advising the planning department of a fast-growing city, would you recommend building up or building out? Defend your recommendation.",
+  "students": [
+   {
+    "name": "Elena",
+    "post": "I would recommend building up. Dense development makes efficient use of existing infrastructure, including water lines, transit, and schools, rather than requiring costly new networks. It also preserves farmland and natural areas outside the city. Furthermore, when people live closer together, public transportation becomes financially viable, which reduces traffic congestion and emissions."
+   },
+   {
+    "name": "Marcus",
+    "post": "Building out is the more realistic option. Many families want private yards and more living space, which high-rise apartments rarely provide. Construction on undeveloped land is often cheaper and faster than redeveloping crowded urban sites, and it avoids lengthy disputes with existing residents who oppose taller buildings next door. Meeting demand quickly should be the priority during a housing shortage."
+   }
+  ],
+  "sample_response": "I would recommend building up, largely for the infrastructure reasons Elena outlines. Marcus is correct that suburban construction can be quicker initially, but I think that advantage disappears when long-term costs are considered. Every new suburban neighborhood requires roads, sewer lines, and emergency services that the city must maintain indefinitely, often with relatively few taxpayers per kilometer of road. My additional argument concerns access to opportunity. Residents of distant suburbs frequently face long commutes, which consume both money and time that could be spent with family or on education. For lower-income households, owning a car may be a necessity rather than a choice, adding significantly to living expenses. In contrast, dense neighborhoods near transit lines allow people to reach jobs, clinics, and schools without that burden. Admittedly, some families will always prefer suburban homes, but a city's primary strategy should favor efficient, well-connected growth."
+ },
+ {
+  "id": "ad-19",
+  "difficulty": "advanced",
+  "course": "media studies",
+  "professor": {
+   "name": "Dr. Tanaka"
+  },
+  "professor_post": "Over the past two decades, advertising revenue for news organizations has declined sharply, forcing publishers to rethink their business models. Many now place articles behind paywalls, requiring readers to purchase subscriptions. Others remain free to access, relying on advertising, donations, or sponsorships. Proponents of paywalls argue that subscriptions fund serious journalism and reduce dependence on attention-grabbing headlines. Critics worry that paywalls restrict access to reliable information for people who cannot afford multiple subscriptions. Which model do you believe better serves the public: subscription-based news or freely accessible news? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Amara",
+    "post": "Subscription models serve the public better in the long run. When revenue depends on advertising, publishers are pressured to maximize clicks, which encourages sensational headlines and shallow coverage. Subscribers, by contrast, pay for quality and depth, giving newsrooms an incentive to invest in investigative reporting. Without stable funding, much important journalism simply would not exist."
+   },
+   {
+    "name": "Theo",
+    "post": "Freely accessible news is better for society. Reliable information is a public good, and restricting it to those who can pay creates an informed elite while everyone else turns to free but unreliable sources. Many people already struggle with rising living costs, so expecting them to purchase several subscriptions is unrealistic. Access should not depend on income."
+   }
+  ],
+  "sample_response": "I find Theo's argument more compelling, although Amara rightly identifies the danger of chasing clicks. My concern with widespread paywalls is that they may unintentionally strengthen the very misinformation that quality journalism aims to counter. When well-researched reporting is locked away, readers naturally gravitate toward free content, including poorly sourced websites and anonymous social media posts. These sources then shape public understanding of important issues such as health guidance or local developments. That said, I do not believe free access requires abandoning stable revenue. Some publications have adopted voluntary membership models, in which readers who can afford it contribute regularly while the articles remain open to everyone. Others make essential coverage, such as emergency information, freely available while charging for specialized content. These hybrid approaches suggest that the choice is not simply between quality and access. Ultimately, the public is best served when reliable information reaches the widest possible audience."
+ },
+ {
+  "id": "ad-20",
+  "difficulty": "advanced",
+  "course": "public health",
+  "professor": {
+   "name": "Dr. Ward"
+  },
+  "professor_post": "Public health campaigns aim to change behaviors such as smoking, unhealthy eating, or failing to wear seatbelts. Designers of these campaigns face a fundamental choice regarding tone. Some rely on fear appeals, using vivid images and warnings about serious consequences. Others emphasize positive messages, highlighting the benefits of healthy choices, such as feeling more energetic or setting a good example for one's children. Evidence on effectiveness is mixed and appears to depend on context. Which approach do you think is generally more effective at producing lasting behavioral change: fear-based messaging or positive messaging? Why?",
+  "students": [
+   {
+    "name": "Yuki",
+    "post": "Fear-based messaging tends to be more effective because it captures attention immediately. People are surrounded by advertisements and easily ignore cheerful slogans, but a shocking image is difficult to forget. Warning labels showing the effects of smoking, for example, make the risks concrete in a way that statistics alone cannot. Strong emotions motivate action."
+   },
+   {
+    "name": "Ravi",
+    "post": "Positive messaging is more likely to produce lasting change. Fear may grab attention, but people often respond to threatening messages by becoming defensive or avoiding the information entirely, especially if they feel unable to change. Positive campaigns build confidence and associate healthy behavior with rewards people genuinely want, which helps new habits persist after the campaign ends."
+   }
+  ],
+  "sample_response": "Although Yuki is right that frightening images capture attention, I agree with Ravi that positive messaging is more likely to produce lasting behavioral change. The key word in our professor's question is lasting. Fear can trigger a strong initial reaction, but that reaction typically fades as people grow accustomed to the warning. My additional point is that fear-based campaigns can unintentionally stigmatize the very people they hope to help. Someone who struggles with weight, for instance, may feel ashamed rather than motivated by alarming images, and shame rarely encourages people to seek support. Positive campaigns, by contrast, can present change as achievable and socially rewarding. A campaign in my community promoted walking groups by emphasizing friendship and enjoyment rather than disease, and participation remained high long after the advertisements disappeared. Sustainable change seems to depend on motivation people can maintain, not on temporary alarm."
+ },
+ {
+  "id": "ad-21",
+  "difficulty": "advanced",
+  "course": "economics",
+  "professor": {
+   "name": "Dr. Rossi"
+  },
+  "professor_post": "Dynamic pricing refers to the practice of adjusting prices in real time according to demand, time of day, or even individual customer data. Airlines and hotels have used it for decades, but it has expanded to ride-sharing services, concert tickets, and online retail. Economists note that dynamic pricing can allocate scarce goods efficiently and encourage consumers to shift purchases to off-peak times. Critics, however, argue that it can feel exploitative, particularly when prices surge during emergencies or when algorithms charge different customers different amounts for identical products. On balance, do you consider dynamic pricing beneficial or harmful to consumers? Explain your position.",
+  "students": [
+   {
+    "name": "Lena",
+    "post": "On balance, dynamic pricing benefits consumers. It allows flexible travelers to find remarkably cheap flights and encourages people to use services when demand is low, which reduces crowding. Higher prices during peak periods also attract more suppliers, such as additional drivers, which ultimately increases availability. Fixed prices would simply create shortages and long waiting times instead."
+   },
+   {
+    "name": "Felipe",
+    "post": "I regard dynamic pricing as largely harmful. Companies possess far more information than consumers, so algorithms can identify when a customer is desperate or unlikely to compare prices and charge accordingly. This shifts value from buyers to sellers. Moreover, constantly changing prices make budgeting difficult and erode trust, since customers can never be sure they are paying a fair amount."
+   }
+  ],
+  "sample_response": "While Lena correctly notes that dynamic pricing can increase supply during busy periods, I share Felipe's concern that it is often harmful to consumers. I think we should distinguish between two practices. Adjusting prices according to overall demand, such as cheaper train tickets on weekday afternoons, is relatively transparent and can benefit everyone. Personalized pricing, however, which uses individual data to estimate how much a particular customer is willing to pay, is far more problematic. My additional concern is that it disproportionately affects people with fewer options. A traveler who must book a flight at the last minute to visit a sick relative cannot wait for prices to fall, and an algorithm may detect that urgency. Wealthier or more technically skilled consumers, meanwhile, can use comparison tools to avoid such charges. Therefore, I believe dynamic pricing based on demand is acceptable, but personalized pricing deserves strict regulation."
+ },
+ {
+  "id": "ad-22",
+  "difficulty": "advanced",
+  "course": "technology and society",
+  "professor": {
+   "name": "Dr. Abebe"
+  },
+  "professor_post": "Generative artificial intelligence tools can now produce essays, summarize readings, and suggest revisions within seconds. Universities have responded in very different ways. Some prohibit these tools in written assignments, viewing their use as a form of academic dishonesty. Others permit or even encourage them, provided students disclose how they were used, arguing that graduates will rely on such technology throughout their careers. Should universities allow students to use AI tools when completing writing assignments? If so, under what conditions? Explain your view.",
+  "students": [
+   {
+    "name": "Sienna",
+    "post": "Universities should permit AI tools with clear disclosure rules. Prohibiting them is nearly impossible to enforce, and it leaves students unprepared for workplaces where these tools are already standard. Instructors could redesign assignments to emphasize analysis and personal reflection, while students learn to evaluate and improve AI-generated drafts critically, which is itself a valuable skill."
+   },
+   {
+    "name": "Gabriel",
+    "post": "I believe AI tools should generally be prohibited in writing assignments. Writing is not merely a way of producing text; it is a way of thinking. When students struggle to organize an argument, they develop their reasoning abilities. If software performs that work, students may earn good grades without ever learning to think clearly on their own."
+   }
+  ],
+  "sample_response": "I agree with Sienna that universities should allow AI tools, but I believe the conditions should depend on the purpose of each assignment. Gabriel makes an important point that writing develops thinking, and for that reason, introductory courses designed to teach argument construction might reasonably restrict these tools. In advanced courses, however, permitting them under disclosure rules seems more realistic. My additional argument is that a clear policy encourages honesty. When tools are completely banned, students who use them anyway have every incentive to hide it, and instructors cannot discuss responsible use. When usage is permitted and documented, instructors can see exactly how students relied on the technology and offer guidance. In one of my courses, students submitted their AI-generated outline alongside a reflection explaining which suggestions they rejected and why. This process revealed the quality of our reasoning more effectively than a conventional essay alone."
+ },
+ {
+  "id": "ad-23",
+  "difficulty": "advanced",
+  "course": "history",
+  "professor": {
+   "name": "Dr. Kowalski"
+  },
+  "professor_post": "For much of the nineteenth and early twentieth centuries, historians concentrated on political leaders, military campaigns, and major treaties. Beginning in the mid-twentieth century, social historians shifted attention toward ordinary people: farmers, factory workers, families, and migrants whose experiences had been largely absent from official records. Today, both approaches coexist, but scholars still debate which offers the more meaningful account of the past. In your opinion, should history education place greater emphasis on major events and influential leaders or on the everyday lives of ordinary people? Support your answer.",
+  "students": [
+   {
+    "name": "Clara",
+    "post": "I believe history education should emphasize major events and leaders. Decisions made by governments, such as declaring independence or signing trade agreements, affected millions of people at once. Without understanding these turning points, students cannot grasp why societies developed as they did. Everyday life is interesting, but it makes sense only within that larger political framework."
+   },
+   {
+    "name": "Desmond",
+    "post": "I would emphasize ordinary people. Focusing on leaders gives students the misleading impression that history is shaped by a handful of individuals. In reality, large-scale changes like industrialization or urbanization resulted from countless decisions by workers and families. Studying their lives also helps students see themselves as participants in history rather than spectators."
+   }
+  ],
+  "sample_response": "Although Clara convincingly argues that major decisions shape entire societies, I agree with Desmond that history education should place greater emphasis on ordinary people. My primary reason is that the lives of ordinary people reveal how large events were experienced, which is often quite different from how they were officially described. A government might announce a new agricultural policy as a triumph, yet diaries and local records could show that farming families endured hardship as a result. Without such perspectives, students may accept official narratives uncritically. In addition, social history allows students to investigate questions using evidence close to home. My class once examined census records and photographs from our own town to trace how women's employment changed over several decades. That project made abstract concepts like economic modernization tangible. Major events still matter, but they become far more meaningful when examined through the experiences of the people they affected."
+ },
+ {
+  "id": "ad-24",
+  "difficulty": "advanced",
+  "course": "ethics",
+  "professor": {
+   "name": "Dr. Herrera"
+  },
+  "professor_post": "Philosophers have long debated whether honesty is an absolute duty or whether it may be outweighed by other values, such as kindness. Consider everyday situations: a friend asks your opinion of a business plan you find unrealistic, or a colleague asks whether a presentation went well when it clearly did not. Some argue that complete candor, delivered respectfully, ultimately serves people best. Others maintain that softening or withholding unwelcome truths is sometimes the more ethical choice. When giving feedback to friends or colleagues, should people always be fully honest, or are there circumstances in which kindness should take priority? Explain your position.",
+  "students": [
+   {
+    "name": "Zara",
+    "post": "Full honesty should be the rule. If I tell a friend that a flawed business plan is excellent, I may cause her to lose money and time. Kindness that hides important information is really a form of disrespect, because it assumes the other person cannot handle the truth. Honest feedback can be delivered gently without being distorted."
+   },
+   {
+    "name": "Leo",
+    "post": "Kindness should sometimes take priority. Timing and context matter enormously. If a colleague has just finished a presentation and is visibly upset, pointing out every weakness immediately serves no purpose and may damage the relationship. Sometimes it's more ethical to offer encouragement in the moment and reserve detailed criticism for later, or for situations where it can genuinely help."
+   }
+  ],
+  "sample_response": "I largely agree with Zara that honesty should be the guiding principle, but Leo's emphasis on timing reveals an important nuance. I think the ethical question is less about whether to tell the truth and more about how and when to communicate it. Delaying criticism until someone is ready to hear it differs fundamentally from deceiving them. Moreover, dishonest reassurance often undermines the very relationships it seeks to protect. If a friend later discovers that I praised a plan I privately doubted, she may begin to question all of my future compliments, making my support meaningless. For example, when a classmate asked me to review his scholarship essay, I pointed out that its opening was unfocused while also highlighting its genuinely moving conclusion. He revised it and was grateful precisely because he trusted my assessment. Kindness, therefore, should shape the delivery of feedback rather than replace its content."
+ },
+ {
+  "id": "ad-25",
+  "difficulty": "advanced",
+  "course": "sociology",
+  "professor": {
+   "name": "Dr. Chen"
+  },
+  "professor_post": "Since remote work became widespread, sociologists have begun examining its effects on local communities. On one hand, people who work from home spend more daytime hours in their own neighborhoods, potentially patronizing local businesses and getting to know neighbors. On the other hand, remote workers may become more isolated, interacting with colleagues only through screens and losing the casual social connections that offices once provided. In your view, has the growth of remote work strengthened or weakened people's sense of community? Support your answer with reasons or examples.",
+  "students": [
+   {
+    "name": "Ines",
+    "post": "Remote work has strengthened neighborhood communities. When people commuted, residential areas were nearly empty during the day. Now, remote workers frequent local cafes, attend community events, and can volunteer at schools during flexible hours. I've noticed that neighbors on my street, who previously never spoke, now chat regularly while walking their dogs at lunchtime."
+   },
+   {
+    "name": "Oscar",
+    "post": "Overall, I think remote work has weakened community. Workplaces were often where adults formed friendships across different backgrounds. Without that daily contact, many remote workers report loneliness, particularly young employees who recently moved to new cities and know nobody locally. Spending more time at home doesn't automatically translate into meaningful connections with neighbors."
+   }
+  ],
+  "sample_response": "I find Oscar's position somewhat more persuasive, although Ines describes a genuine benefit for certain neighborhoods. I suspect the effects of remote work depend heavily on a person's stage of life. Established residents with families and long-standing local ties may well become more involved in their neighborhoods, as Ines observes. However, young professionals who relocate for work often lack those ties, and the office previously served as their primary entry point into a new social world. My additional concern is that remote work reduces exposure to people unlike ourselves. Neighborhoods tend to be relatively homogeneous in terms of income and lifestyle, whereas workplaces bring together colleagues of different ages, cultures, and backgrounds. A cousin of mine who started a remote job after graduating spent months knowing almost no one in her new city. Community, therefore, has not simply moved from offices to neighborhoods; for many people, it has partially disappeared."
+ },
+ {
+  "id": "ad-26",
+  "difficulty": "advanced",
+  "course": "education",
+  "professor": {
+   "name": "Dr. Duval"
+  },
+  "professor_post": "Traditional letter grades have been a fixture of higher education for over a century, but some institutions are experimenting with alternatives. These include pass/fail systems, in which students either meet course requirements or do not, and narrative evaluations, in which instructors write detailed comments describing each student's strengths and areas for growth. Advocates claim these alternatives reduce destructive competition and encourage intellectual risk-taking. Skeptics contend that they make it harder for employers and graduate programs to compare applicants. Should universities replace traditional letter grades with pass/fail or narrative evaluations? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Naomi",
+    "post": "Universities should move away from letter grades. Students today are so focused on protecting their grade point average that they avoid challenging courses outside their expertise. Narrative evaluations would encourage genuine curiosity and give students far more useful feedback than a single letter. A comment explaining how to strengthen an argument teaches much more than a B-minus."
+   },
+   {
+    "name": "Arjun",
+    "post": "Letter grades should remain. They provide a clear, standardized signal that employers and admissions committees can interpret quickly. Without them, decision-makers may rely more heavily on factors like the prestige of a student's university or personal connections, which would disadvantage students from less privileged backgrounds. Grades, despite their flaws, offer a relatively objective measure."
+   }
+  ],
+  "sample_response": "Although Naomi presents an appealing vision of curiosity-driven learning, I agree with Arjun that letter grades should remain the primary system. His point about prestige is crucial: when standardized measures disappear, evaluators tend to substitute other signals, and those signals frequently favor students who already enjoy advantages. I would add that narrative evaluations raise practical concerns about consistency. Instructors differ enormously in their writing styles, and some are naturally generous with praise while others are reserved, so two equally capable students might receive descriptions that sound very different. Grades are imperfect, yet a common scale at least reduces this variation. That said, I believe universities could address Naomi's concern without eliminating grades entirely. Many institutions allow students to take one or two elective courses on a pass/fail basis, which encourages exploration while preserving reliable records. This compromise seems to combine the strengths of both approaches."
+ },
+ {
+  "id": "ad-27",
+  "difficulty": "advanced",
+  "course": "business",
+  "professor": {
+   "name": "Dr. Park"
+  },
+  "professor_post": "Hiring practices vary considerably across organizations. Some employers prioritize demonstrated skills and experience, selecting candidates who can contribute effectively from their first day. Others emphasize potential, choosing applicants who may lack specific qualifications but show adaptability, curiosity, and a capacity for learning, and then investing in their training. Proponents of the latter approach argue that technical skills quickly become outdated in rapidly changing industries. When filling an important position, should companies prioritize candidates' current skills and experience or their long-term potential? Justify your view.",
+  "students": [
+   {
+    "name": "Hugo",
+    "post": "Companies should prioritize proven skills and experience. Training inexperienced employees is costly and time-consuming, and there is no guarantee that potential will translate into actual performance. An experienced candidate has a track record that can be verified through references and past results, which significantly reduces the risk of a poor hiring decision for an important role."
+   },
+   {
+    "name": "Lina",
+    "post": "Potential should be the priority. In industries like technology or marketing, the tools used today may be obsolete within five years, so an employee's ability to learn matters more than current expertise. Candidates selected for potential also tend to be highly motivated and loyal, since they appreciate the company's investment in their development."
+   }
+  ],
+  "sample_response": "While Hugo is right that experience reduces short-term risk, I am persuaded by Lina's argument that companies should prioritize long-term potential, particularly in rapidly evolving industries. Experience demonstrates what a candidate has accomplished under past conditions, but it reveals relatively little about how that person will respond to unfamiliar challenges. My additional reason is that hiring exclusively for experience can make organizations less diverse in their thinking. If every new employee comes from similar roles at competing firms, the company tends to replicate established practices rather than develop fresh approaches. Candidates with unconventional backgrounds often notice inefficiencies that industry veterans take for granted. For example, a friend of mine was hired by a logistics company after studying biology, and her experience with laboratory data led her to redesign the firm's inventory tracking system. Experience certainly matters, yet adaptability is what sustains an organization's performance over time."
+ },
+ {
+  "id": "ad-28",
+  "difficulty": "advanced",
+  "course": "environmental studies",
+  "professor": {
+   "name": "Dr. Quinn"
+  },
+  "professor_post": "Ecotourism, defined as responsible travel to natural areas that supports conservation and local well-being, has expanded dramatically in recent decades. Advocates argue that it gives local communities a financial incentive to protect forests, reefs, and wildlife rather than exploit them, while educating visitors about environmental issues. Critics counter that growing numbers of tourists inevitably disturb wildlife, generate waste, and require roads and lodging that degrade the very environments they come to admire. On balance, do you believe ecotourism does more to protect or to harm fragile ecosystems? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Camila",
+    "post": "Ecotourism does more good than harm. Without tourism income, communities near rainforests often have little choice but to log or clear land for agriculture. When tourists pay to see intact ecosystems, preserving them becomes economically rational. Park entrance fees also fund rangers and research that governments might otherwise be unable to afford."
+   },
+   {
+    "name": "Nathan",
+    "post": "I believe ecotourism ultimately causes more harm. Its popularity is self-defeating: as a destination becomes famous, visitor numbers grow beyond what the environment can support. Wildlife changes its behavior to avoid crowds, trails erode, and hotels strain local water supplies. Furthermore, the label ecotourism is often applied loosely to businesses with minimal environmental commitments."
+   }
+  ],
+  "sample_response": "I believe ecotourism does more to protect fragile ecosystems, provided it is properly regulated, and in this respect I agree with Camila's argument about economic incentives. Nathan correctly warns that popularity can become self-defeating, but I see this as a problem of management rather than an inherent flaw. Destinations that cap daily visitor numbers, require licensed guides, and restrict construction have demonstrated that tourism and conservation can coexist. My additional point concerns the alternatives. If a forest generates no tourism income, it is rarely left untouched; more often, it faces pressure from mining, logging, or large-scale agriculture, all of which cause far more permanent damage than visitors on guided trails. Moreover, ecotourism creates a constituency of people who have personally witnessed these ecosystems and are therefore more likely to support their protection after returning home. Responsible tourism is often the most realistic way to make conservation financially sustainable."
+ },
+ {
+  "id": "ad-29",
+  "difficulty": "advanced",
+  "course": "public health",
+  "professor": {
+   "name": "Dr. Osei"
+  },
+  "professor_post": "Sleep researchers have found that adolescents' internal clocks shift during puberty, making it biologically difficult for many teenagers to fall asleep before eleven at night. Nevertheless, numerous high schools begin classes before eight in the morning, and chronic sleep deprivation among teenagers has been linked to poorer academic performance, mood problems, and car accidents. Some school districts have delayed start times, but opponents point to complications involving bus schedules, after-school sports, and parents' work hours. Should high schools adopt later start times to accommodate adolescent sleep patterns? Explain your position.",
+  "students": [
+   {
+    "name": "Maya",
+    "post": "High schools should definitely start later. The scientific evidence is compelling, and it would be unreasonable to ignore students' biology for the sake of convenience. Districts that have shifted start times have reported improvements in attendance and alertness. The logistical challenges with buses and sports are real, but they are solvable problems, whereas sleep deprivation harms students' health directly."
+   },
+   {
+    "name": "Ryan",
+    "post": "I'm skeptical that later start times are the right solution. If school begins later, it ends later, which pushes sports, part-time jobs, and homework further into the evening. Many teenagers might simply go to bed later still, eliminating the benefit. Schools would achieve more by educating families about limiting screen use at night and maintaining consistent sleep schedules."
+   }
+  ],
+  "sample_response": "I support later start times, and I find Maya's argument more convincing than Ryan's, though Ryan raises a reasonable concern about evening schedules. The crucial distinction is that education about screen use, while valuable, asks teenagers to override a biological shift that the research describes as genuinely difficult to resist. Expecting individual willpower to overcome biology seems less realistic than adjusting an institutional schedule. My additional reason concerns fairness. Students from families with flexible resources can compensate for early start times, for instance by being driven to school rather than catching a bus before dawn. Students without those options bear the full burden of sleep loss, which may widen existing gaps in academic achievement. As for Ryan's worry that teenagers will simply stay up later, studies of districts that changed their schedules found that students gained sleep overall. Therefore, although implementation requires careful planning, the health benefits justify the change."
+ },
+ {
+  "id": "ad-30",
+  "difficulty": "advanced",
+  "course": "media studies",
+  "professor": {
+   "name": "Dr. Lindgren"
+  },
+  "professor_post": "Most social media platforms now arrange posts using recommendation algorithms, which predict what each user is most likely to engage with, rather than displaying posts in chronological order. Platforms argue that algorithmic feeds help users find relevant content amid overwhelming volume. Critics contend that these systems prioritize content that provokes strong emotional reactions, encourage compulsive scrolling, and give users little control over what they see. Some researchers have proposed requiring platforms to offer a simple chronological feed as the default option. Do you think social media platforms should make chronological feeds the default? Why or why not?",
+  "students": [
+   {
+    "name": "Keira",
+    "post": "Chronological feeds should be the default. Algorithms are designed to maximize the time users spend on a platform, not their well-being. A chronological feed restores user control: people see posts from accounts they deliberately chose to follow, in the order they appeared, and can stop scrolling once they've caught up. Transparency like this builds healthier online habits."
+   },
+   {
+    "name": "Mateo",
+    "post": "I don't think chronological feeds should be the default. Most users follow hundreds of accounts, so a purely chronological feed would bury important posts, like a close friend's news, beneath a flood of minor updates. Recommendation systems, despite their flaws, solve a genuine problem of information overload. Users who prefer chronological order can already switch settings on many platforms."
+   }
+  ],
+  "sample_response": "Although Mateo makes a fair point about information overload, I agree with Keira that chronological feeds should be the default. Mateo notes that users can already change their settings, but research on default options suggests that most people never alter them, so the default effectively determines the experience of the majority. Given this influence, defaults should favor transparency and user control rather than the platform's commercial interest in maximizing engagement. My additional argument is that a chronological feed gives users a clear sense of completion. With an algorithmic feed, content never runs out, which encourages the compulsive scrolling Keira mentions. When I switched one of my accounts to chronological order, I found that I checked it less frequently and ended each session feeling informed rather than drained. Importantly, nothing would prevent platforms from offering algorithmic recommendations as an optional feature for users who actively prefer them."
+ }
+]
