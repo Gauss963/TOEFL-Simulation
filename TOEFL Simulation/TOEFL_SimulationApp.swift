@@ -19,7 +19,7 @@ struct TOEFL_SimulationApp: App {
         }
         if arguments.contains("-selfTest") {
             // Prints validation and Listen and Choose a Response rotation results, then exits.
-            let report = issues + TOEFLQuestionBank.rotationIssues()
+            let report = issues + TOEFLQuestionBank.rotationIssues() + WordsDrillStore.selfTestIssues()
             FileHandle.standardError.write(Data(((report.isEmpty ? ["SELF-TEST PASSED"] : report).joined(separator: "\n") + "\n").utf8))
             exit(report.isEmpty ? 0 : 1)
         }
