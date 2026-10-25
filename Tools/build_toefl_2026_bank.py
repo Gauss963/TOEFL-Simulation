@@ -53,6 +53,11 @@ def load(kind: str) -> list[dict]:
     return rows
 
 
+def load_maps(kind: str) -> list[dict]:
+    """Files that hold one JSON object each (id → value) rather than a list of items."""
+    return [json.loads(Path(path).read_text(encoding="utf-8")) for path in sorted(glob.glob(str(CONTENT / f"{kind}_*.json")))]
+
+
 def rng_for(key: str) -> random.Random:
     return random.Random(int(hashlib.sha1(key.encode()).hexdigest()[:12], 16))
 
@@ -165,6 +170,15 @@ for row in load("academic_talk"):
 
 # Writing ---------------------------------------------------------------------------------------
 
+# Traditional Chinese grammar notes ({id: note}) and email sample responses ({id: email}) live in
+# separate files so they can be added without rewriting the item files.
+build_notes_zh: dict[str, str] = {}
+for notes_file in load_maps("bs_notes_zh"):
+    build_notes_zh.update(notes_file)
+email_samples: dict[str, str] = {}
+for samples_file in load_maps("email_samples"):
+    email_samples.update(samples_file)
+
 for row in load("build_sentence"):
     tokens = row["chunks"] + [row["distractor"]]
     rng_for(row["id"]).shuffle(tokens)
@@ -175,7 +189,10 @@ for row in load("build_sentence"):
     items.append(base(
         row["id"], "writing", "buildSentence", row["difficulty"], "Make an appropriate sentence.",
         sentenceTokens=tokens, correctSentenceTokens=row["chunks"], sampleAnswer=filled,
-        explanation=row.get("explanation") or "The chunks form the only grammatical reply.",
+        explanation="\n".join(filter(None, [
+            row.get("explanation") or "The chunks form the only grammatical reply.",
+            row.get("explanation_zh") or build_notes_zh.get(row["id"]),
+        ])),
         context=row["context"], sentenceTemplate=row["template"],
     ))
 
@@ -185,6 +202,7 @@ for row in load("email_task"):
         row["id"], "writing", "writeEmail", row["difficulty"],
         f"{row['scenario']}\n\nWrite an email to {row['to']}. In your email, do the following:\n{bullets}\n\nWrite as much as you can and in complete sentences.",
         passage=f"To: {row['to']}\nSubject: {row['subject']}",
+        sampleAnswer=row.get("sample_response") or email_samples.get(row["id"]),
         explanation="Scored 0–5 on the official Write an Email rubric: task completion, elaboration, language range and precision, and social conventions.",
     ))
 

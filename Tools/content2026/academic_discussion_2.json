@@ -1,0 +1,702 @@
+[
+ {
+  "id": "ad2-01",
+  "difficulty": "intermediate",
+  "course": "biology",
+  "professor": {
+   "name": "Dr. Hartley"
+  },
+  "professor_post": "In our lab section this semester, we have been studying the anatomy of vertebrates, and many of you have asked about dissection. For decades, biology students learned anatomy by dissecting preserved animals such as frogs and fetal pigs. Today, however, several universities use interactive 3D software that lets students explore organs layer by layer without using any animals. Supporters say the software is cheaper and allows unlimited practice, while critics argue that nothing replaces handling real tissue. What do you think? Should introductory biology courses replace animal dissection with virtual dissection software? Why or why not?",
+  "students": [
+   {
+    "name": "Alicia",
+    "post": "I think virtual dissection is the better choice for introductory courses. With software, I can repeat a dissection as many times as I need, rotate organs, and hide or show different body systems. In a real lab, if I make a wrong cut, the specimen is damaged and I cannot go back. Most students in an intro course are not going to be surgeons, so they mainly need to understand how the systems connect."
+   },
+   {
+    "name": "Brandon",
+    "post": "I disagree. When I dissected a frog in high school, I was surprised by how small and delicate the organs actually were, something a screen never showed me. Real specimens also vary; one frog's liver looks different from another's, which teaches you that bodies are not identical textbook diagrams. Handling real tissue builds practical skills that future nurses, vets, and researchers will really need."
+   }
+  ],
+  "sample_response": "Although Brandon makes a good point about the value of hands-on experience, I agree with Alicia that introductory courses should switch to virtual dissection. Brandon is right that real organs vary, but that level of detail matters most for advanced students in medical or veterinary programs, who could still dissect real specimens later. For beginners, the main goal is to understand how organ systems work together, and software does this very effectively. Another reason that neither classmate mentioned is cost. Preserved specimens must be purchased every semester, and they require chemicals, ventilation, and safe disposal. A university could invest that money once in software licenses and use the savings to hire more teaching assistants or buy better microscopes. Finally, some students feel uncomfortable around preserved animals and become too distracted to learn. Virtual tools allow everyone to focus on the actual biology. For these reasons, I believe virtual dissection is the smarter choice at the introductory level."
+ },
+ {
+  "id": "ad2-02",
+  "difficulty": "intermediate",
+  "course": "environmental science",
+  "professor": {
+   "name": "Dr. Mendoza"
+  },
+  "professor_post": "Last week we examined how plastic waste moves from cities into rivers and oceans. One of the most common local policies to address this problem targets single-use plastic shopping bags. Some cities have banned these bags completely, so stores can offer only paper or reusable bags. Other cities have chosen to charge customers a small fee, such as ten cents, for every plastic bag they take, leaving the final choice to shoppers. Both approaches have reduced bag use in different places. If our city wanted to cut plastic bag waste, which policy would you recommend: a complete ban or a per-bag fee? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Carmen",
+    "post": "I would recommend a complete ban. A fee of a few cents is too small for many people to notice, especially when they are already spending a lot on groceries. My hometown introduced a fee, and after a few months people simply got used to paying it. A ban sends a clear message and removes the bags from circulation entirely, so the environmental benefit is guaranteed."
+   },
+   {
+    "name": "Derek",
+    "post": "I think a fee is the better policy. A ban can cause people to switch to paper bags, which require more energy and water to produce. With a fee, people still have the option to buy a plastic bag when they truly need one, for example, for wet items like raw meat. The fee also makes shoppers stop and think, which slowly builds the habit of bringing reusable bags."
+   }
+  ],
+  "sample_response": "I agree with Derek that a per-bag fee is the better policy, though I understand Carmen's concern that a small fee can lose its effect. In my view, the solution to Carmen's point is simply to set the fee high enough to matter, perhaps twenty-five cents, rather than banning bags altogether. One advantage of a fee that has not been mentioned is that it generates revenue. The city could require stores to send part of the money to environmental programs, such as river cleanups or free reusable bags for low-income families. A ban produces no such funds. Moreover, a fee is easier to adjust over time. If research shows that bag use is still too high, officials can raise the price without passing an entirely new law. This flexibility makes the fee a practical, long-term tool for changing shopping habits while still respecting customers' choices."
+ },
+ {
+  "id": "ad2-03",
+  "difficulty": "intermediate",
+  "course": "agriculture and food science",
+  "professor": {
+   "name": "Dr. Akande"
+  },
+  "professor_post": "In this unit, we have been discussing the growing distance between consumers and the farms that produce their food. Many children today have never seen how vegetables grow, and some researchers believe this gap affects both eating habits and respect for farmers. In response, some elementary and middle schools have created school gardens where students plant, care for, and harvest crops as part of their regular classes. Other educators argue that classroom time is limited and that gardening should remain an optional after-school activity. What is your view? Should schools make gardening a required part of the curriculum? Why or why not?",
+  "students": [
+   {
+    "name": "Erin",
+    "post": "I think gardening should be required. When students grow their own vegetables, they become curious about tasting them. My cousin's school has a garden, and she now eats spinach and peppers, which she refused before. A garden also connects to many subjects: students can measure plant growth in math class and learn about soil and photosynthesis in science. It is a practical way to teach several lessons at once."
+   },
+   {
+    "name": "Farid",
+    "post": "In my opinion, gardening should stay optional. Not every school has the space, sunlight, or staff to maintain a garden, especially in crowded cities. Also, crops need care during summer vacation when nobody is at school, so many gardens end up abandoned. Teachers already struggle to cover reading and math. Students who love gardening can join a club, while others can spend that time on core skills."
+   }
+  ],
+  "sample_response": "I agree with Erin that schools should make gardening a required part of the curriculum. Farid raises a valid concern about space in crowded cities, but a garden does not have to be large. Many urban schools use raised beds on rooftops or even indoor containers with grow lights, so a lack of land should not stop them. Beyond the benefits Erin described, gardening teaches responsibility and patience in a way few other activities can. Students must water plants regularly and wait weeks to see results, which is a valuable lesson in a world of instant entertainment. If gardening is only an optional club, the students who would benefit most, such as those who rarely eat fresh produce at home, may never join. Making it part of regular classes ensures that every child gains this experience. For these reasons, I believe school gardens deserve a place in the required curriculum."
+ },
+ {
+  "id": "ad2-04",
+  "difficulty": "intermediate",
+  "course": "public health",
+  "professor": {
+   "name": "Dr. Bauer"
+  },
+  "professor_post": "We have been studying how the food environment influences people's health choices. In recent years, several countries have required chain restaurants to display the number of calories next to each item on their menus. The goal is to help customers make healthier decisions at the moment they order. However, studies on these labels have produced mixed results: some customers choose lower-calorie options, while many others seem to ignore the numbers completely. Do you think requiring restaurants to post calorie counts on their menus is an effective way to improve public health? Why or why not?",
+  "students": [
+   {
+    "name": "Gemma",
+    "post": "Yes, I think calorie labels are effective. Before these labels appeared, I had no idea that my favorite coffee drink had almost as many calories as a full meal. Once I saw the number on the menu, I switched to a smaller size. Even if only some customers change their orders, small changes made by millions of people every day can add up to a big difference."
+   },
+   {
+    "name": "Hiro",
+    "post": "I'm not convinced that labels work well. Calories are only one part of nutrition. A salad with heavy dressing and a grilled chicken sandwich might have similar calories but very different amounts of fat, fiber, and sodium. Also, people who are in a hurry or very hungry rarely stop to read numbers. I think better nutrition education in schools would be more useful than menu labels."
+   }
+  ],
+  "sample_response": "I agree with Gemma that calorie labels are a worthwhile public health tool, even though they are not perfect. Hiro is correct that calories do not tell the whole story about nutrition, but labels were never meant to replace education. Instead, they give people simple information exactly when they need it. One important effect that neither classmate mentioned is how labels influence restaurants themselves. When companies know their calorie counts will be displayed publicly, they have a strong incentive to create lighter menu items or reduce portion sizes so their products look more attractive. In fact, several chains introduced new low-calorie options shortly after labeling laws took effect. This means the policy can improve meals even for customers who never read the numbers. Because labels change both customer choices and restaurant behavior at a very low cost, I believe they are an effective way to support healthier eating."
+ },
+ {
+  "id": "ad2-05",
+  "difficulty": "intermediate",
+  "course": "computer science",
+  "professor": {
+   "name": "Dr. Castillo"
+  },
+  "professor_post": "As we begin our introductory programming course, I want to talk about how people learn to code. Some instructors believe beginners should start by building real projects, such as a simple website or game, and learn concepts as they need them. Others argue that students should first master fundamentals, like data types, loops, and algorithms, through structured exercises before attempting larger projects. Both methods have produced successful programmers. Based on your own experience or observations, which approach do you think is more effective for beginners: learning through projects or learning the fundamentals first? Explain why.",
+  "students": [
+   {
+    "name": "Ian",
+    "post": "I strongly prefer learning through projects. When I first tried to learn programming from a textbook, I quit after two weeks because the exercises felt pointless. Later, I decided to build a small app to track my running times, and I suddenly wanted to understand loops and lists because I needed them. Having a real goal kept me motivated, and I remember those concepts much better now."
+   },
+   {
+    "name": "Jada",
+    "post": "I think beginners should learn the fundamentals first. If you jump into a project too early, you may copy code from the internet without understanding it. My friend built a website this way, but when something broke, she had no idea how to fix it. Structured exercises build a strong foundation, so later projects go more smoothly and students can solve problems on their own."
+   }
+  ],
+  "sample_response": "Both Ian and Jada make reasonable points, but I agree with Ian that projects are the more effective starting point for beginners. Jada's example about her friend copying code is a real risk, but it can be avoided if instructors guide students through small, carefully designed projects rather than leaving them alone. An additional benefit of projects is that they teach skills that exercises usually ignore, such as debugging, planning, and breaking a big problem into smaller steps. In professional software development, these abilities are often more important than memorizing syntax. Last year, I worked on a simple weather app with a group, and I learned more about organizing code and reading error messages in one month than in an entire semester of isolated exercises. Projects also give students something concrete to show future employers. For these reasons, I believe beginners should learn by building things from the start."
+ },
+ {
+  "id": "ad2-06",
+  "difficulty": "intermediate",
+  "course": "engineering",
+  "professor": {
+   "name": "Dr. Delgado"
+  },
+  "professor_post": "Many of you will soon decide how to spend your summers, so this week I want to discuss practical experience in engineering education. Two common options are industry internships, where students work at companies on real products, and university research projects, where students assist professors in labs and explore new technologies. Each option offers different skills and connections. Our department encourages both, but students can usually choose only one each summer. In your opinion, which experience is more valuable for engineering students: an industry internship or a university research project? Please explain your choice.",
+  "students": [
+   {
+    "name": "Kayla",
+    "post": "I believe an internship is more valuable. Most engineering graduates will work in industry, not in universities, so it makes sense to learn how companies actually operate. During my internship at a car parts manufacturer, I learned about safety rules, budgets, and deadlines, which I never encountered in class. Many companies also hire their former interns, so an internship can lead directly to a job."
+   },
+   {
+    "name": "Liam",
+    "post": "For me, a research project is the better option. In a lab, students often get to work on cutting-edge technologies, like new battery materials, instead of doing routine tasks. Professors also have more time to mentor students than busy managers do. Plus, research experience is essential for anyone thinking about graduate school, and it trains you to solve problems that have no known answers."
+   }
+  ],
+  "sample_response": "I agree with Kayla that an industry internship is generally more valuable for engineering students. Liam is right that research can be exciting, but since only a small percentage of engineering students go on to graduate school, an internship is relevant to more people. Kayla mentioned budgets and deadlines, and I would add another important skill: communication across different teams. In a company, engineers must explain technical ideas to managers, salespeople, and customers who do not have engineering backgrounds. My older sister told me that during her internship at an energy company, she spent almost as much time writing reports and giving short presentations as she did designing systems. These communication skills are rarely practiced in a university lab, where everyone shares similar knowledge. Since employers consistently say they want engineers who can communicate clearly, I believe an internship prepares students better for their future careers."
+ },
+ {
+  "id": "ad2-07",
+  "difficulty": "intermediate",
+  "course": "architecture",
+  "professor": {
+   "name": "Dr. Eriksen"
+  },
+  "professor_post": "Our unit on educational buildings has shown how library design has changed over time. Traditional libraries were built around tall bookshelves and silent reading rooms with individual desks. Many newer university libraries, however, have removed shelves to create open areas with movable furniture, large screens, and spaces for group work, sometimes even with cafés inside. Our own campus library is about to be renovated, and the architects are asking for student input. Should the renovation focus mainly on open collaborative spaces or on quiet areas for individual study? Explain which design you would support and why.",
+  "students": [
+   {
+    "name": "Megan",
+    "post": "I would support open collaborative spaces. Today, many of our assignments are group projects, and it's hard to find a place on campus where we can talk freely without disturbing anyone. Right now, my group usually meets in a noisy cafeteria where we can't even plug in a laptop. A library with large tables, whiteboards, and screens would make teamwork much easier and more productive."
+   },
+   {
+    "name": "Nikhil",
+    "post": "I think quiet areas should be the priority. Students can talk and work together almost anywhere on campus, but there are very few places where they can concentrate in complete silence. During exam periods, the current quiet room is always full by nine in the morning. If the renovation removes these spaces, students who need silence to focus, especially those sharing noisy dormitories, will have nowhere to go."
+   }
+  ],
+  "sample_response": "I agree with Nikhil that the renovation should focus mainly on quiet areas for individual study. Megan makes a fair point that groups need places to meet, but I think those spaces could easily be created in other campus buildings, such as student centers or empty classrooms in the evening. The library, on the other hand, is the only building whose main identity is focused study. One reason that has not been mentioned is that open layouts often carry noise much farther than designers expect. Without walls or shelves to absorb sound, conversations in a collaborative zone can travel across an entire floor and disturb people who are trying to read. I experienced this at a public library in my city, where a new open design made it nearly impossible to concentrate. Therefore, I believe protecting quiet study space should be the top priority of the renovation."
+ },
+ {
+  "id": "ad2-08",
+  "difficulty": "intermediate",
+  "course": "urban planning",
+  "professor": {
+   "name": "Dr. Farouk"
+  },
+  "professor_post": "This week we are studying green space in cities. Parks improve residents' physical and mental health, but land in cities is expensive, so planners must use their budgets carefully. One option is to build one large central park with lakes, sports fields, and walking trails that attracts visitors from all over the city. Another option is to spread the same money across many small neighborhood parks, so that most residents live within a short walk of some green space. If our city received funding for new parks, which option would you choose: one large park or many small ones? Why?",
+  "students": [
+   {
+    "name": "Paige",
+    "post": "I would choose one large park. A big park can offer facilities that small parks simply cannot, such as soccer fields, a lake for boating, and long running trails. In my hometown, the central park hosts concerts and festivals that bring the whole community together. Small parks are nice, but they often end up as a few benches and a patch of grass that nobody uses."
+   },
+   {
+    "name": "Quentin",
+    "post": "I prefer many small parks. Research shows that people use green space much more often when it is close to their homes. Elderly residents and parents with young children, for example, may not be able to travel across the city. A small playground or garden five minutes away is something families can enjoy every day, while a large park might be visited only on weekends."
+   }
+  ],
+  "sample_response": "I agree with Quentin that many small neighborhood parks would be the better investment. Paige is right that a large park can host festivals, but those events happen only a few times a year, while the daily benefits of nearby green space affect residents constantly. In addition to the accessibility point Quentin raised, small parks are better for the city's climate. Trees and grass spread across many neighborhoods can lower temperatures throughout the city during summer heat waves, whereas one large park cools mainly the area around it. Small parks can also absorb rainwater in many places, reducing flooding on local streets. Furthermore, distributing parks is fairer, because a single central park often benefits the neighborhoods closest to it far more than distant ones. For these reasons, spreading the funding across many small parks would improve the health and comfort of far more residents."
+ },
+ {
+  "id": "ad2-09",
+  "difficulty": "intermediate",
+  "course": "transportation",
+  "professor": {
+   "name": "Dr. Gallagher"
+  },
+  "professor_post": "In our discussion of traffic congestion, we have seen that adding more lanes for cars often leads to even more driving over time. Many mid-sized cities are therefore looking for alternatives that move people without increasing car traffic. Two popular options are expanding bus service, with more routes and more frequent schedules, and building a network of protected bike lanes separated from car traffic. Both require significant investment, and most cities cannot afford to do both at once. If you were advising a mid-sized city, which investment would you recommend to reduce traffic congestion: better buses or protected bike lanes? Explain why.",
+  "students": [
+   {
+    "name": "Rosa",
+    "post": "I would recommend expanding bus service. Buses can serve almost everyone, including elderly people, people with disabilities, and workers who travel long distances. Biking is great for young, healthy people, but many residents cannot or will not ride a bike in rain, snow, or extreme heat. When my city increased bus frequency to every ten minutes, ridership grew quickly because people no longer had to plan around a schedule."
+   },
+   {
+    "name": "Sean",
+    "post": "I think protected bike lanes are the better choice. They are much cheaper to build and maintain than a bus system, which needs drivers, fuel, and vehicles. Also, many car trips in cities are short, under five kilometers, which is an easy distance to bike. Once people feel safe from traffic, they start cycling. Buses, on the other hand, get stuck in the same traffic jams as cars."
+   }
+  ],
+  "sample_response": "While Sean makes a good point about cost, I agree with Rosa that expanding bus service would do more to reduce congestion in a mid-sized city. Sean argues that buses get stuck in traffic, but this problem can be solved by giving buses dedicated lanes or priority at traffic lights, as many cities have done successfully. One reason that hasn't been mentioned yet is that bus networks can connect people with places they travel to every day, such as hospitals, shopping centers, and industrial areas on the edge of town. These destinations are often too far away, or along roads too dangerous, for cycling. In my own city, a new express bus to the business park noticeably reduced morning traffic within a year because commuters no longer needed to drive. A bus system therefore addresses the longest and most car-dependent trips, which contribute most to congestion."
+ },
+ {
+  "id": "ad2-10",
+  "difficulty": "intermediate",
+  "course": "energy policy",
+  "professor": {
+   "name": "Dr. Hoffman"
+  },
+  "professor_post": "We have been examining ways to reduce household electricity use, which accounts for a large share of energy demand in many countries. Economists often recommend raising electricity prices, arguing that people use less of something when it costs more. Other researchers favor giving households better information, such as smart meters and phone apps that show in real time how much energy each appliance is using and compare usage with that of similar neighbors. Which approach do you think would be more effective at reducing household energy use: higher electricity prices or better energy-use information? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Tessa",
+    "post": "I believe higher prices would be more effective. Money is a powerful motivator, and when people see a large bill, they immediately start turning off lights and using air conditioning less. Information alone is easy to ignore; my family installed an energy app last year, but after the first week, nobody opened it again. A price increase affects every household automatically, whether people pay attention or not."
+   },
+   {
+    "name": "Umar",
+    "post": "I think information works better. Most people simply don't know which appliances use the most electricity. When my parents got a smart meter, they discovered that the old refrigerator in our garage was using a huge amount of power, so they replaced it. Higher prices also hurt low-income families the most, while information helps everyone save money without making energy more expensive."
+   }
+  ],
+  "sample_response": "I agree with Umar that better energy-use information is the more effective approach, although Tessa is right that some people stop checking apps after a while. To solve that problem, information can be delivered more actively, for example through monthly reports that compare a household's usage with that of similar neighbors. Studies have shown that people often reduce consumption when they learn they use more than others nearby, because nobody wants to be seen as wasteful. This social comparison is a motivator that prices cannot provide. Another advantage of information is that it encourages lasting changes. When prices rise, families may cut back temporarily but return to old habits once they get used to higher bills. In contrast, when a family learns that a specific appliance wastes energy and replaces it, the savings continue for years. For these reasons, I believe information is a more effective and fairer tool."
+ },
+ {
+  "id": "ad2-11",
+  "difficulty": "intermediate",
+  "course": "space exploration",
+  "professor": {
+   "name": "Dr. Ibrahim"
+  },
+  "professor_post": "In this course, we have traced the history of space exploration from the first satellites to today's missions to Mars and beyond. Space agencies face a basic choice about how to explore. Robotic missions, such as rovers and probes, are relatively inexpensive and do not put lives at risk. Human missions are far more costly and dangerous, but astronauts can make quick decisions and adapt to unexpected situations. With limited budgets, agencies must decide where to focus their efforts. In your view, should space agencies focus mainly on robotic missions or on human missions? Explain your position.",
+  "students": [
+   {
+    "name": "Vanessa",
+    "post": "I think agencies should focus on robots. A single human mission to Mars could cost as much as dozens of robotic missions. The rovers on Mars have already worked for years and sent back incredible amounts of data, all without anyone risking their life. Robots can also survive extreme heat, cold, and radiation that would be deadly for humans, so they can explore many more places."
+   },
+   {
+    "name": "Wesley",
+    "post": "I believe human missions deserve more focus. A rover can take weeks to drive a short distance because scientists on Earth have to plan every movement. An astronaut could cover the same area in an afternoon and immediately notice an interesting rock. Also, the Apollo missions inspired an entire generation to study science. Robots just don't capture people's imagination in the same way."
+   }
+  ],
+  "sample_response": "I agree with Vanessa that space agencies should focus mainly on robotic missions. Wesley is right that astronauts can work faster than rovers, but robotic technology is improving rapidly. With better artificial intelligence, future rovers will be able to make many decisions on their own without waiting for instructions from Earth. In addition to the cost savings Vanessa mentioned, robotic missions allow agencies to explore distant places that humans simply cannot reach in a lifetime. For instance, the Voyager probes have traveled beyond the edge of our solar system, and other spacecraft have studied the icy moons of Jupiter and Saturn. These destinations would take many years to reach, making human missions impractical. Focusing on robots therefore lets scientists study a much greater variety of worlds. Human missions may become more realistic in the future, but for now, robots provide far more scientific knowledge for each dollar spent."
+ },
+ {
+  "id": "ad2-12",
+  "difficulty": "intermediate",
+  "course": "data science",
+  "professor": {
+   "name": "Dr. Jensen"
+  },
+  "professor_post": "Last week we practiced cleaning and analyzing a public dataset on air quality. This week, we turn to an equally important skill: communicating results to people who are not data experts, such as city officials or the general public. Some data scientists rely mainly on charts and visualizations, believing that a good graph can reveal a pattern instantly. Others argue that charts are often misread and that a clear written summary in plain language is more reliable. When presenting findings to a non-expert audience, which do you think is more effective: visualizations or written summaries? Explain your view.",
+  "students": [
+   {
+    "name": "Ximena",
+    "post": "I think visualizations are more effective. Most people are busy and won't read several paragraphs about statistics. A well-designed chart, like a line graph showing pollution rising over ten years, communicates the main idea in seconds. When I presented a class project with a simple color-coded map, my classmates understood the pattern immediately and asked much better questions than when I just described the numbers."
+   },
+   {
+    "name": "Yusuf",
+    "post": "I'd argue that written summaries are more reliable. Many people don't know how to read charts correctly. For example, if a graph's vertical axis doesn't start at zero, a small change can look dramatic. A written summary can explain exactly what the data means, what it doesn't mean, and how certain the results are, which is crucial when officials make decisions based on it."
+   }
+  ],
+  "sample_response": "I agree with Ximena that visualizations are generally more effective for non-expert audiences, though Yusuf raises a valid concern about misleading charts. However, that problem comes from poor design, not from visualization itself. A responsible data scientist can label axes clearly and add short notes directly on the graph. Another advantage that hasn't been mentioned is that visualizations overcome language barriers. In a diverse city, many residents may not read the official language fluently, so a long written report could exclude them. A clear map showing which neighborhoods have the worst air quality can be understood by almost anyone, regardless of their reading level or native language. Visuals are also easier to share on social media, so important findings reach more people. For these reasons, I believe a well-designed chart, perhaps supported by a brief caption, is the most effective way to communicate data to the public."
+ },
+ {
+  "id": "ad2-13",
+  "difficulty": "intermediate",
+  "course": "marine science",
+  "professor": {
+   "name": "Dr. Kaur"
+  },
+  "professor_post": "We have discussed how public understanding of ocean ecosystems affects support for marine conservation. Most people will never dive on a coral reef or see a whale in the open sea, so they learn about marine life in other ways. Two of the most common are visiting public aquariums and watching high-quality nature documentaries. Aquariums let visitors see living animals up close, while documentaries can show creatures in their natural habitats, including the deep ocean. Which do you think is a better way to teach the public about ocean life: visiting aquariums or watching documentaries? Explain your answer.",
+  "students": [
+   {
+    "name": "Zoe",
+    "post": "I think aquariums are better. Seeing a real shark swim past you or touching a sea star in a touch pool creates a strong emotional connection that a screen can't match. When I visited an aquarium as a child, I remember staring at the jellyfish for almost an hour. That experience is the reason I became interested in marine science in the first place, and I still remember it clearly."
+   },
+   {
+    "name": "Aiden",
+    "post": "I prefer documentaries. Aquariums can only show animals that survive in tanks, so visitors rarely see whales, deep-sea creatures, or entire ecosystems. A documentary can show how animals hunt, migrate, and interact in the wild. Documentaries are also available to anyone with an internet connection, while many people live far from an aquarium or can't afford the expensive ticket price."
+   }
+  ],
+  "sample_response": "Although Zoe describes a memorable experience, I agree with Aiden that documentaries are a better way to teach the public about ocean life. Zoe is right that seeing a living animal is exciting, but excitement is not the same as understanding. Animals in tanks are removed from the food webs, currents, and seasons that shape their behavior, so visitors may leave with an incomplete picture. An additional strength of documentaries is that they can explain the threats oceans face. For example, a well-made documentary can show coral bleaching happening over several months or follow plastic waste from a city river into the open sea. These processes are impossible to observe in an aquarium. When viewers understand both the beauty of marine life and the problems it faces, they are more likely to support conservation. For these reasons, documentaries provide a deeper and more complete education."
+ },
+ {
+  "id": "ad2-14",
+  "difficulty": "intermediate",
+  "course": "geography",
+  "professor": {
+   "name": "Dr. Larsen"
+  },
+  "professor_post": "This week we read several studies about spatial thinking, our ability to understand locations, distances, and directions. Smartphone navigation apps have made it easy to reach almost any destination by following step-by-step instructions. Some researchers worry that relying on these apps weakens people's sense of direction and their understanding of how places connect. Others say that navigation apps are simply a better tool and that time spent teaching paper map reading would be better used for other skills. Do you think schools should still teach students how to read paper maps and navigate without GPS? Why or why not?",
+  "students": [
+   {
+    "name": "Bianca",
+    "post": "Yes, schools should still teach map reading. Technology can fail; phones run out of battery, and there is often no signal in mountains or rural areas. Last summer, my friends and I got lost while hiking because our app stopped working, and only one person knew how to use the trail map. Basic navigation is a survival skill that everyone should have, not just hikers."
+   },
+   {
+    "name": "Caleb",
+    "post": "I don't think it's necessary anymore. Navigation apps are more accurate than paper maps and update constantly with traffic and road closures. Schools have limited time, and students would benefit more from learning skills they will actually use, such as analyzing data with digital mapping software. Paper maps are like handwritten letters: nice to know about, but not essential in daily life today."
+   }
+  ],
+  "sample_response": "I agree with Bianca that schools should continue teaching students to read paper maps. Caleb makes a fair point that navigation apps are accurate and convenient, but I believe map reading teaches much more than how to get from one place to another. When students study a map, they see the whole area at once, including rivers, mountains, and the relationships between neighborhoods and cities. A navigation app, on the other hand, shows only a narrow route and tells users when to turn, so they rarely build a mental picture of the region. This broader understanding is important for thinking about real issues, like why certain towns flood or why a city grew along a coastline. Map reading also strengthens problem-solving because students must plan routes themselves. For these reasons, I think map skills remain a valuable part of education, even in the age of smartphones."
+ },
+ {
+  "id": "ad2-15",
+  "difficulty": "intermediate",
+  "course": "tourism",
+  "professor": {
+   "name": "Dr. Moreau"
+  },
+  "professor_post": "In this unit on tourist behavior, we have looked at how travelers plan their trips. Some travelers prefer organized guided tours, in which a company arranges transportation, accommodation, and activities, and a local guide explains the history and culture of each place. Others prefer to travel independently, making their own plans and exploring at their own pace with the help of guidebooks and apps. Each style creates a very different experience. When visiting a foreign country for the first time, which is the better way to travel: joining a guided tour or traveling independently? Explain your reasons.",
+  "students": [
+   {
+    "name": "Diana",
+    "post": "I think a guided tour is better for a first visit. When you don't speak the language or understand local customs, even simple things like buying train tickets can be stressful. On a tour, everything is organized, so you can relax and enjoy the experience. Plus, a knowledgeable guide can tell you stories about places that you would never find in a guidebook."
+   },
+   {
+    "name": "Eli",
+    "post": "I prefer traveling independently. Guided tours often follow strict schedules, so you spend only twenty minutes at a museum before rushing back to the bus. When I traveled alone in Portugal, I discovered a small fishing village that wasn't in any tour package, and it became my favorite memory of the trip. Independent travel gives you freedom and real contact with local people."
+   }
+  ],
+  "sample_response": "I agree with Eli that traveling independently is the better choice, even for a first visit to a foreign country. Diana is right that language barriers can be stressful, but modern translation and navigation apps have made independent travel much easier than it was even ten years ago. One additional reason I prefer independent travel is its economic impact on local communities. Large tour companies often use international hotel chains and restaurants that have agreements with the company, so much of the money leaves the country. Independent travelers, by contrast, are more likely to stay in family-run guesthouses, eat at local cafés, and buy from small shops. This spending supports residents directly. Furthermore, the small challenges of independent travel, like figuring out a bus system, build confidence and create memorable stories. For these reasons, I think independent travel offers a richer and more responsible experience."
+ },
+ {
+  "id": "ad2-16",
+  "difficulty": "intermediate",
+  "course": "sports science",
+  "professor": {
+   "name": "Dr. Nakamura"
+  },
+  "professor_post": "We have been studying athletic development in children and teenagers. In many countries, young athletes are encouraged to choose a single sport early, sometimes before age ten, and train in it year-round in order to reach an elite level. Other experts recommend that children play several different sports until their mid-teens, arguing that variety develops a wider range of physical skills. Parents and coaches often disagree strongly about this issue. In your opinion, should young athletes specialize in one sport early or play multiple sports? Support your position with reasons or examples.",
+  "students": [
+   {
+    "name": "Freya",
+    "post": "I think early specialization makes sense for children who show real talent. Reaching an elite level requires thousands of hours of practice, and competitors who start early have a big advantage. Gymnasts and figure skaters, for example, often peak in their teens, so they have no time to wait. My cousin focused on tennis from age eight, and that is how she earned a university scholarship."
+   },
+   {
+    "name": "Gavin",
+    "post": "I believe kids should play multiple sports. Doing the same movements year-round puts repeated stress on the same muscles and joints, which leads to overuse injuries. As a kid, I played soccer and basketball and also swam, and each sport improved different abilities like balance and endurance. Many professional athletes didn't specialize until high school, so playing several sports doesn't prevent success."
+   }
+  ],
+  "sample_response": "I agree with Gavin that young athletes should play multiple sports rather than specializing early. Freya makes a fair point about sports like gymnastics, where athletes peak young, but these are exceptions rather than the rule. In most sports, athletes reach their best performance in their twenties, so there is plenty of time to specialize later. Beyond the injury risk Gavin mentioned, I think psychological burnout is a serious concern. When children train in one sport all year with intense pressure to win, the activity can start to feel like a job instead of a game. A friend of mine trained in swimming every morning from age nine and quit completely at fifteen because she was exhausted and no longer enjoyed it. Playing different sports keeps young athletes motivated and curious. For these reasons, I believe variety leads to healthier and longer athletic careers."
+ },
+ {
+  "id": "ad2-17",
+  "difficulty": "intermediate",
+  "course": "nutrition",
+  "professor": {
+   "name": "Dr. Ortega"
+  },
+  "professor_post": "This week we have focused on sugar consumption among young people. Sugary drinks, such as soda and sweetened sports drinks, are one of the largest sources of added sugar in teenagers' diets, and they have been linked to weight gain and tooth decay. Some school districts have removed these drinks from campus vending machines and cafeterias, offering only water, milk, and unsweetened beverages. Critics say such bans don't work because students simply buy sugary drinks outside school, and that teenagers should learn to make their own choices. Should high schools ban the sale of sugary drinks on campus? Why or why not?",
+  "students": [
+   {
+    "name": "Holly",
+    "post": "Yes, I think schools should ban them. Students spend most of their day at school, so the options available there strongly shape their habits. If the vending machine right next to the classroom sells only water and milk, many students will just drink those instead of walking off campus to buy soda. Schools are supposed to teach healthy living, so selling soda sends a confusing message."
+   },
+   {
+    "name": "Jake",
+    "post": "I don't support a ban. Teenagers are almost adults, and they need to practice making their own decisions about food. At my high school, after soda was removed, students just brought bottles from home or bought them at the convenience store across the street. Instead of banning drinks, schools should teach nutrition and maybe add clear sugar information to the vending machines."
+   }
+  ],
+  "sample_response": "I agree with Holly that high schools should ban the sale of sugary drinks on campus. Jake makes a reasonable point that some students will still bring soda from home, but a policy does not need to be perfect to be effective. If many students drink less sugar each day, the long-term health benefits could be significant. One issue that neither classmate mentioned is that schools sometimes earn money from beverage companies through vending machine contracts. This creates a conflict of interest, because the school benefits financially when students buy more soda. Removing sugary drinks makes it clear that the school values students' health more than profits. In addition, habits formed during adolescence often continue into adulthood, so a teenager who gets used to drinking water at school is more likely to keep that habit for life. For these reasons, I believe a ban is a sensible policy."
+ },
+ {
+  "id": "ad2-18",
+  "difficulty": "advanced",
+  "course": "biology",
+  "professor": {
+   "name": "Dr. Petrov"
+  },
+  "professor_post": "Advances in genetic engineering have made a once-fictional idea seem possible: de-extinction, or bringing back species such as the woolly mammoth or the passenger pigeon by editing the genomes of their closest living relatives. Supporters argue that revived species could restore lost ecological functions and that the research will produce tools useful for saving endangered species. Critics counter that the costs are enormous, that revived animals would lack suitable habitats, and that the same money could protect thousands of species that still exist today. Should research funding be directed toward de-extinction projects, or should it be devoted entirely to conserving existing species? Defend your position.",
+  "students": [
+   {
+    "name": "Ivy",
+    "post": "I think de-extinction research deserves some funding, though not a large share. The genetic techniques developed for mammoths, such as editing genes for cold tolerance, could later help endangered species adapt to changing climates. In that sense, the research isn't really competing with conservation; it may become one of its tools. Also, much of the current funding comes from private investors who wouldn't otherwise donate to traditional conservation programs."
+   },
+   {
+    "name": "Kenji",
+    "post": "I understand the scientific appeal, but I believe funding should go to existing species. Even if scientists produce a mammoth-like animal, it would essentially be a genetically modified elephant raised without parents of its own kind, so it couldn't learn natural behaviors. Meanwhile, hundreds of amphibian species are disappearing because of disease and habitat loss. Protecting those species is cheaper, more certain, and addresses an urgent crisis."
+   }
+  ],
+  "sample_response": "This is a difficult question, but I side with Kenji that public conservation funding should focus on existing species. Ivy makes a thoughtful point that the genetic tools may eventually benefit endangered animals; however, if that is the real goal, it would be more efficient to fund those tools directly for living species rather than through costly projects to recreate extinct ones. A further concern is what economists call moral hazard. If the public comes to believe that extinction is reversible, governments and industries may feel less pressure to prevent it in the first place. A developer, for instance, might argue that destroying a rare frog's wetland is acceptable because scientists could simply bring the species back later. Even a small shift in attitudes like this could cause far more harm than de-extinction could ever repair. Therefore, although the science is fascinating, I believe conservation budgets should protect the species we still have."
+ },
+ {
+  "id": "ad2-19",
+  "difficulty": "advanced",
+  "course": "environmental science",
+  "professor": {
+   "name": "Dr. Ramirez"
+  },
+  "professor_post": "In our unit on biological invasions, we have seen how species introduced by humans, such as rats on islands or certain fish in lakes, can drive native species toward extinction. Eradication programs can be highly effective, but they are expensive and sometimes require killing large numbers of animals. The issue becomes more complicated when an introduced species has lived somewhere for a century or more and now provides food or habitat for native wildlife. Some ecologists argue that such species have become part of the ecosystem. Should conservation managers try to eradicate long-established invasive species, or should they accept them as part of a new, changed ecosystem? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Lucia",
+    "post": "I believe managers should eradicate invasive species whenever it is feasible. Even if an introduced species now provides some benefits, it usually continues to push out native species that exist nowhere else. On many islands, removing introduced rats allowed seabird populations to recover dramatically within a few years. The fact that a species has been present for a long time doesn't change the damage it is causing today."
+   },
+   {
+    "name": "Miles",
+    "post": "I think we need to be more flexible. Ecosystems are always changing, and returning to some historical baseline is often unrealistic. In parts of the southwestern United States, an endangered bird nests in introduced tamarisk trees, so removing them could actually harm a native species. Rather than automatic eradication, managers should evaluate each case and act only when an invasive species is causing clear and serious harm."
+   }
+  ],
+  "sample_response": "I find Miles's case-by-case approach more convincing, although Lucia is right that eradication can produce remarkable results, as her seabird example shows. The key difference is that island rats are a clearly destructive threat, while many long-established species have become tangled in complex relationships that scientists do not fully understand. Removing them can trigger unexpected chain reactions. For instance, when cats were eliminated from Macquarie Island in Australia, the rabbit population exploded and destroyed much of the island's vegetation, which then required another costly eradication campaign. This example shows that removing one species can make problems worse if managers do not consider the entire food web. In addition, conservation budgets are limited, so money spent fighting a species that is now relatively harmless could instead protect habitats under urgent threat. Therefore, I believe managers should carefully assess each situation rather than eradicating every introduced species by default."
+ },
+ {
+  "id": "ad2-20",
+  "difficulty": "advanced",
+  "course": "agriculture and food science",
+  "professor": {
+   "name": "Dr. Schultz"
+  },
+  "professor_post": "During the Green Revolution of the mid-twentieth century, new high-yield varieties of wheat and rice dramatically increased food production and helped prevent famines. However, these varieties often replaced thousands of traditional local crops, and planting the same variety across huge areas can make harvests vulnerable to a single disease or extreme weather event. Today, agricultural research institutes must decide how to allocate limited budgets. Should they prioritize developing even higher-yielding varieties of major crops to feed a growing population, or should they focus on preserving and improving crop diversity to make food systems more resilient? Explain which priority you would choose and why.",
+  "students": [
+   {
+    "name": "Nadia",
+    "post": "Given that the world population may approach ten billion, I think yield has to remain the priority. If yields don't keep rising, farmers will clear more forests to grow food, which would be an environmental disaster. That said, I'm not suggesting we ignore diversity entirely; seed banks can preserve traditional varieties at relatively low cost while most research focuses on productivity."
+   },
+   {
+    "name": "Owen",
+    "post": "I would prioritize diversity. The Irish Potato Famine happened largely because farmers depended on a very small number of potato varieties that were all vulnerable to the same disease. With climate change bringing new pests and unpredictable weather, a narrow genetic base is a serious risk. Traditional varieties often contain genes for drought or heat tolerance that may become essential in the future."
+   }
+  ],
+  "sample_response": "Both classmates raise important points, but I agree with Owen that research should prioritize crop diversity. Nadia's concern about clearing forests is serious; however, high yields matter little if a single disease or heat wave can wipe out an entire region's harvest. Resilience is, in effect, a form of long-term productivity. I would also point out that diversity benefits nutrition, not just stability. Many high-yield staples provide plenty of calories but relatively few vitamins and minerals, while traditional crops like millet, sorghum, and indigenous vegetables are often richer in iron, zinc, and protein. In parts of Africa and South Asia, millions of people consume enough calories yet still suffer from nutrient deficiencies. Investing in diverse crops could address this hidden hunger while making farms more adaptable to climate change. Moreover, seeds stored in banks are not adapted to new conditions unless researchers actively work with them. For these reasons, diversity deserves priority."
+ },
+ {
+  "id": "ad2-21",
+  "difficulty": "advanced",
+  "course": "public health",
+  "professor": {
+   "name": "Dr. Thornton"
+  },
+  "professor_post": "Public health agencies operate with limited budgets and must constantly decide where resources will save the most lives. Chronic diseases, such as heart disease and diabetes, cause the majority of deaths in many countries every year, and prevention programs can produce steady, measurable gains. Pandemic preparedness, including stockpiling supplies, building surveillance systems, and maintaining vaccine production capacity, protects against rare events that can be catastrophic but may not occur for decades. If you were directing a national public health agency, would you allocate more of its budget to preventing chronic disease or to preparing for future pandemics? Justify your choice by weighing the risks involved.",
+  "students": [
+   {
+    "name": "Pia",
+    "post": "I would prioritize chronic disease. These illnesses are killing people right now, every single day, and we already know which interventions work, such as reducing smoking and improving access to blood pressure medication. Spending heavily on preparedness means investing in something that may not happen for decades, and stockpiled supplies can expire before they are ever used. Certain benefits should outweigh uncertain ones."
+   },
+   {
+    "name": "Rafael",
+    "post": "I'd lean toward preparedness, even though chronic disease causes more deaths in an average year. A severe pandemic can overwhelm hospitals, shut down economies, and interrupt treatment for chronic conditions too. The COVID-19 pandemic showed that the cost of being unprepared is measured in trillions of dollars. Preparedness is like insurance: it seems wasteful until the moment you desperately need it."
+   }
+  ],
+  "sample_response": "I agree with Rafael that pandemic preparedness deserves a larger share of the budget, although Pia is right that chronic disease causes more deaths in a typical year. My main reason is that the two types of spending differ in who else can pay for them. Chronic disease prevention can be supported by many other groups, including private health insurers, employers with wellness programs, schools, and local governments. Pandemic preparedness, on the other hand, is a classic public good: no private company has an incentive to maintain unused vaccine factories or national disease surveillance networks. If the national agency does not fund these systems, nobody will. Furthermore, Pia's concern about expiring supplies can be addressed by rotating stockpiled items into regular hospital use before they expire. Since the agency is uniquely responsible for preparedness while chronic disease has multiple supporters, I believe directing more funding toward pandemic readiness is the wiser choice."
+ },
+ {
+  "id": "ad2-22",
+  "difficulty": "advanced",
+  "course": "medicine and society",
+  "professor": {
+   "name": "Dr. Uddin"
+  },
+  "professor_post": "In recent years, artificial intelligence systems have been trained to detect conditions such as skin cancer, eye disease, and lung abnormalities from medical images, sometimes matching the accuracy of specialists in controlled studies. Some hospitals are considering having AI review every scan before a doctor does, flagging urgent cases and suggesting a preliminary diagnosis. Supporters say this could reduce waiting times and catch diseases earlier. Critics worry that doctors may begin to trust the software too much and that errors could be difficult to detect or explain. Should hospitals use AI systems to provide preliminary diagnoses before doctors review patients' cases? Explain your position.",
+  "students": [
+   {
+    "name": "Sara",
+    "post": "I support using AI for preliminary diagnosis, as long as a doctor always makes the final decision. Radiologists in many hospitals review hundreds of scans per day, and fatigue leads to mistakes. An AI system that flags suspicious scans first would help doctors focus their attention where it matters most. Patients with urgent conditions, like a stroke, would receive treatment hours earlier, which can save lives."
+   },
+   {
+    "name": "Tomas",
+    "post": "I'm cautious about this. Research on automation shows that when people work with a system that is usually right, they stop checking its work carefully. If the AI labels a scan as normal, a busy doctor might not look closely and could miss a rare condition the software wasn't trained to recognize. AI can also perform worse for patient groups underrepresented in its training data, which could worsen health inequalities."
+   }
+  ],
+  "sample_response": "I agree with Sara that hospitals should use AI for preliminary diagnosis, but Tomas raises serious concerns that should shape how it is introduced. In my view, the risk of overreliance is real, yet a similar risk already exists with exhausted doctors who must review scans quickly. The question is not whether the system will be perfect but whether it improves outcomes overall. One benefit that hasn't been discussed is access in underserved areas. Many rural hospitals have no specialists at all, so patients may wait weeks for an expert in a distant city to examine their images. A reliable AI system could provide an immediate first assessment, identifying the patients who need urgent transfer. To address Tomas's point about bias, hospitals could require that every system be tested on local patient populations and regularly audited for errors. With these safeguards, I believe AI-assisted screening would save time and lives, especially for patients who currently have the least access to specialists."
+ },
+ {
+  "id": "ad2-23",
+  "difficulty": "advanced",
+  "course": "medicine and society",
+  "professor": {
+   "name": "Dr. Vargas"
+  },
+  "professor_post": "During the COVID-19 pandemic, telemedicine expanded rapidly, and many patients discovered that they could consult a doctor by video call without traveling or sitting in a waiting room. Now some health systems are considering making video visits the default for routine appointments, such as follow-ups, prescription renewals, and minor complaints, while reserving in-person visits for cases that require a physical examination. Supporters point to convenience and efficiency, while critics argue that remote care weakens the relationship between patients and doctors and may cause subtle symptoms to be missed. Should telemedicine become the default for routine medical care? Weigh the benefits and drawbacks in your answer.",
+  "students": [
+   {
+    "name": "Uma",
+    "post": "I believe it should. For routine follow-ups, a video call saves patients hours of travel and waiting, which matters especially for people with jobs, young children, or limited mobility. My grandfather lives two hours from his cardiologist, and switching most of his check-ups to video calls made it much easier for him to keep regular appointments. Doctors can still request an in-person visit if something seems wrong."
+   },
+   {
+    "name": "Vivian",
+    "post": "I don't think it should be the default. A lot of important information comes from being in the same room, such as noticing a patient's posture, skin color, or breathing. Patients also tend to share sensitive concerns more openly once they have built trust in person. And not everyone has a reliable internet connection or a private space at home to talk about their health."
+   }
+  ],
+  "sample_response": "I agree with Uma that telemedicine should become the default for routine care, though Vivian's concerns suggest that the default must be easy to change. Vivian is right that some information is lost on video, but routine appointments like prescription renewals rarely depend on a physical examination, and the system Dr. Vargas described would still allow in-person visits whenever needed. An additional argument for telemedicine is that it can improve care for people who are hardest to reach. Many patients skip follow-up appointments because they cannot take time off work, and missed visits are a common reason that chronic conditions like diabetes get worse. A ten-minute video call during a lunch break is far easier to attend. Telemedicine also frees in-person slots for patients who truly need them, shortening wait times for everyone. To address the internet access problem, clinics could offer phone visits or private booths in community centers. Overall, the benefits clearly outweigh the drawbacks."
+ },
+ {
+  "id": "ad2-24",
+  "difficulty": "advanced",
+  "course": "computer science",
+  "professor": {
+   "name": "Dr. Whitaker"
+  },
+  "professor_post": "In our module on software ecosystems, we have compared proprietary software, whose code is owned and controlled by a company, with open-source software, whose code is publicly available for anyone to inspect, modify, and share. Several governments now require their agencies to prefer open-source tools whenever possible. Advocates argue that this saves licensing fees, prevents dependence on a single vendor, and allows citizens to verify how public systems work. Opponents point out that commercial products often come with professional support, better usability, and clear accountability when something goes wrong. Should government agencies be required to use open-source software instead of proprietary products? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Wyatt",
+    "post": "Yes, I think open source should be required. Public software is paid for with taxpayers' money, so taxpayers should be able to see how it works. Transparency matters especially for systems like tax calculations or benefit eligibility, where a hidden error could affect thousands of citizens. Open code also allows independent experts to find security vulnerabilities, rather than relying entirely on one company to discover them."
+   },
+   {
+    "name": "Yasmin",
+    "post": "I'd say a strict requirement goes too far. Open source isn't automatically cheaper: someone still has to install, maintain, and update the software, and government agencies often lack skilled staff to do that. I read about a city that switched its offices to open-source tools and later switched back because of compatibility problems and training costs. Agencies should choose whatever works best for each situation."
+   }
+  ],
+  "sample_response": "I agree with Wyatt that government agencies should generally be required to use open-source software, although Yasmin's example shows that the transition must be planned carefully. The compatibility problems she mentioned are real, but they often result from a sudden, poorly supported switch rather than from open source itself. One important benefit that hasn't been mentioned is long-term control over public data. When an agency depends on proprietary software, it may store years of records in formats that only that vendor's product can read. If the company raises prices dramatically or stops supporting the product, the agency has very few options. This situation, known as vendor lock-in, can cost far more over time than any initial savings. With open-source tools, the code and data formats remain accessible, so another company or the government itself can continue maintaining the system. Because public institutions must serve citizens for decades, I believe independence and transparency should outweigh short-term convenience."
+ },
+ {
+  "id": "ad2-25",
+  "difficulty": "advanced",
+  "course": "engineering",
+  "professor": {
+   "name": "Dr. Yamada"
+  },
+  "professor_post": "In our structural design course, we have discussed the concept of design life, the period during which a structure is expected to perform safely. Engineers can design a bridge to last about fifty years using standard materials, or to last a hundred years or more with corrosion-resistant steel, thicker concrete, and stronger foundations, which might raise construction costs by thirty percent or more. Longer-lasting structures reduce future replacement needs, but cheaper ones free money for other projects today and can be redesigned later with better technology. When building major public infrastructure, should governments pay more for long-lasting designs or choose less expensive structures that will be replaced sooner? Explain your view.",
+  "students": [
+   {
+    "name": "Zack",
+    "post": "I believe governments should invest in long-lasting designs. Replacing a bridge is not just expensive; it means years of closed roads, detours, and traffic jams that cost the economy money. Many old bridges in my country are falling apart because they were built cheaply decades ago, and now governments must replace dozens at the same time. Paying more once is better than passing problems to the next generation."
+   },
+   {
+    "name": "Anya",
+    "post": "I would lean toward less expensive designs in many cases. Predicting needs a century ahead is nearly impossible. A bridge built in 1925 was designed for horse carts and early cars, not today's heavy trucks. Similarly, future transportation may look completely different from what we expect. With the money saved, governments can build more infrastructure now and adopt improved materials when replacement time comes."
+   }
+  ],
+  "sample_response": "Anya makes a thoughtful point about uncertainty, but I agree with Zack that governments should usually pay more for long-lasting designs. Anya's example of horse carts is interesting; however, many bridges built for 1925 traffic are still in use because engineers were able to strengthen and widen durable structures rather than replace them completely. Durability, in other words, creates options rather than limiting them. Another factor that neither classmate mentioned is the environmental cost of construction. Producing cement and steel generates enormous amounts of carbon dioxide, so building a structure twice over a century releases far more emissions than building it once with stronger materials. Demolition also creates tons of waste and disturbs rivers and nearby communities. When these hidden costs are included, the extra thirty percent that Dr. Yamada mentioned seems quite reasonable. For these reasons, I believe that investing in durable infrastructure is both economically and environmentally responsible."
+ },
+ {
+  "id": "ad2-26",
+  "difficulty": "advanced",
+  "course": "architecture",
+  "professor": {
+   "name": "Dr. Zhou"
+  },
+  "professor_post": "This week we examined adaptive reuse, the practice of converting old buildings, such as factories, warehouses, or schools, for new purposes like apartments, offices, or museums. Preservationists argue that reuse protects a community's character and avoids the large carbon emissions involved in demolishing and constructing new buildings. Developers, however, often find that older structures are difficult to adapt: they may have poor insulation, low ceilings, or outdated layouts, and a new building could be far more energy-efficient over its lifetime. When an old building no longer serves its original purpose, should cities encourage adaptive reuse, or should they allow it to be replaced with a modern, efficient building? Defend your answer.",
+  "students": [
+   {
+    "name": "Bruno",
+    "post": "I strongly favor adaptive reuse. Constructing a new building produces a huge amount of carbon from manufacturing concrete and steel, and studies suggest it can take decades for a new efficient building to make up for those emissions. Old buildings also give neighborhoods their identity. A converted brick factory in my city now holds artist studios and cafés, and it has become one of the most popular areas in town."
+   },
+   {
+    "name": "Cora",
+    "post": "I think it depends, but replacement is often the better choice. Some old buildings are so inefficient that heating them wastes energy every single day. Converting them can also be surprisingly expensive because of asbestos removal and earthquake reinforcement. If the goal is housing, a new building can fit far more apartments on the same land, which matters a lot in cities with housing shortages."
+   }
+  ],
+  "sample_response": "I agree with Bruno that cities should generally encourage adaptive reuse, although Cora is correct that some buildings are simply too inefficient or unsafe to save. Her concern about energy use is reasonable, but modern retrofits such as interior insulation, new windows, and heat pumps can dramatically improve an older building's performance without the emissions of full reconstruction. A further reason to favor reuse is its economic effect on local businesses. Converted buildings typically offer a variety of unusual spaces at lower rents than brand-new developments, which allows small shops, startups, and community organizations to find affordable homes. New buildings, by contrast, often charge rents that only large chains can afford. The urban writer Jane Jacobs famously argued that cities need old buildings to nurture new ideas, and many creative districts around the world support her view. Therefore, I believe reuse should be the default, with replacement permitted only when a careful assessment shows conversion is impractical."
+ },
+ {
+  "id": "ad2-27",
+  "difficulty": "advanced",
+  "course": "urban planning",
+  "professor": {
+   "name": "Dr. Adeyemi"
+  },
+  "professor_post": "For much of the twentieth century, many cities used zoning laws to separate land uses, placing homes in one area, offices in another, and shopping in a third. Today, many planners promote mixed-use development, in which apartments, shops, and workplaces share the same neighborhood or even the same building. Advocates say this reduces car trips and creates lively streets. However, residents sometimes complain about noise, delivery trucks, and crowding, and some businesses struggle on the ground floors of residential buildings. Should cities require new developments to include a mix of residential and commercial uses, or should they allow developers and residents to choose? Explain your position.",
+  "students": [
+   {
+    "name": "Dylan",
+    "post": "I think cities should require mixed use, at least in central areas. Separated zoning forced generations of people to drive for every errand, even just to buy milk. When daily needs are within walking distance, people are healthier and spend less on transportation. Without a requirement, developers tend to build whatever is most profitable in the short term, which is usually large single-use projects."
+   },
+   {
+    "name": "Esther",
+    "post": "I'm not sure a requirement is wise. Many ground-floor shops in new mixed-use buildings stay empty for years because there isn't enough foot traffic to support them. Forcing retail space where there's no demand wastes resources and creates dead streets, which is the opposite of the goal. Also, some families specifically want quiet residential neighborhoods, and planning rules should respect those preferences."
+   }
+  ],
+  "sample_response": "Esther raises a convincing point about empty storefronts, but I still agree with Dylan that cities should require mixed-use development, provided the rules are flexible. Instead of insisting on traditional retail in every building, a city could allow ground floors to hold clinics, daycare centers, gyms, or small offices, which bring activity to the street even where shops would struggle. One benefit that hasn't been mentioned is safety. When a neighborhood contains both homes and businesses, people are present at different times of day: workers and customers during the day, residents in the evening. This constant activity provides what planners call 'eyes on the street,' which discourages crime and makes people feel comfortable walking. Purely commercial districts, on the other hand, often feel empty and unsafe after offices close. Regarding Esther's concern about families who prefer quiet areas, existing residential neighborhoods would not disappear; the requirement would apply only to new development. For these reasons, I support a carefully designed mixed-use requirement."
+ },
+ {
+  "id": "ad2-28",
+  "difficulty": "advanced",
+  "course": "transportation",
+  "professor": {
+   "name": "Dr. Bishop"
+  },
+  "professor_post": "Several major cities, including London, Stockholm, and Singapore, charge drivers a fee to enter the busiest parts of downtown during peak hours, a policy known as congestion pricing. These programs have reduced traffic and air pollution, and the revenue is often used to improve public transit. However, critics argue that the fees are unfair to lower-income workers who must drive, that they may harm businesses in the charged zone, and that they effectively allow wealthier people to buy access to public roads. Would you support introducing congestion pricing in a large, crowded city? Explain your position, considering both its benefits and its costs.",
+  "students": [
+   {
+    "name": "Finn",
+    "post": "I would support it. Roads are a limited resource, and when they are free, everyone uses them at the same time, causing traffic jams that waste everyone's time. In Stockholm, traffic dropped by about twenty percent after pricing began, and public support grew once people experienced faster trips. If the revenue goes into buses and trains, lower-income residents can gain more than they lose."
+   },
+   {
+    "name": "Gloria",
+    "post": "I'm hesitant. Many lower-income workers, like nurses and cleaners, work night shifts or live in neighborhoods with poor transit, so they have no real alternative to driving. A daily fee could take a significant part of their income, while wealthy drivers wouldn't even notice it. Before charging anyone, cities should first make sure that public transportation is reliable enough to replace the car."
+   }
+  ],
+  "sample_response": "I would support congestion pricing, but I think Gloria identifies the most important condition for making it fair. Finn is correct that free roads lead to overuse, and the Stockholm results show that pricing can work. However, Gloria's point about workers without alternatives means that the policy should include targeted protections, such as discounts for low-income residents or exemptions during late-night hours when buses run infrequently. An argument that neither classmate mentioned is that the people most harmed by congestion are often not drivers at all. Bus passengers are stuck in the same traffic, and residents of busy central streets, who are frequently lower-income, breathe the most polluted air. In London, congestion pricing initially allowed buses to run faster and more reliably, benefiting millions of riders who never owned a car. So, although the fee looks unfair at first glance, a well-designed program that reinvests its revenue in transit can actually make a city's transportation system fairer overall."
+ },
+ {
+  "id": "ad2-29",
+  "difficulty": "advanced",
+  "course": "energy policy",
+  "professor": {
+   "name": "Dr. Carver"
+  },
+  "professor_post": "As countries shift toward renewable energy, they face an important design choice. One path is centralized generation: large solar farms and wind parks, often in remote areas, connected to cities by long transmission lines. These projects benefit from economies of scale and usually produce electricity at the lowest cost per unit. The other path is distributed generation: solar panels and batteries on the rooftops of homes, schools, and businesses, producing power close to where it is used. Distributed systems cost more per unit but require no additional land and can keep running during grid failures. Which approach should governments prioritize in their transition to renewable energy? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Hassan",
+    "post": "I think governments should prioritize centralized projects. The climate crisis is urgent, and we need to replace fossil fuels as quickly and cheaply as possible. A single large solar farm can be built in a year or two and produce as much electricity as many thousands of rooftop systems. Subsidizing rooftop panels also mainly benefits homeowners who can afford them, not renters or low-income families."
+   },
+   {
+    "name": "Iris",
+    "post": "I'd prioritize distributed generation. Large projects often face years of delays because new transmission lines require permits, and local communities frequently oppose them. Rooftops, on the other hand, are already available and don't take land from farms or wildlife. Also, when a storm knocks out the grid, homes with solar panels and batteries can keep the lights on, which can be life-saving for people who rely on medical equipment."
+   }
+  ],
+  "sample_response": "Both classmates make strong arguments, but I agree with Hassan that governments should prioritize centralized generation while still supporting distributed systems in specific situations. Iris is right that transmission lines face delays, yet this problem calls for faster permitting rather than a change in overall strategy. My main reason concerns the scale of future demand. As cars, heating, and industry switch from fossil fuels to electricity, many countries will need far more electricity than they use today. Factories, steel mills, and data centers require enormous, steady amounts of power that rooftop panels simply cannot provide. Only utility-scale projects, combined with large battery facilities, can meet this demand at an affordable price. That said, Iris's point about resilience is valuable, so I would target distributed solar and batteries at critical sites like hospitals, emergency shelters, and remote communities. This balanced approach captures the cost advantages of scale while protecting the places that most need reliable power."
+ },
+ {
+  "id": "ad2-30",
+  "difficulty": "advanced",
+  "course": "space exploration",
+  "professor": {
+   "name": "Dr. Dubois"
+  },
+  "professor_post": "For most of the space age, exploration was carried out almost entirely by government agencies such as NASA and the European Space Agency. In the past fifteen years, however, private companies have taken on a much larger role, developing reusable rockets, delivering cargo to the International Space Station, and planning missions to the Moon and Mars. Supporters credit private competition with dramatically reducing launch costs. Critics worry that profit-driven companies may prioritize commercial goals, such as tourism or satellite internet, over scientific discovery, and that important decisions about space may be made without public accountability. Should future space exploration be led mainly by government agencies or by private companies? Explain your view.",
+  "students": [
+   {
+    "name": "Jonas",
+    "post": "I think private companies should take the lead. Competition has already reduced the cost of reaching orbit dramatically, mainly because companies figured out how to land and reuse rockets, something government agencies didn't prioritize for decades. Companies also move faster because they don't depend on yearly political budget decisions. Governments can simply act as customers, paying companies for launches while focusing their own resources on science."
+   },
+   {
+    "name": "Kira",
+    "post": "I believe governments should lead. Space exploration involves questions that affect all of humanity, such as how to protect the Moon's environment or who has the right to use resources from asteroids. These decisions shouldn't be left to a few companies. Also, many valuable scientific missions, like studying distant planets, will never be profitable, so private firms have little reason to pursue them."
+   }
+  ],
+  "sample_response": "I agree with Kira that government agencies should continue to lead space exploration, although Jonas is right that private companies have brought impressive innovation to launch technology. The best model, in my view, is one in which governments set the goals and companies compete to provide services, which is close to what Jonas describes, but with public agencies firmly in charge of direction. An additional concern that neither classmate raised is long-term reliability. Companies can change priorities, be sold, or go bankrupt, and their decisions often depend on the vision of a single founder. Scientific missions, however, frequently last decades; the Hubble Space Telescope, for instance, has been operating for more than thirty years. Only stable public institutions can guarantee the continuous funding, data archives, and expertise that such long missions require. Furthermore, government leadership keeps scientific data publicly available rather than locked behind corporate ownership. For these reasons, I believe exploration should remain publicly led, with private firms playing an important supporting role."
+ },
+ {
+  "id": "ad2-31",
+  "difficulty": "advanced",
+  "course": "data science",
+  "professor": {
+   "name": "Dr. Ellison"
+  },
+  "professor_post": "In machine learning, there is often a trade-off between accuracy and interpretability. Complex models, such as deep neural networks, can make highly accurate predictions, but even their designers cannot fully explain why a particular decision was made. Simpler models, like decision trees, are easier to understand but sometimes less accurate. This trade-off becomes important when algorithms help make decisions about people, such as approving loans, screening job applicants, or predicting which patients need extra care. In such high-stakes situations, should organizations be required to use models whose decisions can be explained, even if that means accepting lower accuracy? Explain your position.",
+  "students": [
+   {
+    "name": "Lars",
+    "post": "Yes, I think explainability should be required for decisions about people. If a bank denies someone a loan, that person deserves to know why and to have a chance to correct mistakes in their data. A black-box model can also hide unfair patterns. One hiring algorithm reportedly learned to downgrade resumes that mentioned women's organizations, and it was hard to detect because nobody understood how the system worked."
+   },
+   {
+    "name": "Marisol",
+    "post": "I think a strict requirement could do more harm than good. In medicine, for example, a more accurate model could correctly identify patients at risk of serious illness whom a simpler model would miss. Choosing a less accurate model means accepting more wrong decisions, and those errors affect real people too. Instead, organizations should test complex models carefully for bias and allow people to appeal decisions."
+   }
+  ],
+  "sample_response": "This trade-off is challenging, but I agree with Lars that explainability should be required for high-stakes decisions about people. Marisol makes a fair point about medicine, yet the accuracy gap is often smaller than people assume. Researchers have found that for many structured datasets, like loan applications or patient records, carefully designed simple models perform almost as well as complex ones. Therefore, organizations frequently sacrifice very little accuracy by choosing interpretable models. Another reason to require explainability is that it helps organizations improve their own systems. When analysts can see which factors drive predictions, they can notice when a model relies on a meaningless or outdated pattern, such as a hospital billing code that changed years ago. With a black-box model, such errors may continue unnoticed until they cause serious harm. Finally, Marisol suggests allowing appeals, but an appeal is nearly meaningless if no one can explain the original decision. For these reasons, I support requiring interpretable models."
+ },
+ {
+  "id": "ad2-32",
+  "difficulty": "advanced",
+  "course": "marine science",
+  "professor": {
+   "name": "Dr. Fontaine"
+  },
+  "professor_post": "Marine protected areas, or MPAs, are regions of the ocean where human activities are restricted to conserve ecosystems. Some MPAs are fully protected 'no-take' zones where all fishing is banned, and research shows that fish populations inside them often recover dramatically. Many others allow limited or sustainable fishing, which is easier for local fishing communities to accept but usually produces smaller ecological benefits. Many governments have pledged to protect thirty percent of the ocean by 2030, and they must decide what kind of protection to provide. Should new marine protected areas be fully no-take zones, or should they permit regulated fishing? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Nolan",
+    "post": "I believe new MPAs should be fully no-take. Studies comparing different types of protected areas have found that partially protected zones often show little difference from unprotected waters. Meanwhile, fish in no-take zones grow larger and produce many more eggs, and these young fish spread into surrounding areas, which can actually improve catches nearby. Partial protection risks creating 'paper parks' that exist only on maps."
+   },
+   {
+    "name": "Olga",
+    "post": "I'd support allowing regulated fishing in many areas. In coastal communities in places like West Africa or Southeast Asia, families depend on fishing for both food and income. If an MPA suddenly bans all fishing, people may lose their livelihoods or simply ignore the rules, which makes enforcement nearly impossible. Protection only works when local communities support it, so a gradual, regulated approach is more realistic."
+   }
+  ],
+  "sample_response": "I agree with Nolan that new marine protected areas should mostly be no-take zones, but Olga's point about community support is crucial for making them succeed. Rather than choosing one model everywhere, governments could place no-take core zones within larger areas that allow regulated fishing, and involve local fishers in deciding where the boundaries go. Still, I believe strict protection should be the priority, for a reason that neither classmate mentioned: no-take zones serve as scientific reference points. Because the ocean is affected by many pressures at once, including warming water and pollution, scientists need undisturbed areas to determine how much change is caused by fishing alone. Without such baselines, it becomes very difficult to set accurate catch limits elsewhere. In other words, no-take zones benefit fisheries management far beyond their own boundaries. Combined with the spillover effect Nolan described, this makes full protection a long-term investment that ultimately supports both marine ecosystems and fishing communities."
+ },
+ {
+  "id": "ad2-33",
+  "difficulty": "advanced",
+  "course": "climate science",
+  "professor": {
+   "name": "Dr. Grant"
+  },
+  "professor_post": "Solar geoengineering refers to proposals to cool the planet by reflecting a small amount of sunlight back into space, for example by releasing tiny particles into the upper atmosphere, similar to the cooling effect observed after large volcanic eruptions. Some scientists argue that research into these methods is necessary in case warming becomes dangerous faster than emissions can be reduced. Others warn that the techniques could disrupt rainfall patterns, create international conflicts over who controls the global thermostat, and reduce the pressure to cut emissions. Should governments fund research into solar geoengineering, or should climate funding be focused entirely on reducing emissions and adapting to climate change? Explain your view.",
+  "students": [
+   {
+    "name": "Pedro",
+    "post": "I think governments should fund research, mainly so that we understand the risks. Some country, or even a wealthy individual, could attempt geoengineering in the future, especially during a severe climate emergency. If that happens, the world needs scientific knowledge to evaluate what the effects would be. Studying something is not the same as deploying it, and avoiding research simply leaves us unprepared."
+   },
+   {
+    "name": "Rhea",
+    "post": "I'd argue against funding it. Just talking about a technological 'quick fix' gives polluting industries an excuse to delay reducing emissions. Also, geoengineering would only mask warming; carbon dioxide would keep building up, and the oceans would keep becoming more acidic. Every dollar should go toward solutions that address the actual cause, like renewable energy, or help vulnerable communities adapt."
+   }
+  ],
+  "sample_response": "I agree with Pedro that governments should fund solar geoengineering research, although Rhea's concern about delaying emissions cuts is understandable. In my view, the solution is to keep the research budget small compared to spending on clean energy and to state clearly that it is not a replacement for reducing emissions. Rhea is correct that geoengineering would not stop ocean acidification, but this is precisely why scientists should study its limits carefully rather than leave them unexamined. One reason neither classmate mentioned is that publicly funded research supports international governance. If geoengineering is studied openly by universities and shared through international scientific organizations, the results become available to every country, including the small and poor nations most threatened by climate change. Without public research, knowledge might be concentrated in a few powerful countries or private companies, giving them dangerous influence. Transparent study allows the world to develop rules before anyone is tempted to act alone. Therefore, cautious, well-governed research is the responsible choice."
+ },
+ {
+  "id": "ad2-34",
+  "difficulty": "advanced",
+  "course": "tourism",
+  "professor": {
+   "name": "Dr. Hayes"
+  },
+  "professor_post": "Many famous destinations, including Venice, Barcelona, and Machu Picchu, are struggling with overtourism, a situation in which visitor numbers damage the local environment, raise housing prices, and reduce residents' quality of life. In response, some places have introduced daily visitor limits, entry fees for day-trippers, or advance reservation systems. Supporters argue these measures protect fragile sites and communities. Critics respond that they make travel more expensive and exclusive, harm small businesses that depend on tourism, and simply push crowds to nearby destinations. Should popular destinations restrict the number of visitors they allow? Explain your position, considering the interests of residents, businesses, and travelers.",
+  "students": [
+   {
+    "name": "Simon",
+    "post": "Yes, I think limits are necessary. In Venice, the number of permanent residents has fallen sharply over recent decades, partly because apartments have been converted into short-term rentals and daily life has become difficult with so many crowds. If a destination loses its residents and its character, it eventually loses what attracted tourists in the first place. A limit protects the long-term value of the place."
+   },
+   {
+    "name": "Talia",
+    "post": "I'm against strict caps. They would turn famous places into luxury experiences for people who can afford to book months in advance and pay high fees. Students and lower-income travelers would be excluded. Instead, cities could spread visitors out by promoting lesser-known neighborhoods, encouraging travel in the off-season, and limiting cruise ships, which bring huge crowds for only a few hours."
+   }
+  ],
+  "sample_response": "I agree with Simon that popular destinations should be allowed to restrict visitor numbers, although Talia raises a valid concern about fairness. To address it, destinations could reserve a portion of daily entry spots for low-cost tickets distributed by lottery, so access is not determined only by money. My main reason for supporting limits is that some sites face physical damage that cannot be undone. At Machu Picchu, for example, thousands of footsteps every day gradually wear down ancient stone paths and terraces. Promoting other neighborhoods, as Talia suggests, may relieve crowded city streets, but it cannot help a single irreplaceable archaeological site that everyone wants to see. Furthermore, limits can actually improve visitors' experiences. Anyone who has struggled to see a famous painting over a crowd of raised phones knows that overcrowding makes a visit less meaningful. For these reasons, I believe carefully designed visitor limits benefit residents, sites, and tourists alike."
+ },
+ {
+  "id": "ad2-35",
+  "difficulty": "advanced",
+  "course": "sports science",
+  "professor": {
+   "name": "Dr. Iqbal"
+  },
+  "professor_post": "Sports equipment has changed dramatically thanks to advances in materials science. Full-body polyurethane swimsuits helped swimmers break dozens of world records in 2008 and 2009 before they were banned, and modern running shoes with carbon-fiber plates and special foams have been linked to rapid improvements in marathon times. Some argue that technological progress is a natural part of sport, just like better training and nutrition. Others believe that when equipment provides a large advantage, competitions measure technology rather than athletic ability, and athletes without access to the latest products are left behind. Should sports governing bodies strictly limit performance-enhancing equipment? Explain your view.",
+  "students": [
+   {
+    "name": "Malik",
+    "post": "I think strict limits are necessary. Sports are supposed to compare athletes, not engineering departments. When the high-tech swimsuits were allowed, long-standing records fell almost every week, and some of those records became almost impossible to break once the suits were banned. Athletes from smaller countries or with smaller sponsorship deals also couldn't access the newest equipment, which made competition unfair."
+   },
+   {
+    "name": "Selin",
+    "post": "I believe some technological progress should be accepted. Pole vaulters once used bamboo poles and later switched to fiberglass, and no one today thinks modern vaulters are cheating. New equipment can also reduce injuries; well-cushioned shoes help protect runners' joints. As long as the equipment is available to all athletes at a reasonable price, it shouldn't be banned simply because it improves performance."
+   }
+  ],
+  "sample_response": "I agree with Selin that technological progress should generally be accepted in sports, although Malik's concern about unequal access is important. The key, as Selin suggests, is to require that any approved equipment be commercially available to every competitor well before major events, which several governing bodies have started doing. A point that neither classmate mentioned is that strict limits would be extremely difficult to define and enforce. Nearly every piece of modern equipment, from tennis rackets to bicycles, involves advanced materials, so officials would have to decide exactly where improvement becomes unacceptable. This creates endless disputes and might block beneficial innovations, such as safer helmets or better prosthetic limbs for para-athletes. Moreover, the history of sport shows that new equipment often makes events more exciting for fans and encourages more people to participate. Instead of strict bans, governing bodies should set clear standards for fairness and availability. For these reasons, I believe innovation should be regulated thoughtfully rather than heavily restricted."
+ }
+]
