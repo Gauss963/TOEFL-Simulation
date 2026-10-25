@@ -180,6 +180,11 @@ struct TOEFLQuestion: Identifiable, Hashable, Codable {
     /// Listen and Repeat illustration: the setting and the places visited in order.
     var setting: String? = nil
     var stops: [String]? = nil
+    /// Complete the Words study notes: the word's part of speech, its meaning in context (Traditional
+    /// Chinese), and how the context and spelling lead to the answer.
+    var partOfSpeech: String? = nil
+    var wordGloss: String? = nil
+    var blankReason: String? = nil
 
     var countsTowardScore: Bool { isScored ?? true }
 

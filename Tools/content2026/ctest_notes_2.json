@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "ct2-01",
+  "blanks": [
+   {
+    "word": "process",
+    "pos": "n.",
+    "zh": "過程；作用",
+    "why": "This 之後、逗號之前需要名詞，指上一句「動物自己發光」這件事；This process, called X 是引出新術語的常見句型。前半 pro 已給，補 cess，注意結尾是兩個 s。"
+   },
+   {
+    "word": "bioluminescence",
+    "pos": "n.",
+    "zh": "生物發光",
+    "why": "called 後面接這個過程的正式名稱，也就是全段主題：bio-（生物）+ lumin（光）+ -escence（名詞字尾）。補 nescence，注意 -sc- 的拼法。"
+   },
+   {
+    "word": "when",
+    "pos": "conj.",
+    "zh": "當…時（引導條件或時間子句）",
+    "why": "happens 後面接了完整子句 a chemical reaction ... releases energy，所以需要從屬連接詞；happens when ... 用來說明「在什麼情況下發生」。wh 後只補 en。"
+   },
+   {
+    "word": "reaction",
+    "pos": "n.",
+    "zh": "反應",
+    "why": "形容詞 chemical 後面需要名詞，chemical reaction（化學反應）是固定搭配。react 加名詞字尾 -tion，補 tion。"
+   },
+   {
+    "word": "special",
+    "pos": "adj.",
+    "zh": "特殊的；專門的",
+    "why": "介系詞 inside 之後、名詞 cells 之前要用形容詞修飾 cells，指專門負責發光的細胞。spe 後補 cial，不要寫成 -tial。"
+   },
+   {
+    "word": "releases",
+    "pos": "v.",
+    "zh": "釋放",
+    "why": "這是主詞 a chemical reaction（單數）的主要動詞，現在式要加 -s；release energy 是常見搭配。release 本身以 e 結尾，所以補 ases。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "以…的形式",
+    "why": "release energy as light 表示「以光的形式釋放能量」，as 是介系詞。只剩 a，補 s；不是 at，這裡不表示地點。"
+   },
+   {
+    "word": "Most",
+    "pos": "pron.",
+    "zh": "大部分",
+    "why": "句首大寫 Mo，後面接 of this light，Most of ... 表示「…之中的大部分」。不是 More，因為句中沒有比較對象。"
+   },
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這（回指前文）",
+    "why": "of 之後、名詞 light 之前需要限定詞，回指上一句生物發出的光；light 是不可數名詞，所以用 this 而不是 these。"
+   },
+   {
+    "word": "is",
+    "pos": "v.",
+    "zh": "是（連綴動詞）",
+    "why": "主詞 this light 是不可數單數，後面接形容詞 blue，需要 be 動詞 is；i 後只缺 s。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-02",
+  "blanks": [
+   {
+    "word": "skin",
+    "pos": "n.",
+    "zh": "皮膚",
+    "why": "所有格 Their 後面一定接名詞，而首句剛說 the color of their skin，這裡直接重複 skin。sk 後補 in。"
+   },
+   {
+    "word": "thousands",
+    "pos": "n.",
+    "zh": "數千；成千上萬",
+    "why": "contains 的受詞，thousands of + 複數名詞 表示「成千上萬的」；沒有具體數字時 thousand 要加 -s，補 sands。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "of 之後、名詞 cells 之前需要形容詞，細胞當然是「小」的。sm 後補 all，注意雙寫 l。"
+   },
+   {
+    "word": "filled",
+    "pos": "v.",
+    "zh": "充滿（過去分詞，表被動）",
+    "why": "cells filled with ... 是分詞片語修飾 cells（= cells that are filled with），fill with 是固定搭配。前半 fil 已有一個 l，再補 led 變成雙 l 加 -ed。"
+   },
+   {
+    "word": "colored",
+    "pos": "adj.",
+    "zh": "有顏色的",
+    "why": "with 之後、名詞 pigment 之前需要形容詞，「有顏色的色素」呼應首句的 color。col 後補 ored；美式拼法是 colored，不是 coloured。"
+   },
+   {
+    "word": "When",
+    "pos": "conj.",
+    "zh": "當…時",
+    "why": "句首大寫，後面 tiny muscles ... stretch or relax 是子句，逗號後 the visible color changes 才是主要子句，所以要用從屬連接詞 When。"
+   },
+   {
+    "word": "muscles",
+    "pos": "n.",
+    "zh": "肌肉",
+    "why": "形容詞 tiny 後需要名詞，而能 stretch or relax（伸展或放鬆）的就是肌肉。注意中間不發音的 c：mus-cles，補 cles。"
+   },
+   {
+    "word": "these",
+    "pos": "det.",
+    "zh": "這些",
+    "why": "around 之後、複數名詞 cells 之前要用限定詞，回指上一句的 small cells；複數所以是 these，不是 this。"
+   },
+   {
+    "word": "stretch",
+    "pos": "v.",
+    "zh": "伸展；拉長",
+    "why": "主詞 tiny muscles 是複數，動詞用原形；與 or relax 形成相反動作，所以是「伸展」。str 後補 etch，注意 -tch。"
+   },
+   {
+    "word": "relax",
+    "pos": "v.",
+    "zh": "放鬆",
+    "why": "or 連接兩個並列動詞，和 stretch 相反的動作就是 relax（放鬆）。re 後補 lax。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-03",
+  "blanks": [
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "During 之後、單數名詞 period 之前需要限定詞，指上一句的冬眠期間，所以是 this period，而不是 these。"
+   },
+   {
+    "word": "their",
+    "pos": "det.",
+    "zh": "牠們的",
+    "why": "body temperature 屬於前面的 mammals，需要複數所有格 their；同音的 there 不能放在名詞前。"
+   },
+   {
+    "word": "temperature",
+    "pos": "n.",
+    "zh": "溫度",
+    "why": "their body ___ drops，body temperature（體溫）是固定搭配，冬眠時體溫下降。tempe 後補 rature，注意中間的 -ra- 常被漏掉寫成 temperture。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "而且；和",
+    "why": "前後是兩個完整子句 their body temperature drops 與 their heart rate slows，用對等連接詞 and 並列。"
+   },
+   {
+    "word": "heart",
+    "pos": "n.",
+    "zh": "心臟",
+    "why": "their ___ rate slows，heart rate（心跳速率）是固定搭配。he 後補 art，不要寫成 hear。"
+   },
+   {
+    "word": "slows",
+    "pos": "v.",
+    "zh": "變慢",
+    "why": "主詞 their heart rate 是單數，現在式動詞加 -s；後面 dramatically 修飾它，表示心跳大幅「變慢」，與 drops 意思呼應。sl 後補 ows。"
+   },
+   {
+    "word": "As",
+    "pos": "prep.",
+    "zh": "作為（As a result 的一部分）",
+    "why": "句首大寫，As a result（因此）是固定轉折片語，接在「體溫下降、心跳變慢」之後說明結果。A 後只補 s。"
+   },
+   {
+    "word": "they",
+    "pos": "pron.",
+    "zh": "牠們",
+    "why": "As a result, 之後需要子句主詞，指冬眠的 mammals，用複數代名詞 they。"
+   },
+   {
+    "word": "much",
+    "pos": "adv.",
+    "zh": "…得多（加強比較級）",
+    "why": "less 是比較級，前面用 much 加強語氣（much less = 少得多）；very 不能修飾比較級。mu 後補 ch。"
+   },
+   {
+    "word": "energy",
+    "pos": "n.",
+    "zh": "能量",
+    "why": "use less ___，冬眠的目的就是節省「能量」；less 修飾不可數名詞。ene 後補 rgy，注意 -rgy 的拼法。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-04",
+  "blanks": [
+   {
+    "word": "side",
+    "pos": "n.",
+    "zh": "一側；一面",
+    "why": "冠詞 The 之後需要名詞，The side of the Earth facing the Moon 是「地球朝向月球的那一面」，下一句 the opposite side 也印證。si 後補 de。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "of 後面接 Earth，學術文章常寫 the Earth（獨一無二的事物）；t 後補 he。"
+   },
+   {
+    "word": "facing",
+    "pos": "v.",
+    "zh": "面向（現在分詞）",
+    "why": "The side ... ___ the Moon，現在分詞片語修飾 The side（= the side that faces the Moon）。face 去 e 加 -ing，補 ing。"
+   },
+   {
+    "word": "Moon",
+    "pos": "n.",
+    "zh": "月球",
+    "why": "首句說潮汐主要來自 the Moon 的引力，這裡大寫 Mo 開頭，就是 Moon。"
+   },
+   {
+    "word": "pulled",
+    "pos": "v.",
+    "zh": "拉（過去分詞，被動）",
+    "why": "is ___ more strongly，be + 過去分詞構成被動，呼應首句的 gravitational pull。pul 後補 led，注意雙寫 l。"
+   },
+   {
+    "word": "strongly",
+    "pos": "adv.",
+    "zh": "強烈地",
+    "why": "more ___ 修飾動詞 is pulled，需要副詞，所以是 strongly 而不是 strong。stro 後補 ngly，字尾 -ly。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "than ___ center of the planet，center 後有 of 片語限定，是特定的「地球中心」，用 the。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "the center ___ the planet，「行星的中心」用 of 表示所屬。o 後補 f。"
+   },
+   {
+    "word": "planet",
+    "pos": "n.",
+    "zh": "行星",
+    "why": "the center of the ___，用 planet 代替前面已出現的 Earth，避免重複。pla 後補 net。"
+   },
+   {
+    "word": "difference",
+    "pos": "n.",
+    "zh": "差異",
+    "why": "This ___ creates a bulge，指上一句「朝月面受力比中心強」的差別。different 的名詞是 difference，diffe 後補 rence，字尾是 -ence 不是 -ance。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-05",
+  "blanks": [
+   {
+    "word": "air",
+    "pos": "n.",
+    "zh": "空氣",
+    "why": "In ___, 與下一句 In water 對比，說明聲音在不同介質中的速度；a 後補 ir。"
+   },
+   {
+    "word": "particles",
+    "pos": "n.",
+    "zh": "粒子",
+    "why": "the ___ are far apart，呼應首句 from particle to particle；動詞 are 表示主詞是複數，所以要加 -s。part 後補 icles。"
+   },
+   {
+    "word": "far",
+    "pos": "adv.",
+    "zh": "遠遠地",
+    "why": "___ apart 是固定搭配 far apart（相距很遠），與下一句 closer together 正好相反。f 後補 ar。"
+   },
+   {
+    "word": "so",
+    "pos": "conj.",
+    "zh": "所以",
+    "why": "逗號後引出結果：粒子相距遠，「所以」振動傳得慢。s 後補 o；不是 as，as 會變成表原因。"
+   },
+   {
+    "word": "vibrations",
+    "pos": "n.",
+    "zh": "振動",
+    "why": "the ___ move，首句說聲音是 a wave of vibrations；動詞 move 沒加 -s，主詞是複數。vibra 後補 tions。"
+   },
+   {
+    "word": "relatively",
+    "pos": "adv.",
+    "zh": "相對地；比較",
+    "why": "修飾副詞 slowly 必須用副詞，relative + -ly = relatively，relatively slowly 表示「比較慢」。relat 後補 ively。"
+   },
+   {
+    "word": "In",
+    "pos": "prep.",
+    "zh": "在…中",
+    "why": "句首大寫，In water 與上一句 In air 形成平行對照。I 後補 n。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "___ particles 指水中的那些粒子，與上一句 the particles are far apart 結構平行；t 後補 he。"
+   },
+   {
+    "word": "are",
+    "pos": "v.",
+    "zh": "是（連綴動詞）",
+    "why": "主詞 the particles 是複數，後接形容詞比較級 closer，需要 are。a 後補 re。"
+   },
+   {
+    "word": "together",
+    "pos": "adv.",
+    "zh": "在一起",
+    "why": "closer ___ 是 far apart 的反義說法：水中粒子靠得比較近（closer together）。toge 後補 ther。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-06",
+  "blanks": [
+   {
+    "word": "air",
+    "pos": "n.",
+    "zh": "空氣（air currents 氣流）",
+    "why": "Strong ___ currents，名詞修飾名詞，air currents（氣流）是固定搭配，在雲中上下帶動冰晶。a 後補 ir。"
+   },
+   {
+    "word": "carry",
+    "pos": "v.",
+    "zh": "攜帶；搬運",
+    "why": "主詞 air currents 是複數，動詞用原形；氣流「帶著」冰晶和冰雹上下移動。ca 後補 rry，注意雙寫 r 再加 y。"
+   },
+   {
+    "word": "crystals",
+    "pos": "n.",
+    "zh": "晶體",
+    "why": "ice ___ 是固定搭配「冰晶」，後文 Lighter crystals 也重複此字；and 後還有 pieces，這裡也用複數 -s。crys 後補 tals。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "and 之後、名詞 pieces 之前需要形容詞，small pieces of hail 是「小冰雹粒」。sm 後補 all。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的（量詞結構）",
+    "why": "pieces ___ hail，a piece of + 名詞是量詞結構，hail（冰雹）不可數。o 後補 f。"
+   },
+   {
+    "word": "up",
+    "pos": "adv.",
+    "zh": "向上",
+    "why": "___ and down 是固定搭配 up and down（上上下下）；u 後補 p。"
+   },
+   {
+    "word": "down",
+    "pos": "adv.",
+    "zh": "向下",
+    "why": "up and ___ 的另一半，與 up 相反方向；do 後補 wn。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "within ___ cloud，指首句 storm clouds 中正在發生這些作用的那朵雲，用 the。"
+   },
+   {
+    "word": "When",
+    "pos": "conj.",
+    "zh": "當…時",
+    "why": "句首大寫，___ these particles collide 是從屬子句，逗號後 they exchange electric charge 才是主要子句，所以用 When。"
+   },
+   {
+    "word": "particles",
+    "pos": "n.",
+    "zh": "微粒",
+    "why": "these ___ collide，these 後接複數名詞，總稱前一句的 ice crystals 和 small pieces of hail。part 後補 icles。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-07",
+  "blanks": [
+   {
+    "word": "light",
+    "pos": "n.",
+    "zh": "光",
+    "why": "As ___ enters each drop，子句需要主詞；首句說 sunlight shines through drops，進入水滴的就是光。li 後補 ght，注意不發音的 gh。"
+   },
+   {
+    "word": "each",
+    "pos": "det.",
+    "zh": "每一個",
+    "why": "___ drop 是單數名詞，表示「每一顆」水滴；ea 後補 ch。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指光）",
+    "why": "逗號後主要子句的主詞，回指單數的 light，所以用 it。i 後補 t。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "並且",
+    "why": "bends ___ separates，連接兩個並列的動詞（折射並且分散），兩者都是第三人稱單數。"
+   },
+   {
+    "word": "into",
+    "pos": "prep.",
+    "zh": "分成；成為",
+    "why": "separates ___ different colors，separate into 是「分成…」的固定搭配。in 後補 to，不是 in。"
+   },
+   {
+    "word": "colors",
+    "pos": "n.",
+    "zh": "顏色",
+    "why": "different ___，different 後面接複數名詞；彩虹由多種顏色組成。col 後補 ors。"
+   },
+   {
+    "word": "light",
+    "pos": "n.",
+    "zh": "光",
+    "why": "The ___ then reflects，延續上一句的主詞 light；then 表示光線接下來的步驟。li 後補 ght。"
+   },
+   {
+    "word": "reflects",
+    "pos": "v.",
+    "zh": "反射",
+    "why": "主詞 The light 是單數，動詞加 -s；reflect off 表示「從…反射回來」。refl 後補 ects。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "off ___ back of the drop，the back of ...（…的背面）固定用 the。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "the back ___ the drop，表示所屬：「水滴的背面」。o 後補 f。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-08",
+  "blanks": [
+   {
+    "word": "pushes",
+    "pos": "v.",
+    "zh": "推",
+    "why": "主詞 Wind 是不可數單數，動詞要加 -s；push 以 -sh 結尾，所以加 -es。pus 後補 hes。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的（量詞結構）",
+    "why": "grains ___ sand，grains of sand（沙粒）是量詞結構。o 後補 f。"
+   },
+   {
+    "word": "up",
+    "pos": "prep.",
+    "zh": "沿…往上",
+    "why": "___ the gentle slope，風把沙粒「往上」推上緩坡；這裡 up 後面有受詞 the slope，是介系詞。"
+   },
+   {
+    "word": "gentle",
+    "pos": "adj.",
+    "zh": "平緩的",
+    "why": "冠詞 the 與名詞 slope 之間需要形容詞；與下一句 the steeper slope 對比，這邊的坡是「平緩」的。gen 後補 tle。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "在…（一側）",
+    "why": "___ one side of the dune，on one side / on the other side 是固定說法。o 後補 n。"
+   },
+   {
+    "word": "side",
+    "pos": "n.",
+    "zh": "一側",
+    "why": "on one ___ of the dune，與下一句 on the other side 呼應；si 後補 de。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "of ___ dune，指首句提到、正在移動的那座沙丘，用 the。"
+   },
+   {
+    "word": "When",
+    "pos": "conj.",
+    "zh": "當…時",
+    "why": "句首大寫，When the grains reach the top 是時間子句，逗號後 they fall down ... 才是主要子句。"
+   },
+   {
+    "word": "grains",
+    "pos": "n.",
+    "zh": "顆粒",
+    "why": "the ___ reach，回指上一句的 grains of sand；動詞 reach 沒加 -s，主詞是複數。gra 後補 ins。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "reach ___ top，the top（頂端）固定加定冠詞，這裡指沙丘頂。t 後補 he。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-09",
+  "blanks": [
+   {
+    "word": "absorbs",
+    "pos": "v.",
+    "zh": "吸收",
+    "why": "主詞 Rainwater 是不可數單數，動詞加 -s；雨水「吸收」空氣中的二氧化碳。abs 後補 orbs，拼法是 -sorb，不是 -zorb。"
+   },
+   {
+    "word": "dioxide",
+    "pos": "n.",
+    "zh": "二氧化物（carbon dioxide 二氧化碳）",
+    "why": "carbon ___ 是固定搭配「二氧化碳」；di-（二）+ oxide（氧化物）。dio 後補 xide。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "from ___ air，泛指大氣中的空氣時習慣說 the air。t 後補 he。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "the air ___ soil，連接二氧化碳的兩個來源：空氣和土壤。a 後補 nd。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "這件事（非限定關係代名詞）",
+    "why": "逗號後 ___ makes it slightly acidic，which 指前面「雨水吸收二氧化碳」整件事；逗號後不能用 that。wh 後補 ich。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指雨水）",
+    "why": "makes ___ slightly acidic 是 make + 受詞 + 形容詞的句型，it 指 Rainwater。"
+   },
+   {
+    "word": "acidic",
+    "pos": "adj.",
+    "zh": "酸性的",
+    "why": "slightly ___ 是 make 的受詞補語，要用形容詞；首句提到 weak acid，acid 的形容詞是 acidic。aci 後補 dic。"
+   },
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這",
+    "why": "As ___ water，回指剛變成弱酸性的雨水；water 不可數，用 this 不用 these。th 後補 is。"
+   },
+   {
+    "word": "flows",
+    "pos": "v.",
+    "zh": "流動",
+    "why": "主詞 this water 是單數，動詞加 -s；水「流」過岩石裂縫。fl 後補 ows，不要猜成 floats。"
+   },
+   {
+    "word": "cracks",
+    "pos": "n.",
+    "zh": "裂縫",
+    "why": "through ___ in the rock，through 後接名詞；後面 widens them into tunnels 的 them 就指這些裂縫，所以是複數。cra 後補 cks。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-10",
+  "blanks": [
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "關係代名詞（指 bee）",
+    "why": "A bee ___ has found flowers，後面子句缺主詞，需要關係代名詞修飾 bee；th 開頭但不是 this。"
+   },
+   {
+    "word": "found",
+    "pos": "v.",
+    "zh": "找到（find 的過去分詞）",
+    "why": "has ___ 是現在完成式，find 的過去分詞是不規則的 found，不是 finded。fo 後補 und。"
+   },
+   {
+    "word": "returns",
+    "pos": "v.",
+    "zh": "返回",
+    "why": "這是主詞 A bee（單數）的主要動詞，加 -s；return to the hive 是「回到蜂巢」。ret 後補 urns。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "to ___ hive，指這隻蜜蜂所屬的那個蜂巢，是特定的，用 the。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "並且",
+    "why": "returns ___ walks，連接兩個並列動詞，兩個都是第三人稱單數形。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "以…（形狀）",
+    "why": "walks ___ a figure of eight，表示「以 8 字形」行走；walk in a circle 也用 in。i 後補 n。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "（a figure of eight 中的 of）",
+    "why": "a figure ___ eight 是固定說法，指「8 字形」。o 後補 f。"
+   },
+   {
+    "word": "During",
+    "pos": "prep.",
+    "zh": "在…期間",
+    "why": "句首大寫，後面 the straight part of the dance 只是名詞片語、沒有動詞，所以要用介系詞 During，而不是連接詞 While。Dur 後補 ing。"
+   },
+   {
+    "word": "straight",
+    "pos": "adj.",
+    "zh": "直的",
+    "why": "the ___ part，8 字形中間的「直線」部分，就是蜜蜂搖擺身體的那段。stra 後補 ight，注意 -aight 的拼法。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "the straight part ___ the dance，part of ...（…的一部分）。o 後補 f。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-11",
+  "blanks": [
+   {
+    "word": "look",
+    "pos": "v.",
+    "zh": "看起來",
+    "why": "Leaves ___ green 是連綴動詞 + 形容詞；主詞 Leaves 是複數，所以不加 -s。lo 後補 ok。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在（季節）",
+    "why": "___ summer，季節前用 in，與首句 In autumn 呼應。i 後補 n。"
+   },
+   {
+    "word": "because",
+    "pos": "conj.",
+    "zh": "因為",
+    "why": "後面 they contain large amounts of chlorophyll 是在解釋葉子為何是綠色，需要表原因的連接詞。bec 後補 ause。"
+   },
+   {
+    "word": "contain",
+    "pos": "v.",
+    "zh": "含有",
+    "why": "they ___ large amounts of，主詞 they 複數，動詞用原形。con 後補 tain。"
+   },
+   {
+    "word": "amounts",
+    "pos": "n.",
+    "zh": "數量",
+    "why": "large ___ of + 不可數名詞（chlorophyll）是固定搭配「大量的」；這裡用複數 -s。amo 後補 unts。"
+   },
+   {
+    "word": "chlorophyll",
+    "pos": "n.",
+    "zh": "葉綠素",
+    "why": "讓葉子呈綠色的物質就是葉綠素，下一句的 this pigment 也指它。chlor 後補 ophyll，注意 -ph- 和雙寫 l。"
+   },
+   {
+    "word": "days",
+    "pos": "n.",
+    "zh": "白天；日子",
+    "why": "As ___ become shorter，秋天「白天」變短；動詞 become 沒加 -s，主詞是複數。da 後補 ys。"
+   },
+   {
+    "word": "shorter",
+    "pos": "adj.",
+    "zh": "較短的",
+    "why": "become ___ and cooler，become 後接形容詞，兩個比較級並列；short + -er。sho 後補 rter。"
+   },
+   {
+    "word": "cooler",
+    "pos": "adj.",
+    "zh": "較涼的",
+    "why": "shorter and ___，與 shorter 平行的另一個比較級，描述秋天天氣變涼；cool + -er，coo 後補 ler。"
+   },
+   {
+    "word": "stop",
+    "pos": "v.",
+    "zh": "停止",
+    "why": "trees ___ producing，stop + V-ing 表示「停止做某事」；葉綠素不再製造，黃橙色才顯現。st 後補 op。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-12",
+  "blanks": [
+   {
+    "word": "two",
+    "pos": "num.",
+    "zh": "二",
+    "why": "When ___ materials，後面是複數名詞，且 rub together（互相摩擦）需要兩樣東西；下文 from one ... to the other 也印證是兩個。t 後補 wo。"
+   },
+   {
+    "word": "rub",
+    "pos": "v.",
+    "zh": "摩擦",
+    "why": "materials ___ together，rub together 是「互相摩擦」，後面的例子 rubbing a balloon 也用同一字。r 後補 ub。"
+   },
+   {
+    "word": "electrons",
+    "pos": "n.",
+    "zh": "電子",
+    "why": "can move from one material to the other 的主詞；靜電來自電子轉移，下一句 gains electrons 重複此字。elec 後補 trons。"
+   },
+   {
+    "word": "move",
+    "pos": "v.",
+    "zh": "移動",
+    "why": "情態動詞 can 後面接原形動詞；mo 後補 ve。"
+   },
+   {
+    "word": "one",
+    "pos": "num.",
+    "zh": "一（個）",
+    "why": "from ___ material to the other，one ... the other 表示「兩者中的一個…另一個」。o 後補 ne。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "到",
+    "why": "from ... ___ ... 是固定搭配 from A to B。t 後補 o。"
+   },
+   {
+    "word": "other",
+    "pos": "pron.",
+    "zh": "另一個",
+    "why": "the ___，兩者中剩下的那一個用 the other；ot 後補 her。"
+   },
+   {
+    "word": "material",
+    "pos": "n.",
+    "zh": "材料；物質",
+    "why": "The ___ that gains electrons，回指前面的 materials，但這裡是單數（後面 gains、becomes 都加 -s）。mate 後補 rial。"
+   },
+   {
+    "word": "gains",
+    "pos": "v.",
+    "zh": "獲得",
+    "why": "關係子句 that ___ electrons，先行詞 The material 是單數，動詞加 -s；得到電子才會 negatively charged。ga 後補 ins。"
+   },
+   {
+    "word": "becomes",
+    "pos": "v.",
+    "zh": "變成",
+    "why": "整句主詞 The material 的主要動詞，後接 negatively charged；同句後面 the other becomes positive 也用同一字。bec 後補 omes。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-13",
+  "blanks": [
+   {
+    "word": "molecules",
+    "pos": "n.",
+    "zh": "分子",
+    "why": "Ozone ___ are formed，are 表示主詞是複數；臭氧是由分子組成的。mole 後補 cules。"
+   },
+   {
+    "word": "formed",
+    "pos": "v.",
+    "zh": "形成（過去分詞，被動）",
+    "why": "are ___ when ...，be + 過去分詞的被動語態：臭氧分子「被形成」。form + -ed，for 後補 med。"
+   },
+   {
+    "word": "sunlight",
+    "pos": "n.",
+    "zh": "陽光",
+    "why": "when ___ splits，子句需要主詞，且 splits 加 -s 表示單數；能把氧分子拆開的是陽光。sun + light 複合字，sunl 後補 ight。"
+   },
+   {
+    "word": "ordinary",
+    "pos": "adj.",
+    "zh": "普通的",
+    "why": "splits ___ oxygen molecules，修飾 oxygen molecules 的形容詞，指一般的氧分子，與臭氧對照。ordi 後補 nary。"
+   },
+   {
+    "word": "molecules",
+    "pos": "n.",
+    "zh": "分子",
+    "why": "ordinary oxygen ___ apart，同一句前面已出現 molecules；split ... apart 是把分子拆開。"
+   },
+   {
+    "word": "Without",
+    "pos": "prep.",
+    "zh": "沒有；若沒有",
+    "why": "句首大寫，___ this layer, more radiation would ...，would 是假設語氣，Without + 名詞表示「如果沒有…」。Wit 後補 hout。"
+   },
+   {
+    "word": "layer",
+    "pos": "n.",
+    "zh": "層",
+    "why": "this ___，指首句的 ozone layer。la 後補 yer。"
+   },
+   {
+    "word": "radiation",
+    "pos": "n.",
+    "zh": "輻射",
+    "why": "more ___ would reach，首句提到 ultraviolet radiation；字尾 -ation，radi 後補 ation。"
+   },
+   {
+    "word": "reach",
+    "pos": "v.",
+    "zh": "到達",
+    "why": "would ___ the surface，would 後接原形動詞；reach 是及物動詞，後面不加 to。re 後補 ach。"
+   },
+   {
+    "word": "surface",
+    "pos": "n.",
+    "zh": "表面；地表",
+    "why": "reach the ___，輻射「到達地表」；sur 後補 face。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-14",
+  "blanks": [
+   {
+    "word": "leaving",
+    "pos": "v.",
+    "zh": "離開（動名詞）",
+    "why": "介系詞 Before 後面要接動名詞，leave 去 e 加 -ing；指出發遷徙之前。lea 後補 ving。"
+   },
+   {
+    "word": "eat",
+    "pos": "v.",
+    "zh": "吃",
+    "why": "they ___ large amounts of food，主詞 they 複數，動詞用原形。e 後補 at。"
+   },
+   {
+    "word": "amounts",
+    "pos": "n.",
+    "zh": "數量",
+    "why": "large ___ of food 表示「大量的食物」，為後面儲存脂肪做準備；amount 加 -s。amo 後補 unts。"
+   },
+   {
+    "word": "food",
+    "pos": "n.",
+    "zh": "食物",
+    "why": "amounts of ___，eat 的受詞自然是食物。fo 後補 od，雙 o。"
+   },
+   {
+    "word": "store",
+    "pos": "v.",
+    "zh": "儲存",
+    "why": "and ___ the extra energy，與 eat 並列，同樣用原形；store ... as fat 表示以脂肪形式儲存。st 後補 ore。"
+   },
+   {
+    "word": "extra",
+    "pos": "adj.",
+    "zh": "額外的；多餘的",
+    "why": "冠詞 the 與名詞 energy 之間需要形容詞；吃得多，就有「多餘的」能量可存。ex 後補 tra。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "以…的形式",
+    "why": "store the extra energy ___ fat，as 表示「作為、以…形式」。a 後補 s。"
+   },
+   {
+    "word": "Some",
+    "pos": "det.",
+    "zh": "有些",
+    "why": "句首大寫，___ songbirds 指一部分鳴禽，後接複數名詞。So 後補 me。"
+   },
+   {
+    "word": "nearly",
+    "pos": "adv.",
+    "zh": "幾乎",
+    "why": "___ double 修飾動詞 double，nearly double = 幾乎加倍；near + -ly。nea 後補 rly。"
+   },
+   {
+    "word": "their",
+    "pos": "det.",
+    "zh": "牠們的",
+    "why": "double ___ body weight，指 songbirds 自己的體重，用複數所有格。th 後補 eir。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-15",
+  "blanks": [
+   {
+    "word": "slowly",
+    "pos": "adv.",
+    "zh": "緩慢地",
+    "why": "主詞 Rain 與動詞 breaks 之間，需要副詞修飾動詞；岩石風化是慢慢進行的。slow + -ly，slo 後補 wly。"
+   },
+   {
+    "word": "down",
+    "pos": "adv.",
+    "zh": "（break down 分解）",
+    "why": "breaks ___ rocks，break down 是「分解」的片語動詞。do 後補 wn。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "並且",
+    "why": "breaks down rocks ___ releases ...，連接兩個並列動詞，主詞都是 Rain。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "少量的",
+    "why": "___ amounts of salt，small amounts（少量）；一次釋放的鹽並不多，所以要很多年才累積。sm 後補 all。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "amounts ___ salt，amount of + 不可數名詞。o 後補 f。"
+   },
+   {
+    "word": "into",
+    "pos": "prep.",
+    "zh": "進入",
+    "why": "releases ... ___ streams，鹽分被釋放「進入」溪流，與首句 into the ocean 呼應。in 後補 to。"
+   },
+   {
+    "word": "When",
+    "pos": "conj.",
+    "zh": "當…時",
+    "why": "句首大寫，___ ocean water evaporates 是時間子句，逗號後才是主要子句。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水",
+    "why": "ocean ___ evaporates，ocean water 就是「海水」；evaporates 單數，對應不可數的 water。wa 後補 ter。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "___ water leaves，回指剛蒸發的那些水，與後面 the salt 平行。t 後補 he。"
+   },
+   {
+    "word": "leaves",
+    "pos": "v.",
+    "zh": "離開",
+    "why": "the water ___ but the salt stays behind，leave 與 stays behind 對比（水離開、鹽留下）；單數加 -s。lea 後補 ves，不是 leafs。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-16",
+  "blanks": [
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個（不定冠詞）",
+    "why": "___ antibiotic，antibiotic 以母音 a 開頭，不定冠詞要用 an；a 後補 n。"
+   },
+   {
+    "word": "is",
+    "pos": "aux.",
+    "zh": "（被動語態的 be）",
+    "why": "an antibiotic ___ administered，be + 過去分詞的被動「被施用」；主詞單數用 is。"
+   },
+   {
+    "word": "susceptible",
+    "pos": "adj.",
+    "zh": "易受影響的；（對藥物）敏感的",
+    "why": "___ cells are destroyed，與後面 the rare mutants that tolerate it 對比：對藥物「敏感」的細胞被殺死。susce 後補 ptible，字尾是 -ible。"
+   },
+   {
+    "word": "are",
+    "pos": "aux.",
+    "zh": "（被動語態的 be）",
+    "why": "susceptible cells ___ destroyed，複數主詞 + are + 過去分詞；a 後補 re。"
+   },
+   {
+    "word": "whereas",
+    "pos": "conj.",
+    "zh": "然而；而",
+    "why": "逗號後連接對比子句：敏感細胞被消滅，突變株卻增生。whe 後補 reas；不要寫成 where。"
+   },
+   {
+    "word": "rare",
+    "pos": "adj.",
+    "zh": "稀少的",
+    "why": "the ___ mutants，冠詞與名詞之間的形容詞，能抵抗藥物的突變株一開始很「少」。ra 後補 re。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "關係代名詞（指 mutants）",
+    "why": "mutants ___ tolerate it，關係子句缺主詞，用 that 修飾 mutants；tolerate 沒加 -s，對應複數先行詞。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指抗生素）",
+    "why": "tolerate ___，及物動詞後要受詞，it 指前面的 an antibiotic。"
+   },
+   {
+    "word": "multiply",
+    "pos": "v.",
+    "zh": "繁殖；增殖",
+    "why": "主要子句 the rare mutants ... subsequently ___ 的動詞，主詞複數用原形；細菌數量「倍增」。mult 後補 iply。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "Consequently, ___ surviving population，指上一句存活下來的那群細菌，是特定的族群。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-17",
+  "blanks": [
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "___ uptake 回指首句「海洋吸收二氧化碳」這件事；uptake 是單數，用 this。"
+   },
+   {
+    "word": "moderates",
+    "pos": "v.",
+    "zh": "緩和；減輕",
+    "why": "Although 子句的動詞，主詞 this uptake 單數加 -s；海洋吸收 CO2 能「減緩」氣候變遷，與後半句的負面影響形成讓步。mode 後補 rates。"
+   },
+   {
+    "word": "change",
+    "pos": "n.",
+    "zh": "變化",
+    "why": "climate ___ 是固定搭配「氣候變遷」。cha 後補 nge。"
+   },
+   {
+    "word": "simultaneously",
+    "pos": "adv.",
+    "zh": "同時地",
+    "why": "主詞 it 與動詞 alters 之間放副詞；與 Although 呼應：一方面減緩暖化，「同時」卻改變海水化學性質。simulta 後補 neously。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "alters ___ chemistry of seawater，chemistry 後有 of 片語限定，用 the。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "the chemistry ___ seawater，「海水的化學性質」。o 後補 f。"
+   },
+   {
+    "word": "When",
+    "pos": "conj.",
+    "zh": "當…時",
+    "why": "句首大寫，___ carbon dioxide dissolves 是從屬子句，逗號後 it forms carbonic acid 是主要子句。"
+   },
+   {
+    "word": "dioxide",
+    "pos": "n.",
+    "zh": "二氧化物",
+    "why": "carbon ___ dissolves，重複首句的 carbon dioxide；dissolves 單數。dio 後補 xide。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指二氧化碳）",
+    "why": "主要子句需要主詞，it 指剛溶解的 carbon dioxide。"
+   },
+   {
+    "word": "carbonic",
+    "pos": "adj.",
+    "zh": "碳的（carbonic acid 碳酸）",
+    "why": "___ acid，二氧化碳溶於水形成「碳酸」carbonic acid，後面說它降低 pH 也合理。carb 後補 onic。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-18",
+  "blanks": [
+   {
+    "word": "quantities",
+    "pos": "n.",
+    "zh": "數量",
+    "why": "Enormous ___ of，形容詞後接名詞；quantity 的複數要把 y 改成 i 再加 -es，quant 後補 ities。"
+   },
+   {
+    "word": "organic",
+    "pos": "adj.",
+    "zh": "有機的",
+    "why": "___ material，organic material（有機物質）是固定搭配；後文說微生物分解它並釋放碳。org 後補 anic。"
+   },
+   {
+    "word": "have",
+    "pos": "aux.",
+    "zh": "（完成式助動詞）",
+    "why": "___ been preserved 是現在完成式被動；主詞 quantities 是複數，用 have 不是 has。ha 後補 ve。"
+   },
+   {
+    "word": "preserved",
+    "pos": "v.",
+    "zh": "保存（過去分詞）",
+    "why": "have been ___，完成式被動 have been + 過去分詞；有機物在凍土中「被保存」下來。pres 後補 erved。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指永凍土）",
+    "why": "within ___，介系詞的受詞，指首句的 Permafrost。"
+   },
+   {
+    "word": "decomposition",
+    "pos": "n.",
+    "zh": "分解；腐化",
+    "why": "because ___ is negligible，子句主詞需要名詞；decompose 的名詞是 decomposition，字尾 -tion。decomp 後補 osition。"
+   },
+   {
+    "word": "negligible",
+    "pos": "adj.",
+    "zh": "微不足道的；可忽略的",
+    "why": "is ___ at freezing temperatures，be 後接形容詞；低溫下分解作用「幾乎沒有」，所以有機物才能保存。negli 後補 gible，字尾 -ible 不是 -able。"
+   },
+   {
+    "word": "freezing",
+    "pos": "adj.",
+    "zh": "冰凍的；冰點以下的",
+    "why": "at ___ temperatures，freezing temperatures 是固定搭配，與 frozen 呼應。free 後補 zing。"
+   },
+   {
+    "word": "As",
+    "pos": "conj.",
+    "zh": "隨著",
+    "why": "句首大寫，___ the climate warms 表示「隨著氣候暖化」，引導從屬子句。"
+   },
+   {
+    "word": "climate",
+    "pos": "n.",
+    "zh": "氣候",
+    "why": "the ___ warms，氣候暖化；cli 後補 mate。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-19",
+  "blanks": [
+   {
+    "word": "mammals",
+    "pos": "n.",
+    "zh": "哺乳動物",
+    "why": "In ___, 指出生物類別；首句講 Most organisms，這裡縮小到哺乳類。mam 後補 mals，注意雙寫 m。"
+   },
+   {
+    "word": "circadian",
+    "pos": "adj.",
+    "zh": "晝夜節律的",
+    "why": "this ___ clock，首句的 a cycle of approximately one day 正是 circadian（circa 大約 + dies 日）的意思。circ 後補 adian。"
+   },
+   {
+    "word": "is",
+    "pos": "aux.",
+    "zh": "（被動語態的 be）",
+    "why": "this circadian clock ___ predominantly controlled by，單數主詞 + is + 過去分詞的被動。"
+   },
+   {
+    "word": "controlled",
+    "pos": "v.",
+    "zh": "控制（過去分詞）",
+    "why": "is predominantly ___ by，被動語態；control 加 -ed 要雙寫 l。contr 後補 olled。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "a ___ cluster of neurons，冠詞與名詞 cluster 之間的形容詞，指腦中一小群神經元。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的（a cluster of 一群）",
+    "why": "a cluster ___ neurons，a cluster of + 複數名詞表示「一群…」。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在…裡",
+    "why": "neurons ___ the brain，表示神經元所在的位置。i 後補 n。"
+   },
+   {
+    "word": "brain",
+    "pos": "n.",
+    "zh": "大腦",
+    "why": "neurons in the ___，神經元位在「腦」中；br 後補 ain。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "Although ___ clock，回指前一句已提到的 circadian clock，用 the。"
+   },
+   {
+    "word": "operates",
+    "pos": "v.",
+    "zh": "運作",
+    "why": "the clock ___ independently，主詞單數加 -s；與後面 it is continually adjusted 形成讓步對比。oper 後補 ates。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-20",
+  "blanks": [
+   {
+    "word": "phenomenon",
+    "pos": "n.",
+    "zh": "現象",
+    "why": "This ___, known as ...，指首句「電阻完全消失」的現象；單數是 phenomenon，複數才是 phenomena。pheno 後補 menon。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "作為（known as 被稱為）",
+    "why": "known ___ superconductivity，known as 是「被稱為」的固定用法。a 後補 s。"
+   },
+   {
+    "word": "was",
+    "pos": "aux.",
+    "zh": "（過去式被動的 be）",
+    "why": "___ first observed，first 表示歷史上首次發現，用過去式；主詞 This phenomenon 單數，用 was。"
+   },
+   {
+    "word": "observed",
+    "pos": "v.",
+    "zh": "觀察（過去分詞）",
+    "why": "was first ___ in mercury，被動語態「首次被觀察到」；observe + -d。obse 後補 rved。"
+   },
+   {
+    "word": "mercury",
+    "pos": "n.",
+    "zh": "汞；水銀",
+    "why": "in ___ cooled with liquid helium，in 後面接一種物質，超導現象最早在汞中發現。mer 後補 cury。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "用（表工具）",
+    "why": "cooled ___ liquid helium，用液態氦冷卻，with 表示工具或手段。wi 後補 th。"
+   },
+   {
+    "word": "helium",
+    "pos": "n.",
+    "zh": "氦",
+    "why": "liquid ___，液態氦是極低溫冷卻劑；化學元素常見字尾 -ium，hel 後補 ium。"
+   },
+   {
+    "word": "no",
+    "pos": "det.",
+    "zh": "沒有",
+    "why": "Because ___ energy is dissipated，首句說 lose all electrical resistance，所以「沒有」能量以熱散失；n 後補 o，不是 not。"
+   },
+   {
+    "word": "is",
+    "pos": "aux.",
+    "zh": "（被動語態的 be）",
+    "why": "no energy ___ dissipated，energy 不可數，搭配單數 is。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "以…的形式",
+    "why": "dissipated ___ heat，能量「以熱的形式」散失。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-21",
+  "blanks": [
+   {
+    "word": "originate",
+    "pos": "v.",
+    "zh": "起源；源自",
+    "why": "They ___ with，主詞 They（極光）複數，動詞用原形；originate with 表示來源。orig 後補 inate。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "with ___ solar wind，太陽風是特定的現象，用 the。"
+   },
+   {
+    "word": "wind",
+    "pos": "n.",
+    "zh": "風（solar wind 太陽風）",
+    "why": "solar ___ 是固定術語「太陽風」，後面的同位語 a continuous stream of charged particles 就是在解釋它。wi 後補 nd。"
+   },
+   {
+    "word": "stream",
+    "pos": "n.",
+    "zh": "流；連續不斷的一股",
+    "why": "a continuous ___ of，a stream of particles 表示「一股粒子流」，continuous 也強調連續流動。str 後補 eam。"
+   },
+   {
+    "word": "charged",
+    "pos": "adj.",
+    "zh": "帶電的",
+    "why": "___ particles，charged particles（帶電粒子）是固定搭配。cha 後補 rged。"
+   },
+   {
+    "word": "emitted",
+    "pos": "v.",
+    "zh": "發射（過去分詞）",
+    "why": "particles ___ by the Sun，過去分詞片語修飾 particles，表被動「由太陽放出」；emit 加 -ed 要雙寫 t。emi 後補 tted。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "by ___ Sun，太陽是獨一無二的天體，用 the。"
+   },
+   {
+    "word": "When",
+    "pos": "conj.",
+    "zh": "當…時",
+    "why": "句首大寫，___ these particles reach the Earth 是時間子句，逗號後是主要子句。"
+   },
+   {
+    "word": "particles",
+    "pos": "n.",
+    "zh": "粒子",
+    "why": "these ___，these 後接複數，回指前面的 charged particles。part 後補 icles。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "reach ___ Earth，地球在文中寫作 the Earth。t 後補 he。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-22",
+  "blanks": [
+   {
+    "word": "mussels",
+    "pos": "n.",
+    "zh": "貽貝",
+    "why": "Zebra ___ 是物種名「斑馬貽貝」，後面動詞 were 表示複數。mus 後補 sels，注意雙寫 s。"
+   },
+   {
+    "word": "instance",
+    "pos": "n.",
+    "zh": "例子（for instance 例如）",
+    "why": "for ___ 是插入語，= for example，表示斑馬貽貝是首句「外來入侵種」的例子。inst 後補 ance。"
+   },
+   {
+    "word": "unintentionally",
+    "pos": "adv.",
+    "zh": "無意地",
+    "why": "were ___ carried，副詞放在 be 與過去分詞之間；貽貝是藏在壓艙水中被「無意間」帶來的。un + intention + al + ly，補 tionally。"
+   },
+   {
+    "word": "across",
+    "pos": "prep.",
+    "zh": "橫越",
+    "why": "carried ___ the ocean，表示橫渡海洋。acr 後補 oss，只有一個 c、兩個 s。"
+   },
+   {
+    "word": "ocean",
+    "pos": "n.",
+    "zh": "海洋",
+    "why": "across the ___，貽貝被跨海運送；oc 後補 ean。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "in ___ ballast water of cargo ships，後面有 of 片語限定，用 the。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水（ballast water 壓艙水）",
+    "why": "ballast ___ 是航運術語「壓艙水」，船隻吸入再排出時就帶進外來生物。wa 後補 ter。"
+   },
+   {
+    "word": "cargo",
+    "pos": "n.",
+    "zh": "貨物（名詞修飾名詞）",
+    "why": "___ ships 即「貨輪」，cargo 在此當名詞修飾 ships。ca 後補 rgo。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "並且",
+    "why": "were carried ... ___ released，連接兩個過去分詞，共用前面的 were；先被運來，再被釋放。"
+   },
+   {
+    "word": "into",
+    "pos": "prep.",
+    "zh": "進入",
+    "why": "released ___ the Great Lakes，被排放「到」五大湖中。in 後補 to。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-23",
+  "blanks": [
+   {
+    "word": "nutrients",
+    "pos": "n.",
+    "zh": "養分；營養鹽",
+    "why": "These ___，回指首句的 nutrients（氮和磷）；These 後面接複數。nutr 後補 ients。"
+   },
+   {
+    "word": "originate",
+    "pos": "v.",
+    "zh": "源自",
+    "why": "These nutrients predominantly ___ from，originate from 表示「來自」，後面列出來源；主詞複數用原形。"
+   },
+   {
+    "word": "agricultural",
+    "pos": "adj.",
+    "zh": "農業的",
+    "why": "___ fertilizers，修飾名詞要用形容詞；agriculture 的形容詞是 agricultural。agricu 後補 ltural。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "agricultural fertilizers ___ untreated wastewater，並列兩個養分來源。"
+   },
+   {
+    "word": "wastewater",
+    "pos": "n.",
+    "zh": "廢水",
+    "why": "untreated ___，「未經處理的廢水」是養分的另一來源；waste + water 複合字，waste 後補 water。"
+   },
+   {
+    "word": "response",
+    "pos": "n.",
+    "zh": "反應（In response 作為回應）",
+    "why": "In ___, 是固定片語，表示藻類對養分增加的反應。resp 後補 onse，字尾 -se，不要寫成 -ce。"
+   },
+   {
+    "word": "multiply",
+    "pos": "v.",
+    "zh": "大量繁殖",
+    "why": "algae ___ rapidly，algae 是 alga 的複數，動詞用原形；rapidly 修飾「快速繁殖」。mult 後補 iply。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "並且",
+    "why": "multiply rapidly ___ form dense blooms，連接兩個並列動詞，主詞都是 algae。"
+   },
+   {
+    "word": "dense",
+    "pos": "adj.",
+    "zh": "濃密的",
+    "why": "form ___ blooms，修飾 blooms 的形容詞；藻類大量繁殖形成「濃密」的藻華。de 後補 nse。"
+   },
+   {
+    "word": "at",
+    "pos": "prep.",
+    "zh": "在（某處）",
+    "why": "___ the surface，at the surface 表示「在水面」。a 後補 t。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-24",
+  "blanks": [
+   {
+    "word": "plants",
+    "pos": "n.",
+    "zh": "植物",
+    "why": "Ordinary ___ 與首句的 desert plants 對比；後面動詞 open 沒加 -s，主詞是複數。pla 後補 nts。"
+   },
+   {
+    "word": "their",
+    "pos": "det.",
+    "zh": "它們的",
+    "why": "open ___ stomata，氣孔屬於植物本身，用複數所有格 their。"
+   },
+   {
+    "word": "during",
+    "pos": "prep.",
+    "zh": "在…期間",
+    "why": "___ the day，與下一句的 at night 對比；dur 後補 ing。"
+   },
+   {
+    "word": "day",
+    "pos": "n.",
+    "zh": "白天",
+    "why": "during the ___，一般植物「白天」開氣孔；後文沙漠植物改在 night 開。d 後補 ay。"
+   },
+   {
+    "word": "absorb",
+    "pos": "v.",
+    "zh": "吸收",
+    "why": "to ___ carbon dioxide，不定詞 to + 原形動詞表示目的。abs 後補 orb。"
+   },
+   {
+    "word": "dioxide",
+    "pos": "n.",
+    "zh": "二氧化物",
+    "why": "absorb carbon ___，光合作用需要吸收二氧化碳。dio 後補 xide。"
+   },
+   {
+    "word": "this",
+    "pos": "pron.",
+    "zh": "這（指白天開氣孔這件事）",
+    "why": "but ___ also allows，this 單獨當主詞，指前面「白天開氣孔」這整件事，是代名詞。"
+   },
+   {
+    "word": "allows",
+    "pos": "v.",
+    "zh": "使…得以發生",
+    "why": "主詞 this 單數，動詞加 -s；allow considerable evaporation 表示「造成大量蒸散」。all 後補 ows。"
+   },
+   {
+    "word": "evaporation",
+    "pos": "n.",
+    "zh": "蒸發",
+    "why": "considerable ___，形容詞後要接名詞；evaporate 的名詞是 evaporation，呼應首句 minimizes water loss。evapo 後補 ration。"
+   },
+   {
+    "word": "contrast",
+    "pos": "n.",
+    "zh": "對比（By contrast 相較之下）",
+    "why": "By ___, 是固定轉折片語，引出沙漠植物與一般植物相反的做法。cont 後補 rast。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-25",
+  "blanks": [
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "When ___ hydrogen in the core，hydrogen 後有 in the core 限定，用 the。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在…之中",
+    "why": "hydrogen ___ the core，表示核心「裡面」的氫。i 後補 n。"
+   },
+   {
+    "word": "core",
+    "pos": "n.",
+    "zh": "核心",
+    "why": "in the ___，就是首句 in their cores 的單數形；co 後補 re。"
+   },
+   {
+    "word": "eventually",
+    "pos": "adv.",
+    "zh": "最終",
+    "why": "is ___ exhausted，副詞放在 be 與過去分詞之間；氫燃料「終於」耗盡。event 後補 ually。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "___ star expands，指正在描述的那顆類太陽恆星，用 the。"
+   },
+   {
+    "word": "expands",
+    "pos": "v.",
+    "zh": "膨脹",
+    "why": "the star ___ into a red giant，主詞單數加 -s；恆星「膨脹」成紅巨星。exp 後補 ands。"
+   },
+   {
+    "word": "red",
+    "pos": "adj.",
+    "zh": "紅色的（red giant 紅巨星）",
+    "why": "a ___ giant 是固定天文術語「紅巨星」。r 後補 ed。"
+   },
+   {
+    "word": "Its",
+    "pos": "det.",
+    "zh": "它的",
+    "why": "句首大寫，___ outer layers 指恆星的外層；所有格 Its 沒有撇號，不是 It's（= it is）。I 後補 ts。"
+   },
+   {
+    "word": "layers",
+    "pos": "n.",
+    "zh": "層",
+    "why": "outer ___，後面 are 表示複數。lay 後補 ers。"
+   },
+   {
+    "word": "subsequently",
+    "pos": "adv.",
+    "zh": "隨後",
+    "why": "are ___ expelled，被動語態中間的副詞，表示膨脹「之後接著」外層被拋出。subseq 後補 uently。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-26",
+  "blanks": [
+   {
+    "word": "their",
+    "pos": "det.",
+    "zh": "它們的",
+    "why": "Until ___ discovery，指熱泉噴口「被發現」；vents 是複數，所有格用 their。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在（年代）",
+    "why": "___ the late twentieth century，世紀、年代前用 in。i 後補 n。"
+   },
+   {
+    "word": "late",
+    "pos": "adj.",
+    "zh": "後期的",
+    "why": "the ___ twentieth century，「二十世紀後期」；la 後補 te。"
+   },
+   {
+    "word": "century",
+    "pos": "n.",
+    "zh": "世紀",
+    "why": "twentieth ___，序數詞 + century；cen 後補 tury。"
+   },
+   {
+    "word": "assumed",
+    "pos": "v.",
+    "zh": "假定；以為",
+    "why": "scientists ___ that，Until 表示過去的看法，動詞用過去式；assume + -d。ass 後補 umed。"
+   },
+   {
+    "word": "virtually",
+    "pos": "adv.",
+    "zh": "幾乎",
+    "why": "___ all ecosystems，修飾 all 的副詞，virtually all = 幾乎所有。virt 後補 ually。"
+   },
+   {
+    "word": "ecosystems",
+    "pos": "n.",
+    "zh": "生態系",
+    "why": "all ___，all 後面接複數名詞；eco + systems。ecosy 後補 stems。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "（depend on 依賴）",
+    "why": "depended ___ sunlight，depend on 是固定搭配，表示「依賴」。o 後補 n。"
+   },
+   {
+    "word": "However",
+    "pos": "adv.",
+    "zh": "然而",
+    "why": "句首大寫，與前句「科學家原以為生態系都靠陽光」形成轉折。How 後補 ever。"
+   },
+   {
+    "word": "communities",
+    "pos": "n.",
+    "zh": "群落",
+    "why": "the ___ surrounding these vents，生物「群落」；community 的複數是 y 改 i 加 -es。commu 後補 nities。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-27",
+  "blanks": [
+   {
+    "word": "prevailing",
+    "pos": "adj.",
+    "zh": "普遍接受的；主流的",
+    "why": "The ___ explanation，冠詞與名詞之間的形容詞；prevailing explanation 是「主流解釋」。preva 後補 iling。"
+   },
+   {
+    "word": "attributes",
+    "pos": "v.",
+    "zh": "歸因於",
+    "why": "attribute A to B 是固定句型（把 A 歸因於 B），後面的 to the impact 就是線索；主詞 explanation 單數加 -s。attri 後補 butes。"
+   },
+   {
+    "word": "event",
+    "pos": "n.",
+    "zh": "事件",
+    "why": "this ___，指首句的大滅絕事件。ev 後補 ent。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "to ___ impact of an enormous asteroid，impact 後有 of 片語限定，用 the。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "the impact ___ an enormous asteroid，「小行星的撞擊」。o 後補 f。"
+   },
+   {
+    "word": "enormous",
+    "pos": "adj.",
+    "zh": "巨大的",
+    "why": "an ___ asteroid，前面用 an 表示這個字母音開頭；enor 後補 mous。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "非限定關係代名詞（指 asteroid）",
+    "why": "逗號後 ___ struck the region，補充說明 asteroid；逗號後不能用 that。wh 後補 ich。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "struck ___ region that ...，region 後有關係子句限定，用 the。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "限定關係代名詞（指 region）",
+    "why": "the region ___ is now southern Mexico，沒有逗號的限定用法，關係子句缺主詞。th 後補 at。"
+   },
+   {
+    "word": "now",
+    "pos": "adv.",
+    "zh": "現在",
+    "why": "that is ___ southern Mexico，指「現今的」墨西哥南部，與六千六百萬年前對比。n 後補 ow。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-28",
+  "blanks": [
+   {
+    "word": "functions",
+    "pos": "v.",
+    "zh": "運作；起作用",
+    "why": "It ___ by ...，主詞 It 單數，動詞加 -s；function by doing 表示「藉由…發揮作用」。這裡 functions 是動詞，不是名詞複數。"
+   },
+   {
+    "word": "providing",
+    "pos": "v.",
+    "zh": "提供（動名詞）",
+    "why": "介系詞 by 後接動名詞 V-ing；prov 後補 iding。"
+   },
+   {
+    "word": "alternative",
+    "pos": "adj.",
+    "zh": "替代的；另一種的",
+    "why": "an ___ pathway，an 暗示這個字母音開頭；觸媒提供「另一條」反應路徑。alter 後補 native。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "關係代名詞（指 pathway）",
+    "why": "pathway ___ requires，requires 加 -s 對應單數先行詞 pathway；關係子句缺主詞。"
+   },
+   {
+    "word": "less",
+    "pos": "adj.",
+    "zh": "較少的",
+    "why": "requires ___ activation energy，energy 不可數，要用 less 而不是 fewer；le 後補 ss。"
+   },
+   {
+    "word": "energy",
+    "pos": "n.",
+    "zh": "能量",
+    "why": "activation ___，「活化能」activation energy 是固定化學術語。ene 後補 rgy。"
+   },
+   {
+    "word": "more",
+    "pos": "pron.",
+    "zh": "更多（的部分）",
+    "why": "Consequently, ___ of the collisions，活化能降低後，「更多」碰撞能成功反應；more of + the + 名詞。mo 後補 re。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "more of ___ collisions，more of 後面要接限定詞 the。"
+   },
+   {
+    "word": "between",
+    "pos": "prep.",
+    "zh": "在…之間",
+    "why": "collisions ___ molecules，分子「之間」的碰撞。bet 後補 ween。"
+   },
+   {
+    "word": "produce",
+    "pos": "v.",
+    "zh": "產生",
+    "why": "主詞是 more of the collisions（複數），動詞用原形；碰撞「產生」反應。pro 後補 duce。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-29",
+  "blanks": [
+   {
+    "word": "animals",
+    "pos": "n.",
+    "zh": "動物",
+    "why": "Such ___，回指首句 Some predators；後面 are 表示複數。ani 後補 mals。"
+   },
+   {
+    "word": "referred",
+    "pos": "v.",
+    "zh": "稱作（過去分詞）",
+    "why": "are ___ to as，be referred to as 是「被稱為」的固定句型；refer 加 -ed 要雙寫 r。refe 後補 rred。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "作為",
+    "why": "referred to ___，refer to A as B（把 A 稱為 B）中的 as。"
+   },
+   {
+    "word": "species",
+    "pos": "n.",
+    "zh": "物種",
+    "why": "keystone ___，「關鍵物種」；species 單複數同形。spe 後補 cies。"
+   },
+   {
+    "word": "northern",
+    "pos": "adj.",
+    "zh": "北方的",
+    "why": "___ Pacific coasts，修飾名詞要用形容詞 northern，不是 north。nort 後補 hern。"
+   },
+   {
+    "word": "coasts",
+    "pos": "n.",
+    "zh": "海岸",
+    "why": "Along northern Pacific ___，along 後接地點；複數 -s。coa 後補 sts。"
+   },
+   {
+    "word": "otters",
+    "pos": "n.",
+    "zh": "水獺（sea otters 海獺）",
+    "why": "sea ___ 就是標題的海獺；動詞 feed 沒加 -s，主詞是複數。ott 後補 ers。"
+   },
+   {
+    "word": "extensively",
+    "pos": "adv.",
+    "zh": "大量地",
+    "why": "feed ___ on，修飾 feed 的副詞，表示大量捕食海膽。exten 後補 sively。"
+   },
+   {
+    "word": "sea",
+    "pos": "n.",
+    "zh": "海（sea urchins 海膽）",
+    "why": "on ___ urchins，sea urchins 即「海膽」，與前面 sea otters 同一個 sea。s 後補 ea。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "非限定關係代名詞（指海膽）",
+    "why": "逗號後 ___ in turn graze on kelp，which 指 sea urchins；in turn 表示食物鏈下一層。"
+   }
+  ]
+ },
+ {
+  "id": "ct2-30",
+  "blanks": [
+   {
+    "word": "depends",
+    "pos": "v.",
+    "zh": "取決於",
+    "why": "Density ___ on，depend on 是固定搭配；主詞 Density 單數加 -s。dep 後補 ends。"
+   },
+   {
+    "word": "both",
+    "pos": "conj.",
+    "zh": "兩者都（both A and B）",
+    "why": "___ temperature and salinity，both A and B 是相關連接詞，表示兩個因素都有影響。bo 後補 th。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "both temperature ___ salinity，與前面的 both 成對使用。"
+   },
+   {
+    "word": "so",
+    "pos": "conj.",
+    "zh": "所以",
+    "why": "逗號後引出結果：密度受溫度與鹽度影響，「所以」又冷又鹹的水會下沉。s 後補 o。"
+   },
+   {
+    "word": "salty",
+    "pos": "adj.",
+    "zh": "鹹的",
+    "why": "cold, ___ water，與 cold 並列修飾 water，呼應前面的 salinity。sa 後補 lty。"
+   },
+   {
+    "word": "tends",
+    "pos": "v.",
+    "zh": "傾向",
+    "why": "water ___ to sink，tend to + 原形動詞；water 是不可數單數，動詞加 -s。te 後補 nds。"
+   },
+   {
+    "word": "sink",
+    "pos": "v.",
+    "zh": "下沉",
+    "why": "tends to ___，不定詞後接原形；密度大的水會「下沉」，之後文中 descends 也同義。si 後補 nk。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "Near ___ poles，the poles 指地球的南北兩極。t 後補 he。"
+   },
+   {
+    "word": "surface",
+    "pos": "n.",
+    "zh": "表層（名詞修飾名詞）",
+    "why": "___ water，表層海水；與下一句 along the ocean floor 的深層對比。sur 後補 face。"
+   },
+   {
+    "word": "is",
+    "pos": "aux.",
+    "zh": "（被動語態的 be）",
+    "why": "surface water ___ cooled intensely，不可數主詞 + is + 過去分詞的被動。"
+   }
+  ]
+ }
+]

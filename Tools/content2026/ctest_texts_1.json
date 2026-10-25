@@ -1,0 +1,182 @@
+[
+ {
+  "id": "ct-01",
+  "difficulty": "intermediate",
+  "title": "Urban heat storage",
+  "text": "Cities often cool more slowly than nearby countryside after sunset. Dark pavement and dense building materials absorb solar energy and release it gradually. For example, a shaded courtyard may be cooler than an unshaded parking lot only a block away. Temperature sensors show the largest night-time difference in districts with little tree cover. Adding shade and vegetation can reduce local heat exposure. However, wind and humidity can change the size of the effect from one night to another."
+ },
+ {
+  "id": "ct-03",
+  "difficulty": "advanced",
+  "title": "Seed dispersal by birds",
+  "text": "Fruit-eating birds often carry viable seeds away from a parent plant. The fruit is digested while many hard-coated seeds pass through the bird intact. For example, a bird that rests along a fence can deposit seeds in a new field. Seedlings are frequently found beneath perches far from the source tree. Protecting bird habitat can also support forest regeneration. However, not every plant benefits because some seeds are damaged during digestion."
+ },
+ {
+  "id": "ct-05",
+  "difficulty": "intermediate",
+  "title": "Volcanic soil development",
+  "text": "Fresh volcanic deposits may eventually support unusually productive soils. Weathering releases mineral nutrients, while colonizing organisms add organic matter. For example, lichens growing on bare rock begin the slow process of soil formation. Older deposits commonly support more plant growth than newly cooled ash nearby. The fertility of volcanic land develops over time rather than immediately after an eruption. However, heavy rainfall can remove nutrients before roots capture them."
+ },
+ {
+  "id": "ct-07",
+  "difficulty": "advanced",
+  "title": "Tree-ring climate records",
+  "text": "Patterns in annual tree rings can preserve evidence of past growing conditions. Water and temperature affect growth, which changes ring width and wood density. For example, several narrow rings across many trees may mark a prolonged drought. Researchers match overlapping patterns from many living and dead trees. Cross-checking many samples can extend local climate records far beyond instruments. However, disease or physical damage can alter one tree's ring without reflecting regional climate."
+ },
+ {
+  "id": "ct-09",
+  "difficulty": "intermediate",
+  "title": "Wetland flood storage",
+  "text": "Wetlands can temporarily hold water that would otherwise move downstream quickly. Shallow basins and absorbent soils slow runoff during a storm. For example, a marsh may spread storm water across a wide area before releasing it slowly. Gauges often record lower peak flow below intact wetlands than below drained sites. Wetland protection can be one part of a broader flood-management plan. However, a wetland already saturated by earlier rain has little remaining storage capacity."
+ },
+ {
+  "id": "ct-11",
+  "difficulty": "advanced",
+  "title": "Coral and algae partnership",
+  "text": "Many reef-building corals depend on microscopic algae living inside their tissues. The algae provide energy-rich compounds, while the coral supplies shelter and nutrients. For example, sunlit shallow water lets the resident algae photosynthesize efficiently. Corals that lose their algae during heat stress become pale and grow poorly. Stable water conditions help preserve the partnership that builds reefs. However, some corals can survive brief bleaching by feeding more actively."
+ },
+ {
+  "id": "ct-13",
+  "difficulty": "intermediate",
+  "title": "Coastal upwelling",
+  "text": "Some coasts support rich fisheries even when surface waters initially contain few nutrients. Winds move surface water offshore and allow cold, nutrient-rich deep water to rise. For example, a satellite image can reveal a cool band of recently upwelled water. Plankton blooms often appear soon after sustained favorable winds. Changes in wind patterns can quickly affect coastal food webs. However, extremely strong upwelling may bring low-oxygen water close to shore."
+ },
+ {
+  "id": "ct-15",
+  "difficulty": "advanced",
+  "title": "Magnetic bird navigation",
+  "text": "Migrating birds can maintain direction when clouds hide familiar landmarks. Specialized sensory processes allow them to use information from Earth's magnetic field. For example, a cloudy sky can make the magnetic cue more important than the Sun. Orientation experiments change when researchers alter the magnetic field around a test enclosure. Navigation is more reliable when animals can combine magnetic and visual cues. However, magnetic information may indicate direction but not identify a precise destination."
+ },
+ {
+  "id": "ct-17",
+  "difficulty": "intermediate",
+  "title": "Island species balance",
+  "text": "The number of species on an island reflects both arrival and local extinction. Nearby large islands receive immigrants more often and support larger populations. For example, a small distant island may lose a rare species before another population arrives. Surveys typically find more species on large islands close to a mainland source. Habitat size and isolation should both be considered in reserve design. However, human transport can introduce species in ways the simple model does not predict."
+ },
+ {
+  "id": "ct-19",
+  "difficulty": "advanced",
+  "title": "Soil microbial networks",
+  "text": "Plants obtain some nutrients through interactions with fungi and bacteria around their roots. Microbes transform compounds into usable forms and sometimes extend the root's effective reach. For example, fungal threads can transport phosphorus from tiny soil pores to a root. Plants grown in sterile soil often respond differently from those with intact microbial communities. Agricultural practices that protect soil communities may improve nutrient cycling. However, some microbes are harmful, so more microbial activity is not always beneficial."
+ },
+ {
+  "id": "ct-21",
+  "difficulty": "intermediate",
+  "title": "Glacier reflectivity",
+  "text": "A glacier's surface color influences how much solar energy it absorbs. Clean snow reflects much of the incoming light, whereas dust and exposed ice are darker. For example, a thin layer of soot can lower the reflectivity of otherwise bright snow. Measurements show faster melting after soot or sediment accumulates on the surface. Reducing dark airborne particles may slow melt in some regions. However, air temperature and snowfall still exert major control over a glacier's total mass."
+ },
+ {
+  "id": "ct-23",
+  "difficulty": "advanced",
+  "title": "Pollinator timing",
+  "text": "Flowering plants and their pollinators must be active at overlapping times. Temperature affects the seasonal development of plants and insects at different rates. For example, an early spring can shift bloom time more than a bee's emergence date. Long-term records reveal years when flowers open before their usual pollinators emerge. Climate effects should be evaluated across interacting species, not one species alone. However, generalist pollinators may compensate when a specialized partner is absent."
+ },
+ {
+  "id": "ct-25",
+  "difficulty": "intermediate",
+  "title": "Pottery source analysis",
+  "text": "The appearance of a ceramic vessel does not always reveal where it was made. Clay contains mineral signatures that can be compared with deposits from known locations. For example, two bowls with the same painted design may contain different mineral mixtures. Laboratory results sometimes link visually similar vessels to different production centers. Material analysis can clarify ancient exchange networks. However, craft workers occasionally transported clay, which complicates a direct location match."
+ },
+ {
+  "id": "ct-27",
+  "difficulty": "advanced",
+  "title": "Coin hoards",
+  "text": "Groups of buried coins provide a selective record of economic life. People usually hid money during periods of danger and intended to retrieve it later. For example, coins buried near a frontier may coincide with a documented invasion. The newest coin in a hoard supplies an earliest possible date for its burial. Hoards can reveal moments of insecurity as well as patterns of circulation. However, a hoard overrepresents coins considered worth saving and is not a random sample."
+ },
+ {
+  "id": "ct-29",
+  "difficulty": "intermediate",
+  "title": "Manuscript copying",
+  "text": "Hand-copied texts often exist in versions with small differences. Scribes introduced accidental omissions and sometimes made deliberate clarifications. For example, two manuscripts that omit the same line may descend from a common copy. Shared unusual errors help scholars identify which copies are related. Comparing variants can reconstruct parts of a text's transmission history. However, the earliest surviving copy is not necessarily closest to the lost original."
+ },
+ {
+  "id": "ct-31",
+  "difficulty": "advanced",
+  "title": "Trade routes and ideas",
+  "text": "Long-distance trade moved knowledge as well as physical goods. Merchants, travelers, and translators carried techniques and beliefs between communities. For example, a weaving technique may travel with merchants and acquire a local pattern. Similar artistic motifs appear along routes that linked otherwise distant regions. Exchange networks can explain cultural change without requiring conquest. However, communities often modified imported ideas rather than adopting them unchanged."
+ },
+ {
+  "id": "ct-33",
+  "difficulty": "intermediate",
+  "title": "Printing and standardization",
+  "text": "Movable-type printing encouraged wider circulation of consistent texts. Printers could reproduce many copies from one arranged set of type. For example, scholars in different cities could cite the same numbered page. Later editions show more stable spelling and page references than many manuscripts. Mass reproduction supported shared reference systems for readers. However, printers still introduced errors, and regional conventions remained."
+ },
+ {
+  "id": "ct-35",
+  "difficulty": "advanced",
+  "title": "Theater acoustics",
+  "text": "The shape and materials of a performance space affect speech intelligibility. Reflected sound can reinforce a voice, but delayed echoes blur rapid words. For example, a curved wall may direct an actor's voice toward distant seats. Acoustic tests improve when absorbent panels reduce long reverberation. Successful halls balance sound strength with clarity. However, an empty hall behaves differently after an audience absorbs sound."
+ },
+ {
+  "id": "ct-37",
+  "difficulty": "intermediate",
+  "title": "Pigment aging",
+  "text": "A painting's present colors may differ from those intended by the artist. Light and chemical reactions gradually alter some pigments and varnishes. For example, a once-purple mineral pigment may fade toward gray in strong light. Protected paint beneath a frame is sometimes brighter than exposed paint. Conservators use material evidence when proposing a historical color reconstruction. However, cleaning can also change appearance, so treatment decisions require caution."
+ },
+ {
+  "id": "ct-39",
+  "difficulty": "advanced",
+  "title": "Linear perspective",
+  "text": "Artists can create an impression of depth on a flat surface through geometric perspective. Parallel lines are represented as converging toward shared vanishing points. For example, railway tracks in a picture seem to meet near the horizon. Measured drawings show objects shrinking predictably with apparent distance. Perspective offers a systematic tool rather than a complete model of human vision. However, artists may deliberately distort the system for emphasis or composition."
+ },
+ {
+  "id": "ct-41",
+  "difficulty": "intermediate",
+  "title": "Memory retrieval cues",
+  "text": "Remembering depends partly on cues available when information is retrieved. A cue activates associations formed during the original experience. For example, a particular smell may bring back details of an earlier place. Participants often recall more when the test context resembles the learning context. Studying with varied cues can make later access more flexible. However, a familiar cue cannot recover information that was never encoded well."
+ },
+ {
+  "id": "ct-43",
+  "difficulty": "advanced",
+  "title": "Spaced practice",
+  "text": "Study sessions separated over time often produce longer-lasting learning than one long session. Some forgetting between sessions requires the learner to reconstruct the memory. For example, three brief reviews across a week may outlast a single evening of study. Delayed tests commonly favor students who used several shorter sessions. Schedules should include repeated retrieval rather than only rereading. However, massed practice can still help when immediate performance is the only goal."
+ },
+ {
+  "id": "ct-45",
+  "difficulty": "intermediate",
+  "title": "Confirmation bias",
+  "text": "People often evaluate new evidence in ways that favor an existing belief. Attention and interpretation are guided by expectations already in memory. For example, two readers may judge the same ambiguous report differently. Experiments find that participants scrutinize opposing evidence more critically. Explicitly considering alternative explanations can improve reasoning. However, prior knowledge can also guide efficient judgment and is not always misleading."
+ },
+ {
+  "id": "ct-47",
+  "difficulty": "advanced",
+  "title": "Language change",
+  "text": "Small differences in speech can spread through a community over generations. Speakers accommodate to social groups, and frequent variants become conventional. For example, a pronunciation first associated with young speakers may later become ordinary. Recordings from different decades reveal systematic shifts in pronunciation. Variation within one generation can be evidence of change in progress. However, migration and media contact can accelerate or redirect a local trend."
+ },
+ {
+  "id": "ct-49",
+  "difficulty": "intermediate",
+  "title": "Price elasticity",
+  "text": "Demand does not respond equally to price changes for every product. Buyers react more strongly when substitutes are available or a purchase can be delayed. For example, travelers may postpone a vacation but still purchase essential medicine. Sales of optional goods often fall more sharply than sales of necessities after equal price increases. Organizations need product-specific evidence when predicting a price change's effect. However, consumer income and the time period measured can alter the response."
+ },
+ {
+  "id": "ct-51",
+  "difficulty": "advanced",
+  "title": "Network effects",
+  "text": "Some services become more useful as more people adopt them. Each additional user increases the number of possible connections or exchanges. For example, a messaging system is of little use if none of a person's contacts use it. Communication platforms often grow rapidly after reaching a critical user base. Early adoption patterns can have lasting market effects. However, crowding and spam can eventually reduce value for users."
+ },
+ {
+  "id": "ct-53",
+  "difficulty": "intermediate",
+  "title": "Public goods",
+  "text": "Some benefits are difficult to limit only to those who pay for them. Once provided, these goods can serve many users without being consumed by one person. For example, a lighthouse signal can guide ships whether or not each captain paid for it. Voluntary funding often falls short when individuals expect others to contribute. Collective financing can address underprovision of broadly shared benefits. However, not every government service is a pure public good because access may be restricted."
+ },
+ {
+  "id": "ct-55",
+  "difficulty": "advanced",
+  "title": "Groundwater recharge",
+  "text": "Underground water supplies are renewed when surface water moves through soil and rock. Permeable materials allow infiltration, while pavement redirects water into drains. For example, a grassy basin lets storm water soak downward instead of leaving through a pipe. Monitoring wells rise after sustained rain most clearly in undeveloped recharge zones. Land-use planning can protect areas where aquifers receive water. However, deep aquifers may recharge so slowly that recent rainfall has little immediate effect."
+ },
+ {
+  "id": "ct-57",
+  "difficulty": "intermediate",
+  "title": "Plate movement",
+  "text": "Earth's surface plates move slowly relative to one another. Heat-driven mantle motion and gravitational forces act on the rigid plates. For example, symmetric magnetic stripes record seafloor spreading on both sides of a ridge. Matching rock belts and magnetic patterns support reconstructions of earlier plate positions. Plate motion explains linked patterns of earthquakes, volcanoes, and mountain building. However, local stress can produce earthquakes away from a plate boundary."
+ },
+ {
+  "id": "ct-59",
+  "difficulty": "advanced",
+  "title": "Exoplanet transits",
+  "text": "A planet can sometimes be detected when it crosses in front of a distant star. The planet blocks a small fraction of starlight at regular intervals. For example, a large planet produces a deeper brightness dip than a small one around the same star. Repeated dips of the same depth and timing support an orbital interpretation. Transit timing and depth can estimate a planet's orbit and relative size. However, the method detects only systems whose orbital plane is aligned with the observer."
+ }
+]
