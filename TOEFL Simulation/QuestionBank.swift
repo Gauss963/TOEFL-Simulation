@@ -242,28 +242,33 @@ enum TOEFLQuestionBank {
     }
 
     #if DEBUG
-    /// Simulates 20 consecutive Listening sessions (about 400 Listen and Choose a Response items)
-    /// with an in-memory history: none of the pool's items may repeat before the pool rotates.
+    /// Simulates 20 consecutive Listening sessions with an in-memory history: for every Listening
+    /// task, no set may repeat until all of that task's sets have been used.
     static func rotationIssues() -> [String] {
+        let tasks: [TOEFLTaskType] = [.listenChooseResponse, .listenConversation, .listenAnnouncement, .listenAcademicTalk]
+        let poolSizes = Dictionary(uniqueKeysWithValues: tasks.map { task in
+            (task, sets.filter { $0[0].taskType == task }.count)
+        })
         var history: [String] = []
-        var seen: [String: Int] = [:]
+        var seen: [TOEFLTaskType: Set<String>] = [:]
         var issues: [String] = []
-        let poolSize = allQuestions.filter { $0.taskType == .listenChooseResponse }.count
         for session in 0..<20 {
-            let recent = history
-            let section = practiceSection(for: .listening, seed: UInt64(session) &* 104_729, recent: recent)
+            let section = practiceSection(for: .listening, seed: UInt64(session) &* 104_729, recent: history)
+            let router = Array(section.questions.prefix(section.routerCount ?? 0))
             let module = moduleQuestions(for: .listening, route: session.isMultiple(of: 2) ? .lower : .upper,
-                                         seed: UInt64(session), excluding: Set(section.questions.prefix(section.routerCount ?? 0).map(\.id)), recent: recent)
-            let items = Array(section.questions.prefix(section.routerCount ?? 0)) + module
-            for item in items where item.taskType == .listenChooseResponse {
-                if let earlier = seen[item.id] {
-                    issues.append("\(item.id) returned after \(session - earlier) sessions")
+                                         seed: UInt64(session), excluding: Set(router.map(\.id)), recent: history)
+            var added = Set<String>()
+            let keys = (router + module).map { ($0.taskType, $0.setID ?? $0.id) }.filter { added.insert($0.1).inserted }
+            for (task, key) in keys where tasks.contains(task) {
+                if seen[task, default: []].contains(key), seen[task, default: []].count < poolSizes[task, default: 0] {
+                    issues.append("\(task.title) set \(key) repeated in session \(session + 1) before the pool rotated")
                 }
-                seen[item.id] = session
+                seen[task, default: []].insert(key)
             }
-            history += items.map { $0.setID ?? $0.id }
+            history += keys.map(\.1)
         }
-        FileHandle.standardError.write(Data("Choose a Response pool \(poolSize); \(seen.count) distinct items in 20 Listening sessions\n".utf8))
+        let summary = tasks.map { "\($0.title): \(seen[$0]?.count ?? 0) of \(poolSizes[$0] ?? 0) sets" }
+        FileHandle.standardError.write(Data(("20 Listening sessions → " + summary.joined(separator: "; ") + "\n").utf8))
         return Array(Set(issues)).sorted()
     }
     #endif

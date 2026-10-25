@@ -1,0 +1,3399 @@
+[
+  {
+    "id": "cv3-01",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and a geology professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Talia",
+        "gender": "female"
+      },
+      {
+        "role": "geology professor",
+        "name": "Professor Brandt",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Brandt, could I run my paper topic by you? I'm thinking of writing about how volcanic soils affect farming around the world."
+      },
+      {
+        "speaker": 1,
+        "text": "Around the world? In twelve pages?"
+      },
+      {
+        "speaker": 0,
+        "text": "Well, I know it's big. But there's so much good material, and I didn't want to leave anything out."
+      },
+      {
+        "speaker": 1,
+        "text": "That's the trouble, though. If you cover everything, you can only say a sentence or two about each place. Is there a region you've read a lot about?"
+      },
+      {
+        "speaker": 0,
+        "text": "Actually, yes. Coffee farms on volcanic slopes in Central America. And I found a few studies on rice terraces in Southeast Asia."
+      },
+      {
+        "speaker": 1,
+        "text": "Now that could work. Two regions, two very different crops, the same kind of soil. You'd have room to really compare them."
+      },
+      {
+        "speaker": 0,
+        "text": "So I'd drop the global part completely?"
+      },
+      {
+        "speaker": 1,
+        "text": "Mention it in your introduction, as background. Send me a revised outline by Friday."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see the professor?",
+        "options": [
+          "To get feedback on a topic for a paper",
+          "To ask for more pages for her paper",
+          "To request studies about rice farming",
+          "To hand in a revised paper outline"
+        ],
+        "answer": 0,
+        "explanation": "She asks the professor to look at her paper topic on volcanic soils and farming."
+      },
+      {
+        "type": "inference",
+        "prompt": "What does the professor imply about the student's original plan?",
+        "options": [
+          "It would require sources she cannot find.",
+          "It leaves out the most important crops.",
+          "It repeats a topic from an earlier class.",
+          "It would make her discussion too shallow."
+        ],
+        "answer": 3,
+        "explanation": "He says covering everything would leave only a sentence or two for each place."
+      }
+    ]
+  },
+  {
+    "id": "cv3-02",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a teaching assistant for a chemistry course.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Marco",
+        "gender": "male"
+      },
+      {
+        "role": "teaching assistant",
+        "name": "Aisha",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Hi, Aisha. Do you have a second? I got my lab report back, and I lost fifteen points. I'm not sure why."
+      },
+      {
+        "speaker": 1,
+        "text": "Sure, let me see. Oh, right. Your results section is fine, but you didn't include any error analysis."
+      },
+      {
+        "speaker": 0,
+        "text": "Error analysis? I thought that was only for the final report."
+      },
+      {
+        "speaker": 1,
+        "text": "No, it's required for every report this semester. It was in the guidelines. You need to estimate how uncertain your measurements were, like the readings from the balance."
+      },
+      {
+        "speaker": 0,
+        "text": "Oh, I must have missed that. Is there anything I can do now?"
+      },
+      {
+        "speaker": 1,
+        "text": "The professor lets students revise one report per term. If you add the error analysis and turn it in by Monday, you can earn back up to ten points."
+      },
+      {
+        "speaker": 0,
+        "text": "Great. I'll work on it this weekend."
+      },
+      {
+        "speaker": 1,
+        "text": "Good. And check the example report that's posted online. It shows the format we want."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "How to read a laboratory balance correctly",
+          "When the final lab report is due",
+          "Whether the course guidelines have changed",
+          "Why points were taken off a lab report"
+        ],
+        "answer": 3,
+        "explanation": "The student asks why he lost fifteen points, and the assistant explains the missing error analysis."
+      },
+      {
+        "type": "detail",
+        "prompt": "What can the student do to improve his grade?",
+        "options": [
+          "Repeat the experiment over the weekend",
+          "Add the missing section and resubmit the report",
+          "Ask the professor to drop his lowest score",
+          "Turn in an extra report before the final"
+        ],
+        "answer": 1,
+        "explanation": "She says he can add the error analysis by Monday and earn back up to ten points."
+      }
+    ]
+  },
+  {
+    "id": "cv3-03",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and an astronomy professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Jonah",
+        "gender": "male"
+      },
+      {
+        "role": "astronomy professor",
+        "name": "Professor Ruiz",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Ruiz, I'm sorry I missed the observing session on Tuesday night. I had a swim meet out of town. Is there a make-up session?"
+      },
+      {
+        "speaker": 1,
+        "text": "I wish there were. The point was to sketch the moon at first quarter, when the crater shadows are longest. That won't happen again for a month, and by then we'll be on to planets."
+      },
+      {
+        "speaker": 0,
+        "text": "So I just lose the points?"
+      },
+      {
+        "speaker": 1,
+        "text": "Not necessarily. The department keeps an archive of telescope images taken at that same phase. You could measure the shadows from a photo and estimate the crater depths the same way."
+      },
+      {
+        "speaker": 0,
+        "text": "That sounds like more work than sketching through the telescope."
+      },
+      {
+        "speaker": 1,
+        "text": "Probably a bit more, yes. But it's the same skill. Next time, though, tell me before you miss a session."
+      },
+      {
+        "speaker": 0,
+        "text": "I will. Where do I find the archive?"
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see the professor?",
+        "options": [
+          "To ask about joining a trip out of town",
+          "To borrow a telescope for a few nights",
+          "To find out how to make up missed work",
+          "To ask about the next unit on planets"
+        ],
+        "answer": 2,
+        "explanation": "He missed the observing session and asks whether there is a way to make it up."
+      },
+      {
+        "type": "attitude",
+        "prompt": "What is the professor's attitude toward the alternative assignment?",
+        "options": [
+          "She thinks it is easier than the original task.",
+          "She doubts the archive has suitable images.",
+          "She admits it is harder but considers it fair.",
+          "She feels it will not teach the same skill."
+        ],
+        "answer": 2,
+        "explanation": "She agrees it is a bit more work but says it practices the same skill."
+      }
+    ]
+  },
+  {
+    "id": "cv3-04",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a sociology professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Leila",
+        "gender": "female"
+      },
+      {
+        "role": "sociology professor",
+        "name": "Professor Hale",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Hale, I'm planning my project on why some commuter students don't join campus clubs. I was going to use an online survey."
+      },
+      {
+        "speaker": 1,
+        "text": "How many students do you think you'll reach?"
+      },
+      {
+        "speaker": 0,
+        "text": "Honestly, maybe fifteen. I only know a few commuters, and they'd have to pass it along."
+      },
+      {
+        "speaker": 1,
+        "text": "With fifteen responses, a survey won't tell you much. The percentages would jump around too much. But fifteen is plenty for interviews."
+      },
+      {
+        "speaker": 0,
+        "text": "Interviews? Wouldn't those take a lot longer?"
+      },
+      {
+        "speaker": 1,
+        "text": "Each one, yes. But you'd learn the reasons behind their choices, like work schedules or long drives. A survey would just turn those into checkboxes."
+      },
+      {
+        "speaker": 0,
+        "text": "That makes sense. Should I write the questions first?"
+      },
+      {
+        "speaker": 1,
+        "text": "Yes. Draft about six open-ended questions and bring them to my office hours on Thursday."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the speakers mainly discussing?",
+        "options": [
+          "Which research method suits the student's project",
+          "Why commuter students rarely join campus clubs",
+          "How to send an online survey to more commuter students",
+          "When the student's project needs to be finished"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains why interviews would work better than a survey for her small group."
+      },
+      {
+        "type": "prediction",
+        "prompt": "What will the student probably do next?",
+        "options": [
+          "Write a set of open-ended questions",
+          "Send an online survey to commuters",
+          "Join a club for commuting students",
+          "Choose a new topic for her project"
+        ],
+        "answer": 0,
+        "explanation": "The professor tells her to draft six open-ended questions for Thursday, and she agrees."
+      }
+    ]
+  },
+  {
+    "id": "cv3-05",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and a teaching assistant for an economics course.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Owen",
+        "gender": "male"
+      },
+      {
+        "role": "teaching assistant",
+        "name": "Mei",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Hi, Mei. I wanted to ask about question three on the midterm. I drew the supply shift correctly, but I only got half credit."
+      },
+      {
+        "speaker": 1,
+        "text": "Let me look. Hmm, your curve moves the right way, but you didn't label the new equilibrium price."
+      },
+      {
+        "speaker": 0,
+        "text": "Right, but the question only asked which direction the price would go. I wrote 'price rises' underneath."
+      },
+      {
+        "speaker": 1,
+        "text": "I see that. The rubric we used says the label is required for full credit, though."
+      },
+      {
+        "speaker": 0,
+        "text": "The question doesn't say anything about labels. I checked."
+      },
+      {
+        "speaker": 1,
+        "text": "Okay, you have a point. I didn't write the rubric, so I can't change it on my own. But I'll show your exam to Professor Grant at our meeting tomorrow."
+      },
+      {
+        "speaker": 0,
+        "text": "Thanks. I'm not trying to argue about every point. That one just seemed unfair."
+      },
+      {
+        "speaker": 1,
+        "text": "No, it's a reasonable question. I'll email you after the meeting."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student talk to the teaching assistant?",
+        "options": [
+          "To learn how to label an equilibrium price",
+          "To question how one of his answers was scored",
+          "To find out when the exams will be returned",
+          "To ask for a meeting with Professor Grant"
+        ],
+        "answer": 1,
+        "explanation": "He believes he lost credit on question three for something the question did not ask for."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred about the teaching assistant?",
+        "options": [
+          "She believes the rubric was written carefully.",
+          "She plans to raise the student's score on her own.",
+          "She thinks the student's complaint may be valid.",
+          "She considers the student's request excessive."
+        ],
+        "answer": 2,
+        "explanation": "She admits he has a point and agrees to show his exam to the professor."
+      }
+    ]
+  },
+  {
+    "id": "cv3-06",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a linguistics professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Kwame",
+        "gender": "male"
+      },
+      {
+        "role": "linguistics professor",
+        "name": "Dr. Varga",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Varga, I'd like to do an independent study next semester. My grandmother's village has its own dialect, and fewer people speak it every year."
+      },
+      {
+        "speaker": 1,
+        "text": "That's a wonderful idea. Have you recorded any speakers yet?"
+      },
+      {
+        "speaker": 0,
+        "text": "Just my grandmother, over the summer. About three hours."
+      },
+      {
+        "speaker": 1,
+        "text": "That's a good start. For an independent study, though, the department needs a written proposal. You'd describe what you plan to analyze, maybe the vowel sounds or the vocabulary, and include a reading list."
+      },
+      {
+        "speaker": 0,
+        "text": "How long should it be?"
+      },
+      {
+        "speaker": 1,
+        "text": "Two or three pages is fine. The deadline is the end of this month, and I'd be happy to supervise."
+      },
+      {
+        "speaker": 0,
+        "text": "Really? Thank you. I'll start on the reading list this week."
+      },
+      {
+        "speaker": 1,
+        "text": "Good. I'll send you a few articles on documenting dialects to get you going."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "Recording a grandmother's stories for a class",
+          "Choosing readings for a course on vowels",
+          "Finding speakers for a language experiment",
+          "Arranging an independent study of a dialect"
+        ],
+        "answer": 3,
+        "explanation": "The student wants an independent study on his grandmother's village dialect, and the professor explains the requirements."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the professor say the student must do?",
+        "options": [
+          "Record several more speakers before applying",
+          "Submit a short written proposal by the deadline",
+          "Find another professor to supervise him",
+          "Complete a course on dialects beforehand"
+        ],
+        "answer": 1,
+        "explanation": "She says the department needs a two- or three-page proposal by the end of the month."
+      }
+    ]
+  },
+  {
+    "id": "cv3-07",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and a biology professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Rosa",
+        "gender": "female"
+      },
+      {
+        "role": "biology professor",
+        "name": "Professor Abara",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Abara, I'm applying to a summer research program at a marine station, and I was hoping you could write me a recommendation letter."
+      },
+      {
+        "speaker": 1,
+        "text": "I'd be glad to help. Remind me, you took my genetics lecture last spring?"
+      },
+      {
+        "speaker": 0,
+        "text": "Yes, I got an A. And this year I've been working in Dr. Petrova's lab, collecting water samples."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm. Well, I can certainly say you did excellent work on exams. But the program will want to know how you handle fieldwork and lab routines. Dr. Petrova has seen that firsthand. I only saw you in a lecture hall of two hundred."
+      },
+      {
+        "speaker": 0,
+        "text": "Oh. I just thought a letter from a full professor might carry more weight."
+      },
+      {
+        "speaker": 1,
+        "text": "Titles matter less than details. Ask her first. If they need a second letter, I'm happy to write one."
+      },
+      {
+        "speaker": 0,
+        "text": "Okay, that makes sense. I'll email her this afternoon."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the speakers mainly discussing?",
+        "options": [
+          "Whether the student should go to a marine station",
+          "How the student did in a genetics course",
+          "What kind of fieldwork a lab is doing",
+          "Who should write a letter for the student"
+        ],
+        "answer": 3,
+        "explanation": "The student asks for a letter, and the professor suggests Dr. Petrova would be a better writer."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why does the professor mention the size of his lecture class?",
+        "options": [
+          "To point out that many students ask him for letters",
+          "To suggest he knows little about her practical skills",
+          "To explain why he grades the exams in his course so strictly",
+          "To show that her grade was unusually high"
+        ],
+        "answer": 1,
+        "explanation": "He implies that in such a large class he never saw how she works in a lab or in the field."
+      }
+    ]
+  },
+  {
+    "id": "cv3-08",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and his thesis advisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Ethan",
+        "gender": "male"
+      },
+      {
+        "role": "thesis advisor",
+        "name": "Professor Castillo",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Castillo, I have a problem with my thesis. The city archive is closing for renovations until April, and I was going to use their council records."
+      },
+      {
+        "speaker": 1,
+        "text": "Oh, that's bad timing. Which years were you looking at?"
+      },
+      {
+        "speaker": 0,
+        "text": "The nineteen-twenties, when the city built its first public parks."
+      },
+      {
+        "speaker": 1,
+        "text": "Then you might not need the archive at all. The local newspapers covered council meetings in a lot of detail back then, and our library has them on microfilm."
+      },
+      {
+        "speaker": 0,
+        "text": "Would those count as primary sources?"
+      },
+      {
+        "speaker": 1,
+        "text": "Definitely. Newspaper reports from the time are primary sources. You'd just want to note that a reporter was summarizing, not quoting the official record."
+      },
+      {
+        "speaker": 0,
+        "text": "That's a relief. I'll go to the library tomorrow and start with nineteen twenty-two."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see his advisor?",
+        "options": [
+          "He wants to change the time period he studies.",
+          "He needs directions to the city archive.",
+          "He cannot get the records he planned to use.",
+          "He does not know how to read microfilm."
+        ],
+        "answer": 2,
+        "explanation": "He explains that the archive holding the council records will be closed until April."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the professor say about the old newspapers?",
+        "options": [
+          "They are kept at the city archive until April.",
+          "They can serve as primary sources for him.",
+          "They quote the council records word for word.",
+          "They mostly cover parks built after the twenties."
+        ],
+        "answer": 1,
+        "explanation": "She says newspaper reports from the time are primary sources, though reporters were summarizing."
+      }
+    ]
+  },
+  {
+    "id": "cv3-09",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Tomás",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Grace",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Grace, can I ask you something? Are you still going to the Wednesday study group for organic chemistry?"
+      },
+      {
+        "speaker": 1,
+        "text": "Honestly, I've been thinking about quitting. Last week we spent the first hour talking about a concert."
+      },
+      {
+        "speaker": 0,
+        "text": "Same here. I went home and hadn't solved a single problem. But I don't want to study alone either."
+      },
+      {
+        "speaker": 1,
+        "text": "What if we started our own? Just the two of us, maybe one more person. We'd each do the practice set beforehand and only meet to go over the ones we got stuck on."
+      },
+      {
+        "speaker": 0,
+        "text": "I like that. Should we tell the others, though? I don't want them to feel like we're abandoning them."
+      },
+      {
+        "speaker": 1,
+        "text": "We can just say we need a slower pace for the reaction mechanisms. That's true, anyway."
+      },
+      {
+        "speaker": 0,
+        "text": "Fair enough. Thursday after lab?"
+      },
+      {
+        "speaker": 1,
+        "text": "Thursday works."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the students mainly discussing?",
+        "options": [
+          "Going to a concert together after their lab",
+          "Forming a more focused group for studying",
+          "Comparing their answers on a practice set",
+          "Inviting new members to the Wednesday group"
+        ],
+        "answer": 1,
+        "explanation": "Both are unhappy with the current group and agree to start a smaller, more focused one."
+      },
+      {
+        "type": "inference",
+        "prompt": "What does the woman imply about what they will tell the group?",
+        "options": [
+          "It is true but leaves out their main concern.",
+          "It will probably upset the other members.",
+          "It is an excuse that she does not believe.",
+          "It shows that they have fallen behind in class."
+        ],
+        "answer": 0,
+        "explanation": "She says the reason about pace is 'true, anyway,' though their real complaint is that the group wastes time."
+      }
+    ]
+  },
+  {
+    "id": "cv3-10",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between two students working on a group project.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Hana",
+        "gender": "female"
+      },
+      {
+        "role": "student",
+        "name": "Diego",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Diego, did you see Lucas's email? He says he can't edit our documentary at home anymore."
+      },
+      {
+        "speaker": 1,
+        "text": "Why not? I thought he had the editing software."
+      },
+      {
+        "speaker": 0,
+        "text": "He did, but it was a free trial, and it ran out. The full version is really expensive."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm. The media lab in the arts building has that same program on every computer. Students in our course can use it for free."
+      },
+      {
+        "speaker": 0,
+        "text": "Right, but the lab's always packed the week before projects are due."
+      },
+      {
+        "speaker": 1,
+        "text": "You can reserve a station online, though. If we book a three-hour block on Saturday morning, all three of us could work on it together."
+      },
+      {
+        "speaker": 0,
+        "text": "That might actually be better. Lucas has been doing all the editing alone, and he's kind of overwhelmed."
+      },
+      {
+        "speaker": 1,
+        "text": "Then I'll make the reservation tonight and let him know."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What problem are the students discussing?",
+        "options": [
+          "Their documentary is due earlier than they expected.",
+          "A group member has decided to drop the course.",
+          "The arts building is closed on Saturday mornings.",
+          "A group member can no longer use the editing software."
+        ],
+        "answer": 3,
+        "explanation": "Lucas's free trial of the editing software ran out, so he cannot edit at home."
+      },
+      {
+        "type": "prediction",
+        "prompt": "What will the man probably do tonight?",
+        "options": [
+          "Buy the full version of the software",
+          "Edit the documentary by himself",
+          "Send an email to their instructor",
+          "Reserve a computer in the media lab"
+        ],
+        "answer": 3,
+        "explanation": "He says he will make the reservation tonight and tell Lucas."
+      }
+    ]
+  },
+  {
+    "id": "cv3-11",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Imani",
+        "gender": "female"
+      },
+      {
+        "role": "student",
+        "name": "Sam",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Sam, you're a psych major too, right? I can only fit one more course next term, and I'm torn between statistics and the social psychology seminar."
+      },
+      {
+        "speaker": 1,
+        "text": "I took stats with Professor Kowalski last year. Brutal. Weekly problem sets, and she grades every one."
+      },
+      {
+        "speaker": 0,
+        "text": "That's what I've heard. The seminar sounds like a lot more fun."
+      },
+      {
+        "speaker": 1,
+        "text": "It is. But didn't you say you want to work in Dr. Amari's lab next year?"
+      },
+      {
+        "speaker": 0,
+        "text": "Yeah, I'm applying in the spring."
+      },
+      {
+        "speaker": 1,
+        "text": "Well, everyone in that lab runs their own data analysis. When I applied, the first thing they asked was which stats course I'd taken. And the seminar's offered every term anyway."
+      },
+      {
+        "speaker": 0,
+        "text": "Hmm. So I could take the seminar later. Okay. Kowalski it is, then. Wish me luck."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the speakers mainly discussing?",
+        "options": [
+          "Which course the woman should take next term",
+          "How strictly Professor Kowalski grades her students",
+          "How to apply to work in a psychology lab",
+          "Why the man enjoyed the social psychology seminar"
+        ],
+        "answer": 0,
+        "explanation": "The woman is choosing between statistics and a seminar, and the man helps her decide."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why does the man mention what the lab asked him when he applied?",
+        "options": [
+          "To suggest she apply to a different lab",
+          "To explain why he chose the seminar",
+          "To warn her that the lab rarely accepts undergraduate students",
+          "To show that statistics would help her plans"
+        ],
+        "answer": 3,
+        "explanation": "He points out that the lab cares about statistics, which matters because she wants to join it."
+      }
+    ]
+  },
+  {
+    "id": "cv3-12",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Jamal",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Bianca",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Bianca, you work at the natural history museum on campus, don't you? I saw they're hiring tour guides."
+      },
+      {
+        "speaker": 1,
+        "text": "Yeah, I've been giving tours for a year. You should apply. The pay's decent, and the hours are flexible."
+      },
+      {
+        "speaker": 0,
+        "text": "Do I need to know a lot about fossils already? I'm an English major."
+      },
+      {
+        "speaker": 1,
+        "text": "Not at all. Half the guides are from the humanities. There's a two-week training where you learn the main exhibits, and you shadow a guide before leading a tour yourself."
+      },
+      {
+        "speaker": 0,
+        "text": "Is the training paid?"
+      },
+      {
+        "speaker": 1,
+        "text": "It is. But it's the first two weeks of the semester, every weekday afternoon. So you'd need to keep those afternoons free."
+      },
+      {
+        "speaker": 0,
+        "text": "I have a seminar on Tuesday afternoons, though."
+      },
+      {
+        "speaker": 1,
+        "text": "Then email the coordinator before you apply. Sometimes they let people do a Saturday session instead."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "A seminar the woman is taking on Tuesdays",
+          "A job the man is interested in applying for",
+          "A new exhibit about fossils at the museum",
+          "A training course designed for English majors"
+        ],
+        "answer": 1,
+        "explanation": "The man asks the woman about the tour guide job at the campus museum."
+      },
+      {
+        "type": "detail",
+        "prompt": "Why does the woman tell the man to contact the coordinator?",
+        "options": [
+          "He does not have any background in natural history or fossils.",
+          "The museum may stop hiring guides soon.",
+          "New guides are not paid for training.",
+          "His class schedule conflicts with the training."
+        ],
+        "answer": 3,
+        "explanation": "He has a Tuesday afternoon seminar, but the training takes place every weekday afternoon."
+      }
+    ]
+  },
+  {
+    "id": "cv3-13",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two members of a campus chess club.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Yasmin",
+        "gender": "female"
+      },
+      {
+        "role": "student",
+        "name": "Felix",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Felix, bad news about the chess tournament. Someone else booked the student center ballroom for the same Saturday."
+      },
+      {
+        "speaker": 1,
+        "text": "What? We reserved it in September."
+      },
+      {
+        "speaker": 0,
+        "text": "Apparently our booking was never confirmed. The events office says the other group finished their paperwork first."
+      },
+      {
+        "speaker": 1,
+        "text": "Great. We already have forty players signed up. Could we use classrooms instead?"
+      },
+      {
+        "speaker": 0,
+        "text": "I asked. The math building has three rooms free, but they're on different floors."
+      },
+      {
+        "speaker": 1,
+        "text": "That's a nightmare for running the pairings. We'd be running up and down the stairs between rounds."
+      },
+      {
+        "speaker": 0,
+        "text": "Or we move it a week later. The ballroom's free then."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm. A few players might drop out, but honestly, I'd rather lose a few people than run a messy tournament. Let's email everyone tonight."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "Recruiting more players for a tournament",
+          "Choosing a floor in the math building",
+          "Solving a problem with a room for an event",
+          "Announcing the results of a tournament"
+        ],
+        "answer": 2,
+        "explanation": "Their ballroom booking fell through, and they discuss classrooms or a later date."
+      },
+      {
+        "type": "attitude",
+        "prompt": "What is the man's attitude toward postponing the tournament?",
+        "options": [
+          "He worries the ballroom will be taken again.",
+          "He agrees only if no players drop out.",
+          "He thinks the classrooms would work better.",
+          "He accepts that some people may not come."
+        ],
+        "answer": 3,
+        "explanation": "He says he would rather lose a few players than run a messy tournament."
+      }
+    ]
+  },
+  {
+    "id": "cv3-14",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Arjun",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Chloe",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Chloe, have you decided about next year? You were choosing between a single room in Brookside Hall and the apartment with Maya."
+      },
+      {
+        "speaker": 1,
+        "text": "Still deciding. The single is so convenient. It's right next to the science buildings."
+      },
+      {
+        "speaker": 0,
+        "text": "But isn't it more expensive?"
+      },
+      {
+        "speaker": 1,
+        "text": "That's the thing. The apartment's about two hundred dollars cheaper a month, even with utilities. And I'd have a kitchen, so I could stop paying for the meal plan."
+      },
+      {
+        "speaker": 0,
+        "text": "How far away is it?"
+      },
+      {
+        "speaker": 1,
+        "text": "About twenty minutes by bus. I've got early labs on Mondays and Wednesdays, though."
+      },
+      {
+        "speaker": 0,
+        "text": "The bus starts at six, so you'd be fine. And with what you'd save, you'd hardly have to work weekends."
+      },
+      {
+        "speaker": 1,
+        "text": "True. Okay, I'll tell Maya tonight that I'm in."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the speakers mainly discussing?",
+        "options": [
+          "How to get to early labs by bus",
+          "Whether the woman should quit her job",
+          "Which meal plan the woman should buy",
+          "Where the woman should live next year"
+        ],
+        "answer": 3,
+        "explanation": "The woman is choosing between a single dorm room and an apartment."
+      },
+      {
+        "type": "detail",
+        "prompt": "Why does the woman decide on the apartment?",
+        "options": [
+          "It would cost her less overall.",
+          "It is closer to her science labs.",
+          "Her friend did not want to live alone.",
+          "The single room is already taken."
+        ],
+        "answer": 0,
+        "explanation": "The apartment is two hundred dollars cheaper a month, and she could drop the meal plan."
+      }
+    ]
+  },
+  {
+    "id": "cv3-15",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and his research supervisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Liam",
+        "gender": "male"
+      },
+      {
+        "role": "research supervisor",
+        "name": "Dr. Achebe",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Achebe, I have some bad news about the camera traps at the creek site. The batteries in four of them died, so we lost almost two weeks of footage."
+      },
+      {
+        "speaker": 1,
+        "text": "Two weeks. During the cold snap?"
+      },
+      {
+        "speaker": 0,
+        "text": "Exactly then. I'm really sorry. I can go out tomorrow and replace them, and maybe extend the study two more weeks to make up for it."
+      },
+      {
+        "speaker": 1,
+        "text": "Replace the batteries, yes. But extending won't give us the same data. Animals behave differently once it warms up."
+      },
+      {
+        "speaker": 0,
+        "text": "So the gap just stays there?"
+      },
+      {
+        "speaker": 1,
+        "text": "It stays, and we report it. Honestly, the failure is useful. The next team needs to know these units can't handle freezing nights."
+      },
+      {
+        "speaker": 0,
+        "text": "I guess I was expecting you to be more upset."
+      },
+      {
+        "speaker": 1,
+        "text": "Equipment fails. What matters is that you told me right away. Write up what happened in the field log tonight."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see Dr. Achebe?",
+        "options": [
+          "To get permission to end the study early",
+          "To report a gap in the data he was collecting",
+          "To request new cameras for the creek site",
+          "To discuss how animals behave in the cold"
+        ],
+        "answer": 1,
+        "explanation": "He tells her that dead batteries caused them to lose almost two weeks of footage."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why does Dr. Achebe reject the student's plan to extend the study?",
+        "options": [
+          "Later footage would not reflect cold conditions.",
+          "The team cannot afford any more batteries.",
+          "The creek site will soon close to researchers.",
+          "The field log has to be completed before any more recording."
+        ],
+        "answer": 0,
+        "explanation": "She explains that animals behave differently once the weather warms, so extra weeks would not replace the lost data."
+      }
+    ]
+  },
+  {
+    "id": "cv3-16",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and her research supervisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Noor",
+        "gender": "female"
+      },
+      {
+        "role": "research supervisor",
+        "name": "Dr. Whitfield",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Whitfield, I wanted to update you on the memory study. We've only had nine participants in three weeks, and we need forty."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm, that's slow. When are the sessions scheduled?"
+      },
+      {
+        "speaker": 0,
+        "text": "Weekday mornings, nine to noon. That's when the lab room is free."
+      },
+      {
+        "speaker": 1,
+        "text": "That might be the problem. A lot of students have classes then, and the ones who don't are probably asleep."
+      },
+      {
+        "speaker": 0,
+        "text": "I hadn't thought of that. But the room's booked in the afternoons."
+      },
+      {
+        "speaker": 1,
+        "text": "What about evenings? It's open after six. I'd also post the study on the participant website, where students sign up for course credit."
+      },
+      {
+        "speaker": 0,
+        "text": "Okay. I'll add evening sessions starting next week and get the posting up today."
+      },
+      {
+        "speaker": 1,
+        "text": "Good. Let me know how the numbers look by Friday."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "How to reserve a lab room in the afternoon",
+          "What participants remembered in a test",
+          "How to get more people to join a study",
+          "Why the study's results were disappointing"
+        ],
+        "answer": 2,
+        "explanation": "The student reports low participation, and the supervisor suggests ways to recruit more people."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the supervisor suggest might be causing the problem?",
+        "options": [
+          "Participants often forget their appointments.",
+          "The lab room is too small for most groups.",
+          "The sessions are held at an inconvenient time.",
+          "The study's description is hard to understand."
+        ],
+        "answer": 2,
+        "explanation": "He says many students have classes or are asleep during weekday mornings."
+      }
+    ]
+  },
+  {
+    "id": "cv3-17",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and an art history professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Elena",
+        "gender": "female"
+      },
+      {
+        "role": "art history professor",
+        "name": "Professor Duarte",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Duarte, for my final paper I'd like to write about the mural in the old train station downtown. The one that was restored last year."
+      },
+      {
+        "speaker": 1,
+        "text": "Good choice. Have you been to see it since the restoration?"
+      },
+      {
+        "speaker": 0,
+        "text": "Not yet. I've mostly been working from photos online. Some of them are really clear."
+      },
+      {
+        "speaker": 1,
+        "text": "Photos are fine for the composition. But you know the restorers found an earlier painting underneath, right? Parts of it were left visible on purpose."
+      },
+      {
+        "speaker": 0,
+        "text": "Wait, really? None of the photos I've seen show that."
+      },
+      {
+        "speaker": 1,
+        "text": "Most were taken before the work was finished. That's why I'd go in person. And the restoration team is still in town. They might be willing to talk to you."
+      },
+      {
+        "speaker": 0,
+        "text": "That would change my whole argument. I was going to say the colors were all the artist's originals."
+      },
+      {
+        "speaker": 1,
+        "text": "Then you'd better see them first."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the speakers mainly discussing?",
+        "options": [
+          "The history of the old downtown train station",
+          "The reasons the mural had to be restored",
+          "The sources the student should use for a paper",
+          "The student's interest in becoming a restorer"
+        ],
+        "answer": 2,
+        "explanation": "The professor advises her to see the mural in person and talk to the restorers rather than rely on photos."
+      },
+      {
+        "type": "inference",
+        "prompt": "What does the professor imply about the student's planned argument?",
+        "options": [
+          "It focuses too heavily on the mural's colors.",
+          "It may be based on outdated information.",
+          "It should compare the two layers of paint.",
+          "It depends on interviews that are unreliable."
+        ],
+        "answer": 1,
+        "explanation": "The photos she used were taken before the restoration revealed an earlier painting, so her claim about the colors may be wrong."
+      }
+    ]
+  },
+  {
+    "id": "cv3-18",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a teaching assistant for a physics course.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Ben",
+        "gender": "male"
+      },
+      {
+        "role": "teaching assistant",
+        "name": "Carmen",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Hi, Carmen. I missed the pendulum lab on Monday because I had the flu. Is there any way I can make it up?"
+      },
+      {
+        "speaker": 1,
+        "text": "Sorry to hear that. Are you feeling better now?"
+      },
+      {
+        "speaker": 0,
+        "text": "Much better, thanks."
+      },
+      {
+        "speaker": 1,
+        "text": "Good. Well, another section does the same lab on Thursday at two. You could join them for that week."
+      },
+      {
+        "speaker": 0,
+        "text": "Thursday at two? I have a history class until two fifteen."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm. The lab runs until four thirty, and the pendulum experiment only takes about an hour. If you get there by two thirty, you'll have plenty of time."
+      },
+      {
+        "speaker": 0,
+        "text": "Great. Do I need to tell the other TA?"
+      },
+      {
+        "speaker": 1,
+        "text": "I'll email him today so he expects you. Just bring your lab notebook and your safety glasses."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student talk to the teaching assistant?",
+        "options": [
+          "To move permanently to a Thursday section",
+          "To get help with the pendulum experiment",
+          "To explain why he will be late to history",
+          "To arrange to complete a lab he missed"
+        ],
+        "answer": 3,
+        "explanation": "He missed Monday's pendulum lab because of the flu and asks how to make it up."
+      },
+      {
+        "type": "detail",
+        "prompt": "Why is it acceptable for the student to arrive late on Thursday?",
+        "options": [
+          "The experiment is much shorter than the lab period.",
+          "The other assistant always starts the lab late.",
+          "He has already finished part of the experiment.",
+          "His history class usually ends a few minutes before two."
+        ],
+        "answer": 0,
+        "explanation": "The lab runs until four thirty, but the experiment takes only about an hour."
+      }
+    ]
+  },
+  {
+    "id": "cv3-19",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and a philosophy professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Mateo",
+        "gender": "male"
+      },
+      {
+        "role": "philosophy professor",
+        "name": "Professor Osei",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Osei, you wrote on my draft that it has 'no argument yet.' I'm a little confused. I spent pages on both positions about free will."
+      },
+      {
+        "speaker": 1,
+        "text": "And you explained both very clearly. That's actually the problem. By the end, I still don't know what you think."
+      },
+      {
+        "speaker": 0,
+        "text": "I guess I didn't want to pick the wrong side."
+      },
+      {
+        "speaker": 1,
+        "text": "In philosophy, there isn't really a wrong side. There's only a weak defense of a side. Which position did you find more convincing while you were reading?"
+      },
+      {
+        "speaker": 0,
+        "text": "Honestly, the second one. The examples about choices made under pressure really stuck with me."
+      },
+      {
+        "speaker": 1,
+        "text": "Then start there. Keep your summary of the first view, but treat it as the objection you have to answer."
+      },
+      {
+        "speaker": 0,
+        "text": "So the paper doesn't get longer. It just takes a direction."
+      },
+      {
+        "speaker": 1,
+        "text": "Exactly. Bring me a new introduction next week."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see the professor?",
+        "options": [
+          "To ask which side of the debate is correct",
+          "To request more time to finish the paper",
+          "To understand a comment she wrote on his draft",
+          "To find more examples of choices under pressure"
+        ],
+        "answer": 2,
+        "explanation": "He is confused by her note that his draft has no argument yet."
+      },
+      {
+        "type": "inference",
+        "prompt": "What does the professor imply about the student's draft?",
+        "options": [
+          "Its summaries of both views are unclear.",
+          "It needs to become considerably longer.",
+          "It defends the weaker of the two positions.",
+          "Much of it can be kept in the revised version."
+        ],
+        "answer": 3,
+        "explanation": "She tells him to keep his summary of the first view and use it as an objection to answer."
+      }
+    ]
+  },
+  {
+    "id": "cv3-20",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a teaching assistant for a computer science course.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Ingrid",
+        "gender": "female"
+      },
+      {
+        "role": "teaching assistant",
+        "name": "Raj",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Hi, Raj. I couldn't submit my programming assignment last night. The submission site kept giving me an error."
+      },
+      {
+        "speaker": 1,
+        "text": "Yeah, the server went down around ten. You weren't the only one. We got about thirty emails."
+      },
+      {
+        "speaker": 0,
+        "text": "Oh, good. I mean, not good, but does that mean it'll count as late?"
+      },
+      {
+        "speaker": 1,
+        "text": "No. The professor extended the deadline to midnight tonight for everyone. She posted an announcement this morning."
+      },
+      {
+        "speaker": 0,
+        "text": "I haven't checked the course page today. So should I just submit it again tonight?"
+      },
+      {
+        "speaker": 1,
+        "text": "Yes, through the site, the normal way. And if you saved your code before ten, you might mention the time in a comment, just in case."
+      },
+      {
+        "speaker": 0,
+        "text": "I finished around nine thirty, so I'll do that. Thanks."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the woman's problem?",
+        "options": [
+          "She lost the code she wrote for an assignment.",
+          "She missed an announcement about a new task.",
+          "She is unable to log in to the course page.",
+          "She could not turn in an assignment on time."
+        ],
+        "answer": 3,
+        "explanation": "The submission site gave her an error, so she could not submit her assignment."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the teaching assistant tell the woman?",
+        "options": [
+          "She should email her code to the professor.",
+          "Her assignment will lose a few points for being submitted late.",
+          "The deadline has been moved for the whole class.",
+          "The site will be down until tomorrow."
+        ],
+        "answer": 2,
+        "explanation": "He says the professor extended the deadline to midnight tonight for everyone."
+      }
+    ]
+  },
+  {
+    "id": "cv3-21",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and his research supervisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Ayaan",
+        "gender": "male"
+      },
+      {
+        "role": "research supervisor",
+        "name": "Dr. Leclerc",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Leclerc, I've finished six interviews at the farmers' market, but three of the vendors didn't want to be recorded. I took handwritten notes for those."
+      },
+      {
+        "speaker": 1,
+        "text": "That's fine, and you were right to respect that. Did you note it on their consent forms?"
+      },
+      {
+        "speaker": 0,
+        "text": "Consent forms? They agreed to the interview, so I just didn't think about it."
+      },
+      {
+        "speaker": 1,
+        "text": "The plan we filed with the review board says every interview would be recorded. If we're switching methods for some people, the board needs to know."
+      },
+      {
+        "speaker": 0,
+        "text": "Does that mean I can't use those three interviews?"
+      },
+      {
+        "speaker": 1,
+        "text": "You probably can. It's usually a quick amendment. But until it's approved, keep those notes separate, and leave them out of your analysis."
+      },
+      {
+        "speaker": 0,
+        "text": "Okay. Should I write the amendment?"
+      },
+      {
+        "speaker": 1,
+        "text": "Draft it, and I'll sign it. Then we'll see."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "The vendors' opinions about the farmers' market",
+          "The student's trouble finding people to interview",
+          "A recording device that failed during interviews",
+          "A procedural issue with some of the interviews"
+        ],
+        "answer": 3,
+        "explanation": "Some interviews were not recorded, which differs from the approved plan and requires an amendment."
+      },
+      {
+        "type": "prediction",
+        "prompt": "What will the student probably do next?",
+        "options": [
+          "Interview the three vendors a second time",
+          "Prepare a request to change the study's method",
+          "Throw away his handwritten interview notes",
+          "Include the handwritten notes in his analysis right away"
+        ],
+        "answer": 1,
+        "explanation": "Dr. Leclerc tells him to draft the amendment, which she will sign."
+      }
+    ]
+  },
+  {
+    "id": "cv3-22",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between two members of a hiking club.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Kenji",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Lucy",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Lucy, I tried to reserve a van for the hiking club trip, but there's a problem. The campus rental office only allows drivers who are twenty-one or older."
+      },
+      {
+        "speaker": 1,
+        "text": "Oh no. You're twenty, right?"
+      },
+      {
+        "speaker": 0,
+        "text": "Yeah. And so is everyone else on the planning committee. I already asked."
+      },
+      {
+        "speaker": 1,
+        "text": "What about Dominic? He's a grad student, and he comes on almost every hike."
+      },
+      {
+        "speaker": 0,
+        "text": "That could work. Do you think he'd want to drive two hours each way, though?"
+      },
+      {
+        "speaker": 1,
+        "text": "If we cover his lunch and let him pick the trail, I bet he would. He's always complaining that we choose easy ones."
+      },
+      {
+        "speaker": 0,
+        "text": "Ha. Okay. Can you ask him? You know him better than I do."
+      },
+      {
+        "speaker": 1,
+        "text": "Sure. I'll text him right now."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What problem are the students discussing?",
+        "options": [
+          "The rental office has no vans available that day.",
+          "The trail they chose is too difficult for members.",
+          "No one on the committee is allowed to drive the van.",
+          "The hiking site is much too far away for a single-day trip."
+        ],
+        "answer": 2,
+        "explanation": "The rental office requires drivers to be twenty-one, and all committee members are twenty."
+      },
+      {
+        "type": "prediction",
+        "prompt": "What will the woman probably do next?",
+        "options": [
+          "Reserve the van under her own name",
+          "Choose an easier trail for the trip",
+          "Ask the rental office for an exception",
+          "Contact a club member about driving"
+        ],
+        "answer": 3,
+        "explanation": "She says she will text Dominic, the graduate student, right now."
+      }
+    ]
+  },
+  {
+    "id": "cv3-23",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Zoe",
+        "gender": "female"
+      },
+      {
+        "role": "student",
+        "name": "Andre",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Andre, can I ask you about being an RA? I'm thinking of applying for next year. Free housing sounds amazing."
+      },
+      {
+        "speaker": 1,
+        "text": "It is nice. But you know you're on call two nights a week, right? Plus every few weekends."
+      },
+      {
+        "speaker": 0,
+        "text": "On call meaning what, exactly?"
+      },
+      {
+        "speaker": 1,
+        "text": "Staying in the building, answering the door when someone's locked out at two in the morning, that kind of thing. Last semester I couldn't go home for my sister's birthday."
+      },
+      {
+        "speaker": 0,
+        "text": "Hmm. I've got my internship in the spring, too. That's already fifteen hours a week."
+      },
+      {
+        "speaker": 1,
+        "text": "Some RAs manage it. You'd just have to be really organized."
+      },
+      {
+        "speaker": 0,
+        "text": "Organized isn't exactly my strong point. Maybe I'll wait until senior year, when my schedule's lighter."
+      },
+      {
+        "speaker": 1,
+        "text": "That's not a bad idea. They hire seniors all the time."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "How to apply for a spring internship",
+          "What a campus housing job involves",
+          "Why the man missed a family event",
+          "Where the woman will live as a senior"
+        ],
+        "answer": 1,
+        "explanation": "The woman asks the man, a current RA, what the position requires."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why does the woman decide not to apply this year?",
+        "options": [
+          "She doubts she could balance it with her other duties.",
+          "She learns that free housing is no longer offered.",
+          "She wants to visit her family every weekend.",
+          "She hears that the housing office hires only seniors as RAs."
+        ],
+        "answer": 0,
+        "explanation": "She already has a fifteen-hour internship and admits that being organized is not her strong point."
+      }
+    ]
+  },
+  {
+    "id": "cv3-24",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a nutrition professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Gabriel",
+        "gender": "male"
+      },
+      {
+        "role": "nutrition professor",
+        "name": "Professor Adeyemi",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Adeyemi, I'd like to write my term paper on whether school lunch programs improve children's nutrition. Is that okay?"
+      },
+      {
+        "speaker": 1,
+        "text": "It's a good question. What evidence were you planning to use?"
+      },
+      {
+        "speaker": 0,
+        "text": "Mostly news articles. There've been a lot of stories about schools changing their menus."
+      },
+      {
+        "speaker": 1,
+        "text": "News stories are useful for background, but they won't tell you much about nutrition itself. You'll need real data, like what children actually ate."
+      },
+      {
+        "speaker": 0,
+        "text": "Where would I find something like that?"
+      },
+      {
+        "speaker": 1,
+        "text": "There's a national health survey done every two years. It asks families about children's diets, and the data's free online. Our health sciences librarian can show you how to search it."
+      },
+      {
+        "speaker": 0,
+        "text": "Oh, that'd be great. I'll make an appointment with her."
+      },
+      {
+        "speaker": 1,
+        "text": "Good. And narrow it to one age group. Elementary students would be a good start."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see the professor?",
+        "options": [
+          "To ask about the ages in a survey",
+          "To get approval for a paper topic",
+          "To find news stories about menus",
+          "To schedule a meeting with a librarian"
+        ],
+        "answer": 1,
+        "explanation": "He asks the professor whether his topic on school lunch programs is acceptable."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the professor say about the news articles?",
+        "options": [
+          "They include data from a national survey.",
+          "They focus mainly on elementary students.",
+          "They are the best place for him to begin his research.",
+          "They cannot answer the student's question alone."
+        ],
+        "answer": 3,
+        "explanation": "She says news stories are useful for background but will not tell him much about nutrition itself."
+      }
+    ]
+  },
+  {
+    "id": "cv3-25",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and an engineering professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Freya",
+        "gender": "female"
+      },
+      {
+        "role": "engineering professor",
+        "name": "Professor Nakamura",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Nakamura, our team's truss bridge failed the load test yesterday. It broke at about sixty percent of the target weight."
+      },
+      {
+        "speaker": 1,
+        "text": "I heard. Do you know where it failed?"
+      },
+      {
+        "speaker": 0,
+        "text": "At one of the joints near the middle. We think the glue didn't cure long enough. We were hoping to rebuild it and test again before the report's due."
+      },
+      {
+        "speaker": 1,
+        "text": "You could. But the rubric doesn't reward a successful bridge so much as good analysis. A clear explanation of why it failed, with photos and calculations, often makes the stronger report."
+      },
+      {
+        "speaker": 0,
+        "text": "So we'd just write about the failure?"
+      },
+      {
+        "speaker": 1,
+        "text": "Write about it honestly, and then say what you'd change. That's what engineers actually do."
+      },
+      {
+        "speaker": 0,
+        "text": "That's a relief, honestly. Rebuilding in a week would've been a nightmare."
+      },
+      {
+        "speaker": 1,
+        "text": "Just don't blame the glue without evidence. Look at the broken joint carefully first."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "Why the glue on the bridge did not cure",
+          "When the team's final written report is due to the professor",
+          "How the bridge should be rebuilt this week",
+          "How the team should respond to a failed test"
+        ],
+        "answer": 3,
+        "explanation": "The professor advises the team to analyze the failure in their report instead of rebuilding."
+      },
+      {
+        "type": "inference",
+        "prompt": "What does the professor imply when he warns the student about the glue?",
+        "options": [
+          "The cause of the failure is not yet certain.",
+          "The team chose the wrong kind of glue.",
+          "The joint near the middle was poorly designed from the start.",
+          "The test equipment may have been faulty."
+        ],
+        "answer": 0,
+        "explanation": "He tells her to examine the broken joint before concluding that the glue was responsible."
+      }
+    ]
+  },
+  {
+    "id": "cv3-26",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a teaching assistant for a Spanish course.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Valentina",
+        "gender": "female"
+      },
+      {
+        "role": "teaching assistant",
+        "name": "Hugo",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Hugo, I have a scheduling problem. My oral exam is on the twelfth, but I'm presenting a poster at a student research conference that day."
+      },
+      {
+        "speaker": 1,
+        "text": "Congratulations on the poster. Is the conference out of town?"
+      },
+      {
+        "speaker": 0,
+        "text": "Yes. I leave the morning of the eleventh and come back on the thirteenth."
+      },
+      {
+        "speaker": 1,
+        "text": "Okay. The exams run all week, from the eighth through the twelfth. Could you take it earlier? I still have a slot on the ninth at ten."
+      },
+      {
+        "speaker": 0,
+        "text": "The ninth works. Is it the same format? Ten minutes of conversation and a short reading?"
+      },
+      {
+        "speaker": 1,
+        "text": "Exactly the same. I'll switch your slot in the schedule today and send you a confirmation."
+      },
+      {
+        "speaker": 0,
+        "text": "Thank you so much. I was worried I'd have to choose between them."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the woman talk to the teaching assistant?",
+        "options": [
+          "To ask about the format of a conference",
+          "To get help preparing for a reading test",
+          "To solve a conflict involving her exam date",
+          "To invite him to her poster presentation"
+        ],
+        "answer": 2,
+        "explanation": "Her oral exam falls on the same day as a conference where she is presenting."
+      },
+      {
+        "type": "detail",
+        "prompt": "When will the woman take her oral exam?",
+        "options": [
+          "On the eleventh",
+          "On the twelfth",
+          "On the ninth",
+          "On the thirteenth"
+        ],
+        "answer": 2,
+        "explanation": "The assistant offers an open slot on the ninth at ten, and she accepts it."
+      }
+    ]
+  },
+  {
+    "id": "cv3-27",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and his research supervisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Kai",
+        "gender": "male"
+      },
+      {
+        "role": "research supervisor",
+        "name": "Dr. Sorensen",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Sorensen, the alarm on the minus-eighty freezer went off over the weekend. When I came in this morning, it was only at minus twenty."
+      },
+      {
+        "speaker": 1,
+        "text": "Oh no. Which shelves were our samples on?"
+      },
+      {
+        "speaker": 0,
+        "text": "The coral tissue was on top, and the seawater filters were on the bottom. I'm afraid it's all ruined. That's three months of collecting."
+      },
+      {
+        "speaker": 1,
+        "text": "Not necessarily. The filters are for counting algae cells, and those hold up fine at minus twenty for a few days. The coral is another story. We're measuring proteins, and those break down quickly once they warm."
+      },
+      {
+        "speaker": 0,
+        "text": "So we'd have to collect the coral again?"
+      },
+      {
+        "speaker": 1,
+        "text": "Probably. But the reef trip in May could cover that. Move the filters to the backup freezer now, and label the coral as damaged. Don't throw it out yet."
+      },
+      {
+        "speaker": 0,
+        "text": "Okay. I'll do that right away."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "How to repair a freezer alarm that went off",
+          "What an equipment failure means for some samples",
+          "When the next trip to the reef will take place",
+          "Which freezer shelves the samples should be stored on"
+        ],
+        "answer": 1,
+        "explanation": "They discuss which samples survived the freezer warming and which were damaged."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred about the student's first reaction?",
+        "options": [
+          "He blamed himself for the freezer problem.",
+          "He wanted to postpone the trip in May.",
+          "He believed the filters mattered most.",
+          "He assumed the damage was worse than it was."
+        ],
+        "answer": 3,
+        "explanation": "He thought all three months of samples were ruined, but the supervisor explains the filters are probably fine."
+      }
+    ]
+  },
+  {
+    "id": "cv3-28",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Omar",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Ruby",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Ruby, you took Intro to Geology last year, right? I need one more science course, and I'm choosing between that and astronomy for non-majors."
+      },
+      {
+        "speaker": 1,
+        "text": "I did. It was great. We went out to look at rock layers in the canyon a few times."
+      },
+      {
+        "speaker": 0,
+        "text": "That sounds fun. When were the trips?"
+      },
+      {
+        "speaker": 1,
+        "text": "Saturdays, all day. There were four of them, and they counted for a big part of the grade."
+      },
+      {
+        "speaker": 0,
+        "text": "Oh. I work at the bakery every Saturday morning, and I can't really switch."
+      },
+      {
+        "speaker": 1,
+        "text": "Then astronomy's probably safer. My roommate took it. Everything's during the week, and there are a couple of evening viewing nights, but they're optional."
+      },
+      {
+        "speaker": 0,
+        "text": "Optional is good. I'll sign up for astronomy, then."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the speakers mainly discussing?",
+        "options": [
+          "What the woman learned in the canyon",
+          "Which science course the man should take",
+          "How the man could change his work hours",
+          "Why the woman's roommate liked astronomy"
+        ],
+        "answer": 1,
+        "explanation": "The man is choosing between geology and astronomy to complete his science requirement."
+      },
+      {
+        "type": "detail",
+        "prompt": "Why does the man decide against the geology course?",
+        "options": [
+          "Its grade depends mostly on exams.",
+          "Its required trips conflict with his job.",
+          "It is not open to non-science majors.",
+          "It requires several evening sessions."
+        ],
+        "answer": 1,
+        "explanation": "The geology field trips are on Saturdays, when he works at the bakery."
+      }
+    ]
+  },
+  {
+    "id": "cv3-29",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Victor",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Isla",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Isla, congrats! I heard the library offered you more hours at the circulation desk."
+      },
+      {
+        "speaker": 1,
+        "text": "Yeah, they did. Twenty a week instead of twelve. I haven't said yes yet, though."
+      },
+      {
+        "speaker": 0,
+        "text": "Why not? You were saying last month that rent was tight."
+      },
+      {
+        "speaker": 1,
+        "text": "It still is. But the extra shifts are Tuesday and Thursday afternoons, and that's when I volunteer in Dr. Fenwick's lab."
+      },
+      {
+        "speaker": 0,
+        "text": "Couldn't you volunteer some other time?"
+      },
+      {
+        "speaker": 1,
+        "text": "Not really. That's when they run the experiments. And Dr. Fenwick hinted she might have a paid position opening up this summer."
+      },
+      {
+        "speaker": 0,
+        "text": "Ah. So you'd be giving up a sure thing now for something that might be better later."
+      },
+      {
+        "speaker": 1,
+        "text": "Something I actually want to do. I think I'll tell the library twelve is enough for now."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "How the woman could lower the cost of her rent",
+          "Whether the woman should accept more work hours",
+          "When the woman will start a summer lab job",
+          "Why the library cut the woman's weekly hours"
+        ],
+        "answer": 1,
+        "explanation": "The woman has been offered more hours at the library and explains why she is hesitating."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why will the woman probably turn down the extra hours?",
+        "options": [
+          "She values an opportunity linked to her interests.",
+          "She has already accepted a paid lab position.",
+          "She does not enjoy working at the library's circulation desk.",
+          "She has found a less expensive apartment."
+        ],
+        "answer": 0,
+        "explanation": "Keeping her lab time could lead to a summer job doing work she actually wants to do."
+      }
+    ]
+  },
+  {
+    "id": "cv3-30",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a statistics professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Darius",
+        "gender": "male"
+      },
+      {
+        "role": "statistics professor",
+        "name": "Professor Holt",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Holt, I'm interested in doing an independent study on sports statistics. Specifically, whether playing at home really helps basketball teams win."
+      },
+      {
+        "speaker": 1,
+        "text": "That's a classic question. Which statistics courses have you taken so far?"
+      },
+      {
+        "speaker": 0,
+        "text": "Just the intro course, last fall."
+      },
+      {
+        "speaker": 1,
+        "text": "Then you haven't done regression yet. To answer your question properly, you'd need to account for things like team strength and travel distance. That takes regression."
+      },
+      {
+        "speaker": 0,
+        "text": "So I can't do it?"
+      },
+      {
+        "speaker": 1,
+        "text": "Not yet. Take Regression Methods in the spring, and we could do the independent study next fall. In the meantime, you could start collecting game results from past seasons."
+      },
+      {
+        "speaker": 0,
+        "text": "Okay. That actually gives me time to build a really good data set."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "When the student can start an independent study",
+          "Why home teams tend to win more often",
+          "The student's grade in an introductory course",
+          "The best way to measure travel distance"
+        ],
+        "answer": 0,
+        "explanation": "The professor says he must take regression first and can do the independent study next fall."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the professor suggest the student do now?",
+        "options": [
+          "Start the independent study this spring",
+          "Take the introductory course again",
+          "Find a professor who teaches regression",
+          "Begin gathering data for the project"
+        ],
+        "answer": 3,
+        "explanation": "She suggests he start collecting game results from past seasons in the meantime."
+      }
+    ]
+  },
+  {
+    "id": "cv3-31",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and a literature professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Nina",
+        "gender": "female"
+      },
+      {
+        "role": "literature professor",
+        "name": "Professor Whitaker",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Whitaker, I know this is short notice, but I'm applying to a master's program in comparative literature, and the deadline is Monday. Would you be able to write me a letter?"
+      },
+      {
+        "speaker": 1,
+        "text": "Monday. That's four days."
+      },
+      {
+        "speaker": 0,
+        "text": "I know. One of my other recommenders had to back out yesterday."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm. I'd like to help. You did some of the best work in my translation seminar. But a rushed letter doesn't do anyone any favors."
+      },
+      {
+        "speaker": 0,
+        "text": "I understand. If it's too much, I can ask someone else."
+      },
+      {
+        "speaker": 1,
+        "text": "Let's try this. Send me your statement of purpose and your paper on the Portuguese poets tonight. If I can write something I'm proud of by Sunday, I'll submit it. If not, I'll tell you Saturday, so you have time for a backup."
+      },
+      {
+        "speaker": 0,
+        "text": "That's more than fair. Thank you."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see the professor?",
+        "options": [
+          "To ask for a letter on short notice",
+          "To submit her statement of purpose",
+          "To discuss a paper on Portuguese poets",
+          "To ask about a program he directs"
+        ],
+        "answer": 0,
+        "explanation": "She asks him to write a recommendation letter due in four days."
+      },
+      {
+        "type": "attitude",
+        "prompt": "What is the professor's attitude toward the student's request?",
+        "options": [
+          "He is willing to try but will not promise.",
+          "He agrees only because she is a top student.",
+          "He thinks she should ask someone else first.",
+          "He is annoyed that she did not plan ahead."
+        ],
+        "answer": 0,
+        "explanation": "He agrees to attempt the letter but will tell her by Saturday if he cannot write a good one."
+      }
+    ]
+  },
+  {
+    "id": "cv3-32",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a teaching assistant for an environmental science course.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Theo",
+        "gender": "male"
+      },
+      {
+        "role": "teaching assistant",
+        "name": "Sana",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Hi, Sana. I'm in your Friday lab section. I just realized the river sampling trip is the same day as my brother's graduation, two states away."
+      },
+      {
+        "speaker": 1,
+        "text": "Ah. That trip's hard to reschedule, since we need the bus and the permits."
+      },
+      {
+        "speaker": 0,
+        "text": "I figured. Is there anything I can do instead?"
+      },
+      {
+        "speaker": 1,
+        "text": "Yes. Students in the other sections collect the same measurements, water temperature, oxygen levels, and so on. You can use their data from the same sites."
+      },
+      {
+        "speaker": 0,
+        "text": "And write the report from that?"
+      },
+      {
+        "speaker": 1,
+        "text": "Right. Same questions as everyone else. But you'd also add a short paragraph on what you couldn't observe directly, like the weather that day."
+      },
+      {
+        "speaker": 0,
+        "text": "Sounds fair. How do I get the data?"
+      },
+      {
+        "speaker": 1,
+        "text": "I'll put it in a shared folder this afternoon and email you the link."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "The permits needed to take samples from the river",
+          "An alternative to a trip the student will miss",
+          "The student's plans for his brother's graduation",
+          "The measurements taken by each lab section"
+        ],
+        "answer": 1,
+        "explanation": "He cannot attend the river trip, so the assistant lets him use other sections' data."
+      },
+      {
+        "type": "detail",
+        "prompt": "What extra task must the student complete?",
+        "options": [
+          "Collect his own water samples at a later date",
+          "Write about what he could not see in person",
+          "Compare data from several earlier years",
+          "Attend another section's trip to the river"
+        ],
+        "answer": 1,
+        "explanation": "She says he must add a paragraph on what he could not observe directly."
+      }
+    ]
+  },
+  {
+    "id": "cv3-33",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and her thesis advisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Simone",
+        "gender": "female"
+      },
+      {
+        "role": "thesis advisor",
+        "name": "Dr. Moreau",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Moreau, I've hit a wall with my thesis. I wanted to compare bike lane use in Ashford and Millbrook, but Millbrook never counted cyclists."
+      },
+      {
+        "speaker": 1,
+        "text": "Not at all?"
+      },
+      {
+        "speaker": 0,
+        "text": "They counted cars at intersections, but never bikes. I've emailed three different offices."
+      },
+      {
+        "speaker": 1,
+        "text": "Then a two-city comparison is out, I'm afraid. But think about Ashford on its own. Didn't some neighborhoods get protected lanes while others only got painted lines?"
+      },
+      {
+        "speaker": 0,
+        "text": "Yes, the east side got the protected ones a few years ago."
+      },
+      {
+        "speaker": 1,
+        "text": "And Ashford counts cyclists everywhere. So you could compare neighborhoods within one city. Same weather, same traffic rules. Honestly, that's a cleaner design than comparing two cities."
+      },
+      {
+        "speaker": 0,
+        "text": "Huh. I spent a month on Millbrook, though."
+      },
+      {
+        "speaker": 1,
+        "text": "Use it in your introduction. It shows why cities need to collect this kind of data."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "Why Millbrook stopped counting cars at intersections",
+          "Which offices in Millbrook the student should contact",
+          "A new way for the student to design her study",
+          "When Ashford built its first protected bike lanes"
+        ],
+        "answer": 2,
+        "explanation": "Because Millbrook lacks cyclist data, the advisor suggests comparing neighborhoods within Ashford."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why does the advisor think the new design is cleaner?",
+        "options": [
+          "It requires much less data than the old plan.",
+          "It includes neighborhoods with more cyclists.",
+          "It removes differences that could distort the results.",
+          "It allows her to finish the thesis well before the deadline."
+        ],
+        "answer": 2,
+        "explanation": "He points out that neighborhoods in one city share the same weather and traffic rules."
+      }
+    ]
+  },
+  {
+    "id": "cv3-34",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between two lab partners.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Caleb",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Mina",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Mina, about our lab report on the spring experiment. I can't meet this weekend. My cousin's visiting."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm. The report's due Tuesday, and we haven't even graphed the data."
+      },
+      {
+        "speaker": 0,
+        "text": "What if we split it? You take the graphs, since you're better with the software, and I'll write the methods and the conclusion."
+      },
+      {
+        "speaker": 1,
+        "text": "That could work. But the conclusion depends on the graphs. You can't write it until you see the slope."
+      },
+      {
+        "speaker": 0,
+        "text": "Right. Okay, how about this. I'll do the methods on Saturday. You send me the graphs by Sunday night, and I'll finish the conclusion Monday morning."
+      },
+      {
+        "speaker": 1,
+        "text": "Fine. Let's keep everything in a shared document so we can see each other's changes."
+      },
+      {
+        "speaker": 0,
+        "text": "Good idea. I'll set it up tonight."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the students mainly discussing?",
+        "options": [
+          "Why their spring experiment gave odd results",
+          "How to divide the work on a shared report",
+          "Which software is best for making graphs",
+          "When the man's cousin will visit campus"
+        ],
+        "answer": 1,
+        "explanation": "The man cannot meet, so they plan who will write each part of their lab report."
+      },
+      {
+        "type": "detail",
+        "prompt": "Why can't the man write the conclusion first?",
+        "options": [
+          "It depends on results the woman will graph.",
+          "He does not know how to use the software.",
+          "The methods section must be approved first.",
+          "He will be busy with his cousin until Tuesday."
+        ],
+        "answer": 0,
+        "explanation": "The woman points out that he needs to see the slope from her graphs before writing the conclusion."
+      }
+    ]
+  },
+  {
+    "id": "cv3-35",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two members of a photography club.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Lena",
+        "gender": "female"
+      },
+      {
+        "role": "student",
+        "name": "Aiden",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Aiden, the student activities council approved our budget for the spring exhibition, but only half of what we asked for."
+      },
+      {
+        "speaker": 1,
+        "text": "Half? That barely covers printing. We were going to show forty photos."
+      },
+      {
+        "speaker": 0,
+        "text": "I know. But I've been thinking. What if we showed fewer, but printed them really large? Like fifteen big prints instead of forty small ones."
+      },
+      {
+        "speaker": 1,
+        "text": "Fifteen? Then we'd have to tell most of the members their work isn't in."
+      },
+      {
+        "speaker": 0,
+        "text": "Not if each member picks their single best photo. We only have about fifteen active members anyway."
+      },
+      {
+        "speaker": 1,
+        "text": "Huh. Everyone getting exactly one piece. Honestly, that might look better than a crowded wall. Professional galleries never cram things together."
+      },
+      {
+        "speaker": 0,
+        "text": "That's what I was thinking. I'll bring it up at Thursday's meeting."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "Adjusting an exhibition plan to fit a smaller budget",
+          "Asking the activities council to restore the club's full budget",
+          "Voting on the best photo taken by a member",
+          "Choosing a professional gallery for the show"
+        ],
+        "answer": 0,
+        "explanation": "Their budget was cut in half, so the woman proposes showing fewer, larger prints."
+      },
+      {
+        "type": "attitude",
+        "prompt": "How does the man feel about the woman's final suggestion?",
+        "options": [
+          "He comes to find it appealing.",
+          "He thinks it is unfair to new members.",
+          "He doubts the budget will cover it.",
+          "He prefers the original forty photos."
+        ],
+        "answer": 0,
+        "explanation": "After first objecting, he says one piece per member might look better than a crowded wall."
+      }
+    ]
+  },
+  {
+    "id": "cv3-36",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and an architecture professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Yusuf",
+        "gender": "male"
+      },
+      {
+        "role": "architecture professor",
+        "name": "Professor Farrow",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Farrow, I'm sorry I missed the model review yesterday. My train was stuck for two hours, and the model was with me the whole time."
+      },
+      {
+        "speaker": 1,
+        "text": "That's frustrating. The review is a big part of the studio grade, though. Is the model finished?"
+      },
+      {
+        "speaker": 0,
+        "text": "Yes, it is. I have it right here, actually."
+      },
+      {
+        "speaker": 1,
+        "text": "Okay. Here's what we'll do. Take photos of it from four angles, including a top view, and upload them by tonight. Then you'll present it at the start of next week's session."
+      },
+      {
+        "speaker": 0,
+        "text": "In front of the whole studio?"
+      },
+      {
+        "speaker": 1,
+        "text": "Yes, just like everyone did yesterday. Five minutes, and then the class can ask questions."
+      },
+      {
+        "speaker": 0,
+        "text": "That's fine. Should I bring the model too, or just the photos?"
+      },
+      {
+        "speaker": 1,
+        "text": "Bring both. The photos are for my records."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student come to see the professor?",
+        "options": [
+          "To find a way to make up a missed review",
+          "To get advice on finishing his model",
+          "To ask for help photographing his model",
+          "To complain about a delay on his train"
+        ],
+        "answer": 0,
+        "explanation": "He apologizes for missing the model review, and the professor sets up a make-up plan."
+      },
+      {
+        "type": "detail",
+        "prompt": "What must the student do by tonight?",
+        "options": [
+          "Present his model to the class",
+          "Email the professor about his train",
+          "Upload photos of his model",
+          "Add a top view to his model"
+        ],
+        "answer": 2,
+        "explanation": "She tells him to photograph the model from four angles and upload the photos by tonight."
+      }
+    ]
+  },
+  {
+    "id": "cv3-37",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and a communications professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Clara",
+        "gender": "female"
+      },
+      {
+        "role": "communications professor",
+        "name": "Professor Reyes",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Reyes, I got my midterm grades, and my participation score is a C. But I've been to every single class."
+      },
+      {
+        "speaker": 1,
+        "text": "You have, and I've noticed. But participation here means contributing to discussion, and I don't think I've heard you speak more than once or twice."
+      },
+      {
+        "speaker": 0,
+        "text": "I know. It's just that by the time I've figured out what I want to say, the discussion's already moved on."
+      },
+      {
+        "speaker": 1,
+        "text": "That's more common than you'd think. Did you know the online forum counts toward participation too? Thoughtful posts after class count the same as comments in class."
+      },
+      {
+        "speaker": 0,
+        "text": "Really? I thought the forum was optional."
+      },
+      {
+        "speaker": 1,
+        "text": "Posting is optional, but it's one way to participate. You could also look at the questions I post the night before and come with one point prepared."
+      },
+      {
+        "speaker": 0,
+        "text": "I could try that. Having something ready would definitely help."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see the professor?",
+        "options": [
+          "To ask about a grade that surprised her",
+          "To explain why she missed several classes",
+          "To learn how to post on the online forum",
+          "To get discussion questions in advance"
+        ],
+        "answer": 0,
+        "explanation": "She received a C for participation even though she attended every class."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred about why the student rarely speaks in class?",
+        "options": [
+          "She has not been completing the readings.",
+          "She needs more time to put her ideas together.",
+          "She would rather write her ideas than speak them aloud.",
+          "She disagrees with most of her classmates."
+        ],
+        "answer": 1,
+        "explanation": "She says the discussion moves on before she has figured out what she wants to say."
+      }
+    ]
+  },
+  {
+    "id": "cv3-38",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and his research supervisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Pablo",
+        "gender": "male"
+      },
+      {
+        "role": "research supervisor",
+        "name": "Dr. Iyer",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Iyer, I'm flying home for winter break on the eighteenth, but the drought experiment in the greenhouse runs through the end of the month."
+      },
+      {
+        "speaker": 1,
+        "text": "Right, the plants still need their measured watering every other day. Have you asked anyone to cover for you?"
+      },
+      {
+        "speaker": 0,
+        "text": "I asked Wen, but she's leaving too. I'm not sure who's staying."
+      },
+      {
+        "speaker": 1,
+        "text": "Tobias is here over break. He's done watering for another project, so he knows the system."
+      },
+      {
+        "speaker": 0,
+        "text": "Oh, great. Should I write out the schedule for him? Each group gets a different amount."
+      },
+      {
+        "speaker": 1,
+        "text": "Yes, please. Make a table with the dates and amounts for each group, and tape a copy to the greenhouse door. Then walk him through it before you leave."
+      },
+      {
+        "speaker": 0,
+        "text": "Okay. I'll message him today and set up a time."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the student's problem?",
+        "options": [
+          "He cannot afford a plane ticket home for the break.",
+          "His drought experiment will have to end early.",
+          "He does not understand the greenhouse watering system.",
+          "He needs someone to water his plants while he is away."
+        ],
+        "answer": 3,
+        "explanation": "He is leaving for break while his experiment still needs regular watering."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the supervisor ask the student to do?",
+        "options": [
+          "Water the plants every day before he leaves",
+          "Ask Wen to change her travel plans",
+          "Prepare written instructions for another student",
+          "Reduce the water given to each group"
+        ],
+        "answer": 2,
+        "explanation": "She asks him to make a table of dates and amounts and walk Tobias through it."
+      }
+    ]
+  },
+  {
+    "id": "cv3-39",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and a mathematics professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Hassan",
+        "gender": "male"
+      },
+      {
+        "role": "mathematics professor",
+        "name": "Professor Kaur",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Kaur, I'm thinking of switching from your real analysis course to applied math. The proofs just aren't clicking for me."
+      },
+      {
+        "speaker": 1,
+        "text": "I'm sorry to hear that. What makes you feel that way?"
+      },
+      {
+        "speaker": 0,
+        "text": "I spend hours on every problem set, and I'm never sure my proofs are right."
+      },
+      {
+        "speaker": 1,
+        "text": "Hmm. Can I tell you something? Feeling unsure is normal in this course. Your last two problem sets were among the better ones in the class."
+      },
+      {
+        "speaker": 0,
+        "text": "Really? I lost a few points on each."
+      },
+      {
+        "speaker": 1,
+        "text": "So did everyone. The difference is that your mistakes were small. Some students are missing the main idea entirely."
+      },
+      {
+        "speaker": 0,
+        "text": "Huh. I guess I've been comparing my proofs to the ones in the textbook."
+      },
+      {
+        "speaker": 1,
+        "text": "The textbook's had ten years of editing. Give it until the midterm. If you still want to switch then, I'll sign the form."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "How to write proofs like those in the textbook",
+          "When the student will be able to take the applied math course",
+          "Why the student lost points on problem sets",
+          "Whether the student should stay in a difficult course"
+        ],
+        "answer": 3,
+        "explanation": "He wants to leave real analysis, and the professor encourages him to stay until the midterm."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why does the professor mention the textbook's editing?",
+        "options": [
+          "To recommend that he study the textbook's proofs",
+          "To suggest he is judging himself by an unfair standard",
+          "To explain why the textbook still contains a few small mistakes",
+          "To show that the course material recently changed"
+        ],
+        "answer": 1,
+        "explanation": "She implies polished textbook proofs are not a fair comparison for a student's own work."
+      }
+    ]
+  },
+  {
+    "id": "cv3-40",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between two roommates.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Elif",
+        "gender": "female"
+      },
+      {
+        "role": "student",
+        "name": "Nathan",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Nathan, I have to tell you something. I got the internship in the city, so I'll be gone from January to May."
+      },
+      {
+        "speaker": 1,
+        "text": "That's amazing, congratulations! But wait, what about the apartment? Our lease runs until July."
+      },
+      {
+        "speaker": 0,
+        "text": "I know. I'm not going to leave you paying my half. I was thinking I could find someone to sublet my room."
+      },
+      {
+        "speaker": 1,
+        "text": "Does the lease allow that?"
+      },
+      {
+        "speaker": 0,
+        "text": "I checked. It does, as long as the landlord approves the person and they sign a short agreement."
+      },
+      {
+        "speaker": 1,
+        "text": "Okay. Could we post on the graduate housing board? A lot of visiting researchers arrive in January."
+      },
+      {
+        "speaker": 0,
+        "text": "Good idea. I'll write the post tonight, and you can look at it before I put it up."
+      },
+      {
+        "speaker": 1,
+        "text": "Sure. Just make sure whoever it is doesn't mind my cat."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What are the speakers mainly discussing?",
+        "options": [
+          "Finding someone to take the woman's room",
+          "Whether the man should apply for an internship",
+          "Ending their lease before July",
+          "Moving to a new apartment in January"
+        ],
+        "answer": 0,
+        "explanation": "The woman will be away for an internship and plans to sublet her room."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the woman say about the lease?",
+        "options": [
+          "It allows subletting if the landlord agrees.",
+          "It ends earlier than the man expected.",
+          "It requires both tenants to sign again.",
+          "It does not allow pets in the apartment."
+        ],
+        "answer": 0,
+        "explanation": "She says subletting is allowed as long as the landlord approves the person."
+      }
+    ]
+  },
+  {
+    "id": "cv3-41",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two students working on a class project.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Ama",
+        "gender": "female"
+      },
+      {
+        "role": "student",
+        "name": "Jasper",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Jasper, I know this is late, but I'm having second thoughts about our business plan. The meal-kit idea for students."
+      },
+      {
+        "speaker": 1,
+        "text": "We present in a week, Ama."
+      },
+      {
+        "speaker": 0,
+        "text": "I know. But I was looking at our survey again. Most students said they'd pay about five dollars a meal. Our kits cost eight just to make."
+      },
+      {
+        "speaker": 1,
+        "text": "So the numbers don't work."
+      },
+      {
+        "speaker": 0,
+        "text": "Not really. Unless we sold to faculty and staff instead. They worry less about price, and they're busy."
+      },
+      {
+        "speaker": 1,
+        "text": "That's actually not a whole new idea. Same product, different customers. We'd only have to redo the market section and the pricing."
+      },
+      {
+        "speaker": 0,
+        "text": "Right. Everything else can stay."
+      },
+      {
+        "speaker": 1,
+        "text": "Okay. But we can't run a new survey in a week, so we'll have to be upfront that the faculty market is an assumption."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "A change in who the students' product is for",
+          "A survey the students must run this week",
+          "A new product to replace their meal kits",
+          "A decision to delay their presentation for another week"
+        ],
+        "answer": 0,
+        "explanation": "They decide to market the same meal kits to faculty and staff instead of students."
+      },
+      {
+        "type": "inference",
+        "prompt": "What does the man mean when he says it is not a whole new idea?",
+        "options": [
+          "Another group has already proposed it.",
+          "The kits would cost the same to make.",
+          "Most of their existing work can still be used.",
+          "Their professor suggested it earlier."
+        ],
+        "answer": 2,
+        "explanation": "He says they would only need to redo the market section and the pricing."
+      }
+    ]
+  },
+  {
+    "id": "cv3-42",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and a journalism professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Sienna",
+        "gender": "female"
+      },
+      {
+        "role": "journalism professor",
+        "name": "Professor Gallo",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Gallo, I'm writing my feature on the campus parking shortage, and someone on the parking staff gave me great quotes. But now he says he doesn't want his name used."
+      },
+      {
+        "speaker": 1,
+        "text": "Did he ask for that before or after the interview?"
+      },
+      {
+        "speaker": 0,
+        "text": "After. He's worried his supervisor won't like it."
+      },
+      {
+        "speaker": 1,
+        "text": "Well, our class follows a standard rule. Anonymous sources are allowed only if the information is important and you can't get it any other way."
+      },
+      {
+        "speaker": 0,
+        "text": "He told me how many permits are sold compared to the number of spaces. That isn't public anywhere."
+      },
+      {
+        "speaker": 1,
+        "text": "Then you might be able to use it. But you'll need to explain in the article why he isn't named, and I'll need to know who he is, privately."
+      },
+      {
+        "speaker": 0,
+        "text": "Okay. I'll ask him if he's comfortable with that."
+      }
+    ],
+    "questions": [
+      {
+        "type": "purpose",
+        "prompt": "Why does the student go to see the professor?",
+        "options": [
+          "To get help interviewing a parking supervisor",
+          "To report a problem with parking on campus",
+          "To ask whether she can quote an unnamed source",
+          "To find out how many permits are sold"
+        ],
+        "answer": 2,
+        "explanation": "Her source no longer wants his name used, and she asks whether his quotes can stay."
+      },
+      {
+        "type": "prediction",
+        "prompt": "What will the student probably do next?",
+        "options": [
+          "Check whether her source accepts the conditions",
+          "Remove the staff member's quotes from her article",
+          "Interview the staff member's supervisor",
+          "Look for the permit numbers in a public report"
+        ],
+        "answer": 0,
+        "explanation": "She says she will ask him if he is comfortable with the professor knowing his identity."
+      }
+    ]
+  },
+  {
+    "id": "cv3-43",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between a student and his research supervisor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Tariq",
+        "gender": "male"
+      },
+      {
+        "role": "research supervisor",
+        "name": "Dr. Halloran",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Dr. Halloran, the regional neuroscience conference is accepting student posters until the fifteenth. I'd love to submit our sleep and learning project."
+      },
+      {
+        "speaker": 1,
+        "text": "I'm glad you're excited. But we've only run eight of our thirty participants. I'd hate for you to present something that changes completely."
+      },
+      {
+        "speaker": 0,
+        "text": "I know it's early. But the conference has a category specifically for work in progress. They actually want preliminary results."
+      },
+      {
+        "speaker": 1,
+        "text": "Really? I didn't realize that. Then the question is what you'd claim. With eight people, you can't say the effect is real."
+      },
+      {
+        "speaker": 0,
+        "text": "I wouldn't. I'd focus on the method, the way we track sleep at home, and present the early numbers as a pilot."
+      },
+      {
+        "speaker": 1,
+        "text": "That's a much more defensible poster. All right. Draft the abstract, and keep the language careful. Send it to me by the tenth."
+      },
+      {
+        "speaker": 0,
+        "text": "Will do. I'll start on it tonight."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "How to track participants' sleep at home",
+          "Why the study has fewer participants than planned",
+          "Whether an unfinished study can be presented",
+          "Which categories the conference offers"
+        ],
+        "answer": 2,
+        "explanation": "The student wants to present a study with only eight of thirty participants, and the supervisor considers it."
+      },
+      {
+        "type": "inference",
+        "prompt": "Why does the supervisor change her mind?",
+        "options": [
+          "She finds the study has more participants than she thought.",
+          "She decides the early results are already strong.",
+          "She wants him to practice writing abstracts.",
+          "She learns the event welcomes incomplete research."
+        ],
+        "answer": 3,
+        "explanation": "She agrees after hearing the conference has a category for work in progress."
+      }
+    ]
+  },
+  {
+    "id": "cv3-44",
+    "difficulty": "intermediate",
+    "intro": "Listen to a conversation between a student and an education professor.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Maeve",
+        "gender": "female"
+      },
+      {
+        "role": "education professor",
+        "name": "Professor Dlamini",
+        "gender": "male"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Professor Dlamini, I'm worried about my observation hours. I need twenty by the end of the month, and I have twelve. But my elementary school just closed because of a broken water pipe."
+      },
+      {
+        "speaker": 1,
+        "text": "Oh, I heard about that. When are they reopening?"
+      },
+      {
+        "speaker": 0,
+        "text": "The Monday after next. That only leaves me about a week."
+      },
+      {
+        "speaker": 1,
+        "text": "Eight hours in a week is doable if you go every morning. But as a backup, the middle school on Fairview Road takes observers too."
+      },
+      {
+        "speaker": 0,
+        "text": "Would hours at a different school still count?"
+      },
+      {
+        "speaker": 1,
+        "text": "They would, as long as it's the same grade level. Hmm, actually, middle school isn't. So stay with your elementary school, and I'll ask for a short extension just in case."
+      },
+      {
+        "speaker": 0,
+        "text": "Thank you. That takes a lot of pressure off."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the student's main concern?",
+        "options": [
+          "She wants to transfer to a different school.",
+          "She may not finish her required hours in time.",
+          "She has not been assigned a class to observe.",
+          "She missed several observation sessions."
+        ],
+        "answer": 1,
+        "explanation": "Her school closed, leaving her little time to complete her remaining eight hours."
+      },
+      {
+        "type": "detail",
+        "prompt": "What does the professor finally decide?",
+        "options": [
+          "The student should observe at the middle school.",
+          "The student should stay at her current school.",
+          "The student must switch to a new grade level.",
+          "The student should finish her hours next term."
+        ],
+        "answer": 1,
+        "explanation": "He realizes middle school hours would not count and tells her to stay with the elementary school."
+      }
+    ]
+  },
+  {
+    "id": "cv3-45",
+    "difficulty": "advanced",
+    "intro": "Listen to a conversation between two students.",
+    "speakers": [
+      {
+        "role": "student",
+        "name": "Dev",
+        "gender": "male"
+      },
+      {
+        "role": "student",
+        "name": "Ivy",
+        "gender": "female"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": 0,
+        "text": "Ivy, I made flashcards for chapters one through six for the economics final. Want to split them for our study session tonight?"
+      },
+      {
+        "speaker": 1,
+        "text": "One through six? Wait, didn't Professor Lund say the final only covers material after the midterm?"
+      },
+      {
+        "speaker": 0,
+        "text": "Did she? I thought it was cumulative."
+      },
+      {
+        "speaker": 1,
+        "text": "She said it in class last week. Hang on, let me check the syllabus. Yeah, here it is. The final covers chapters seven through twelve."
+      },
+      {
+        "speaker": 0,
+        "text": "Oh, great. So I spent three evenings on chapters we don't even need."
+      },
+      {
+        "speaker": 1,
+        "text": "Not completely wasted. Chapter seven builds on five and six, so those cards could still help with the basics."
+      },
+      {
+        "speaker": 0,
+        "text": "I guess. But that means we have nothing ready for eight through twelve."
+      },
+      {
+        "speaker": 1,
+        "text": "Then let's skip the flashcards tonight and just work through the practice problems for those chapters together."
+      }
+    ],
+    "questions": [
+      {
+        "type": "gist",
+        "prompt": "What is the conversation mainly about?",
+        "options": [
+          "Which flashcards are most useful for the final",
+          "How to divide up a set of practice problems",
+          "A misunderstanding about what an exam covers",
+          "Why the professor changed the exam schedule"
+        ],
+        "answer": 2,
+        "explanation": "The man thought the final was cumulative, but it covers only chapters seven through twelve."
+      },
+      {
+        "type": "inference",
+        "prompt": "What does the woman imply about the man's flashcards?",
+        "options": [
+          "Several of them contain important errors.",
+          "They should be shared with the whole class.",
+          "Some of them are still relevant to the exam.",
+          "They cover chapters seven through twelve."
+        ],
+        "answer": 2,
+        "explanation": "She says chapter seven builds on chapters five and six, so some cards could still help."
+      }
+    ]
+  }
+]

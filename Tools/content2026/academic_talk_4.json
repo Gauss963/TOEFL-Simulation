@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "at4-01",
+    "difficulty": "intermediate",
+    "course": "zoology",
+    "intro": "Listen to a talk in a zoology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Okay, so let's think about a problem. A small bat hunting at night has to find a moth the size of your fingernail, in total darkness, while flying. How does it do it? It listens. Most bats use echolocation, which means producing sounds and interpreting the echoes that bounce back. Now, these calls are usually ultrasonic, too high-pitched for humans to hear, and they're incredibly loud, some about as loud as a smoke alarm right next to your ear. So why doesn't the bat deafen itself? Well, just before each call, tiny muscles in its middle ear contract and briefly dampen its hearing, then relax in time to catch the echo. Here's another clever part. When a bat is searching, it calls maybe ten times a second. But as it closes in on an insect, the calls speed up dramatically, to nearly two hundred per second. Researchers call this the feeding buzz. More calls mean more updates on exactly where the moth is moving. Think of it like a camera switching from occasional snapshots to rapid-fire video at the crucial moment. And the moths aren't helpless. Some species can hear bat calls and react by diving toward the ground, and a few tiger moths even produce clicks of their own that seem to jam the bat's signal.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How bats use sound to locate and catch prey in the dark",
+          "How moths use sound to find mates during the night",
+          "Why bat calls are usually too high-pitched for humans to hear",
+          "How bats communicate with one another while hunting"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains echolocation and how bats adjust their calls to track and catch insects."
+      },
+      {
+        "prompt": "According to the professor, why does a bat not deafen itself with its own calls?",
+        "options": [
+          "Its calls are pitched too high for its own sensitive ears to detect.",
+          "It stops calling as soon as the first echo returns.",
+          "Its calls are much quieter than they seem to humans.",
+          "Muscles in its ear briefly reduce its hearing during each call."
+        ],
+        "answer": 3,
+        "explanation": "The professor says tiny middle-ear muscles contract just before each call to dampen the bat's hearing."
+      },
+      {
+        "prompt": "What happens to a bat's calls as it gets close to an insect?",
+        "options": [
+          "They become much louder.",
+          "They shift to a lower pitch.",
+          "They become much more frequent.",
+          "They stop until the insect moves."
+        ],
+        "answer": 2,
+        "explanation": "The calls speed up from about ten to nearly two hundred per second in the feeding buzz."
+      },
+      {
+        "prompt": "Why does the professor mention a camera?",
+        "options": [
+          "To explain how bats form a detailed picture of large objects",
+          "To illustrate how faster calls give the bat more frequent updates",
+          "To compare a bat's eyesight with a camera's ability to see",
+          "To show how scientists record bat calls in the field"
+        ],
+        "answer": 1,
+        "explanation": "Switching from snapshots to rapid-fire video illustrates how the feeding buzz gives more updates on the moth's position."
+      }
+    ]
+  },
+  {
+    "id": "at4-02",
+    "difficulty": "intermediate",
+    "course": "entomology",
+    "intro": "Listen to a talk in an entomology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, when you think of an insect growing up, you probably picture a caterpillar turning into a butterfly. But that's only one of the two main strategies. Let's define them. In incomplete metamorphosis, the young insect, called a nymph, looks like a smaller version of the adult, just without working wings. Grasshoppers are a good example. A nymph grows by molting, shedding its hard outer skeleton several times, and its wing buds get bigger with each molt until the final one produces a winged adult. Complete metamorphosis is different. There are four stages: egg, larva, pupa, and adult. The larva, like a caterpillar or a maggot, looks nothing like the adult. And inside the pupa, much of the larval body is broken down, and adult structures are built from small clusters of cells that were set aside earlier. Now, why would that second strategy be so successful? Beetles, flies, butterflies, bees, and wasps all use it, and together they make up the large majority of insect species. One popular explanation is that larvae and adults don't compete. A caterpillar chews leaves; a butterfly sips nectar. It's like a company with two separate divisions, one devoted entirely to eating and growing, the other to dispersing and reproducing. Each can specialize without getting in the other's way.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How insects shed their outer skeletons as they grow",
+          "Why grasshoppers and butterflies eat different foods",
+          "How wings develop inside the pupa of a beetle",
+          "Two different ways that insects develop into adults"
+        ],
+        "answer": 3,
+        "explanation": "The professor defines and contrasts incomplete and complete metamorphosis."
+      },
+      {
+        "prompt": "According to the professor, what is true of a grasshopper nymph?",
+        "options": [
+          "It resembles the adult but lacks working wings.",
+          "It stays inside a pupa until its wings develop.",
+          "It eats different food from the adult grasshopper.",
+          "It molts only once before becoming an adult."
+        ],
+        "answer": 0,
+        "explanation": "The professor says a nymph looks like a smaller version of the adult without working wings."
+      },
+      {
+        "prompt": "What happens inside the pupa, according to the professor?",
+        "options": [
+          "The larva molts several times while its small wing buds grow larger.",
+          "Much of the larval body is broken down and adult parts are built.",
+          "The insect stores food that the adult will need later on.",
+          "The larva's body slowly stretches into the shape of an adult."
+        ],
+        "answer": 1,
+        "explanation": "The professor explains that the larval body is broken down and adult structures are built from cells set aside earlier."
+      },
+      {
+        "prompt": "Why does the professor compare complete metamorphosis to a company with two divisions?",
+        "options": [
+          "To show that larvae and adults depend on each other for food",
+          "To suggest that most insect species live in organized colonies",
+          "To explain how larvae and adults avoid competing",
+          "To illustrate how the pupa controls each stage of growth"
+        ],
+        "answer": 2,
+        "explanation": "The analogy shows that larvae specialize in eating and adults in reproducing, so they don't compete."
+      }
+    ]
+  },
+  {
+    "id": "at4-03",
+    "difficulty": "advanced",
+    "course": "ornithology",
+    "intro": "Listen to a talk in an ornithology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today we're going to look at one of the hardest questions in ornithology: how do migratory birds sense Earth's magnetic field? We know they do. In classic experiments, caged songbirds in the migration season hop in a consistent direction, and when researchers rotate the magnetic field around the cage using electric coils, the birds turn to follow it. So the compass is real. But where is it? There are two main explanations. The first proposes tiny particles of magnetite, an iron-rich mineral that behaves like a microscopic compass needle. The idea was that cells containing magnetite, perhaps in the upper beak, would detect the field directly. Now, that idea has run into trouble. Some of the iron-rich cells researchers found in pigeon beaks turned out to be immune cells, not sensory cells. The second explanation is stranger. It involves a protein in the bird's eye called a cryptochrome. When light strikes it, it creates pairs of molecules with unpaired electrons, and the way those pairs behave depends slightly on the angle of the magnetic field. So the bird might literally see the field, perhaps as a pattern laid over its vision. Here's a clue supporting this: in experiments, the birds' compass worked only under certain colors of light, which is what you'd predict if a light-triggered reaction were involved. Still, the full mechanism hasn't been confirmed.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To describe how migrating songbirds choose their routes each season",
+          "To explain how researchers first found magnetite in bird beaks",
+          "To argue that birds rely more on vision than on smell",
+          "To compare two explanations for how birds detect magnetic fields"
+        ],
+        "answer": 3,
+        "explanation": "The professor presents and evaluates the magnetite and cryptochrome explanations of the magnetic sense."
+      },
+      {
+        "prompt": "What happened when researchers rotated the magnetic field around caged birds?",
+        "options": [
+          "The birds stopped hopping and stayed in one place.",
+          "The birds hopped in random directions around the cage.",
+          "The birds changed the direction in which they hopped.",
+          "The birds hopped only when the lights were turned on."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the birds turned to follow the rotated field."
+      },
+      {
+        "prompt": "According to the professor, what weakened the magnetite explanation?",
+        "options": [
+          "Some iron-rich cells in beaks proved to be immune cells.",
+          "Magnetite was found only in the eyes of migrating birds.",
+          "Birds without magnetite still turned to follow the field.",
+          "Magnetite was shown to respond only to certain colors."
+        ],
+        "answer": 0,
+        "explanation": "The professor notes that some iron-rich cells in pigeon beaks turned out to be immune cells, not sensory cells."
+      },
+      {
+        "prompt": "What can be inferred about the professor's view of the cryptochrome explanation?",
+        "options": [
+          "She thinks it has been disproved by experiments with light.",
+          "She finds it promising but considers it not yet proven.",
+          "She believes it explains pigeons but not songbirds.",
+          "She regards it as less likely than the magnetite idea."
+        ],
+        "answer": 1,
+        "explanation": "She cites the light-color evidence in its favor but says the full mechanism hasn't been confirmed."
+      }
+    ]
+  },
+  {
+    "id": "at4-04",
+    "difficulty": "advanced",
+    "course": "oceanography",
+    "intro": "Listen to a talk in an oceanography class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Now, when we talk about ocean currents, most people think of wind-driven surface currents. But there's a slower, deeper circulation that's driven by something else: differences in density. We call it thermohaline circulation, from the Greek words for heat and salt, because those are the two things that control seawater density. Cold water is denser than warm water, and salty water is denser than fresh water. So, where does the deep circulation begin? In just a few places, mainly the far North Atlantic and around Antarctica. In the North Atlantic, warm, salty water carried north by surface currents gives up its heat to the frigid air. And when sea ice forms nearby, the ice leaves most of its salt behind in the water around it. So the water becomes both colder and saltier, dense enough to sink thousands of meters. That sinking water then spreads slowly along the ocean floor and eventually rises again elsewhere, a journey that can take around a thousand years. It's sometimes called the global conveyor belt. Here's the concern. If large amounts of fresh water from melting ice sheets pour into the North Atlantic, the surface water there could become less salty, and therefore less dense. It might not sink as readily. The circulation could weaken, though how much and how quickly remain open questions.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How wind patterns create currents at the ocean surface",
+          "Why the North Atlantic is saltier than the world's other oceans",
+          "How differences in density drive a deep ocean circulation",
+          "How sea ice forms in the polar regions each winter"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains thermohaline circulation, which is driven by differences in seawater density."
+      },
+      {
+        "prompt": "According to the professor, what two factors control seawater density?",
+        "options": [
+          "Wind speed and water depth",
+          "Temperature and salt content",
+          "Temperature and wind direction",
+          "Salt content and ocean depth"
+        ],
+        "answer": 1,
+        "explanation": "The professor says heat and salt are the two things that control seawater density."
+      },
+      {
+        "prompt": "How does the formation of sea ice affect the water around it?",
+        "options": [
+          "It makes the water warmer.",
+          "It makes the water less dense.",
+          "It makes the water rise.",
+          "It makes the water saltier."
+        ],
+        "answer": 3,
+        "explanation": "The professor explains that sea ice leaves most of its salt behind in the surrounding water."
+      },
+      {
+        "prompt": "What does the professor imply about fresh water entering the North Atlantic?",
+        "options": [
+          "It could reduce the sinking that drives the deep circulation.",
+          "It could make surface water dense enough to sink faster.",
+          "It would have very little effect because the ocean is so large.",
+          "It would cause sea ice to form farther south than now."
+        ],
+        "answer": 0,
+        "explanation": "Fresher surface water would be less dense and might not sink as readily, weakening the circulation."
+      }
+    ]
+  },
+  {
+    "id": "at4-05",
+    "difficulty": "intermediate",
+    "course": "meteorology",
+    "intro": "Listen to a talk in a meteorology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So, here's something that surprises people. Hail falls most often in the warm months, not in winter. How can ice fall out of the sky on a hot afternoon? The answer is the thunderstorm. Hail forms inside tall storm clouds called cumulonimbus clouds, which have very strong updrafts, currents of air rushing upward. Now, high in these clouds, temperatures are well below freezing, but a lot of the water there is still liquid. It's what we call supercooled water, liquid below zero degrees Celsius, because it hasn't found anything to freeze onto. So when a small ice particle, called an embryo, is carried up through that region, the supercooled droplets freeze onto it on contact, and the hailstone grows. The updraft keeps it suspended. Some stones get swept up and down through different parts of the cloud, and if you cut one in half, you'll often see layers, a bit like the rings of an onion. Clear layers form where water spread over the stone and froze slowly, letting air escape. Cloudy layers form where droplets froze instantly and trapped tiny air bubbles. Eventually the stone gets too heavy for the updraft to support, and it falls. And the stronger the updraft, the larger the hail it can hold up. That's why the most violent storms produce the biggest stones.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why thunderstorms are more common in the summer",
+          "How hailstones form and grow inside storm clouds",
+          "How supercooled water forms in winter clouds",
+          "Why some storms produce rain instead of hail"
+        ],
+        "answer": 1,
+        "explanation": "The professor describes how ice embryos collect supercooled water in thunderstorm updrafts and grow into hail."
+      },
+      {
+        "prompt": "What does the professor say about supercooled water?",
+        "options": [
+          "It stays liquid below freezing until it touches something.",
+          "It forms only near the cold bottom of tall cumulonimbus clouds.",
+          "It freezes as soon as the temperature reaches zero.",
+          "It produces the strong updrafts inside the storm."
+        ],
+        "answer": 0,
+        "explanation": "The professor defines it as liquid below zero degrees that hasn't found anything to freeze onto."
+      },
+      {
+        "prompt": "According to the professor, what produces a cloudy layer in a hailstone?",
+        "options": [
+          "Water freezing slowly and letting air escape",
+          "The stone falling partway down through the cloud",
+          "Dust particles collecting on the stone's surface",
+          "Droplets freezing instantly and trapping air"
+        ],
+        "answer": 3,
+        "explanation": "The professor says cloudy layers form where droplets froze instantly and trapped tiny air bubbles."
+      },
+      {
+        "prompt": "Why does the professor mention the rings of an onion?",
+        "options": [
+          "To show how hailstones break apart as they fall",
+          "To explain how ice embryos first form in a cloud",
+          "To describe the layered structure inside a hailstone",
+          "To compare the sizes of hailstones from different storms"
+        ],
+        "answer": 2,
+        "explanation": "The onion comparison describes the layers visible when a hailstone is cut in half."
+      }
+    ]
+  },
+  {
+    "id": "at4-06",
+    "difficulty": "advanced",
+    "course": "climatology",
+    "intro": "Listen to a talk in a climatology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Today I want to tackle a question that puzzled scientists for over a century: what sets the rhythm of the ice ages? Over the last million years or so, great ice sheets have advanced and retreated again and again. One explanation, developed in the early twentieth century by a Serbian engineer named Milutin Milankovitch, points to changes in Earth's orbit. There are three main cycles. First, the shape of the orbit stretches from nearly circular to slightly oval and back over roughly a hundred thousand years. Second, the tilt of Earth's axis varies between about twenty-two and twenty-four and a half degrees over about forty-one thousand years. Third, the axis slowly wobbles, like a spinning top, over about twenty-six thousand years. Now, these cycles barely change the total sunlight Earth receives. What they change is where and when it arrives, especially how much sunlight reaches the far north in summer. And that's the key. Ice sheets grow when northern summers are too cool to melt the previous winter's snow. The theory was elegant, and in the nineteen seventies, ocean sediment records confirmed these rhythms. But there's a puzzle. For the last million years, the ice ages have followed the hundred-thousand-year cycle, even though that cycle has the weakest direct effect on sunlight. So something on Earth itself, perhaps carbon dioxide or the ice sheets, must be amplifying it.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To describe how past ice sheets are measured using ocean sediments",
+          "To compare the climates of the two hemispheres",
+          "To explain how changes in Earth's orbit may drive ice ages",
+          "To argue that carbon dioxide alone caused past ice ages"
+        ],
+        "answer": 2,
+        "explanation": "The professor presents the orbital-cycle explanation for the timing of ice ages and a remaining puzzle."
+      },
+      {
+        "prompt": "According to the professor, what do the orbital cycles mainly change?",
+        "options": [
+          "The total amount of sunlight Earth receives",
+          "Where and when sunlight reaches Earth",
+          "The amount of carbon dioxide in the air",
+          "The distance between Earth and the Moon"
+        ],
+        "answer": 1,
+        "explanation": "The professor says the cycles barely change total sunlight but change where and when it arrives."
+      },
+      {
+        "prompt": "What condition allows ice sheets to grow, according to the professor?",
+        "options": [
+          "Northern summers too cool to melt the winter's snow",
+          "Northern winters with unusually heavy snowfall",
+          "Long periods when Earth's tilt is at its greatest",
+          "Years when Earth is closest to the Sun in winter"
+        ],
+        "answer": 0,
+        "explanation": "The professor states that ice sheets grow when northern summers are too cool to melt the previous winter's snow."
+      },
+      {
+        "prompt": "What does the professor imply about the hundred-thousand-year cycle?",
+        "options": [
+          "Its direct effect on sunlight is the strongest of all three cycles.",
+          "It was not detected in the ocean sediment records.",
+          "It controlled the ice ages only before a million years ago.",
+          "Its effect on climate must be strengthened by other processes."
+        ],
+        "answer": 3,
+        "explanation": "Because this cycle has the weakest effect on sunlight yet dominates, something on Earth must amplify it."
+      }
+    ]
+  },
+  {
+    "id": "at4-07",
+    "difficulty": "intermediate",
+    "course": "volcanology",
+    "intro": "Listen to a talk in a volcanology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So why do some volcanoes ooze lava gently while others blow themselves apart? Think about Hawaii, where lava often flows out in glowing rivers that people can watch from a safe distance, versus an eruption that blasts ash kilometers into the sky. The difference mostly comes down to two things: how sticky the magma is, and how much gas it holds. Geologists call that stickiness viscosity, a liquid's resistance to flow. Honey has a high viscosity; water has a low one. Now, magma viscosity depends largely on silica. Silica-rich magma forms long chains of linked molecules, which make it thick and sluggish. Basalt, the magma in Hawaii, is relatively low in silica, so it's runny. Here's where gas comes in. Magma contains dissolved water vapor and carbon dioxide, kept in solution by pressure, sort of like the gas in a sealed bottle of soda. As magma rises and the pressure drops, that gas forms bubbles. In runny basalt, the bubbles escape easily, and the eruption stays fairly calm. But in thick, silica-rich magma, the bubbles are trapped. Pressure builds until the magma shatters into fragments, which we call ash, and the result is an explosive eruption. Of course, it's not perfectly simple. Even a basalt eruption can turn explosive if the rising magma meets groundwater.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How the silica in magma forms new types of rock",
+          "Why Hawaiian lava flows are dangerous to watch",
+          "How geologists predict when and where a volcano will next erupt",
+          "Why volcanic eruptions differ in how explosive they are"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains how viscosity and gas content make some eruptions gentle and others explosive."
+      },
+      {
+        "prompt": "According to the professor, what makes magma more viscous?",
+        "options": [
+          "A higher gas content",
+          "Contact with groundwater",
+          "A higher silica content",
+          "A drop in pressure near the surface"
+        ],
+        "answer": 2,
+        "explanation": "The professor says silica-rich magma forms long chains of molecules that make it thick and sluggish."
+      },
+      {
+        "prompt": "What happens to dissolved gas as magma rises?",
+        "options": [
+          "It dissolves more completely into the magma.",
+          "It forms bubbles as the pressure decreases.",
+          "It raises the silica content of the magma.",
+          "It cools the magma and makes it runnier."
+        ],
+        "answer": 1,
+        "explanation": "The professor explains that as pressure drops, the dissolved gas comes out as bubbles."
+      },
+      {
+        "prompt": "Why does the professor mention a sealed bottle of soda?",
+        "options": [
+          "To illustrate how pressure keeps gas dissolved in magma",
+          "To show how silica makes magma thick and sticky",
+          "To compare the bright color of flowing lava with that of a drink",
+          "To explain why basalt eruptions are always calm"
+        ],
+        "answer": 0,
+        "explanation": "The soda bottle illustrates gas held in solution by pressure until the pressure is released."
+      }
+    ]
+  },
+  {
+    "id": "at4-08",
+    "difficulty": "advanced",
+    "course": "paleontology",
+    "intro": "Listen to a talk in a paleontology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So last week we established that birds are living dinosaurs. Today's question follows from that: why did feathers evolve in the first place? The obvious answer is flight. But the fossil record makes that hard to accept. Since the nineteen nineties, many feathered dinosaurs have been found, especially in northeastern China, and a lot of them clearly couldn't fly. Some had only simple, hairlike filaments, nothing like the stiff, asymmetrical flight feathers of a modern bird. So feathers seem to have appeared long before flight. Now, if not flight, then what? One explanation is insulation. Simple filaments would trap air close to the body, like the down on a duckling, which would help an active, warm-blooded animal hold its heat. A second explanation is display. Some fossil feathers preserve tiny structures called melanosomes, the packets that hold pigment, and their shapes let researchers estimate the original colors. Several small dinosaurs appear to have had banded tails or reddish crests, the kind of patterns animals today use to attract mates or signal rivals. So which is right? Well, these aren't mutually exclusive. A structure can evolve for one job and later be taken over for another. Biologists call that exaptation. Feathers may have started as insulation, been elaborated for display, and only much later been used to fly.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To show that most feathered dinosaurs were able to fly",
+          "To explain how pigments are preserved in ancient fossils",
+          "To describe the differences among modern bird species",
+          "To discuss explanations for why feathers first evolved"
+        ],
+        "answer": 3,
+        "explanation": "The professor weighs flight, insulation, and display as reasons feathers first evolved."
+      },
+      {
+        "prompt": "What evidence suggests that feathers appeared before flight?",
+        "options": [
+          "Fossils of early birds with feathers made only of down",
+          "Fossils of dinosaurs with simple feathers that could not fly",
+          "Fossils showing stiff flight feathers on very large, heavy dinosaurs",
+          "Fossils from outside China that lacked any feathers"
+        ],
+        "answer": 1,
+        "explanation": "The professor says many feathered dinosaurs with only simple filaments clearly couldn't fly."
+      },
+      {
+        "prompt": "According to the professor, how can researchers estimate the colors of fossil feathers?",
+        "options": [
+          "By comparing fossils with the feathers of living birds",
+          "By measuring the minerals in the surrounding rock",
+          "By examining the shapes of preserved pigment structures",
+          "By studying the patterns of bands on fossil bones"
+        ],
+        "answer": 2,
+        "explanation": "The shapes of preserved melanosomes let researchers estimate original colors."
+      },
+      {
+        "prompt": "Why does the professor mention exaptation?",
+        "options": [
+          "To show how both explanations could be partly correct",
+          "To argue that feathers evolved mainly for flight",
+          "To explain why display feathers are rarely preserved",
+          "To show that insulation is the only likely explanation"
+        ],
+        "answer": 0,
+        "explanation": "Exaptation lets feathers start as insulation and later serve display and flight, so the explanations need not conflict."
+      }
+    ]
+  },
+  {
+    "id": "at4-09",
+    "difficulty": "intermediate",
+    "course": "genetics",
+    "intro": "Listen to a talk in a genetics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Okay, here's a puzzle to start with. Almost every calico cat, the ones with patches of orange and black fur, is female. Why would coat color depend on sex? Well, in cats, one of the main genes for fur color sits on the X chromosome. One version of the gene gives orange fur; the other gives black. Now, females have two X chromosomes, while males have one X and one Y. So a female can carry both the orange version and the black version. A male normally carries only one, so he's either orange or black, not both. But wait. If a female has both versions, why isn't she a blend, some kind of brownish orange? This is where X inactivation comes in. Early in development, in each cell of a female embryo, one of the two X chromosomes is randomly shut down, packed up so tightly that its genes are mostly silent. And every cell descended from that one keeps the same choice. So as those groups of cells spread out and form the skin, you get patches, some where the orange X is active and some where the black X is active. The white patches, by the way, come from a different gene altogether. And male calicos do occasionally exist, usually because they have an extra X chromosome, but they're quite rare.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How breeders produce cats with orange or black fur",
+          "Why calico coloring appears almost only in female cats",
+          "Why male cats usually have more than one X chromosome",
+          "How the gene for white fur passes from parents to kittens"
+        ],
+        "answer": 1,
+        "explanation": "The professor uses X-linked coat color and X inactivation to explain why calicos are nearly always female."
+      },
+      {
+        "prompt": "According to the professor, why can a male cat not normally be calico?",
+        "options": [
+          "He has only one copy of the coat-color gene.",
+          "His Y chromosome blocks the orange version of the gene.",
+          "Both of his X chromosomes carry the same version.",
+          "His skin cells are unable to silence a chromosome."
+        ],
+        "answer": 0,
+        "explanation": "With one X chromosome, a male carries only one version, so he is either orange or black."
+      },
+      {
+        "prompt": "What happens during X inactivation?",
+        "options": [
+          "The orange version of the gene is always silenced first.",
+          "Both X chromosomes are partly silenced in every cell.",
+          "One X chromosome is randomly silenced in each cell.",
+          "Cells exchange chromosomes as the skin is forming."
+        ],
+        "answer": 2,
+        "explanation": "The professor explains that in each early cell one of the two X chromosomes is randomly shut down."
+      },
+      {
+        "prompt": "Why does the professor ask why a female cat is not a blend of colors?",
+        "options": [
+          "To suggest that some calico cats are actually brownish",
+          "To explain how the white patches on a calico form",
+          "To show that the color gene is not on the X chromosome",
+          "To introduce the process that produces separate patches"
+        ],
+        "answer": 3,
+        "explanation": "The question leads into X inactivation, which explains the patchy rather than blended coat."
+      }
+    ]
+  },
+  {
+    "id": "at4-10",
+    "difficulty": "advanced",
+    "course": "microbiology",
+    "intro": "Listen to a talk in a microbiology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Now, we usually think of genes as being passed down from parent to offspring. That's called vertical transfer. But bacteria do something that complicates the picture enormously. They can pass genes sideways, to cells that aren't their descendants, even to different species. We call that horizontal gene transfer, and it happens in three main ways. First, transformation. When a bacterium dies and breaks open, fragments of its DNA float free, and some bacteria can pick up that DNA from their surroundings and incorporate it. Second, transduction. Here, a virus that infects bacteria accidentally packages a bit of its host's DNA and then injects it into the next cell it infects. So the virus acts like a courier. Third, conjugation, where two bacteria make direct contact, and one passes a copy of a small ring of DNA, called a plasmid, to the other. Plasmids often carry genes for antibiotic resistance. So why does this matter so much? Think about how a useful trait usually spreads in animals: a helpful mutation arises and has to spread over many generations. In bacteria, a resistance gene that evolved in one harmless species in your gut can jump into a dangerous one in a single step. It also creates a headache for biologists who try to draw family trees of bacteria, because the branches keep crossing.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To explain how viruses reproduce once inside bacterial cells",
+          "To compare reproduction in bacteria and in animals",
+          "To describe how antibiotics kill harmful bacteria",
+          "To explain how bacteria obtain genes from unrelated cells"
+        ],
+        "answer": 3,
+        "explanation": "The professor describes three ways bacteria acquire genes from cells that are not their parents."
+      },
+      {
+        "prompt": "According to the professor, what happens during transduction?",
+        "options": [
+          "A virus carries DNA from one bacterium to another.",
+          "A bacterium absorbs DNA released by a dead cell.",
+          "Two bacteria touch and exchange a ring of DNA.",
+          "A virus destroys a bacterium's resistance genes."
+        ],
+        "answer": 0,
+        "explanation": "The professor says a virus packages host DNA and injects it into the next cell, acting like a courier."
+      },
+      {
+        "prompt": "What does the professor say about plasmids?",
+        "options": [
+          "They are released when a bacterium breaks open.",
+          "They are carried between cells mainly by viruses.",
+          "They often carry genes for antibiotic resistance.",
+          "They prevent bacteria from exchanging genes."
+        ],
+        "answer": 2,
+        "explanation": "The professor states directly that plasmids often carry antibiotic resistance genes."
+      },
+      {
+        "prompt": "What does the professor imply about bacterial family trees?",
+        "options": [
+          "They are simpler to draw than those of animals.",
+          "Gene transfer makes their relationships hard to trace.",
+          "They show that resistance genes evolved only once.",
+          "They depend mainly on evidence from viruses."
+        ],
+        "answer": 1,
+        "explanation": "Because genes move sideways between species, the branches of the trees keep crossing."
+      }
+    ]
+  },
+  {
+    "id": "at4-11",
+    "difficulty": "advanced",
+    "course": "neuroscience",
+    "intro": "Listen to a talk in a neuroscience class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today's question is one of the oldest in neuroscience: what physically changes in the brain when you learn something? Back in the nineteen forties, a psychologist named Donald Hebb proposed an answer that's often summarized as, cells that fire together wire together. His idea was that if one neuron repeatedly helps to activate another, the connection between them, the synapse, gets stronger. Then, in the early nineteen seventies, researchers working with rabbits stimulated a pathway into the hippocampus, a brain region essential for forming new memories, with a rapid burst of electrical pulses. Afterward, a single ordinary pulse produced a much larger response, and that boost lasted hours, sometimes days. They called it long-term potentiation, a lasting increase in the strength of a synapse following intense activity. Now, how does it work? A key player is a receptor called the NMDA receptor. It acts like a lock that needs two keys at once: it opens only when the receiving neuron is already active and is also getting a chemical signal from the sending neuron. That's essentially Hebb's rule built into a molecule. When it opens, calcium flows in and triggers changes that strengthen the synapse. But here's the caveat. Showing that long-term potentiation exists isn't the same as proving it's how memories are stored. That link is strongly supported, but it's still being tested.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The history of research on the brain's memory centers",
+          "How electrical pulses can be used to treat memory loss",
+          "A possible physical basis for learning in the brain",
+          "Why the hippocampus is larger in some animals"
+        ],
+        "answer": 2,
+        "explanation": "The professor presents long-term potentiation as a candidate mechanism for how learning changes synapses."
+      },
+      {
+        "prompt": "What did researchers find after stimulating the hippocampus with a rapid burst of pulses?",
+        "options": [
+          "A single pulse produced a larger response for hours or longer.",
+          "The neurons stopped responding to ordinary single pulses for days.",
+          "New neurons began to grow within a few days.",
+          "The rabbits learned new tasks much more quickly."
+        ],
+        "answer": 0,
+        "explanation": "Afterward a single ordinary pulse produced a much larger response that lasted hours or days."
+      },
+      {
+        "prompt": "According to the professor, when does the NMDA receptor open?",
+        "options": [
+          "When calcium first flows into the receiving cell",
+          "When the sending cell fires without any response",
+          "When the receiving cell is resting and gets no chemical signal at all",
+          "When the receiving cell is active and gets a chemical signal"
+        ],
+        "answer": 3,
+        "explanation": "The professor describes it as a lock needing two keys: an active receiving neuron plus a chemical signal."
+      },
+      {
+        "prompt": "What is the professor's attitude toward the link between long-term potentiation and memory?",
+        "options": [
+          "She believes it was disproved by later experiments.",
+          "She thinks it is well supported but not yet proven.",
+          "She considers it unlikely because the effect is brief.",
+          "She thinks it applies to rabbits but not to humans."
+        ],
+        "answer": 1,
+        "explanation": "She says the link is strongly supported but is still being tested."
+      }
+    ]
+  },
+  {
+    "id": "at4-12",
+    "difficulty": "intermediate",
+    "course": "physiology",
+    "intro": "Listen to a talk in a physiology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, picture a duck standing on ice. Its feet are bare, no feathers, pressed against a frozen surface. Why doesn't it lose huge amounts of body heat through them? The answer is an arrangement called countercurrent heat exchange. Here's the setup. In a duck's legs, the arteries carrying warm blood down to the feet run right alongside the veins carrying cold blood back up to the body. And the blood in them flows in opposite directions, which is where the word countercurrent comes from. So as warm blood travels down, it passes its heat to the cold blood coming up. By the time arterial blood reaches the feet, it's already cool, so there's little heat left to lose to the ice. Meanwhile, the returning blood has been warmed before it reenters the body. Now, why does the opposite direction matter? If the two streams flowed the same way, they'd quickly reach the same middle temperature, and heat exchange would stop. Flowing in opposite directions, the blood going down always stays a little warmer than the blood beside it, so heat keeps moving across. Engineers use the same principle in industrial heat exchangers. And you find it in nature again and again, in the flippers of dolphins and the tails of beavers, for instance. Some fish, like tuna, even use it to keep their swimming muscles warmer than the surrounding water.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How ducks find food beneath the ice in winter",
+          "Why some birds that live on ice have feathers covering their feet",
+          "How some animals reduce heat loss through their limbs",
+          "How engineers design systems to cool machines"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains countercurrent heat exchange, which limits heat loss through bare limbs."
+      },
+      {
+        "prompt": "According to the professor, what happens to warm blood flowing toward a duck's feet?",
+        "options": [
+          "It is warmed further by muscles in the legs.",
+          "It flows more slowly to protect the feet.",
+          "It mixes directly with the blood in the veins.",
+          "It transfers heat to blood returning to the body."
+        ],
+        "answer": 3,
+        "explanation": "As warm arterial blood travels down, it passes its heat to the cold blood coming up."
+      },
+      {
+        "prompt": "Why is it important that the blood flows in opposite directions?",
+        "options": [
+          "It allows heat to keep moving between the vessels.",
+          "It prevents the blood in the feet from freezing.",
+          "It lets the two streams reach the same temperature.",
+          "It speeds up the flow of blood to the feet."
+        ],
+        "answer": 0,
+        "explanation": "Opposite flow keeps a small temperature difference all along the vessels, so heat keeps crossing."
+      },
+      {
+        "prompt": "Why does the professor mention tuna?",
+        "options": [
+          "To give an example of an animal that lacks any form of heat exchange",
+          "To show another use of the principle in a different animal",
+          "To explain how fish keep their fins from freezing",
+          "To compare the body temperatures of fish and birds"
+        ],
+        "answer": 1,
+        "explanation": "Tuna illustrate the same countercurrent principle being used to keep swimming muscles warm."
+      }
+    ]
+  },
+  {
+    "id": "at4-13",
+    "difficulty": "advanced",
+    "course": "astronomy",
+    "intro": "Listen to a talk in an astronomy class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "How do you measure the distance to a star that's far too remote for any ruler? For nearby stars, astronomers can use parallax, the small shift in a star's apparent position as Earth moves around the Sun. But beyond a few thousand light-years, that shift is too tiny to measure. So we need another method, and one of the most important came from a discovery made in the early nineteen hundreds by Henrietta Leavitt. She was studying a type of star called a Cepheid variable, which brightens and dims in a regular cycle because the star itself is swelling and shrinking. Now, Leavitt looked at Cepheids in a nearby galaxy called the Small Magellanic Cloud. Since those stars are all roughly the same distance from us, differences in how bright they looked had to reflect real differences in how bright they were. And she found a clear pattern: the longer a Cepheid's cycle, the more luminous the star. That turns Cepheids into what astronomers call standard candles. Measure the period, and you know the star's true brightness. Compare that with how bright it appears, and you can work out its distance, the same way you could judge the distance to a light bulb of known wattage. Of course, the method first had to be calibrated with nearby Cepheids measured by parallax.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To describe how parallax reveals the distances of nearby stars",
+          "To explain how certain stars help astronomers measure distance",
+          "To explain why some stars swell and shrink over time",
+          "To describe the structure of the Small Magellanic Cloud"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains how the period-brightness pattern of Cepheids makes them distance indicators."
+      },
+      {
+        "prompt": "According to the professor, why does a Cepheid variable change in brightness?",
+        "options": [
+          "Another star passes in front of it.",
+          "Its distance from Earth changes.",
+          "The star expands and contracts.",
+          "Dust clouds drift across it."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the star itself is literally swelling and shrinking."
+      },
+      {
+        "prompt": "Why was it important that Leavitt studied stars in a single galaxy?",
+        "options": [
+          "Differences in apparent brightness reflected real differences.",
+          "The stars were close enough to Earth to be measured by parallax.",
+          "The stars all had brightness cycles of the same length.",
+          "The galaxy was close enough to reveal each star's size."
+        ],
+        "answer": 0,
+        "explanation": "Because the stars were at about the same distance, differences in how bright they looked reflected true brightness."
+      },
+      {
+        "prompt": "Why does the professor mention a light bulb of known wattage?",
+        "options": [
+          "To explain why Cepheids look brighter than other stars",
+          "To show how astronomers measure a star's temperature",
+          "To suggest that all standard candles are equally bright",
+          "To illustrate how known brightness can reveal distance"
+        ],
+        "answer": 3,
+        "explanation": "Knowing a bulb's true brightness lets you judge its distance, just as with a Cepheid of known period."
+      }
+    ]
+  },
+  {
+    "id": "at4-14",
+    "difficulty": "advanced",
+    "course": "planetary science",
+    "intro": "Listen to a talk in a planetary science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, the evidence that Mars once had liquid water on its surface is overwhelming: dried river valleys, ancient deltas, minerals that form only in water. But liquid water today would quickly freeze or evaporate, because the Martian atmosphere is less than one percent as thick as Earth's. So where did the rest of the air go? There are two broad explanations, and they probably both played a part. The first is about size. Mars has only about a tenth of Earth's mass, so its interior cooled faster. Earth's magnetic field is generated by molten iron churning in its core, and Mars seems to have lost that kind of global magnetic field early on. Why does that matter? Without a magnetic field, the solar wind, the stream of charged particles from the Sun, strikes the upper atmosphere directly and gradually strips gas away into space. Spacecraft orbiting Mars have measured this loss happening today. The second explanation is that some of the atmosphere never left the planet. Carbon dioxide could have reacted with rocks and water to form carbonate minerals, locking the gas into the crust. Here's the catch. Orbiters have found carbonates, but far too few to account for a thick early atmosphere. So most scientists now think escape to space was the bigger factor, though the exact balance is still debated.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Explanations for how Mars lost most of its atmosphere",
+          "Evidence that liquid water still flows on Mars today",
+          "How carbonate minerals form on rocky planets",
+          "Why Mars has a smaller core than Earth does"
+        ],
+        "answer": 0,
+        "explanation": "The professor compares escape to space and storage in carbonate rocks as explanations for the thin atmosphere."
+      },
+      {
+        "prompt": "According to the professor, why did Mars lose its global magnetic field?",
+        "options": [
+          "The solar wind removed the iron from its core.",
+          "Its interior cooled quickly because the planet is small.",
+          "Its atmosphere was too thin to protect the core.",
+          "Carbon dioxide reacted with the molten iron deep in its core."
+        ],
+        "answer": 1,
+        "explanation": "With about a tenth of Earth's mass, Mars cooled faster and lost its field early."
+      },
+      {
+        "prompt": "What have orbiting spacecraft found, according to the professor?",
+        "options": [
+          "Carbonate minerals are more abundant than expected.",
+          "Mars still has a weak global magnetic field.",
+          "Atmospheric gas is still being lost to space.",
+          "Liquid water is present beneath the polar ice."
+        ],
+        "answer": 2,
+        "explanation": "The professor says spacecraft have measured the stripping of gas happening today."
+      },
+      {
+        "prompt": "What can be inferred about the carbonate explanation?",
+        "options": [
+          "It has been completely ruled out by data from recent orbiters.",
+          "It explains why Mars lost its magnetic field.",
+          "It is now considered the main cause of the loss.",
+          "It cannot account for most of the missing atmosphere."
+        ],
+        "answer": 3,
+        "explanation": "Too few carbonates have been found to hold a thick early atmosphere, so escape is seen as the bigger factor."
+      }
+    ]
+  },
+  {
+    "id": "at4-15",
+    "difficulty": "intermediate",
+    "course": "physics",
+    "intro": "Listen to a talk in a physics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So, imagine dropping a bowling ball and a feather from a tall building. Which lands first? The bowling ball, obviously. But in a vacuum, they'd land at the same moment, because gravity accelerates all objects at the same rate. Astronauts actually demonstrated this on the Moon with a hammer and a feather. So the difference on Earth comes from air resistance, or drag. Now, drag isn't constant. It grows as an object moves faster. So picture a skydiver jumping from a plane. At first she's moving slowly, drag is small, and gravity pulls her faster and faster. But as her speed increases, drag increases too, until eventually the upward drag equals her weight. At that point the forces balance, and she stops accelerating. She keeps falling, but at a steady speed. That's terminal velocity, the constant speed a falling object reaches when drag balances gravity. For a skydiver lying flat, it's around two hundred kilometers per hour. Now, if she tucks into a head-down dive, she presents a smaller area to the air, so drag is lower, and she must fall faster before it matches her weight. Then when the parachute opens, the huge area suddenly increases drag, and she slows to a much gentler terminal velocity. And an ant's terminal velocity is so low that it can survive a fall from almost any height.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why heavy objects fall faster than light ones",
+          "Why falling objects eventually stop speeding up",
+          "How parachutes were first designed and tested",
+          "How gravity differs on Earth and on the Moon"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains terminal velocity, when growing drag balances gravity and acceleration stops."
+      },
+      {
+        "prompt": "According to the professor, what happens to drag as a falling object speeds up?",
+        "options": [
+          "It decreases.",
+          "It stays the same.",
+          "It increases.",
+          "It disappears."
+        ],
+        "answer": 2,
+        "explanation": "The professor says drag isn't constant but grows as an object moves faster."
+      },
+      {
+        "prompt": "Why does a skydiver fall faster in a head-down position?",
+        "options": [
+          "Her weight increases in that position.",
+          "Gravity acts more strongly on her head.",
+          "The air becomes thinner as she falls.",
+          "She presents a smaller area to the air."
+        ],
+        "answer": 3,
+        "explanation": "A smaller area means lower drag, so she must fall faster before drag equals her weight."
+      },
+      {
+        "prompt": "Why does the professor mention the hammer and the feather on the Moon?",
+        "options": [
+          "To show that objects fall at the same rate without air",
+          "To show that gravity is weaker on the Moon than on Earth",
+          "To explain why feathers have a low terminal velocity",
+          "To show how astronauts measured air resistance"
+        ],
+        "answer": 0,
+        "explanation": "The Moon demonstration shows that without air, objects of different weights fall together."
+      }
+    ]
+  },
+  {
+    "id": "at4-16",
+    "difficulty": "intermediate",
+    "course": "chemistry",
+    "intro": "Listen to a talk in a chemistry class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Okay, let's start with something that seems contradictory. A mixture of hydrogen and oxygen gas can sit in a container for years without reacting, even though the reaction that forms water releases a huge amount of energy. So why doesn't it just happen? Because of something called activation energy, the minimum energy molecules need to start a reaction. Think of pushing a boulder over a hill so it can roll into a valley on the other side. The valley is lower, but first you have to get the boulder up the hill. A spark provides that push, and then the reaction takes off. Now, a catalyst is a substance that speeds up a reaction without being used up itself. How? It doesn't push the boulder harder. It provides a different path, a tunnel through the hill, with a lower activation energy. One important point: a catalyst doesn't change where the reaction ends up. The valley is just as deep. It only changes how quickly you get there. A good example is the catalytic converter in a car's exhaust system. It contains metals like platinum. Harmful gases such as carbon monoxide stick to the metal's surface, which weakens their bonds and helps them react to form less harmful products like carbon dioxide. And since the platinum isn't consumed, it keeps working for years.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To describe how hydrogen and oxygen combine into water",
+          "To explain how catalysts make reactions happen faster",
+          "To explain why some reactions release a lot of energy",
+          "To describe how car engines produce harmful gases"
+        ],
+        "answer": 1,
+        "explanation": "The professor uses activation energy to explain how catalysts speed up reactions."
+      },
+      {
+        "prompt": "According to the professor, what is activation energy?",
+        "options": [
+          "The energy released when a reaction ends",
+          "The energy stored inside a catalyst",
+          "The energy lost as heat during a reaction",
+          "The energy needed to get a reaction started"
+        ],
+        "answer": 3,
+        "explanation": "The professor defines it as the minimum energy molecules need to start a reaction."
+      },
+      {
+        "prompt": "How does a catalyst speed up a reaction, according to the professor?",
+        "options": [
+          "It supplies extra energy to the molecules.",
+          "It changes the products that the reaction forms.",
+          "It provides a path with a lower energy barrier.",
+          "It is slowly used up as the reaction proceeds."
+        ],
+        "answer": 2,
+        "explanation": "The professor says a catalyst offers a different path with a lower activation energy."
+      },
+      {
+        "prompt": "Why does the professor mention a tunnel through a hill?",
+        "options": [
+          "To illustrate how a catalyst offers an easier route",
+          "To show why a spark is needed to start this kind of reaction",
+          "To explain why some reactions release more energy",
+          "To describe how gases move through a converter"
+        ],
+        "answer": 0,
+        "explanation": "The tunnel represents the lower-energy path a catalyst provides instead of pushing over the hill."
+      }
+    ]
+  },
+  {
+    "id": "at4-17",
+    "difficulty": "advanced",
+    "course": "materials science",
+    "intro": "Listen to a talk in a materials science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Imagine bending a wire, dropping it in hot water, and watching it straighten back into its original shape. With ordinary steel that won't happen, but with a nickel-titanium alloy, it will. These are called shape-memory alloys, and the trick lies in their crystal structure. Now, many solids can arrange their atoms in more than one way, and which arrangement is stable depends on temperature. In nickel-titanium, the high-temperature form is called austenite, a very orderly, symmetrical structure. When it cools, it changes into a form called martensite. And here's the key point. Martensite forms in many tiny regions whose atoms are tilted in different directions, sort of like a crowd of people all leaning different ways. When you bend the cold metal, you're not breaking bonds or making atoms slide past each other, as happens in ordinary metal. Instead, those tilted regions simply reorient to accommodate the new shape. Then, when you heat it, the metal changes back to austenite, and since there's only one way to arrange the atoms in austenite, the material returns to its original shape. That's why it seems to remember. These alloys are used in stents, small mesh tubes inserted into a blood vessel in compact form that then expand at body temperature. There is a limit, though: bend it too far, and the deformation becomes permanent.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why some alloys can recover their shape after bending",
+          "How ordinary metals like steel become permanently bent out of shape",
+          "Why nickel and titanium are added to steel",
+          "How stents are placed inside blood vessels"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains how shape-memory alloys return to their original shape when heated."
+      },
+      {
+        "prompt": "According to the professor, what happens when the cold alloy is bent?",
+        "options": [
+          "Bonds between neighboring atoms break and later re-form.",
+          "Atoms slide permanently past one another.",
+          "Tilted regions in the crystal change their orientation.",
+          "The metal changes from martensite to austenite."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the tilted martensite regions reorient instead of bonds breaking or atoms sliding."
+      },
+      {
+        "prompt": "Why does the alloy return to its original shape when heated?",
+        "options": [
+          "Heat causes the tilted regions to break apart completely.",
+          "Heat makes the atoms slide back into their places.",
+          "Its low-temperature structure becomes more flexible.",
+          "Its high-temperature structure allows only one arrangement."
+        ],
+        "answer": 3,
+        "explanation": "On heating it becomes austenite, which has only one way to arrange its atoms, restoring the shape."
+      },
+      {
+        "prompt": "Why does the professor compare martensite to a crowd of people leaning different ways?",
+        "options": [
+          "To explain why it forms only at high temperatures",
+          "To describe its many differently oriented regions",
+          "To show how its atoms slide past one another",
+          "To suggest that its structure is weak and unstable"
+        ],
+        "answer": 1,
+        "explanation": "The crowd image describes martensite's many small regions tilted in different directions."
+      }
+    ]
+  },
+  {
+    "id": "at4-18",
+    "difficulty": "intermediate",
+    "course": "hydrology",
+    "intro": "Listen to a talk in a hydrology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, when you turn on a tap in many parts of the world, the water didn't come from a river or a lake. It came from underground, from an aquifer. Now, what exactly is an aquifer? A lot of people picture an underground lake, but that's rarely accurate. An aquifer is a layer of rock or sediment, like sand, gravel, or sandstone, that holds water in the tiny spaces between its grains and lets that water move through it. Think of a sponge rather than a bucket. The top of the saturated zone is called the water table. Now, when you pump water from a well, the water table around the well drops, forming a shape called a cone of depression, like a funnel pointing down toward the well. If many wells are pumping close together, those cones can overlap and lower the water table across a whole region. Then shallow wells can run dry. So how does an aquifer refill? Through recharge, as rain and melting snow seep down through the soil. But here's the problem. Recharge can be very slow. Some deep aquifers hold water that seeped in thousands of years ago, when the climate was wetter. Pump that water out, and it won't come back on any human timescale. Hydrologists sometimes call that groundwater mining, because, like a mineral, it's essentially a resource that's being used up.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How underground lakes form beneath dry regions",
+          "Why rivers are a better water source than wells",
+          "How groundwater is stored, pumped, and replenished",
+          "How sandstone forms from layers of sediment"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains aquifers, the effects of pumping, and the slow process of recharge."
+      },
+      {
+        "prompt": "According to the professor, what is an aquifer?",
+        "options": [
+          "A large open lake that lies hidden deep beneath the ground",
+          "The upper surface of the soil after heavy rain",
+          "A deep well that reaches below the water table",
+          "A layer of material that holds water between its grains"
+        ],
+        "answer": 3,
+        "explanation": "The professor defines an aquifer as rock or sediment holding water in the spaces between grains."
+      },
+      {
+        "prompt": "What can happen when many wells pump close together?",
+        "options": [
+          "The aquifer can be recharged more quickly.",
+          "The water table can drop across a wide area.",
+          "The cones of depression can cancel each other.",
+          "The water can become trapped in the soil."
+        ],
+        "answer": 1,
+        "explanation": "Overlapping cones of depression can lower the water table across a whole region."
+      },
+      {
+        "prompt": "Why does the professor use the term groundwater mining?",
+        "options": [
+          "To stress that some groundwater is not replaced once used",
+          "To describe how deep wells are drilled down through solid rock",
+          "To explain how minerals dissolve into groundwater",
+          "To show that groundwater is cleaner than river water"
+        ],
+        "answer": 0,
+        "explanation": "Like a mineral, very old groundwater won't be replaced on any human timescale once it is pumped out."
+      }
+    ]
+  },
+  {
+    "id": "at4-19",
+    "difficulty": "advanced",
+    "course": "soil science",
+    "intro": "Listen to a talk in a soil science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So, why are some soils naturally fertile while others need constant fertilizer? A big part of the answer is something called cation exchange capacity. Many plant nutrients, like potassium, calcium, and magnesium, exist in soil water as cations, which are ions with a positive charge. Now, if those ions just floated freely, every heavy rain would wash them down below the roots, a process called leaching. What holds them in place? Particles with negative charges on their surfaces. Clay particles often carry a negative charge, so they hold onto cations. Decomposed organic matter, called humus, does the same thing, even more strongly. Cation exchange capacity is simply a measure of how many of those positive ions a soil can hold. And here's the exchange part. When a root releases hydrogen ions, they can swap places with the nutrient ions on the particles, freeing the nutrients so the plant can absorb them. It's a bit like a bank account: nutrients are deposited on the particles and withdrawn when roots need them. Now, here's an interesting contrast. Sandy soils have a very low capacity, since sand grains carry little charge. But many old tropical soils are also poor, despite being rich in clay. Millions of years of weathering have left mostly low-capacity clays. So it's not just how much clay a soil has, but what kind.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To explain how soils hold onto nutrients that plants need",
+          "To describe how fertilizers are made from minerals",
+          "To compare the farming methods used in old tropical regions",
+          "To explain how plant roots absorb water from soil"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains cation exchange capacity, the soil's ability to hold and release nutrient ions."
+      },
+      {
+        "prompt": "According to the professor, why do clay particles hold nutrients?",
+        "options": [
+          "Their large size slows the flow of water.",
+          "They release hydrogen ions into the soil.",
+          "Their surfaces carry a negative charge.",
+          "They contain decomposed organic matter."
+        ],
+        "answer": 2,
+        "explanation": "Negatively charged clay surfaces attract and hold positively charged nutrient ions."
+      },
+      {
+        "prompt": "What happens when a root releases hydrogen ions?",
+        "options": [
+          "They give clay particles a negative charge.",
+          "They replace nutrient ions held on soil particles.",
+          "They wash nutrients down below the roots.",
+          "They break down humus into smaller pieces."
+        ],
+        "answer": 1,
+        "explanation": "The hydrogen ions swap places with nutrient ions, freeing the nutrients for the plant."
+      },
+      {
+        "prompt": "What does the professor imply about clay?",
+        "options": [
+          "All clays hold more nutrients than humus does.",
+          "Clay content alone determines soil fertility.",
+          "Clay becomes more fertile as it weathers.",
+          "Not all clays hold nutrients equally well."
+        ],
+        "answer": 3,
+        "explanation": "Old tropical soils are rich in clay yet poor, so the kind of clay matters, not just the amount."
+      }
+    ]
+  },
+  {
+    "id": "at4-20",
+    "difficulty": "intermediate",
+    "course": "forestry",
+    "intro": "Listen to a talk in a forestry class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Okay, so we usually think of forest fires as pure destruction. But some trees actually depend on fire to reproduce. Take the lodgepole pine of western North America. Many of its cones are what we call serotinous. That means they stay sealed shut, sometimes for years, held closed by a tough resin. Now, the resin melts only at fairly high temperatures, roughly fifty degrees Celsius or more, which normally happens only during a fire. So when a fire sweeps through, the parent trees may die, but the heat opens the cones, and huge numbers of seeds are released onto the freshly burned ground. Why is that such a good place for a seedling? It's cleared away the dense canopy that was shading the ground, so there's lots of sunlight. It's burned off competing plants. And the ash releases nutrients into the soil. So the seeds land in exactly the conditions they need. Here's the interesting part, though. Not every lodgepole pine has serotinous cones. In areas where fires are frequent, a high proportion of trees have them. But where fires are rare, more trees produce ordinary cones that open every year. So the trait seems to match the local fire history. The concern now is that hotter, more frequent fires may burn young stands before they're old enough to produce cones at all.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How some pine trees rely on fire to release their seeds",
+          "How forest fires damage the soil of western North American forests",
+          "Why lodgepole pines grow faster than other trees",
+          "How foresters prevent fires in pine forests"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains how serotinous cones open in the heat of a fire and seed burned ground."
+      },
+      {
+        "prompt": "According to the professor, what keeps serotinous cones closed?",
+        "options": [
+          "A hard shell that must be broken by animals",
+          "A resin that melts only at high temperatures",
+          "A layer of ash that forms during a fire",
+          "A wax that dissolves in heavy rainfall"
+        ],
+        "answer": 1,
+        "explanation": "The professor says a tough resin holds the cones shut until it melts at around fifty degrees or more."
+      },
+      {
+        "prompt": "Why is burned ground good for seedlings?",
+        "options": [
+          "It stays cooler and holds more water.",
+          "It is shaded and protected by the canopy of older trees.",
+          "It contains seeds from many other species.",
+          "It gets more sunlight and has fewer competitors."
+        ],
+        "answer": 3,
+        "explanation": "Fire clears the shading canopy and burns off competing plants, and ash adds nutrients."
+      },
+      {
+        "prompt": "What does the professor imply about lodgepole pines where fires are rare?",
+        "options": [
+          "They produce no cones at all for many years.",
+          "They are more likely to die during a fire.",
+          "They are less likely to have sealed cones.",
+          "They have cones that open only after rain."
+        ],
+        "answer": 2,
+        "explanation": "Where fires are rare, more trees produce ordinary cones that open every year."
+      }
+    ]
+  },
+  {
+    "id": "at4-21",
+    "difficulty": "intermediate",
+    "course": "agriculture",
+    "intro": "Listen to a talk in an agriculture class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So, nitrogen is one of the nutrients crops need most. It's essential for building proteins and DNA. And here's the irony: the air around us is about seventy-eight percent nitrogen. So why do farmers spend so much money on nitrogen fertilizer? Because plants can't use nitrogen gas directly. The two nitrogen atoms in each molecule are held together by a triple bond, one of the strongest bonds in nature. Breaking it requires either an enormous amount of energy, like the high-temperature, high-pressure process factories use to make fertilizer, or a specialized enzyme. That enzyme is found only in certain bacteria. Converting nitrogen gas into a usable form is called nitrogen fixation. Now, here's where legumes come in, plants like beans, peas, clover, and alfalfa. Their roots form small swellings called nodules, and inside these nodules live nitrogen-fixing bacteria. The plant supplies the bacteria with sugars, and the bacteria supply the plant with usable nitrogen. And there's an interesting detail. The enzyme is damaged by oxygen, so the nodules contain a protein similar to the one in our blood, which binds oxygen and keeps levels low. That's why a healthy nodule, if you cut it open, is often pinkish red. For farmers, the practical lesson is crop rotation. Grow a legume one season, plow its remains back into the soil, and the next crop, say corn, will need less fertilizer.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why farmers prefer fertilizer to crop rotation",
+          "How crop plants use nitrogen to build their proteins and DNA",
+          "Why the air contains so much nitrogen gas",
+          "How legumes obtain nitrogen with the help of bacteria"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains nitrogen fixation by bacteria living in legume root nodules."
+      },
+      {
+        "prompt": "According to the professor, why can plants not use nitrogen gas directly?",
+        "options": [
+          "It makes up only a small part of the air.",
+          "Its atoms are joined by a very strong bond.",
+          "It is destroyed by oxygen in the soil.",
+          "It cannot pass through the surface of roots."
+        ],
+        "answer": 1,
+        "explanation": "The professor says the triple bond between the two nitrogen atoms is one of the strongest in nature."
+      },
+      {
+        "prompt": "What is the function of the protein found in root nodules?",
+        "options": [
+          "It keeps oxygen levels low to protect an enzyme.",
+          "It supplies sugars to the bacteria in the nodule.",
+          "It breaks the bonds in nitrogen gas molecules.",
+          "It carries nitrogen from the roots to the leaves."
+        ],
+        "answer": 0,
+        "explanation": "The protein binds oxygen because the nitrogen-fixing enzyme is damaged by oxygen."
+      },
+      {
+        "prompt": "Why does the professor mention corn?",
+        "options": [
+          "To give an example of a plant with root nodules",
+          "To show which crops need the least fertilizer",
+          "To illustrate a crop that might follow a legume",
+          "To compare the protein in different crops"
+        ],
+        "answer": 2,
+        "explanation": "Corn is the example of a next crop that needs less fertilizer after a legume in rotation."
+      }
+    ]
+  },
+  {
+    "id": "at4-22",
+    "difficulty": "intermediate",
+    "course": "mechanical engineering",
+    "intro": "Listen to a talk in a mechanical engineering class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Here's a question that sounds simple: how does a refrigerator make things cold? Most people assume it somehow produces cold. But in engineering terms, there's no such thing as producing cold. A refrigerator moves heat, taking it from inside the box and dumping it into your kitchen. That's why the back or bottom of a fridge feels warm. Now, heat naturally flows from hot to cold, so moving it the other way takes work. The trick is a fluid called a refrigerant, circulating in a closed loop. Let's follow it. First, the liquid refrigerant passes through a narrow valve into the coils inside the fridge. The sudden drop in pressure makes it evaporate, and evaporation absorbs heat. It's the same reason you feel cold stepping out of a swimming pool: the water evaporating from your skin carries heat away. So the refrigerant soaks up heat from the food. Next, a compressor squeezes that vapor, raising its pressure and temperature until it's hotter than the kitchen air. In coils on the outside, it releases that heat and condenses back into a liquid. Then the cycle repeats. And here's a neat point: a heat pump used to warm a house runs the very same cycle, just with the hot side facing indoors. Because it moves heat rather than generating it, it can deliver more heat energy than the electrical energy it uses.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To compare refrigerators with heat pumps and other home heating systems",
+          "To describe how refrigerants were first developed",
+          "To explain how a refrigerator moves heat out of its interior",
+          "To explain why evaporation cools the human body"
+        ],
+        "answer": 2,
+        "explanation": "The professor follows the refrigerant through its cycle to show that a fridge moves heat rather than making cold."
+      },
+      {
+        "prompt": "Why does the refrigerant evaporate inside the fridge?",
+        "options": [
+          "Its pressure drops suddenly as it passes a valve.",
+          "The compressor raises its temperature sharply.",
+          "It absorbs heat from the air in the kitchen.",
+          "It is cooled by the coils on the outside."
+        ],
+        "answer": 0,
+        "explanation": "The professor says the sudden pressure drop after the narrow valve makes the refrigerant evaporate."
+      },
+      {
+        "prompt": "What does the compressor do?",
+        "options": [
+          "It lowers the refrigerant's pressure so it evaporates.",
+          "It raises the refrigerant's pressure and temperature.",
+          "It pumps cold air from the coils into the fridge.",
+          "It turns the vapor into a liquid inside the fridge."
+        ],
+        "answer": 1,
+        "explanation": "The compressor squeezes the vapor until it is hotter than the kitchen air."
+      },
+      {
+        "prompt": "Why does the professor mention stepping out of a swimming pool?",
+        "options": [
+          "To show how pressure affects boiling",
+          "To explain why heat flows from hot to cold",
+          "To compare water with a refrigerant's cost",
+          "To illustrate how evaporation absorbs heat"
+        ],
+        "answer": 3,
+        "explanation": "Feeling cold as pool water evaporates from the skin illustrates heat being carried away by evaporation."
+      }
+    ]
+  },
+  {
+    "id": "at4-23",
+    "difficulty": "advanced",
+    "course": "electrical engineering",
+    "intro": "Listen to a talk in an electrical engineering class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today let's look at why our power grids carry alternating current, and why that's starting to change. Here's the basic problem. When electricity flows through a long wire, some energy is lost as heat, and that loss depends on the square of the current. So if you double the current, you lose four times as much energy. The solution is to transmit power at very high voltage, because for the same amount of power, higher voltage means lower current. Now, in the late eighteen hundreds, there was no practical way to change the voltage of direct current. But alternating current could be stepped up and down easily with a transformer, which is basically two coils of wire wrapped around an iron core. The changing current in one coil creates a changing magnetic field, which induces a current in the other. Steady direct current can't produce that changing field. So alternating current won, and the grid was built around it. But alternating current has its own drawbacks. Over very long distances, and especially in undersea cables, a lot of energy is wasted by repeatedly charging and discharging the cable itself. So today, using modern electronic converters, engineers are building high-voltage direct current lines for long-distance links. In a sense, the old rivalry has ended not with a winner but with a division of labor.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The advantages of each type of current for carrying power",
+          "How engineers first built transformers with coils and iron cores",
+          "Why undersea cables cost more than overhead lines",
+          "How the voltage in home appliances is controlled"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains why alternating current dominated the grid and where direct current now has the advantage."
+      },
+      {
+        "prompt": "According to the professor, why is power transmitted at high voltage?",
+        "options": [
+          "It allows a higher current, which carries more power.",
+          "It keeps the cable from charging and discharging.",
+          "It makes the current change direction more often.",
+          "It allows a lower current, which reduces heat loss."
+        ],
+        "answer": 3,
+        "explanation": "For the same power, higher voltage means lower current, and heat loss depends on the square of the current."
+      },
+      {
+        "prompt": "Why could early transformers not be used with direct current?",
+        "options": [
+          "Direct current can flow only through very short lengths of wire.",
+          "Direct current does not create a changing magnetic field.",
+          "Direct current loses too little energy as heat.",
+          "Direct current requires a core made of copper."
+        ],
+        "answer": 1,
+        "explanation": "A transformer depends on a changing magnetic field, which steady direct current can't produce."
+      },
+      {
+        "prompt": "What does the professor mean when she says the rivalry ended with a division of labor?",
+        "options": [
+          "Direct current has replaced alternating current in most grids.",
+          "Alternating current is now used mainly in undersea cables.",
+          "Each type of current is now used where it works best.",
+          "Engineers still disagree about which current is safer."
+        ],
+        "answer": 2,
+        "explanation": "Alternating current runs the grid while direct current is used for long-distance and undersea links."
+      }
+    ]
+  },
+  {
+    "id": "at4-24",
+    "difficulty": "intermediate",
+    "course": "environmental engineering",
+    "intro": "Listen to a talk in an environmental engineering class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, how do you clean wastewater without a big treatment plant full of tanks and machinery? One answer is to borrow a design from nature: the constructed wetland. That's an artificial marsh, built specifically to treat water. Here's how it works. Wastewater flows slowly through a shallow basin planted with reeds, cattails, and other marsh plants. And several things happen at once. First, because the water moves so slowly, solid particles settle to the bottom, just as mud settles in a still pond. Second, and most important, bacteria do a lot of the work. They live in huge numbers on the plant roots and stems and in the gravel, and they break down organic waste, using it as food. Now, you might think the plants are the main cleaners. They do absorb some nutrients, like nitrogen and phosphorus, but their bigger role is supporting the microbes. Their roots and stems provide surfaces for bacteria to live on, and some marsh plants even pump oxygen down to their roots, which helps certain bacteria thrive. So the plants are more like the building that houses the workers. Constructed wetlands are cheap to run and need little energy, which makes them popular with small towns. The trade-off is space. They need far more land than a conventional plant, and they work more slowly in cold weather, when bacteria are less active.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How natural wetlands are damaged by pollution",
+          "How artificial marshes are used to treat wastewater",
+          "Why small towns build conventional treatment plants",
+          "How reeds and cattails grow in shallow water"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains how constructed wetlands clean wastewater."
+      },
+      {
+        "prompt": "According to the professor, why do solid particles settle in a constructed wetland?",
+        "options": [
+          "The plants' roots trap particles as they float by.",
+          "Bacteria break the particles into heavier pieces.",
+          "Gravel filters the particles out of the water.",
+          "The water moves through the basin very slowly."
+        ],
+        "answer": 3,
+        "explanation": "The professor says the slow-moving water lets solids settle, as mud does in a still pond."
+      },
+      {
+        "prompt": "What does the professor say is the main role of the plants?",
+        "options": [
+          "Supporting the bacteria that break down waste",
+          "Absorbing most of the waste in the water",
+          "Slowing the water so that solids can settle",
+          "Releasing nutrients that the bacteria need"
+        ],
+        "answer": 0,
+        "explanation": "The professor says the plants' bigger role is supporting the microbes, not absorbing nutrients."
+      },
+      {
+        "prompt": "Why does the professor compare the plants to a building that houses workers?",
+        "options": [
+          "To show that the plants themselves do most of the actual cleaning",
+          "To explain why wetlands need so much land",
+          "To show that the plants mainly provide a home for bacteria",
+          "To suggest that wetlands are expensive to build"
+        ],
+        "answer": 2,
+        "explanation": "The plants provide surfaces and oxygen for the bacteria, which do most of the actual cleaning."
+      }
+    ]
+  },
+  {
+    "id": "at4-25",
+    "difficulty": "advanced",
+    "course": "computer science",
+    "intro": "Listen to a talk in a computer science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So, here's a problem that seemed impossible for most of history. Suppose you want to send a secret message to someone you've never met, over a channel where anyone can listen in. With traditional encryption, both sides need the same secret key. But how do you share that key in the first place, if everything you send can be overheard? For centuries, the answer was: you can't, so you meet in person or send a trusted courier. In the nineteen seventies, researchers devised public-key cryptography. The idea is that each person has two keys, which are mathematically linked. One is public, for the whole world to see. The other is private, never shared. Anything encrypted with my public key can only be decrypted with my private key. Think of it like a padlock. I can hand out open padlocks to anyone. You snap one shut on a box, and only I can open it. But how can the two keys be linked without one revealing the other? The most famous system relies on a one-way problem. Multiplying two huge prime numbers is easy for a computer. But working backward from the product to find those two primes is extraordinarily hard. Now, here's a concern. That difficulty has never been proven, and large quantum computers could, in principle, factor such numbers quickly.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To explain a method of encryption that uses two keys",
+          "To describe how couriers once delivered secret messages",
+          "To explain how quantum computers multiply numbers",
+          "To compare several ways of finding prime numbers"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains public-key cryptography and the math problem it relies on."
+      },
+      {
+        "prompt": "According to the professor, what was the main problem with traditional encryption?",
+        "options": [
+          "The messages were too long to send quickly.",
+          "The keys were based on very large prime numbers.",
+          "The secret key itself had to be shared safely.",
+          "Anyone with a public key could read the message."
+        ],
+        "answer": 2,
+        "explanation": "Both sides needed the same key, but sharing it over an open channel risked its being overheard."
+      },
+      {
+        "prompt": "What makes the most famous public-key system secure?",
+        "options": [
+          "Multiplying two huge primes takes a very long time.",
+          "The private key is delivered by a trusted courier.",
+          "The public key is changed every single time a message is sent.",
+          "Finding the two primes behind a large product is very hard."
+        ],
+        "answer": 3,
+        "explanation": "The professor says working back from the product to its two primes is extraordinarily hard."
+      },
+      {
+        "prompt": "What does the professor imply about the system's security?",
+        "options": [
+          "It has been mathematically proven to be unbreakable.",
+          "It depends on an assumption that could someday fail.",
+          "It is already being broken by quantum computers.",
+          "It works only between people who have met in person."
+        ],
+        "answer": 1,
+        "explanation": "The difficulty of factoring has never been proven, and quantum computers could in principle overcome it."
+      }
+    ]
+  },
+  {
+    "id": "at4-26",
+    "difficulty": "intermediate",
+    "course": "mathematics history",
+    "intro": "Listen to a talk in a mathematics history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Okay, so today we're talking about something you've used since you were five: the number zero. It seems so obvious, but it's actually a fairly late invention. Let's separate two ideas. The first is zero as a placeholder. In a place-value system, like ours, the position of a digit tells you its value. So in two hundred five, written two, zero, five, the zero tells you there are no tens, and it keeps the two in the hundreds place. Without it, you couldn't tell two hundred five from twenty-five. The ancient Babylonians had a place-value system, and for a long time they simply left a gap, which was easy to misread. Later they added a special symbol as a placeholder, but they didn't treat it as a number. The second idea is zero as a number in its own right, something you can add, subtract, and multiply with. That step was taken in India. In the seventh century, the mathematician Brahmagupta wrote rules for calculating with zero, like a number minus itself equals zero. Now, he didn't get everything right. Dividing by zero gave him trouble, and honestly, it still gives students trouble today. From India, the system spread through the Arabic-speaking world and eventually into Europe, where, interestingly, it was met with suspicion for quite a while. And by the way, the Maya, completely independently, also developed a zero.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The development of zero as a placeholder and as a number",
+          "Why Europeans at first rejected the Babylonian number system",
+          "How the Maya developed their calendar system",
+          "Why dividing by zero is impossible in mathematics"
+        ],
+        "answer": 0,
+        "explanation": "The professor traces zero from a placeholder in Babylon to a full number in India."
+      },
+      {
+        "prompt": "According to the professor, how did the Babylonians first show an empty place in a number?",
+        "options": [
+          "They wrote a special symbol for zero.",
+          "They used the symbol for ten instead.",
+          "They wrote the number out in words.",
+          "They left a gap between the digits."
+        ],
+        "answer": 3,
+        "explanation": "The professor says that for a long time they simply left a gap, which was easy to misread."
+      },
+      {
+        "prompt": "What did Brahmagupta contribute, according to the professor?",
+        "options": [
+          "A complete rule for dividing by zero",
+          "The first place-value number system",
+          "Rules for doing arithmetic with zero",
+          "A symbol to mark an empty position"
+        ],
+        "answer": 2,
+        "explanation": "Brahmagupta wrote rules for calculating with zero, though division by zero gave him trouble."
+      },
+      {
+        "prompt": "Why does the professor mention the numbers two hundred five and twenty-five?",
+        "options": [
+          "To show how zero is used in subtraction",
+          "To show how a placeholder prevents confusion",
+          "To compare Babylonian and Indian numbers",
+          "To explain why zero was invented so late"
+        ],
+        "answer": 1,
+        "explanation": "Without the zero placeholder, two hundred five could not be told apart from twenty-five."
+      }
+    ]
+  },
+  {
+    "id": "at4-27",
+    "difficulty": "advanced",
+    "course": "zoology",
+    "intro": "Listen to a talk in a zoology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So, why do zebras have stripes? Biologists have proposed plenty of answers for over a century. Let me walk you through the main ones. The oldest idea is camouflage, but that's hard to defend. On open grassland, a zebra is pretty conspicuous, and studies suggest that lions can't make out the stripes clearly until they're already close enough to detect the zebra by sound or smell anyway. A second idea is motion dazzle: a moving herd of stripes might confuse a predator trying to single out one animal. It's plausible, but experimental support is weak. A third idea is temperature control, that black and white stripes heat up differently and create small air currents that cool the animal. Again, the evidence is mixed. Now, the explanation that's gained the most support recently is the strangest-sounding: biting flies. In Africa, horseflies and tsetse flies spread serious diseases. In one experiment, researchers put striped coats on ordinary horses and filmed the flies. The flies approached just as often, but they failed to land smoothly. They seemed to overshoot or bump into the coat, as if the stripes confused their landing approach. Also, zebras tend to be more strongly striped in regions where biting flies are more active. Of course, stripes could serve more than one purpose. But the fly hypothesis is currently the front-runner.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To describe how lions locate zebras on open grassland",
+          "To explain how biting flies spread disease in Africa",
+          "To evaluate several explanations for why zebras have stripes",
+          "To compare zebras with other grassland animals that have stripes"
+        ],
+        "answer": 2,
+        "explanation": "The professor weighs camouflage, motion dazzle, temperature control, and biting flies as explanations."
+      },
+      {
+        "prompt": "According to the professor, why is the camouflage idea hard to defend?",
+        "options": [
+          "Zebras usually live in forests rather than on grassland.",
+          "Lions can detect zebras before seeing their stripes clearly.",
+          "Stripes make zebras easier for biting flies to find.",
+          "Zebras rarely move together in large herds."
+        ],
+        "answer": 1,
+        "explanation": "Lions only resolve the stripes when close enough to sense the zebra by sound or smell anyway."
+      },
+      {
+        "prompt": "What happened in the experiment with striped coats on horses?",
+        "options": [
+          "Flies approached but had trouble landing.",
+          "Flies stopped approaching the horses at all.",
+          "Flies landed more often than on plain coats.",
+          "Flies were drawn mainly to the black stripes."
+        ],
+        "answer": 0,
+        "explanation": "The flies approached just as often but overshot or bumped into the striped coats."
+      },
+      {
+        "prompt": "What is the professor's view of the biting-fly explanation?",
+        "options": [
+          "It has been proven, so the others can be dismissed.",
+          "It is less convincing than the motion dazzle idea.",
+          "It sounds too strange and has very little evidence behind it.",
+          "It is the best supported but may not be the only answer."
+        ],
+        "answer": 3,
+        "explanation": "She calls it the front-runner while noting that stripes could serve more than one purpose."
+      }
+    ]
+  },
+  {
+    "id": "at4-28",
+    "difficulty": "advanced",
+    "course": "entomology",
+    "intro": "Listen to a talk in an entomology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Today's topic is one of the strangest life cycles in the animal world. In eastern North America, there are periodical cicadas that spend either thirteen or seventeen years underground as nymphs, feeding on sap from tree roots. Then, in a single spring, millions of them emerge at once, sometimes more than a million per acre. They mate, lay eggs, and die within a few weeks. So, two questions. Why emerge all together, and why such long cycles? The first question has a fairly accepted answer: predator satiation. Birds, squirrels, and other predators feast on the cicadas, but there are so many that the predators simply get full, and most cicadas survive. Now, the second question is more debated. Notice that thirteen and seventeen are both prime numbers. One explanation is that prime cycles help avoid predators with shorter cycles of their own. If a predator's population peaks every two or three years, a seventeen-year cicada will rarely emerge in one of those peak years. Another explanation focuses on hybridization. If a thirteen-year brood and a seventeen-year brood share a region, they emerge together only once every two hundred twenty-one years. Mixing broods could produce offspring with mismatched timing, so prime cycles would keep broods separate. Here's the catch. Neither hypothesis has been directly tested, partly because, well, a single experiment would take up a researcher's entire career.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How cicada nymphs feed on tree roots underground",
+          "Why cicadas are an important food source for birds and squirrels",
+          "Explanations for the unusual life cycle of periodical cicadas",
+          "How scientists count insects in a single area"
+        ],
+        "answer": 2,
+        "explanation": "The professor discusses why the cicadas emerge together and why their cycles are prime numbers."
+      },
+      {
+        "prompt": "According to the professor, why do the cicadas emerge all at once?",
+        "options": [
+          "Their eggs hatch only when the soil becomes warm.",
+          "So many emerge that predators cannot eat them all.",
+          "Predators avoid areas crowded with large insects.",
+          "Their emergence matches the cycles of predators."
+        ],
+        "answer": 1,
+        "explanation": "Predator satiation means predators get full and most cicadas survive."
+      },
+      {
+        "prompt": "What does the hybridization explanation propose?",
+        "options": [
+          "Prime cycles let different broods mix and produce stronger offspring.",
+          "Prime cycles help cicadas avoid predators with short cycles.",
+          "Prime cycles match the timing of seasonal changes in trees.",
+          "Prime cycles keep different broods from emerging together often."
+        ],
+        "answer": 3,
+        "explanation": "Thirteen- and seventeen-year broods coincide only every two hundred twenty-one years, limiting mixing."
+      },
+      {
+        "prompt": "Why does the professor mention a researcher's entire career?",
+        "options": [
+          "To explain why the hypotheses are difficult to test",
+          "To show how long it took to discover prime cycles",
+          "To suggest that cicada research is losing support",
+          "To emphasize how long a single cicada can live"
+        ],
+        "answer": 0,
+        "explanation": "With cycles of thirteen or seventeen years, one experiment would take decades, so the ideas remain untested."
+      }
+    ]
+  },
+  {
+    "id": "at4-29",
+    "difficulty": "intermediate",
+    "course": "ornithology",
+    "intro": "Listen to a talk in an ornithology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Okay, so most birds put enormous effort into raising their young. But some species have found a way to skip all that work. It's called brood parasitism, when a bird lays its eggs in another species' nest and leaves the host to raise its chicks. The best-known example is the common cuckoo in Europe. Here's how it goes. A female cuckoo watches a host nest, say, of a reed warbler. When the host is away, she swoops in, removes one of the host's eggs, and lays one of her own, all in a matter of seconds. And her egg often closely matches the color and pattern of the host's eggs. Now, the cuckoo chick usually hatches first, and within hours, it does something rather brutal. It pushes the host's eggs, one by one, out of the nest. So the host parents end up raising a single cuckoo chick, which can grow much bigger than they are. Why don't the hosts notice? Well, many do. Some hosts learn to recognize and reject foreign eggs. And that sets off what biologists call an evolutionary arms race. Hosts get better at spotting fake eggs, so cuckoos evolve better mimicry, which pushes hosts to become even more discriminating. Interestingly, though, hosts rarely reject the chick itself, even when it looks nothing like their own.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How reed warblers build and protect their nests from predators",
+          "How some birds get other species to raise their young",
+          "Why cuckoo chicks grow larger than other birds",
+          "How birds learn to recognize their own eggs"
+        ],
+        "answer": 1,
+        "explanation": "The professor describes brood parasitism by cuckoos and the hosts' responses."
+      },
+      {
+        "prompt": "What does the female cuckoo do when she visits a host nest?",
+        "options": [
+          "She removes every host egg and lays several of her own.",
+          "She waits until the host eggs hatch before laying.",
+          "She replaces the host's chicks with her own eggs.",
+          "She removes a host egg and lays one of her own."
+        ],
+        "answer": 3,
+        "explanation": "The professor says she removes one host egg and lays her own in a matter of seconds."
+      },
+      {
+        "prompt": "According to the professor, what does the cuckoo chick do soon after hatching?",
+        "options": [
+          "It pushes the host's eggs out of the nest.",
+          "It imitates the calls of the host chicks.",
+          "It leaves the nest to find its real parents.",
+          "It waits for the host's eggs to hatch."
+        ],
+        "answer": 0,
+        "explanation": "Within hours of hatching, the chick pushes the host's eggs out one by one."
+      },
+      {
+        "prompt": "What does the professor imply about host birds?",
+        "options": [
+          "They never notice when a cuckoo egg has been laid in their nest.",
+          "They usually abandon nests that hold a cuckoo chick.",
+          "They are better at detecting foreign eggs than foreign chicks.",
+          "They have stopped evolving defenses against cuckoos."
+        ],
+        "answer": 2,
+        "explanation": "Many hosts learn to reject foreign eggs, yet they rarely reject the cuckoo chick itself."
+      }
+    ]
+  },
+  {
+    "id": "at4-30",
+    "difficulty": "intermediate",
+    "course": "oceanography",
+    "intro": "Listen to a talk in an oceanography class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, if you look at a map of the world's most productive fisheries, you'll notice something odd. Several of the richest ones lie off the western coasts of continents, places like Peru, California, and southwestern Africa. Why there? The answer is a process called upwelling, the rising of cold, deep water to the surface. Now, why does deep water matter? In the open ocean, the sunlit surface layer tends to run out of nutrients, like nitrate and phosphate, because plankton use them up and their remains sink. Meanwhile, those nutrients pile up in the dark water below, where there's no light for plants to use them. So you've got light on top and nutrients below. Upwelling brings the two together. Here's how it works off Peru, for instance. Winds blow along the coast toward the equator. But because of Earth's rotation, the surface water doesn't move straight with the wind. It's deflected, and on these coasts, it's pushed away from shore. And as surface water moves offshore, cold, nutrient-rich water rises from below to replace it. It's a bit like sliding the top sheet off a stack of papers: whatever's underneath is exposed. With nutrients and sunlight together, phytoplankton bloom, and that feeds everything from small fish to seabirds. But when those winds weaken, as they do during El Niño events off Peru, upwelling slows and fisheries can collapse.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How fishing has reduced plankton along coasts",
+          "How rising deep water supports rich fisheries",
+          "Why the open ocean contains so many nutrients",
+          "How El Niño changes the direction of winds"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains how coastal upwelling brings nutrients into sunlit water and supports fisheries."
+      },
+      {
+        "prompt": "According to the professor, why does the ocean's surface layer often lack nutrients?",
+        "options": [
+          "Sunlight breaks the nutrients down quickly.",
+          "Winds carry the nutrients away from shore.",
+          "Plankton use them up and their remains sink.",
+          "Cold water keeps nutrients from dissolving."
+        ],
+        "answer": 2,
+        "explanation": "The professor says plankton use up surface nutrients and their remains sink to deeper water."
+      },
+      {
+        "prompt": "What causes surface water to move away from the coast of Peru?",
+        "options": [
+          "Cold water sinking close to the shore",
+          "Large rivers carrying fresh water into the ocean from land",
+          "Warm currents arriving from the equator",
+          "Winds along the coast combined with Earth's rotation"
+        ],
+        "answer": 3,
+        "explanation": "Winds blowing toward the equator, deflected by Earth's rotation, push surface water offshore."
+      },
+      {
+        "prompt": "Why does the professor mention sliding the top sheet off a stack of papers?",
+        "options": [
+          "To illustrate how removing surface water exposes deeper water",
+          "To show how plankton remains slowly sink down to the dark ocean floor",
+          "To explain why the winds blow along the coast",
+          "To compare ocean layers with rock layers on land"
+        ],
+        "answer": 0,
+        "explanation": "Like removing the top sheet, moving surface water offshore exposes the water beneath."
+      }
+    ]
+  },
+  {
+    "id": "at4-31",
+    "difficulty": "advanced",
+    "course": "meteorology",
+    "intro": "Listen to a talk in a meteorology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Let's start by clearing up a popular myth. You may have heard that water drains from a sink clockwise in one hemisphere and counterclockwise in the other. It doesn't, at least not reliably. The direction depends on the shape of the sink and how the water was moving to begin with. But the effect behind that myth is real; it just works on a much larger scale. It's called the Coriolis effect. Because Earth rotates, anything moving freely over long distances appears to curve: to the right in the Northern Hemisphere, and to the left in the Southern. Picture throwing a ball across a spinning merry-go-round. To someone riding it, the ball seems to swerve, though it's really moving straight. Now, apply this to a hurricane. At the center is very low pressure, so air rushes inward from all sides. But in the Northern Hemisphere, each stream of air is deflected to the right, so instead of flowing straight in, the air swirls around the center counterclockwise. In the Southern Hemisphere, the spin is clockwise. The Coriolis effect is zero right at the equator and weak close to it. So hurricanes almost never form within about five degrees of the equator, despite warm water. As for your sink, over such short times and distances, the effect is far too weak to matter.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To show that sinks drain in opposite directions in each hemisphere",
+          "To explain how Earth's rotation affects large-scale air movement",
+          "To describe how hurricanes gain energy from warm ocean water",
+          "To explain how merry-go-rounds affect moving objects"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains the Coriolis effect and how it makes hurricanes rotate."
+      },
+      {
+        "prompt": "According to the professor, what determines the direction in which a sink drains?",
+        "options": [
+          "The hemisphere of the Earth in which the sink is located",
+          "The temperature of the water in the sink",
+          "The distance of the sink from the equator",
+          "The sink's shape and the water's initial motion"
+        ],
+        "answer": 3,
+        "explanation": "The professor says the direction depends on the sink's shape and how the water was already moving."
+      },
+      {
+        "prompt": "Why does air spin counterclockwise around a hurricane in the Northern Hemisphere?",
+        "options": [
+          "Air flowing inward is deflected to the left.",
+          "Air flowing outward is deflected to the right.",
+          "Air flowing inward is deflected to the right.",
+          "Warm water pushes the air in that direction."
+        ],
+        "answer": 2,
+        "explanation": "Inflowing air deflected to the right ends up circling the low-pressure center counterclockwise."
+      },
+      {
+        "prompt": "What can be inferred about why hurricanes rarely form near the equator?",
+        "options": [
+          "Air there is not deflected enough to start rotating.",
+          "The ocean there is too cool to supply energy.",
+          "The air pressure there is too high to draw air in.",
+          "The winds there blow too strongly from the east."
+        ],
+        "answer": 0,
+        "explanation": "The Coriolis effect is zero at the equator and weak nearby, so inflowing air does not begin to spin."
+      }
+    ]
+  },
+  {
+    "id": "at4-32",
+    "difficulty": "intermediate",
+    "course": "paleontology",
+    "intro": "Listen to a talk in a paleontology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, how does a living thing become a fossil? Here's the honest answer: almost never. The vast majority of organisms that have ever lived left no trace at all. When an animal dies, scavengers eat it, bacteria decompose it, and weather scatters what's left. For it to become a fossil, it usually has to be buried quickly, by mud on a riverbed, sand in a flood, or ash from a volcano. Burial cuts off oxygen and protects the remains from scavengers. Now, the most common process is called permineralization. Groundwater seeps through the buried bone or wood, and minerals like silica or calcite crystallize in the tiny pores. Over long periods, this makes the remains much harder and heavier, essentially turning them into stone while preserving their shape, sometimes down to the cell structure in petrified wood. So what does this mean for paleontologists? It means the fossil record is biased. Animals with hard parts, like shells, bones, and teeth, are far more likely to be preserved than soft-bodied ones, like jellyfish or worms. And animals that lived in or near water, where sediment builds up, are better represented than ones living on dry hills. It's like trying to understand a city from photos taken only at its harbor. That's why rare sites preserving soft tissues are so valuable.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How paleontologists dig up fossils without damage",
+          "Why animals with shells evolved before soft animals",
+          "How fossils form and why the fossil record is uneven",
+          "How petrified wood differs from fossil bone"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains burial and permineralization and the biases they create in the fossil record."
+      },
+      {
+        "prompt": "Why is quick burial important for fossilization?",
+        "options": [
+          "It supplies minerals that harden the remains at once.",
+          "It keeps the remains warm enough to be preserved.",
+          "It allows bacteria to break down the soft tissue.",
+          "It protects remains from oxygen and scavengers."
+        ],
+        "answer": 3,
+        "explanation": "The professor says burial cuts off oxygen and protects remains from scavengers."
+      },
+      {
+        "prompt": "What happens during permineralization?",
+        "options": [
+          "Minerals crystallize in the pores of buried remains.",
+          "Bones dissolve and leave an empty mold in the rock.",
+          "Soft tissues are replaced by layers of volcanic ash.",
+          "Remains are frozen and kept from decaying."
+        ],
+        "answer": 0,
+        "explanation": "Groundwater deposits minerals like silica or calcite in the tiny pores of bone or wood."
+      },
+      {
+        "prompt": "Why does the professor mention photos taken only at a harbor?",
+        "options": [
+          "To show that most fossils are found in coastal cities",
+          "To illustrate that the fossil record gives an unbalanced picture",
+          "To explain how sediment slowly collects at the mouths of large rivers",
+          "To suggest that sea animals outnumbered land animals"
+        ],
+        "answer": 1,
+        "explanation": "Like harbor-only photos, fossils overrepresent animals living near water and with hard parts."
+      }
+    ]
+  },
+  {
+    "id": "at4-33",
+    "difficulty": "advanced",
+    "course": "genetics",
+    "intro": "Listen to a talk in a genetics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Most of you have heard of CRISPR as a gene-editing tool. But it didn't start in a lab. It started as an immune system in bacteria. Bacteria are constantly attacked by viruses called bacteriophages. Starting in the late nineteen eighties, researchers noticed strange patterns in bacterial DNA: short repeated sequences with unique stretches of DNA between them. For years, nobody knew what they were. Then researchers realized that those in-between stretches matched the DNA of viruses. So here's what's happening. When a bacterium survives a viral attack, it cuts out a small piece of the virus's DNA and stores it in this region, like a mug shot in a police file. Later, the bacterium copies those stored pieces into RNA guides. Each guide teams up with an enzyme that cuts DNA, called Cas nine in the best-known system. If the same virus invades again, the guide recognizes the matching sequence, and the enzyme cuts the virus's DNA, disabling it. Now, why does this matter for gene editing? Because the guide can be reprogrammed. Write a guide to match any sequence, and the enzyme will cut there, in a human cell, a plant, anything. Here's a difference, though. In bacteria, the system's purpose is destruction. In gene editing, the cut is just the first step; the cell's own repair machinery makes the actual change.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To describe how viruses copy their DNA inside bacteria",
+          "To compare different methods of editing human genes",
+          "To explain the natural origin of a gene-editing tool",
+          "To explain how bacteria repair their damaged DNA"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains how CRISPR works as a bacterial immune system and how it was adapted for editing."
+      },
+      {
+        "prompt": "According to the professor, what did researchers discover about the stretches between the repeated sequences?",
+        "options": [
+          "They matched DNA from viruses.",
+          "They matched DNA from other bacteria.",
+          "They contained the enzyme itself.",
+          "They were copied from human cells."
+        ],
+        "answer": 0,
+        "explanation": "The professor says the in-between stretches turned out to match viral DNA."
+      },
+      {
+        "prompt": "What happens when a virus invades a bacterium a second time?",
+        "options": [
+          "The bacterium stores a new piece of the viral DNA.",
+          "The virus copies the bacterium's RNA guides.",
+          "The enzyme repairs the bacterium's damaged DNA.",
+          "A guide finds the viral DNA and the enzyme cuts it."
+        ],
+        "answer": 3,
+        "explanation": "The guide recognizes the matching sequence and the enzyme cuts and disables the viral DNA."
+      },
+      {
+        "prompt": "Why does the professor compare the stored viral DNA to a mug shot in a police file?",
+        "options": [
+          "To explain why bacteria are attacked by viruses so often",
+          "To show that it helps the cell recognize a past attacker",
+          "To suggest that the stored DNA is harmful to the cell",
+          "To describe how scientists traced the virus's origin"
+        ],
+        "answer": 1,
+        "explanation": "Like a mug shot, the stored sequence is a record used to identify the same virus if it returns."
+      }
+    ]
+  },
+  {
+    "id": "at4-34",
+    "difficulty": "advanced",
+    "course": "neuroscience",
+    "intro": "Listen to a talk in a neuroscience class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Okay, so here's something that puzzled doctors for centuries. After someone loses an arm, they often continue to feel it: an itch, a cramp, even pain in a hand that's no longer there. These are called phantom limb sensations, and they're reported by a large majority of amputees. So where do they come from? For a long time, the leading explanation was peripheral. The idea was that the cut nerve endings in the stump become irritated and keep sending signals, and the brain interprets those signals as coming from the missing hand. That certainly contributes in some cases. But it can't be the whole story, because phantom sensations can persist even when those nerves are blocked. So researchers turned to the brain itself. In the cortex, there's a region called the somatosensory cortex that works like a map of the body. Interestingly, the face and the hand sit right next to each other on that map. When the hand stops sending input, neighboring areas, like the face region, seem to gradually take over the hand's territory. And some amputees report that touching their cheek produces a sensation in their missing fingers. This is called cortical remapping. But there's a twist. Some recent studies suggest that the hand's map survives remarkably intact, so remapping alone may not explain phantom pain.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How doctors treat ongoing pain in the stumps of recent amputees",
+          "How the brain's body map develops in children",
+          "Explanations for why people feel limbs that are missing",
+          "Why the face and the hand share the same nerves"
+        ],
+        "answer": 2,
+        "explanation": "The professor compares peripheral and brain-based explanations of phantom limb sensations."
+      },
+      {
+        "prompt": "Why does the professor say the peripheral explanation cannot be complete?",
+        "options": [
+          "Cut nerve endings never send any signals to the brain.",
+          "Most amputees report no feeling in the missing limb.",
+          "The brain cannot tell where nerve signals come from.",
+          "Phantom sensations can continue when the nerves are blocked."
+        ],
+        "answer": 3,
+        "explanation": "If sensations persist with the stump nerves blocked, irritated nerves can't be the whole cause."
+      },
+      {
+        "prompt": "According to the professor, what happens during cortical remapping?",
+        "options": [
+          "The hand region moves to a completely different part of the cortex.",
+          "Nearby areas take over the region that once served the hand.",
+          "The face region stops responding to touch on the cheek.",
+          "New nerves grow from the stump back into the brain."
+        ],
+        "answer": 1,
+        "explanation": "Neighboring regions such as the face area gradually take over the hand's territory."
+      },
+      {
+        "prompt": "What does the professor imply about cortical remapping?",
+        "options": [
+          "It may not fully explain phantom pain.",
+          "It occurs only in the brains of children.",
+          "It proves the nerves play no role at all.",
+          "It happens only when the face is touched."
+        ],
+        "answer": 0,
+        "explanation": "Recent studies suggest the hand's map stays largely intact, so remapping alone may not account for phantom pain."
+      }
+    ]
+  },
+  {
+    "id": "at4-35",
+    "difficulty": "intermediate",
+    "course": "physiology",
+    "intro": "Listen to a talk in a physiology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So imagine you fly from a city at sea level straight to a town high in the Andes, around four thousand meters. You'll probably feel short of breath, maybe get a headache. Why? Well, the air up there still contains about twenty-one percent oxygen, the same proportion as at sea level. What's different is the air pressure. It's much lower, so each breath brings in fewer oxygen molecules, roughly forty percent fewer at that height. Now, the body responds in stages. Within minutes, you start breathing faster and deeper, and your heart rate goes up. Over the next few days, your kidneys detect the lower oxygen level in the blood and release a hormone called erythropoietin, or EPO for short. EPO signals the bone marrow to make more red blood cells, the cells that carry oxygen. That takes weeks to really build up, which is why climbers spend time at intermediate camps before going higher. This is called acclimatization, the gradual adjustment of the body to a new environment. It's also why some endurance athletes train at altitude before competing lower down. Now, here's an interesting contrast. Populations that have lived at high altitude for thousands of years, for example in Tibet, don't simply have more red blood cells. Many have fairly normal levels and adapt in other ways, such as breathing more.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why the air holds a smaller share of oxygen up high",
+          "How the human body adjusts to high altitude",
+          "How athletes train for competitions at sea level",
+          "Why people in Tibet have more red blood cells"
+        ],
+        "answer": 1,
+        "explanation": "The professor describes the stages of acclimatization to the low pressure at high altitude."
+      },
+      {
+        "prompt": "According to the professor, why do people get short of breath at high altitude?",
+        "options": [
+          "Each breath contains fewer oxygen molecules.",
+          "The air contains a smaller percentage of oxygen.",
+          "The kidneys stop producing an important hormone.",
+          "The heart beats more slowly in the thin air."
+        ],
+        "answer": 0,
+        "explanation": "The oxygen percentage is the same, but lower pressure means each breath holds fewer oxygen molecules."
+      },
+      {
+        "prompt": "What is the role of EPO?",
+        "options": [
+          "It makes the lungs breathe faster and deeper.",
+          "It lets each red blood cell carry more oxygen.",
+          "It signals the body to make more red blood cells.",
+          "It lowers the heart rate at high altitude."
+        ],
+        "answer": 2,
+        "explanation": "The professor says EPO signals the bone marrow to produce more red blood cells."
+      },
+      {
+        "prompt": "Why does the professor mention populations in Tibet?",
+        "options": [
+          "To give an example of people who need more red blood cells",
+          "To explain why climbers rest at intermediate camps",
+          "To show that EPO is produced only at high altitude",
+          "To show that long-term adaptation can work differently"
+        ],
+        "answer": 3,
+        "explanation": "Many Tibetans adapt by breathing more rather than by having more red blood cells."
+      }
+    ]
+  },
+  {
+    "id": "at4-36",
+    "difficulty": "advanced",
+    "course": "astronomy",
+    "intro": "Listen to a talk in an astronomy class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, how do you find a planet around another star when the planet itself is far too dim to see directly, lost in its star's glare? Astronomers mostly rely on two indirect methods, and they tell us different things. The first is the radial velocity method. A planet doesn't simply orbit its star. Both orbit their shared center of mass, so the star wobbles slightly. When the star moves toward us, its light shifts toward the blue; when it moves away, toward the red. By measuring those tiny shifts, we can detect the planet and estimate its mass. The second is the transit method. If a planet's orbit happens to be lined up with our view, it passes in front of its star and blocks a small fraction of the light. A planet the size of Jupiter dims a sun-like star by about one percent; an Earth-sized planet, by less than a hundredth of that. The amount of dimming tells us the planet's size. Now, here's why combining them is so powerful. Radial velocity gives mass, transits give size, and together they give density. And density tells you what the planet is made of, whether it's rocky like Earth or mostly gas. But there's a limitation. Transits only work for the small fraction of systems we happen to see edge-on.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To compare two methods for detecting planets around other stars",
+          "To explain why giant planets tend to form close to their stars",
+          "To describe how light changes color as it travels through space",
+          "To argue that most planets are made mostly of gas"
+        ],
+        "answer": 0,
+        "explanation": "The professor contrasts the radial velocity and transit methods and what each reveals."
+      },
+      {
+        "prompt": "According to the professor, what causes a star to wobble?",
+        "options": [
+          "The planet passes directly in front of the star's face.",
+          "The star's light shifts between blue and red.",
+          "The star is pulled by other nearby stars.",
+          "The star and planet orbit a shared center of mass."
+        ],
+        "answer": 3,
+        "explanation": "Because both bodies orbit their shared center of mass, the star moves slightly."
+      },
+      {
+        "prompt": "What information does the transit method provide about a planet?",
+        "options": [
+          "Its mass",
+          "Its size",
+          "Its density",
+          "Its temperature"
+        ],
+        "answer": 1,
+        "explanation": "The professor says the amount of dimming tells us the planet's size."
+      },
+      {
+        "prompt": "Why does the professor say that combining the two methods is powerful?",
+        "options": [
+          "Together they detect planets that are not edge-on.",
+          "Together they remove the glare of the star.",
+          "Together they reveal what a planet is made of.",
+          "Together they measure the age of the star."
+        ],
+        "answer": 2,
+        "explanation": "Mass from radial velocity and size from transits give density, which indicates composition."
+      }
+    ]
+  },
+  {
+    "id": "at4-37",
+    "difficulty": "advanced",
+    "course": "planetary science",
+    "intro": "Listen to a talk in a planetary science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today's question: why does Saturn have rings while our Moon is a solid body? The key concept is the Roche limit, named after the nineteenth-century French astronomer who worked it out. Here's the idea. When a moon orbits a planet, the planet's gravity pulls harder on the moon's near side than on its far side. That difference is called a tidal force, and it tries to stretch the moon apart. Meanwhile, the moon's own gravity is trying to hold it together. Now, the closer the moon is to the planet, the stronger that stretching becomes. And there's a distance, the Roche limit, inside which the stretching wins. A moon held together only by its own gravity, a loose pile of rubble or ice, would be torn apart, and the debris would spread out into a ring. And sure enough, Saturn's main rings lie mostly inside its Roche limit, while its large moons orbit outside it. For the same reason, ring material can't clump together to form a new moon there. Our Moon, by contrast, is far outside Earth's Roche limit. But here's a subtlety. Small solid objects, like a spacecraft, can survive inside the limit, because they're held together by the strength of their material, not just by gravity. And how old are Saturn's rings? Some measurements suggest they're surprisingly young, but that's still debated.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why material close to a planet may form rings instead of moons",
+          "How tidal forces cause the ocean tides on Earth",
+          "Why Saturn's rings are older than its large moons",
+          "How astronomers recently measured the exact age of Saturn's rings"
+        ],
+        "answer": 0,
+        "explanation": "The professor uses the Roche limit to explain why rings form inside a certain distance from a planet."
+      },
+      {
+        "prompt": "According to the professor, what is a tidal force?",
+        "options": [
+          "The pull of a moon's own gravity on its surface",
+          "The force that holds ring particles together in clumps",
+          "A difference in a planet's pull on two sides of a moon",
+          "The force that keeps a moon in a stable orbit"
+        ],
+        "answer": 2,
+        "explanation": "The professor defines it as the difference between the pull on the near side and on the far side."
+      },
+      {
+        "prompt": "Why can a small, solid object survive inside the Roche limit?",
+        "options": [
+          "Its own gravity is stronger than the planet's.",
+          "Its material strength holds it together.",
+          "It orbits too fast to feel tidal forces.",
+          "It is protected by the surrounding rings."
+        ],
+        "answer": 1,
+        "explanation": "Such objects are held together by the strength of their material, not just by gravity."
+      },
+      {
+        "prompt": "What does the professor imply about the age of Saturn's rings?",
+        "options": [
+          "It matches the age of Saturn's large moons.",
+          "It explains why the rings lie inside the limit.",
+          "It was first calculated by Roche himself.",
+          "It has not yet been firmly established."
+        ],
+        "answer": 3,
+        "explanation": "She says some measurements suggest the rings are young but the question is still debated."
+      }
+    ]
+  },
+  {
+    "id": "at4-38",
+    "difficulty": "advanced",
+    "course": "physics",
+    "intro": "Listen to a talk in a physics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So here's a problem that bothered physicists in the early twentieth century. The Sun shines because, in its core, hydrogen nuclei fuse to form helium. But to fuse, two nuclei have to get extremely close. And since both are positively charged, they repel each other, more and more strongly as they approach. That repulsion acts like a wall, an energy barrier. Now, the core of the Sun is very hot, around fifteen million degrees, so the nuclei are moving fast. But when physicists calculated it, even at that temperature, almost none of them had enough energy to climb over the wall. By classical physics, the Sun shouldn't be shining. So what's going on? The answer is quantum tunneling. In quantum mechanics, a particle is described by a wave that spreads out a bit, and part of that wave extends through the barrier. So there's a small probability that the particle simply appears on the other side, even without enough energy to go over the top. It's as if a ball rolled at a hill too high for it sometimes turned up on the far side. For large everyday objects, that probability is essentially zero. But for a tiny proton, it's small but real. And with an enormous number of collisions every second, that small probability is enough to power the Sun.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why the core of the Sun is so extremely hot",
+          "How a quantum effect allows fusion to occur in the Sun",
+          "How hydrogen is produced inside young stars",
+          "Why protons repel each other so strongly at very short distances"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains how quantum tunneling lets nuclei fuse despite lacking the energy to overcome repulsion."
+      },
+      {
+        "prompt": "According to the professor, why do hydrogen nuclei repel each other?",
+        "options": [
+          "They move too fast to stay close.",
+          "They are surrounded by electron waves.",
+          "They both carry a positive charge.",
+          "They lose energy as they approach."
+        ],
+        "answer": 2,
+        "explanation": "The professor says both nuclei are positively charged, so they repel each other."
+      },
+      {
+        "prompt": "What problem did early calculations reveal?",
+        "options": [
+          "Few nuclei had enough energy to overcome the barrier.",
+          "The Sun's core was much cooler than expected.",
+          "Hydrogen nuclei did not repel each other strongly.",
+          "The Sun contained less hydrogen than predicted."
+        ],
+        "answer": 0,
+        "explanation": "Even at fifteen million degrees, almost no nuclei had enough energy to climb over the barrier."
+      },
+      {
+        "prompt": "Why does the professor mention the enormous number of collisions every second?",
+        "options": [
+          "To show why the core of the Sun is so hot",
+          "To explain why tunneling never happens to large everyday objects",
+          "To show that most nuclei have enough energy",
+          "To explain how a rare event can still power the Sun"
+        ],
+        "answer": 3,
+        "explanation": "A tiny tunneling probability, multiplied by vast numbers of collisions, produces enough fusion."
+      }
+    ]
+  },
+  {
+    "id": "at4-39",
+    "difficulty": "advanced",
+    "course": "chemistry",
+    "intro": "Listen to a talk in a chemistry class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Hold up your hands for a second. They're mirror images of each other, but you can't stack one perfectly on top of the other. Chemists call this property chirality, from the Greek word for hand. A chiral molecule is one that can't be superimposed on its mirror image. Usually, it contains a carbon atom bonded to four different groups. The two mirror-image versions are called enantiomers. Now, here's the interesting part. Enantiomers have identical physical properties in most respects: the same melting point, the same boiling point. One measurable difference is that they rotate polarized light in opposite directions. But in the body, they can behave very differently. Why? Because the body's receptors and enzymes are themselves chiral. Think of a glove: a right glove fits only a right hand. So one enantiomer may fit a receptor while its mirror image doesn't. A simple example is carvone. One version smells like spearmint, and the other like caraway seeds. Same atoms, same bonds, different smell. And this has serious consequences for medicine. In some drugs, one enantiomer is effective and the other is useless or even harmful. That's why drug makers now often produce just the useful form. But there's a complication: some molecules convert from one form into the other inside the body, so even a pure dose may not stay pure.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Mirror-image molecules and how they can differ",
+          "How chemists measure the melting points of molecules",
+          "How the sense of smell detects different chemicals",
+          "Why carbon forms bonds with four different groups"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains chirality and why mirror-image molecules can act differently in the body."
+      },
+      {
+        "prompt": "According to the professor, how do enantiomers differ in their physical properties?",
+        "options": [
+          "They have different melting and boiling points.",
+          "They rotate polarized light in opposite directions.",
+          "They contain different numbers of carbon atoms.",
+          "They form different bonds between the same atoms."
+        ],
+        "answer": 1,
+        "explanation": "The professor says they share most properties but rotate polarized light in opposite directions."
+      },
+      {
+        "prompt": "Why can enantiomers have different effects in the body?",
+        "options": [
+          "One version breaks down faster in water.",
+          "One version contains a harmful atom.",
+          "The body's receptors are also chiral.",
+          "The body cannot absorb polarized light."
+        ],
+        "answer": 2,
+        "explanation": "Because receptors and enzymes are chiral, only one enantiomer may fit, like a glove on a hand."
+      },
+      {
+        "prompt": "Why does the professor mention carvone?",
+        "options": [
+          "To show how chemists separate the two forms of a drug in the lab",
+          "To explain how polarized light is rotated",
+          "To give an example of a harmful medicine",
+          "To show that mirror-image forms can differ in smell"
+        ],
+        "answer": 3,
+        "explanation": "Carvone's two forms smell like spearmint and caraway, showing that enantiomers can have different effects."
+      }
+    ]
+  },
+  {
+    "id": "at4-40",
+    "difficulty": "advanced",
+    "course": "materials science",
+    "intro": "Listen to a talk in a materials science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, there's a story you may have heard: that old windows in medieval cathedrals are thicker at the bottom because glass is actually a very slow liquid that has flowed downward over the centuries. It's a great story, but it's wrong. Let's see why, and what glass really is. In a crystal, like quartz, atoms are arranged in a regular, repeating pattern. Glass, which is mostly made from the same silica, has no such long-range order. Its atoms are arranged randomly, like a liquid's, but they're locked in place. That's what we call an amorphous solid. How does that happen? When molten silica cools slowly, the atoms have time to find their places in a crystal. But if it cools quickly, it thickens until the atoms are essentially frozen in a disordered arrangement before they can organize. Now, does glass flow at room temperature? Calculations suggest that ordinary glass at room temperature is so viscous that any noticeable sagging would take far longer than the age of the universe. So why are the old windows uneven? Medieval glassmaking simply couldn't produce sheets of uniform thickness, and installers often put the thicker edge at the bottom. And some old panes have the thick edge at the top or the side, which the flowing theory can't explain. So glass is a solid, just not a crystalline one.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To describe how medieval cathedrals were constructed",
+          "To compare the strength of glass and quartz crystals",
+          "To explain how glassmaking techniques have improved",
+          "To correct a myth by explaining the structure of glass"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains that glass is an amorphous solid and refutes the flowing-window story."
+      },
+      {
+        "prompt": "According to the professor, how does glass differ from quartz?",
+        "options": [
+          "It is made from a different main ingredient.",
+          "Its atoms move freely at room temperature.",
+          "Its atoms lack a regular, repeating pattern.",
+          "It forms only when silica cools slowly."
+        ],
+        "answer": 2,
+        "explanation": "Glass has no long-range order; its atoms are arranged randomly but locked in place."
+      },
+      {
+        "prompt": "What happens when molten silica cools quickly?",
+        "options": [
+          "Its atoms arrange themselves into a regular pattern.",
+          "Its atoms become fixed before they can form a crystal.",
+          "It stays liquid until it reaches room temperature.",
+          "It flows downward and becomes thicker at the bottom."
+        ],
+        "answer": 1,
+        "explanation": "Rapid cooling freezes the atoms in a disordered arrangement before they can organize."
+      },
+      {
+        "prompt": "Why does the professor mention panes with the thick edge at the top or side?",
+        "options": [
+          "To provide evidence against the flowing-glass explanation",
+          "To show that medieval glass slowly flowed in several different directions",
+          "To explain why installers preferred uneven glass",
+          "To show that modern glass is more uniform than old glass"
+        ],
+        "answer": 0,
+        "explanation": "Glass flowing downward could not produce a thick edge at the top or side."
+      }
+    ]
+  },
+  {
+    "id": "at4-41",
+    "difficulty": "advanced",
+    "course": "climatology",
+    "intro": "Listen to a talk in a climatology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today we're looking at why the Arctic is warming much faster than the planet as a whole, by some estimates nearly four times faster. Scientists call this Arctic amplification. So what drives it? The best-known factor is the ice-albedo feedback. Albedo is the fraction of sunlight a surface reflects. Snow and sea ice have a high albedo, reflecting most sunlight. Dark open ocean has a low albedo, absorbing most of it. Think of wearing a white shirt versus a black shirt on a sunny day. Now, here's the feedback. As temperatures rise, sea ice melts, exposing dark water. The water absorbs more sunlight and warms, which melts more ice, and so on. It's a loop that reinforces itself. But here's where it gets interesting. Climate models show amplification still happens even when the ice-albedo feedback is switched off. So it can't be the only factor. Another major factor involves how the atmosphere is structured. In the Arctic, especially in winter, the air near the ground is often colder than the air above it. Because of that, warming stays trapped near the surface instead of being mixed upward. And cold surfaces shed extra heat to space less efficiently, so the poles must warm more to get rid of it. So researchers now see amplification as several feedbacks working together, and they still debate which matters most.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How scientists measure the albedo of sea ice",
+          "Why the Arctic is colder in winter than summer",
+          "How climate models predict future snowfall",
+          "Why the Arctic is warming unusually fast"
+        ],
+        "answer": 3,
+        "explanation": "The professor discusses several feedbacks that cause Arctic amplification."
+      },
+      {
+        "prompt": "According to the professor, what happens when sea ice melts?",
+        "options": [
+          "Darker water is exposed and absorbs more sunlight.",
+          "More sunlight is reflected back into space.",
+          "Cold air from above mixes down to the surface.",
+          "The albedo of the surrounding ocean increases."
+        ],
+        "answer": 0,
+        "explanation": "Melting exposes dark, low-albedo water that absorbs more sunlight and warms further."
+      },
+      {
+        "prompt": "What did climate models show when the ice-albedo feedback was switched off?",
+        "options": [
+          "The Arctic stopped warming altogether.",
+          "The Arctic warmed at the global average rate.",
+          "The Arctic still warmed faster than other regions.",
+          "The Arctic cooled because of increased snow."
+        ],
+        "answer": 2,
+        "explanation": "The professor says amplification still happens without that feedback, so other factors must contribute."
+      },
+      {
+        "prompt": "Why does the professor mention a white shirt and a black shirt?",
+        "options": [
+          "To explain why warm air stays trapped close to the Arctic surface",
+          "To illustrate the difference between high and low albedo",
+          "To show how sea ice forms during the winter months",
+          "To compare the temperatures of land and ocean"
+        ],
+        "answer": 1,
+        "explanation": "White reflects sunlight like snow and ice, while black absorbs it like open water."
+      }
+    ]
+  },
+  {
+    "id": "at4-42",
+    "difficulty": "advanced",
+    "course": "mathematics history",
+    "intro": "Listen to a talk in a mathematics history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "For more than two thousand years, one statement in geometry bothered mathematicians more than any other. Around three hundred BCE, Euclid built his geometry on five basic assumptions, or postulates. The first four are simple, like, a straight line can be drawn between any two points. But the fifth, the parallel postulate, is long and awkward. In a common modern form, it says that through a point not on a given line, exactly one line can be drawn parallel to it. Many mathematicians felt it should be provable from the other four. So, for centuries, they tried. Some attempted proof by contradiction: assume the postulate is false, and show that this leads to an absurdity. And here's the irony. They derived strange results, like triangles whose angles add up to less than one hundred eighty degrees, but they never found a true contradiction. In the early eighteen hundreds, the Russian Nikolai Lobachevsky and the Hungarian János Bolyai, working independently, took the bold step of accepting those strange results as a consistent geometry in its own right. Now, this means the parallel postulate can't be proven from the others. There are other perfectly valid geometries. On a sphere, for instance, a triangle's angles add up to more than one hundred eighty degrees. Later, these geometries proved useful for describing space in physics.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why Euclid's first four postulates were later rejected",
+          "How the angles of a triangle are measured on a sphere",
+          "How attempts to prove a postulate led to new geometries",
+          "Why Russian and Hungarian mathematicians worked together"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains how failed proofs of the parallel postulate led to non-Euclidean geometry."
+      },
+      {
+        "prompt": "Why did many mathematicians try to prove the parallel postulate?",
+        "options": [
+          "They thought it should follow from the other four.",
+          "They believed it contradicted the other four.",
+          "They wanted to simplify Euclid's first postulate.",
+          "They needed it to measure triangles on a sphere."
+        ],
+        "answer": 0,
+        "explanation": "The professor says they felt it wasn't a basic assumption and should be provable from the others."
+      },
+      {
+        "prompt": "According to the professor, what did Lobachevsky and Bolyai do?",
+        "options": [
+          "They finally proved the parallel postulate.",
+          "They accepted the strange results as a valid geometry.",
+          "They worked together to find a contradiction.",
+          "They showed that Euclid's geometry was internally inconsistent."
+        ],
+        "answer": 1,
+        "explanation": "Working independently, they treated the strange results as a consistent geometry in its own right."
+      },
+      {
+        "prompt": "What is ironic about the attempts at proof by contradiction?",
+        "options": [
+          "They proved that the fifth postulate was true.",
+          "They showed that triangles cannot exist on a sphere.",
+          "They found a contradiction in the first four postulates.",
+          "They produced a new geometry instead of a proof."
+        ],
+        "answer": 3,
+        "explanation": "Instead of reaching a contradiction, the strange results became the basis of a new, valid geometry."
+      }
+    ]
+  }
+]

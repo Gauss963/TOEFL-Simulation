@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "at5-01",
+    "difficulty": "intermediate",
+    "course": "archaeology",
+    "intro": "Listen to a talk in an archaeology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Okay, so imagine you're digging a trench at an old settlement, and the wall of the trench shows bands of soil in different colors, one on top of another. What can those bands tell you? Quite a lot, actually. The study of these layers is called stratigraphy, and it rests on a simple principle known as the law of superposition. It was first stated in the 1660s by a scientist named Nicolas Steno, who was studying rocks, not ruins. The idea is that in undisturbed deposits, the lower layers were laid down first, so they're older than the layers above them. Now, notice what this gives us. It's relative dating. It tells you that one layer is older than another, but not how old either one is in years. To get closer to that, archaeologists look for objects that can be dated, like a coin. If a coin minted in a certain year turns up in a layer, the layer can't have formed before that year. But here's the catch, and it's the word undisturbed. People dig pits, bury things, and set posts into the ground. Burrowing animals move material around too. So a later object can end up below an earlier one. That's why excavators record every layer so carefully, looking for places where one deposit cuts through another.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "A method for finding the exact age of buried objects",
+          "How burrowing animals damage archaeological sites",
+          "A principle used to work out the order of soil layers",
+          "Why the oldest settlements are found in deep trenches"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains stratigraphy and the law of superposition, which archaeologists use to order layers in time."
+      },
+      {
+        "prompt": "According to the professor, what was Nicolas Steno studying when he stated the principle?",
+        "options": [
+          "Ancient coins",
+          "Layers of rock",
+          "Buried settlements",
+          "Animal burrows"
+        ],
+        "answer": 1,
+        "explanation": "The professor says Steno was studying rocks, not ruins, when he stated the law of superposition."
+      },
+      {
+        "prompt": "What can a dated coin tell archaeologists about the layer it is found in?",
+        "options": [
+          "The exact year the layer was deposited",
+          "Whether burrowing animals have disturbed the layer",
+          "How long the settlement was occupied",
+          "The earliest year the layer could have formed"
+        ],
+        "answer": 3,
+        "explanation": "The professor says a layer containing a coin cannot have formed before the year the coin was minted."
+      },
+      {
+        "prompt": "Why does the professor emphasize the word \"undisturbed\"?",
+        "options": [
+          "To point out that later digging can reverse the expected order",
+          "To explain why Steno's principle cannot be applied to ruins",
+          "To suggest that most sites are too damaged to be studied at all",
+          "To show that coins are more reliable than relative dating"
+        ],
+        "answer": 0,
+        "explanation": "She explains that pits, posts, and burrowing animals can place a later object below an earlier one."
+      }
+    ]
+  },
+  {
+    "id": "at5-02",
+    "difficulty": "advanced",
+    "course": "ancient history",
+    "intro": "Listen to a talk in an ancient history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Today I want to tell you about one of the great code-breaking stories in the study of the ancient world. Around 1900, excavators at Knossos, on the island of Crete, found thousands of clay tablets covered in an unknown script, which came to be called Linear B. Now, the tablets survived for an odd reason. They were never meant to last. They were unbaked clay, used for everyday records, and they were preserved only because the fires that destroyed the palaces baked them hard. So, what language did they record? The excavator, Arthur Evans, was convinced it was a native Cretan language unrelated to Greek, and his authority shaped the field for decades. The breakthrough came in 1952 from Michael Ventris, an architect, not a professional scholar. Building on work by Alice Kober, who had shown that certain words changed their endings, he arranged the signs in a grid of likely sound relationships. When he tested place names from Crete against the grid, the words that emerged were recognizably Greek, an early form of Greek centuries older than Homer. And Ventris himself had expected something else. So what did the tablets say? Mostly inventories: sheep, chariot wheels, jars of oil. No poetry, no history. Which tells us something too: writing here served the palace bookkeepers, not storytellers.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How an ancient script was shown to record early Greek",
+          "How the palaces of ancient Crete were destroyed by fire",
+          "Why the excavations at Knossos took so many decades",
+          "How Homer's poems were first recorded on clay tablets"
+        ],
+        "answer": 0,
+        "explanation": "The professor describes how Linear B was deciphered and found to be an early form of Greek."
+      },
+      {
+        "prompt": "According to the professor, why did the Linear B tablets survive?",
+        "options": [
+          "Fires accidentally hardened the clay.",
+          "They were stored deep beneath the palace.",
+          "Scribes baked them on purpose for storage.",
+          "They were covered with a protective coating."
+        ],
+        "answer": 0,
+        "explanation": "The professor says the unbaked tablets were preserved only because the fires that destroyed the palaces baked them hard."
+      },
+      {
+        "prompt": "What did Alice Kober contribute to the decipherment?",
+        "options": [
+          "She identified the Cretan place names in the texts.",
+          "She proved that the script recorded a Cretan language.",
+          "She translated the first inventory of the tablets.",
+          "She showed that some words changed their endings."
+        ],
+        "answer": 3,
+        "explanation": "The professor says Ventris built on Kober's finding that certain words changed their endings."
+      },
+      {
+        "prompt": "What does the professor imply when he says that Ventris \"had expected something else\"?",
+        "options": [
+          "Ventris doubted his own results for the rest of his life.",
+          "Ventris believed the tablets would contain poetry.",
+          "Ventris later rejected his own decipherment.",
+          "The Greek result was not just what he hoped to find."
+        ],
+        "answer": 3,
+        "explanation": "Because Ventris did not expect Greek, the result appears to come from the evidence rather than from his own wishes."
+      }
+    ]
+  },
+  {
+    "id": "at5-03",
+    "difficulty": "intermediate",
+    "course": "history of technology",
+    "intro": "Listen to a talk in a history of technology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "So, picture a ship in the middle of the Atlantic in, say, 1700. The navigator can find the ship's latitude, its north-south position, fairly easily by measuring the height of the Sun at noon. But longitude, the east-west position? That was a real problem, and ships were wrecked because of it. Now, here's the key insight. The Earth turns fifteen degrees every hour. So if you know the local time on the ship, from the Sun, and you also know the time back at your home port, the difference tells you how far east or west you've traveled. The catch was keeping home port time at sea. Pendulum clocks couldn't cope with a rolling deck, and changes in temperature made clocks run fast or slow. In 1714, the British government offered a huge prize for a practical solution. Many astronomers believed the answer was in the sky, measuring the Moon's position against the stars, which worked but required long calculations. A self-taught clockmaker named John Harrison took the mechanical route instead. Over several decades, he built a series of timekeepers, and his fourth, which looked like an oversized pocket watch, lost only a few seconds on a voyage to Jamaica. Even so, the officials in charge were slow to reward him, partly because many of them favored the astronomical method.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the talk?",
+        "options": [
+          "The search for a reliable way to find longitude at sea",
+          "The methods sailors used to measure the height of the Sun",
+          "The reasons so many ships were wrecked in the Atlantic",
+          "The history of pendulum clocks in eighteenth-century Britain"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains why longitude was hard to find and how Harrison's timekeepers helped solve the problem."
+      },
+      {
+        "prompt": "According to the professor, why does comparing two times reveal a ship's longitude?",
+        "options": [
+          "The Sun is highest at noon near the equator.",
+          "The Moon moves against the stars at a set rate each night.",
+          "The Earth turns a fixed number of degrees each hour.",
+          "Clocks run more slowly at sea than on land."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the Earth turns fifteen degrees every hour, so a time difference translates into an east-west distance."
+      },
+      {
+        "prompt": "What problem did pendulum clocks have at sea?",
+        "options": [
+          "They could not be set to home port time.",
+          "They were too large for a ship's cabin.",
+          "The motion of the ship disrupted them.",
+          "They had to be wound every few hours."
+        ],
+        "answer": 2,
+        "explanation": "The professor says pendulum clocks couldn't cope with a rolling deck."
+      },
+      {
+        "prompt": "Why does the professor mention the astronomers at the end of the talk?",
+        "options": [
+          "To show that the astronomical method never worked",
+          "To point out that Harrison learned his trade from them",
+          "To explain why Harrison was slow to receive his reward",
+          "To argue that the Moon was easier to observe than the Sun"
+        ],
+        "answer": 2,
+        "explanation": "She says officials were slow to reward Harrison partly because many favored the astronomical method."
+      }
+    ]
+  },
+  {
+    "id": "at5-04",
+    "difficulty": "advanced",
+    "course": "anthropology",
+    "intro": "Listen to a talk in an anthropology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Today we're looking at the potlatch, a ceremony practiced by Indigenous peoples of the Pacific Northwest coast, in what's now British Columbia and the state of Washington. So, what happens at a potlatch? A host family invites guests, sometimes hundreds of them, to mark an important event, like a marriage, a death, or someone taking on a hereditary name. There are speeches, dances, and feasting, and then the host gives away huge quantities of goods: blankets, food, carved objects. In some potlatches, valuable property was even destroyed in public. To many European observers, this looked like pure waste, and the Canadian government actually banned the potlatch from 1885 until 1951. Anthropologists, though, have offered very different readings. One view stresses rivalry: chiefs competed for prestige, and giving away more than a rival could repay was a way of winning status. Another view is economic. Resources along the coast, like salmon runs, varied a lot from place to place and year to year, so the potlatch moved surplus goods to groups that needed them, a kind of insurance. And there's a point the communities themselves emphasize: the guests are witnesses. By accepting gifts, they publicly confirm the host's claim to a name or a right. Notably, the most dramatic destruction seems to date from the 1800s, when trade brought sudden new wealth and epidemics left many titles open to competition.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The reasons a government decided to ban a coastal ceremony",
+          "How salmon runs shaped settlement along the Pacific coast",
+          "How chiefs on the Pacific coast inherited names and titles",
+          "Different readings of a ceremony of giving away goods"
+        ],
+        "answer": 3,
+        "explanation": "The professor describes the potlatch and the rivalry, economic, and witnessing interpretations of it."
+      },
+      {
+        "prompt": "According to the economic view, what did the potlatch do?",
+        "options": [
+          "It let chiefs destroy goods they could not store.",
+          "It moved surplus goods to groups facing shortages.",
+          "It allowed families to trade salmon for blankets.",
+          "It helped hosts repay debts owed to traders."
+        ],
+        "answer": 1,
+        "explanation": "The professor says the potlatch moved surplus goods to groups in need, acting as a kind of insurance."
+      },
+      {
+        "prompt": "What role do the guests play, according to the professor?",
+        "options": [
+          "They witness and confirm the host's claims.",
+          "They compete with the host to give more goods.",
+          "They choose the family that will host next.",
+          "They keep a record of the gifts they receive."
+        ],
+        "answer": 0,
+        "explanation": "The professor says that by accepting gifts, guests publicly confirm the host's claim to a name or right."
+      },
+      {
+        "prompt": "What does the professor suggest about the destruction of property in the 1800s?",
+        "options": [
+          "It may reflect the unusual conditions of that period.",
+          "It was the original purpose of the ceremony.",
+          "It was invented by European observers.",
+          "It was the main reason the government banned the ceremony."
+        ],
+        "answer": 0,
+        "explanation": "He links the most dramatic destruction to new trade wealth and epidemics that opened titles to competition."
+      }
+    ]
+  },
+  {
+    "id": "at5-05",
+    "difficulty": "advanced",
+    "course": "linguistics",
+    "intro": "Listen to a talk in a linguistics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Ever wondered why English spelling seems so disconnected from pronunciation? Why do we write b, i, t, e, but say 'bite'? Part of the answer is a change linguists call the Great Vowel Shift. Between roughly 1400 and 1700, the long vowels of English moved. Most of them came to be pronounced higher in the mouth, and the two highest ones, which had nowhere higher to go, turned into diphthongs, that is, two vowel sounds glided together. So 'bite' was once pronounced much like 'beet,' and 'house' sounded something like 'hoose.' Here's why spelling matters. Printing arrived in England in the 1470s, right in the middle of this shift, and spelling gradually became fixed. So our spelling largely records how words sounded before the shift was complete. That's why letters and sounds don't line up the way they do in Spanish. So what caused the shift? Nobody knows for sure. One explanation points to migration: after the plague of the fourteenth century, many people moved to London, and contact between dialects may have led speakers to adjust their vowels. There's also a debate about the order of events. Did the high vowels change first, leaving gaps that the lower vowels moved up to fill? Or did the lower vowels rise first and push the higher ones out? The evidence fits both, which is why the argument continues.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How printing caused English vowels to change",
+          "A historical sound change and its effect on spelling",
+          "Why Spanish spelling is simpler than English spelling",
+          "How London dialects influenced English grammar"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains the Great Vowel Shift and why it left English spelling out of step with pronunciation."
+      },
+      {
+        "prompt": "What happened to the two highest long vowels during the shift?",
+        "options": [
+          "They became two vowel sounds glided together.",
+          "They came to be pronounced lower in the mouth.",
+          "They disappeared from most English dialects.",
+          "They took the place of vowels that had risen."
+        ],
+        "answer": 0,
+        "explanation": "The professor says the two highest vowels had nowhere higher to go and turned into diphthongs."
+      },
+      {
+        "prompt": "According to the professor, why does English spelling not match modern pronunciation?",
+        "options": [
+          "Spelling became fixed before the shift was complete.",
+          "Printers borrowed their spelling from Spanish texts.",
+          "Spelling was revised to reflect the new vowel sounds.",
+          "Writers in London spelled words just as they spoke."
+        ],
+        "answer": 0,
+        "explanation": "The professor says printing arrived mid-shift and spelling became fixed, recording older pronunciations."
+      },
+      {
+        "prompt": "What is the professor's position on the order of the vowel changes?",
+        "options": [
+          "The high vowels clearly changed before the low ones.",
+          "The order matters less than the cause of the shift.",
+          "The available evidence does not settle the question.",
+          "Migration to London explains which vowels moved first."
+        ],
+        "answer": 2,
+        "explanation": "She says the evidence fits both orders, which is why the argument continues."
+      }
+    ]
+  },
+  {
+    "id": "at5-06",
+    "difficulty": "intermediate",
+    "course": "literature",
+    "intro": "Listen to a talk in a literature class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So far this term, we've mostly read stories where we trust the person telling them. Today, let's talk about what happens when we can't. The critic Wayne Booth introduced the term unreliable narrator in 1961. It describes a narrator whose account of events we come to doubt, because of what they misunderstand, conceal, or distort. Now, how do we know a narrator is unreliable if the narrator is our only source? That's the interesting part. The text gives us clues that the narrator doesn't notice. Take Edgar Allan Poe's story 'The Tell-Tale Heart.' The narrator keeps insisting he's perfectly calm and sane, and the more carefully he explains himself, the less we believe him. His own words work against him. But unreliability isn't always about deception or madness. Some narrators are simply naive. Think of Gulliver in Gulliver's Travels. He describes the strange societies he visits with total sincerity, and he often admires the very things Jonathan Swift wants us to laugh at. Gulliver isn't lying. He just doesn't see what the reader sees. So, why would authors do this? Because it makes the reader an active participant. We're not just receiving a story; we're reading between the lines, comparing what we're told with what we can infer. And that gap is often where the meaning of the work lies.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Narrators whose accounts readers learn to question",
+          "Stories in which the hero tells deliberate lies",
+          "Ways authors make their narrators more likable to readers",
+          "How critics judge whether a story is realistic"
+        ],
+        "answer": 0,
+        "explanation": "The professor defines the unreliable narrator and gives examples of how readers detect one."
+      },
+      {
+        "prompt": "How do readers come to doubt the narrator of \"The Tell-Tale Heart\"?",
+        "options": [
+          "Other characters in the story contradict his account.",
+          "He admits at the end that he invented the events.",
+          "The author steps in to correct what he has said.",
+          "His insistence that he is sane undermines his claim."
+        ],
+        "answer": 3,
+        "explanation": "The professor says the more the narrator insists he is calm and sane, the less readers believe him."
+      },
+      {
+        "prompt": "According to the professor, what do unreliable narrators require of readers?",
+        "options": [
+          "Inferring what the narrator fails to see",
+          "Trusting the narrator's account completely",
+          "Ignoring the plot to focus on the style",
+          "Sympathizing with the narrator's choices"
+        ],
+        "answer": 0,
+        "explanation": "The professor says readers must read between the lines, comparing what they are told with what they can infer."
+      },
+      {
+        "prompt": "Why does the professor mention Gulliver's Travels?",
+        "options": [
+          "To show that unreliability need not involve deception",
+          "To compare Swift's style of satire with Poe's style",
+          "To give an example of a narrator who is clearly not sane",
+          "To explain where the term unreliable narrator began"
+        ],
+        "answer": 0,
+        "explanation": "He presents Gulliver as a sincere, naive narrator who isn't lying but misses what the reader sees."
+      }
+    ]
+  },
+  {
+    "id": "at5-07",
+    "difficulty": "intermediate",
+    "course": "theater",
+    "intro": "Listen to a talk in a theater class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today we're heading to Italy in the sixteenth century, to a form of theater called commedia dell'arte. The name roughly means 'theater of the profession,' because these were some of the first professional acting companies in Europe. They traveled from town to town, performing in public squares and at court. So, what made commedia distinctive? First, stock characters. Every company had the same basic types, and audiences recognized them instantly, often by their masks. There was Pantalone, the greedy old merchant; the Doctor, who spouted nonsense in fake Latin; and Arlecchino, or Harlequin, the clever, acrobatic servant. Second, and this surprises people, there was usually no full script. The actors worked from a scenario, a short outline of the plot, often pinned up backstage. They knew who would enter when and what had to happen, but they improvised the dialogue. Now, improvisation doesn't mean they made everything up on the spot. Actors often played the same character for years and built up a stock of speeches and jokes. They also had lazzi, rehearsed comic routines, like an elaborate bit about catching a fly, that could be dropped in whenever a scene needed energy. One more thing: women performed on stage, at a time when female roles in England were still played by boys. And the influence lasted. Playwrights like Molière borrowed its characters freely.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How traveling Italian actors designed the masks for their characters",
+          "An Italian theater form built on stock characters and improvisation",
+          "Why Molière rejected the comic traditions of the Italian theater",
+          "How Italian playwrights wrote full scripts for performing in squares"
+        ],
+        "answer": 1,
+        "explanation": "The professor describes commedia dell'arte, focusing on its stock characters, scenarios, and improvised dialogue."
+      },
+      {
+        "prompt": "What was a scenario in commedia dell'arte?",
+        "options": [
+          "A complete script that each actor memorized",
+          "A list of the masks the company would wear on stage",
+          "An outline of the plot that guided the actors",
+          "A comic routine used to liven up a scene"
+        ],
+        "answer": 2,
+        "explanation": "The professor defines a scenario as a short outline of the plot, often pinned up backstage."
+      },
+      {
+        "prompt": "According to the professor, what were lazzi?",
+        "options": [
+          "Rehearsed comic routines that could be inserted",
+          "Speeches written by the company's playwright",
+          "Masks worn by servant characters like Harlequin",
+          "Fake Latin phrases spoken by the Doctor"
+        ],
+        "answer": 0,
+        "explanation": "The professor says lazzi were rehearsed comic routines dropped in whenever a scene needed energy."
+      },
+      {
+        "prompt": "Why does the professor say that improvisation \"doesn't mean they made everything up on the spot\"?",
+        "options": [
+          "To explain that actors drew on prepared material",
+          "To suggest that scenarios were really full scripts",
+          "To argue that the actors were not true professionals",
+          "To show that audiences disliked unplanned dialogue"
+        ],
+        "answer": 0,
+        "explanation": "She goes on to explain that actors built up a stock of speeches and jokes and used rehearsed lazzi."
+      }
+    ]
+  },
+  {
+    "id": "at5-08",
+    "difficulty": "advanced",
+    "course": "dance",
+    "intro": "Listen to a talk in a dance class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Here's a problem that has troubled dance for centuries. A composer can write down a symphony, and two hundred years later an orchestra can perform it. But how do you preserve a dance? For most of history, choreography survived only in the bodies and memories of dancers, passed from one generation to the next, and a great deal was lost. In 1928, the dance theorist Rudolf Laban published a system for recording movement, now usually called Labanotation. So, how does it work? Picture a vertical staff, read from the bottom up. Columns stand for parts of the body, with the right side of the body on the right and the left side on the left. Then each symbol does three jobs at once. Its shape shows direction, its shading shows level, high, middle, or low, and its length shows how long the movement lasts. Now, you might ask: why bother, when we can simply film a performance? This is a real debate. Supporters of notation point out that a video records one particular performance, including one dancer's habits and mistakes. A score records the choreographer's structure, separate from any single performer. The trouble is that notating a work takes a trained specialist many hours, and relatively few dancers can read a score. So in practice, many companies use both: the score for structure, and video for style.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "A system for recording dance and how it compares with video",
+          "Why choreographers now prefer video to written notation",
+          "How a composer's score differs from a dance performance",
+          "The training dancers need in order to perform historical works"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains how Labanotation works and weighs it against filming performances."
+      },
+      {
+        "prompt": "In Labanotation, what does the length of a symbol indicate?",
+        "options": [
+          "Which part of the body moves",
+          "How long a movement lasts",
+          "Which direction a movement goes",
+          "Whether a movement is high or low"
+        ],
+        "answer": 1,
+        "explanation": "The professor says a symbol's length shows how long the movement lasts."
+      },
+      {
+        "prompt": "According to supporters of notation, what is a weakness of video?",
+        "options": [
+          "It cannot clearly show the direction of a movement.",
+          "It takes a trained specialist many hours to make.",
+          "It captures one dancer's habits along with the work.",
+          "It is difficult for most dancers to interpret."
+        ],
+        "answer": 2,
+        "explanation": "Supporters say a video records one particular performance, including a dancer's habits and mistakes."
+      },
+      {
+        "prompt": "Why does the professor mention a symphony at the beginning of the talk?",
+        "options": [
+          "To show that dances were once performed with orchestras",
+          "To explain that Laban was first trained as a composer",
+          "To contrast music, which can be written down, with dance",
+          "To argue that music has changed less over time than dance"
+        ],
+        "answer": 2,
+        "explanation": "He uses the symphony to show that music can be preserved in writing, unlike most dance."
+      }
+    ]
+  },
+  {
+    "id": "at5-09",
+    "difficulty": "intermediate",
+    "course": "music history",
+    "intro": "Listen to a talk in a music history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Imagine you're a young singer in a monastery about a thousand years ago. Your job is to sing hundreds of chants for church services, and you have to learn every one of them by ear, from an older singer. Now, there was some notation at the time. Singers used little marks called neumes, written above the words, which showed whether the melody went up or down. But they didn't show exactly how far. They were reminders for people who already knew the tune. Around the year 1025, a monk named Guido of Arezzo introduced two ideas that changed this. The first was the staff. Guido placed the marks on horizontal lines, so each line or space stood for a definite pitch. He even colored some of the lines, red for one note and yellow for another, so singers could find their place. The second idea was a memory aid. Guido used a hymn in which each line of music began one note higher than the line before. The first syllables of those lines were ut, re, mi, fa, sol, and la. Sound familiar? Later, ut was replaced by do, which is easier to sing, and another syllable was added at the top. Guido claimed that with his methods, training that had taken about ten years could be done in one or two.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The reasons monks sang chants during services",
+          "Innovations that made melodies easier to learn",
+          "How medieval singers composed new hymns",
+          "The history of one famous monastery hymn"
+        ],
+        "answer": 1,
+        "explanation": "The professor describes Guido's staff and syllables, which made learning chants much faster."
+      },
+      {
+        "prompt": "What was the limitation of neumes?",
+        "options": [
+          "They could be read only by older, trained singers.",
+          "They did not show exactly how far a melody moved.",
+          "They were written below the words, not above them.",
+          "They showed exact pitches but not the direction."
+        ],
+        "answer": 1,
+        "explanation": "The professor says neumes showed whether a melody went up or down, but not exactly how far."
+      },
+      {
+        "prompt": "Why did Guido color some of the lines?",
+        "options": [
+          "To separate the music from the words",
+          "To help singers locate particular notes",
+          "To mark the beginning and end of each chant",
+          "To show which notes should be loud"
+        ],
+        "answer": 1,
+        "explanation": "The professor says the colored lines helped singers find their place."
+      },
+      {
+        "prompt": "Why does the professor ask, \"Sound familiar?\"",
+        "options": [
+          "To suggest that Guido's hymn is still sung in churches",
+          "To check whether students had read about Guido",
+          "To show that the syllables come from modern music",
+          "To point out that students know these syllables today"
+        ],
+        "answer": 3,
+        "explanation": "The syllables ut, re, mi, fa, sol, la are the ancestors of the do-re-mi syllables students already know."
+      }
+    ]
+  },
+  {
+    "id": "at5-10",
+    "difficulty": "advanced",
+    "course": "film studies",
+    "intro": "Listen to a talk in a film studies class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "When we think about sound arriving in films in the late 1920s, we usually think of it as pure progress. Silent pictures could finally talk. But many historians argue that, at first, sound made movies worse, at least visually. Why? Think about the equipment. The cameras of the time were noisy, and the microphones would pick up their whirring. So the solution was to put the camera, and its operator, inside a heavy soundproof booth. Crews jokingly called these booths iceboxes, since it was so hot inside. And a camera inside a booth can't move freely. The fluid moving shots that late silent films had developed largely disappeared. Microphones caused problems too. They had limited range, so they were hidden in flower vases or lamps, and actors had to stay close to them. The result was a lot of stiff scenes with people standing around talking. Now, here's where interpretations differ. Some critics at the time argued that sound had damaged cinema permanently, that film's true strength was the image, and that dialogue turned it into recorded theater. Others saw a temporary technical setback. And within a few years, engineers built quieter, insulated camera housings called blimps, and microphones were placed on long booms above the actors. The camera moved again. So which view was right? I'd say the speed of that recovery tells you a lot.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why many silent film actors lost their careers to sound",
+          "How early sound technology restricted filmmaking at first",
+          "How directors used dialogue to replace camera movement",
+          "Why audiences continued to prefer silent films to sound films"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains how booths and hidden microphones limited early sound films, and how this was later overcome."
+      },
+      {
+        "prompt": "Why were cameras placed in soundproof booths?",
+        "options": [
+          "The booths kept the cameras from overheating.",
+          "Studios wanted to protect their costly new equipment.",
+          "The microphones would pick up the camera noise.",
+          "Actors were distracted by the camera crew."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the cameras were noisy and the microphones would pick up their whirring."
+      },
+      {
+        "prompt": "How were microphones positioned in the earliest sound films?",
+        "options": [
+          "They were hidden in objects on the set.",
+          "They hung from long booms above the actors.",
+          "They were placed inside the camera booths.",
+          "They were attached to the actors' clothes."
+        ],
+        "answer": 0,
+        "explanation": "The professor says microphones were hidden in flower vases or lamps."
+      },
+      {
+        "prompt": "What is the professor's view of the claim that sound permanently damaged cinema?",
+        "options": [
+          "It was correct, since film's true strength is the image.",
+          "The quick recovery suggests the claim was overstated.",
+          "It applied mainly to films with very little dialogue.",
+          "It was a fair judgment of films from later decades."
+        ],
+        "answer": 1,
+        "explanation": "He says the speed of the technical recovery tells you a lot, implying the damage was temporary."
+      }
+    ]
+  },
+  {
+    "id": "at5-11",
+    "difficulty": "advanced",
+    "course": "photography",
+    "intro": "Listen to a talk in a photography class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "In 1839, two very different photographic processes were announced within months of each other, and comparing them tells us a lot about what photography would become. The first was the daguerreotype, developed in France by Louis Daguerre. The image was formed directly on a polished, silver-coated copper plate, and the detail was astonishing. People examined daguerreotypes with magnifying glasses and found they could read signs across a street. But notice something: each daguerreotype was unique. There was no negative, so the only way to get a second copy was to take a second picture. In England, William Henry Fox Talbot was working on something different. His process, which he later refined and called the calotype, produced a negative on paper. From that one negative, you could print as many positive copies as you liked. The downside? The image had to pass through the fibers of the paper, so it was softer, less precise. So at the time, which seemed better? For portraits and sheer detail, most people preferred the daguerreotype, and it dominated commercial studios for over a decade. But consider what happened next. In the 1850s, photographers began making negatives on glass, which combined fine detail with the ability to make copies. And the daguerreotype faded away. So, in the long run, the principle that mattered most was Talbot's, even though his pictures lost the first round.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Two early photographic processes and their strengths",
+          "Why photographers in France and England cooperated",
+          "How glass negatives were invented in the 1850s",
+          "The rise of portrait studios in the nineteenth century"
+        ],
+        "answer": 0,
+        "explanation": "The professor compares the daguerreotype and the calotype and explains which principle prevailed."
+      },
+      {
+        "prompt": "What was a key limitation of the daguerreotype?",
+        "options": [
+          "Its images were too soft to show very fine detail.",
+          "It needed a paper negative before it could be printed.",
+          "Each image was one of a kind and could not be copied.",
+          "It could be viewed only through a magnifying glass."
+        ],
+        "answer": 2,
+        "explanation": "The professor says each daguerreotype was unique, with no negative to make copies from."
+      },
+      {
+        "prompt": "Why were calotype images less sharp?",
+        "options": [
+          "The negative was made on a copper plate.",
+          "The prints were copied too many times.",
+          "The exposure times were far too short.",
+          "The image passed through paper fibers."
+        ],
+        "answer": 3,
+        "explanation": "The professor says the image had to pass through the fibers of the paper, making it softer."
+      },
+      {
+        "prompt": "What point does the professor make by mentioning glass negatives?",
+        "options": [
+          "Talbot's idea of printing from a negative won in the end.",
+          "The daguerreotype was improved by switching to glass.",
+          "Photographers came to value low cost more than fine detail.",
+          "Talbot himself later developed the process using glass."
+        ],
+        "answer": 0,
+        "explanation": "Glass negatives kept detail while allowing copies, so the negative-positive principle outlasted the daguerreotype."
+      }
+    ]
+  },
+  {
+    "id": "at5-12",
+    "difficulty": "intermediate",
+    "course": "art history",
+    "intro": "Listen to a talk in an art history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Let's start with a question. In many paintings from medieval Europe, the most important figures are the biggest, no matter where they stand in the scene. Why? Because size showed importance, not distance. Then, in early fifteenth-century Florence, something changed. The architect Filippo Brunelleschi carried out a famous demonstration. He painted a small panel showing the city's baptistery and drilled a hole through the center. A viewer stood behind the panel, looked through the hole, and held up a mirror facing the painted side. In the mirror, the painted building lined up with the real one behind it. Brunelleschi had worked out a geometric method for showing depth: linear perspective. Now, how does it work? Lines that are parallel in reality, like the edges of a road or the tiles of a floor, are drawn so that they meet at a single point on the horizon, the vanishing point. And objects shrink at a regular rate as they move away. In 1435, Leon Battista Alberti wrote these rules down in a treatise on painting. He compared the picture to an open window that the viewer looks through. So perspective wasn't just a trick. It changed the idea of what a painting was: no longer a symbolic arrangement, but a view into a world that continues beyond the frame.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The development of a geometric method for showing depth",
+          "The way medieval painters showed the rank of figures",
+          "The design of the baptistery in fifteenth-century Florence",
+          "The use of mirrors by painters in medieval Europe"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains how linear perspective was developed and how it changed painting."
+      },
+      {
+        "prompt": "In medieval paintings, what did the size of a figure usually show?",
+        "options": [
+          "How far away the figure stood",
+          "How old the figure was meant to be",
+          "How the painter felt about the figure",
+          "How important the figure was"
+        ],
+        "answer": 3,
+        "explanation": "The professor says that in medieval paintings, size showed importance, not distance."
+      },
+      {
+        "prompt": "What was the purpose of the mirror in Brunelleschi's demonstration?",
+        "options": [
+          "To compare the painted building with the real one",
+          "To reflect more light onto the painted panel",
+          "To show viewers where the vanishing point was located",
+          "To help Brunelleschi draw the baptistery"
+        ],
+        "answer": 0,
+        "explanation": "The professor says that in the mirror, the painted building lined up with the real one behind it."
+      },
+      {
+        "prompt": "Why does the professor mention Alberti's comparison of a picture to a window?",
+        "options": [
+          "To show how perspective changed the idea of a painting",
+          "To explain how Brunelleschi made the hole in his panel",
+          "To argue that Alberti invented perspective before anyone",
+          "To show that painters began to include real windows"
+        ],
+        "answer": 0,
+        "explanation": "The window image illustrates the new idea of a painting as a view into a continuing world."
+      }
+    ]
+  },
+  {
+    "id": "at5-13",
+    "difficulty": "intermediate",
+    "course": "sculpture",
+    "intro": "Listen to a talk in a sculpture class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Okay, stand up for a second, everyone. Just stand naturally, the way you would while waiting for a bus. Now notice: almost none of you are standing with your weight evenly on both feet. You've shifted onto one leg. And when you do that, your hips tilt, and your shoulders tilt the other way to keep you balanced. Okay, you can sit down. That relaxed pose has a name in art history: contrapposto, an Italian term meaning roughly 'counterpose.' Now, early Greek statues of young men, called kouroi, didn't stand like that. They faced straight ahead, arms at their sides, one foot slightly forward, but with the weight shared equally. They look stiff, almost frozen. Then, around 480 BCE, we get a statue known as the Kritios Boy, and something new happens. The weight rests on one leg, the other knee bends, and the body looks as if it could actually move. A few decades later, the sculptor Polykleitos made the pose systematic in his Spear Bearer, balancing tense and relaxed parts of the body against each other. So why does this matter? Because it's the moment sculpture starts to show a living body rather than a symbol of one. And the idea had a long life. When Renaissance sculptors like Michelangelo looked back to ancient art, contrapposto was one of the things they revived.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The way Greek sculptors carved statues of athletes",
+          "The reasons Renaissance artists studied Greek art",
+          "A pose that made ancient statues look more lifelike",
+          "The tools Polykleitos used to carve his statues"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains contrapposto and how it made Greek sculpture look like a living body."
+      },
+      {
+        "prompt": "What does the professor say about the kouroi?",
+        "options": [
+          "Their arms were raised up above their heads.",
+          "Their weight was shared equally between both legs.",
+          "Their hips and shoulders tilted in opposite ways.",
+          "Their weight rested mostly on the back leg."
+        ],
+        "answer": 1,
+        "explanation": "The professor says the kouroi faced forward with one foot forward but the weight shared equally."
+      },
+      {
+        "prompt": "What did Polykleitos do, according to the professor?",
+        "options": [
+          "He carved the earliest statue of a young man.",
+          "He revived the pose during the Renaissance.",
+          "He created the earlier statue called the Kritios Boy.",
+          "He made the pose systematic in a famous statue."
+        ],
+        "answer": 3,
+        "explanation": "The professor says Polykleitos made the pose systematic in his Spear Bearer."
+      },
+      {
+        "prompt": "Why does the professor ask the students to stand up?",
+        "options": [
+          "To show how stiff early Greek statues looked",
+          "To test whether they could stand completely still",
+          "To show how sculptors measured the human body",
+          "To let them feel the pose before it is named"
+        ],
+        "answer": 3,
+        "explanation": "Standing naturally lets students notice the weight shift and tilt that she then names contrapposto."
+      }
+    ]
+  },
+  {
+    "id": "at5-14",
+    "difficulty": "intermediate",
+    "course": "architecture",
+    "intro": "Listen to a talk in an architecture class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "So, if you've ever stood inside a Gothic cathedral, you know the feeling: the ceiling seems impossibly high, and the walls seem to be made more of glass than stone. How did medieval builders pull that off? Let's start with the problem. A stone vault, the arched ceiling, is heavy, and it doesn't just push down. It also pushes outward on the walls. Engineers call this sideways force thrust. In earlier Romanesque churches, the answer was simply thick, massive walls with small windows. The walls absorbed the thrust. Gothic builders, starting in twelfth-century France, took a different approach. First, they used ribbed vaults, which gather the weight of the ceiling and direct it to specific points rather than spreading it along the whole wall. Then, at those points, they added flying buttresses. These are arms of stone that leap from the upper walls, over the side aisles, to massive piers standing outside the building. They catch the thrust and carry it down to the ground. Builders even placed heavy stone pinnacles on top of the piers. They look decorative, but their weight actually helps steady the piers. Once the walls no longer carried the load, they could be opened up for huge stained glass windows. Now, the system had limits. At Beauvais, builders pushed for record height, and part of the vault collapsed in 1284.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why Romanesque churches were built with thick, heavy walls",
+          "How stained glass windows were made in medieval France",
+          "How Gothic builders supported high vaults and large windows",
+          "Why part of the cathedral at Beauvais collapsed in 1284"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains how ribbed vaults and flying buttresses allowed tall, glass-filled Gothic cathedrals."
+      },
+      {
+        "prompt": "What is thrust, according to the professor?",
+        "options": [
+          "The weight of the glass in a large window",
+          "The downward pressure of a pinnacle on a pier",
+          "The outward push of a vault on the walls",
+          "The force of the wind against a cathedral"
+        ],
+        "answer": 2,
+        "explanation": "The professor defines thrust as the sideways force a vault exerts outward on the walls."
+      },
+      {
+        "prompt": "What was the purpose of the pinnacles on top of the piers?",
+        "options": [
+          "They carried rainwater off the roof.",
+          "They were purely decorative features.",
+          "They linked the piers to the aisles.",
+          "Their weight helped steady the piers."
+        ],
+        "answer": 3,
+        "explanation": "The professor says the pinnacles look decorative but their weight actually helps steady the piers."
+      },
+      {
+        "prompt": "Why does the professor mention the cathedral at Beauvais?",
+        "options": [
+          "To give an example of an early Romanesque church",
+          "To show where flying buttresses were first used",
+          "To explain why later builders avoided stained glass",
+          "To show that the building method had its limits"
+        ],
+        "answer": 3,
+        "explanation": "He says the system had limits and gives Beauvais, where a record-height vault partly collapsed, as an example."
+      }
+    ]
+  },
+  {
+    "id": "at5-15",
+    "difficulty": "advanced",
+    "course": "urban planning",
+    "intro": "Listen to a talk in an urban planning class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today we're looking at one of the most ambitious urban projects of the nineteenth century: the rebuilding of Paris. From 1853 to 1870, under the emperor Napoleon the Third, the official in charge of the city, Georges-Eugène Haussmann, demolished large parts of medieval Paris. Narrow, crowded streets were replaced by long, straight boulevards lined with buildings of uniform height and style. Underneath, he built a vast network of sewers and water pipes, and he added parks across the city. So, why do it? The official reasons were health and circulation. Paris had suffered deadly cholera outbreaks, and the old neighborhoods were dark and poorly ventilated. The boulevards brought in light and air, and they connected the new railway stations so traffic could move. But there's another interpretation, and it dates from Haussmann's own time. Paris had a history of uprisings, and in 1830 and 1848, residents had blocked the narrow streets with barricades. Wide, straight boulevards are much harder to barricade, and they let troops move quickly. Some critics argued that this was the real purpose. Now, I'd be careful here. The two explanations aren't mutually exclusive, and the military motive rarely appears in official documents. What's less disputed is the social effect. Rents in the new buildings rose, and many working-class residents were pushed toward the edges of the city.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How Paris recovered from the uprisings of 1830 and 1848",
+          "Why Napoleon the Third chose Haussmann to lead the city",
+          "Competing explanations for a major rebuilding of Paris",
+          "How the sewers of Paris were designed and constructed"
+        ],
+        "answer": 2,
+        "explanation": "The professor describes Haussmann's rebuilding of Paris and weighs the health and military explanations for it."
+      },
+      {
+        "prompt": "According to the official explanation, why were the boulevards built?",
+        "options": [
+          "To give troops faster routes across the city",
+          "To make room for new government buildings",
+          "To improve health and the flow of traffic",
+          "To house workers near the railway stations"
+        ],
+        "answer": 2,
+        "explanation": "The professor says the official reasons were health and circulation."
+      },
+      {
+        "prompt": "Which effect of the project does the professor describe as less disputed?",
+        "options": [
+          "Many working-class residents were pushed outward.",
+          "The new boulevards put an end to the uprisings.",
+          "Cholera outbreaks in the city stopped at once.",
+          "Rents in the old medieval neighborhoods rose sharply."
+        ],
+        "answer": 0,
+        "explanation": "The professor says rents rose and many working-class residents were pushed toward the city's edges."
+      },
+      {
+        "prompt": "What is the professor's attitude toward the military interpretation?",
+        "options": [
+          "It is clearly the most convincing explanation offered.",
+          "It was invented long after Haussmann's own time.",
+          "It may be partly true but should be treated with care.",
+          "It is directly confirmed by official documents."
+        ],
+        "answer": 2,
+        "explanation": "She says the explanations aren't mutually exclusive but urges caution because the motive rarely appears in documents."
+      }
+    ]
+  },
+  {
+    "id": "at5-16",
+    "difficulty": "advanced",
+    "course": "design",
+    "intro": "Listen to a talk in a design class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "You've heard the phrase 'form follows function.' It's probably the most quoted slogan in modern design. Today I want to complicate it. The phrase comes from the American architect Louis Sullivan, in an essay he wrote in 1896 about tall office buildings. His point was that a building's form should express what goes on inside it. For an office tower, that meant a base for shops and entrances, a stack of identical office floors, and a distinct top. Now, here's the irony. Sullivan's own buildings are covered in rich, intricate ornament, swirling leaves and geometric patterns in terracotta. He didn't think function ruled out decoration at all. The slogan was later taken up by twentieth-century modernists who read it much more narrowly: if something isn't necessary for an object to work, remove it. That reading gave us the clean, unornamented look of much modern furniture and architecture, and it was reinforced by the Austrian architect Adolf Loos, whose essay 'Ornament and Crime' attacked decoration as wasteful. So which reading is right? Part of the problem is the word function. Is the function of a chair only to support a body? Or does it also signal comfort, status, or welcome? If you count those as functions, then ornament can be functional too. So the slogan doesn't settle the debate. It just moves it to the definition of one word.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How a famous design slogan has been read in different ways",
+          "Why Louis Sullivan opposed decoration in office buildings",
+          "How modernist furniture was designed for greater comfort",
+          "The history of terracotta ornament in American buildings"
+        ],
+        "answer": 0,
+        "explanation": "The professor traces 'form follows function' from Sullivan to the modernists and questions what function means."
+      },
+      {
+        "prompt": "According to the professor, what is ironic about Sullivan?",
+        "options": [
+          "His own buildings were richly decorated.",
+          "He never designed a tall office building.",
+          "He later rejected his own famous slogan.",
+          "He wrote an essay attacking ornament."
+        ],
+        "answer": 0,
+        "explanation": "The professor says Sullivan's buildings are covered in intricate ornament despite his famous slogan."
+      },
+      {
+        "prompt": "How did later modernist designers interpret the slogan?",
+        "options": [
+          "Buildings should express their owners' status.",
+          "Ornament should reveal what happens inside.",
+          "Decoration is what makes a building welcoming.",
+          "Features not needed for use should be removed."
+        ],
+        "answer": 3,
+        "explanation": "The professor says modernists read it as meaning anything unnecessary for an object to work should be removed."
+      },
+      {
+        "prompt": "What does the professor suggest about the word \"function\"?",
+        "options": [
+          "It should refer only to physical use and support.",
+          "The debate depends on how broadly it is defined.",
+          "Sullivan defined it more clearly than the modernists.",
+          "It has lost all meaning in modern architecture."
+        ],
+        "answer": 1,
+        "explanation": "He says that if comfort, status, or welcome count as functions, ornament can be functional, so the debate shifts to the definition."
+      }
+    ]
+  },
+  {
+    "id": "at5-17",
+    "difficulty": "advanced",
+    "course": "philosophy",
+    "intro": "Listen to a talk in a philosophy class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "In 1688, an Irish scientist named William Molyneux sent a puzzle to the philosopher John Locke. Imagine, he said, a man born blind, who has learned to tell a cube from a sphere by touch. Now suppose he suddenly gains his sight. Without touching them, could he tell by sight alone which is the cube and which is the sphere? So what's at stake? It's a question about where our ideas come from. If the answer is yes, there must be some shared idea of shape that connects touch and vision, perhaps something built into the mind. If the answer is no, the link between what we feel and what we see has to be learned through experience. Locke and Molyneux both answered no, which fit Locke's view that the mind begins as a blank slate. The philosopher Leibniz disagreed. He thought the man could work it out by reasoning, for instance by noticing that a sphere has no corners. For centuries, this remained a thought experiment. But in recent years, researchers have studied people born with treatable blindness who gained sight through surgery. Tested soon afterward, they generally could not match a shape they had touched with the same shape seen. But, and this is key, within days, many of them could. So the answer seems to be no, but the connection is learned remarkably fast.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "A debate over whether blindness can be cured by surgery",
+          "The friendship between Locke and an Irish scientist",
+          "The way young children learn to tell shapes apart",
+          "A puzzle about how touch and sight are connected"
+        ],
+        "answer": 3,
+        "explanation": "The professor presents Molyneux's problem and what it reveals about whether touch and vision are linked innately."
+      },
+      {
+        "prompt": "What did Leibniz believe?",
+        "options": [
+          "The man would first need to touch the objects.",
+          "The man could reason his way to the answer.",
+          "The mind begins life as a blank slate.",
+          "The question could never be tested."
+        ],
+        "answer": 1,
+        "explanation": "The professor says Leibniz thought the man could work it out by reasoning, such as noticing a sphere has no corners."
+      },
+      {
+        "prompt": "What did the recent studies find?",
+        "options": [
+          "Patients matched touched and seen shapes immediately.",
+          "Patients never learned to match the two kinds of shape.",
+          "Patients matched spheres more easily than cubes.",
+          "Patients failed to match shapes at first but soon could."
+        ],
+        "answer": 3,
+        "explanation": "The professor says patients could not match shapes soon after surgery, but within days many of them could."
+      },
+      {
+        "prompt": "What does the professor imply about the recent findings?",
+        "options": [
+          "They show that Leibniz was correct after all.",
+          "They support Locke's answer while adding a key detail.",
+          "They suggest that the original question was meaningless.",
+          "They contradict both Locke and Molyneux."
+        ],
+        "answer": 1,
+        "explanation": "The answer seems to be no, as Locke said, but the speed of learning adds something his view did not predict."
+      }
+    ]
+  },
+  {
+    "id": "at5-18",
+    "difficulty": "advanced",
+    "course": "ancient philosophy",
+    "intro": "Listen to a talk in an ancient philosophy class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Here's an argument that's about two and a half thousand years old, and it still bothers people. It comes from Zeno of Elea, a Greek philosopher. Achilles, the fastest runner in Greece, races a tortoise, and he gives the tortoise a head start. Now, to catch the tortoise, Achilles must first reach the point where the tortoise started. But by then, the tortoise has moved a little further ahead. So Achilles must reach that new point, and by the time he does, the tortoise has moved again. And so on, forever. There are infinitely many points Achilles must reach, so, Zeno concludes, he can never catch up. Obviously Achilles does catch the tortoise. So why bother? Zeno's aim was to defend his teacher Parmenides, who held that motion and change are illusions. If common sense about motion leads to absurdity, maybe common sense is wrong. Now, the standard modern reply comes from mathematics. An infinite series can have a finite sum. One half plus one quarter plus one eighth, and so on, adds up to exactly one. So infinitely many stages can fit into a finite amount of time. Case closed? Not for everyone. Some philosophers argue that the math tells us how long the race takes, but not how it's possible to actually complete an infinite number of separate steps, one after another. That second question is still debated.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "A Greek legend about a race between two animals",
+          "An ancient argument against motion and replies to it",
+          "The life and teachings of the philosopher Parmenides",
+          "How mathematicians first came to study infinity"
+        ],
+        "answer": 1,
+        "explanation": "The professor presents Zeno's Achilles paradox and the mathematical and philosophical responses to it."
+      },
+      {
+        "prompt": "Why did Zeno create the paradox?",
+        "options": [
+          "To support the view that motion is an illusion",
+          "To show that Achilles was not truly the fastest",
+          "To prove that infinite series have finite sums",
+          "To challenge the teachings of Parmenides"
+        ],
+        "answer": 0,
+        "explanation": "The professor says Zeno wanted to defend Parmenides' view that motion and change are illusions."
+      },
+      {
+        "prompt": "What does the mathematical reply show, according to the professor?",
+        "options": [
+          "Achilles never truly passes infinitely many points.",
+          "The tortoise eventually stops moving forward.",
+          "Common sense about motion is mistaken.",
+          "Infinitely many stages can take a finite time."
+        ],
+        "answer": 3,
+        "explanation": "The professor says an infinite series can have a finite sum, so infinitely many stages can fit in finite time."
+      },
+      {
+        "prompt": "What is the professor's view of the mathematical reply?",
+        "options": [
+          "It completely resolves the puzzle Zeno raised.",
+          "It misunderstands what Zeno was trying to prove.",
+          "It answers part of the puzzle but not all of it.",
+          "It was already known to Zeno and Parmenides."
+        ],
+        "answer": 2,
+        "explanation": "He notes that some philosophers think the math explains the race's duration but not how infinitely many steps are completed."
+      }
+    ]
+  },
+  {
+    "id": "at5-19",
+    "difficulty": "advanced",
+    "course": "classical literature",
+    "intro": "Listen to a talk in a classical literature class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "If you've read Homer's Iliad or Odyssey, you've probably noticed phrases that repeat over and over. Dawn is always 'rosy-fingered.' Achilles is 'swift-footed,' even when he's sitting still. For a long time, readers treated these as decorative touches, or even as signs of a careless poet. In the 1920s, a young American scholar named Milman Parry offered a different explanation. Homer's poems are composed in a strict meter, the dactylic hexameter. Parry showed that these descriptive phrases, called epithets, form a system: for each major character, there's typically one ready-made phrase to fit each position in the line. In other words, the poet chose the phrase that fit the meter, not the one that best suited the scene. Why would a poet work this way? Parry's answer was that the poems came out of an oral tradition, where singers composed while performing, and formulas made that possible. To test the idea, Parry and his assistant, Albert Lord, went to Yugoslavia in the 1930s and recorded singers who couldn't read or write but could perform epic songs thousands of lines long, built from formulas in exactly this way. Now, this raised a hard question. If Homer was an oral poet, how did we get poems as long and carefully structured as the Iliad? Some scholars think a singer dictated them to a scribe. Others believe writing itself shaped their final form.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The reasons Homer chose the names of his characters",
+          "Evidence that Homer's poems came from oral tradition",
+          "How Homer's poems were translated into modern languages",
+          "The life of a scholar who studied singers in Yugoslavia"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains Parry's argument that Homer's repeated epithets reflect oral composition."
+      },
+      {
+        "prompt": "According to Parry, why did Homer use a particular epithet?",
+        "options": [
+          "It fit the meter at that point in the line.",
+          "It described what the character was doing.",
+          "It added variety to a very long poem.",
+          "It was the phrase most familiar to readers."
+        ],
+        "answer": 0,
+        "explanation": "The professor says the poet chose the phrase that fit the meter, not the one that best suited the scene."
+      },
+      {
+        "prompt": "What did Parry and Lord find in Yugoslavia?",
+        "options": [
+          "Old written copies of ancient Greek epic poems",
+          "Singers who composed long songs using formulas",
+          "Singers who memorized songs from printed texts",
+          "Poets who avoided the use of repeated phrases"
+        ],
+        "answer": 1,
+        "explanation": "The professor says they recorded nonliterate singers performing songs thousands of lines long, built from formulas."
+      },
+      {
+        "prompt": "Why does the professor mention that Achilles is called \"swift-footed\" even when sitting still?",
+        "options": [
+          "To point out an error made by Homer's translators",
+          "To show that Achilles was known mainly as a runner",
+          "To show that the phrase is not chosen for the scene",
+          "To support the view that Homer was a careless poet"
+        ],
+        "answer": 2,
+        "explanation": "The mismatch illustrates that epithets were chosen for meter rather than for the situation described."
+      }
+    ]
+  },
+  {
+    "id": "at5-20",
+    "difficulty": "advanced",
+    "course": "cognitive psychology",
+    "intro": "Listen to a talk in a cognitive psychology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "How many items can you hold in mind at once? In 1956, the psychologist George Miller wrote a famous paper with a playful title about 'the magical number seven, plus or minus two.' He noticed that across many tasks, people could keep about seven items in short-term memory. But Miller's more lasting contribution was a second idea: chunking. A chunk is a meaningful unit of information, and the key is that the limit applies to chunks, not to raw pieces. Here's an example. Try remembering these twelve digits: one, four, nine, two, one, seven, seven, six, one, nine, six, nine. Hard, right? But if you recognize them as three famous years, 1492, 1776, and 1969, it's just three chunks. Same information, much less load. Chunking also helps explain expertise. In classic studies of chess, masters shown a board from a real game for a few seconds could reconstruct it almost perfectly, while beginners recalled only a handful of pieces. But when the pieces were placed randomly, the masters' advantage mostly disappeared. So the masters didn't have better memories in general. They saw familiar patterns as single chunks. Now, about that number seven. Later researchers argued that when people can't rehearse or group items, the true capacity is lower, perhaps around four chunks. So seven may have been an overestimate, but the principle of chunking has held up very well.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why chess masters have better memories than beginners",
+          "How psychologists measure memory for numbers and dates",
+          "The reasons people forget information over time",
+          "How grouping information helps short-term memory"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains chunking and how it lets people hold more information in short-term memory."
+      },
+      {
+        "prompt": "What happened when the chess pieces were placed randomly?",
+        "options": [
+          "Masters needed far more time than usual to study the board.",
+          "Masters recalled them about as poorly as beginners.",
+          "Beginners recalled more pieces than masters did.",
+          "Masters could still rebuild most of the board."
+        ],
+        "answer": 1,
+        "explanation": "The professor says the masters' advantage mostly disappeared with random positions."
+      },
+      {
+        "prompt": "What did later researchers suggest about Miller's number?",
+        "options": [
+          "The real capacity may be closer to four chunks.",
+          "Short-term memory can hold far more than seven.",
+          "The number applies to digits but not to words.",
+          "Chunking does not really increase capacity."
+        ],
+        "answer": 0,
+        "explanation": "The professor says later researchers argued the true capacity is lower, perhaps around four chunks."
+      },
+      {
+        "prompt": "Why does the professor read a series of twelve digits?",
+        "options": [
+          "To find out which students have the best memory",
+          "To show that people can recall about seven items",
+          "To show how meaning reduces the load on memory",
+          "To introduce a study of how experts memorize dates"
+        ],
+        "answer": 2,
+        "explanation": "Recognizing the digits as three famous years turns twelve items into three chunks."
+      }
+    ]
+  },
+  {
+    "id": "at5-21",
+    "difficulty": "advanced",
+    "course": "social psychology",
+    "intro": "Listen to a talk in a social psychology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Imagine someone cuts in front of you in traffic. What's your first thought? Probably something like, 'What a rude driver.' You probably don't think, 'Maybe they're rushing to the hospital.' That tendency has a name: the fundamental attribution error. It's our habit of explaining other people's behavior by their personality while underestimating the power of the situation. One classic demonstration comes from the 1960s. Participants read essays that either supported or opposed a particular political position. Some were told the writer had freely chosen which side to argue. Others were told the writer had been assigned a side, with no choice at all. Now, logically, an assigned essay tells you nothing about the writer's real opinion. Yet participants still judged that the writer believed what they'd written. They knew about the situation, but they didn't adjust enough for it. Why does this happen? One explanation is about attention: the person is vivid and in front of us, while the situation fades into the background. Now, here's the debate. The word fundamental suggests something universal. But cross-cultural research has found that people raised in some East Asian societies tend to pay more attention to context, and in some studies they show the bias less strongly. So some researchers argue it's not really fundamental, but partly shaped by culture. Others reply that the bias appears everywhere; it's just a matter of degree.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why drivers tend to behave rudely in heavy traffic",
+          "A bias in how people explain the behavior of others",
+          "How people in different cultures write persuasive essays",
+          "The reasons people change their opinions after reading"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains the fundamental attribution error and the debate over whether it is universal."
+      },
+      {
+        "prompt": "What did participants in the essay study conclude?",
+        "options": [
+          "Even assigned writers believed what they wrote.",
+          "Assigned writers produced weaker essays overall.",
+          "Writers who chose freely were more persuasive.",
+          "The writers' real opinions could not be known."
+        ],
+        "answer": 0,
+        "explanation": "The professor says participants still judged that writers believed their essays, even when the side was assigned."
+      },
+      {
+        "prompt": "According to one explanation, why does the error occur?",
+        "options": [
+          "People lack information about the situation.",
+          "People judge others more harshly than themselves.",
+          "People notice the person more than the situation.",
+          "People are taught to focus on personality."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the person is vivid while the situation fades into the background."
+      },
+      {
+        "prompt": "Why do some researchers question the word \"fundamental\"?",
+        "options": [
+          "The bias has been found only in essay studies.",
+          "The bias disappears when people are warned.",
+          "The bias appears to vary across cultures.",
+          "The bias is strongest in East Asian societies."
+        ],
+        "answer": 2,
+        "explanation": "The professor says cross-cultural research shows the bias is weaker in some societies, suggesting it is partly cultural."
+      }
+    ]
+  },
+  {
+    "id": "at5-22",
+    "difficulty": "intermediate",
+    "course": "social psychology",
+    "intro": "Listen to a talk in a social psychology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Have you ever bought something expensive and then found yourself reading lots of good reviews about it, after you'd already bought it? That's a clue to today's topic: cognitive dissonance. The term comes from the psychologist Leon Festinger in the 1950s. Dissonance is the uncomfortable tension we feel when we hold two ideas that don't fit together, or when our actions don't match our beliefs. And because it's uncomfortable, we're motivated to reduce it, often by changing a belief. The classic experiment was published in 1959. Students spent an hour doing extremely boring tasks, like turning wooden pegs a quarter turn, again and again. Then they were asked to tell the next participant that the task was fun and interesting. Some were paid one dollar for telling this lie, and others were paid twenty dollars. Afterward, everyone rated how enjoyable the task really was. So, who do you think rated it higher? Most people guess the twenty-dollar group. But it was the one-dollar group. Why? The twenty-dollar students had a good reason for lying: the money. Little dissonance. The one-dollar students didn't. One dollar isn't much of a reason to lie. So, to make sense of what they'd done, they shifted their belief: maybe the task wasn't so bad after all. That's the opposite of what a simple reward theory would predict. More reward produced less change in attitude.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How people change beliefs to fit their own actions",
+          "Why shoppers read online reviews before buying products",
+          "How payment improves performance on boring tasks",
+          "Why students dislike repetitive laboratory tasks"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains cognitive dissonance and the classic experiment showing people adjust beliefs to match behavior."
+      },
+      {
+        "prompt": "According to the professor, what is cognitive dissonance?",
+        "options": [
+          "A tendency to keep repeating boring tasks",
+          "Discomfort caused by holding conflicting ideas",
+          "A belief that larger rewards always change behavior",
+          "Satisfaction from making a good purchase"
+        ],
+        "answer": 1,
+        "explanation": "The professor defines dissonance as the uncomfortable tension of holding ideas that don't fit together."
+      },
+      {
+        "prompt": "What did students in the one-dollar group do?",
+        "options": [
+          "They refused to lie to the next person.",
+          "They asked to be paid twenty dollars.",
+          "They rated the task as more enjoyable.",
+          "They rated the task as more boring."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the one-dollar group rated the task higher than the twenty-dollar group."
+      },
+      {
+        "prompt": "Why does the professor mention reading reviews after a purchase?",
+        "options": [
+          "To show that reviews influence what people buy",
+          "To describe the procedure of the famous 1959 experiment",
+          "To argue that expensive purchases lead to regret",
+          "To introduce the idea through a familiar experience"
+        ],
+        "answer": 3,
+        "explanation": "He uses the familiar experience as a clue to the topic before defining cognitive dissonance."
+      }
+    ]
+  },
+  {
+    "id": "at5-23",
+    "difficulty": "advanced",
+    "course": "developmental psychology",
+    "intro": "Listen to a talk in a developmental psychology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "If you hide a toy under a blanket in front of a six-month-old baby, the baby usually won't search for it. It's as if the toy has stopped existing. The Swiss psychologist Jean Piaget saw this as evidence that young infants lack object permanence, the understanding that things continue to exist when we can't see them. In his view, it isn't firmly in place until around the end of the first year. Now, notice what Piaget's test requires. To pass it, the baby has to plan an action: reach out, lift the blanket, grab the toy. What if babies understand more than they can show with their hands? Starting in the 1980s, researchers used a different method, called violation of expectation. The idea is simple: babies look longer at events that surprise them. In one well-known study, babies watched a screen rotate back toward a box that should have stopped it. In the impossible version, the screen seemed to pass right through the box. Babies as young as four or five months looked longer at the impossible event, which suggests they expected the hidden box to still be there. But here's the debate. Critics argue that longer looking doesn't necessarily mean surprise based on understanding. Babies might simply be reacting to something new. So the question becomes: how much can we read into a baby's gaze?",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Ways to study what infants know about hidden objects",
+          "How babies learn to reach for the objects they can see",
+          "Why Piaget's theory of development has been abandoned",
+          "How long babies look at toys that they find appealing"
+        ],
+        "answer": 0,
+        "explanation": "The professor contrasts Piaget's search test with looking-time studies of object permanence."
+      },
+      {
+        "prompt": "What is a limitation of Piaget's test, according to the professor?",
+        "options": [
+          "It uses objects that do not interest babies.",
+          "It requires babies to plan a physical action.",
+          "It works only with babies over a year old.",
+          "It depends on how long babies look at events."
+        ],
+        "answer": 1,
+        "explanation": "The professor notes that passing the test requires reaching, lifting the blanket, and grabbing the toy."
+      },
+      {
+        "prompt": "What did infants do in the violation-of-expectation study?",
+        "options": [
+          "They reached for the box after the screen had stopped.",
+          "They looked longer at the impossible event.",
+          "They looked away as soon as the box was hidden.",
+          "They pushed the screen aside to find the box."
+        ],
+        "answer": 1,
+        "explanation": "The professor says babies looked longer at the impossible event in which the screen seemed to pass through the box."
+      },
+      {
+        "prompt": "What can be inferred about the critics' position?",
+        "options": [
+          "Piaget's original test is the more accurate one.",
+          "Babies cannot tell new events from familiar ones.",
+          "Babies understand more than researchers claim.",
+          "Looking times alone may not prove understanding."
+        ],
+        "answer": 3,
+        "explanation": "Critics argue longer looking may reflect perceptual novelty rather than understanding."
+      }
+    ]
+  },
+  {
+    "id": "at5-24",
+    "difficulty": "intermediate",
+    "course": "child development",
+    "intro": "Listen to a talk in a child development class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Today we're looking at one of the most widely used procedures in developmental psychology. It's called the Strange Situation, and it was designed by Mary Ainsworth in the 1970s to study attachment, the emotional bond between an infant and a caregiver. So, how does it work? A parent and a baby, usually about a year old, come into an unfamiliar room with toys. Over about twenty minutes, a series of short episodes takes place. A stranger enters. The parent leaves the baby with the stranger for a few minutes, then returns. Later the baby is left completely alone, briefly. Now, you might think the key moment is when the parent leaves. But Ainsworth focused on the reunion, what the baby does when the parent comes back. Securely attached babies may cry when the parent leaves, but when the parent returns, they seek comfort, calm down fairly quickly, and go back to playing. Avoidant babies tend to ignore the parent on return, as if they didn't care. And resistant babies seek contact but also push away, staying upset and hard to soothe. Later researchers added a fourth category for behavior that seemed confused or contradictory. One caution, though. In cultures where babies are rarely separated from their mothers, or rarely left with strangers, the same procedure may be far more stressful, so the results have to be interpreted carefully.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why infants become upset when left with strangers",
+          "How parents can help their babies adjust to unfamiliar places",
+          "A procedure for studying infants' bonds with caregivers",
+          "How babies raised in different cultures differ"
+        ],
+        "answer": 2,
+        "explanation": "The professor describes the Strange Situation and the attachment patterns it identifies."
+      },
+      {
+        "prompt": "According to the professor, which part of the procedure did Ainsworth focus on?",
+        "options": [
+          "The baby's reaction when the stranger enters",
+          "The baby's play with the toys in the room",
+          "The baby's behavior while it is left alone",
+          "The baby's behavior when the parent returns"
+        ],
+        "answer": 3,
+        "explanation": "The professor says Ainsworth focused on the reunion, when the parent comes back."
+      },
+      {
+        "prompt": "How do avoidant babies behave, according to the professor?",
+        "options": [
+          "They cry loudly until they are picked up.",
+          "They seek contact but push the parent away.",
+          "They calm down quickly and resume play.",
+          "They seem to ignore the parent on return."
+        ],
+        "answer": 3,
+        "explanation": "The professor says avoidant babies tend to ignore the parent on return."
+      },
+      {
+        "prompt": "Why does the professor mention cultures where babies are rarely separated from their mothers?",
+        "options": [
+          "To explain why a fourth category was added later on",
+          "To show that secure attachment is rare in those cultures",
+          "To warn that results may mean different things there",
+          "To argue that the procedure should no longer be used"
+        ],
+        "answer": 2,
+        "explanation": "He says the procedure may be far more stressful in such cultures, so results must be interpreted carefully."
+      }
+    ]
+  },
+  {
+    "id": "at5-25",
+    "difficulty": "intermediate",
+    "course": "sociology",
+    "intro": "Listen to a talk in a sociology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "In 1928, the sociologist W. I. Thomas made an observation that's become a basic idea in sociology: if people define situations as real, they are real in their consequences. In other words, what people believe about a situation shapes how they act, whether or not the belief is accurate. Twenty years later, another sociologist, Robert Merton, built on this with a concept he called the self-fulfilling prophecy. That's a false belief that leads to behavior that makes the belief come true. Merton's best-known example was a bank. Imagine a bank that's perfectly healthy. It has enough assets, and it's well managed. But a rumor starts that it's about to fail. What happens? Depositors rush to take out their money, and since no bank keeps all its deposits on hand as cash, the bank really does run out. The prophecy produced the very failure it predicted. Now, Merton stressed that the original belief was false. That's what makes it self-fulfilling, rather than just an accurate prediction. Researchers have since looked for the same pattern in classrooms. A famous study in the 1960s reported that when teachers were told certain students were about to bloom academically, those students later showed greater gains. Later work, though, suggests that teacher expectations do matter, but their effects are usually smaller than that first study claimed.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How a mistaken belief can bring about its own outcome",
+          "Why banks keep only part of their deposits in cash",
+          "How teachers decide which students will do well",
+          "Why rumors about banks tend to spread quickly in communities"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains the self-fulfilling prophecy, using a bank run and classroom research as examples."
+      },
+      {
+        "prompt": "Why did the bank in Merton's example fail?",
+        "options": [
+          "Depositors acted on a false rumor.",
+          "Its managers made poor decisions.",
+          "It had too few assets from the start.",
+          "It refused to return the deposits."
+        ],
+        "answer": 0,
+        "explanation": "The professor says a rumor made depositors withdraw their money from a healthy bank until it ran out."
+      },
+      {
+        "prompt": "What does the professor say about later research on teacher expectations?",
+        "options": [
+          "It found no effect of teacher expectations at all.",
+          "It found larger effects among older students.",
+          "It found smaller effects than the first study did.",
+          "It found effects only when students were told."
+        ],
+        "answer": 2,
+        "explanation": "The professor says expectations do matter but their effects are usually smaller than first claimed."
+      },
+      {
+        "prompt": "Why does the professor stress that the original belief was false?",
+        "options": [
+          "To show that the bank was actually poorly managed",
+          "To distinguish the concept from an accurate prediction",
+          "To suggest that most rumors turn out to be untrue",
+          "To argue that Merton misunderstood Thomas's original idea"
+        ],
+        "answer": 1,
+        "explanation": "She says the falseness of the belief is what makes it self-fulfilling rather than just accurate."
+      }
+    ]
+  },
+  {
+    "id": "at5-26",
+    "difficulty": "advanced",
+    "course": "sociology",
+    "intro": "Listen to a talk in a sociology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "When you hear the word bureaucracy, you probably think of long lines, endless forms, and offices where nobody will help you. But for the German sociologist Max Weber, writing in the early twentieth century, bureaucracy was something more interesting. He saw it as the most efficient form of organization humans had devised. So what is a bureaucracy, in Weber's sense? It has a clear hierarchy, with each office reporting to the one above. Tasks are divided among specialists. Decisions follow written rules and are recorded in files. And officials are hired for their qualifications, not because they're someone's relative or friend. Notice that last point. Compared with older systems, where positions were handed out through personal loyalty, bureaucracy was in a sense fairer. Everyone is treated by the same rules, impersonally. That predictability is what made it so powerful. Yet Weber was deeply uneasy about it. As rational rules spread through government, business, and everyday life, he feared that people would become trapped in systems they couldn't escape, valued only for their function. His image for this is usually translated into English as the iron cage. Actually, the German phrase is closer to 'a shell as hard as steel,' which suggests something we come to wear, not just something around us. So Weber's view was neither simply for nor against bureaucracy. Its strengths and dangers came from the same source.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The reasons modern offices create long lines",
+          "A sociologist's mixed assessment of bureaucracy",
+          "How bureaucracies assign tasks to specialists",
+          "A comparison of German and English governments"
+        ],
+        "answer": 1,
+        "explanation": "The professor presents Weber's view of bureaucracy as both efficient and fair and potentially confining."
+      },
+      {
+        "prompt": "Why did Weber see bureaucracy as fairer than older systems?",
+        "options": [
+          "Officials were free to make their own rules.",
+          "Positions did not depend on personal loyalty.",
+          "Every official held the same rank and duties.",
+          "Citizens voted to choose most of the officials."
+        ],
+        "answer": 1,
+        "explanation": "The professor says officials were hired for qualifications rather than through personal loyalty."
+      },
+      {
+        "prompt": "What does the professor say about the phrase \"iron cage\"?",
+        "options": [
+          "It was Weber's term for older systems of loyalty.",
+          "It describes the chain of offices in a hierarchy.",
+          "It was coined by Weber's later critics to mock his ideas.",
+          "It is a translation that differs from Weber's wording."
+        ],
+        "answer": 3,
+        "explanation": "The professor says the German phrase is closer to 'a shell as hard as steel.'"
+      },
+      {
+        "prompt": "What does the professor imply about Weber's view of bureaucracy?",
+        "options": [
+          "Bureaucracy would eventually give way to older systems.",
+          "Weber preferred loyalty-based systems overall.",
+          "Weber's concerns applied only to government.",
+          "Its efficiency and its dangers were closely linked."
+        ],
+        "answer": 3,
+        "explanation": "He says bureaucracy's strengths and dangers came from the same source."
+      }
+    ]
+  },
+  {
+    "id": "at5-27",
+    "difficulty": "advanced",
+    "course": "economics",
+    "intro": "Listen to a talk in an economics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "In 1968, the ecologist Garrett Hardin published an essay called 'The Tragedy of the Commons,' and it became one of the most cited arguments in the social sciences. Here's his scenario. Imagine a pasture open to all herders. Each herder thinks: if I add one more cow, I get all the benefit of that cow, but the cost, a little less grass, is shared by everyone. So it's rational for each herder to add another cow, and another. The result, Hardin argued, is that the pasture is overgrazed and ruined. Individual rationality leads to collective disaster. His solutions were essentially two: divide the land into private property, or have the government regulate its use. Now, the political economist Elinor Ostrom challenged this. She studied real communities that had managed shared resources for generations: alpine meadows in Switzerland, forests in Japan, irrigation systems in Spain. These weren't free-for-alls. Users had clear rules about who could use the resource, they made those rules themselves, they monitored one another, and they used gradually increasing penalties for rule breakers. Ostrom won the Nobel Prize in economics in 2009 for this work. So was Hardin wrong? Not exactly. His model describes what happens with truly open access, where anyone can take and nobody coordinates. What Ostrom showed is that real commons are often not like that. The tragedy is possible, but not inevitable.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Whether shared resources are bound to be overused",
+          "How private property grew out of shared pastures",
+          "Why Swiss herders kept more cows than they needed",
+          "How governments regulate irrigation in Spain"
+        ],
+        "answer": 0,
+        "explanation": "The professor presents Hardin's tragedy of the commons and Ostrom's evidence that commons can be managed."
+      },
+      {
+        "prompt": "According to Hardin, why does each herder keep adding cows?",
+        "options": [
+          "The herder fears that the land will soon be divided.",
+          "The herder is required to by the community's rules.",
+          "The herder gains the benefit while the cost is shared.",
+          "The herder wants to use up the grass before the others can."
+        ],
+        "answer": 2,
+        "explanation": "The professor says each herder gets all the benefit of a cow while the cost is shared by everyone."
+      },
+      {
+        "prompt": "Which feature of successfully managed commons does the professor mention?",
+        "options": [
+          "Users sold shares to outsiders.",
+          "The government set all the rules.",
+          "The land was split into private plots.",
+          "Users monitored one another."
+        ],
+        "answer": 3,
+        "explanation": "The professor lists monitoring one another among the practices of communities Ostrom studied."
+      },
+      {
+        "prompt": "What is the professor's view of Hardin's model?",
+        "options": [
+          "It was disproved entirely by Ostrom's research.",
+          "It explains why Ostrom's communities failed.",
+          "It applies only to forests and irrigation.",
+          "It fits open access but not many real commons."
+        ],
+        "answer": 3,
+        "explanation": "She says Hardin's model describes truly open access, while real commons often have rules and coordination."
+      }
+    ]
+  },
+  {
+    "id": "at5-28",
+    "difficulty": "intermediate",
+    "course": "economics",
+    "intro": "Listen to a talk in an economics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Okay, here's a puzzle. Suppose one country can produce everything more efficiently than another country. Should it bother to trade with that country at all? It seems like the answer should be no. But in 1817, the economist David Ricardo showed why the answer is actually yes. His example used England and Portugal, and two goods, cloth and wine. In his numbers, Portugal could make both with less labor than England. Economists say Portugal had an absolute advantage in both. But Portugal's advantage was much bigger in wine than in cloth. So, Ricardo argued, Portugal should specialize in wine, England in cloth, and they should trade. Both countries end up with more of both goods. The key concept here is comparative advantage, which is about opportunity cost, what you give up to produce something. Every hour Portuguese workers spent making cloth was an hour not spent making wine, where they were especially productive. Here's an everyday version. Imagine a lawyer who types faster than her assistant. Should she do her own typing? Probably not, because every hour spent typing is an hour not spent practicing law, which earns far more. Now, the model has limits. It assumes workers can easily move from one industry to another. In reality, workers in a shrinking industry may struggle to find new jobs. So the gains are real, but they aren't shared evenly.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why England was able to produce more cloth than Portugal",
+          "How lawyers and their assistants should divide their work",
+          "Why countries should try to produce all of the goods they need",
+          "Why trade can benefit a country that is better at everything"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains Ricardo's idea of comparative advantage and why it makes trade beneficial."
+      },
+      {
+        "prompt": "According to the professor, what is comparative advantage based on?",
+        "options": [
+          "The total labor a country has available",
+          "The prices that goods sell for abroad",
+          "Which goods take the least labor to make",
+          "What is given up to produce something"
+        ],
+        "answer": 3,
+        "explanation": "The professor says comparative advantage is about opportunity cost, what you give up to produce something."
+      },
+      {
+        "prompt": "What limitation of the model does the professor mention?",
+        "options": [
+          "It ignores the cost of shipping goods overseas.",
+          "It applies only to trade between two countries.",
+          "It assumes workers can easily change industries.",
+          "It assumes all countries are equally efficient."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the model assumes workers can easily move from one industry to another."
+      },
+      {
+        "prompt": "Why does the professor mention a lawyer and her assistant?",
+        "options": [
+          "To show that faster workers should do every task",
+          "To argue that typing is a valuable skill for lawyers",
+          "To explain how wages are set in different kinds of industries",
+          "To illustrate the same principle in an everyday setting"
+        ],
+        "answer": 3,
+        "explanation": "The lawyer example applies opportunity cost to an everyday division of work."
+      }
+    ]
+  },
+  {
+    "id": "at5-29",
+    "difficulty": "advanced",
+    "course": "economic history",
+    "intro": "Listen to a talk in an economic history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "There's an old economic principle usually summarized as 'bad money drives out good.' It's called Gresham's law, after Thomas Gresham, a sixteenth-century English financial agent, although the idea is older. What does it mean? Imagine two coins with the same official value, but one contains more silver than the other. Which one would you spend? The one with less silver, of course. You'd keep the better coin, or even melt it down, because the metal inside is worth more than the coin's face value. If everyone does this, the good coins vanish, and only the bad ones change hands. There's a well-known modern case. In 1965, the United States stopped putting silver in its dimes and quarters. Within a few years, the old silver coins had largely disappeared from everyday use, as people set them aside. Now, here's the important condition, and it's easy to miss. Gresham's law works because the law requires people to accept both coins at the same value. A shopkeeper can't say, 'I'll take your old silver quarter, but not that new one.' When that condition breaks down, the effect can reverse. During periods of very high inflation, sellers often refuse the weak local currency and demand a more stable foreign one. In that case, good money drives out bad. So whether bad money wins depends on the rules, not just on the money.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why the United States stopped making silver coins",
+          "How governments decide the official value of their coins",
+          "When people spend weaker money and keep better money",
+          "The career of a sixteenth-century English agent"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains Gresham's law and the condition under which it holds or reverses."
+      },
+      {
+        "prompt": "Why did people keep the coins that contained more silver?",
+        "options": [
+          "Shopkeepers had stopped accepting them for purchases.",
+          "They were needed to pay taxes to the government.",
+          "Their official value was expected to rise soon.",
+          "Their metal was worth more than their face value."
+        ],
+        "answer": 3,
+        "explanation": "The professor says the metal inside was worth more than the coin's face value."
+      },
+      {
+        "prompt": "What happened in the United States after 1965?",
+        "options": [
+          "Older silver coins soon disappeared from daily use.",
+          "Shopkeepers refused to accept the new coins.",
+          "The government recalled all the older coins.",
+          "The new coins were quickly melted down for their metal."
+        ],
+        "answer": 0,
+        "explanation": "The professor says the old silver coins largely disappeared as people set them aside."
+      },
+      {
+        "prompt": "What can be inferred about periods of very high inflation?",
+        "options": [
+          "People prefer to spend the stronger foreign currency.",
+          "Governments require people to use foreign money.",
+          "Sellers are not forced to accept every form of money.",
+          "Gresham's law applies more strongly than usual."
+        ],
+        "answer": 2,
+        "explanation": "Because sellers can refuse the weak currency, the legal condition behind Gresham's law no longer holds."
+      }
+    ]
+  },
+  {
+    "id": "at5-30",
+    "difficulty": "advanced",
+    "course": "management",
+    "intro": "Listen to a talk in a management class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Today's topic is a man whose ideas still shape how work is organized, even if most workers have never heard of him: Frederick Winslow Taylor. In 1911, Taylor published The Principles of Scientific Management. His argument was that most work was done inefficiently, by rule of thumb, and that it could be improved through careful measurement. So, what did that look like? Taylor and his assistants used stopwatches to time each part of a job, broke tasks into their smallest motions, and searched for what he called the one best way to do them. Workers were then trained in that method, and often paid by the piece to encourage output. His most famous example involved workers loading heavy iron bars onto railroad cars. Taylor claimed that with the right method and rest breaks, one worker raised his daily load from about twelve and a half tons to forty-seven. Historians have questioned that story. But the bigger debate is about what the system did to work itself. Taylor separated the planning of work, done by managers, from the doing of it, done by workers. Supporters saw this as a major gain in productivity. Critics argued that it stripped workers of skill and judgment, turning them into parts of a machine. There were strikes against these methods, and even government hearings. Yet look at a modern warehouse. Taylor's influence is everywhere.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "A way of organizing work and the debate it created",
+          "The history of strikes in early twentieth-century factories",
+          "How managers trained workers to use stopwatches",
+          "Why paying by the piece increased workers' wages"
+        ],
+        "answer": 0,
+        "explanation": "The professor describes Taylor's scientific management and the arguments for and against it."
+      },
+      {
+        "prompt": "What was the \"one best way\"?",
+        "options": [
+          "A rule of thumb passed down among workers",
+          "A method for a task found by careful timing",
+          "A way of paying workers for each piece made",
+          "A plan for giving workers longer rest breaks"
+        ],
+        "answer": 1,
+        "explanation": "The professor says Taylor timed each part of a job to find the one best way to do it."
+      },
+      {
+        "prompt": "According to critics, what was the effect of separating planning from doing?",
+        "options": [
+          "Managers lost control over daily production.",
+          "Workers gained a larger role in decisions.",
+          "Productivity fell in most of the factories.",
+          "Workers lost skill and the use of judgment."
+        ],
+        "answer": 3,
+        "explanation": "The professor says critics argued the system stripped workers of skill and judgment."
+      },
+      {
+        "prompt": "Why does the professor mention a modern warehouse?",
+        "options": [
+          "To give an example of a workplace without strikes",
+          "To argue that Taylor's critics have been proven wrong",
+          "To compare modern pay with Taylor's piece rates",
+          "To show that Taylor's ideas are still influential"
+        ],
+        "answer": 3,
+        "explanation": "He points to the warehouse as evidence that Taylor's influence is everywhere today."
+      }
+    ]
+  },
+  {
+    "id": "at5-31",
+    "difficulty": "intermediate",
+    "course": "marketing",
+    "intro": "Listen to a talk in a marketing class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Why do so many prices end in ninety-nine? Two ninety-nine instead of three dollars, nineteen ninety-nine instead of twenty. One cent can't possibly matter, right? Well, research suggests it does. The practice is often called charm pricing, and one explanation for it is the left-digit effect. We read numbers from left to right, and we tend to give the first digit a lot of weight. So when we see two ninety-nine, our first impression is 'two dollars and something,' and that impression sticks, even though the price is almost exactly three dollars. The effect seems strongest when we're making quick decisions, like scanning store shelves. In one field experiment, a clothing catalog offered the same dress at different prices in different versions. Surprisingly, the dress sold more at thirty-nine dollars than at thirty-four. A price ending in nine seemed to signal a bargain. Now, you may have heard a different story about where this practice came from: that odd prices forced cashiers to open the register to make change, which made it harder to pocket the money. It's a nice story, but there's little evidence for it. And here's an exception. Sellers of luxury goods often avoid nines altogether. They use round numbers, because a price ending in nine can make a product look discounted, and that's the last thing an expensive product wants to suggest.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How stores decide which products to discount",
+          "Why cashiers once made change for every sale",
+          "How luxury products are advertised to wealthy buyers",
+          "Why prices ending in nine can influence shoppers"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains charm pricing and the left-digit effect, along with an exception for luxury goods."
+      },
+      {
+        "prompt": "What is the left-digit effect?",
+        "options": [
+          "Reading prices from right to left when shopping quickly",
+          "Giving extra weight to the first digit of a price",
+          "Rounding every price up to the nearest dollar",
+          "Preferring prices that end in round numbers"
+        ],
+        "answer": 1,
+        "explanation": "The professor says we read left to right and give the first digit a lot of weight."
+      },
+      {
+        "prompt": "What happened in the catalog experiment?",
+        "options": [
+          "A dress sold better at a lower, rounder price.",
+          "A dress sold better at a higher price ending in nine.",
+          "Sales of the dress were the same at both prices.",
+          "Shoppers mostly chose the version with the lowest price."
+        ],
+        "answer": 1,
+        "explanation": "The professor says the dress sold more at thirty-nine dollars than at thirty-four."
+      },
+      {
+        "prompt": "What is the professor's attitude toward the story about cashiers?",
+        "options": [
+          "She believes it explains the practice better than research.",
+          "She considers it relevant only to luxury goods.",
+          "She doubts it because there is little evidence for it.",
+          "She thinks it was confirmed by a field experiment."
+        ],
+        "answer": 2,
+        "explanation": "She calls it a nice story but says there is little evidence for it."
+      }
+    ]
+  },
+  {
+    "id": "at5-32",
+    "difficulty": "advanced",
+    "course": "political science",
+    "intro": "Listen to a talk in a political science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Why do some countries have two dominant political parties while others have five or six? One influential answer comes from the French political scientist Maurice Duverger. In the 1950s, he argued that election rules shape the party system. His most famous claim, now called Duverger's law, says that plurality voting in single-member districts tends to produce two-party systems. Plurality just means the candidate with the most votes wins, even without a majority. Duverger identified two forces. The first is mechanical: in a winner-take-all district, a party that comes third everywhere can win a decent share of the national vote but almost no seats. The second is psychological: voters anticipate this, and rather than waste their vote on a party that can't win, they shift to one of the two front-runners. By contrast, proportional representation, where seats are divided according to vote share, lets smaller parties survive, and it tends to produce many parties. Now, is it really a law? There are well-known exceptions. Some countries with plurality voting have several significant parties. The usual explanation is geography. Duverger's logic works within each district, so a party that's weak nationally but strong in one region can still win seats there, and survive. So most political scientists today treat Duverger's law less as a law than as a strong tendency, one that depends on how votes are distributed.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why French voters have supported smaller parties",
+          "How proportional systems divide seats by region",
+          "How election rules can shape the number of parties",
+          "Why most countries have exactly two major parties"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains Duverger's law linking plurality voting to two-party systems, and its exceptions."
+      },
+      {
+        "prompt": "What is the psychological force that Duverger described?",
+        "options": [
+          "Voters favor the party that runs their region.",
+          "Parties copy the policies of the front-runners.",
+          "Voters avoid parties they expect to lose.",
+          "Small parties win seats in line with their votes."
+        ],
+        "answer": 2,
+        "explanation": "The professor says voters shift to front-runners rather than waste votes on parties that can't win."
+      },
+      {
+        "prompt": "According to the professor, how do some plurality systems keep several parties?",
+        "options": [
+          "Some parties are concentrated in particular regions.",
+          "Their voters do not worry about wasting their votes.",
+          "They divide seats according to national vote share.",
+          "Their districts each elect several representatives."
+        ],
+        "answer": 0,
+        "explanation": "The professor says a party strong in one region can still win seats there and survive."
+      },
+      {
+        "prompt": "What is the professor's view of calling Duverger's idea a \"law\"?",
+        "options": [
+          "It overstates what is really a strong tendency.",
+          "It accurately describes every plurality system.",
+          "It fits proportional systems better than others.",
+          "It was a name Duverger himself rejected."
+        ],
+        "answer": 0,
+        "explanation": "He says most political scientists treat it less as a law than as a strong tendency."
+      }
+    ]
+  },
+  {
+    "id": "at5-33",
+    "difficulty": "intermediate",
+    "course": "education",
+    "intro": "Listen to a talk in an education class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Think about the last time you learned something difficult, maybe a math concept or a new sport. Was there a point where you couldn't quite do it alone, but you could do it with someone guiding you? That in-between space is the heart of today's topic. The Russian psychologist Lev Vygotsky, working in the 1920s and early 1930s, called it the zone of proximal development. It's the gap between what a learner can do independently and what they can do with help from someone more skilled, like a teacher or even a more experienced classmate. Now, why does that matter? Vygotsky argued that teaching is most effective when it's aimed at this zone. Too easy, and the learner doesn't grow. Too hard, and even with help, they can't succeed. Decades later, researchers introduced a related term: scaffolding. Just like the scaffolding around a building under construction, the support is temporary. A teacher might begin by breaking a task into steps, giving hints, or demonstrating. Then, as the learner gains skill, the support is gradually removed. Picture teaching a child to ride a bike. You hold the seat, then you just keep a hand near it, and eventually you let go. Notice how this differs from the view of Jean Piaget, who emphasized children discovering ideas largely on their own. For Vygotsky, learning was fundamentally social.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why children learn sports more easily than math",
+          "How buildings are put up using scaffolding",
+          "The ways children discover new ideas entirely on their own",
+          "Teaching aimed at what learners can do with support"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains Vygotsky's zone of proximal development and the related idea of scaffolding."
+      },
+      {
+        "prompt": "What is the zone of proximal development?",
+        "options": [
+          "The point at which a task becomes too easy",
+          "The gap between unaided and assisted performance",
+          "The set of skills a learner has already mastered alone",
+          "The time needed to remove a teacher's help"
+        ],
+        "answer": 1,
+        "explanation": "The professor defines it as the gap between what a learner can do alone and with help."
+      },
+      {
+        "prompt": "According to the professor, what happens in scaffolding as the learner gains skill?",
+        "options": [
+          "Tasks are split into more steps.",
+          "Support is gradually withdrawn.",
+          "A classmate replaces the teacher.",
+          "Hints become more and more detailed."
+        ],
+        "answer": 1,
+        "explanation": "The professor says the support is gradually removed as the learner gains skill."
+      },
+      {
+        "prompt": "Why does the professor mention Piaget?",
+        "options": [
+          "To identify who introduced the term scaffolding",
+          "To give an example of teaching aimed at the zone",
+          "To contrast Vygotsky's social view of learning",
+          "To explain how children learn to ride a bike"
+        ],
+        "answer": 2,
+        "explanation": "She contrasts Piaget's emphasis on independent discovery with Vygotsky's view that learning is social."
+      }
+    ]
+  },
+  {
+    "id": "at5-34",
+    "difficulty": "advanced",
+    "course": "media studies",
+    "intro": "Listen to a talk in a media studies class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Does the news change what we think? For a long time, researchers found surprisingly weak effects. People rarely changed their opinions just because of what they read or watched. But in 1963, a political scientist made an observation that redirected the field. He wrote, roughly, that the press may not be very successful at telling people what to think, but it's remarkably successful at telling them what to think about. That's the core of what we now call agenda-setting. In 1968, two researchers tested the idea in a single town in North Carolina during a presidential election. They asked undecided voters which issues they considered most important, and then measured how much coverage each issue received in the news. The match was striking. The issues that got the most coverage were the issues voters ranked as most important. Now, you should already see the problem. A match like that doesn't tell you which way the influence runs. Maybe the media simply covered what the public already cared about. So later researchers used experiments. They showed people edited newscasts that gave extra attention to one issue, and afterward, those viewers rated that issue as more important than viewers who'd seen other versions. That's much stronger evidence of cause. And the idea has grown since. Researchers now study not just which topics get attention, but which aspects of a topic are emphasized.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why the news rarely changes people's political opinions",
+          "How news coverage shapes which issues seem important",
+          "How newscasts were edited during a presidential election",
+          "Why undecided voters followed the national news closely"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains agenda-setting and the evidence that coverage shapes the public's priorities."
+      },
+      {
+        "prompt": "What did the 1968 study find?",
+        "options": [
+          "Voters changed their opinions after reading the news.",
+          "Local news covered different issues than national news.",
+          "Voters' rankings of issues matched news coverage.",
+          "Undecided voters paid little attention to the news."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the issues with the most coverage were those voters ranked as most important."
+      },
+      {
+        "prompt": "Why did later researchers use experiments?",
+        "options": [
+          "To measure news coverage in several towns",
+          "To find out which direction the influence ran",
+          "To test whether opinions changed after the news",
+          "To compare local news with national news"
+        ],
+        "answer": 1,
+        "explanation": "The professor says a correlation could not show whether media shaped the public or followed it."
+      },
+      {
+        "prompt": "What does the professor imply about the 1968 study?",
+        "options": [
+          "Its methods were too weak to be useful at all.",
+          "Its findings were completely reversed by later experiments.",
+          "Its results were suggestive but could not show cause.",
+          "Its sample of voters was too small to trust."
+        ],
+        "answer": 2,
+        "explanation": "He says the match did not reveal which way the influence ran, which later experiments addressed."
+      }
+    ]
+  },
+  {
+    "id": "at5-35",
+    "difficulty": "intermediate",
+    "course": "geography",
+    "intro": "Listen to a talk in a geography class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Look at the world map on the wall. Greenland looks about as big as Africa, doesn't it? In reality, Africa is about fourteen times larger. So what's going on? This map uses the Mercator projection, created by the Flemish mapmaker Gerardus Mercator in 1569. And to understand it, you need to know what it was designed for. Mercator's goal was navigation. On his map, a line of constant compass direction appears as a straight line. So a sailor could draw a straight line from one port to another, measure the angle, and follow that compass heading. That was enormously useful. But there's a price. You can't flatten a sphere onto paper without distorting something. It's like trying to flatten an orange peel without tearing or stretching it. Mercator's map keeps angles and the shapes of small areas correct, but it stretches areas more and more as you move away from the equator. Near the poles, the stretching becomes extreme, which is why Greenland and Antarctica look enormous. Now, other projections make different trade-offs. Equal-area projections show the sizes of regions correctly, but they distort shapes, so continents can look squashed or stretched. There's no perfect flat map. Every projection is a choice about what to get right. The real problem comes when a map designed for sailors becomes the picture of the world that most people grow up with.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How sailors measured compass angles on early maps",
+          "The history of mapmaking in sixteenth-century Flanders",
+          "Why equal-area maps are the most accurate kind of map",
+          "The purpose and drawbacks of a famous map projection"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains what the Mercator projection was designed for and how it distorts area."
+      },
+      {
+        "prompt": "What was the Mercator projection designed to do?",
+        "options": [
+          "Show the true sizes of all the continents",
+          "Help sailors keep a steady compass direction",
+          "Show the regions near the poles in detail",
+          "Help travelers measure distances accurately on land"
+        ],
+        "answer": 1,
+        "explanation": "The professor says a line of constant compass direction appears straight, which helped sailors navigate."
+      },
+      {
+        "prompt": "What does the professor say about equal-area projections?",
+        "options": [
+          "They keep angles and shapes correct near the poles.",
+          "They were designed mainly for sailors.",
+          "They show sizes correctly but distort shapes.",
+          "They stretch areas far from the equator."
+        ],
+        "answer": 2,
+        "explanation": "The professor says equal-area projections show sizes correctly but distort shapes."
+      },
+      {
+        "prompt": "What is the professor's main concern about the Mercator projection?",
+        "options": [
+          "It fails to show compass directions accurately.",
+          "It makes Africa appear larger than it really is.",
+          "It is widely used for purposes it was not made for.",
+          "It is too difficult for most students to read correctly."
+        ],
+        "answer": 2,
+        "explanation": "She says the real problem is that a map designed for sailors became most people's picture of the world."
+      }
+    ]
+  },
+  {
+    "id": "at5-36",
+    "difficulty": "advanced",
+    "course": "urban geography",
+    "intro": "Listen to a talk in an urban geography class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "Why are towns spaced the way they are? Why does a small village have a bakery but not a specialist hospital? In 1933, the German geographer Walter Christaller proposed an answer, now called central place theory, based on settlements in southern Germany. The idea starts with two concepts. The first is threshold: the minimum number of customers needed to keep a business going. The second is range: the maximum distance people are willing to travel for something. Now, think about bread. People buy it often and won't travel far for it, but it doesn't take many customers to support a bakery. So bakeries appear even in small settlements. A jewelry store or a specialist doctor is the opposite. People need them rarely and will travel farther, but they need many customers. So those appear only in big cities. The result, Christaller argued, is a hierarchy: many small places offering basic goods, fewer towns offering more, and a few cities offering almost everything. He also predicted that market areas would form hexagons. Why hexagons? Because circles would either overlap or leave gaps, while hexagons fit together perfectly. Of course, the theory assumes a flat, uniform plain, with people spread evenly and travel equally easy in all directions. Real landscapes have rivers, mountains, and highways, and people with cars often skip the nearest center. Still, the hierarchy itself remains surprisingly visible.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why bakeries are found mainly in large cities",
+          "How rivers and highways shaped trade in Germany",
+          "How cars have changed shopping habits in small towns",
+          "A theory of how settlements are sized and spaced"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains Christaller's central place theory and its key concepts."
+      },
+      {
+        "prompt": "What does the term \"threshold\" mean in the theory?",
+        "options": [
+          "The fewest customers needed to support a business",
+          "The farthest distance people will travel to shop",
+          "The point at which a town grows into a city",
+          "The number of goods offered in each settlement"
+        ],
+        "answer": 0,
+        "explanation": "The professor defines threshold as the minimum number of customers needed to keep a business going."
+      },
+      {
+        "prompt": "Why did Christaller predict hexagonal market areas?",
+        "options": [
+          "Hexagons matched the roads in southern Germany.",
+          "Hexagons reflect how far people will travel.",
+          "Hexagons were the shape of most German towns.",
+          "Hexagons fit together without gaps or overlaps."
+        ],
+        "answer": 3,
+        "explanation": "The professor says circles would overlap or leave gaps, while hexagons fit together perfectly."
+      },
+      {
+        "prompt": "What does the professor imply about the theory today?",
+        "options": [
+          "It no longer describes any real landscape at all.",
+          "Its assumptions are unrealistic, yet its pattern persists.",
+          "It applies only to the settlements Christaller studied in Germany.",
+          "It was based on a careful study of modern highways."
+        ],
+        "answer": 1,
+        "explanation": "He notes the unrealistic assumptions but says the hierarchy remains surprisingly visible."
+      }
+    ]
+  },
+  {
+    "id": "at5-37",
+    "difficulty": "advanced",
+    "course": "history of technology",
+    "intro": "Listen to a talk in a history of technology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "We often credit Johannes Gutenberg with inventing movable type around 1450. But that's not quite right. Movable type was first invented in China, in the 1040s, by a craftsman named Bi Sheng, who made individual characters out of baked clay. And in Korea, printers were using movable metal type by the thirteenth and fourteenth centuries. The oldest surviving book printed with metal type is Korean, from 1377, decades before Gutenberg. So here's the question. Why did movable type transform European society so quickly, while in East Asia it remained less dominant? One major factor is the writing system. European languages use alphabets with a few dozen letters. Chinese writing uses thousands of characters. A printer working in Chinese needed an enormous stock of type, and finding and sorting each character was slow. Woodblock printing, where an entire page is carved into a single block, was often simply more practical. The blocks could be stored and reused for new print runs. So it's a mistake to see East Asia as having missed an opportunity. Printers there made a reasonable choice, and woodblock printing produced enormous numbers of books. Gutenberg's real achievement, then, wasn't the idea of movable type. It was a whole system: a mold for casting identical metal letters quickly, an oil-based ink that stuck to metal, and a press adapted from those used to make wine.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why movable type affected Europe and Asia differently",
+          "How Bi Sheng developed a way of baking clay characters",
+          "Why woodblock printing replaced movable type in Europe",
+          "How Gutenberg learned about printing from Korean books"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains why movable type transformed Europe while woodblock printing remained common in East Asia."
+      },
+      {
+        "prompt": "According to the professor, why was woodblock printing often practical in China?",
+        "options": [
+          "Metal for casting type was hard to obtain.",
+          "Chinese writing uses thousands of characters.",
+          "Wooden blocks gave sharper images than clay.",
+          "Printers were not permitted to use movable type."
+        ],
+        "answer": 1,
+        "explanation": "The professor says the huge number of characters made movable type slow to manage."
+      },
+      {
+        "prompt": "What does the professor say was Gutenberg's real achievement?",
+        "options": [
+          "Inventing the basic idea of movable type",
+          "Printing the oldest surviving metal-type book",
+          "Developing a new alphabet suited to printing",
+          "Combining several technologies into one system"
+        ],
+        "answer": 3,
+        "explanation": "The professor says his achievement was a system of type molds, oil-based ink, and an adapted press."
+      },
+      {
+        "prompt": "What is the professor's attitude toward the view that East Asia \"missed an opportunity\"?",
+        "options": [
+          "She accepts it as the main lesson of the history.",
+          "She thinks it applies to Korea but not at all to China.",
+          "She considers it true only of later centuries.",
+          "She rejects it as a misreading of a sensible choice."
+        ],
+        "answer": 3,
+        "explanation": "She calls that view a mistake, saying printers made a reasonable choice for their situation."
+      }
+    ]
+  },
+  {
+    "id": "at5-38",
+    "difficulty": "advanced",
+    "course": "world history",
+    "intro": "Listen to a talk in a world history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "The Inca Empire, stretching along the Andes, ran a huge state, with roads, storehouses, and labor obligations, all without writing in the usual sense. So how did they keep records? The answer is the quipu, a set of knotted cords. A quipu has a main cord, with dozens or even hundreds of cords hanging from it. On many quipus, the knots record numbers in a base-ten system. Knots farthest from the main cord represent units, the next cluster up represents tens, then hundreds, and so on. Different types of knots made the system readable; for example, a figure-eight knot marks a one in the units position. This code was worked out in the early twentieth century, and it shows quipus were used for census counts and tribute records. The officials who made and read them were specialists. Now, here's the open question. Spanish chroniclers after the conquest reported that these specialists could recite histories, laws, and family lines from their cords. So did some quipus record language, not just numbers? A significant share of surviving quipus don't seem to fit the numerical system, and features like color, fiber, and knot direction may carry meaning. But no one has deciphered them. One problem is that the chroniclers may have misunderstood what they saw. Another is that the cords may have been memory aids, readable only by their makers.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How the Inca built roads and storehouses in the Andes",
+          "Why Spanish chroniclers learned to read knotted cords",
+          "How the Inca developed an alphabet for their records",
+          "An Inca record-keeping device and what it may encode"
+        ],
+        "answer": 3,
+        "explanation": "The professor describes how quipus recorded numbers and discusses whether some recorded language."
+      },
+      {
+        "prompt": "What did the knots farthest from the main cord represent?",
+        "options": [
+          "The hundreds place of a number",
+          "The units place of a number",
+          "The name of the cord's maker",
+          "The type of tribute recorded"
+        ],
+        "answer": 1,
+        "explanation": "The professor says knots farthest from the main cord represent units."
+      },
+      {
+        "prompt": "What did the Spanish chroniclers report?",
+        "options": [
+          "Specialists used the cords only for census counts.",
+          "Specialists could recite histories from the cords.",
+          "The cords were written in an early alphabet.",
+          "The Inca abandoned the cords after the conquest."
+        ],
+        "answer": 1,
+        "explanation": "The professor says chroniclers reported that specialists recited histories, laws, and family lines from their cords."
+      },
+      {
+        "prompt": "What can be inferred about the idea that quipus recorded language?",
+        "options": [
+          "It has been confirmed by the numerical code.",
+          "It was rejected by the Spanish chroniclers.",
+          "It applies to every quipu that has survived to the present.",
+          "It remains possible but has not been demonstrated."
+        ],
+        "answer": 3,
+        "explanation": "The professor notes features that may carry meaning but says no one has deciphered them."
+      }
+    ]
+  },
+  {
+    "id": "at5-39",
+    "difficulty": "intermediate",
+    "course": "history of science",
+    "intro": "Listen to a talk in a history of science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "In the mid-1800s, most doctors in Europe believed that diseases like cholera spread through miasma, which basically means bad air, foul smells rising from rotting matter. It made sense: disease was common in crowded, smelly neighborhoods. But the London doctor John Snow suspected that cholera spread through contaminated water. In 1854, a severe outbreak struck the Soho district of London, and hundreds of people died within days. Snow went door to door, recording where the victims had lived, and he marked the deaths on a map. They clustered around a single public water pump on Broad Street. Now, some of the most persuasive evidence came from the exceptions. A nearby brewery had almost no cases. Why? The workers were given beer to drink, and the brewery had its own well, so they didn't use the pump. A nearby workhouse, also with its own well, had very few deaths. Meanwhile, a woman who lived miles away had died. It turned out she liked the taste of Broad Street water and had it brought to her house. Snow presented his findings, and local officials removed the handle of the pump. It's a famous story, but one caution: the outbreak was already declining by then, partly because many residents had fled. So removing the handle probably wasn't what ended it. The real importance was the method: careful mapping and close attention to exceptions.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why cholera was common in crowded neighborhoods",
+          "How breweries in London protected their workers",
+          "Why most doctors of the time accepted the theory of bad air",
+          "How a doctor traced the source of a disease outbreak"
+        ],
+        "answer": 3,
+        "explanation": "The professor describes how John Snow linked the 1854 cholera outbreak to the Broad Street pump."
+      },
+      {
+        "prompt": "Why did the brewery workers have so few cases?",
+        "options": [
+          "They lived far away from the Soho district.",
+          "They left the area during the outbreak.",
+          "They were given medicine by the brewery.",
+          "They did not drink water from the pump."
+        ],
+        "answer": 3,
+        "explanation": "The professor says the workers drank beer and the brewery had its own well, so they didn't use the pump."
+      },
+      {
+        "prompt": "Why does the professor mention the woman who lived miles away?",
+        "options": [
+          "Her case linked the disease to the pump's water.",
+          "Her case supported the theory of bad air.",
+          "Her case showed how widely the outbreak spread.",
+          "Her case revealed a flaw in Snow's map."
+        ],
+        "answer": 0,
+        "explanation": "She died far from Soho after drinking water brought from the Broad Street pump."
+      },
+      {
+        "prompt": "What does the professor imply about removing the pump handle?",
+        "options": [
+          "It was the main reason the outbreak ended.",
+          "It was opposed by most residents of Soho.",
+          "It was probably not what stopped the outbreak.",
+          "It happened before Snow had finished drawing his map."
+        ],
+        "answer": 2,
+        "explanation": "She says the outbreak was already declining, so removing the handle probably wasn't what ended it."
+      }
+    ]
+  },
+  {
+    "id": "at5-40",
+    "difficulty": "intermediate",
+    "course": "painting",
+    "intro": "Listen to a talk in a painting class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "When we talk about Impressionism, we usually talk about artists like Monet and Renoir and their interest in capturing light outdoors. But today I want to look at a humble piece of technology that helped make that possible: the paint tube. Before the 1840s, oil paint was hard to carry around. Painters, or their assistants, ground pigments by hand and mixed them with oil in the studio. If paint was stored at all, it was usually kept in small bags made from pig bladders, tied with string. You'd prick the bladder to squeeze out some paint, but the bags leaked, burst easily, and the paint dried out. Then, in 1841, an American portrait painter named John Goffe Rand patented a collapsible metal tube with a cap. Paint stayed fresh, and it could be carried anywhere. Combined with portable easels and a range of new, bright, ready-made colors, this meant painters could work outdoors, directly in front of the scene, for hours. Renoir is reported to have said that without paint in tubes, there would have been no Impressionism. Now, we shouldn't overstate this. Artists had been making small oil sketches outdoors long before tubes existed. And many Impressionist paintings that look spontaneous were actually reworked or finished in the studio. So the tube didn't create the movement. But it certainly made the Impressionists' way of working far easier.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why Renoir preferred to finish works in his studio",
+          "How a simple invention supported a style of painting",
+          "How painters ground pigments before the 1840s",
+          "How the Impressionists chose the scenes they painted"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains how the paint tube helped make Impressionist outdoor painting practical."
+      },
+      {
+        "prompt": "What problem did pig bladders have as paint containers?",
+        "options": [
+          "They changed the color of the paint.",
+          "They were too heavy to carry outdoors.",
+          "They leaked and let the paint dry out.",
+          "They could hold only one color each."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the bags leaked, burst easily, and let the paint dry out."
+      },
+      {
+        "prompt": "What does the professor say about Impressionist paintings that look spontaneous?",
+        "options": [
+          "Many were reworked in the studio.",
+          "Most were painted in a single hour.",
+          "Many were copied from oil sketches.",
+          "Most used pigments ground by hand."
+        ],
+        "answer": 0,
+        "explanation": "The professor says many were actually reworked or finished in the studio."
+      },
+      {
+        "prompt": "What is the professor's view of Renoir's reported statement?",
+        "options": [
+          "It proves that tubes created Impressionism.",
+          "It somewhat exaggerates the role of the tube.",
+          "It was probably never said by Renoir at all.",
+          "It refers to sketches rather than paintings."
+        ],
+        "answer": 1,
+        "explanation": "He says we shouldn't overstate it, since the tube made the work easier but didn't create the movement."
+      }
+    ]
+  },
+  {
+    "id": "at5-41",
+    "difficulty": "intermediate",
+    "course": "music history",
+    "intro": "Listen to a talk in a music history class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "talk": "Today let's talk about an instrument you all know, whose name tells a story. Around 1700, in Florence, an instrument maker named Bartolomeo Cristofori, who worked for the powerful Medici family, built a new kind of keyboard. Now, the dominant keyboard instrument at the time was the harpsichord. When you press a harpsichord key, a small quill plucks the string. And here's the limitation: no matter how hard or softly you press the key, the string is plucked in much the same way, so the volume barely changes. Cristofori's idea was to strike the strings with small hammers instead. The harder you press the key, the faster the hammer moves, and the louder the sound. He also solved a tricky mechanical problem: the hammer had to hit the string and then immediately fall away, so the string could keep vibrating. He called the instrument, roughly translated, a harpsichord with soft and loud, in Italian, piano e forte. And that's where our word piano comes from. Interestingly, the invention didn't catch on right away. It took decades of improvements before the piano became the instrument that composers like Mozart and Beethoven wrote for. There was one older keyboard that could vary its volume, by the way: the clavichord. But it was so quiet that it was mainly used for practice in small rooms, not for public performance.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The invention of a keyboard that could play soft and loud",
+          "The reasons the harpsichord was popular in Florence",
+          "How the Medici family supported the composers of their time",
+          "The keyboard music written by Mozart and Beethoven"
+        ],
+        "answer": 0,
+        "explanation": "The professor describes Cristofori's invention of the piano and how it differed from the harpsichord."
+      },
+      {
+        "prompt": "Why couldn't a harpsichord player easily change the volume?",
+        "options": [
+          "The quills were too stiff to pluck softly.",
+          "The hammers fell away from the strings too fast.",
+          "Each string was plucked in much the same way.",
+          "The instrument was too quiet for large rooms."
+        ],
+        "answer": 2,
+        "explanation": "The professor says the string is plucked in much the same way no matter how the key is pressed."
+      },
+      {
+        "prompt": "What mechanical problem did Cristofori solve?",
+        "options": [
+          "Making the quill pluck the string more softly",
+          "Making the hammer fall away after striking",
+          "Making the strings longer for a louder sound",
+          "Making the keys easier to press quickly"
+        ],
+        "answer": 1,
+        "explanation": "The professor says the hammer had to hit the string and immediately fall away so it could keep vibrating."
+      },
+      {
+        "prompt": "Why does the professor mention the clavichord?",
+        "options": [
+          "To show where Cristofori got the idea for hammers",
+          "To give an example of a keyboard that used quills",
+          "To note an exception that was too quiet for concerts",
+          "To explain why the piano caught on so quickly in Italy"
+        ],
+        "answer": 2,
+        "explanation": "She notes that the clavichord could vary its volume but was too quiet for public performance."
+      }
+    ]
+  },
+  {
+    "id": "at5-42",
+    "difficulty": "advanced",
+    "course": "anthropology",
+    "intro": "Listen to a talk in an anthropology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "talk": "We tend to imagine life before farming as a constant struggle for survival, people working from dawn to dusk just to eat. In the 1960s, the anthropologist Marshall Sahlins challenged that picture with a deliberately provocative phrase: the original affluent society. His argument drew on new studies of foragers, people who live by hunting and gathering, including groups in the Kalahari Desert. Researchers had recorded how much time people actually spent getting food, and the numbers were surprisingly low, often around fifteen to twenty hours a week. So in what sense were they affluent? Sahlins pointed out that there are two ways to satisfy your wants. You can produce a lot, or you can want little. Foragers moved often, so owning many things was a burden, not a benefit. With modest wants and fairly reliable food sources, they had plenty of leisure. Now, the critique. Later anthropologists pointed out that those early figures counted only time spent hunting and gathering. They left out making tools, processing food, collecting firewood, and other household work. Include all of that, and the total comes much closer to a full working week. Studies also found seasonal hunger in some groups. So the strong version of Sahlins's claim hasn't held up. But his deeper point, that affluence depends on what people want, not only on what they have, still challenges ideas of economic progress.",
+    "questions": [
+      {
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How hunters in the Kalahari find their food",
+          "Why farming produced more food than foraging",
+          "A claim about foragers' leisure and its later critics",
+          "How anthropologists measure the time foragers spend resting"
+        ],
+        "answer": 2,
+        "explanation": "The professor presents Sahlins's 'original affluent society' argument and the critiques that followed."
+      },
+      {
+        "prompt": "According to Sahlins, why did foragers own few possessions?",
+        "options": [
+          "They lacked the tools needed to make goods.",
+          "Moving often made possessions a burden.",
+          "Their societies banned personal property.",
+          "Their food sources were too unreliable."
+        ],
+        "answer": 1,
+        "explanation": "The professor says foragers moved often, so owning many things was a burden."
+      },
+      {
+        "prompt": "What did later anthropologists say the early studies left out?",
+        "options": [
+          "The time people spent hunting large animals",
+          "Work such as making tools and processing food",
+          "The hours devoted to gathering wild plants and fruit",
+          "The leisure time people spent with family"
+        ],
+        "answer": 1,
+        "explanation": "The professor says the early figures omitted toolmaking, food processing, firewood collection, and household work."
+      },
+      {
+        "prompt": "What is the professor's overall view of Sahlins's argument?",
+        "options": [
+          "Its strong claim failed, but its core idea endures.",
+          "It has been confirmed by more complete measurements.",
+          "It should be set aside because of its errors.",
+          "It applies to farming societies more than foragers."
+        ],
+        "answer": 0,
+        "explanation": "He says the strong version hasn't held up but the point about wants still challenges ideas of progress."
+      }
+    ]
+  }
+]

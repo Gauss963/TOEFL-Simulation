@@ -1,0 +1,2518 @@
+[
+  {
+    "id": "an2-01",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a psychology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "Okay, before you go, a reminder about research participation. Everyone in this course needs to take part in three hours of psychology studies by the end of the semester. You can sign up for studies through the department website, and each one lists how long it takes. If you'd rather not participate, you can write a short summary of a published study instead. Just keep in mind that the sign-up system closes two weeks before finals.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To remind students of a course research requirement",
+          "To recruit volunteers for the professor's own study",
+          "To explain how to write a summary of a study",
+          "To announce that the department website has moved"
+        ],
+        "answer": 0,
+        "explanation": "The professor reminds students that they must complete three hours of research participation and explains how to do it."
+      },
+      {
+        "prompt": "What can students do if they do not want to take part in studies?",
+        "options": [
+          "Take part in one longer study instead",
+          "Ask the professor for an exemption",
+          "Sign up for studies after finals",
+          "Write a summary of a published study"
+        ],
+        "answer": 3,
+        "explanation": "She says students who would rather not participate can write a short summary of a published study instead."
+      }
+    ]
+  },
+  {
+    "id": "an2-02",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in an economics class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "male"
+    },
+    "text": "Hi, everyone. Starting with problem set four, we're no longer collecting paper copies in class. Instead, please upload your work as a single PDF through the course website by Friday at midnight. If you work by hand, that's fine; just scan your pages with your phone and combine them into one file. Files that are hard to read won't be graded, so please check your scan carefully before you submit it.",
+    "questions": [
+      {
+        "prompt": "What change is the teaching assistant announcing?",
+        "options": [
+          "Problem sets will now be due in class on Fridays.",
+          "Problem sets must now be typed, not handwritten.",
+          "Problem sets will now be graded by classmates.",
+          "Problem sets will now be submitted online."
+        ],
+        "answer": 3,
+        "explanation": "He explains that students will upload their problem sets as PDFs through the course website instead of handing in paper copies."
+      },
+      {
+        "prompt": "What does the teaching assistant warn students about?",
+        "options": [
+          "Unclear scans will not be graded.",
+          "Late files will lose points each day.",
+          "Phone photos are not accepted at all.",
+          "Only typed work can get full credit."
+        ],
+        "answer": 0,
+        "explanation": "He says files that are hard to read won't be graded, so students should check their scans."
+      }
+    ]
+  },
+  {
+    "id": "an2-03",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a music appreciation class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "For this unit, each of you needs to attend one live concert and write a two-page response. The music department has several free student recitals over the next month, and any of those will count. If you'd like to go to a concert off campus, that's fine too, but keep your ticket or the printed program, since you'll have to attach it to your paper. Responses are due the Monday after the break.",
+    "questions": [
+      {
+        "prompt": "What is the professor mainly explaining?",
+        "options": [
+          "A schedule of recitals by music professors",
+          "The rules for performing in a student recital",
+          "An assignment based on attending a concert",
+          "A change in the date of the next exam"
+        ],
+        "answer": 2,
+        "explanation": "He describes an assignment that requires attending a live concert and writing a two-page response."
+      },
+      {
+        "prompt": "What must students who attend an off-campus concert do?",
+        "options": [
+          "Get approval from the professor in advance",
+          "Attend a student recital on campus as well",
+          "Write a response that is twice as long",
+          "Attach a ticket or program to their paper"
+        ],
+        "answer": 3,
+        "explanation": "He says students who go to an off-campus concert must keep their ticket or program and attach it to the paper."
+      }
+    ]
+  },
+  {
+    "id": "an2-04",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a computer science class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "female"
+    },
+    "text": "Before next Tuesday's lab, please install the programming environment we'll be using for the rest of the term. The instructions are posted on the course page, and the whole process takes about twenty minutes. If you run into problems, don't wait until the lab starts. Come to the help session on Monday evening in the computer science lounge, and bring your laptop. We won't have time to fix installations during the lab itself.",
+    "questions": [
+      {
+        "prompt": "What does the teaching assistant ask students to do before next Tuesday?",
+        "options": [
+          "Download a lab report template",
+          "Install software on their laptops",
+          "Sign up for a Monday help session",
+          "Submit a short programming exercise"
+        ],
+        "answer": 1,
+        "explanation": "She asks students to install the programming environment before next Tuesday's lab."
+      },
+      {
+        "prompt": "Where should students go if they have trouble with the installation?",
+        "options": [
+          "To the lab room before class starts on Tuesday",
+          "To the teaching assistant's regular office hours",
+          "To the university's main technology help desk",
+          "To a help session in the computer science lounge"
+        ],
+        "answer": 3,
+        "explanation": "She tells students with problems to come to the Monday evening help session in the computer science lounge."
+      }
+    ]
+  },
+  {
+    "id": "an2-05",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a sociology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "Next week we're doing peer review for your essay drafts. Bring two printed copies of your draft to class on Wednesday. I'll put you in pairs, and you'll each read your partner's essay and fill out a short feedback form, which I'll hand out. The form asks you to identify the main argument and suggest one area for improvement. Peer review counts toward your participation grade, so please don't skip it.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce the new due date of the final essay",
+          "To describe how the essays will be graded",
+          "To explain the plan for a peer review session",
+          "To assign partners for a research project"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains what students should bring and do during next week's peer review of essay drafts."
+      },
+      {
+        "prompt": "What does the feedback form ask students to do?",
+        "options": [
+          "Correct all the grammar errors in a partner's draft",
+          "Give their partner's draft a number grade",
+          "Identify the main argument and suggest one change",
+          "Summarize every paragraph of the essay"
+        ],
+        "answer": 2,
+        "explanation": "He says the form asks students to identify the main argument and suggest one area for improvement."
+      }
+    ]
+  },
+  {
+    "id": "an2-06",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a marine biology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "Our trip to the tide pools at Rocky Point is set for Saturday morning. Low tide is at seven forty-five, so we need to leave campus by six thirty to get there in time. Wear shoes with good grip, because the rocks can be very slippery. You're welcome to look at and photograph the animals, but please don't remove anything from the pools. We should be back on campus by eleven.",
+    "questions": [
+      {
+        "prompt": "Why does the group need to leave campus so early?",
+        "options": [
+          "To avoid heavy weekend traffic",
+          "To return before an afternoon class",
+          "To find parking near the beach",
+          "To arrive in time for low tide"
+        ],
+        "answer": 3,
+        "explanation": "The professor says low tide is at seven forty-five, so the group must leave by six thirty to arrive in time."
+      },
+      {
+        "prompt": "What are students told not to do at the tide pools?",
+        "options": [
+          "Photograph the animals they see",
+          "Walk on the rocks near the water",
+          "Wear shoes without good grip",
+          "Take anything out of the pools"
+        ],
+        "answer": 3,
+        "explanation": "She says students may look at and photograph the animals but must not remove anything from the pools."
+      }
+    ]
+  },
+  {
+    "id": "an2-07",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a philosophy class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "A quick change to the reading schedule. Instead of starting the chapter on free will on Thursday, we're going to spend one more class on the ethics readings, since our discussion today ran out of time. So for Thursday, please reread the second ethics article and come with one question you'd like the class to discuss. The free will chapter moves to next Tuesday, and everything after that shifts back by one class.",
+    "questions": [
+      {
+        "prompt": "Why is the professor changing the reading schedule?",
+        "options": [
+          "The class needs more time for a discussion.",
+          "The free will chapter is not available yet.",
+          "Students asked for fewer weekly readings.",
+          "The professor will be away on Thursday."
+        ],
+        "answer": 0,
+        "explanation": "He says the class will spend one more session on the ethics readings because today's discussion ran out of time."
+      },
+      {
+        "prompt": "What should students prepare for Thursday?",
+        "options": [
+          "A question about the second ethics article",
+          "A summary of the chapter on free will",
+          "A short essay about the first ethics article",
+          "Notes on next Tuesday's assigned reading"
+        ],
+        "answer": 0,
+        "explanation": "He asks students to reread the second ethics article and bring one question for the class to discuss."
+      }
+    ]
+  },
+  {
+    "id": "an2-08",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a nursing class.",
+    "speaker": {
+      "role": "clinical instructor",
+      "gender": "female"
+    },
+    "text": "Starting next week, you'll begin practicing in the simulation lab with our patient mannequins. Please wear your clinical uniform and closed-toe shoes, just as you would in a hospital. Food and drinks aren't allowed anywhere in the lab, since the mannequins contain sensitive electronics. Each session is only ninety minutes long, so arrive ten minutes early to check in and put your belongings in the lockers.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce a new schedule for hospital visits",
+          "To explain how the patient mannequins were built",
+          "To remind students to buy new clinical uniforms",
+          "To prepare students for simulation lab sessions"
+        ],
+        "answer": 3,
+        "explanation": "The instructor explains what students should wear, avoid, and do when they start working in the simulation lab."
+      },
+      {
+        "prompt": "Why are food and drinks not allowed in the lab?",
+        "options": [
+          "They might attract insects into the building.",
+          "The local hospital does not allow them either.",
+          "The sessions are too short to include breaks.",
+          "They could damage the mannequins' electronics."
+        ],
+        "answer": 3,
+        "explanation": "She says food and drinks are banned because the mannequins contain sensitive electronics."
+      }
+    ]
+  },
+  {
+    "id": "an2-09",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a Spanish class.",
+    "speaker": {
+      "role": "language instructor",
+      "gender": "male"
+    },
+    "text": "Okay, about the oral exams next week. Instead of taking them during class, you'll each have a ten-minute appointment in my office. A sign-up sheet is posted on my door, and the time slots run from Monday through Wednesday. You'll have a short conversation with me about your daily routine and your plans for the summer. Since we won't meet as a class next week, use that time to practice speaking with a partner.",
+    "questions": [
+      {
+        "prompt": "What is the instructor mainly explaining?",
+        "options": [
+          "Why the oral exams have been canceled",
+          "Which topics will be on a written test",
+          "How the oral exams will be arranged",
+          "How students should choose a partner"
+        ],
+        "answer": 2,
+        "explanation": "He explains that oral exams will be held as individual office appointments and describes how they will work."
+      },
+      {
+        "prompt": "What will students talk about during the exam?",
+        "options": [
+          "Their favorite books and recent films",
+          "Their daily routines and summer plans",
+          "A reading from the previous week",
+          "Their reasons for learning Spanish"
+        ],
+        "answer": 1,
+        "explanation": "He says the conversation will be about students' daily routines and their plans for the summer."
+      }
+    ]
+  },
+  {
+    "id": "an2-10",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in an accounting class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "One thing about Friday's exam: you may use a calculator, but only a basic or financial model. Graphing calculators and phones won't be permitted, because they can store notes. If you're not sure whether your calculator is allowed, bring it to my office hours before Friday and I'll check it for you. I'll also have a few spare basic calculators at the front of the room on exam day for anyone who forgets.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "How to use a financial calculator correctly",
+          "Where students can buy a basic calculator",
+          "Why the date of the exam has been changed",
+          "Which calculators may be used on an exam"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains which types of calculators are and are not allowed on Friday's exam."
+      },
+      {
+        "prompt": "Why are graphing calculators not allowed?",
+        "options": [
+          "They can be used to store notes.",
+          "They cost too much for most students.",
+          "They give answers that are too exact.",
+          "They make noise during the exam."
+        ],
+        "answer": 0,
+        "explanation": "She says graphing calculators and phones are banned because they can store notes."
+      }
+    ]
+  },
+  {
+    "id": "an2-11",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a film studies class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "male"
+    },
+    "text": "Hi, everyone. Just a reminder that this week's film will be shown on Wednesday at seven p.m. in the media center auditorium, not in our usual classroom. The film is about two and a half hours long, so plan to stay until nearly ten. If you can't make the screening, a copy is available in the library's media room, but it can't be checked out or taken home, so you'll need to watch it there.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To give details about a film screening",
+          "To introduce a famous director's career",
+          "To assign a paper about this week's film",
+          "To announce the start of a new film club"
+        ],
+        "answer": 0,
+        "explanation": "The teaching assistant gives the time, place, and length of this week's film screening."
+      },
+      {
+        "prompt": "What does the teaching assistant say about the library's copy of the film?",
+        "options": [
+          "It is shorter than the version in class.",
+          "It must be watched inside the library.",
+          "It can be borrowed for up to a week.",
+          "It will be available after Wednesday."
+        ],
+        "answer": 1,
+        "explanation": "He says the library copy can't be checked out or taken home, so students must watch it there."
+      }
+    ]
+  },
+  {
+    "id": "an2-12",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a mechanical engineering class.",
+    "speaker": {
+      "role": "machine shop supervisor",
+      "gender": "male"
+    },
+    "text": "Before anyone can use the machine shop for your design project, you need to complete a safety training session. Sessions are held every Tuesday and Thursday at four in the basement of the engineering building, and each one lasts about an hour. After you finish, you'll get a sticker on your student ID, and the shop staff will check for it at the door. Without it, you won't be allowed to use any of the equipment.",
+    "questions": [
+      {
+        "prompt": "What must students do before using the machine shop?",
+        "options": [
+          "Submit their design for approval",
+          "Complete a safety training session",
+          "Buy their own safety equipment",
+          "Reserve a time with the shop staff"
+        ],
+        "answer": 1,
+        "explanation": "The supervisor says everyone must complete a safety training session before using the shop."
+      },
+      {
+        "prompt": "How will shop staff know that a student has been trained?",
+        "options": [
+          "By a sticker on the student's ID",
+          "By a list posted at the shop door",
+          "By a certificate the student brings",
+          "By an email from the instructor"
+        ],
+        "answer": 0,
+        "explanation": "He says trained students get a sticker on their student ID, which staff check at the door."
+      }
+    ]
+  },
+  {
+    "id": "an2-13",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a political science class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "Next Thursday we'll hold in-class debates on the topics from unit three. I've posted the teams online; there are four teams of five, and each team has already been assigned a side. You'll have fifteen minutes to present your arguments and five minutes to respond to the other team. Please meet with your team at least once before Thursday to decide who will speak and in what order.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To ask students to suggest debate topics",
+          "To announce the results of last week's debate",
+          "To explain the arrangements for class debates",
+          "To describe the format of the unit three exam"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains the teams, timing, and preparation for next Thursday's in-class debates."
+      },
+      {
+        "prompt": "What should teams do before Thursday?",
+        "options": [
+          "Meet to decide on their speaking order",
+          "Choose which side they want to argue",
+          "Submit a written outline of their arguments",
+          "Watch a recording of a sample debate"
+        ],
+        "answer": 0,
+        "explanation": "She asks teams to meet at least once to decide who will speak and in what order."
+      }
+    ]
+  },
+  {
+    "id": "an2-14",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a nutrition class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "female"
+    },
+    "text": "For the next assignment, you'll keep a food diary for five days, including at least one weekend day. Write down everything you eat and drink, along with rough portion sizes. You don't need to change your diet at all; the goal is simply to record it honestly. Afterward, you'll enter your diary into the free nutrition app we demonstrated last week and write a one-page reflection on what you notice.",
+    "questions": [
+      {
+        "prompt": "What are students asked to do for the assignment?",
+        "options": [
+          "Follow a new diet for a full week",
+          "Record what they eat for several days",
+          "Compare two different nutrition apps",
+          "Interview classmates about their diets"
+        ],
+        "answer": 1,
+        "explanation": "The teaching assistant asks students to keep a five-day food diary and reflect on it."
+      },
+      {
+        "prompt": "What does the teaching assistant say about the diary?",
+        "options": [
+          "It must be kept for two full weeks in a row.",
+          "It must include at least one weekend day.",
+          "It should list only the main meals.",
+          "It should be shared with a partner."
+        ],
+        "answer": 1,
+        "explanation": "She says the five days must include at least one weekend day."
+      }
+    ]
+  },
+  {
+    "id": "an2-15",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a creative writing class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "I've posted the workshop schedule for the rest of the term. Each of you will have one story discussed, and you'll find your date on the course page. Please send your story to the whole class by email at least three days before your workshop, so everyone has time to read it carefully. If you need to switch dates, you can trade with a classmate, but please let me know about the change.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce a campus short story writing contest",
+          "To explain the schedule for story workshops",
+          "To assign partners for writing exercises",
+          "To describe a new way of grading stories"
+        ],
+        "answer": 1,
+        "explanation": "The professor explains the workshop schedule and what students must do before their workshop date."
+      },
+      {
+        "prompt": "What should a student do to get a different workshop date?",
+        "options": [
+          "Email the whole class three days in advance",
+          "Request a new date through the course page",
+          "Trade with a classmate and tell the professor",
+          "Submit the story one week earlier than usual"
+        ],
+        "answer": 2,
+        "explanation": "He says students may trade dates with a classmate but must let him know about the change."
+      }
+    ]
+  },
+  {
+    "id": "an2-16",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a botany class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "This Thursday, instead of meeting in our usual lecture hall, we'll meet at the university greenhouse behind the agriculture building. We'll be looking at the tropical plant collection, which ties in with this week's chapter on leaf adaptations. It gets very warm and humid inside, so dress in light layers. Also, bring a pencil and a notebook rather than a pen, since ink tends to smear in that humidity.",
+    "questions": [
+      {
+        "prompt": "Why will the class meet at the greenhouse?",
+        "options": [
+          "To see plants related to the current chapter",
+          "To help care for the tropical plant collection",
+          "Because the lecture hall is under repair",
+          "To collect leaves for a laboratory test"
+        ],
+        "answer": 0,
+        "explanation": "The professor says the tropical collection ties in with this week's chapter on leaf adaptations."
+      },
+      {
+        "prompt": "Why does the professor recommend bringing a pencil?",
+        "options": [
+          "Ink may smear in the humid air.",
+          "Pens are not allowed inside.",
+          "Students will sketch leaf shapes.",
+          "The notebooks are made for pencil."
+        ],
+        "answer": 0,
+        "explanation": "She says ink tends to smear in the greenhouse's humidity."
+      }
+    ]
+  },
+  {
+    "id": "an2-17",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a calculus class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "male"
+    },
+    "text": "Hey, everyone. I'm holding an extra review session for the second exam this Sunday from two to four in room one-oh-eight of the math building. I'll go over the practice problems that gave people the most trouble, especially the ones on related rates. It's completely optional, and I won't be introducing anything new. If you have specific questions, email them to me by Saturday so I can include them.",
+    "questions": [
+      {
+        "prompt": "What is the teaching assistant mainly announcing?",
+        "options": [
+          "A change in the date of the second exam",
+          "A new topic that will appear on the exam",
+          "An optional review session before an exam",
+          "A required tutoring session for some students"
+        ],
+        "answer": 2,
+        "explanation": "He announces an optional Sunday review session to prepare for the second exam."
+      },
+      {
+        "prompt": "Why should students email their questions by Saturday?",
+        "options": [
+          "So the answers can be posted online",
+          "So they can receive extra credit",
+          "So the teaching assistant can cover them",
+          "So they can reserve a seat in the review room"
+        ],
+        "answer": 2,
+        "explanation": "He asks for questions by Saturday so he can include them in the review session."
+      }
+    ]
+  },
+  {
+    "id": "an2-18",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in an organic chemistry lab.",
+    "speaker": {
+      "role": "lab coordinator",
+      "gender": "female"
+    },
+    "text": "I want to clarify the make-up policy for missed labs, since a few of you have asked. Each student can make up one lab during the semester, and it must be done during make-up week at the end of November. A second missed lab will receive a zero, unless you have a documented emergency. Also, keep in mind that make-up week only offers experiments from the second half of the term, not the first.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To explain the rules for making up missed labs",
+          "To introduce new experiments for later in the term",
+          "To move make-up week to the end of November",
+          "To ask students to document their emergencies"
+        ],
+        "answer": 0,
+        "explanation": "The coordinator clarifies how many labs can be made up, when, and which experiments are offered."
+      },
+      {
+        "prompt": "What can be inferred about a student who misses one of the first labs of the term?",
+        "options": [
+          "The student may make it up in early November.",
+          "The student must document an emergency.",
+          "The student cannot make that lab up.",
+          "The student will be allowed two make-up labs."
+        ],
+        "answer": 2,
+        "explanation": "Since make-up week offers only experiments from the second half of the term, an early lab cannot be made up."
+      }
+    ]
+  },
+  {
+    "id": "an2-19",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a neuroscience class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "Sign-ups for the journal article presentations open tonight at eight on the course website. Each article can be chosen by only one person, and it's first come, first served. If you don't sign up by Sunday, I'll assign you whatever's left, which tend to be the longer, more technical papers. One more thing: presentations in the first two weeks will be graded a little more generously, since those presenters have less time to prepare.",
+    "questions": [
+      {
+        "prompt": "What is the professor mainly announcing?",
+        "options": [
+          "Which articles will appear on the final exam",
+          "A new deadline for presentation slides",
+          "The grades from the first presentations",
+          "How students will choose articles to present"
+        ],
+        "answer": 3,
+        "explanation": "He explains how and when students sign up for the articles they will present."
+      },
+      {
+        "prompt": "What can be inferred about students who wait until after Sunday to sign up?",
+        "options": [
+          "They will have to present in the first two weeks.",
+          "They will be graded more generously.",
+          "They will not be allowed to present.",
+          "They will probably present a harder article."
+        ],
+        "answer": 3,
+        "explanation": "He says unassigned students get whatever is left, which tends to be the longer, more technical papers."
+      }
+    ]
+  },
+  {
+    "id": "an2-20",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in an urban planning class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "For the final project, you'll work in groups, each studying one neighborhood in the city. I'm letting you choose your neighborhood, but there's a condition: at least one person in each group must have a car or be willing to take the bus there several times, because you'll need to observe the area in person on different days. Groups that pick a neighborhood without a plan for getting there will be reassigned to the one closest to campus.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "How to use the public transportation in the city",
+          "Which neighborhood is closest to the campus",
+          "How the final project will be graded",
+          "How groups will choose neighborhoods to study"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains how groups may choose a neighborhood for the final project and the condition attached."
+      },
+      {
+        "prompt": "Why does the professor require a plan for getting to the neighborhood?",
+        "options": [
+          "The city requires permits for site visits.",
+          "Groups must observe the area on several days.",
+          "Buses do not serve most neighborhoods.",
+          "Groups will present their work off campus."
+        ],
+        "answer": 1,
+        "explanation": "She says groups need transportation because they must observe the area in person on different days."
+      }
+    ]
+  },
+  {
+    "id": "an2-21",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a journalism class.",
+    "speaker": {
+      "role": "instructor",
+      "gender": "male"
+    },
+    "text": "For your profile stories, I want to be clear about sources. You need at least three people you interviewed yourself, and no more than one of them can be a relative or a roommate. Quotes taken from social media or other news stories don't count toward those three, although you can still use them for background. And if a source asks not to be named, check with me first, because anonymous sources need my approval.",
+    "questions": [
+      {
+        "prompt": "What is the instructor mainly explaining?",
+        "options": [
+          "How to conduct interviews on social media",
+          "Why anonymous sources should be avoided",
+          "The source requirements for an assignment",
+          "How to find background information online"
+        ],
+        "answer": 2,
+        "explanation": "He explains how many and what kinds of sources students need for their profile stories."
+      },
+      {
+        "prompt": "A student has interviewed her roommate, her brother, and a coach. What can be inferred?",
+        "options": [
+          "She needs to interview one more person.",
+          "She has met the three-source requirement.",
+          "She must replace the coach with someone else.",
+          "She can count a social media quote instead."
+        ],
+        "answer": 0,
+        "explanation": "Only one of the three sources may be a relative or roommate, so one of her two personal contacts does not count."
+      }
+    ]
+  },
+  {
+    "id": "an2-22",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a finance class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "Let me explain how the weekly quizzes work, because they're different from last semester. There will be ten quizzes, and I'll drop your two lowest scores. Because of that, there are no make-up quizzes, even if you're sick, so missing one just means it becomes one of your dropped scores. However, if you take all ten and score above eighty on each, you won't have to take the cumulative section of the final exam.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce a new date for the final exam",
+          "To review last semester's quiz answers",
+          "To explain the policy for weekly quizzes",
+          "To suggest ways to prepare for the final"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains how the ten weekly quizzes will be scored and what reward is possible."
+      },
+      {
+        "prompt": "What can be inferred about a student who misses one quiz?",
+        "options": [
+          "The student must take the whole final exam.",
+          "The student can take a make-up quiz later.",
+          "The student will lose credit for two quizzes.",
+          "The student must provide a doctor's note."
+        ],
+        "answer": 0,
+        "explanation": "Skipping the cumulative section requires taking all ten quizzes, so a student who misses one cannot qualify."
+      }
+    ]
+  },
+  {
+    "id": "an2-23",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a data science class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "female"
+    },
+    "text": "Everyone should have received an email with your cloud computing credits for the semester. Each of you gets fifty dollars' worth, which is plenty for the assignments if you shut down your virtual machines when you're done. Machines left running overnight keep using credits, and once your credits are gone, we can't give you more. So please turn on the automatic shutdown option described in the setup guide before you start assignment two.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To tell students they must purchase more credits",
+          "To explain how to manage cloud computing credits",
+          "To introduce the topic of assignment two",
+          "To ask students to report email problems"
+        ],
+        "answer": 1,
+        "explanation": "The teaching assistant explains how students' cloud credits work and how to avoid wasting them."
+      },
+      {
+        "prompt": "What would probably happen to a student who often left machines running?",
+        "options": [
+          "The student would get a warning email.",
+          "The machines would stop at midnight.",
+          "The student would be charged a fee.",
+          "The student might run out of credits."
+        ],
+        "answer": 3,
+        "explanation": "She says machines left running keep using credits and that no more credits are given once they are gone."
+      }
+    ]
+  },
+  {
+    "id": "an2-24",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in an archaeology class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "Starting today, you'll be cataloging the pottery fragments from last summer's excavation. Please handle each piece with both hands and over the padded trays, never over the bare table. You may wash fragments labeled with a green tag, but those with a red tag still have residue we plan to analyze, so they must stay exactly as they are. If a fragment has no tag at all, set it aside and ask me before doing anything.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To give instructions for handling pottery pieces",
+          "To describe the results of last summer's excavation",
+          "To explain how residue on pottery is analyzed",
+          "To recruit students for next summer's dig"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains how students should handle, wash, or set aside the pottery fragments."
+      },
+      {
+        "prompt": "Why must fragments with a red tag not be washed?",
+        "options": [
+          "They are too fragile to be handled at all.",
+          "They have already been cleaned once before.",
+          "They belong to a different excavation site.",
+          "Washing would remove material to be studied."
+        ],
+        "answer": 3,
+        "explanation": "He says red-tagged pieces still carry residue that will be analyzed, so washing would destroy it."
+      }
+    ]
+  },
+  {
+    "id": "an2-25",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a theater class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "Rehearsals for the spring production start next Monday. Cast members are expected at every rehearsal listed on their call sheet, which I'll post each Friday. If you know you'll miss one, tell the stage manager at least forty-eight hours ahead. After two unexcused absences, your role may be given to your understudy. Crew members don't attend regular rehearsals, but everyone must be present for technical week, which starts April third.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce the cast list for the production",
+          "To recruit crew members for technical week",
+          "To explain attendance rules for rehearsals",
+          "To describe the duties of the stage manager"
+        ],
+        "answer": 2,
+        "explanation": "The professor explains when cast and crew must attend and what happens after unexcused absences."
+      },
+      {
+        "prompt": "What might happen to a cast member who misses three rehearsals without notice?",
+        "options": [
+          "The student would be moved to the crew.",
+          "The student would meet the stage manager.",
+          "The student would skip technical week.",
+          "Another student might take over the role."
+        ],
+        "answer": 3,
+        "explanation": "She says that after two unexcused absences, a role may be given to the understudy."
+      }
+    ]
+  },
+  {
+    "id": "an2-26",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a genetics class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "Some news about Thursday. Our guest speaker, a genetic counselor from the regional hospital, has had to reschedule, so she'll speak to us the following Thursday instead. That means we'll swap topics: this Thursday we'll cover gene regulation, which I'd planned for next week. So read chapter twelve, not chapter eleven, before Thursday. The reflection paper on her talk will still be due one week after she speaks.",
+    "questions": [
+      {
+        "prompt": "What is the professor mainly announcing?",
+        "options": [
+          "A switch in the order of two class sessions",
+          "The cancellation of a guest speaker's visit",
+          "A new deadline for the chapter eleven reading",
+          "The topic of an upcoming research paper"
+        ],
+        "answer": 0,
+        "explanation": "He explains that the guest talk and the gene regulation lesson will trade places."
+      },
+      {
+        "prompt": "What can be inferred about the reflection paper?",
+        "options": [
+          "It will be due this Thursday as planned.",
+          "It will be due later than first planned.",
+          "It will now focus on gene regulation.",
+          "It has been replaced by a reading quiz."
+        ],
+        "answer": 1,
+        "explanation": "Because the paper is due one week after the talk and the talk moved back a week, the deadline also moves later."
+      }
+    ]
+  },
+  {
+    "id": "an2-27",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in an ecology class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "male"
+    },
+    "text": "For the stream survey, each group will need a water quality kit, which you can check out from the biology stockroom. Kits are loaned for forty-eight hours only, and there are just six of them for eleven groups, so coordinate with other groups and don't keep a kit longer than you need. Also, the meters inside must be calibrated on the day you use them; readings from an uncalibrated meter won't be accepted.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To assign the groups to different stream sites",
+          "To explain how to borrow and use survey kits",
+          "To share the results of a water survey",
+          "To announce a new report deadline"
+        ],
+        "answer": 1,
+        "explanation": "The teaching assistant explains the checkout rules for the water quality kits and how to use the meters."
+      },
+      {
+        "prompt": "Why does the teaching assistant ask groups to coordinate with each other?",
+        "options": [
+          "Each kit must be shared by two groups.",
+          "The stockroom opens only twice a week.",
+          "There are fewer kits than groups.",
+          "Groups must calibrate meters together."
+        ],
+        "answer": 2,
+        "explanation": "He says there are only six kits for eleven groups, so groups must plan around each other."
+      }
+    ]
+  },
+  {
+    "id": "an2-28",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a Latin class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "For the translation exam, you may bring a printed Latin dictionary, but not one with notes or highlighting, and no electronic dictionaries of any kind. The passage will be one you haven't seen before, about two hundred words long. Since you'll have only ninety minutes, I'd suggest relying on the dictionary for rare words only. Students who look up every word usually don't finish in time.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "The rules and format of a translation exam",
+          "How to choose a good Latin dictionary",
+          "The passages students should review",
+          "The results of an earlier translation exam"
+        ],
+        "answer": 0,
+        "explanation": "The professor explains what students may bring to the translation exam and what the passage will be like."
+      },
+      {
+        "prompt": "What does the professor imply about using the dictionary?",
+        "options": [
+          "It will be provided to students by the professor.",
+          "It may be electronic as long as it has no notes.",
+          "It will be needed only for the hardest passage.",
+          "Overusing it may keep students from finishing."
+        ],
+        "answer": 3,
+        "explanation": "She warns that students who look up every word usually run out of time."
+      }
+    ]
+  },
+  {
+    "id": "an2-29",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in an electrical engineering lab.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "male"
+    },
+    "text": "Your circuit kits are available at the front of the room. Each kit requires a twenty-dollar deposit, which you'll get back at the end of the semester if every part is returned. If you lose a small part, like a resistor, you can replace it yourself from the electronics shop, and you'll still get your full deposit. But if the breadboard or the power supply is missing or damaged, the deposit won't be refunded.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To ask students to buy parts at a local shop",
+          "To describe how to assemble a circuit kit",
+          "To explain the terms of a deposit for lab kits",
+          "To announce that kits must be returned early"
+        ],
+        "answer": 2,
+        "explanation": "The teaching assistant explains when students will or will not get their kit deposit back."
+      },
+      {
+        "prompt": "Which of the following would cause a student to lose the deposit?",
+        "options": [
+          "Returning a damaged power supply",
+          "Replacing a lost resistor at the shop",
+          "Returning the kit at semester's end",
+          "Buying extra parts for a project"
+        ],
+        "answer": 0,
+        "explanation": "He says the deposit won't be refunded if the breadboard or power supply is missing or damaged."
+      }
+    ]
+  },
+  {
+    "id": "an2-30",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a public health class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "For the community survey project, your questionnaire needs my approval before you give it to anyone. Submit it by October twentieth. I'll return it within a week, either approved or with requested changes. If changes are needed, you'll have to resubmit, which could take another week, so don't wait until the deadline if you can help it. Remember, you need at least thirty completed surveys for your final report, which is due December first.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "How to write effective survey questions",
+          "The results of a community survey",
+          "Where to find thirty survey participants",
+          "The approval process for a survey project"
+        ],
+        "answer": 3,
+        "explanation": "The professor explains that questionnaires must be approved and describes the timeline for approval."
+      },
+      {
+        "prompt": "Why does the professor suggest submitting the questionnaire early?",
+        "options": [
+          "Questionnaires turned in early will earn extra credit.",
+          "Revisions could leave less time to collect surveys.",
+          "She will be away after October twentieth.",
+          "Early submissions do not need her approval."
+        ],
+        "answer": 1,
+        "explanation": "Approval and possible resubmission can take two weeks, which cuts into the time for collecting thirty surveys."
+      }
+    ]
+  },
+  {
+    "id": "an2-31",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a graphic design class.",
+    "speaker": {
+      "role": "instructor",
+      "gender": "male"
+    },
+    "text": "The portfolio review is two weeks from today, and you'll need printed copies of all five pieces. The design lab printer is free, but it's only available during staffed hours, ten to six on weekdays, and the line gets very long the week before reviews. The copy center downtown is open later, but it charges per page. Either way, pieces printed on regular office paper won't be accepted; use the heavy matte paper from the lab.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce a change in the review date",
+          "To explain how the five portfolio pieces will be graded",
+          "To advise students on printing work for a review",
+          "To recommend a copy center downtown"
+        ],
+        "answer": 2,
+        "explanation": "The instructor explains where and how students should print their pieces for the portfolio review."
+      },
+      {
+        "prompt": "What does the instructor imply about the design lab printer?",
+        "options": [
+          "It is open on weekends before reviews.",
+          "Students who wait may face long delays.",
+          "It charges a small fee for each page.",
+          "It prints only on regular office paper."
+        ],
+        "answer": 1,
+        "explanation": "He notes the line gets very long the week before reviews, implying late printers may have to wait."
+      }
+    ]
+  },
+  {
+    "id": "an2-32",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in an education class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "female"
+    },
+    "text": "A reminder that you need twenty hours of classroom observation at a local school before the end of the term. The school district now requires a background check for all observers, and it can take up to three weeks to process. You can't begin observing until it's cleared. So if you haven't started the check yet, do it this week. Hours completed at a summer camp or tutoring center won't count.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To change the number of observation hours",
+          "To recommend summer camps for experience",
+          "To urge students to start a required check soon",
+          "To explain how to find a local school to observe in"
+        ],
+        "answer": 2,
+        "explanation": "The professor stresses that students should begin the background check this week so they can start observing."
+      },
+      {
+        "prompt": "What can be inferred about a student who starts the check near the end of the term?",
+        "options": [
+          "The student can count tutoring hours instead.",
+          "The student may not finish the hours in time.",
+          "The student can observe while waiting.",
+          "The student will need only ten hours."
+        ],
+        "answer": 1,
+        "explanation": "The check can take three weeks and observing can't begin until it clears, leaving little time for twenty hours."
+      }
+    ]
+  },
+  {
+    "id": "an2-33",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a geography class.",
+    "speaker": {
+      "role": "teaching assistant",
+      "gender": "female"
+    },
+    "text": "About the mapping software for this course. The university license lets you use it only on lab computers or while connected to the campus network. If you want to work from home, you'll need to connect through the university's remote access service first; otherwise, the program won't open. Also, the license server goes down for maintenance every Sunday night from ten to midnight. Remember, assignments are due Monday at nine a.m.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "Conditions for using the course software",
+          "How to install the software at home",
+          "A change in assignment deadlines",
+          "How to create maps with the software"
+        ],
+        "answer": 0,
+        "explanation": "The teaching assistant explains where and when the mapping software can be accessed."
+      },
+      {
+        "prompt": "What can be inferred about students who plan to finish assignments late on Sunday night?",
+        "options": [
+          "They will get an extension until Monday.",
+          "They must work in the computer lab instead.",
+          "They will need to buy their own license.",
+          "They may be unable to use the software."
+        ],
+        "answer": 3,
+        "explanation": "The license server is down Sunday from ten to midnight, so the software may not work then."
+      }
+    ]
+  },
+  {
+    "id": "an2-34",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a literature class.",
+    "speaker": {
+      "role": "professor",
+      "gender": "male"
+    },
+    "text": "I've learned that the campus bookstore ran short of copies of the second novel, and the new shipment won't arrive until the end of the month. So we'll read the third novel next instead and return to the second one afterward. The third novel is shorter, so the reading pace won't change much. If you already bought the second novel and started it, keep going; just be aware that we won't discuss it for a few weeks.",
+    "questions": [
+      {
+        "prompt": "Why is the professor changing the reading order?",
+        "options": [
+          "The second novel is too long to read quickly.",
+          "Copies of a novel are not yet available.",
+          "Students asked to read a shorter book first.",
+          "The bookstore ordered the wrong edition."
+        ],
+        "answer": 1,
+        "explanation": "He says the bookstore ran short of the second novel and new copies won't arrive until the end of the month."
+      },
+      {
+        "prompt": "What does the professor suggest to students who have started the second novel?",
+        "options": [
+          "They should stop until it is discussed.",
+          "They may continue reading it.",
+          "They should return it to the bookstore.",
+          "They should read both novels together."
+        ],
+        "answer": 1,
+        "explanation": "He tells those students to keep going, while noting that the class won't discuss it for a few weeks."
+      }
+    ]
+  },
+  {
+    "id": "an2-35",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement in a campus dining hall.",
+    "speaker": {
+      "role": "dining services manager",
+      "gender": "male"
+    },
+    "text": "Good evening, everyone. Starting next Monday, Harbor Dining Hall will stay open until midnight from Sunday through Thursday. After nine p.m., we'll serve a lighter menu with sandwiches, salads, and hot soup, but the grill will be closed. Late-night meals will count as a regular meal swipe. On Fridays and Saturdays, closing time will stay at nine, just as it is now.",
+    "questions": [
+      {
+        "prompt": "What change is the speaker announcing?",
+        "options": [
+          "The dining hall will serve grilled food late at night.",
+          "The dining hall will stay open later on most nights.",
+          "The dining hall will close earlier on the weekends.",
+          "The dining hall will charge extra for late meals."
+        ],
+        "answer": 1,
+        "explanation": "He says the dining hall will stay open until midnight from Sunday through Thursday."
+      },
+      {
+        "prompt": "What will be available after nine p.m.?",
+        "options": [
+          "A lighter menu of sandwiches, salads, and soup",
+          "The full dinner menu, including food from the grill",
+          "Snacks and drinks at a reduced price",
+          "Hot meals from the grill until midnight"
+        ],
+        "answer": 0,
+        "explanation": "He says that after nine, a lighter menu of sandwiches, salads, and soup will be served while the grill is closed."
+      }
+    ]
+  },
+  {
+    "id": "an2-36",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at the campus library.",
+    "speaker": {
+      "role": "librarian",
+      "gender": "female"
+    },
+    "text": "Hello, everyone. The library now lends laptops to students at the circulation desk on the first floor. You can borrow one for up to four hours at a time, and you'll need your student ID. Laptops have to stay inside the library, and an alarm will sound if one passes through the exit. If your own computer breaks down, you can also request a laptop for a full week by filling out a form at the technology desk.",
+    "questions": [
+      {
+        "prompt": "What is the librarian mainly announcing?",
+        "options": [
+          "A computer repair service",
+          "A new laptop lending service",
+          "New rules for personal laptops",
+          "A change in library hours"
+        ],
+        "answer": 1,
+        "explanation": "She announces that students can now borrow laptops at the circulation desk."
+      },
+      {
+        "prompt": "How can a student borrow a laptop for longer than four hours?",
+        "options": [
+          "By showing a student ID at the library exit",
+          "By filling out a form if their computer breaks",
+          "By renewing the loan at the circulation desk",
+          "By reserving a laptop one week in advance"
+        ],
+        "answer": 1,
+        "explanation": "She says students whose own computer breaks down can request a laptop for a week by filling out a form."
+      }
+    ]
+  },
+  {
+    "id": "an2-37",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at a residence hall meeting.",
+    "speaker": {
+      "role": "resident assistant",
+      "gender": "male"
+    },
+    "text": "Hi, everyone. Quick update from the housing office. If you want to change rooms this semester, the request window opens next Monday and closes Friday at five. Requests are made online through the housing website, not at the front desk. Moves will happen the following weekend, and you'll need to clean your old room before you get the key to your new one. Please note that room changes aren't guaranteed, since space is limited.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce new cleaning rules for rooms",
+          "To remind students to return their keys",
+          "To explain how to request a room change",
+          "To describe a new service at the front desk"
+        ],
+        "answer": 2,
+        "explanation": "The resident assistant explains when and how students can request to change rooms."
+      },
+      {
+        "prompt": "What must students do before receiving the key to a new room?",
+        "options": [
+          "Visit the housing office in person",
+          "Pay a fee at the front desk",
+          "Clean the room they are leaving",
+          "Get approval from a roommate"
+        ],
+        "answer": 2,
+        "explanation": "He says students must clean their old room before getting the key to the new one."
+      }
+    ]
+  },
+  {
+    "id": "an2-38",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement on the campus radio station.",
+    "speaker": {
+      "role": "campus safety officer",
+      "gender": "female"
+    },
+    "text": "Good evening. This is a reminder from Campus Safety about our evening escort van. Every night from eight p.m. to two a.m., the van will take students anywhere on campus or to housing within one mile. To request a ride, call the number on the back of your student ID or use the campus safety app. Rides are always free, but during busy hours you may need to wait up to twenty minutes, so plan ahead.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To remind students about a free evening ride service",
+          "To announce new safety rules for students walking at night",
+          "To introduce a newly released campus safety app",
+          "To explain changes to bus routes after dark"
+        ],
+        "answer": 0,
+        "explanation": "The officer reminds students that a free escort van runs every night and explains how to request it."
+      },
+      {
+        "prompt": "What does the speaker say about busy hours?",
+        "options": [
+          "The van travels only within campus.",
+          "Students must pay a small fee.",
+          "Students may have to wait for a ride.",
+          "The van stops running at midnight."
+        ],
+        "answer": 2,
+        "explanation": "She says that during busy hours, students may wait up to twenty minutes."
+      }
+    ]
+  },
+  {
+    "id": "an2-39",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at the campus recreation center.",
+    "speaker": {
+      "role": "recreation center staff member",
+      "gender": "male"
+    },
+    "text": "Hey, everybody. Good news: the climbing wall reopens this Saturday now that its new holds are installed. Before you climb, everyone, including returning climbers, has to complete a thirty-minute orientation, since the routes and safety equipment have changed. Orientations will run every hour on Saturday and Sunday from ten to four. Climbing shoes are available to borrow at the front desk, but you'll need to bring your own chalk.",
+    "questions": [
+      {
+        "prompt": "What is the speaker mainly announcing?",
+        "options": [
+          "A new climbing competition",
+          "The reopening of the climbing wall",
+          "A sale on climbing shoes and equipment",
+          "The hiring of climbing staff"
+        ],
+        "answer": 1,
+        "explanation": "He announces that the climbing wall reopens on Saturday and explains what climbers must do first."
+      },
+      {
+        "prompt": "Why must returning climbers attend an orientation?",
+        "options": [
+          "Their earlier orientation has now expired.",
+          "The routes and safety equipment have changed.",
+          "The recreation center has hired new staff.",
+          "The borrowed shoes are a different style."
+        ],
+        "answer": 1,
+        "explanation": "He says everyone must attend because the routes and safety equipment have changed."
+      }
+    ]
+  },
+  {
+    "id": "an2-40",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the student health center.",
+    "speaker": {
+      "role": "nurse",
+      "gender": "female"
+    },
+    "text": "Hello, this is the student health center. Our free flu shot clinic will be held next Tuesday and Wednesday from ten a.m. to three p.m. in the lobby of the student union. No appointment is needed, but please bring your student ID and, if possible, wear a short-sleeved shirt, which makes things faster. If you can't come on those days, you can get a shot at the health center itself on any weekday, also free of charge.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To explain new health center hours",
+          "To ask students to book appointments",
+          "To announce a free flu shot clinic",
+          "To describe common flu symptoms"
+        ],
+        "answer": 2,
+        "explanation": "The nurse announces the dates, times, and place of a free flu shot clinic."
+      },
+      {
+        "prompt": "What can students do if they miss the clinic?",
+        "options": [
+          "Make an appointment for a shot the following week",
+          "Pay a small fee at the student union lobby",
+          "Wait for a second clinic later in the year",
+          "Get a shot at the health center on a weekday"
+        ],
+        "answer": 3,
+        "explanation": "She says students can get a free shot at the health center on any weekday."
+      }
+    ]
+  },
+  {
+    "id": "an2-41",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at a student government meeting.",
+    "speaker": {
+      "role": "student government president",
+      "gender": "male"
+    },
+    "text": "Good afternoon. A reminder that student government elections are next week, and for the first time, all voting will be done online. You'll get an email with a personal voting link on Monday morning, and the polls will stay open until Wednesday at eight p.m. If you don't receive the email, check your spam folder first, and then contact the elections committee. Candidate statements are already posted on our website.",
+    "questions": [
+      {
+        "prompt": "What is new about this year's election?",
+        "options": [
+          "Voting will last a full week.",
+          "Students will vote online.",
+          "Candidates will speak online.",
+          "Votes will be counted by hand."
+        ],
+        "answer": 1,
+        "explanation": "He says that for the first time, all voting will be done online."
+      },
+      {
+        "prompt": "What should students do first if they do not get the voting email?",
+        "options": [
+          "Check their spam folder",
+          "Contact the elections committee",
+          "Visit the student government office",
+          "Vote on the student government website"
+        ],
+        "answer": 0,
+        "explanation": "He tells students to check their spam folder first and only then contact the elections committee."
+      }
+    ]
+  },
+  {
+    "id": "an2-42",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement on the campus radio station.",
+    "speaker": {
+      "role": "student activities coordinator",
+      "gender": "male"
+    },
+    "text": "Hi, everyone! The fall club fair is happening this Thursday from eleven to three on the main quad. More than one hundred student clubs will be there, from hiking and chess to robotics and film. Walk around, talk to members, and sign up for any club's email list. If it rains, the fair will move to the gym in the recreation center. And the first two hundred visitors will get a free water bottle.",
+    "questions": [
+      {
+        "prompt": "What is being announced?",
+        "options": [
+          "A meeting for club leaders on the main quad",
+          "A competition between different student clubs",
+          "A new club for students interested in robots",
+          "An event where students can learn about clubs"
+        ],
+        "answer": 3,
+        "explanation": "The coordinator announces the fall club fair, where students can meet more than one hundred clubs."
+      },
+      {
+        "prompt": "What will happen if it rains?",
+        "options": [
+          "The fair will be moved to Friday.",
+          "The fair will be held in the gym.",
+          "The fair will end at eleven.",
+          "The fair will be canceled."
+        ],
+        "answer": 1,
+        "explanation": "He says that in case of rain, the fair will move to the recreation center gym."
+      }
+    ]
+  },
+  {
+    "id": "an2-43",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the campus athletics department.",
+    "speaker": {
+      "role": "athletics department staff member",
+      "gender": "male"
+    },
+    "text": "Heading to Saturday's football game? The athletics department has a new bag policy. Only clear plastic bags or small purses no bigger than your hand will be allowed into the stadium. Backpacks won't be permitted, and there's no place to store them at the gates. Free clear bags will be handed out at the student union on Friday afternoon while supplies last. Gates open ninety minutes before kickoff.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "A change in the time of a football game",
+          "A bag storage service at the gates",
+          "A new place to buy game tickets",
+          "A new rule about bags at the stadium"
+        ],
+        "answer": 3,
+        "explanation": "The speaker explains the new policy limiting which bags are allowed into the stadium."
+      },
+      {
+        "prompt": "How can students get a clear bag?",
+        "options": [
+          "Buy one at the stadium gates before kickoff",
+          "Order one through the athletics website",
+          "Pick one up at the student union on Friday",
+          "Exchange a backpack for one at the entrance"
+        ],
+        "answer": 2,
+        "explanation": "He says free clear bags will be handed out at the student union on Friday afternoon."
+      }
+    ]
+  },
+  {
+    "id": "an2-44",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the campus sustainability office.",
+    "speaker": {
+      "role": "sustainability coordinator",
+      "gender": "female"
+    },
+    "text": "Hi, everyone. As move-out week approaches, please don't throw away things you no longer need. We're collecting clothing, small appliances, unopened food, and school supplies in donation bins in every residence hall lobby. Everything we collect will go to local charities. We can't accept mattresses or anything that's broken, though. The bins will be available from May first through the last day of move-out.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To explain move-out procedures for residence halls",
+          "To sell used items to incoming students",
+          "To encourage students to donate unwanted items",
+          "To announce a new campus recycling rule"
+        ],
+        "answer": 2,
+        "explanation": "The coordinator asks students to donate things they no longer need instead of throwing them away."
+      },
+      {
+        "prompt": "Which item will not be accepted?",
+        "options": [
+          "A broken desk lamp",
+          "A box of unopened food",
+          "A used winter coat",
+          "A working coffee maker"
+        ],
+        "answer": 0,
+        "explanation": "She says the bins can't accept mattresses or anything that is broken."
+      }
+    ]
+  },
+  {
+    "id": "an2-45",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the campus information technology office.",
+    "speaker": {
+      "role": "IT staff member",
+      "gender": "male"
+    },
+    "text": "Attention, students and staff. The university email system will be unavailable this Saturday from midnight until six a.m. for scheduled maintenance. During that time, you won't be able to send or receive messages, but any email sent to you will be delivered once the system is back up. The online course system won't be affected. If you have trouble with your email after six a.m., please contact the IT help desk.",
+    "questions": [
+      {
+        "prompt": "What is the announcement mainly about?",
+        "options": [
+          "A planned shutdown of the email system",
+          "A new email system for the university",
+          "A problem with the online course system",
+          "New hours for the IT help desk"
+        ],
+        "answer": 0,
+        "explanation": "The speaker announces that the email system will be down for maintenance early Saturday."
+      },
+      {
+        "prompt": "What will happen to emails sent during the maintenance?",
+        "options": [
+          "They will be delivered afterward.",
+          "They will be returned to the sender.",
+          "They will be permanently lost.",
+          "They will appear in the course system."
+        ],
+        "answer": 0,
+        "explanation": "He says any email sent during the outage will be delivered once the system is back up."
+      }
+    ]
+  },
+  {
+    "id": "an2-46",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the campus facilities office.",
+    "speaker": {
+      "role": "facilities coordinator",
+      "gender": "female"
+    },
+    "text": "Good morning. Starting Monday, the main walkway between the library and the science center will be closed for about two weeks while workers replace damaged pavement. Pedestrians should use the path that goes around the east side of the fountain instead, and signs will mark the detour. Bicycles aren't allowed on that path, though, so cyclists will need to use Campus Drive during this time.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce new bicycle parking areas",
+          "To describe repairs to the campus fountain",
+          "To inform people about a walkway closure",
+          "To explain why the library will be closed"
+        ],
+        "answer": 2,
+        "explanation": "The coordinator announces that the main walkway will be closed for two weeks and describes the detour."
+      },
+      {
+        "prompt": "What are cyclists asked to do?",
+        "options": [
+          "Use the path by the fountain",
+          "Walk their bikes on the walkway",
+          "Park their bikes by the library",
+          "Use Campus Drive"
+        ],
+        "answer": 3,
+        "explanation": "She says bicycles aren't allowed on the detour path, so cyclists must use Campus Drive."
+      }
+    ]
+  },
+  {
+    "id": "an2-47",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement on the campus radio station.",
+    "speaker": {
+      "role": "museum educator",
+      "gender": "female"
+    },
+    "text": "Hello, listeners. The university art museum is opening a new exhibit next Friday called Paper and Light. It features more than sixty prints made by students and faculty over the past fifty years. The opening reception starts at six p.m. and includes a short talk by the exhibit's curator, followed by light refreshments. Admission is always free for students, and the exhibit will run through the end of March.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce a contest for student artists",
+          "To explain a change in museum admission",
+          "To promote the opening of a new exhibit",
+          "To invite students to work at the museum"
+        ],
+        "answer": 2,
+        "explanation": "The educator invites listeners to a new exhibit of prints and its opening reception."
+      },
+      {
+        "prompt": "What will happen at the opening reception?",
+        "options": [
+          "Visitors will make their own prints.",
+          "Guests will vote for a favorite print.",
+          "A curator will give a short talk.",
+          "The artists will sell their prints."
+        ],
+        "answer": 2,
+        "explanation": "She says the reception includes a short talk by the exhibit's curator."
+      }
+    ]
+  },
+  {
+    "id": "an2-48",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at a campus jazz concert.",
+    "speaker": {
+      "role": "concert host",
+      "gender": "male"
+    },
+    "text": "Good evening, and welcome to the fall jazz ensemble concert. Before we begin, please silence your phones. There'll be a fifteen-minute intermission after the first set, and drinks will be sold in the lobby at that time. Also, the ensemble's spring trip to a national festival is partly funded by tonight's raffle. Tickets are two dollars each in the lobby, and winners will be drawn at the end of the show.",
+    "questions": [
+      {
+        "prompt": "What will the money from the raffle be used for?",
+        "options": [
+          "New instruments for the band",
+          "Drinks sold at intermission",
+          "Scholarships for music students",
+          "A trip by the jazz ensemble"
+        ],
+        "answer": 3,
+        "explanation": "The host says the raffle helps fund the ensemble's spring trip to a national festival."
+      },
+      {
+        "prompt": "When will the raffle winners be chosen?",
+        "options": [
+          "During the intermission",
+          "At the end of the concert",
+          "Before the first set begins",
+          "At the spring festival"
+        ],
+        "answer": 1,
+        "explanation": "He says winners will be drawn at the end of the show."
+      }
+    ]
+  },
+  {
+    "id": "an2-49",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the campus volunteer center.",
+    "speaker": {
+      "role": "volunteer coordinator",
+      "gender": "male"
+    },
+    "text": "Hi, everyone. This Saturday, the volunteer center is organizing a cleanup at Willow Creek Park, just south of campus. We'll meet at nine a.m. outside the student union and walk over together. Gloves, trash bags, and snacks will be provided, but please bring your own water bottle. The cleanup ends at noon. You can sign up on our website, and if you're under eighteen, you'll need a signed permission form.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce the opening of a new park",
+          "To ask for donations of cleaning supplies",
+          "To recruit volunteers for a park cleanup",
+          "To describe a new walking trail near campus"
+        ],
+        "answer": 2,
+        "explanation": "The coordinator invites students to join a Saturday cleanup at a nearby park."
+      },
+      {
+        "prompt": "What should volunteers bring?",
+        "options": [
+          "Gloves and some trash bags",
+          "Snacks for the group",
+          "A packed lunch",
+          "Their own water bottle"
+        ],
+        "answer": 3,
+        "explanation": "He says gloves, bags, and snacks are provided, but volunteers should bring their own water bottle."
+      }
+    ]
+  },
+  {
+    "id": "an2-50",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the university's weather information line.",
+    "speaker": {
+      "role": "university communications officer",
+      "gender": "female"
+    },
+    "text": "This is an update from the university. Because of heavy snow overnight, all classes before noon today are canceled. Afternoon and evening classes will meet as scheduled, unless your instructor tells you otherwise. Dining halls and the library will open at their normal times. Please use caution on walkways, since crews are still clearing snow. We'll post another update on the university website by ten a.m.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce that the campus is closed all day",
+          "To ask students to help clear the snow",
+          "To announce that morning classes are canceled",
+          "To explain new hours for the library"
+        ],
+        "answer": 2,
+        "explanation": "The officer announces that classes before noon are canceled because of heavy snow."
+      },
+      {
+        "prompt": "What does the speaker say about afternoon classes?",
+        "options": [
+          "They are canceled along with the morning classes.",
+          "They will be held online instead of in person.",
+          "They will begin one hour later than usual.",
+          "They will meet unless an instructor says otherwise."
+        ],
+        "answer": 3,
+        "explanation": "She says afternoon and evening classes will meet as scheduled unless instructors say otherwise."
+      }
+    ]
+  },
+  {
+    "id": "an2-51",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at the campus bookstore.",
+    "speaker": {
+      "role": "bookstore manager",
+      "gender": "male"
+    },
+    "text": "Attention, shoppers. Our end-of-semester textbook buyback starts Monday and runs through Friday. Just bring your used textbooks to the counter at the back of the store, and we'll pay you in cash on the spot. Books in good condition can earn up to half of what you originally paid. However, we can't buy back books with water damage, and we can't accept access codes that have already been used.",
+    "questions": [
+      {
+        "prompt": "What is being announced?",
+        "options": [
+          "A sale on books for next semester",
+          "A program to buy used textbooks",
+          "A new location for the counter",
+          "A plan to rent textbooks to students"
+        ],
+        "answer": 1,
+        "explanation": "The manager announces the end-of-semester buyback of used textbooks."
+      },
+      {
+        "prompt": "What does the manager say about books in good condition?",
+        "options": [
+          "They will be exchanged only for store credit.",
+          "They must come with an unused access code.",
+          "They will be accepted only on Monday.",
+          "They can earn up to half their original price."
+        ],
+        "answer": 3,
+        "explanation": "He says books in good condition can earn up to half of what students paid."
+      }
+    ]
+  },
+  {
+    "id": "an2-52",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at a residence hall meeting.",
+    "speaker": {
+      "role": "residence hall director",
+      "gender": "female"
+    },
+    "text": "Hi, all. Starting next week, packages will no longer be picked up at the front desk of your residence hall. Instead, they'll go to the new package center in the basement of the student union. You'll get an email with a pickup code whenever something arrives for you. Just show the code and your ID. The center is open from nine a.m. to nine p.m. every day, including weekends.",
+    "questions": [
+      {
+        "prompt": "What change is the speaker announcing?",
+        "options": [
+          "Packages will be delivered to students' rooms.",
+          "The front desk will be open for longer hours.",
+          "Students will now pay for package delivery.",
+          "Packages will be picked up at a new place."
+        ],
+        "answer": 3,
+        "explanation": "She says packages will go to a new package center in the student union instead of the hall's front desk."
+      },
+      {
+        "prompt": "What do students need in order to pick up a package?",
+        "options": [
+          "A signed form from the desk",
+          "A pickup code and their ID",
+          "Their room key and their ID",
+          "An appointment made by email"
+        ],
+        "answer": 1,
+        "explanation": "She says students must show their pickup code and their ID."
+      }
+    ]
+  },
+  {
+    "id": "an2-53",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement from the campus writing center.",
+    "speaker": {
+      "role": "writing center director",
+      "gender": "male"
+    },
+    "text": "Hello, everyone. To help with end-of-term papers, the writing center is extending its hours for the next three weeks. We'll be open until ten p.m. Monday through Thursday, and we're adding Sunday afternoon hours from one to five. Appointments can be booked online up to a week in advance. We also accept walk-ins, but during these busy weeks, they'll only be possible if a tutor happens to be free.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To recruit new student tutors for the writing center",
+          "To explain how to write end-of-term papers",
+          "To say that walk-ins are no longer accepted",
+          "To announce longer hours at the writing center"
+        ],
+        "answer": 3,
+        "explanation": "The director announces extended weekday hours and new Sunday hours for the next three weeks."
+      },
+      {
+        "prompt": "What does the speaker say about walk-ins?",
+        "options": [
+          "They are accepted only on Sundays.",
+          "They must be booked a week ahead.",
+          "They depend on whether a tutor is free.",
+          "They are not allowed during busy weeks."
+        ],
+        "answer": 2,
+        "explanation": "He says walk-ins will only be possible if a tutor happens to be free."
+      }
+    ]
+  },
+  {
+    "id": "an2-54",
+    "difficulty": "intermediate",
+    "intro": "Listen to an announcement at the student union information desk.",
+    "speaker": {
+      "role": "information desk staff member",
+      "gender": "female"
+    },
+    "text": "Attention, please. The student union lost and found has collected a large number of items this semester, including jackets, water bottles, and several phones. If you've lost something, stop by the information desk on the first floor with a description of the item. Phones and wallets are kept in a locked cabinet, so you'll need to show ID to claim them. Unclaimed items will be donated after December fifteenth.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To ask students to donate old jackets",
+          "To announce a new information desk",
+          "To encourage people to claim lost items",
+          "To warn students about stolen phones"
+        ],
+        "answer": 2,
+        "explanation": "The speaker urges people to come to the information desk to claim items in the lost and found."
+      },
+      {
+        "prompt": "What will happen to items not claimed by December fifteenth?",
+        "options": [
+          "They will be sold online.",
+          "They will be locked away.",
+          "They will be donated.",
+          "They will be thrown out."
+        ],
+        "answer": 2,
+        "explanation": "She says unclaimed items will be donated after December fifteenth."
+      }
+    ]
+  },
+  {
+    "id": "an2-55",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at a residence hall meeting.",
+    "speaker": {
+      "role": "resident assistant",
+      "gender": "female"
+    },
+    "text": "Okay, one important thing before winter break. All residence halls close on December twentieth, except Maple Hall, which stays open for students who need housing over the break. If you need to stay, apply online by December first. There's a fee of one hundred fifty dollars, but students with campus jobs during the break can have it waived. Anyone still in a closed hall after the twentieth will be charged a late checkout fine.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce that Maple Hall will close soon",
+          "To recruit students for winter break jobs",
+          "To explain housing options over winter break",
+          "To describe new fines for damaged rooms"
+        ],
+        "answer": 2,
+        "explanation": "The resident assistant explains which hall stays open over break and how to apply to stay there."
+      },
+      {
+        "prompt": "Which student would not have to pay the winter break housing fee?",
+        "options": [
+          "One who works on campus over the break",
+          "One who applies before December first",
+          "One who already lives in Maple Hall",
+          "One whose home is far from campus"
+        ],
+        "answer": 0,
+        "explanation": "She says the fee is waived for students who have campus jobs during the break."
+      }
+    ]
+  },
+  {
+    "id": "an2-56",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement from campus dining services.",
+    "speaker": {
+      "role": "dining services director",
+      "gender": "male"
+    },
+    "text": "Good afternoon. Next semester, we're replacing the weekly meal plan with a semester-based plan. Instead of fourteen swipes that expire every Sunday, you'll get two hundred swipes to use whenever you like. However, swipes won't carry over to the following semester, so plan accordingly. Students who currently have the unlimited plan won't be affected, and the price of every plan will remain the same.",
+    "questions": [
+      {
+        "prompt": "What change is the speaker announcing?",
+        "options": [
+          "The price of every meal plan will go up next semester.",
+          "Meal swipes will be given per semester, not per week.",
+          "The unlimited meal plan will no longer be offered.",
+          "Students will receive more meal swipes each week."
+        ],
+        "answer": 1,
+        "explanation": "He says the weekly plan of fourteen swipes is being replaced by two hundred swipes for the whole semester."
+      },
+      {
+        "prompt": "What can be inferred about a student who uses only one hundred fifty swipes in the fall?",
+        "options": [
+          "The remaining swipes will be lost.",
+          "The student will get a partial refund.",
+          "The swipes will be added to spring.",
+          "The student will switch plans."
+        ],
+        "answer": 0,
+        "explanation": "Swipes don't carry over to the next semester, so the unused fifty will expire."
+      }
+    ]
+  },
+  {
+    "id": "an2-57",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at the campus library.",
+    "speaker": {
+      "role": "library staff member",
+      "gender": "male"
+    },
+    "text": "Hello, everyone. Beginning next month, our interlibrary loan service is moving to a new online system. Requests submitted through the old form will still be filled until the end of this month, but after that, the old form will stop working. You'll log in to the new system with your regular student account. One improvement: articles will now be delivered as PDFs to your email, usually within two days, instead of being printed for pickup.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "A new way to log in to student accounts",
+          "A plan to stop lending printed books",
+          "A new fee for having articles delivered by email",
+          "A change in how interlibrary loans are requested"
+        ],
+        "answer": 3,
+        "explanation": "The speaker explains that interlibrary loan requests are moving to a new online system."
+      },
+      {
+        "prompt": "What can be inferred about a request made through the old form next month?",
+        "options": [
+          "It will arrive within two days.",
+          "It will be printed for pickup.",
+          "It will move to the new system.",
+          "It will not be processed."
+        ],
+        "answer": 3,
+        "explanation": "He says the old form will stop working after the end of this month, so later requests won't be filled."
+      }
+    ]
+  },
+  {
+    "id": "an2-58",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement from the campus parking office.",
+    "speaker": {
+      "role": "parking services manager",
+      "gender": "female"
+    },
+    "text": "Good morning. Because demand for student parking permits has grown, spring permits will be assigned by lottery instead of first come, first served. You can enter the lottery online between November first and fifteenth. Students who commute more than thirty miles or who have off-campus internships will be given permits first and don't need to enter the lottery. Results will be emailed by December first.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce higher prices for student parking permits",
+          "To describe new parking lots for commuters",
+          "To remind students to renew their permits",
+          "To explain a new way of assigning parking permits"
+        ],
+        "answer": 3,
+        "explanation": "The manager explains that spring permits will now be assigned through a lottery."
+      },
+      {
+        "prompt": "Which student does not need to enter the lottery?",
+        "options": [
+          "One who commutes forty miles to campus",
+          "One who applied early in October",
+          "One who lives in campus housing",
+          "One who had a permit last semester"
+        ],
+        "answer": 0,
+        "explanation": "Students who commute more than thirty miles receive permits first without entering the lottery."
+      }
+    ]
+  },
+  {
+    "id": "an2-59",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at the campus recreation center.",
+    "speaker": {
+      "role": "intramural sports coordinator",
+      "gender": "male"
+    },
+    "text": "Hi, everyone. Registration for intramural volleyball opens Monday. Each team needs at least eight players and must pay a thirty-dollar deposit when signing up. If your team plays every scheduled game, or cancels at least twenty-four hours ahead, you'll get the full deposit back at the end of the season. But a team that simply doesn't show up loses its deposit and may be removed from the league.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce the results of the volleyball season",
+          "To explain the registration rules for a league",
+          "To recruit referees for intramural games",
+          "To describe a change in the size of teams"
+        ],
+        "answer": 1,
+        "explanation": "The coordinator explains how to register a volleyball team and how the deposit works."
+      },
+      {
+        "prompt": "What can be inferred about a team that cancels a game two days in advance?",
+        "options": [
+          "It will be removed from the league.",
+          "It must pay another thirty dollars.",
+          "It can still get its deposit back.",
+          "It will have to replay the game."
+        ],
+        "answer": 2,
+        "explanation": "Teams that cancel at least twenty-four hours ahead still receive the full deposit."
+      }
+    ]
+  },
+  {
+    "id": "an2-60",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement from the student health center.",
+    "speaker": {
+      "role": "health center director",
+      "gender": "male"
+    },
+    "text": "Hello. Starting next week, the student health center will see patients by appointment only, which should cut down on long waits in the lobby. You can book appointments online or by phone, often for the same day. The one exception is urgent problems, such as a high fever or an injury; those patients will still be seen without an appointment. Anyone who arrives more than ten minutes late may be asked to reschedule.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To describe the signs of common illnesses",
+          "To announce a change in how patients are seen",
+          "To explain new opening hours at the health center",
+          "To ask students to get checkups early"
+        ],
+        "answer": 1,
+        "explanation": "The director announces that the health center will move to an appointment-only system."
+      },
+      {
+        "prompt": "Who could be seen without an appointment?",
+        "options": [
+          "A student who wants a routine checkup",
+          "A student who calls on the same day",
+          "A student who arrives ten minutes early",
+          "A student who has just sprained an ankle"
+        ],
+        "answer": 3,
+        "explanation": "Injuries count as urgent problems, which are the one exception to the appointment rule."
+      }
+    ]
+  },
+  {
+    "id": "an2-61",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at a student government meeting.",
+    "speaker": {
+      "role": "student government treasurer",
+      "gender": "female"
+    },
+    "text": "Good evening. As treasurer, I want to explain how club funding requests will work this spring. All requests must be submitted by February tenth, and each club will present its request at a budget hearing later that month. Clubs that skip the hearing won't receive funding, even if their paperwork is complete. And because our total budget is ten percent smaller this year, please expect that most requests will be reduced.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To explain the process for requesting club funds",
+          "To introduce a new student government treasurer",
+          "To report how last year's funds were spent",
+          "To ask clubs to start raising their own money"
+        ],
+        "answer": 0,
+        "explanation": "The treasurer explains the deadline and hearing process for club funding requests."
+      },
+      {
+        "prompt": "What can be inferred about the funding clubs will receive this year?",
+        "options": [
+          "Most clubs will get more than last year.",
+          "Clubs that apply early will be fully funded.",
+          "Funds will be split equally among clubs.",
+          "Many clubs will get less than they request."
+        ],
+        "answer": 3,
+        "explanation": "With a smaller budget, she says most requests will be reduced."
+      }
+    ]
+  },
+  {
+    "id": "an2-62",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement from the campus career center.",
+    "speaker": {
+      "role": "career advisor",
+      "gender": "male"
+    },
+    "text": "Hi, everyone. If you're interested in a summer internship, the career center is holding an information session next Wednesday at four in room two-twelve of the student union. We'll explain how to apply to our partner employers. Many of these positions require a reference letter from a professor, and professors usually need at least two weeks' notice. Since applications are due March first, now is the time to start asking.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce a list of new partner employers",
+          "To promote a session on applying for internships",
+          "To explain how to write a reference letter",
+          "To announce a change to the internship application deadline"
+        ],
+        "answer": 1,
+        "explanation": "The advisor invites students to an information session on applying for summer internships."
+      },
+      {
+        "prompt": "Why does the advisor suggest contacting professors soon?",
+        "options": [
+          "The session has limited seating.",
+          "Employers prefer early applicants.",
+          "Professors need time to write letters.",
+          "Applications are due next Wednesday."
+        ],
+        "answer": 2,
+        "explanation": "He says professors usually need at least two weeks' notice to write reference letters."
+      }
+    ]
+  },
+  {
+    "id": "an2-63",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at a campus sustainability fair.",
+    "speaker": {
+      "role": "sustainability coordinator",
+      "gender": "male"
+    },
+    "text": "Thanks for stopping by. This spring, we're adding compost bins to the kitchens in all residence halls. You can put in fruit and vegetable scraps, coffee grounds, and paper napkins, but no meat, dairy, or plastic, even if it's labeled compostable. If a building's bin is contaminated too often, we'll have to remove it. The compost goes to the campus farm, where it's used to grow food for the dining halls.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To introduce a composting program in the dorms",
+          "To recruit students to work at the campus farm",
+          "To explain how dining halls choose their food",
+          "To ban all plastic from residence hall kitchens"
+        ],
+        "answer": 0,
+        "explanation": "The coordinator introduces the new compost bins and explains what can go in them."
+      },
+      {
+        "prompt": "What might happen if residents of a building often put plastic in the bin?",
+        "options": [
+          "The bin could be taken out of that building.",
+          "Residents would have to pay a cleaning fee.",
+          "The compost would be sent to a landfill.",
+          "Residents would have to attend a training."
+        ],
+        "answer": 0,
+        "explanation": "He says bins that are contaminated too often will be removed from the building."
+      }
+    ]
+  },
+  {
+    "id": "an2-64",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement on the campus radio station.",
+    "speaker": {
+      "role": "IT security specialist",
+      "gender": "female"
+    },
+    "text": "This is a message from campus IT. By October thirty-first, every student must set up two-step verification for their university account. After that date, accounts without it will be locked until the student visits the IT help desk in person. Setup takes about five minutes on our website. If you don't have a smartphone, we can give you a small security key instead, but supplies are limited, so request one early.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To report that several student accounts have been hacked",
+          "To explain why smartphones are now required",
+          "To remind students to set up a security feature",
+          "To introduce new hours for the IT help desk"
+        ],
+        "answer": 2,
+        "explanation": "The specialist reminds students that two-step verification must be set up by October thirty-first."
+      },
+      {
+        "prompt": "What will happen to a student who has not completed setup by November first?",
+        "options": [
+          "The student will receive a security key by mail.",
+          "The student must visit the help desk in person.",
+          "The student will be given a five-day extension.",
+          "The student will lose email access permanently."
+        ],
+        "answer": 1,
+        "explanation": "Accounts without two-step verification after the deadline are locked until the student visits the help desk."
+      }
+    ]
+  },
+  {
+    "id": "an2-65",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at a campus town hall meeting.",
+    "speaker": {
+      "role": "associate provost",
+      "gender": "male"
+    },
+    "text": "Good afternoon. As you may know, construction of the new science building begins in March. The loudest work, mostly drilling for the foundation, will happen between seven and ten in the morning. Because Baxter Hall is right next to the site, all morning classes there will move to the humanities building for about two months. Afternoon classes in Baxter won't change, since the heavy work will be finished by then each day.",
+    "questions": [
+      {
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "How a construction project will affect classes",
+          "Why a new science building is being built",
+          "Plans to renovate the humanities building",
+          "A change in the start time of morning classes"
+        ],
+        "answer": 0,
+        "explanation": "The speaker explains how construction noise will lead to moving some Baxter Hall classes."
+      },
+      {
+        "prompt": "What can be inferred about a two p.m. class in Baxter Hall?",
+        "options": [
+          "It will move to the humanities building.",
+          "It will be interrupted by drilling.",
+          "It will start earlier than usual.",
+          "It will stay in its usual room."
+        ],
+        "answer": 3,
+        "explanation": "Only morning classes are moving, and afternoon classes in Baxter won't change."
+      }
+    ]
+  },
+  {
+    "id": "an2-66",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at the campus theater box office.",
+    "speaker": {
+      "role": "box office manager",
+      "gender": "female"
+    },
+    "text": "Hello, everyone. Tickets for this weekend's performances of the spring musical are sold out. However, we'll hold a lottery for returned and unclaimed seats one hour before each show. Enter in person at the box office with your student ID; each student may enter once per performance. Winners can buy up to two tickets at the regular student price. If you're not present when names are called, your chance goes to the next person.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce extra performances of a musical",
+          "To explain a new price for student tickets",
+          "To explain a way to get seats for a sold-out show",
+          "To recruit volunteers to work at the box office"
+        ],
+        "answer": 2,
+        "explanation": "The manager explains a lottery for returned seats to the sold-out musical."
+      },
+      {
+        "prompt": "What can be inferred about entering the lottery?",
+        "options": [
+          "Students can enter the lottery online before each show.",
+          "Students may enter several times per show.",
+          "Students who win will receive free tickets.",
+          "Students should stay nearby until names are called."
+        ],
+        "answer": 3,
+        "explanation": "Winners who are not present when called lose their chance, so entrants need to remain at the box office."
+      }
+    ]
+  },
+  {
+    "id": "an2-67",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at a transfer student orientation.",
+    "speaker": {
+      "role": "orientation coordinator",
+      "gender": "male"
+    },
+    "text": "Welcome, transfer students. Before you leave today, I'd like to tell you about our peer mentor program. Each of you can be paired with a student who transferred here last year and knows the campus well. Mentors meet with you twice a month during your first semester. To join, fill out the form at the back table before four o'clock today. After today, we'll only accept requests if mentors are still available.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To recruit experienced students to be mentors",
+          "To invite students to join a mentoring program",
+          "To explain how transfer credits are counted",
+          "To describe the schedule for the rest of the day"
+        ],
+        "answer": 1,
+        "explanation": "The coordinator invites new transfer students to sign up for peer mentors."
+      },
+      {
+        "prompt": "What does the speaker imply about students who wait until tomorrow to sign up?",
+        "options": [
+          "They will meet their mentor once a month.",
+          "They might not be matched with a mentor.",
+          "They must apply through the website instead.",
+          "They will be paired with a first-year student."
+        ],
+        "answer": 1,
+        "explanation": "He says requests after today will be accepted only if mentors are still available."
+      }
+    ]
+  },
+  {
+    "id": "an2-68",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at a campus volunteer fair.",
+    "speaker": {
+      "role": "volunteer program director",
+      "gender": "female"
+    },
+    "text": "Hi, everyone. Our reading buddies program pairs university students with second graders at two local elementary schools. Volunteers read with the same child for one hour every week. Because you'll be working with children, the schools require a background check, which we'll pay for. It takes about ten days, and you can't start until it's done. The program begins February third, so apply by mid-January to be ready in time.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To recruit volunteers for a children's reading program",
+          "To explain how to apply for teaching jobs at schools",
+          "To announce a new course on children's literature",
+          "To ask volunteers to pay for their background checks"
+        ],
+        "answer": 0,
+        "explanation": "The director invites students to volunteer as reading partners for second graders."
+      },
+      {
+        "prompt": "What can be inferred about a student who applies on February first?",
+        "options": [
+          "The student cannot start on February third.",
+          "The student must pay for the background check.",
+          "The student will work with older children.",
+          "The student will read with a new child weekly."
+        ],
+        "answer": 0,
+        "explanation": "The background check takes about ten days and must be finished before volunteering begins."
+      }
+    ]
+  },
+  {
+    "id": "an2-69",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement from the dean of students office.",
+    "speaker": {
+      "role": "dean of students",
+      "gender": "male"
+    },
+    "text": "Good morning. The weather service has issued a heat advisory for this afternoon, with temperatures expected to pass one hundred degrees. As a result, the outdoor welcome picnic is moving from the main lawn to the air-conditioned student union ballroom. Intramural games scheduled before six p.m. are canceled; games after six will go on as planned. Cooling stations with free water will be set up in the library and the recreation center.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce event changes because of extreme heat",
+          "To invite new students to a welcome picnic on the lawn",
+          "To explain new rules for intramural sports",
+          "To warn about a thunderstorm later today"
+        ],
+        "answer": 0,
+        "explanation": "The dean explains how a heat advisory will change today's picnic and intramural games."
+      },
+      {
+        "prompt": "What can be inferred about an intramural game scheduled for seven p.m.?",
+        "options": [
+          "It will be moved indoors.",
+          "It will take place as scheduled.",
+          "It will be canceled.",
+          "It will start at six p.m."
+        ],
+        "answer": 1,
+        "explanation": "Only games before six are canceled, so a seven p.m. game will go on as planned."
+      }
+    ]
+  },
+  {
+    "id": "an2-70",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement from the study abroad office.",
+    "speaker": {
+      "role": "study abroad advisor",
+      "gender": "female"
+    },
+    "text": "Hello, everyone. Applications for fall study abroad programs are due February fifteenth. Before applying, every student must attend one of our information sessions, held each Tuesday at noon in the international center. Applications from students who haven't attended a session won't be reviewed. Also, if you plan to take courses in another language, you'll need a recommendation from a language instructor, so ask early.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To explain requirements for study abroad applications",
+          "To announce new study abroad destinations",
+          "To invite students to take a foreign language course abroad",
+          "To change the deadline for applications"
+        ],
+        "answer": 0,
+        "explanation": "The advisor explains what students must do before and while applying to study abroad."
+      },
+      {
+        "prompt": "What will happen to a student who applies without attending a session?",
+        "options": [
+          "The student will need a recommendation.",
+          "The application will not be reviewed.",
+          "The student will be put on a waiting list.",
+          "The student will be invited to a late session."
+        ],
+        "answer": 1,
+        "explanation": "She says applications from students who haven't attended an information session won't be reviewed."
+      }
+    ]
+  },
+  {
+    "id": "an2-71",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement in a residence hall lobby.",
+    "speaker": {
+      "role": "residence hall director",
+      "gender": "male"
+    },
+    "text": "Attention, Cedar Hall residents. Water to the building will be shut off tomorrow from nine a.m. to three p.m. while plumbers replace a main pipe. Showers, sinks, and toilets won't work during those hours. Residents may use the showers at the recreation center, which will open an hour earlier than usual, at five a.m., for anyone with early classes. Bottled water will also be available at the front desk.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To warn residents of a temporary water shutoff",
+          "To announce new hours for the recreation center",
+          "To ask residents to use less water this week",
+          "To explain a plumbing problem in the showers"
+        ],
+        "answer": 0,
+        "explanation": "The director warns residents that water will be off tomorrow and explains alternatives."
+      },
+      {
+        "prompt": "What can be inferred about the recreation center?",
+        "options": [
+          "It will close at three p.m.",
+          "It will hand out bottled water.",
+          "It is located inside Cedar Hall.",
+          "It usually opens at six a.m."
+        ],
+        "answer": 3,
+        "explanation": "It will open an hour earlier than usual at five a.m., so it normally opens at six."
+      }
+    ]
+  },
+  {
+    "id": "an2-72",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement at the campus farmers market.",
+    "speaker": {
+      "role": "campus farm manager",
+      "gender": "female"
+    },
+    "text": "Hi, everyone. This spring, the campus farm is offering a weekly produce share. For sixty dollars, you'll get a box of fresh vegetables every Thursday for ten weeks, starting in April. Boxes can be picked up at the farm stand between three and six. Shares are limited to one hundred, and last year they sold out in two days. If you can't pick up your box, a friend can collect it, but boxes left after six will be donated.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce the opening of a new farm stand",
+          "To advertise a weekly vegetable program",
+          "To recruit volunteers to work at the farm",
+          "To ask for donations to a local food bank"
+        ],
+        "answer": 1,
+        "explanation": "The manager describes the cost, schedule, and pickup rules for the farm's weekly produce share."
+      },
+      {
+        "prompt": "What does the speaker imply about the produce shares?",
+        "options": [
+          "They cost more than they did last year.",
+          "They can be picked up on any weekday.",
+          "Students who want one should sign up quickly.",
+          "They include fruit as well as vegetables."
+        ],
+        "answer": 2,
+        "explanation": "Shares are limited and sold out in two days last year, suggesting interested students should act fast."
+      }
+    ]
+  },
+  {
+    "id": "an2-73",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement on the campus radio station.",
+    "speaker": {
+      "role": "ticket office manager",
+      "gender": "male"
+    },
+    "text": "Big news for hockey fans. Because the student section has been filling up so quickly, students must now reserve a free seat online before each home game. Reservations open three days before each game. If you reserve but don't arrive by the end of the first period, your seat will be released to students waiting at the door. Students who miss three reserved games will lose reservation privileges for the season.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To announce the price of student tickets",
+          "To promote an upcoming hockey tournament",
+          "To describe changes to the game schedule",
+          "To explain a new system for student seating"
+        ],
+        "answer": 3,
+        "explanation": "The manager explains that students must now reserve free seats online before home games."
+      },
+      {
+        "prompt": "What will happen to a student who reserves a seat but arrives in the second period?",
+        "options": [
+          "The seat may already belong to someone else.",
+          "The student will lose reservation privileges.",
+          "The student will be charged a late fee.",
+          "The student will sit in another section."
+        ],
+        "answer": 0,
+        "explanation": "Seats not claimed by the end of the first period are released to students waiting at the door."
+      }
+    ]
+  },
+  {
+    "id": "an2-74",
+    "difficulty": "advanced",
+    "intro": "Listen to an announcement from the campus emergency management office.",
+    "speaker": {
+      "role": "emergency management coordinator",
+      "gender": "female"
+    },
+    "text": "Good morning. This Wednesday at noon, we'll test the campus emergency alert system. You'll hear sirens for about three minutes, and you'll receive a test text message and email. You don't need to leave buildings or take any action. However, if you don't receive a test message, it means your contact information is out of date, so please update it in the student portal by Friday.",
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To explain what people should do in a real emergency",
+          "To inform people about a test of the alert system",
+          "To announce a building evacuation drill",
+          "To introduce a new student portal"
+        ],
+        "answer": 1,
+        "explanation": "The coordinator announces Wednesday's test of the emergency alert system."
+      },
+      {
+        "prompt": "What should a student do if no test message arrives?",
+        "options": [
+          "Report the problem to the emergency office",
+          "Leave the building when the sirens sound",
+          "Update contact information in the portal",
+          "Wait for a second test on Friday"
+        ],
+        "answer": 2,
+        "explanation": "She says a missing message means contact information is out of date and should be updated in the student portal."
+      }
+    ]
+  }
+]
