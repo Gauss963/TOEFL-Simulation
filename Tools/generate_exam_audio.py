@@ -5,7 +5,7 @@ Reads Tools/content2026/audio_manifest.json ({key: [{voice, text, pause}]}) prod
 build_toefl_2026_bank.py. Each segment is spoken by its Kokoro-82M (Apache-2.0) voice:
 af_/am_ voices are North American English, bf_/bm_ voices British English. Segments are
 joined with natural pauses, encoded as mono AAC with macOS afconvert, and packed into
-TOEFL Simulation/Resources/ExamAudio.pack + ExamAudio.json (byte-range index).
+TOEFL Simulation/Resources/ExamAudio.pack (+ ExamAudio-2.pack, …: volumes under 45 MB) and ExamAudio.json.
 
     PYTORCH_ENABLE_MPS_FALLBACK=1 python Tools/generate_exam_audio.py --cache tmp/exam-audio-cache --device mps   # render
     python Tools/generate_exam_audio.py --cache tmp/exam-audio-cache --pack-only            # pack
@@ -72,9 +72,13 @@ def render(manifest: dict, cache: Path, shard: int, shards: int, device: str | N
                 print(f"shard {shard}: rendered {count}/{len(pending)}", flush=True)
 
 
+VOLUME_BYTES = 45 * 1_048_576  # keeps every pack file under GitHub's 50 MB warning size
+
+
 def pack(manifest: dict, cache: Path) -> None:
+    """Write ExamAudio.pack (+ ExamAudio-2.pack, …) and an index of [offset, length, volume]."""
     clips: dict[str, list[int]] = {}
-    blob = bytearray()
+    volumes = [bytearray()]
     missing = []
     for key in sorted(manifest):
         path = cache / clip_name(key, manifest[key])
@@ -82,12 +86,20 @@ def pack(manifest: dict, cache: Path) -> None:
             missing.append(key)
             continue
         data = path.read_bytes()
-        clips[key] = [len(blob), len(data)]
+        if volumes[-1] and len(volumes[-1]) + len(data) > VOLUME_BYTES:
+            volumes.append(bytearray())
+        blob = volumes[-1]
+        clips[key] = [len(blob), len(data)] + ([len(volumes) - 1] if len(volumes) > 1 else [])
         blob.extend(data)
-    (RESOURCES / "ExamAudio.pack").write_bytes(bytes(blob))
+    for old in RESOURCES.glob("ExamAudio-*.pack"):
+        old.unlink()
+    for number, blob in enumerate(volumes, 1):
+        name = "ExamAudio.pack" if number == 1 else f"ExamAudio-{number}.pack"
+        (RESOURCES / name).write_bytes(bytes(blob))
     index = {"engine": "Kokoro-82M", "license": "Apache-2.0", "format": "m4a", "clips": clips}
     (RESOURCES / "ExamAudio.json").write_text(json.dumps(index, separators=(",", ":"), sort_keys=True) + "\n", encoding="utf-8")
-    print(f"packed {len(clips)} recordings, {len(blob) / 1_048_576:.1f} MB; missing {len(missing)}", flush=True)
+    total = sum(len(blob) for blob in volumes)
+    print(f"packed {len(clips)} recordings in {len(volumes)} volume(s), {total / 1_048_576:.1f} MB; missing {len(missing)}", flush=True)
 
 
 def main() -> None:

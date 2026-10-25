@@ -2,9 +2,11 @@ import AVFoundation
 import Foundation
 import Combine
 
-/// Pre-rendered audio clips (Kokoro-82M, Apache-2.0) bundled as one resource pack with a byte-range index.
+/// Pre-rendered audio clips (Kokoro-82M, Apache-2.0) bundled as resource packs with a byte-range index.
+/// Large packs are split into volumes (`Name.pack`, `Name-2.pack`, …) so each file stays small enough
+/// for the repository; an index entry is `[offset, length]` or `[offset, length, volume]`.
 nonisolated final class AudioClipPack: Sendable {
-    private let pack: Data?
+    private let volumes: [Data]
     private let clips: [String: [Int]]
     private let lowercasedKeys: Bool
 
@@ -14,17 +16,24 @@ nonisolated final class AudioClipPack: Sendable {
             .flatMap { try? Data(contentsOf: $0) }
             .flatMap { try? JSONDecoder().decode(Index.self, from: $0) }
         clips = index?.clips ?? [:]
-        pack = bundle.url(forResource: name, withExtension: "pack").flatMap { try? Data(contentsOf: $0, options: .alwaysMapped) }
+        var volumes: [Data] = []
+        while let url = bundle.url(forResource: volumes.isEmpty ? name : "\(name)-\(volumes.count + 1)", withExtension: "pack"),
+              let data = try? Data(contentsOf: url, options: .alwaysMapped) {
+            volumes.append(data)
+        }
+        self.volumes = volumes
         self.lowercasedKeys = lowercasedKeys
     }
 
-    var clipCount: Int { pack == nil ? 0 : clips.count }
+    var clipCount: Int { volumes.isEmpty ? 0 : clips.count }
 
     func clip(for key: String) -> Data? {
         let lookup = lowercasedKeys ? key.lowercased().trimmingCharacters(in: .whitespacesAndNewlines) : key
-        guard let pack, let range = clips[lookup], range.count == 2,
-              range[0] >= 0, range[1] > 0, range[0] + range[1] <= pack.count else { return nil }
-        return pack.subdata(in: range[0]..<(range[0] + range[1]))
+        guard let range = clips[lookup], range.count == 2 || range.count == 3 else { return nil }
+        let volume = range.count == 3 ? range[2] : 0
+        guard volumes.indices.contains(volume), range[0] >= 0, range[1] > 0,
+              range[0] + range[1] <= volumes[volume].count else { return nil }
+        return volumes[volume].subdata(in: range[0]..<(range[0] + range[1]))
     }
 }
 

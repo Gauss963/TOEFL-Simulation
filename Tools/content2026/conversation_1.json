@@ -497,7 +497,7 @@
   ],
   "questions": [
    {
-    "prompt": "Why does the student speak with the woman?",
+    "prompt": "Why does the student speak with the manager?",
     "options": [
      "She wants to cancel her full meal plan.",
      "She is applying for a job at the dining hall.",
@@ -508,7 +508,7 @@
     "explanation": "Grace explains that she was just diagnosed with celiac disease and is worried about finding gluten-free food."
    },
    {
-    "prompt": "What does the woman suggest for Wednesday evenings?",
+    "prompt": "What does the manager suggest for Wednesday evenings?",
     "options": [
      "Ordering a meal in advance and picking it up later",
      "Eating at the allergen-friendly station before her lab",

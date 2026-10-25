@@ -106,11 +106,11 @@ Every push to `main` also runs [Build macOS App](.github/workflows/build-macos-a
 
 ## Question bank and audio generation
 
-`Tools/content2026/` holds the original items written to the ETS 2026 task specifications (academic passages, daily-life texts, talks, conversations, announcements, Build a Sentence items, email tasks, academic discussions, Listen and Repeat scenarios, and interview sets). `Tools/build_toefl_2026_bank.py` turns them into `TOEFL2026Bank.json` (2,212 items with set structure), generates the Complete the Words paragraphs with the official deletion rule, and assigns each speaker a distinct voice. `Tools/generate_exam_audio.py` renders every Listening and Speaking recording with Kokoro-82M voices at build time (`--device mps` uses the Apple GPU) and packs them into `ExamAudio.pack`.
+`Tools/content2026/` holds the original items written to the ETS 2026 task specifications (academic passages, daily-life texts, talks, conversations, announcements, Build a Sentence items, email tasks, academic discussions, Listen and Repeat scenarios, and interview sets). `Tools/build_toefl_2026_bank.py` turns them into `TOEFL2026Bank.json` (2,876 items with set structure), generates the Complete the Words paragraphs with the official deletion rule, and assigns each speaker a distinct voice. `Tools/generate_exam_audio.py` renders every Listening and Speaking recording with Kokoro-82M voices at build time (`--device mps` uses the Apple GPU) and packs them into `ExamAudio.pack` volumes of at most 45 MB.
 
 Each new exam uses one seed throughout the session. Debug validation checks every item's answer key, recording, and Build a Sentence structure, then samples 30 forms on both adaptive paths to confirm 50/47/12/11 items, 35 scored items per adaptive path, and no repeated items.
 
-Practice keeps a local history of the most recent 1,500 item sets you worked through and draws unseen sets first, so items return only after the pool for that task has rotated. Listen and Choose a Response has 598 distinct items across campus, academic, workplace, and everyday settings.
+Practice keeps a local history of the most recent 1,500 item sets you worked through and draws unseen sets first, so items return only after the pool for that task has rotated. Listening draws from 598 Listen and Choose a Response items, 120 conversations, 100 announcements, and 120 academic talks (60 science and engineering and 60 humanities and social science topics among the new talks), so about 20 Listening practices pass before any conversation, announcement, or talk returns.
 
 ## Trademark
 
