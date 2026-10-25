@@ -1,0 +1,702 @@
+[
+ {
+  "id": "ad3-01",
+  "difficulty": "intermediate",
+  "course": "anthropology",
+  "professor": {
+   "name": "Dr. Okafor"
+  },
+  "professor_post": "In our unit on ethnographic methods, we discussed how anthropologists gain insight into a culture by spending long periods in a single community. Many students also want to experience other cultures directly, for example during a summer or semester abroad. Some people argue that the best way to understand a foreign culture is to stay in one place, such as living with a host family for several months. Others believe it is better to travel widely across a country, visiting many cities and regions to see how much variety exists. If your goal were to understand another culture, which approach would you choose: living with one host family or traveling to many places? Explain why.",
+  "students": [
+   {
+    "name": "Hana",
+    "post": "I would choose living with a host family. When you stay in one home, you see ordinary routines that tourists never notice, like how meals are shared, how decisions are made, and how people treat older relatives. My cousin lived with a family in Peru for four months, and she said the most important lessons came from small daily conversations, not from famous sights. Depth matters more than variety."
+   },
+   {
+    "name": "Marco",
+    "post": "I think traveling widely is the better choice. A single family can give you a very narrow picture, because every household is different. If you only stay in one village, you might assume that everyone in the country thinks the same way. By visiting cities, rural areas, and different regions, you can compare dialects, food, and attitudes, and you understand the culture as a whole rather than one small part of it."
+   }
+  ],
+  "sample_response": "I side with Hana, although Marco is right that one household cannot represent an entire country. In my view, the real barrier to understanding another culture is not a lack of variety but a lack of trust. Travelers are treated as guests, so people show them a polite, carefully prepared version of their lives. A host family, by contrast, eventually stops performing. After a few weeks, you start to hear honest opinions, notice disagreements, and learn the unwritten rules that guide behavior. Language is another important factor. Living with a family forces you to use the local language every day, and language carries cultural ideas that cannot easily be translated. For example, a friend who stayed with a family in Japan only understood the importance of indirect refusals after she accidentally offended her host mother. Marco's concern could be solved with a few short trips at the end of the stay, but the depth of a home stay is difficult to replace."
+ },
+ {
+  "id": "ad3-02",
+  "difficulty": "intermediate",
+  "course": "linguistics",
+  "professor": {
+   "name": "Dr. Novak"
+  },
+  "professor_post": "We have been studying second language acquisition, including research suggesting that young children are especially good at picking up the sounds of a new language. However, other studies show that older learners often make faster progress at first, because they can understand grammar rules and use effective study strategies. This debate has practical consequences for schools, which have limited time and budgets. Imagine your local school district is revising its curriculum. Should schools begin foreign language instruction in the first grade, or would it be more effective to wait until middle school? Explain your position.",
+  "students": [
+   {
+    "name": "Yuki",
+    "post": "I believe schools should start in first grade. Young children are not afraid of making mistakes, so they happily repeat new words and sounds. That relaxed attitude is hard to recover later. In my elementary school, we had Spanish twice a week starting at age six, and many of my classmates still have a much better accent than people who started in high school. Early exposure also makes a new language seem like a normal part of life."
+   },
+   {
+    "name": "Daniel",
+    "post": "I think it is better to wait until middle school. First graders still need to build strong reading and math skills in their first language, and adding another subject may take time away from those basics. Also, many elementary schools cannot find qualified language teachers, so lessons end up being just songs and colors. Older students can learn more in a shorter time because they already understand how grammar works."
+   }
+  ],
+  "sample_response": "Although I appreciate Daniel's concern about limited class time, I agree with Yuki that schools should begin foreign language instruction in first grade. Daniel argues that older students learn faster, and that may be true in the short term, but language learning is a long process, and an early start simply gives students more total years of practice. A student who begins at six has seven or eight years of experience by the time he or she enters high school. Another benefit that has not been mentioned is that early language study can improve children's understanding of their own language. When my younger sister learned basic French, she began asking why English puts adjectives before nouns, which showed she was thinking about grammar in a new way. As for the shortage of teachers, schools could combine video lessons by native speakers with simple classroom activities. In my opinion, the long-term benefits clearly outweigh the costs."
+ },
+ {
+  "id": "ad3-03",
+  "difficulty": "intermediate",
+  "course": "philosophy",
+  "professor": {
+   "name": "Dr. Hartmann"
+  },
+  "professor_post": "This week we compared two classic views of the good life. Hedonists argue that a good life is one with as much pleasure and as little pain as possible. Other philosophers, including Aristotle, suggest that a good life comes from developing our abilities and pursuing worthwhile goals, even when this involves difficulty and struggle. Modern psychology has added evidence to both sides of this debate. For this discussion, think about your own experience and observations. Which contributes more to a good life: seeking comfort and enjoyable experiences, or pursuing challenging goals that require effort and sacrifice? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Leila",
+    "post": "I think pursuing challenging goals contributes more to a good life. Comfort feels nice, but it fades quickly, and people often become bored. When I trained for a half marathon last year, many days were painful, but finishing the race gave me a sense of pride that still motivates me today. Struggle gives our lives a story and a direction, which simple pleasure cannot provide."
+   },
+   {
+    "name": "Omar",
+    "post": "In my view, people underestimate the value of comfort and enjoyment. Many people chase difficult goals because society tells them to, and they end up stressed and exhausted. My uncle worked extremely long hours to become a manager, and he later said he regretted missing time with his children. Simple pleasures like good meals, hobbies, and relaxing with friends are what people remember most at the end of their lives."
+   }
+  ],
+  "sample_response": "I agree with Leila that challenging goals contribute more to a good life, though Omar's story about his uncle is a useful warning. I think the problem in that example was not the challenge itself but choosing the wrong goal. My main reason is that pleasure tends to lose its effect when we repeat it. The first week of a vacation feels wonderful, but by the third week many people feel restless. Challenges, on the other hand, keep producing satisfaction because they help us grow. When I started learning the piano at nineteen, I was frustrated for months, yet every small improvement gave me a deeper kind of happiness than watching another television series. Furthermore, challenging goals often bring people together, since we usually need teammates, teachers, or friends to achieve them. In that sense, a life of meaningful effort can include many of the relationships that Omar values."
+ },
+ {
+  "id": "ad3-04",
+  "difficulty": "intermediate",
+  "course": "art history",
+  "professor": {
+   "name": "Dr. Moreau"
+  },
+  "professor_post": "In our discussion of how museums have changed, we noted that many institutions now allow visitors to take photographs of the artworks, while others still ban cameras completely. Supporters of photography say that images shared online attract new visitors and help people remember what they saw. Critics argue that constant picture-taking distracts people from actually looking at the art and can disturb other visitors. Suppose you were advising the director of an art museum. Should the museum allow visitors to photograph its collection, or should it ban photography in the galleries? Explain your opinion.",
+  "students": [
+   {
+    "name": "Sofia",
+    "post": "I think museums should allow photography. When people post pictures of paintings on social media, their friends become curious and may visit the museum themselves. This is free advertising, especially for small museums with limited budgets. Also, photos help visitors remember details later. I often look at the pictures from my trip to Madrid and research the paintings I saw, which deepens my interest in art history."
+   },
+   {
+    "name": "Ethan",
+    "post": "I believe museums should ban photography in the galleries. Last summer I visited a famous museum, and it was almost impossible to see one painting because dozens of people were holding up their phones in front of it. Many of them took a picture and walked away without really looking. A museum should be a place for quiet observation, and cameras turn it into a crowded photo studio."
+   }
+  ],
+  "sample_response": "I understand Ethan's frustration with crowds, but I agree with Sofia that museums should allow photography, perhaps with a few reasonable rules. Sofia mentioned that photos act as free advertising, and I would add that photography also makes art feel more accessible to young people. Many teenagers see museums as formal, silent places where they do not belong. Being able to photograph a favorite work and share it lets them participate in a way that feels natural to them. In addition, a total ban is difficult to enforce, and guards would spend their time watching phones rather than protecting the art. A better solution would be to ban flash and selfie sticks and to offer photo-free hours for visitors who want a calmer experience. Some museums in Europe already do this successfully. That way, the museum can attract new audiences while still respecting people who come for quiet reflection."
+ },
+ {
+  "id": "ad3-05",
+  "difficulty": "intermediate",
+  "course": "music",
+  "professor": {
+   "name": "Dr. Castillo"
+  },
+  "professor_post": "In our music education unit, we have looked at different methods for teaching beginners. Traditional programs usually start by teaching students to read musical notation, so they can play written pieces accurately. Other approaches, such as the Suzuki method, emphasize learning by ear first. Students listen to and imitate music before they learn to read it, similar to how children learn to speak before they learn to read. Imagine you are designing lessons for beginning music students. Should they learn to read notation first, or should they begin by learning to play by ear? Explain why.",
+  "students": [
+   {
+    "name": "Ines",
+    "post": "I think learning by ear should come first. Music is about sound, not symbols on a page. When I started guitar, I learned songs by listening to recordings, and it trained me to hear rhythm and pitch carefully. Students who begin with notation often become dependent on the page and cannot play anything without it. Learning by ear also makes lessons more fun, so beginners are less likely to quit."
+   },
+   {
+    "name": "Tomas",
+    "post": "I believe beginners should learn to read notation from the start. Reading music is like reading a language: it opens up thousands of pieces that you could never learn just by listening. My piano teacher taught me notation in the first month, and by the end of the year I could play simple classical pieces I had never heard before. Learning to read later is much harder because students resist it."
+   }
+  ],
+  "sample_response": "Although Tomas makes a strong point about access to written music, I agree with Ines that beginners should learn by ear first. The main reason is motivation. The biggest problem in music education is not slow progress but students quitting in the first year, and reading notation can feel like doing math homework before you are allowed to make music. When beginners can play a familiar melody within a few lessons, they feel successful and want to continue. Another benefit that has not been mentioned is that ear training helps students play with other people. In my school band, the students who had learned by ear were much better at adjusting when someone played out of tune, while others just kept following the page. Of course, students should eventually learn notation, as Tomas suggests. However, it will be easier and more meaningful once they already understand how music sounds and feels."
+ },
+ {
+  "id": "ad3-06",
+  "difficulty": "intermediate",
+  "course": "literature",
+  "professor": {
+   "name": "Dr. Bennett"
+  },
+  "professor_post": "As we discussed in class, the list of books students read in high school has changed slowly over the decades. Many schools still assign classic works, such as novels and plays written more than a century ago, because they are considered essential to understanding literary tradition. Other educators argue that contemporary books written in the last twenty or thirty years are more relevant to students' lives and more likely to encourage a love of reading. If you were designing a high school literature course, would you focus mainly on classic works or on contemporary literature? Explain your choice.",
+  "students": [
+   {
+    "name": "Grace",
+    "post": "I would focus on classic works. These books have survived for a long time because they deal with universal themes like ambition, love, and justice. They also appear constantly in other books, movies, and even everyday expressions, so knowing them helps students understand references throughout their lives. When I read Shakespeare in high school, I suddenly noticed how many modern films borrow his plots."
+   },
+   {
+    "name": "Kenji",
+    "post": "I would choose contemporary literature. Many students find classic novels difficult because of old-fashioned language and unfamiliar settings, so they read summaries online instead of the actual books. Contemporary novels discuss situations students recognize, such as moving to a new country or dealing with technology. When my class read a recent novel about an immigrant family, almost everyone finished it and joined the discussion."
+   }
+  ],
+  "sample_response": "I agree with Kenji that a high school course should focus mainly on contemporary literature, even though Grace is right that classics contain valuable themes. The most important goal of a high school literature class, in my opinion, is to create lifelong readers. If students finish school believing that reading is a boring obligation, they will rarely open a novel again. Contemporary books can help students develop that habit because they feel immediately relevant. I would also add that modern literature is much more diverse. Many recent novels are written by authors from Asia, Africa, and Latin America, so students can discover perspectives that are missing from older reading lists. For example, reading a recent novel set in Nigeria taught me more about modern family life there than any textbook. That said, a teacher could include one or two classic works and pair them with modern books on similar themes, which would address Grace's concern about tradition."
+ },
+ {
+  "id": "ad3-07",
+  "difficulty": "intermediate",
+  "course": "journalism",
+  "professor": {
+   "name": "Dr. Patel"
+  },
+  "professor_post": "In journalism, there has always been tension between being first and being right. Today, news spreads within minutes on social media, and outlets that wait to confirm details may lose readers to faster competitors. However, publishing too quickly can lead to errors that damage an outlet's reputation, even if they are corrected later. Imagine you are the editor of a local news website, and you receive an unconfirmed report about a major event in your city. Should your outlet publish quickly with the information available, or wait until every detail is verified? Explain your position.",
+  "students": [
+   {
+    "name": "Amara",
+    "post": "I think the outlet should wait until the details are verified. Readers trust a local news site precisely because it is careful. If it publishes a false report, even once, people will remember the mistake for a long time. Last year a website in my town wrongly reported that a factory was closing, and many workers panicked. The correction came later, but the damage was already done."
+   },
+   {
+    "name": "Lucas",
+    "post": "I believe the outlet should publish quickly but clearly label what is unconfirmed. If a local site stays silent, people will simply get their information from rumors on social media, which are often far less accurate. A professional outlet can at least share the confirmed facts, explain what is still unknown, and update the story as new information arrives. Silence does not protect the public."
+   }
+  ],
+  "sample_response": "I agree with Lucas that a local outlet should publish quickly, as long as it is honest about what it does not know. Amara's example about the factory shows the danger of careless reporting, but the problem there was presenting a rumor as a fact, not publishing early. My main reason is that a local news site often has the best sources in the community, such as police officers, city officials, and residents. If it waits several hours, it leaves an information gap that will be filled by anonymous posts. For instance, during a flood in my hometown, the local newspaper posted short verified updates every hour, and people relied on it instead of panicking over viral videos. Publishing quickly also allows readers to send in tips and photos that help journalists confirm the story faster. Therefore, I think careful, transparent speed serves the public better than complete silence."
+ },
+ {
+  "id": "ad3-08",
+  "difficulty": "intermediate",
+  "course": "law and society",
+  "professor": {
+   "name": "Dr. Whitfield"
+  },
+  "professor_post": "We have been examining how communities resolve conflicts outside the formal court system. One common method is mediation, in which a neutral person helps two sides discuss a problem and reach their own agreement. Some cities now require neighbors to try mediation before they can file a lawsuit over issues like noise, property lines, or shared fences. Supporters say this saves time and money, while critics say people should have the right to go directly to a judge. Do you think communities should require mediation before neighbors can take a dispute to court? Explain why or why not.",
+  "students": [
+   {
+    "name": "Priya",
+    "post": "Yes, I think mediation should be required. Most neighbor disputes are small problems that become serious because people stop talking to each other. A mediator can help them listen and find a practical solution, like agreeing on quiet hours. Court cases are expensive and usually leave both sides angrier than before. Since neighbors often live next to each other for years, protecting the relationship is very important."
+   },
+   {
+    "name": "Jonah",
+    "post": "I disagree with making it mandatory. Mediation only works when both people are willing to cooperate. If one neighbor is aggressive or keeps breaking agreements, forcing the other person through mediation just delays justice. My aunt had a neighbor who repeatedly damaged her garden, and she needed a clear legal decision, not another conversation. People should be able to choose mediation, but not be forced into it."
+   }
+  ],
+  "sample_response": "I agree with Priya that communities should require mediation, although Jonah raises a fair concern about difficult neighbors. I think the rule could include exceptions for cases involving threats or repeated property damage, like the one his aunt experienced. For ordinary disputes, however, mandatory mediation makes sense. One reason that has not been mentioned is that courts are already overloaded. When small neighbor conflicts take up a judge's time, more serious cases have to wait longer. Requiring mediation first would free up the courts for problems that truly need a legal ruling. In addition, many people avoid mediation simply because they do not know what it is or assume it will not work. A requirement gives them a chance to experience it. My parents once went to mediation about a tree that was dropping branches onto their neighbor's car, and they were surprised that the issue was solved in one hour."
+ },
+ {
+  "id": "ad3-09",
+  "difficulty": "intermediate",
+  "course": "political science",
+  "professor": {
+   "name": "Dr. Adeyemi"
+  },
+  "professor_post": "This week we studied participatory budgeting, a process that began in Brazil and has spread to cities around the world. In this system, residents propose and then vote directly on how to spend part of the city's budget, such as money for parks, sidewalks, or community centers. Supporters believe it increases public involvement and trust in government. Others argue that elected officials and professional staff are better prepared to make spending decisions, since they have more information and experience. Should cities let residents vote directly on how to spend part of the public budget? Explain your view.",
+  "students": [
+   {
+    "name": "Mateo",
+    "post": "I strongly support participatory budgeting. Residents know their neighborhoods better than officials in city hall. They know which street has dangerous crossings or which park needs better lighting. When people vote on real projects, they also feel that their opinions matter, so they become more interested in local government. My city tried this for a small portion of its budget, and turnout in local elections increased afterward."
+   },
+   {
+    "name": "Chloe",
+    "post": "I am not convinced that it is a good idea. In practice, the people who attend budget meetings tend to be those with free time, which often excludes busy parents and workers with long hours. As a result, a small group can control the decisions. Elected officials, on the other hand, are responsible to all voters and can consider the needs of the whole city, not just one neighborhood."
+   }
+  ],
+  "sample_response": "I agree with Mateo that cities should let residents vote on part of the budget, but Chloe's point about unequal participation is important. In my opinion, that problem can be reduced if cities allow online voting and hold meetings at different times, including weekends. My main reason for supporting the idea is that it teaches citizens how difficult government decisions really are. When residents have a fixed amount of money and must choose between a new playground and road repairs, they begin to understand the trade-offs officials face every day. This experience can build more realistic expectations of government. Additionally, participatory budgeting can uncover creative ideas that professionals might overlook. In one neighborhood I read about, residents proposed installing water fountains along a jogging path, a cheap project that became extremely popular. Since only part of the budget is involved, officials still control major spending, so the risks are limited."
+ },
+ {
+  "id": "ad3-10",
+  "difficulty": "intermediate",
+  "course": "marketing",
+  "professor": {
+   "name": "Dr. Lindqvist"
+  },
+  "professor_post": "In our unit on promotional strategy, we compared different ways companies reach new customers. Traditional advertising, such as television commercials, billboards, and magazine ads, can reach a very large audience and gives the company complete control over its message. Influencer marketing, by contrast, pays popular social media users to recommend products to their followers in a more personal and informal way. Imagine that a small company is launching a new line of reusable water bottles with a limited budget. Which strategy would you recommend: traditional advertising or influencer marketing? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Nadia",
+    "post": "I would recommend influencer marketing. A small company cannot afford television ads, but it can pay several smaller influencers who have loyal followers. People trust recommendations from someone they watch every day more than they trust a commercial. For example, I bought my running shoes after a fitness creator I follow explained why she liked them. Influencers can also show the product being used in real life."
+   },
+   {
+    "name": "Ryan",
+    "post": "I think traditional advertising is the safer choice. Influencer marketing is risky because the company cannot control what the influencer says or does. If the influencer becomes involved in a scandal, the brand's reputation can suffer. Also, many followers know influencers are paid and no longer trust them. Local ads in gyms, campus newspapers, or on outdoor billboards could reach the right audience at a reasonable price."
+   }
+  ],
+  "sample_response": "I agree with Nadia that influencer marketing is the better choice for this company. Ryan is right that there are risks, but a company can reduce them by working with several micro-influencers instead of one celebrity, so a single scandal would not damage the whole campaign. My main reason, which has not been mentioned yet, is that influencer marketing provides measurable results very quickly. With special discount codes or links, the company can see exactly which creator generated sales and then spend more money on the most effective partners. A billboard, on the other hand, gives almost no information about who saw it or whether it led to a purchase. For a small business with a limited budget, this kind of feedback is extremely valuable. Moreover, reusable water bottles fit naturally into content about hiking, fitness, and travel, so an influencer can include the product without making it feel like a forced advertisement."
+ },
+ {
+  "id": "ad3-11",
+  "difficulty": "intermediate",
+  "course": "management",
+  "professor": {
+   "name": "Dr. Kowalski"
+  },
+  "professor_post": "Office design has become a popular topic in management research. During the past few decades, many companies replaced private offices with open-plan workspaces, where employees sit together in large shared rooms without walls. Supporters claim that open offices encourage communication and teamwork and are less expensive. However, several studies have found that employees in open offices are often distracted and may even talk face-to-face less than before. Suppose a growing company is designing a new headquarters. Should it choose an open-plan layout or provide private offices for its employees? Explain your position.",
+  "students": [
+   {
+    "name": "Lina",
+    "post": "I think the company should choose an open-plan layout. When everyone sits together, people can ask quick questions and solve problems immediately instead of sending emails back and forth. During my internship at a design firm, I learned a lot just by hearing how senior employees discussed projects. Open spaces also make managers more approachable, because they sit with their teams instead of behind closed doors."
+   },
+   {
+    "name": "Victor",
+    "post": "I would recommend private offices. Many jobs require deep concentration, and constant noise makes that nearly impossible. In my father's company, after they moved to an open office, many employees started wearing headphones all day, which actually reduced communication. Private offices also give people a sense of respect and privacy, especially when they need to make personal phone calls or have sensitive conversations."
+   }
+  ],
+  "sample_response": "I agree with Victor that the company should provide private offices, although Lina makes a good point about learning from experienced colleagues. In my view, the most valuable work in a modern company requires long periods of focus, such as writing reports, analyzing data, or programming. Research suggests that after an interruption, it can take more than twenty minutes to fully concentrate again, so an open office could waste hours of productive time every week. Another issue that has not been raised is health. In shared spaces, colds and the flu spread much faster, which leads to more sick days. Of course, collaboration is still important. The company could combine private offices with comfortable shared areas, such as meeting rooms and a central kitchen, where people naturally meet. This way, employees can choose quiet when they need to concentrate and conversation when they need ideas, which is better than forcing everyone into one noisy room."
+ },
+ {
+  "id": "ad3-12",
+  "difficulty": "intermediate",
+  "course": "entrepreneurship",
+  "professor": {
+   "name": "Dr. Haddad"
+  },
+  "professor_post": "In this course, we have read many stories about how successful companies started. Some were founded by a single entrepreneur who made every decision alone, while others were started by two or three co-founders who shared the work and responsibility. Investors often say they prefer teams, but some entrepreneurs argue that working alone allows them to move faster and avoid conflict. If one of your friends were planning to start a small business, such as a cafe or an online store, would you advise him or her to start the business alone or with a co-founder? Explain why.",
+  "students": [
+   {
+    "name": "Elena",
+    "post": "I would advise starting with a co-founder. Running a business involves many different skills, such as finance, marketing, and managing employees, and one person rarely has all of them. A partner can also provide emotional support during difficult times. My neighbor opened a bakery with her best friend, and when one of them got sick, the other kept the shop running without any problem."
+   },
+   {
+    "name": "Samuel",
+    "post": "I would advise starting alone. Partnerships often fail because of disagreements about money or the direction of the business. When my cousin started an online clothing store with a friend, they argued constantly about which products to sell, and eventually they stopped speaking to each other. A single owner can make decisions quickly and can hire experts or freelancers for skills he or she does not have."
+   }
+  ],
+  "sample_response": "Although Samuel's story about his cousin shows a real risk, I agree with Elena that it is better to start a business with a co-founder. Samuel suggests hiring freelancers for missing skills, but a freelancer does not share the long-term commitment that a co-founder has. In the first year, a new business usually cannot pay high salaries, so the people who work the hardest are often the owners themselves. Having two committed people doubles the energy available during that difficult period. Another advantage is that a partner can challenge bad ideas before they become expensive mistakes. When a person works alone, nobody questions his or her assumptions. For instance, a friend of mine almost signed an expensive lease for a cafe until her partner pointed out that the street had very little foot traffic. To avoid the conflicts Samuel described, co-founders should write a clear agreement about roles and money before they begin."
+ },
+ {
+  "id": "ad3-13",
+  "difficulty": "intermediate",
+  "course": "education",
+  "professor": {
+   "name": "Dr. Reyes"
+  },
+  "professor_post": "We have been discussing assessment policies and how they affect student motivation. Some teachers allow students to retake major exams if they are unhappy with their scores, believing that the goal of education is mastery, not a single performance on one particular day. Other teachers think that retakes encourage students to prepare less carefully the first time and are unfair to those who studied hard from the beginning. In your opinion, should students be allowed to retake exams to improve their grades? Explain your view and support it with reasons or examples.",
+  "students": [
+   {
+    "name": "Aisha",
+    "post": "I think students should be allowed to retake exams. Everyone has bad days, such as being sick or dealing with a family problem. One poor score should not permanently lower a student's grade if he or she later shows real understanding. In my math class, our teacher allowed retakes, and I studied the topics I had failed much more carefully the second time. I actually learned the material."
+   },
+   {
+    "name": "Ben",
+    "post": "I don't think retakes should be allowed. In the real world, people usually get one chance, whether it is a job interview or an important presentation. If students know they can try again, many of them will not take the first exam seriously. A friend of mine admitted that he skipped studying for the first test in a course because he planned to use the retake."
+   }
+  ],
+  "sample_response": "I agree with Aisha that students should be allowed to retake exams, but I think Ben's concern about motivation can be solved with good rules. For example, teachers could require students to complete correction exercises or attend a review session before they are allowed to retake the test. That way, the retake becomes a learning opportunity, not a second lottery ticket. My main reason is that in many subjects, knowledge builds on itself. If a student fails the chapter on fractions and simply moves on, he or she will struggle with every later topic. A retake gives that student a reason to go back and fill the gap. As for Ben's point about the real world, I actually think adult life offers many second chances. People can retake driving tests and professional licensing exams, and companies revise products after they fail. Learning to recover from failure is a valuable skill in itself."
+ },
+ {
+  "id": "ad3-14",
+  "difficulty": "intermediate",
+  "course": "psychology",
+  "professor": {
+   "name": "Dr. Fischer"
+  },
+  "professor_post": "In our unit on attention and memory, we discussed how the environment can affect learning. Some research suggests that background music, especially songs with lyrics, competes with the brain's ability to process written information. However, other studies show that music can improve mood and reduce anxiety, which may help some students study longer. Personal preferences also differ greatly: some people cannot concentrate without complete silence, while others find silence uncomfortable. When studying for an important exam, is it better to work in silence or with background music? Explain your opinion.",
+  "students": [
+   {
+    "name": "Mia",
+    "post": "I think silence is better for serious studying. When I listen to music, I find myself following the lyrics instead of the textbook, and I have to read the same paragraph several times. Exams also take place in silent rooms, so practicing in similar conditions helps me remember information during the test. Music is nice for simple tasks like organizing notes, but not for learning difficult material."
+   },
+   {
+    "name": "Andre",
+    "post": "I prefer studying with background music. Complete silence makes me restless, and I notice every small sound, like people walking in the hallway. Calm instrumental music blocks those distractions and helps me relax, which is important when I feel stressed before an exam. I usually create a playlist that lasts about an hour, so the music also tells me when it is time to take a break."
+   }
+  ],
+  "sample_response": "I agree with Mia that silence is generally better when studying for an important exam, even though Andre's playlist idea is clever. My reason is that people are often poor judges of their own concentration. Many students feel more productive with music because it makes studying more pleasant, but feeling good is not the same as remembering more. In a small experiment my psychology club ran, students memorized vocabulary lists with and without songs, and most of them scored higher after the silent sessions, even though they had predicted the opposite. In addition, exam preparation often involves reading complex texts or solving multi-step problems, which use the same mental resources as processing lyrics. That said, Andre's point about distracting noises is valid. Instead of music, he could try earplugs or a quiet library room, which would block hallway sounds without adding new information for the brain to process. In short, silence supports deeper learning."
+ },
+ {
+  "id": "ad3-15",
+  "difficulty": "intermediate",
+  "course": "finance",
+  "professor": {
+   "name": "Dr. Sato"
+  },
+  "professor_post": "In this course, we have seen that many adults struggle with basic money decisions, such as budgeting, using credit cards, and saving for emergencies. Some experts believe the solution is formal financial education, such as required courses in high school or university. Others argue that people learn best through real experience, for instance by having their own bank account, receiving an allowance, or managing a small monthly budget while they are still young. Which do you think is the more effective way for young people to learn how to manage money: taking formal classes or learning through direct experience? Explain why.",
+  "students": [
+   {
+    "name": "Olivia",
+    "post": "I believe formal classes are more effective. Many important concepts, like compound interest or how credit scores work, are not obvious from daily experience. Without a class, people may only learn about them after they have already made expensive mistakes. My high school offered a personal finance course, and it was the first time I understood why paying only the minimum on a credit card is so costly."
+   },
+   {
+    "name": "Diego",
+    "post": "I think direct experience teaches more. You can memorize definitions in a classroom, but you truly learn when your own money is at stake. When I was fourteen, my parents gave me a monthly budget for clothes and lunches. The first month, I spent everything in two weeks, and I never made that mistake again. Real consequences make lessons memorable in a way that tests cannot."
+   }
+  ],
+  "sample_response": "I agree with Diego that direct experience is the more effective teacher, although Olivia is correct that some concepts are hard to discover on your own. In my view, the key advantage of experience is that money management is mostly about habits and self-control, not knowledge. Most adults already know they should save money and avoid unnecessary debt, but they still overspend because they never practiced these behaviors. Managing a real budget when the amounts are small, as Diego did, allows young people to make cheap mistakes before the stakes become high. Another point that has not been mentioned is that experience makes later classes more meaningful. When I opened my first bank account at sixteen, I started noticing fees and interest rates, and I became genuinely curious about how they worked. Without that experience, a lecture on interest would have seemed abstract and boring. Therefore, I believe experience should come first, with classes as a useful supplement."
+ },
+ {
+  "id": "ad3-16",
+  "difficulty": "intermediate",
+  "course": "communication",
+  "professor": {
+   "name": "Dr. Morales"
+  },
+  "professor_post": "In our unit on interpersonal communication, we have discussed how the channel we choose can shape the outcome of a conversation. Face-to-face communication includes tone of voice, facial expressions, and body language, which can help prevent misunderstandings. Written communication, such as email or text messages, gives people time to think carefully about their words and keeps a record of what was said. Imagine two roommates who disagree about cleaning responsibilities in their apartment. Is it better for them to resolve the conflict in a face-to-face conversation or through written messages? Explain your view.",
+  "students": [
+   {
+    "name": "Ahmed",
+    "post": "I think a face-to-face conversation is much better. Text messages can easily sound cold or angry even when the writer does not intend it. When my roommate and I argued over text about dirty dishes, a small problem became a big fight. Once we sat down and talked, we realized we mostly agreed. Seeing each other's expressions helped us stay calm and respectful."
+   },
+   {
+    "name": "Julia",
+    "post": "I prefer resolving conflicts in writing. When people talk face-to-face during an argument, emotions take over, and they often say things they regret. Writing gives me time to organize my thoughts and choose polite words. Also, if roommates agree on a cleaning schedule in a message, they have a record they can look at later, so nobody can claim they forgot what was decided."
+   }
+  ],
+  "sample_response": "I agree with Ahmed that roommates should resolve this kind of conflict face-to-face, although Julia makes a smart point about keeping a record. My main reason is that a disagreement about cleaning is rarely just about cleaning. Often one roommate feels disrespected or overworked, and those feelings are much easier to express and understand in person. In a written message, people tend to focus on rules and facts, so the deeper problem stays hidden. A conversation also allows for immediate compromise. If one person suggests a schedule, the other can respond right away, and they can adjust it together in a few minutes instead of exchanging messages for days. I saw this in my dormitory last year, when two students who had been sending long, formal emails finally talked over dinner and solved the issue that evening. To include Julia's idea, they could write down their final agreement afterward, combining the warmth of conversation with the clarity of writing."
+ },
+ {
+  "id": "ad3-17",
+  "difficulty": "intermediate",
+  "course": "sociology",
+  "professor": {
+   "name": "Dr. Grant"
+  },
+  "professor_post": "Sociologists have noticed that in many countries, more young adults are living with their parents after finishing university than in previous generations. Rising housing costs and student debt are part of the explanation, but cultural attitudes also play a role. In some societies, living with family is seen as normal and practical, while in others it is viewed as a sign that a young person has not yet become independent. In your opinion, is it better for young adults to live with their parents for a few years after graduation, or to move out and live on their own? Explain why.",
+  "students": [
+   {
+    "name": "Rosa",
+    "post": "I think living with parents for a few years is a smart choice. Rent in big cities is extremely high, and young graduates usually have low starting salaries. By staying at home, they can save money for a down payment or pay off student loans faster. My older brother lived with our parents for three years after college, and he was able to buy a small apartment without any help."
+   },
+   {
+    "name": "Felix",
+    "post": "I believe young adults should move out as soon as they can. Living alone forces you to handle responsibilities like paying bills, cooking, and solving problems without parents stepping in. These experiences build confidence and maturity. When I moved into my own apartment, I learned more about managing my life in six months than in four years of university. Staying at home can make people too comfortable."
+   }
+  ],
+  "sample_response": "I agree with Rosa that living with parents for a few years after graduation is usually the better option, though Felix is right that independence is valuable. In my view, independence is not only about where a person lives but also about how he or she behaves. A graduate who lives at home can still pay rent to his or her parents, cook for the family, and manage personal finances. Meanwhile, the financial advantage is simply too large to ignore. There is also a benefit for the family that has not been mentioned. As parents grow older, having an adult child at home can help them with physical tasks, technology, or health appointments. In my culture, for example, it is common for grown children to support aging parents in this way, and the relationship becomes more equal over time. Therefore, living at home for a limited period, with clear responsibilities, offers both savings and personal growth."
+ },
+ {
+  "id": "ad3-18",
+  "difficulty": "advanced",
+  "course": "anthropology",
+  "professor": {
+   "name": "Dr. Mensah"
+  },
+  "professor_post": "Our readings this week examined the history of museum collections, many of which include objects acquired from other societies during periods of colonial rule or unequal trade. Today, some communities are asking museums to return these artifacts. Supporters of repatriation argue that the objects are part of living cultural traditions and belong with the people who created them. Others contend that major museums can preserve fragile objects more effectively and allow millions of international visitors to learn about world cultures. Weighing these considerations, should museums return cultural artifacts to their communities of origin, or should such objects remain in major international museums? Defend your position.",
+  "students": [
+   {
+    "name": "Kwame",
+    "post": "I believe museums should generally return these artifacts. For many communities, a ceremonial mask or carved post is not merely an object to be admired behind glass; it is part of ongoing religious or social practices. Keeping it in a distant museum disconnects it from its meaning. Moreover, returning objects can rebuild trust, and many communities now have their own museums capable of caring for them properly."
+   },
+   {
+    "name": "Isabel",
+    "post": "I see the moral argument, but I think a blanket policy of return could be harmful. Some objects are extremely fragile and require specialized climate control that not every institution can provide. Also, large museums let visitors compare cultures side by side, which promotes understanding. A better compromise might be long-term loans, shared ownership, or digital replicas, allowing communities access while keeping the objects safe and widely visible."
+   }
+  ],
+  "sample_response": "Isabel's concern about preservation is reasonable, but I side with Kwame that museums should, in most cases, return cultural artifacts. The preservation argument assumes that only wealthy museums can protect important objects, yet museums could transfer not just the artifacts but also funding and expertise. Several European institutions have already helped partner countries build conservation laboratories. More fundamentally, I think the value of an object depends on who can interpret it. The meaning of a ritual object often lives in songs, stories, and ceremonies that only its original community preserves. When a drum is displayed silently in a foreign gallery, visitors see its shape but miss its purpose. Isabel's idea of shared ownership is appealing, but it still leaves the final decision with the institution that acquired the object under unequal conditions. Returning artifacts, combined with traveling exhibitions organized by the communities themselves, could actually give international audiences a richer understanding than permanent displays do."
+ },
+ {
+  "id": "ad3-19",
+  "difficulty": "advanced",
+  "course": "linguistics",
+  "professor": {
+   "name": "Dr. Ivanova"
+  },
+  "professor_post": "Linguists estimate that nearly half of the world's roughly seven thousand languages may disappear by the end of this century, as younger generations shift to more widely spoken languages. Revitalization programs, such as immersion schools and recording projects, can be expensive, and their success varies widely. Some scholars argue that governments have a responsibility to fund these efforts because each language represents a unique way of understanding the world. Others suggest that public money would be better spent helping communities succeed economically, and that language choices should be left to speakers themselves. Should governments invest significant public funds in preserving endangered languages? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Ayasha",
+    "post": "I believe governments should invest in preservation. When a language disappears, we lose knowledge about local plants, history, and ways of thinking that are often impossible to translate. Moreover, many language shifts happened because of past policies that discouraged minority languages in schools, so governments bear some responsibility for repairing that damage. Funding immersion programs gives communities a genuine choice rather than pressuring them to abandon their heritage."
+   },
+   {
+    "name": "Lars",
+    "post": "I sympathize with preservation efforts, but I question whether large government programs are the right tool. Many young people switch languages because the dominant language offers better jobs and education, and funding cannot change that reality. Money spent on revitalization might help more if used for job training or schools. Recording and documenting endangered languages is reasonable, but communities, not governments, should lead efforts to keep them alive."
+   }
+  ],
+  "sample_response": "Lars raises a practical point about economic incentives, but I agree with Ayasha that governments should invest substantially in endangered languages. Lars presents the choice as language versus economic opportunity, yet research on bilingual education suggests these goals are not in conflict. Children who learn their heritage language alongside the national language often perform as well academically as other students, and sometimes better, because they develop a stronger awareness of how language works. Furthermore, there is evidence that revitalization benefits community well-being. Studies of Indigenous communities in Canada, for instance, have linked stronger language knowledge to better mental health among young people, possibly because language reinforces identity and connections between generations. If that is true, language funding is also a public health investment. I do agree with Lars that communities should lead these programs, since top-down projects rarely succeed. However, community leadership and government funding can work together: the state provides resources, while local speakers design curricula that reflect their own priorities."
+ },
+ {
+  "id": "ad3-20",
+  "difficulty": "advanced",
+  "course": "philosophy",
+  "professor": {
+   "name": "Dr. Lindgren"
+  },
+  "professor_post": "In recent lectures, we compared two major traditions in ethics. Consequentialists argue that an action is right or wrong depending on its results: what matters is whether it produces more good than harm. Other philosophers, influenced by Kant, emphasize the agent's intentions and principles, holding that a person who acts from good will deserves moral credit even if things turn out badly. Consider someone who donates to a charity that later proves to be badly managed, or someone who acts selfishly but accidentally helps others. When judging whether an action was morally good, should we focus primarily on intentions or on consequences? Explain.",
+  "students": [
+   {
+    "name": "Noor",
+    "post": "I think intentions should matter more. People cannot control or predict every outcome, so judging them by consequences seems unfair. A person who donates to a charity in good faith has done everything morally required of them; the charity's poor management is not their fault. If we focused only on results, we would be praising people for lucky accidents, which makes morality seem random rather than a matter of character."
+   },
+   {
+    "name": "Henrik",
+    "post": "I lean toward consequences, though not completely. Good intentions are cheap if people make no effort to understand the effects of their actions. Someone who donates without researching the charity has, in a way, been careless. In areas like medicine or public policy, we judge decisions by their outcomes because real people are affected. Intentions matter, but they should not excuse a failure to think ahead."
+   }
+  ],
+  "sample_response": "I find myself agreeing with Henrik that consequences deserve more weight, though Noor's point about luck is important. I think the solution is to judge people by the consequences they could reasonably foresee. This approach avoids praising lucky accidents, which concerns Noor, while still holding people responsible for considering the effects of their choices. My additional reason is that a focus on intentions is easily manipulated. Almost everyone believes their own intentions are good, including people who cause serious harm. A company that pollutes a river might sincerely believe it is creating jobs for the community, but that belief does not reduce the damage to families living downstream. If moral judgment depends mainly on what happens inside someone's mind, it becomes almost impossible to criticize anyone. Consequences, by contrast, can be observed and debated publicly. Therefore, while intentions reveal something about a person's character, I believe the rightness of an action should be judged mainly by its foreseeable results."
+ },
+ {
+  "id": "ad3-21",
+  "difficulty": "advanced",
+  "course": "art history",
+  "professor": {
+   "name": "Dr. Rossi"
+  },
+  "professor_post": "This week we examined several famous restoration projects, including the cleaning of the Sistine Chapel ceiling in the 1980s and 1990s, which revealed surprisingly bright colors beneath centuries of grime. Some critics praised the result, while others claimed restorers had removed final touches the artist himself had added. Restorers today face a difficult choice. One approach aims to return an artwork as closely as possible to its original appearance. Another focuses on stabilizing the work and preventing further damage while preserving signs of age and history. Which approach should guide the treatment of damaged artworks: restoring their original appearance or conserving them in their current condition? Defend your view.",
+  "students": [
+   {
+    "name": "Camille",
+    "post": "I think conservation should be the guiding principle. Every intervention risks destroying information we cannot recover, and our knowledge of an artist's original intentions is always incomplete. The aging of a painting is also part of its history; cracks and faded colors show that it has survived for centuries. Future generations may have better technology, so we should do the minimum necessary and leave major decisions to them."
+   },
+   {
+    "name": "Raj",
+    "post": "I would argue for careful restoration. Many artworks were meant to be seen in bright, vivid colors, and dirt or yellowed varnish completely changes their effect. Viewers who see a darkened painting misunderstand the artist's style, which is why some Renaissance painters were once thought to prefer dull tones. As long as restorers document their work and use reversible materials, restoration brings us closer to the artist's vision."
+   }
+  ],
+  "sample_response": "Raj makes a persuasive case, particularly with his point about reversible materials, but I agree with Camille that conservation should guide the treatment of damaged artworks. The central problem is that restoration depends on assumptions about what the original looked like, and those assumptions reflect the taste of each era. In the nineteenth century, for example, some restorers repainted older works to fit fashionable ideas of beauty, and later experts spent decades undoing those changes. There is no reason to believe our generation is immune to the same bias. Another consideration is that an artwork's 'original appearance' is not always a single moment. Many artists revised their works over years, and some objects were intentionally altered by later owners for religious or practical reasons. Choosing one version erases the others. That said, I accept Raj's view that heavy dirt can seriously distort a work, so removing surface grime is reasonable. Beyond that, though, restorers should stabilize rather than reinvent."
+ },
+ {
+  "id": "ad3-22",
+  "difficulty": "advanced",
+  "course": "music",
+  "professor": {
+   "name": "Dr. Okonkwo"
+  },
+  "professor_post": "Music conservatories have traditionally trained students in the Western classical tradition, emphasizing technical mastery of instruments, music theory, and historical repertoire. Yet the professional landscape has changed dramatically. Orchestra positions are scarce and highly competitive, while opportunities in film scoring, music production, and popular genres continue to grow. Some educators argue that conservatories must expand their curricula to include these areas, even if it means reducing time spent on classical training. Others warn that this would weaken the rigorous foundation that makes conservatory graduates distinctive. Should conservatories maintain their focus on classical training or broaden their programs to include popular music and technology? Defend your position.",
+  "students": [
+   {
+    "name": "Beatriz",
+    "post": "I think conservatories need to broaden their programs. It is unfair to spend years training students for a small number of orchestra jobs and then leave them unprepared for the real market. Skills like recording, arranging, and using digital audio software are essential for working musicians today. Of course, classical training has value, but it should be one strong option among several, not the only path."
+   },
+   {
+    "name": "Wei",
+    "post": "I would argue that conservatories should preserve their classical focus. Plenty of other schools and online courses already teach production and popular music, but very few institutions offer the intensive training needed to perform Brahms or Bach at a high level. If conservatories dilute their programs, that tradition could gradually disappear. Also, the discipline developed through classical study benefits musicians in any genre they later pursue."
+   }
+  ],
+  "sample_response": "Wei's argument about protecting a rare form of training is convincing, but I agree with Beatriz that conservatories should broaden their programs, provided they do so strategically. My main concern is that a narrow classical focus may ultimately harm classical music itself. Audiences for traditional concerts are aging, and orchestras increasingly need musicians who can reach new listeners through film projects, collaborations with pop artists, and online content. A violinist who understands recording technology and can arrange music for different settings is better equipped to keep the classical repertoire alive. Many string quartets, for instance, have attracted young audiences by performing video game music alongside Beethoven. Furthermore, broadening does not have to mean reducing quality. Conservatories could maintain a rigorous core in technique and theory during the first two years while offering specialized tracks later. That structure would address Wei's concern about discipline while giving graduates the flexibility that today's music industry clearly demands."
+ },
+ {
+  "id": "ad3-23",
+  "difficulty": "advanced",
+  "course": "literature",
+  "professor": {
+   "name": "Dr. Whitaker"
+  },
+  "professor_post": "In our literary theory unit, we encountered the debate over whether an author's life and intentions should shape how we interpret a work. Biographical critics study letters, diaries, and historical context to understand what writers meant. In contrast, critics like Roland Barthes famously declared 'the death of the author,' arguing that once a text is published, its meaning is created by readers, and the author's intentions have no special authority. When interpreting a novel or poem, should readers give significant weight to the author's biography and stated intentions, or should the text be interpreted on its own terms? Explain your view.",
+  "students": [
+   {
+    "name": "Thandiwe",
+    "post": "I believe the author's life and context matter significantly. Literature is created by real people in specific historical moments, and ignoring that can lead to serious misreadings. For example, knowing that a novelist wrote under wartime censorship helps us notice hidden criticism that would otherwise seem like simple description. Without context, readers may impose modern assumptions that the author could never have imagined."
+   },
+   {
+    "name": "Gabriel",
+    "post": "I lean toward interpreting the text on its own terms. Authors often do not fully understand their own works, and their statements about them can be misleading or change over time. Some of the most interesting readings of classic novels come from perspectives the authors never considered. Besides, for many older texts, we know almost nothing about the author's life, yet we still read them meaningfully."
+   }
+  ],
+  "sample_response": "Both classmates make valid points, but I am more persuaded by Gabriel that the text should remain the primary authority. Thandiwe's example of wartime censorship is useful, though I would note that historical context is not the same as an author's personal intentions. We can study the conditions of a period without assuming we know what a particular writer meant. My main reason is that relying heavily on biography can narrow a work's meaning instead of enriching it. When readers learn that a poet suffered personal tragedies, they sometimes reduce every dark image to autobiography, ignoring the poem's craft, humor, or ambiguity. Sylvia Plath's poetry, for instance, has often been read almost entirely through her life story, which many critics believe has overshadowed her technical skill. In addition, great literature survives precisely because new generations find fresh meanings in it. If interpretation were limited to the author's intentions, those works would become historical documents rather than living art."
+ },
+ {
+  "id": "ad3-24",
+  "difficulty": "advanced",
+  "course": "journalism",
+  "professor": {
+   "name": "Dr. Calloway"
+  },
+  "professor_post": "Anonymous sources have played a crucial role in some of the most important investigative stories in history, allowing whistleblowers to reveal wrongdoing without risking their jobs or safety. However, anonymity also makes it difficult for readers to judge whether information is reliable, and some sources may use it to spread misleading claims without accountability. Several major newspapers have therefore tightened their rules, requiring multiple confirmations or senior editor approval before anonymous quotes appear. Should news organizations continue to rely on anonymous sources, or should they strictly limit their use in order to rebuild public trust? Discuss the trade-offs involved and explain your position.",
+  "students": [
+   {
+    "name": "Malik",
+    "post": "I think anonymous sources remain essential. Many government and corporate abuses would never have been exposed if insiders had been forced to reveal their names. If newspapers sharply restrict anonymity, potential whistleblowers will simply stay silent, and the public will lose access to information that powerful institutions want to hide. The solution is careful verification, not avoiding anonymous sources altogether."
+   },
+   {
+    "name": "Anna",
+    "post": "While I recognize their value in investigative reporting, I think anonymous sources are now overused. Many articles quote unnamed officials for routine information, such as predictions about an upcoming decision, which hardly requires secrecy. This habit makes readers suspicious of all journalism. Limiting anonymity to cases involving real risk, and explaining to readers why a source cannot be named, would make the practice more credible."
+   }
+  ],
+  "sample_response": "I agree with Anna that anonymous sources should be strictly limited, although Malik is right that whistleblowers must be protected. In my view, these positions are actually compatible: strict limits make anonymity more meaningful when it is truly necessary. If unnamed sources appear in every article, readers cannot distinguish a brave insider revealing fraud from an official spreading convenient rumors. Another factor that has not been discussed is that anonymity can be exploited by the very institutions Malik mentions. Governments and companies sometimes leak information anonymously to test public reaction to a plan or to damage competitors, knowing they will never be held responsible. When journalists grant anonymity too easily, they risk becoming tools of the people they should be investigating. A practical solution would be for news organizations to publish a brief explanation whenever they use an anonymous source, describing why the person needed protection and how the information was verified. Such transparency would protect whistleblowers while rebuilding readers' trust."
+ },
+ {
+  "id": "ad3-25",
+  "difficulty": "advanced",
+  "course": "law and society",
+  "professor": {
+   "name": "Dr. Nakamura"
+  },
+  "professor_post": "Laws and legal contracts are notoriously difficult for ordinary people to understand. Long sentences, technical terms, and Latin phrases often mean that citizens must hire lawyers simply to know their rights. In response, a plain-language movement has encouraged governments to rewrite statutes and official documents in clear, everyday language. Critics caution, however, that legal terminology exists for a reason: established terms have precise meanings developed through decades of court decisions, and simplifying them could create ambiguity and new disputes. Should governments rewrite laws in plain language that ordinary people can understand, even if some precision might be lost? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Selin",
+    "post": "I strongly support plain-language laws. In a democracy, people are expected to obey the law, so they should be able to read and understand it. Currently, lower-income citizens are at a disadvantage because they cannot afford lawyers to explain their rental agreements or employment rights. Clear writing would make the legal system fairer. Several countries have successfully simplified tax forms without major problems."
+   },
+   {
+    "name": "Patrick",
+    "post": "I agree that legal language is often too complex, but I worry about rewriting existing laws. Terms like 'reasonable care' have meanings defined by hundreds of court cases. If legislators replace them with everyday words, judges would have to interpret the new language from scratch, causing years of uncertainty and more lawsuits. A safer approach would be to provide official plain-language summaries alongside the original legal text."
+   }
+  ],
+  "sample_response": "Selin's argument about fairness is compelling, but I find Patrick's proposal more realistic, since rewriting existing laws could create exactly the confusion that plain language is meant to prevent. However, I would go further than Patrick in one respect: new laws, unlike old ones, should be written in plain language from the beginning. Because they have no history of court interpretation yet, there is no established precision to lose. Over time, the legal system would gradually become more accessible without disrupting settled areas of law. Another reason for caution is that simplicity can be misleading. A sentence that seems clear to an ordinary reader may hide important exceptions, and people might feel confident about their rights when they are actually mistaken. For instance, a simplified lease stating that tenants 'may end the contract early' could omit the conditions and penalties involved. Official summaries, clearly labeled as guides rather than binding text, would help citizens grasp the general picture while still encouraging them to seek advice in complex situations."
+ },
+ {
+  "id": "ad3-26",
+  "difficulty": "advanced",
+  "course": "political science",
+  "professor": {
+   "name": "Dr. Brennan"
+  },
+  "professor_post": "In our comparative politics unit, we have looked at how different democracies structure legislative careers. Some places impose term limits on legislators, restricting how many terms they can serve, while others allow representatives to be reelected indefinitely. Advocates of term limits argue that they bring fresh perspectives into government and reduce the influence of career politicians. Opponents respond that experienced legislators understand complex policy issues and that, without them, unelected staff and lobbyists gain more power. Should legislatures adopt term limits for their members? Consider the trade-offs between renewal and experience in your answer.",
+  "students": [
+   {
+    "name": "Chiara",
+    "post": "I support term limits. When politicians stay in office for decades, they often become more focused on keeping their positions than on serving the public. Term limits create regular opportunities for new candidates, including younger people, who might otherwise struggle against long-serving incumbents. Fresh members also bring practical experience from other careers, such as teaching, farming, or business, which can improve the quality of legislation."
+   },
+   {
+    "name": "Tobias",
+    "post": "I think term limits create more problems than they solve. Writing effective laws on topics like healthcare or energy requires years of expertise. Research on U.S. state legislatures with term limits suggests that inexperienced members often rely heavily on lobbyists for information. Besides, voters already have the power to remove representatives through elections. If citizens are satisfied with a legislator, why should a rule force them to choose someone else?"
+   }
+  ],
+  "sample_response": "Tobias presents strong evidence about lobbyists, but I still support term limits, provided they are not too short. A limit of around twelve years would give legislators enough time to develop expertise while preventing the problems Chiara describes. Tobias argues that elections already allow voters to remove representatives, yet in practice incumbents enjoy enormous advantages, including name recognition, media attention, and established fundraising networks. As a result, elections are often less competitive than they appear, and many long-serving members face no serious challenger at all. An additional benefit of term limits is that they change how legislators behave in their final term. Since they cannot run again, they may feel freer to support necessary but unpopular measures, such as long-term budget reforms, rather than focusing only on the next election. To address Tobias's concern about expertise, legislatures could invest in strong, nonpartisan research offices that provide independent analysis, reducing members' dependence on lobbyists regardless of how long they serve."
+ },
+ {
+  "id": "ad3-27",
+  "difficulty": "advanced",
+  "course": "marketing",
+  "professor": {
+   "name": "Dr. Ferreira"
+  },
+  "professor_post": "Marketers have long known that people value things more when they seem scarce. Today, online retailers frequently use tactics such as countdown timers, 'only three left in stock' messages, and limited-edition releases to create a sense of urgency. These techniques can significantly increase sales. However, critics argue that they pressure consumers into hasty decisions, and when customers discover that the scarcity was exaggerated, they may lose trust in the brand. In your view, are scarcity tactics a legitimate marketing tool, or do their long-term costs to customer trust outweigh their short-term benefits? Explain your position.",
+  "students": [
+   {
+    "name": "Freya",
+    "post": "I think scarcity tactics are legitimate when they are honest. Limited-edition products, such as seasonal flavors or collaborations with artists, create excitement and give customers something to look forward to. As long as the stock levels and deadlines are real, the company is simply sharing accurate information. Customers are adults who can decide for themselves whether they truly want something."
+   },
+   {
+    "name": "Hassan",
+    "post": "In my opinion, these tactics usually do more harm than good. Many countdown timers simply restart when you refresh the page, which is plainly deceptive. Even when scarcity is real, the pressure encourages impulse purchases that customers later regret, leading to more returns and negative reviews. Brands that build long-term relationships rely on quality and trust, not artificial urgency that makes shoppers feel manipulated."
+   }
+  ],
+  "sample_response": "I share Hassan's concern about deceptive timers, but I agree with Freya that scarcity tactics can be legitimate, as long as they reflect reality. The key distinction, in my view, is between scarcity that is built into the product and scarcity that is invented by the website. A limited run of handmade sneakers or a concert with a fixed number of seats is genuinely scarce, and telling customers so is useful information. A fake 'only two left' message, on the other hand, is simply a lie. One point that has not been raised is that honest scarcity can benefit consumers and the environment. When companies produce limited quantities based on real demand, they create less unsold inventory, which often ends up heavily discounted or thrown away. Some fashion brands have reduced waste by releasing small collections instead of mass-producing every design. Therefore, rather than rejecting scarcity marketing entirely, regulators and companies should focus on banning misleading claims while allowing truthful limited releases."
+ },
+ {
+  "id": "ad3-28",
+  "difficulty": "advanced",
+  "course": "management",
+  "professor": {
+   "name": "Dr. Ashworth"
+  },
+  "professor_post": "When a senior leadership position opens, organizations face a familiar dilemma: should they promote someone from within or recruit an outside candidate? Internal candidates already understand the company's culture and processes, and promoting them can motivate other employees. External candidates, however, may bring new ideas, skills, and a willingness to challenge established practices, which can be crucial when an organization needs to change. Research shows mixed results, with outcomes depending heavily on circumstances. Imagine a mid-sized company whose sales have been declining for two years. Should it fill its vacant CEO position with an internal candidate or an external hire? Justify your recommendation.",
+  "students": [
+   {
+    "name": "Ingrid",
+    "post": "I would recommend an internal candidate. Someone who has worked at the company for years understands its customers, products, and employees, so he or she can act quickly instead of spending months learning. Bringing in an outsider during a crisis can also damage morale, because employees may feel their loyalty is not valued. Studies have found that external CEOs are often paid more but do not necessarily perform better."
+   },
+   {
+    "name": "Carlos",
+    "post": "Given that sales have been falling for two years, I would choose an external hire. Internal candidates were part of the leadership that allowed the decline, and they may be too attached to existing strategies to make difficult changes. An outsider can see problems more objectively and is not tied to internal friendships or office politics. Sometimes a company needs a fresh perspective more than familiarity."
+   }
+  ],
+  "sample_response": "Ingrid makes a fair point about morale, but in this specific situation I agree with Carlos that the company should hire an external CEO. The fact that sales have declined for two consecutive years suggests a structural problem rather than bad luck, and structural problems usually require questioning assumptions that insiders take for granted. An internal candidate may also feel obligated to protect colleagues or projects he or she helped create. One argument that has not been mentioned is the signal an external hire sends to investors, suppliers, and customers. Announcing a leader with a strong record of turning companies around can rebuild confidence and attract the funding a struggling firm may need. IBM's recovery in the 1990s under Lou Gerstner, who came from outside the computer industry, is a well-known example. Nevertheless, Ingrid's concern deserves attention. To protect morale, the new CEO should promote talented internal managers into key roles, combining a fresh perspective with deep institutional knowledge."
+ },
+ {
+  "id": "ad3-29",
+  "difficulty": "advanced",
+  "course": "entrepreneurship",
+  "professor": {
+   "name": "Dr. Kaplan"
+  },
+  "professor_post": "One of the most consequential decisions founders make is how to finance their startup. Some seek venture capital, accepting large investments in exchange for a share of ownership and, often, pressure to grow quickly. Others choose bootstrapping, funding the business through personal savings and revenue, which allows them to keep full control but usually means slower growth. Both paths have produced successful companies, and both have led to failures. Imagine a founder who has developed a promising app for managing small restaurants' inventories. Should she pursue venture capital funding or bootstrap the company? Explain the trade-offs that inform your recommendation.",
+  "students": [
+   {
+    "name": "Zara",
+    "post": "I would recommend venture capital. The software market moves quickly, and if this app is successful, competitors will copy it. Investment money would allow the founder to hire developers and salespeople and capture the market before others do. Experienced investors also offer valuable advice and connections, such as introductions to large restaurant chains, which a bootstrapped founder would struggle to obtain alone."
+   },
+   {
+    "name": "Ivan",
+    "post": "I would advise bootstrapping. Restaurants operate on thin margins and are cautious about new technology, so this market may grow slowly no matter how much money is invested. Venture capitalists often expect rapid expansion, which could push the founder to spend heavily before the product is ready. By growing gradually with paying customers, she can keep control and build a sustainable business rather than chase unrealistic growth targets."
+   }
+  ],
+  "sample_response": "Zara's concern about competitors is understandable, but I agree with Ivan that the founder should bootstrap, at least at first. Ivan's observation about restaurants' thin margins is especially relevant: in a market that adopts technology slowly, extra money cannot easily speed up customer decisions, and spending heavily on salespeople might produce little more than expensive rejections. I would add that bootstrapping forces the founder to listen carefully to her customers. When revenue is the only source of funding, every feature must solve a real problem that restaurant owners are willing to pay for. Mailchimp, for example, grew for nearly two decades without outside investment, and this discipline kept the company focused on customer needs. Moreover, once the founder has proven that restaurants value the app, she will be in a much stronger position to negotiate with investors if she later decides to accept funding, giving up a smaller share of the company for the same amount of money. In short, patience now could provide more options later."
+ },
+ {
+  "id": "ad3-30",
+  "difficulty": "advanced",
+  "course": "education",
+  "professor": {
+   "name": "Dr. Mwangi"
+  },
+  "professor_post": "Ability grouping, or tracking, places students into separate classes based on their current academic performance. Supporters argue that it allows teachers to adjust the pace of instruction, challenging advanced students while giving struggling students more support. Critics point to research suggesting that students placed in lower tracks often receive less demanding instruction, lose motivation, and rarely move to higher groups, which can widen achievement gaps. Mixed-ability classrooms avoid these problems but may make it difficult for teachers to meet everyone's needs. Should secondary schools group students by ability, or should they maintain mixed-ability classes? Discuss the competing considerations and explain your position.",
+  "students": [
+   {
+    "name": "Sakura",
+    "post": "I believe ability grouping is more effective. In my mixed-ability math class, the teacher had to explain basic concepts repeatedly, and the stronger students became bored and stopped paying attention. Meanwhile, students who were struggling felt embarrassed to ask questions in front of classmates who understood everything immediately. Separate groups allow each student to learn at an appropriate pace and feel comfortable participating."
+   },
+   {
+    "name": "Kofi",
+    "post": "Although tracking sounds efficient, I think mixed-ability classes are fairer. Placement decisions are often made early and based on a single test, so a student who had a difficult year may be stuck in a lower track permanently. Moreover, students learn a great deal from explaining ideas to one another. In my experience, helping classmates deepened my own understanding, and they benefited from hearing explanations in student-friendly language."
+   }
+  ],
+  "sample_response": "I agree with Kofi that secondary schools should generally keep mixed-ability classes, although Sakura's experience shows that they must be well managed. The problem she describes, a teacher repeating basic explanations for the whole class, results from a teaching method rather than the class composition. Teachers can divide a mixed class into small groups for certain activities, giving advanced students more challenging tasks while providing extra support to others, all within the same room. My main concern about tracking is its effect on expectations. When students are labeled as 'low ability' at the age of twelve, both teachers and students tend to lower their goals, and those expectations often become self-fulfilling. A cousin of mine was placed in a lower track after moving schools and missing a placement exam, and it took him three years to convince the school he belonged in an advanced class. In addition, mixed classes prepare students for workplaces where they will collaborate with people of different backgrounds and skill levels."
+ },
+ {
+  "id": "ad3-31",
+  "difficulty": "advanced",
+  "course": "psychology",
+  "professor": {
+   "name": "Dr. Holloway"
+  },
+  "professor_post": "In social psychology, research on group decision-making has produced seemingly contradictory findings. On one hand, the 'wisdom of crowds' suggests that combining many people's judgments often produces more accurate estimates than any individual expert. On the other hand, studies of groupthink show that cohesive groups sometimes make disastrous choices because members suppress doubts in order to maintain harmony. Organizations, juries, and governments must regularly decide how much to rely on collective deliberation versus individual judgment. In your view, do groups generally make better decisions than individuals, or do the risks of group dynamics outweigh the benefits? Support your position with reasons or examples.",
+  "students": [
+   {
+    "name": "Valentina",
+    "post": "I believe groups generally make better decisions. Each person has blind spots, and a group can compensate for them by bringing together different knowledge and perspectives. In my economics project, I was confident about a forecast until a teammate pointed out a mistake in my assumptions. Groups also share responsibility, which makes members more careful. Groupthink is a real risk, but it can be prevented with good procedures."
+   },
+   {
+    "name": "Jamal",
+    "post": "I think the risks of group dynamics are often underestimated. In many groups, the most confident or senior person dominates the discussion, and others simply agree to avoid conflict. Then the group's decision is really one person's opinion with false confidence attached. Groups also take much longer to decide. For urgent decisions, a single well-informed person who is accountable for the outcome is often more effective."
+   }
+  ],
+  "sample_response": "Jamal describes a common problem, but I agree with Valentina that groups generally make better decisions, as long as they are structured correctly. The key insight from 'wisdom of crowds' research is that groups perform well only when members form their opinions independently before influencing one another. The failures Jamal mentions usually happen when people discuss first and think later, so the most confident voice shapes everyone's judgment. A simple remedy is to have members write down their views privately before any discussion begins. Some companies, including Amazon, reportedly open meetings by having everyone silently read a written proposal and form their own conclusions, which reduces the influence of senior employees. Another benefit of group decisions that has not been mentioned is legitimacy. When people participate in a decision, they are more likely to accept and implement it, even if they initially disagreed. A brilliant individual decision that nobody supports may fail in practice. Thus, well-designed groups combine accuracy with commitment in a way individuals cannot."
+ },
+ {
+  "id": "ad3-32",
+  "difficulty": "advanced",
+  "course": "film studies",
+  "professor": {
+   "name": "Dr. Duval"
+  },
+  "professor_post": "Adaptation has been central to cinema since its earliest days, and many of the most celebrated films are based on novels. Yet audiences frequently complain when a film changes the plot, removes beloved characters, or alters the ending of a book they love. Some filmmakers argue that film and literature are fundamentally different media, so a faithful copy often produces a weaker movie; a successful adaptation must reinterpret its source. Others believe filmmakers have an obligation to respect the original author's work and the readers who cherish it. Should film adaptations remain faithful to their source material, or should directors take significant creative liberties? Explain your position.",
+  "students": [
+   {
+    "name": "Lucia",
+    "post": "I believe adaptations should remain largely faithful. When filmmakers use a famous title, they benefit from the book's reputation and its loyal readers, so they have a responsibility to respect the story. Changing major events or characters can feel like a betrayal. The Harry Potter films succeeded partly because they stayed close to the books, and fans appreciated seeing scenes they had imagined brought to life."
+   },
+   {
+    "name": "Arjun",
+    "post": "I think directors should feel free to take creative liberties. Novels can spend pages describing a character's thoughts, but film must communicate through images, sound, and action. A strictly faithful adaptation is often slow and confusing. Some of the greatest adaptations, such as The Godfather, cut entire subplots and arguably improved the story. A film should be judged as a film, not as a copy of a book."
+   }
+  ],
+  "sample_response": "Lucia's point about the responsibilities that come with a famous title is reasonable, but I agree with Arjun that directors should be allowed significant creative liberties. Faithfulness to the plot does not guarantee faithfulness to the spirit of a book, and the spirit is what truly matters. For example, Stanley Kubrick's version of The Shining changed many details from Stephen King's novel, and King himself disliked it, yet critics widely consider it one of the most powerful horror films ever made. Kubrick used visual techniques, such as long tracking shots through empty hallways, to create a sense of isolation that no scene-by-scene copy could have achieved. An additional reason is that a creative adaptation can actually benefit the original book. When a film offers a different interpretation, it often encourages viewers to read the novel and compare the two versions, which keeps the book in public conversation. A faithful but forgettable film, by contrast, adds little to either the novel or the art of cinema."
+ },
+ {
+  "id": "ad3-33",
+  "difficulty": "advanced",
+  "course": "history",
+  "professor": {
+   "name": "Dr. Sullivan"
+  },
+  "professor_post": "Historians have traditionally relied on written documents, such as government records, letters, and newspapers, as their primary evidence. Over the past several decades, however, oral history, which collects people's spoken memories through recorded interviews, has become increasingly important, especially for studying groups that left few written records. Critics note that memories fade, change over time, and may be shaped by later events or personal interests. Supporters respond that written documents also reflect the biases of those who produced them. Should historians treat oral testimony as equally valuable to written documents, or should it be considered a less reliable form of evidence? Explain your reasoning.",
+  "students": [
+   {
+    "name": "Mariana",
+    "post": "I believe oral testimony should be treated as equally valuable. Written records were often produced by governments, wealthy families, or educated elites, so they ignore the experiences of ordinary workers, women, and minority communities. Without oral history, we would know very little about how these groups lived. Every type of source has weaknesses, and historians already know how to compare evidence to check its accuracy."
+   },
+   {
+    "name": "Connor",
+    "post": "Oral history is valuable, but I think it should be treated with more caution than written documents. Psychological research shows that people unintentionally reshape memories each time they retell them, often adding details they learned later. A letter written in 1940 captures what someone thought at that moment, while an interview recorded in 1995 reflects fifty years of reflection. Oral sources work best when supported by documents."
+   }
+  ],
+  "sample_response": "Connor raises an important point about how memories change, but I side with Mariana that oral testimony deserves equal status as historical evidence. My reasoning is that reliability depends on the question a historian is asking. If the goal is to determine the exact date of a strike, a dated newspaper is clearly more reliable. However, if the goal is to understand how workers felt about that strike, or how it shaped their families, a written record may offer almost nothing. In those cases, the changes Connor describes are not simply errors; they reveal how people made sense of events over time, which is itself valuable historical information. Furthermore, written documents can be distorted in ways that are harder to detect. Official reports were sometimes deliberately falsified to protect institutions, and unlike an interviewee, a document cannot be questioned about its gaps. Rather than ranking sources, historians should evaluate each one critically, recognizing that spoken and written evidence answer different kinds of questions."
+ },
+ {
+  "id": "ad3-34",
+  "difficulty": "advanced",
+  "course": "economics",
+  "professor": {
+   "name": "Dr. Abernathy"
+  },
+  "professor_post": "In many countries, restaurant workers receive a substantial part of their income from tips, while in others, service is included in menu prices and workers receive a fixed wage. Economists have studied both systems. Tipping may motivate good service and allows customers to reward quality, but research suggests that tips are often influenced by factors unrelated to service, such as a server's appearance, and that workers' income can be unpredictable. Including service in prices offers stability but may weaken incentives and raise menu prices. Should restaurants replace tipping with higher menu prices that include service? Discuss the trade-offs and explain your position.",
+  "students": [
+   {
+    "name": "Hyun",
+    "post": "I think restaurants should include service in their prices. Workers deserve a predictable income that allows them to pay rent and plan their lives, and tips can vary widely from week to week. In Japan, where tipping is uncommon, service is generally excellent, which shows that tips are not necessary to motivate workers. Customers would also appreciate knowing the total price before they order."
+   },
+   {
+    "name": "Megan",
+    "post": "I would keep tipping, despite its flaws. Tips give customers a direct way to reward exceptional service, and many experienced servers earn far more from tips than they would from a fixed wage. When some American restaurants experimented with eliminating tips, a number of skilled servers left for competitors, and several restaurants eventually returned to the old system. Changing it may harm the workers it intends to help."
+   }
+  ],
+  "sample_response": "Megan's evidence about restaurants that abandoned no-tipping policies is significant, but I agree with Hyun that service should be included in menu prices. The experiments Megan mentions struggled partly because only a few restaurants changed while their competitors did not. Customers saw higher menu prices and assumed those restaurants were more expensive, even though the total cost was similar, and servers could earn more elsewhere. If an entire city or industry adopted the change together, this problem would largely disappear. An additional argument concerns kitchen staff. Under the tipping system, cooks and dishwashers, who are essential to every meal, often receive little or none of the tips, creating large pay gaps within the same restaurant. A service-included model allows owners to distribute income more fairly among all employees. Finally, the research on bias suggests that tipping does not reward quality as well as its supporters believe. A fixed wage combined with performance bonuses would be a more reliable way to reward excellent service."
+ },
+ {
+  "id": "ad3-35",
+  "difficulty": "advanced",
+  "course": "international relations",
+  "professor": {
+   "name": "Dr. Petrov"
+  },
+  "professor_post": "International organizations use different rules for making decisions. Some, such as the World Trade Organization, generally operate by consensus, meaning that any single member can block a decision. Others allow decisions by majority or weighted voting, which makes it easier to act but may impose outcomes on countries that disagree. Consensus is often praised for protecting smaller states and ensuring broad legitimacy, yet it can lead to years of deadlock on urgent issues. If you were designing a new international organization to address a global challenge, such as managing shared fisheries, would you require consensus or allow majority voting? Explain the trade-offs that shape your decision.",
+  "students": [
+   {
+    "name": "Sven",
+    "post": "I would require consensus. International organizations have no army or police to force countries to follow their decisions, so cooperation depends on voluntary agreement. If a majority imposes a rule on unwilling countries, those countries may simply ignore it or leave the organization. Consensus takes longer, but the agreements it produces are more likely to be respected because every member has accepted them."
+   },
+   {
+    "name": "Mei",
+    "post": "I would allow majority voting. With consensus, a single country that benefits from overfishing could block any limits on catches while fish populations continue to collapse. Urgent problems require timely action. Majority voting, perhaps with a requirement of two-thirds support, ensures that most members' interests are reflected while preventing one or two countries from holding the whole organization hostage."
+   }
+  ],
+  "sample_response": "Sven's point about enforcement is important, but I agree with Mei that a fisheries organization should allow majority voting, ideally with the two-thirds requirement she suggests. Fisheries are a classic example of the tragedy of the commons: each country benefits from catching more fish, while the costs of overfishing are shared by everyone. Under consensus rules, the countries with the largest fleets have the strongest incentive to block limits, so the organization would be weakest exactly where it most needs to be strong. To address Sven's concern that outvoted members might ignore decisions, the organization could include an objection procedure. A country that disagrees could formally opt out of a specific rule, but it would have to explain its reasons publicly and propose alternative conservation measures. Some regional fisheries bodies use similar mechanisms, which create pressure through transparency rather than force. Additionally, majority voting encourages countries to negotiate seriously, since refusing to compromise will not automatically stop a decision."
+ }
+]

@@ -213,6 +213,16 @@ struct ResourcesView: View {
                 .toeflCard()
 
                 VStack(alignment: .leading, spacing: 12) {
+                    Text("Official free practice").font(.title2.bold())
+                    Text("Real ETS practice material for the current format. Use it alongside this app's original items.")
+                        .font(.subheadline).foregroundStyle(.secondary)
+                    resourceLink("ETS TOEFL TestReady: free full-length practice test with scoring, section samplers, and daily activities", "https://testready.ets.org")
+                    resourceLink("ETS: TOEFL iBT Practice Test 1 (PDF, aligned to tests from January 21, 2026)", "https://www.ets.org/content/dam/ets-india/pdfs/toefl/toefl-ibt-full-length-practice-test-1.pdf")
+                    resourceLink("ETS: All official TOEFL iBT preparation", "https://www.ets.org/toefl/test-takers/ibt/prepare.html")
+                }
+                .toeflCard()
+
+                VStack(alignment: .leading, spacing: 12) {
                     Text("Authorized local reference library").font(.title2.bold())
                     ForEach(localSources, id: \.self) { source in
                         Label(source, systemImage: "checkmark.seal.fill")

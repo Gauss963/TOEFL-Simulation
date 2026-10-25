@@ -1,0 +1,2156 @@
+[
+ {
+  "id": "bs3-001",
+  "difficulty": "intermediate",
+  "context": "Is the writing center open late on Fridays?",
+  "template": "Sorry, I'm ___ ___ ___ ___ ___ Fridays .",
+  "chunks": [
+   "not sure",
+   "what time",
+   "the writing center",
+   "closes",
+   "on"
+  ],
+  "distractor": "does",
+  "explanation": "An embedded question after 'I'm not sure' uses statement order ('what time the writing center closes'), so the auxiliary 'does' has no place.",
+  "explanation_zh": "間接問句要用直述句語序（主詞＋動詞），所以是 what time the writing center closes，而不是 what time does the writing center close。"
+ },
+ {
+  "id": "bs3-002",
+  "difficulty": "intermediate",
+  "context": "Professor Kim moved offices, right? I need to drop off my lab report.",
+  "template": "Yes, but I ___ ___ ___ ___ ___ is .",
+  "chunks": [
+   "don't",
+   "know",
+   "where",
+   "her new",
+   "office"
+  ],
+  "distractor": "where is",
+  "explanation": "In an embedded question the subject comes before the verb ('where her new office is'), so the question-order chunk 'where is' cannot be used.",
+  "explanation_zh": "I don't know 後面接間接問句，要用直述句語序，所以是 where her new office is，而不是 where is her new office。"
+ },
+ {
+  "id": "bs3-003",
+  "difficulty": "intermediate",
+  "context": "When is the deadline to drop a class without a penalty?",
+  "template": "You should ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "ask",
+   "the registrar",
+   "when",
+   "the last day",
+   "to drop",
+   "is"
+  ],
+  "distractor": "does",
+  "explanation": "The embedded question after 'ask the registrar' keeps statement order ('when the last day to drop is'), so 'does' cannot be added.",
+  "explanation_zh": "ask 某人 + 間接問句，間接問句用直述句語序：主詞 the last day to drop 在前，is 放最後，不需要 does。"
+ },
+ {
+  "id": "bs3-004",
+  "difficulty": "intermediate",
+  "context": "Which bus goes to the north campus dorms?",
+  "template": "Just ___ ___ ___ ___ ___ take .",
+  "chunks": [
+   "ask",
+   "the driver",
+   "which",
+   "bus",
+   "you should"
+  ],
+  "distractor": "should you",
+  "explanation": "In the embedded question 'which bus you should take', the subject 'you' comes before 'should', so the inverted 'should you' is wrong.",
+  "explanation_zh": "間接問句中主詞要放在助動詞前面：which bus you should take，不能用倒裝的 should you。"
+ },
+ {
+  "id": "bs3-005",
+  "difficulty": "intermediate",
+  "context": "The other section already took the chemistry midterm yesterday.",
+  "template": "Really? I ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "wonder",
+   "how",
+   "hard",
+   "their",
+   "questions",
+   "were"
+  ],
+  "distractor": "did",
+  "explanation": "After 'I wonder', the embedded question uses statement order with the verb last ('how hard their questions were'), so 'did' is not needed.",
+  "explanation_zh": "I wonder 後接間接問句，語序是 how hard + 主詞 + 動詞（their questions were），不用 did，也不倒裝。"
+ },
+ {
+  "id": "bs3-006",
+  "difficulty": "advanced",
+  "context": "The library changed its printing policy. How much can we print now?",
+  "template": "I have no idea ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "how many",
+   "free pages",
+   "we",
+   "are allowed",
+   "to print",
+   "each week"
+  ],
+  "distractor": "are we",
+  "explanation": "After 'I have no idea', the embedded question keeps statement order ('we are allowed'), so the inverted 'are we' does not fit.",
+  "explanation_zh": "I have no idea 後面的間接問句要用直述句語序：how many free pages we are allowed to print，不能倒裝成 are we。"
+ },
+ {
+  "id": "bs3-007",
+  "difficulty": "advanced",
+  "context": "Why did the professor postpone the field trip to the museum?",
+  "template": "Nobody ___ ___ ___ ___ ___ ___ at the last minute .",
+  "chunks": [
+   "told",
+   "us",
+   "why",
+   "the bus reservation",
+   "had been",
+   "canceled"
+  ],
+  "distractor": "did",
+  "explanation": "The embedded question 'why the bus reservation had been canceled' uses statement order and the past perfect passive, so 'did' has no place.",
+  "explanation_zh": "told us 後接間接問句，用直述句語序 why the bus reservation had been canceled（過去完成被動），不能加 did。"
+ },
+ {
+  "id": "bs3-008",
+  "difficulty": "advanced",
+  "context": "I'm one of the campus tour guides, so feel free to ask me anything.",
+  "template": "Could you ___ ___ ___ ___ ___ ___ ?",
+  "chunks": [
+   "tell me",
+   "which building",
+   "the international",
+   "student office",
+   "is",
+   "in"
+  ],
+  "distractor": "does",
+  "explanation": "In 'Could you tell me…', the embedded question keeps statement order, so 'is in' comes after the subject ('the international student office is in').",
+  "explanation_zh": "Could you tell me 後面是間接問句，主詞 the international student office 要放在 is 前面，介系詞 in 留在句尾，不需要 does。"
+ },
+ {
+  "id": "bs3-009",
+  "difficulty": "advanced",
+  "context": "Have you heard anything about the scholarship results?",
+  "template": "I'm ___ ___ ___ ___ ___ announced .",
+  "chunks": [
+   "still trying",
+   "to find out",
+   "when",
+   "the winners",
+   "will be"
+  ],
+  "distractor": "will the",
+  "explanation": "After 'find out', the embedded question keeps statement order ('when the winners will be announced'), not question order with 'will the'.",
+  "explanation_zh": "find out 後的間接問句用直述句語序：when the winners will be announced，助動詞 will 不能移到主詞前面。"
+ },
+ {
+  "id": "bs3-010",
+  "difficulty": "intermediate",
+  "context": "Who is your favorite professor this semester?",
+  "template": "It's ___ ___ ___ ___ ___ class .",
+  "chunks": [
+   "the woman",
+   "who",
+   "teaches",
+   "our",
+   "statistics"
+  ],
+  "distractor": "which",
+  "explanation": "A relative clause about a person uses 'who' ('the woman who teaches'), not 'which'.",
+  "explanation_zh": "先行詞是人（the woman），關係代名詞要用 who，不能用 which。"
+ },
+ {
+  "id": "bs3-011",
+  "difficulty": "intermediate",
+  "context": "Where did you find a quiet place to study during finals?",
+  "template": "There's ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "a reading room",
+   "where",
+   "no one",
+   "is allowed",
+   "to talk"
+  ],
+  "distractor": "which",
+  "explanation": "'Where' introduces a relative clause about a place in which something happens; 'which' would need a preposition ('in which').",
+  "explanation_zh": "先行詞是地點 a reading room，後面子句結構完整，所以用 where（= in which），不能只用 which。"
+ },
+ {
+  "id": "bs3-012",
+  "difficulty": "intermediate",
+  "context": "Which textbook do I need for Biology 101?",
+  "template": "You ___ ___ ___ ___ ___ herself .",
+  "chunks": [
+   "need",
+   "the one",
+   "that",
+   "the professor",
+   "wrote"
+  ],
+  "distractor": "who",
+  "explanation": "The relative clause describes a thing ('the one'), so 'that' is used, not 'who'.",
+  "explanation_zh": "the one 指的是課本（物），關係代名詞用 that，不能用 who；that 在子句中當 wrote 的受詞。"
+ },
+ {
+  "id": "bs3-013",
+  "difficulty": "intermediate",
+  "context": "How did you hear about the hiking club?",
+  "template": "I ___ ___ ___ ___ ___ the club president .",
+  "chunks": [
+   "have",
+   "a friend",
+   "whose",
+   "older sister",
+   "is"
+  ],
+  "distractor": "who",
+  "explanation": "Possession in a relative clause is shown with 'whose' ('a friend whose older sister'); 'who older sister' is ungrammatical.",
+  "explanation_zh": "表示「某人的…」要用所有格關係代名詞 whose：a friend whose older sister，who 後面不能直接接名詞。"
+ },
+ {
+  "id": "bs3-014",
+  "difficulty": "intermediate",
+  "context": "Is there a café on campus that stays open late?",
+  "template": "Yes, there's ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "one",
+   "in the dorm",
+   "where",
+   "the international",
+   "students",
+   "live"
+  ],
+  "distractor": "which",
+  "explanation": "'Where' introduces a relative clause about a place ('the dorm where the international students live'); 'which' would need 'in'.",
+  "explanation_zh": "先行詞 the dorm 是地點，關係子句 the international students live 是完整句，所以用 where，不能用 which。"
+ },
+ {
+  "id": "bs3-015",
+  "difficulty": "advanced",
+  "context": "Why did you change your research topic?",
+  "template": "___ ___ ___ ___ ___ ___ to be unreliable .",
+  "chunks": [
+   "The data",
+   "that",
+   "I had been",
+   "collecting",
+   "all semester",
+   "turned out"
+  ],
+  "distractor": "what",
+  "explanation": "A relative clause after a noun uses 'that' ('the data that I had been collecting'); 'what' cannot follow a noun.",
+  "explanation_zh": "名詞 the data 後面接關係子句要用 that；what 本身已含先行詞（the thing that），不能放在名詞後面。"
+ },
+ {
+  "id": "bs3-016",
+  "difficulty": "advanced",
+  "context": "Did you find a lab to work in this summer?",
+  "template": "Yes, I'll ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "be working",
+   "with a professor",
+   "whose",
+   "research",
+   "focuses on",
+   "climate change"
+  ],
+  "distractor": "who's",
+  "explanation": "'Whose' shows possession ('a professor whose research'); 'who's' means 'who is' and cannot be followed by 'research focuses'.",
+  "explanation_zh": "「教授的研究」要用所有格 whose research；who's 是 who is 的縮寫，放進去文法不通。"
+ },
+ {
+  "id": "bs3-017",
+  "difficulty": "advanced",
+  "context": "Where are you going to live during your exchange year in Japan?",
+  "template": "I'll ___ ___ ___ ___ ___ ___ exchange students too .",
+  "chunks": [
+   "stay in",
+   "a dormitory",
+   "where",
+   "most of",
+   "the residents",
+   "are"
+  ],
+  "distractor": "which",
+  "explanation": "'Where' introduces a relative clause about a place followed by a complete clause ('most of the residents are…'); 'which' would require 'in which'.",
+  "explanation_zh": "a dormitory 是地點，後面子句 most of the residents are exchange students 結構完整，所以用 where。"
+ },
+ {
+  "id": "bs3-018",
+  "difficulty": "advanced",
+  "context": "Which of the internship offers did you accept?",
+  "template": "I ___ ___ ___ ___ ___ ___ over the summer .",
+  "chunks": [
+   "chose",
+   "the offer",
+   "that",
+   "would let",
+   "me stay",
+   "on campus"
+  ],
+  "distractor": "what",
+  "explanation": "'That' introduces a relative clause after the noun 'the offer'; 'what' cannot follow a noun, and 'let me stay' uses a bare infinitive.",
+  "explanation_zh": "the offer 後面接 that 引導的關係子句（that 當主詞）；what 不能接在名詞後面。"
+ },
+ {
+  "id": "bs3-019",
+  "difficulty": "intermediate",
+  "context": "Do you want to join our study session for the history final?",
+  "template": "No, I ___ ___ ___ ___ ___ twice .",
+  "chunks": [
+   "have already",
+   "reviewed",
+   "all of",
+   "my lecture",
+   "notes"
+  ],
+  "distractor": "review",
+  "explanation": "The present perfect is 'have already + past participle' ('have already reviewed'), so the base form 'review' cannot be used.",
+  "explanation_zh": "現在完成式是 have + 過去分詞，already 放在 have 後面：have already reviewed，不能用原形 review。"
+ },
+ {
+  "id": "bs3-020",
+  "difficulty": "intermediate",
+  "context": "How long have you worked at the campus bookstore?",
+  "template": "I ___ ___ ___ ___ ___ semester .",
+  "chunks": [
+   "have",
+   "worked",
+   "there",
+   "since",
+   "my first"
+  ],
+  "distractor": "am working",
+  "explanation": "An action continuing from a past point until now takes the present perfect with 'since' ('have worked there since'), not the present progressive.",
+  "explanation_zh": "從過去某時間點持續到現在，用現在完成式 have worked + since；中文「一直在做」容易寫成 am working，但英文不行。"
+ },
+ {
+  "id": "bs3-021",
+  "difficulty": "intermediate",
+  "context": "Did you get to the lecture on time this morning?",
+  "template": "No, the professor ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "had already",
+   "started",
+   "talking",
+   "when",
+   "I arrived"
+  ],
+  "distractor": "has",
+  "explanation": "The past perfect ('had already started') shows an action completed before another past event ('when I arrived'); 'has' cannot be used for a past time.",
+  "explanation_zh": "教授開始講課發生在我到達之前，較早的過去動作用過去完成式 had already started；has 是現在完成式，不能搭配過去時間。"
+ },
+ {
+  "id": "bs3-022",
+  "difficulty": "intermediate",
+  "context": "Have you ever been to the campus planetarium?",
+  "template": "No, I ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "have never",
+   "had",
+   "time",
+   "to visit",
+   "it"
+  ],
+  "distractor": "did",
+  "explanation": "The present perfect 'have never had' describes experience up to now; 'did' cannot combine with 'have never'.",
+  "explanation_zh": "回答 Have you ever 的經驗問句用現在完成式 have never had（had 是 have 的過去分詞），不能用 did。"
+ },
+ {
+  "id": "bs3-023",
+  "difficulty": "intermediate",
+  "context": "Why didn't you sign up for Dr. Patel's seminar?",
+  "template": "It ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "had",
+   "filled up",
+   "by the time",
+   "I",
+   "logged in"
+  ],
+  "distractor": "has",
+  "explanation": "'By the time' + a past event takes the past perfect in the main clause ('had filled up'), so 'has' is wrong.",
+  "explanation_zh": "by the time + 過去式子句時，主要子句要用過去完成式 had filled up，表示「在那之前就已經」額滿。"
+ },
+ {
+  "id": "bs3-024",
+  "difficulty": "advanced",
+  "context": "How was your first week as a teaching assistant?",
+  "template": "Busy! I ___ ___ ___ ___ ___ since Monday .",
+  "chunks": [
+   "have",
+   "been",
+   "grading",
+   "lab reports",
+   "almost every night"
+  ],
+  "distractor": "graded",
+  "explanation": "The present perfect progressive 'have been grading' shows an activity continuing since Monday; 'been graded' would be passive and does not fit.",
+  "explanation_zh": "從週一持續到現在的動作用現在完成進行式 have been + V-ing（have been grading），不能用 graded。"
+ },
+ {
+  "id": "bs3-025",
+  "difficulty": "advanced",
+  "context": "Why were you so nervous about your thesis defense?",
+  "template": "I ___ ___ ___ ___ ___ ___ before .",
+  "chunks": [
+   "had never",
+   "presented",
+   "my research",
+   "to",
+   "such a large",
+   "audience"
+  ],
+  "distractor": "have",
+  "explanation": "The past perfect 'had never presented … before' describes experience up to a past moment (the defense), so 'have' is wrong.",
+  "explanation_zh": "論文答辯是過去的事，在那之前的經驗要用過去完成式 had never presented；have 是現在完成式，時間不對。"
+ },
+ {
+  "id": "bs3-026",
+  "difficulty": "advanced",
+  "context": "Did you finally hand in the group project?",
+  "template": "By the time ___ ___ , ___ ___ ___ ___ three times .",
+  "chunks": [
+   "the deadline",
+   "arrived",
+   "we",
+   "had",
+   "rewritten",
+   "the conclusion"
+  ],
+  "distractor": "have",
+  "explanation": "With 'by the time' + a past event, the earlier action takes the past perfect ('had rewritten'); 'have rewritten' does not fit a past time frame.",
+  "explanation_zh": "By the time the deadline arrived 是過去的時間點，在那之前完成的動作用過去完成式 had rewritten。"
+ },
+ {
+  "id": "bs3-027",
+  "difficulty": "advanced",
+  "context": "Is Jenna still in the lab? I need help with the centrifuge.",
+  "template": "She's gone home, but she ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "has already",
+   "shown",
+   "me",
+   "how",
+   "to operate",
+   "it"
+  ],
+  "distractor": "show",
+  "explanation": "The present perfect needs the past participle ('has already shown'), so the base form 'show' cannot follow 'has already'.",
+  "explanation_zh": "現在完成式是 has + 過去分詞：has already shown；後面再接 how to operate it（how + 不定詞）。"
+ },
+ {
+  "id": "bs3-028",
+  "difficulty": "intermediate",
+  "context": "Why is the main library closed today?",
+  "template": "___ ___ ___ ___ ___ this week .",
+  "chunks": [
+   "The heating",
+   "system",
+   "is",
+   "being",
+   "repaired"
+  ],
+  "distractor": "repairing",
+  "explanation": "The present progressive passive is 'is being + past participle' ('is being repaired'); 'being repairing' is impossible.",
+  "explanation_zh": "現在進行式被動是 is being + 過去分詞（is being repaired），暖氣系統是「被修理」的，所以不能用 repairing。"
+ },
+ {
+  "id": "bs3-029",
+  "difficulty": "intermediate",
+  "context": "When will we get our midterm grades?",
+  "template": "They ___ ___ ___ ___ ___ afternoon .",
+  "chunks": [
+   "will",
+   "be",
+   "posted",
+   "online",
+   "by Friday"
+  ],
+  "distractor": "posting",
+  "explanation": "The future passive is 'will be + past participle' ('will be posted'), so 'posting' does not fit.",
+  "explanation_zh": "成績是「被公布」，未來式被動用 will be + 過去分詞：will be posted。"
+ },
+ {
+  "id": "bs3-030",
+  "difficulty": "intermediate",
+  "context": "Can I still use the old computer lab in Morton Hall?",
+  "template": "No, it ___ ___ ___ ___ ___ last summer .",
+  "chunks": [
+   "was",
+   "turned",
+   "into",
+   "a student",
+   "lounge"
+  ],
+  "distractor": "turning",
+  "explanation": "The simple past passive 'was turned into' needs the past participle, not 'turning'.",
+  "explanation_zh": "電腦教室是「被改成」交誼廳，過去式被動用 was + 過去分詞：was turned into。"
+ },
+ {
+  "id": "bs3-031",
+  "difficulty": "intermediate",
+  "context": "Do I need to bring my own lab coat to chemistry?",
+  "template": "No, ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "all lab coats",
+   "are",
+   "provided",
+   "by the",
+   "chemistry department"
+  ],
+  "distractor": "provides",
+  "explanation": "The present passive is 'are + past participle' ('are provided by'), so the active form 'provides' cannot follow 'are'.",
+  "explanation_zh": "實驗衣是由系上提供的，現在式被動 are provided by…；are 後面不能接 provides。"
+ },
+ {
+  "id": "bs3-032",
+  "difficulty": "advanced",
+  "context": "Why can't I find the reading list for Professor Wu's course online?",
+  "template": "The list ___ ___ ___ ___ ___ ___ by the department .",
+  "chunks": [
+   "won't",
+   "be released",
+   "until",
+   "the syllabus",
+   "has",
+   "been approved"
+  ],
+  "distractor": "is",
+  "explanation": "The main clause uses the future passive ('won't be released'), and the 'until' clause uses the present perfect passive ('has been approved') instead of a future form.",
+  "explanation_zh": "until 引導的時間子句不用 will，用現在完成被動 has been approved 表示「核准之後」；主要子句則是未來被動 won't be released。"
+ },
+ {
+  "id": "bs3-033",
+  "difficulty": "advanced",
+  "context": "Are we allowed to use calculators on the physics final?",
+  "template": "I heard ___ ___ ___ ___ ___ the exam room .",
+  "chunks": [
+   "only basic calculators",
+   "can",
+   "be",
+   "brought",
+   "into"
+  ],
+  "distractor": "bring",
+  "explanation": "The modal passive is 'can be + past participle' ('can be brought'); 'can be bring' is ungrammatical.",
+  "explanation_zh": "情態助動詞的被動是 can be + 過去分詞：can be brought（bring 的過去分詞），不能用原形 bring。"
+ },
+ {
+  "id": "bs3-034",
+  "difficulty": "advanced",
+  "context": "Why was the guest lecture suddenly called off?",
+  "template": "The speaker's flight ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "must",
+   "have",
+   "been",
+   "canceled",
+   "because of",
+   "the storm"
+  ],
+  "distractor": "being",
+  "explanation": "A passive deduction about the past is 'must have been + past participle' ('must have been canceled'); 'being' cannot follow 'have'.",
+  "explanation_zh": "對過去的被動推測用 must have been + 過去分詞，have 後面要接 been，不能接 being。"
+ },
+ {
+  "id": "bs3-035",
+  "difficulty": "advanced",
+  "context": "Is it true that the old science building is going to be torn down?",
+  "template": "Yes, it ___ ___ ___ ___ ___ next year .",
+  "chunks": [
+   "is going",
+   "to be",
+   "replaced",
+   "by",
+   "a new engineering center"
+  ],
+  "distractor": "replacing",
+  "explanation": "The 'be going to' passive is 'is going to be + past participle' ('is going to be replaced'); 'to be replacing' would make the building the doer.",
+  "explanation_zh": "be going to 的被動是 is going to be + 過去分詞：is going to be replaced by…，大樓是「被取代」的。"
+ },
+ {
+  "id": "bs3-036",
+  "difficulty": "advanced",
+  "context": "How are the scholarship winners chosen?",
+  "template": "Every application ___ ___ ___ ___ ___ ___ is made .",
+  "chunks": [
+   "is read",
+   "by",
+   "at least",
+   "two faculty members",
+   "before",
+   "a decision"
+  ],
+  "distractor": "reads",
+  "explanation": "The simple present passive 'is read by' shows that the application receives the action; the active 'reads' cannot be followed by 'by'.",
+  "explanation_zh": "申請書是「被閱讀」，用現在式被動 is read by + 行為者；後面的 a decision is made 也是被動。"
+ },
+ {
+  "id": "bs3-037",
+  "difficulty": "intermediate",
+  "context": "Are you going to the career fair tomorrow?",
+  "template": "If I ___ ___ ___ , I ___ ___ .",
+  "chunks": [
+   "finish",
+   "my lab report",
+   "tonight",
+   "will",
+   "definitely go"
+  ],
+  "distractor": "will finish",
+  "explanation": "In a first conditional, the if-clause uses the simple present ('If I finish'), so 'will finish' cannot go there.",
+  "explanation_zh": "第一類條件句（未來真實可能）的 if 子句用現在式 finish 表示未來，will 只放在主要子句。"
+ },
+ {
+  "id": "bs3-038",
+  "difficulty": "intermediate",
+  "context": "Would you ever live in the dorms again?",
+  "template": "If the rooms ___ ___ , I ___ ___ ___ ___ .",
+  "chunks": [
+   "were",
+   "bigger",
+   "would",
+   "move",
+   "back",
+   "in"
+  ],
+  "distractor": "will",
+  "explanation": "A second conditional uses a past form in the if-clause ('were bigger') and 'would + base verb' in the main clause ('would move back in').",
+  "explanation_zh": "第二類條件句（與現在事實相反）：If + 過去式（were），主要子句用 would + 原形動詞，不能用 will。"
+ },
+ {
+  "id": "bs3-039",
+  "difficulty": "intermediate",
+  "context": "Should I email the professor about my late homework?",
+  "template": "Yes, she ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "won't",
+   "accept",
+   "it",
+   "unless",
+   "you explain",
+   "the reason"
+  ],
+  "distractor": "will explain",
+  "explanation": "'Unless' means 'if not' and, like 'if' in a first conditional, takes the simple present ('unless you explain'), not 'will explain'.",
+  "explanation_zh": "unless = if not，屬於條件子句，談未來時仍用現在式 you explain，不能用 will explain。"
+ },
+ {
+  "id": "bs3-040",
+  "difficulty": "intermediate",
+  "context": "Are you going to apply to be an RA next year?",
+  "template": "Maybe. I ___ ___ ___ ___ ___ ___ more .",
+  "chunks": [
+   "would",
+   "apply",
+   "if",
+   "the job",
+   "paid",
+   "a little"
+  ],
+  "distractor": "pays",
+  "explanation": "This second conditional imagines an unreal present situation, so the if-clause uses the past 'paid' to match 'would apply'.",
+  "explanation_zh": "第二類條件句：主要子句 would apply，if 子句要用過去式 paid（不是 pays）表示與現在事實相反。"
+ },
+ {
+  "id": "bs3-041",
+  "difficulty": "advanced",
+  "context": "Did you get the research grant you applied for?",
+  "template": "No, but I ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "might have",
+   "won it",
+   "if",
+   "my proposal",
+   "had been",
+   "a bit shorter"
+  ],
+  "distractor": "has been",
+  "explanation": "A third conditional pairs 'might have won' with the past perfect 'had been' in the if-clause; 'has been' does not fit an unreal past.",
+  "explanation_zh": "第三類條件句（與過去事實相反）：if + had + p.p.（had been），主要子句 might have + p.p.（might have won）。"
+ },
+ {
+  "id": "bs3-042",
+  "difficulty": "advanced",
+  "context": "How did you do on the organic chemistry final?",
+  "template": "If I ___ ___ ___ , I ___ ___ ___ .",
+  "chunks": [
+   "hadn't",
+   "joined",
+   "that study group",
+   "would have",
+   "failed",
+   "it"
+  ],
+  "distractor": "wouldn't",
+  "explanation": "A third conditional uses 'hadn't + past participle' in the if-clause and 'would have + past participle' in the main clause.",
+  "explanation_zh": "第三類條件句：If I hadn't joined…（過去完成式），I would have failed it（would have + p.p.），表示與過去事實相反。"
+ },
+ {
+  "id": "bs3-043",
+  "difficulty": "advanced",
+  "context": "Why are you so stressed about the statistics course?",
+  "template": "If I ___ ___ ___ , ___ ___ ___ now .",
+  "chunks": [
+   "had taken",
+   "calculus",
+   "last year",
+   "this class",
+   "would be",
+   "much easier"
+  ],
+  "distractor": "would have been",
+  "explanation": "This mixed conditional links a past condition ('had taken … last year') to a present result ('would be … now'), so 'would have been' clashes with 'now'.",
+  "explanation_zh": "混合條件句：過去的條件用 had taken（去年），現在的結果用 would be（now），所以不能用 would have been。"
+ },
+ {
+  "id": "bs3-044",
+  "difficulty": "advanced",
+  "context": "Why didn't you choose to major in engineering?",
+  "template": "If I ___ ___ ___ , I ___ ___ ___ hesitating .",
+  "chunks": [
+   "were",
+   "better at",
+   "math",
+   "would have",
+   "chosen it",
+   "without"
+  ],
+  "distractor": "would be",
+  "explanation": "This mixed conditional uses 'were' for a present unreal condition and 'would have chosen' for a past result; 'would be' cannot go in the if-clause.",
+  "explanation_zh": "混合條件句：if 子句 were 表示現在的狀態（數學不好），主要子句 would have chosen 表示過去的結果；if 子句裡不用 would。"
+ },
+ {
+  "id": "bs3-045",
+  "difficulty": "advanced",
+  "context": "Did you know the seminar was moved to Thursday?",
+  "template": "No, ___ ___ ___ ___ , I ___ ___ today .",
+  "chunks": [
+   "had",
+   "I",
+   "known",
+   "about the change",
+   "wouldn't",
+   "have come"
+  ],
+  "distractor": "did",
+  "explanation": "'Had I known' is an inverted third conditional meaning 'If I had known', paired with 'wouldn't have come'; 'did' cannot form this inversion.",
+  "explanation_zh": "Had I known = If I had known，是省略 if 的倒裝第三類條件句，主要子句用 wouldn't have come。"
+ },
+ {
+  "id": "bs3-046",
+  "difficulty": "intermediate",
+  "context": "I failed the quiz because I didn't read chapter four.",
+  "template": "You ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "should",
+   "have",
+   "asked",
+   "me",
+   "for",
+   "my notes"
+  ],
+  "distractor": "asking",
+  "explanation": "'Should have + past participle' points to a past action that did not happen ('should have asked'); 'asking' cannot follow 'have'.",
+  "explanation_zh": "should have + 過去分詞表示「過去本來應該做卻沒做」，所以是 should have asked，不是 asking。"
+ },
+ {
+  "id": "bs3-047",
+  "difficulty": "intermediate",
+  "context": "Where's Tom? He's never late for our study group.",
+  "template": "He ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "might",
+   "have",
+   "missed",
+   "the bus",
+   "from his dorm"
+  ],
+  "distractor": "missing",
+  "explanation": "'Might have + past participle' expresses a possible past event ('might have missed'), so 'missing' does not fit.",
+  "explanation_zh": "might have + 過去分詞表示對過去的推測「可能已經…」，所以是 might have missed。"
+ },
+ {
+  "id": "bs3-048",
+  "difficulty": "intermediate",
+  "context": "The lab door was unlocked when I got here this morning.",
+  "template": "The night janitor ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "must",
+   "have",
+   "forgotten",
+   "to lock",
+   "it"
+  ],
+  "distractor": "forgot",
+  "explanation": "'Must have + past participle' is a confident guess about the past, so the participle 'forgotten' is needed, not 'forgot'.",
+  "explanation_zh": "must have + 過去分詞表示對過去很有把握的推測，forget 的過去分詞是 forgotten，不是 forgot。"
+ },
+ {
+  "id": "bs3-049",
+  "difficulty": "intermediate",
+  "context": "Professor Adams gave me a zero for using the wrong citation format.",
+  "template": "Oh no. You ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "shouldn't",
+   "have",
+   "ignored",
+   "the guidelines",
+   "on",
+   "the syllabus"
+  ],
+  "distractor": "ignore",
+  "explanation": "'Shouldn't have + past participle' criticizes something that was done in the past ('shouldn't have ignored'); the base form 'ignore' cannot follow 'have'.",
+  "explanation_zh": "shouldn't have + 過去分詞表示「過去不該做卻做了」，have 後面要接 ignored。"
+ },
+ {
+  "id": "bs3-050",
+  "difficulty": "advanced",
+  "context": "Kevin got a perfect score on the econ midterm.",
+  "template": "He ___ ___ ___ ___ in the library ___ ___ weeks .",
+  "chunks": [
+   "must",
+   "have",
+   "been",
+   "studying",
+   "every night",
+   "for"
+  ],
+  "distractor": "had",
+  "explanation": "'Must have been + -ing' is a deduction about an ongoing past activity; 'had' cannot follow 'must'.",
+  "explanation_zh": "must have been + V-ing 表示推測過去一段時間「一定一直在做」；must 後只能接原形 have，不能接 had。"
+ },
+ {
+  "id": "bs3-051",
+  "difficulty": "advanced",
+  "context": "I just realized I left my laptop charger in the lecture hall.",
+  "template": "Someone ___ ___ ___ ___ ___ ___ already .",
+  "chunks": [
+   "might",
+   "have",
+   "taken",
+   "it",
+   "to the",
+   "lost and found office"
+  ],
+  "distractor": "took",
+  "explanation": "'Might have + past participle' expresses a possibility about the past, so the participle 'taken' is required, not 'took'.",
+  "explanation_zh": "might have + 過去分詞（taken）表示「可能已經」；took 是過去式，不能放在 have 後面。"
+ },
+ {
+  "id": "bs3-052",
+  "difficulty": "advanced",
+  "context": "Why didn't Maria show up to present with her group?",
+  "template": "She ___ ___ ___ ___ ___ ___ to Monday .",
+  "chunks": [
+   "can't",
+   "have known",
+   "that",
+   "the presentation",
+   "had been",
+   "moved"
+  ],
+  "distractor": "knew",
+  "explanation": "'Can't have + past participle' means it is impossible that something happened ('can't have known'), and the earlier change uses the past perfect passive.",
+  "explanation_zh": "can't have + 過去分詞表示「不可能已經…」（can't have known）；報告被改期發生得更早，用過去完成被動 had been moved。"
+ },
+ {
+  "id": "bs3-053",
+  "difficulty": "advanced",
+  "context": "I didn't apply for the exchange program because I thought my grades were too low.",
+  "template": "You ___ ___ ___ ___ , since ___ ___ ___ .",
+  "chunks": [
+   "should",
+   "have",
+   "applied",
+   "anyway",
+   "several students",
+   "with lower grades",
+   "were accepted"
+  ],
+  "distractor": "applying",
+  "explanation": "'Should have applied' expresses regret about a past action that did not happen; 'applying' cannot follow 'have'.",
+  "explanation_zh": "should have + 過去分詞（applied）表示「當初應該申請卻沒申請」，帶有惋惜或責備的語氣。"
+ },
+ {
+  "id": "bs3-054",
+  "difficulty": "advanced",
+  "context": "Nobody in our class got the bonus question right.",
+  "template": "The professor ___ ___ ___ ___ ___ covered .",
+  "chunks": [
+   "may",
+   "have",
+   "included",
+   "a topic",
+   "that we never"
+  ],
+  "distractor": "includes",
+  "explanation": "'May have + past participle' suggests a possible past explanation ('may have included'); 'includes' cannot follow 'have'.",
+  "explanation_zh": "may have + 過去分詞表示對過去的推測「也許已經…」，have 後面要接 included。"
+ },
+ {
+  "id": "bs3-055",
+  "difficulty": "intermediate",
+  "context": "Why do you always eat lunch so early?",
+  "template": "I ___ ___ ___ ___ ___ the cafeteria .",
+  "chunks": [
+   "try",
+   "to avoid",
+   "waiting",
+   "in line",
+   "at"
+  ],
+  "distractor": "to wait",
+  "explanation": "'Avoid' is followed by a gerund ('avoid waiting'), never an infinitive like 'to wait'.",
+  "explanation_zh": "avoid 後面只能接動名詞（V-ing），所以是 avoid waiting，不能用 to wait。"
+ },
+ {
+  "id": "bs3-056",
+  "difficulty": "intermediate",
+  "context": "Did you do the reading for tomorrow's seminar?",
+  "template": "Yes, I ___ ___ ___ ___ ___ the bus this morning .",
+  "chunks": [
+   "managed",
+   "to finish",
+   "all",
+   "of it",
+   "on"
+  ],
+  "distractor": "finishing",
+  "explanation": "'Manage' takes an infinitive ('managed to finish'), not a gerund.",
+  "explanation_zh": "manage 後面接不定詞 to V，表示「設法做到」，所以是 managed to finish。"
+ },
+ {
+  "id": "bs3-057",
+  "difficulty": "intermediate",
+  "context": "I'm worried about my presentation for Professor Lee's class.",
+  "template": "I ___ ___ ___ ___ ___ your roommate .",
+  "chunks": [
+   "suggest",
+   "practicing",
+   "it",
+   "in front",
+   "of"
+  ],
+  "distractor": "to practice",
+  "explanation": "'Suggest' is followed by a gerund ('suggest practicing'), not an infinitive.",
+  "explanation_zh": "suggest 後面接動名詞（suggest practicing），不能接 to practice（中文「建議去做」容易誤用不定詞）。"
+ },
+ {
+  "id": "bs3-058",
+  "difficulty": "intermediate",
+  "context": "Do you have everything for the field trip tomorrow?",
+  "template": "I ___ ___ ___ ___ ___ ID .",
+  "chunks": [
+   "need",
+   "to remember",
+   "to bring",
+   "my",
+   "student"
+  ],
+  "distractor": "bring",
+  "explanation": "'Remember to do' refers to a task still to be done, so 'remember to bring' is correct; 'remember bring' is ungrammatical.",
+  "explanation_zh": "remember to V 是「記得要去做（還沒做）」，remember V-ing 是「記得做過」；明天要帶的東西用 to bring。"
+ },
+ {
+  "id": "bs3-059",
+  "difficulty": "intermediate",
+  "context": "Are you still going to major in biology?",
+  "template": "No, I've ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "decided",
+   "to switch",
+   "my major",
+   "to",
+   "public health"
+  ],
+  "distractor": "switching",
+  "explanation": "'Decide' takes an infinitive ('decided to switch'), not a gerund.",
+  "explanation_zh": "decide 後面接不定詞 to V（decided to switch）；後面的 to public health 是介系詞 to。"
+ },
+ {
+  "id": "bs3-060",
+  "difficulty": "advanced",
+  "context": "Why were you late to the seminar?",
+  "template": "I ___ ___ ___ ___ ___ the chemistry building .",
+  "chunks": [
+   "stopped",
+   "to help",
+   "a freshman",
+   "who",
+   "couldn't find"
+  ],
+  "distractor": "help",
+  "explanation": "'Stop to do' means stopping in order to do something ('stopped to help'), which explains being late; 'stopped help' is ungrammatical.",
+  "explanation_zh": "stop to V 表示「停下來去做某事」，stop V-ing 是「停止做某事」；遲到是因為停下來幫忙，所以用 stopped to help。"
+ },
+ {
+  "id": "bs3-061",
+  "difficulty": "advanced",
+  "context": "Are you going to live off campus next semester?",
+  "template": "I'm ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "considering",
+   "sharing",
+   "an apartment",
+   "with",
+   "two friends",
+   "from my lab"
+  ],
+  "distractor": "to share",
+  "explanation": "'Consider' is followed by a gerund ('considering sharing'), not an infinitive.",
+  "explanation_zh": "consider 後面接動名詞：considering sharing，不能接 to share。"
+ },
+ {
+  "id": "bs3-062",
+  "difficulty": "advanced",
+  "context": "Did you lock the door of the computer lab?",
+  "template": "I ___ ___ ___ , ___ ___ ___ and check .",
+  "chunks": [
+   "don't",
+   "remember",
+   "locking it",
+   "so",
+   "I'd better",
+   "go back"
+  ],
+  "distractor": "locked it",
+  "explanation": "'Remember + gerund' refers to a memory of a past action ('don't remember locking it'), so the past form 'locked it' cannot follow 'remember'.",
+  "explanation_zh": "remember V-ing 指「記得做過某事」，問的是過去有沒有鎖門，所以用 remember locking it；had better 後接原形 go back。"
+ },
+ {
+  "id": "bs3-063",
+  "difficulty": "advanced",
+  "context": "How's your senior thesis coming along?",
+  "template": "I ___ ___ ___ ___ ___ two weeks .",
+  "chunks": [
+   "have been",
+   "putting off",
+   "writing",
+   "the literature review",
+   "for almost"
+  ],
+  "distractor": "to write",
+  "explanation": "'Put off' (postpone) is followed by a gerund ('putting off writing'), not an infinitive.",
+  "explanation_zh": "put off（延後）後面接動名詞：putting off writing，不能接 to write。"
+ },
+ {
+  "id": "bs3-064",
+  "difficulty": "intermediate",
+  "context": "Wasn't your laptop screen cracked last week?",
+  "template": "Yes, but I ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "had",
+   "it",
+   "fixed",
+   "at the",
+   "campus tech center"
+  ],
+  "distractor": "fixing",
+  "explanation": "The causative 'have + object + past participle' ('had it fixed') means someone else did the repair.",
+  "explanation_zh": "使役 have + 受詞 + 過去分詞表示「請別人把某物處理好」：had it fixed，不能用 fixing。"
+ },
+ {
+  "id": "bs3-065",
+  "difficulty": "intermediate",
+  "context": "Can we use any notes during the quiz?",
+  "template": "The professor ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "lets",
+   "us",
+   "bring",
+   "one page",
+   "of notes"
+  ],
+  "distractor": "to bring",
+  "explanation": "'Let + object + bare infinitive' is the pattern ('lets us bring'), so 'to' cannot appear.",
+  "explanation_zh": "let + 受詞 + 原形動詞，所以是 lets us bring，不能有 to。"
+ },
+ {
+  "id": "bs3-066",
+  "difficulty": "intermediate",
+  "context": "Why did you rewrite your whole lab report?",
+  "template": "My TA ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "made",
+   "me",
+   "redo",
+   "the entire",
+   "analysis section"
+  ],
+  "distractor": "redoing",
+  "explanation": "Active 'make + object + bare infinitive' ('made me redo') expresses forcing someone to act.",
+  "explanation_zh": "make + 受詞 + 原形動詞表示「迫使某人做」：made me redo，不能用 redoing。"
+ },
+ {
+  "id": "bs3-067",
+  "difficulty": "intermediate",
+  "context": "How did you get an official copy of your transcript so fast?",
+  "template": "I ___ ___ ___ ___ ___ this morning .",
+  "chunks": [
+   "got",
+   "it",
+   "printed",
+   "at the",
+   "registrar's office"
+  ],
+  "distractor": "print",
+  "explanation": "'Get + object + past participle' ('got it printed') is a causative meaning someone else did the printing.",
+  "explanation_zh": "get + 受詞 + 過去分詞表示「讓某物被處理」：got it printed（成績單是被印出來的），不能用原形 print。"
+ },
+ {
+  "id": "bs3-068",
+  "difficulty": "intermediate",
+  "context": "Who is going to proofread your scholarship essay?",
+  "template": "I ___ ___ ___ ___ ___ me .",
+  "chunks": [
+   "got",
+   "my writing tutor",
+   "to check",
+   "it",
+   "for"
+  ],
+  "distractor": "check",
+  "explanation": "Unlike 'make' and 'let', causative 'get + person' takes a to-infinitive ('got my writing tutor to check').",
+  "explanation_zh": "get + 人 + to V（got my writing tutor to check），和 make、let 接原形動詞不同，get 要接 to。"
+ },
+ {
+  "id": "bs3-069",
+  "difficulty": "advanced",
+  "context": "How did you move all your boxes into your new dorm room?",
+  "template": "The housing office ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "had",
+   "two student workers",
+   "carry",
+   "them",
+   "up to",
+   "my room"
+  ],
+  "distractor": "carried",
+  "explanation": "'Have + person + bare infinitive' ('had two student workers carry') means arranging for someone to do something.",
+  "explanation_zh": "have + 人 + 原形動詞表示「叫某人做」：had two student workers carry them，不用過去式 carried。"
+ },
+ {
+  "id": "bs3-070",
+  "difficulty": "advanced",
+  "context": "Did you renew your student visa before the deadline?",
+  "template": "Yes, I ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "had",
+   "my documents",
+   "checked",
+   "by an adviser",
+   "before",
+   "I submitted them"
+  ],
+  "distractor": "check",
+  "explanation": "'Have + object + past participle' ('had my documents checked') shows that someone else did the checking.",
+  "explanation_zh": "have + 物 + 過去分詞：had my documents checked by an adviser，文件是「被檢查」的，所以用 checked。"
+ },
+ {
+  "id": "bs3-071",
+  "difficulty": "advanced",
+  "context": "Do first-year students have to attend the library workshop?",
+  "template": "Yes, we ___ ___ ___ ___ ___ ___ books .",
+  "chunks": [
+   "were",
+   "made",
+   "to attend",
+   "two sessions",
+   "before",
+   "we could borrow"
+  ],
+  "distractor": "attend",
+  "explanation": "In the passive, 'make' takes a to-infinitive ('were made to attend'), even though active 'make' uses a bare infinitive.",
+  "explanation_zh": "make 主動是 make + 人 + 原形，但改成被動 be made 時要加 to：were made to attend。"
+ },
+ {
+  "id": "bs3-072",
+  "difficulty": "advanced",
+  "context": "Can I take the final exam early because of my flight home?",
+  "template": "Professor Chen ___ ___ ___ ___ ___ ___ on Monday .",
+  "chunks": [
+   "might",
+   "let",
+   "you",
+   "take it",
+   "during",
+   "her office hours"
+  ],
+  "distractor": "to take it",
+  "explanation": "'Let + object + bare infinitive' gives 'let you take it', so 'to take it' cannot follow 'you'.",
+  "explanation_zh": "let + 受詞 + 原形動詞：might let you take it；情態助動詞 might 後面也接原形 let。"
+ },
+ {
+  "id": "bs3-073",
+  "difficulty": "intermediate",
+  "context": "Has the food at the main dining hall changed this year?",
+  "template": "No, ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "the food",
+   "isn't",
+   "as fresh",
+   "as",
+   "it",
+   "used to be"
+  ],
+  "distractor": "than",
+  "explanation": "An equal comparison uses 'as … as' ('as fresh as it used to be'), so 'than' cannot replace the second 'as'.",
+  "explanation_zh": "同等比較用 as + 形容詞 + as，否定為 not as fresh as；than 只能配比較級。"
+ },
+ {
+  "id": "bs3-074",
+  "difficulty": "intermediate",
+  "context": "Which section of calculus should I sign up for?",
+  "template": "Dr. Gomez ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "explains",
+   "things",
+   "more",
+   "clearly",
+   "than",
+   "the other instructor"
+  ],
+  "distractor": "most",
+  "explanation": "A comparison with 'than' needs the comparative adverb 'more clearly', not the superlative 'most'.",
+  "explanation_zh": "有 than 就要用比較級 more clearly；副詞 clearly 放在受詞 things 之後。"
+ },
+ {
+  "id": "bs3-075",
+  "difficulty": "intermediate",
+  "context": "Why do you always study on the fourth floor of the library?",
+  "template": "It's ___ ___ ___ ___ ___ on campus .",
+  "chunks": [
+   "the",
+   "quietest",
+   "spot",
+   "I've ever",
+   "found"
+  ],
+  "distractor": "quieter",
+  "explanation": "A superlative ('the quietest') is used with 'I've ever found' to show the highest degree; the comparative 'quieter' would need 'than'.",
+  "explanation_zh": "the + 最高級（the quietest）常和 I've ever + 過去分詞連用；比較級 quieter 要搭配 than。"
+ },
+ {
+  "id": "bs3-076",
+  "difficulty": "intermediate",
+  "context": "Do you think joining clubs will help me make friends?",
+  "template": "___ ___ ___ , ___ ___ ___ .",
+  "chunks": [
+   "The more",
+   "clubs",
+   "you join",
+   "the more",
+   "people",
+   "you'll meet"
+  ],
+  "distractor": "most",
+  "explanation": "The pattern 'the more …, the more …' links two increasing amounts; 'most' cannot be used in it.",
+  "explanation_zh": "「越…就越…」用 The more + 名詞 + 主詞 + 動詞, the more…，不能用 most。"
+ },
+ {
+  "id": "bs3-077",
+  "difficulty": "intermediate",
+  "context": "Is the campus gym crowded in the mornings?",
+  "template": "It's ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "only",
+   "half",
+   "as crowded",
+   "as",
+   "it gets",
+   "in the evening"
+  ],
+  "distractor": "than",
+  "explanation": "Fractions and multiples go before 'as … as' ('half as crowded as'); 'than' cannot complete an 'as' comparison.",
+  "explanation_zh": "倍數或分數放在 as…as 前面：half as crowded as；as…as 後面不能用 than。"
+ },
+ {
+  "id": "bs3-078",
+  "difficulty": "advanced",
+  "context": "When should I send in my application for the summer research program?",
+  "template": "You ___ ___ ___ ___ ___ ___ quickly .",
+  "chunks": [
+   "should submit",
+   "it",
+   "as early",
+   "as possible",
+   "because",
+   "spots fill up"
+  ],
+  "distractor": "earliest",
+  "explanation": "'As early as possible' uses the base adverb between 'as … as', so the superlative 'earliest' cannot fit.",
+  "explanation_zh": "as + 原級 + as possible（越早越好），中間用原級 early，不能用最高級 earliest。"
+ },
+ {
+  "id": "bs3-079",
+  "difficulty": "advanced",
+  "context": "How is graduate school different from your undergraduate program?",
+  "template": "___ ___ ___ ___ ___ ___ in college .",
+  "chunks": [
+   "The reading load",
+   "is",
+   "far",
+   "heavier",
+   "than",
+   "anything I had"
+  ],
+  "distractor": "heaviest",
+  "explanation": "'Far' strengthens a comparative ('far heavier than'); the superlative 'heaviest' cannot be followed by 'than'.",
+  "explanation_zh": "far、much 可以修飾比較級：far heavier than；最高級 heaviest 不能和 than 連用。"
+ },
+ {
+  "id": "bs3-080",
+  "difficulty": "advanced",
+  "context": "Should I start my term paper now or wait until next month?",
+  "template": "___ ___ , ___ ___ ___ during finals .",
+  "chunks": [
+   "The sooner",
+   "you start it",
+   "the less",
+   "stressed",
+   "you'll feel"
+  ],
+  "distractor": "least",
+  "explanation": "The double comparative 'the sooner …, the less …' needs comparative forms, so the superlative 'least' does not fit.",
+  "explanation_zh": "「越早…就越不…」用 the + 比較級…, the + 比較級…：the sooner…, the less stressed…；least 是最高級。"
+ },
+ {
+  "id": "bs3-081",
+  "difficulty": "advanced",
+  "context": "What did you think of the guest lecture on Thursday?",
+  "template": "It ___ ___ ___ ___ ___ ___ through .",
+  "chunks": [
+   "was",
+   "one of",
+   "the least",
+   "organized",
+   "talks",
+   "I've ever sat"
+  ],
+  "distractor": "talk",
+  "explanation": "'One of the + superlative' must be followed by a plural noun ('one of the least organized talks'), so singular 'talk' is wrong.",
+  "explanation_zh": "one of the + 最高級 + 複數名詞：one of the least organized talks，名詞必須用複數 talks。"
+ },
+ {
+  "id": "bs3-082",
+  "difficulty": "intermediate",
+  "context": "Why did the librarian stop you at the entrance?",
+  "template": "She ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "asked",
+   "me",
+   "if",
+   "I had",
+   "my student card",
+   "with me"
+  ],
+  "distractor": "did I have",
+  "explanation": "A reported yes/no question uses 'if' plus statement order with a backshifted tense ('if I had'), not question order 'did I have'.",
+  "explanation_zh": "轉述 yes/no 問句用 asked + if + 直述句語序，時態往前推：if I had my student card，不能用 did I have。"
+ },
+ {
+  "id": "bs3-083",
+  "difficulty": "intermediate",
+  "context": "Did the TA say anything about the lab report?",
+  "template": "He ___ ___ ___ ___ ___ submitting .",
+  "chunks": [
+   "told",
+   "us",
+   "to double-check",
+   "our calculations",
+   "before"
+  ],
+  "distractor": "said",
+  "explanation": "A reported command uses 'told + person + to-infinitive' ('told us to double-check'); 'said' cannot take 'us' as an object.",
+  "explanation_zh": "轉述命令用 tell + 人 + to V：told us to double-check；said 後面不能直接接人。"
+ },
+ {
+  "id": "bs3-084",
+  "difficulty": "intermediate",
+  "context": "Is your roommate coming to the club fair tonight?",
+  "template": "She ___ ___ ___ ___ ___ instead .",
+  "chunks": [
+   "said",
+   "that",
+   "she",
+   "was going",
+   "to the gym"
+  ],
+  "distractor": "told",
+  "explanation": "'Said' introduces reported speech without a listener, and the tense shifts back to 'was going'; 'told' would need a person object.",
+  "explanation_zh": "轉述時用 said (that) + 子句，時態往前推為 was going；told 後面一定要先接人（told me）。"
+ },
+ {
+  "id": "bs3-085",
+  "difficulty": "intermediate",
+  "context": "What did your adviser think of your course schedule?",
+  "template": "She ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "asked",
+   "why",
+   "I",
+   "had dropped",
+   "my French class"
+  ],
+  "distractor": "had I",
+  "explanation": "A reported wh-question uses statement order ('why I had dropped'), so the inverted 'had I' is wrong.",
+  "explanation_zh": "轉述 wh- 問句用直述句語序：asked why I had dropped…，不能倒裝成 had I；時態也往前推成過去完成式。"
+ },
+ {
+  "id": "bs3-086",
+  "difficulty": "advanced",
+  "context": "What did the dean say at the orientation meeting?",
+  "template": "She ___ ___ ___ ___ ___ ___ failing grade .",
+  "chunks": [
+   "warned",
+   "us",
+   "that",
+   "plagiarism",
+   "would result in",
+   "an automatic"
+  ],
+  "distractor": "said",
+  "explanation": "'Warn' takes a person object before the that-clause ('warned us that'), and 'will' shifts back to 'would' in reported speech.",
+  "explanation_zh": "warn + 人 + that 子句，轉述時 will 改成 would；said 後面不能接人當受詞。"
+ },
+ {
+  "id": "bs3-087",
+  "difficulty": "advanced",
+  "context": "Why didn't the visiting scholar answer your question?",
+  "template": "He ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "said",
+   "he",
+   "hadn't read",
+   "the article",
+   "I was",
+   "asking about"
+  ],
+  "distractor": "haven't read",
+  "explanation": "Reported speech backshifts 'hasn't read' to the past perfect 'hadn't read'; 'haven't read' neither agrees with 'he' nor fits the past frame.",
+  "explanation_zh": "轉述時現在完成式要往前推成過去完成式 hadn't read；haven't 和主詞 he 也不一致。"
+ },
+ {
+  "id": "bs3-088",
+  "difficulty": "advanced",
+  "context": "What did they ask you at your graduate school interview?",
+  "template": "She ___ ___ ___ ___ ___ ___ failed .",
+  "chunks": [
+   "asked me",
+   "what",
+   "I",
+   "would do",
+   "if",
+   "my experiment"
+  ],
+  "distractor": "would I",
+  "explanation": "A reported question uses statement order ('what I would do'), so the inverted 'would I' cannot be used.",
+  "explanation_zh": "轉述問句要用直述句語序：asked me what I would do…，不能用 would I 倒裝。"
+ },
+ {
+  "id": "bs3-089",
+  "difficulty": "advanced",
+  "context": "Did your professor agree to write you a recommendation letter?",
+  "template": "She ___ ___ ___ ___ ___ ___ of the week .",
+  "chunks": [
+   "told me",
+   "she",
+   "would",
+   "send it",
+   "to the committee",
+   "by the end"
+  ],
+  "distractor": "said me",
+  "explanation": "'Told me' takes a person object, while 'said me' is ungrammatical; 'will' becomes 'would' in reported speech.",
+  "explanation_zh": "tell 後面直接接人（told me），say 不行（said me 是錯的）；轉述時 will 變成 would。"
+ },
+ {
+  "id": "bs3-090",
+  "difficulty": "intermediate",
+  "context": "Did you finish the online application for the exchange program?",
+  "template": "Yes, I ___ ___ ___ ___ after class .",
+  "chunks": [
+   "filled",
+   "it",
+   "out",
+   "on my laptop"
+  ],
+  "distractor": "filling",
+  "explanation": "With a separable phrasal verb, a pronoun object goes between the verb and the particle ('filled it out'), never after 'out'.",
+  "explanation_zh": "可分片語動詞的受詞是代名詞時，一定要放中間：filled it out，不能說 filled out it。"
+ },
+ {
+  "id": "bs3-091",
+  "difficulty": "intermediate",
+  "context": "What should I do when I don't understand a word in the reading?",
+  "template": "You ___ ___ ___ ___ ___ ___ dictionary .",
+  "chunks": [
+   "can",
+   "look",
+   "it",
+   "up",
+   "in the",
+   "online"
+  ],
+  "distractor": "looking",
+  "explanation": "The pronoun 'it' must go between 'look' and 'up' ('look it up'), and 'can' needs the base form 'look'.",
+  "explanation_zh": "look up 的受詞是代名詞 it 時要放中間：look it up；can 後面接原形 look。"
+ },
+ {
+  "id": "bs3-092",
+  "difficulty": "intermediate",
+  "context": "Are you still running for student council?",
+  "template": "No, I ___ ___ ___ ___ ___ classes .",
+  "chunks": [
+   "had to",
+   "turn down",
+   "the nomination",
+   "because of",
+   "my"
+  ],
+  "distractor": "turning",
+  "explanation": "'Had to' is followed by the base form of the phrasal verb 'turn down' (reject), and a noun object can follow the particle.",
+  "explanation_zh": "had to 後面接原形 turn down（拒絕）；受詞是名詞 the nomination 時可以放在片語後面。"
+ },
+ {
+  "id": "bs3-093",
+  "difficulty": "intermediate",
+  "context": "Did you return the books you borrowed from the library?",
+  "template": "Not yet. I'll ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "drop",
+   "them",
+   "off",
+   "on my way",
+   "to class"
+  ],
+  "distractor": "dropping",
+  "explanation": "The pronoun 'them' goes between 'drop' and 'off' ('drop them off'), and 'I'll' requires the base form 'drop'.",
+  "explanation_zh": "drop off 的受詞是代名詞 them，要放中間：drop them off；will 後面接原形動詞。"
+ },
+ {
+  "id": "bs3-094",
+  "difficulty": "advanced",
+  "context": "Have you decided on a topic for your senior thesis?",
+  "template": "My adviser ___ ___ ___ ___ ___ ___ , but I haven't chosen one .",
+  "chunks": [
+   "helped",
+   "me",
+   "come up",
+   "with",
+   "a few",
+   "ideas"
+  ],
+  "distractor": "came",
+  "explanation": "'Help + object + bare infinitive' gives 'helped me come up with', and the three-part phrasal verb 'come up with' takes its object after 'with'.",
+  "explanation_zh": "help + 人 + 原形動詞（helped me come up with）；三字片語動詞 come up with（想出）不可拆開，受詞放在 with 後面。"
+ },
+ {
+  "id": "bs3-095",
+  "difficulty": "advanced",
+  "context": "Why are you so worried about the group project?",
+  "template": "Two members ___ ___ , so ___ ___ ___ ___ ___ among the three of us .",
+  "chunks": [
+   "dropped",
+   "out",
+   "we",
+   "have to",
+   "divide",
+   "it",
+   "up"
+  ],
+  "distractor": "dividing",
+  "explanation": "A pronoun object of a separable phrasal verb sits between the verb and the particle ('divide it up'), and 'have to' needs the base form.",
+  "explanation_zh": "divide up 的受詞是代名詞 it 時放中間：divide it up；have to 後面接原形動詞。"
+ },
+ {
+  "id": "bs3-096",
+  "difficulty": "advanced",
+  "context": "Did you ever find out why your scholarship payment was late?",
+  "template": "It turns out the financial aid office ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "had",
+   "mixed",
+   "it",
+   "up",
+   "with",
+   "someone else's"
+  ],
+  "distractor": "mixing",
+  "explanation": "The pronoun 'it' must go inside the phrasal verb ('mixed it up with'), and the past perfect requires 'had mixed'.",
+  "explanation_zh": "mix up（搞混）的受詞是代名詞時放中間：had mixed it up with…；過去完成式 had 後接過去分詞 mixed。"
+ },
+ {
+  "id": "bs3-097",
+  "difficulty": "advanced",
+  "context": "Have you heard back from the study abroad office?",
+  "template": "They ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "promised",
+   "to get back",
+   "to me",
+   "as soon as",
+   "my application",
+   "was reviewed"
+  ],
+  "distractor": "getting back",
+  "explanation": "'Promise' takes an infinitive ('promised to get back to me'), and the phrasal verb 'get back to' means 'reply to'.",
+  "explanation_zh": "promise 後接不定詞 to V：promised to get back to me（get back to = 回覆某人），不能用 getting back。"
+ },
+ {
+  "id": "bs3-098",
+  "difficulty": "intermediate",
+  "context": "Is the physics study group meeting tonight?",
+  "template": "I ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "don't know",
+   "if",
+   "anyone",
+   "reserved",
+   "a room",
+   "for us"
+  ],
+  "distractor": "did anyone",
+  "explanation": "A noun clause with 'if' uses statement order ('if anyone reserved'), so 'did anyone' cannot be used.",
+  "explanation_zh": "if 引導的名詞子句（是否）用直述句語序：if anyone reserved a room，不能用 did anyone。"
+ },
+ {
+  "id": "bs3-099",
+  "difficulty": "intermediate",
+  "context": "Did you understand the last part of today's lecture?",
+  "template": "No, ___ ___ ___ completely ___ ___ .",
+  "chunks": [
+   "what",
+   "she said",
+   "about genetics",
+   "confused",
+   "me"
+  ],
+  "distractor": "that",
+  "explanation": "'What she said about genetics' is a noun clause acting as the subject; 'that' cannot replace 'what' because 'said' needs an object.",
+  "explanation_zh": "what she said… 是名詞子句當主詞（她所說的內容）；that 引導的子句不能缺受詞，所以不能用 that。"
+ },
+ {
+  "id": "bs3-100",
+  "difficulty": "intermediate",
+  "context": "Are you taking the advanced Spanish class next semester?",
+  "template": "I ___ ___ ___ ___ ___ ___ yet .",
+  "chunks": [
+   "haven't",
+   "decided",
+   "whether",
+   "I want",
+   "to take",
+   "it"
+  ],
+  "distractor": "do I want",
+  "explanation": "A noun clause after 'decided' uses 'whether' + statement order ('whether I want to take it'), not question order.",
+  "explanation_zh": "whether 引導名詞子句當 decided 的受詞，語序是 whether + 主詞 + 動詞，不能用 do I want。"
+ },
+ {
+  "id": "bs3-101",
+  "difficulty": "intermediate",
+  "context": "What do you think of the new campus app?",
+  "template": "___ ___ ___ ___ ___ feature .",
+  "chunks": [
+   "What",
+   "I like",
+   "most",
+   "is",
+   "the bus schedule"
+  ],
+  "distractor": "That",
+  "explanation": "'What I like most' is a noun clause meaning 'the thing that I like most' and acts as the subject of 'is'.",
+  "explanation_zh": "What I like most（我最喜歡的東西）是名詞子句當主詞，動詞用單數 is；That 不能表示「…的東西」。"
+ },
+ {
+  "id": "bs3-102",
+  "difficulty": "intermediate",
+  "context": "Has the committee decided who gets the teaching fellowship?",
+  "template": "Nobody ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "knows",
+   "whether",
+   "they",
+   "will announce",
+   "the decision",
+   "before spring break"
+  ],
+  "distractor": "will they",
+  "explanation": "A whether-clause keeps statement order ('whether they will announce'), so 'will they' is wrong.",
+  "explanation_zh": "whether 子句用直述句語序：whether they will announce…，不能倒裝成 will they。"
+ },
+ {
+  "id": "bs3-103",
+  "difficulty": "advanced",
+  "context": "Why did you switch from engineering to psychology?",
+  "template": "___ ___ ___ ___ ___ ___ under pressure .",
+  "chunks": [
+   "What",
+   "really interested",
+   "me",
+   "was",
+   "how people",
+   "make decisions"
+  ],
+  "distractor": "That",
+  "explanation": "The noun clause 'What really interested me' is the subject, and 'how people make decisions' is a second noun clause after 'was'.",
+  "explanation_zh": "What really interested me 是名詞子句當主詞；was 後面再接 how people make decisions（間接問句語序）。"
+ },
+ {
+  "id": "bs3-104",
+  "difficulty": "advanced",
+  "context": "Can I bring a friend from another school to the career fair?",
+  "template": "You'll ___ ___ ___ ___ ___ ___ to attend .",
+  "chunks": [
+   "have to",
+   "ask",
+   "the organizers",
+   "if",
+   "outside guests",
+   "are permitted"
+  ],
+  "distractor": "are they",
+  "explanation": "After 'ask the organizers', the if-clause keeps statement order ('if outside guests are permitted'), with no inversion.",
+  "explanation_zh": "ask + 人 + if 子句（是否），語序是 if + 主詞 + 動詞：if outside guests are permitted to attend。"
+ },
+ {
+  "id": "bs3-105",
+  "difficulty": "advanced",
+  "context": "Are you going straight to graduate school after college?",
+  "template": "I'm ___ ___ ___ ___ ___ ___ first .",
+  "chunks": [
+   "still deciding",
+   "whether",
+   "to apply now",
+   "or",
+   "work for",
+   "a couple of years"
+  ],
+  "distractor": "if to",
+  "explanation": "'Whether' can be followed by a to-infinitive ('whether to apply now or work'), but 'if' cannot.",
+  "explanation_zh": "whether 後面可以直接接 to V（whether to apply），if 不行；所以 if to 是錯的。"
+ },
+ {
+  "id": "bs3-106",
+  "difficulty": "intermediate",
+  "context": "Do you eat breakfast before your eight o'clock class?",
+  "template": "I ___ ___ ___ ___ ___ café .",
+  "chunks": [
+   "usually",
+   "grab",
+   "a muffin",
+   "at the",
+   "campus"
+  ],
+  "distractor": "am usually",
+  "explanation": "A frequency adverb goes before a main verb ('usually grab'), and 'am' cannot combine with the base form 'grab'.",
+  "explanation_zh": "頻率副詞放在一般動詞前面：I usually grab；be 動詞 am 不能和原形動詞 grab 連用。"
+ },
+ {
+  "id": "bs3-107",
+  "difficulty": "intermediate",
+  "context": "Is the library always this busy during finals week?",
+  "template": "I ___ ___ ___ ___ ___ crowded before .",
+  "chunks": [
+   "have",
+   "never",
+   "seen",
+   "it",
+   "this"
+  ],
+  "distractor": "ever",
+  "explanation": "'Never' goes between the auxiliary and the participle ('have never seen'); 'ever' cannot be used in an affirmative statement like this.",
+  "explanation_zh": "頻率副詞 never 放在助動詞 have 和過去分詞之間：have never seen；ever 多用於疑問句或否定句，不能放在這個肯定句裡。"
+ },
+ {
+  "id": "bs3-108",
+  "difficulty": "intermediate",
+  "context": "Has the shuttle to the science campus come yet?",
+  "template": "No, it ___ ___ ___ , and I'm ___ ___ .",
+  "chunks": [
+   "still",
+   "hasn't",
+   "come",
+   "going to be",
+   "late"
+  ],
+  "distractor": "already",
+  "explanation": "In negative sentences 'still' comes before the auxiliary ('still hasn't come'), while 'already' is used in affirmative sentences.",
+  "explanation_zh": "still 用在否定句時要放在助動詞前面：it still hasn't come；already 用於肯定句，不能放在這裡。"
+ },
+ {
+  "id": "bs3-109",
+  "difficulty": "intermediate",
+  "context": "Is your new lab partner helpful?",
+  "template": "Yes, he ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "always",
+   "explains",
+   "the lab",
+   "procedures",
+   "very clearly"
+  ],
+  "distractor": "clear",
+  "explanation": "A frequency adverb goes before the main verb ('always explains'), and an adverb of manner ('very clearly') follows the object.",
+  "explanation_zh": "頻率副詞 always 放在動詞前；表示方式的副詞 very clearly 放在受詞後面，不能用形容詞 clear。"
+ },
+ {
+  "id": "bs3-110",
+  "difficulty": "intermediate",
+  "context": "Why did you move to the front row in the lecture hall?",
+  "template": "I ___ ___ ___ ___ ___ row .",
+  "chunks": [
+   "could hardly",
+   "hear",
+   "the professor",
+   "from",
+   "the back"
+  ],
+  "distractor": "hard",
+  "explanation": "'Hardly' means 'almost not' and goes after the modal ('could hardly hear'); 'hard' is a different adverb meaning 'with effort'.",
+  "explanation_zh": "hardly 意思是「幾乎不」，放在助動詞後、動詞前：could hardly hear；hard 是「努力地」，意思不同。"
+ },
+ {
+  "id": "bs3-111",
+  "difficulty": "advanced",
+  "context": "Do you think the new professor is a fair grader?",
+  "template": "She ___ ___ ___ , ___ ___ ___ extremely helpful .",
+  "chunks": [
+   "rarely",
+   "gives",
+   "full marks",
+   "but",
+   "her comments",
+   "are always"
+  ],
+  "distractor": "rare",
+  "explanation": "Frequency adverbs go before a main verb ('rarely gives') but after 'be' ('are always'); the adjective 'rare' cannot modify a verb.",
+  "explanation_zh": "頻率副詞放在一般動詞前（rarely gives）、be 動詞後（are always）；形容詞 rare 不能修飾動詞。"
+ },
+ {
+  "id": "bs3-112",
+  "difficulty": "advanced",
+  "context": "Did you finish the online problem set before the deadline?",
+  "template": "I ___ ___ ___ ___ ___ ___ for maintenance .",
+  "chunks": [
+   "had",
+   "barely",
+   "started it",
+   "when",
+   "the system",
+   "shut down"
+  ],
+  "distractor": "bare",
+  "explanation": "'Barely' (almost not) goes after the first auxiliary ('had barely started'), and 'when' introduces the event that interrupted it.",
+  "explanation_zh": "barely（幾乎沒有、才剛）放在助動詞 had 後面：had barely started it when…；bare 是形容詞，不能修飾動詞。"
+ },
+ {
+  "id": "bs3-113",
+  "difficulty": "advanced",
+  "context": "Have you read your adviser's feedback on your thesis chapter?",
+  "template": "I've ___ ___ ___ ___ , ___ ___ ___ to the comments yet .",
+  "chunks": [
+   "only",
+   "just",
+   "opened",
+   "the file",
+   "so",
+   "I haven't",
+   "gotten"
+  ],
+  "distractor": "already",
+  "explanation": "'Only just' (a moment ago) goes between 'have' and the participle ('I've only just opened'), and 'yet' ends the negative clause.",
+  "explanation_zh": "only just（才剛剛）放在 have 和過去分詞之間：I've only just opened；already 不能和 only 一起用在這裡，否定句尾用 yet。"
+ },
+ {
+  "id": "bs3-114",
+  "difficulty": "intermediate",
+  "context": "Are you coming to the basketball game tonight?",
+  "template": "No, I'm ___ ___ ___ ___ ___ tonight .",
+  "chunks": [
+   "too",
+   "tired",
+   "to stay out",
+   "that",
+   "late"
+  ],
+  "distractor": "so",
+  "explanation": "'Too + adjective + to-infinitive' means something is not possible ('too tired to stay out'); 'so tired to' is ungrammatical.",
+  "explanation_zh": "too + 形容詞 + to V 表示「太…而不能…」；so 要搭配 that 子句，不能接 to V。"
+ },
+ {
+  "id": "bs3-115",
+  "difficulty": "intermediate",
+  "context": "Do you think I can get into the honors program?",
+  "template": "Your ___ ___ ___ ___ ___ the honors program .",
+  "chunks": [
+   "grades",
+   "are",
+   "high",
+   "enough",
+   "to get into"
+  ],
+  "distractor": "very",
+  "explanation": "'Enough' follows an adjective ('high enough') and is followed by a to-infinitive; 'very' cannot introduce 'to get into'.",
+  "explanation_zh": "enough 修飾形容詞時要放在後面：high enough to V；very 不能接不定詞表示結果。"
+ },
+ {
+  "id": "bs3-116",
+  "difficulty": "intermediate",
+  "context": "How was Professor Ruiz's lecture today?",
+  "template": "It ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "was",
+   "so",
+   "boring",
+   "that",
+   "I almost",
+   "fell asleep"
+  ],
+  "distractor": "such",
+  "explanation": "'So' is used before an adjective alone ('so boring that'), while 'such' needs a noun phrase.",
+  "explanation_zh": "so + 形容詞 + that 子句；such 後面要接名詞（such a boring lecture），所以這裡不能用 such。"
+ },
+ {
+  "id": "bs3-117",
+  "difficulty": "intermediate",
+  "context": "Why did you choose this university?",
+  "template": "It ___ ___ ___ ___ ___ say no .",
+  "chunks": [
+   "has",
+   "such",
+   "a beautiful campus",
+   "that",
+   "I couldn't"
+  ],
+  "distractor": "so",
+  "explanation": "'Such' is used before a noun phrase ('such a beautiful campus that'), whereas 'so' goes before an adjective alone.",
+  "explanation_zh": "such + a + 形容詞 + 名詞 + that；so 後面只接形容詞或副詞，不能直接接 a beautiful campus。"
+ },
+ {
+  "id": "bs3-118",
+  "difficulty": "intermediate",
+  "context": "Did you finish the reading for history class?",
+  "template": "The article ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "was",
+   "too long",
+   "for me",
+   "to finish",
+   "in one night"
+  ],
+  "distractor": "finishing",
+  "explanation": "The pattern is 'too + adjective + for + person + to-infinitive' ('too long for me to finish').",
+  "explanation_zh": "too + 形容詞 + for + 人 + to V：too long for me to finish，不能用 finishing；主詞 the article 就是 finish 的受詞，不用再加 it。"
+ },
+ {
+  "id": "bs3-119",
+  "difficulty": "advanced",
+  "context": "Why did so many students drop organic chemistry?",
+  "template": "___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "The first exam",
+   "was",
+   "so difficult",
+   "that",
+   "half the class",
+   "failed it"
+  ],
+  "distractor": "too difficult",
+  "explanation": "'So + adjective + that' introduces a result clause ('so difficult that half the class failed it'); 'too' cannot be followed by a that-clause.",
+  "explanation_zh": "so + 形容詞 + that 表示「如此…以致於」；too 只能接 to V，不能接 that 子句。"
+ },
+ {
+  "id": "bs3-120",
+  "difficulty": "advanced",
+  "context": "Why don't you take the advanced seminar with Professor Moore?",
+  "template": "The reading list ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "is",
+   "far",
+   "too long",
+   "for a",
+   "part-time student",
+   "to handle"
+  ],
+  "distractor": "to handle it",
+  "explanation": "In 'too long … to handle', the subject 'the reading list' is the understood object of 'handle', so adding 'it' is incorrect.",
+  "explanation_zh": "too…to V 句型中，主詞 the reading list 就是 handle 的受詞，所以句尾不能再加 it。"
+ },
+ {
+  "id": "bs3-121",
+  "difficulty": "advanced",
+  "context": "Can we start the experiment this afternoon?",
+  "template": "We ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "don't have",
+   "enough",
+   "test tubes",
+   "to run",
+   "all the trials",
+   "at once"
+  ],
+  "distractor": "enough of",
+  "explanation": "'Enough' comes directly before a noun ('enough test tubes') and is followed by a to-infinitive.",
+  "explanation_zh": "enough 修飾名詞時放在名詞前：enough test tubes to V；enough of 後面要接 the、my 等限定詞，這裡不行。"
+ },
+ {
+  "id": "bs3-122",
+  "difficulty": "advanced",
+  "context": "Could you understand the visiting lecturer from Scotland?",
+  "template": "She ___ ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "spoke",
+   "so",
+   "quickly",
+   "that",
+   "I could",
+   "barely take",
+   "any notes"
+  ],
+  "distractor": "such",
+  "explanation": "'So + adverb + that' ('so quickly that') expresses a result; 'such' cannot modify an adverb.",
+  "explanation_zh": "so + 副詞 + that 子句表示結果：spoke so quickly that…；such 只能接名詞片語。"
+ },
+ {
+  "id": "bs3-123",
+  "difficulty": "advanced",
+  "context": "How did you find out about the research assistant job?",
+  "template": "___ ___ ___ , ___ ___ on the door .",
+  "chunks": [
+   "Walking",
+   "past",
+   "the biology building",
+   "I noticed",
+   "a flyer"
+  ],
+  "distractor": "Walked",
+  "explanation": "The present participle phrase 'Walking past the biology building' shares the subject 'I' and describes a simultaneous action.",
+  "explanation_zh": "分詞構句：主詞 I 是主動「走過」，所以用現在分詞 Walking；Walked 會變成缺少主詞和連接詞的錯誤句子。"
+ },
+ {
+  "id": "bs3-124",
+  "difficulty": "advanced",
+  "context": "Why did you choose to study abroad in Germany?",
+  "template": "___ ___ ___ , ___ ___ every day .",
+  "chunks": [
+   "Having",
+   "studied German",
+   "for six years",
+   "I wanted",
+   "to use it"
+  ],
+  "distractor": "Have",
+  "explanation": "The perfect participle 'Having studied' shows an action completed before the main clause ('I wanted').",
+  "explanation_zh": "Having + 過去分詞表示先完成的動作（先學了六年德文，才想要天天使用）；Have 開頭會變成問句或命令句。"
+ },
+ {
+  "id": "bs3-125",
+  "difficulty": "advanced",
+  "context": "Is the new chemistry textbook any good?",
+  "template": "___ ___ ___ , it ___ ___ .",
+  "chunks": [
+   "Written",
+   "by two professors",
+   "from our department",
+   "covers",
+   "exactly what we need"
+  ],
+  "distractor": "Writing",
+  "explanation": "The past participle 'Written' gives a passive meaning because the book was written by the professors.",
+  "explanation_zh": "課本是「被寫」的，被動意義的分詞構句用過去分詞 Written；Writing 表示主動，不合邏輯。"
+ },
+ {
+  "id": "bs3-126",
+  "difficulty": "advanced",
+  "context": "Why did you leave the study group so early?",
+  "template": "___ ___ ___ , ___ ___ and sleep .",
+  "chunks": [
+   "Feeling",
+   "exhausted",
+   "after my night shift",
+   "I decided",
+   "to go home"
+  ],
+  "distractor": "Felt",
+  "explanation": "The present participle phrase 'Feeling exhausted' describes the subject's state and shares the subject 'I'.",
+  "explanation_zh": "分詞構句 Feeling exhausted 說明主詞 I 當時的狀態（= Because I felt exhausted）；Felt 無法單獨放在句首。"
+ },
+ {
+  "id": "bs3-127",
+  "difficulty": "advanced",
+  "context": "Did you see the dean's email about the new parking policy?",
+  "template": "Not yet, but ___ ___ ___ ___ ___ ___ .",
+  "chunks": [
+   "students",
+   "living",
+   "off campus",
+   "said",
+   "it affects",
+   "their permits"
+  ],
+  "distractor": "who living",
+  "explanation": "'Living off campus' is a reduced relative clause (= who live off campus), so 'who living' is ungrammatical.",
+  "explanation_zh": "students living off campus 是省略關係代名詞的分詞片語（= students who live off campus）；who living 文法錯誤。"
+ },
+ {
+  "id": "bs3-128",
+  "difficulty": "advanced",
+  "context": "Did campus security ever recover the stolen bikes?",
+  "template": "___ ___ ___ from the racks last week ___ ___ ___ the gym .",
+  "chunks": [
+   "Most of",
+   "the bikes",
+   "taken",
+   "were",
+   "found",
+   "behind"
+  ],
+  "distractor": "taking",
+  "explanation": "The past participle 'taken' forms a reduced passive relative clause (= that were taken), so 'taking' is wrong.",
+  "explanation_zh": "the bikes taken from the racks 是省略的被動關係子句（= that were taken），所以用過去分詞 taken。"
+ },
+ {
+  "id": "bs3-129",
+  "difficulty": "advanced",
+  "context": "How did you get through your first semester abroad?",
+  "template": "___ ___ ___ ___ , ___ ___ to make friends .",
+  "chunks": [
+   "Not",
+   "knowing",
+   "anyone",
+   "in the city",
+   "I joined",
+   "several student clubs"
+  ],
+  "distractor": "Don't",
+  "explanation": "A negative participle phrase puts 'not' before the participle ('Not knowing anyone'); 'Don't' cannot begin a participle phrase.",
+  "explanation_zh": "分詞構句的否定把 not 放在分詞前面：Not knowing anyone…；Don't 開頭會變成命令句。"
+ },
+ {
+  "id": "bs3-130",
+  "difficulty": "advanced",
+  "context": "Why was the robotics team disqualified?",
+  "template": "___ ___ ___ , ___ ___ ___ by the judges .",
+  "chunks": [
+   "Having been",
+   "submitted",
+   "after the deadline",
+   "their design",
+   "was not",
+   "accepted"
+  ],
+  "distractor": "Have been",
+  "explanation": "'Having been submitted' is a perfect passive participle phrase describing what happened to the design before it was rejected.",
+  "explanation_zh": "Having been + 過去分詞是完成式被動分詞構句（設計先「被」遲交），邏輯主詞是 their design。"
+ }
+]

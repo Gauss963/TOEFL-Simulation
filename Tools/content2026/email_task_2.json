@@ -1,0 +1,457 @@
+[
+ {
+  "id": "em2-01",
+  "difficulty": "intermediate",
+  "scenario": "You are a second-year chemistry major, but after taking an introductory environmental policy course as an elective, you are considering switching to environmental studies. You are worried that changing majors might delay your graduation. Your academic advisor, Dr. Hollis, meets students by appointment.",
+  "to": "Dr. Margaret Hollis, academic advisor",
+  "subject": "Meeting to discuss a possible change of major",
+  "bullets": [
+   "Explain why you are considering a change of major.",
+   "Describe what you are worried about.",
+   "Ask for a meeting and suggest times when you are available."
+  ],
+  "sample_response": "Dear Dr. Hollis,\n\nI hope your semester is going well. I am a second-year chemistry major, and I am writing because I am seriously considering switching to environmental studies. This semester I took Introduction to Environmental Policy as an elective, and I found myself far more excited about the readings than about my lab courses. I also realized that I want a career in sustainability planning rather than in a laboratory.\n\nHowever, I am not sure how the change would affect my timeline. In particular, I am worried that some of my chemistry credits might not count toward the new major, and I would still like to graduate in spring 2028 as planned.\n\nWould you have time for a short meeting next week? I am free on Monday and Wednesday afternoons after 2 p.m., and I could also come in on Friday morning. I will bring a copy of my transcript.\n\nThank you for your time.\n\nBest regards,\nDaniel"
+ },
+ {
+  "id": "em2-02",
+  "difficulty": "intermediate",
+  "scenario": "You live in Maple Hall, a university residence hall. For the past week, construction crews renovating the building next door have started using loud machinery at 7 a.m. Final exams begin in ten days, and many residents study late at night. The Office of Residence Life handles residents' concerns.",
+  "to": "Ms. Carla Jennings, Residence Life coordinator",
+  "subject": "Early-morning construction noise near Maple Hall",
+  "bullets": [
+   "Describe the noise problem.",
+   "Explain how it is affecting residents during exam preparation.",
+   "Ask what the Residence Life office can do to help."
+  ],
+  "sample_response": "Dear Ms. Jennings,\n\nI am a resident on the third floor of Maple Hall, and I am writing about the renovation work next door at Carver Hall. Since last Monday, the crews have been using jackhammers and a concrete mixer starting at exactly 7 a.m., and the noise continues almost without a break until late afternoon. Even with my windows closed, it sounds as though the work is happening inside my room.\n\nThe timing is especially difficult because final exams begin in ten days. Many of us study until midnight or later, so we are losing several hours of sleep every morning. Two of my neighbors have even started going to the library at dawn just to escape the noise.\n\nI understand that the renovation needs to be finished, but could your office ask the contractor to start at 9 a.m. during the exam period? If that is not possible, perhaps the university could open a quiet study room for residents in the mornings.\n\nThank you for considering this.\n\nSincerely,\nAisha"
+ },
+ {
+  "id": "em2-03",
+  "difficulty": "intermediate",
+  "scenario": "You are a sophomore majoring in international business, and you are interested in spending next spring at Kyoto Global University through your school's exchange program. The program website gives only general information. The study abroad advisor, Mr. Reid, answers questions from students who are thinking about applying.",
+  "to": "Mr. Thomas Reid, study abroad advisor",
+  "subject": "Questions about the Kyoto exchange program",
+  "bullets": [
+   "Introduce yourself and explain your interest in the program.",
+   "Ask how course credits will transfer.",
+   "Ask about housing options for exchange students."
+  ],
+  "sample_response": "Dear Mr. Reid,\n\nMy name is Kevin Park, and I am a sophomore majoring in international business. I recently attended the study abroad fair, and I am very interested in spending next spring at Kyoto Global University. I have studied Japanese for two years, and I believe a semester in Japan would help prepare me for a career with companies that trade across Asia.\n\nBefore I apply, I have a couple of questions. First, how do course credits from Kyoto transfer back to our university? I need to complete two required finance courses next year, so I would like to know whether similar courses there could count toward my major.\n\nSecond, what housing options are available for exchange students? The website mentions both dormitories and homestays, but it does not explain how students are placed or what each option costs.\n\nI would really appreciate any information you can share. I am also happy to come to your office hours if that would be easier.\n\nBest regards,\nKevin"
+ },
+ {
+  "id": "em2-04",
+  "difficulty": "intermediate",
+  "scenario": "You missed two psychology lectures last week because you were attending your grandmother's eightieth birthday celebration out of town. Your classmate Mia, whom you know only a little, offered to share her notes with you. The midterm exam is next Thursday.",
+  "to": "Mia Chen, a classmate in your psychology course",
+  "subject": "Thanks for the lecture notes",
+  "bullets": [
+   "Thank her for sharing her notes.",
+   "Explain how the notes helped you.",
+   "Suggest studying together before the midterm."
+  ],
+  "sample_response": "Hi Mia,\n\nThank you so much for sending me your notes from last week's psychology lectures! I really didn't expect anyone to offer, and it was such a kind thing to do, especially since we've only talked a few times before class.\n\nYour notes turned out to be incredibly useful. I had no idea how the professor explained the difference between classical and operant conditioning, but your diagrams made it clear right away. I also liked the way you highlighted the examples she said might appear on the exam. Honestly, they're more organized than my own notes.\n\nSince the midterm is next Thursday, would you be interested in studying together? We could meet at the student center on Sunday afternoon or Tuesday evening and quiz each other on the key terms. I could also make a set of practice questions from the textbook chapters to share with you.\n\nLet me know what works for you. Thanks again!\n\nBest,\nSam"
+ },
+ {
+  "id": "em2-05",
+  "difficulty": "intermediate",
+  "scenario": "Yesterday afternoon, you left your laptop in a lecture room in Harper Hall after your economics class. When you returned an hour later, it was gone. The laptop contains your notes for the entire semester, and the campus security office manages lost and found items.",
+  "to": "Lost and Found Office, campus security",
+  "subject": "Laptop lost in Harper Hall",
+  "bullets": [
+   "Describe the item you lost.",
+   "Explain when and where you last had it.",
+   "Ask what you should do next."
+  ],
+  "sample_response": "Dear Lost and Found Staff,\n\nI am writing to report a laptop that I lost on campus yesterday, and I hope someone may have turned it in. It is a silver 13-inch laptop in a dark blue fabric sleeve. There is a small mountain sticker on the lid, and the charger was in the front pocket of the sleeve.\n\nI last had the laptop in Room 104 of Harper Hall, where my economics class ends at 3:15 p.m. I believe I left it under my seat in the fourth row while I was talking to a classmate after the lecture. When I went back at about 4:20, the room was empty and the laptop was gone.\n\nThe computer holds all of my notes for this semester, so I am quite worried. Could you let me know whether anything matching this description has been found? If not, should I file an official report, and is there anything else I can do?\n\nThank you for your help.\n\nSincerely,\nLaura Mendes"
+ },
+ {
+  "id": "em2-06",
+  "difficulty": "intermediate",
+  "scenario": "Since yesterday, you have been unable to log in to the university's online course platform. You keep receiving an error message, even after resetting your password. A history assignment must be submitted through the platform by Friday at noon.",
+  "to": "IT Help Desk, university technology services",
+  "subject": "Unable to log in to the course platform",
+  "bullets": [
+   "Describe the problem you are having.",
+   "Explain why the problem is urgent.",
+   "Ask for help and say how they can contact you."
+  ],
+  "sample_response": "Dear IT Help Desk,\n\nI am a third-year student, and I have been unable to log in to the online course platform since yesterday morning. Each time I enter my username and password, the page displays the message \"Account not recognized\" and sends me back to the login screen. I reset my password last night and tried again on both my laptop and a library computer, but the same error appeared every time.\n\nThis problem is urgent because I have a history research essay that must be submitted through the platform by Friday at noon. My professor deducts ten percent for each day an assignment is late, and I also cannot access the readings I need to finish the essay.\n\nCould someone please look into my account as soon as possible? My username is jtorres22. You can reach me by email or by phone at 555-0148, and I can visit the help desk in person any afternoon this week.\n\nThank you very much.\n\nBest regards,\nJavier Torres"
+ },
+ {
+  "id": "em2-07",
+  "difficulty": "intermediate",
+  "scenario": "Your classmate Ethan is choosing an elective for next semester and is deciding between Introduction to Film Studies and Creative Writing Workshop. You took both courses last year, and he has asked for your opinion.",
+  "to": "Ethan, a classmate",
+  "subject": "Which elective to take next semester",
+  "bullets": [
+   "Briefly describe both courses.",
+   "Recommend one course and explain why.",
+   "Offer to help him in some way."
+  ],
+  "sample_response": "Hey Ethan,\n\nGreat question! I took both courses last year, so I'm happy to share what I know.\n\nFilm Studies is mostly lectures and screenings. You watch one or two classic films a week and write three short analysis papers, plus a final exam. Creative Writing Workshop is very different: it's a small class of about fifteen people, and every week you share your own stories and give feedback on everyone else's.\n\nIf I had to choose for you, I'd pick the workshop. You've told me you want to improve your writing for your journalism minor, and the workshop gives you constant practice and real feedback. Also, Professor Adams is fantastic. She meets with every student individually twice a semester. Film Studies is fun, but it's easy to feel like just one face in a lecture hall of a hundred people.\n\nIf you sign up, I still have my old workshop notes and the reading list. I'd be glad to lend them to you before the semester starts.\n\nCheers,\nNoah"
+ },
+ {
+  "id": "em2-08",
+  "difficulty": "intermediate",
+  "scenario": "You often study in the lounge on the second floor of the student union. Although it is popular, it has only a few electrical outlets, and students often sit on the floor near the walls to charge their laptops. The student union recently posted a notice inviting suggestions from students.",
+  "to": "Mr. Robert Ellis, student union operations manager",
+  "subject": "Suggestion for the second-floor study lounge",
+  "bullets": [
+   "Explain how you use the lounge.",
+   "Describe the problem students face there.",
+   "Suggest a specific improvement."
+  ],
+  "sample_response": "Dear Mr. Ellis,\n\nI saw the notice inviting suggestions for the student union, and I would like to share an idea about the second-floor study lounge. I spend about two hours there almost every day between classes. It is bright, comfortable, and close to my lecture halls, so it has become my favorite place on campus to review notes and finish assignments.\n\nUnfortunately, the lounge has only six electrical outlets, and they are all along one wall. By midmorning, every outlet is taken, so students end up sitting on the floor with their laptops just to stay charged. Others simply leave when their batteries run low, which seems like a waste of such a pleasant space.\n\nI would suggest installing charging stations on the large tables in the middle of the room, or at least adding a few secured power strips there. The engineering library already has tables with built-in outlets, and students use them constantly.\n\nThank you for considering this idea.\n\nSincerely,\nJulia"
+ },
+ {
+  "id": "em2-09",
+  "difficulty": "intermediate",
+  "scenario": "Your roommate, Emma, invited you to spend the Thanksgiving weekend with her family because you could not afford to fly home. Her mother, Mrs. Kowalski, made you feel very welcome. Emma's family is planning to visit campus next month.",
+  "to": "Mrs. Janet Kowalski, your roommate's mother",
+  "subject": "Thank you for a wonderful Thanksgiving",
+  "bullets": [
+   "Thank her for her hospitality.",
+   "Describe a moment you especially enjoyed.",
+   "Offer to help make the family's campus visit enjoyable."
+  ],
+  "sample_response": "Dear Mrs. Kowalski,\n\nI wanted to write and thank you again for welcoming me into your home over Thanksgiving. Since I couldn't travel back to Brazil this year, I was expecting to spend the holiday alone in an empty dorm, so your invitation meant more to me than I can say. You made me feel like part of the family from the moment I arrived.\n\nMy favorite moment was Friday evening, when you taught Emma and me how to make your grandmother's apple pie. I had never baked anything before, and I'm still proud that our crust didn't fall apart. I've already sent the recipe to my mother.\n\nEmma mentioned that you are all planning to visit campus next month. I would love to return the favor by showing you around. I could take you to the art museum and the botanical garden, and I know a small café near the river that serves an excellent brunch.\n\nWith warm thanks,\nLucas"
+ },
+ {
+  "id": "em2-10",
+  "difficulty": "intermediate",
+  "scenario": "Last spring, you earned an A in Professor Albright's Intermediate Microeconomics course. You are now applying to a competitive summer research program in public policy, which requires two letters of recommendation. The application deadline is in four weeks.",
+  "to": "Professor Susan Albright, economics professor",
+  "subject": "Request for a letter of recommendation",
+  "bullets": [
+   "Remind her who you are and which course you took.",
+   "Describe the program you are applying to.",
+   "Ask whether she can write a letter and mention the deadline."
+  ],
+  "sample_response": "Dear Professor Albright,\n\nI hope you are doing well. My name is Mei Lin Wong, and I was a student in your Intermediate Microeconomics course last spring. I usually sat near the front of the room, and I wrote my final project on the effects of rent control in Boston, which you kindly discussed with me during office hours.\n\nI am writing because I am applying to the Summer Policy Research Program at the Westbrook Institute. Selected students spend ten weeks working with researchers on real policy questions, and I hope to join the team that studies housing affordability. Your course is what first sparked my interest in this area.\n\nWould you be willing to write a letter of recommendation for me? The deadline for letters is March 15, about four weeks from now. If you agree, I would be glad to send you my résumé, my personal statement, and a copy of my final project to make the process easier.\n\nThank you for considering my request.\n\nSincerely,\nMei Lin"
+ },
+ {
+  "id": "em2-11",
+  "difficulty": "intermediate",
+  "scenario": "You transferred to the university this semester from a community college. You recently learned about the Greenfield Scholarship, which supports students in science fields, but the website does not say whether transfer students can apply. The application closes at the end of the month.",
+  "to": "Ms. Diane Foster, scholarship coordinator",
+  "subject": "Eligibility question about the Greenfield Scholarship",
+  "bullets": [
+   "Explain your situation as a student.",
+   "Ask whether you are eligible for the scholarship.",
+   "Ask what documents you need to submit."
+  ],
+  "sample_response": "Dear Ms. Foster,\n\nI am writing to ask about the Greenfield Scholarship for students in science fields. I transferred to the university this fall after completing two years at Riverside Community College, where I earned a 3.8 GPA. I am now a junior majoring in biochemistry, and I am taking a full course load of fifteen credits.\n\nWhen I read the scholarship description online, I noticed that it mentions \"continuing students\" but says nothing about transfer students. Since I have only been here for one semester, I am not sure whether I qualify. Could you tell me if transfer students are eligible to apply?\n\nIf I am eligible, I would also like to know which documents I should submit. For example, do you need my community college transcript as well as my current one, and how many recommendation letters are required? The application closes at the end of the month, so I want to prepare everything in time.\n\nThank you for your help.\n\nBest regards,\nOmar"
+ },
+ {
+  "id": "em2-12",
+  "difficulty": "intermediate",
+  "scenario": "You take the campus shuttle back to your off-campus apartment after your evening class ends at 9 p.m. Three times in the past two weeks, the shuttle has driven past your stop without stopping, even though you were waiting at the sign. The next shuttle comes forty minutes later.",
+  "to": "Campus Transportation Services",
+  "subject": "Evening shuttle skipping the Science Library stop",
+  "bullets": [
+   "Describe what has been happening.",
+   "Explain how it has affected you.",
+   "Suggest a way to improve the service."
+  ],
+  "sample_response": "Dear Transportation Services,\n\nI am writing about a problem with the evening Green Line shuttle at the Science Library stop. Three times in the past two weeks, most recently last Wednesday, the 9:10 p.m. shuttle drove past the stop without slowing down, even though I was standing right next to the sign. On two of those nights, another student was waiting with me.\n\nBecause the next shuttle does not arrive until 9:50, I have had to wait alone in the dark for forty minutes. The area around the library is very quiet at night, and I honestly do not feel safe there. Missing the shuttle also means I get home late and have less time to prepare for my early classes.\n\nPerhaps drivers on the evening route could be reminded to stop at every posted stop after dark, even if they cannot see anyone. Another option would be better lighting at the stop so that drivers can easily see waiting passengers.\n\nThank you for looking into this.\n\nSincerely,\nGrace"
+ },
+ {
+  "id": "em2-13",
+  "difficulty": "intermediate",
+  "scenario": "Your chemistry teaching assistant, Alex, held an optional review session last Friday before the midterm exam. At the end, he asked students to send feedback so that he could improve future sessions. You found the session useful, but the room was very crowded.",
+  "to": "Alex Moreau, teaching assistant for Chemistry 101",
+  "subject": "Feedback on Friday's review session",
+  "bullets": [
+   "Say what was helpful about the session.",
+   "Mention one thing that could be improved.",
+   "Ask whether there will be another session before the final exam."
+  ],
+  "sample_response": "Hi Alex,\n\nThank you for running the review session last Friday. You asked for feedback, so I wanted to share a few thoughts.\n\nThe most helpful part was when you solved the practice problems step by step on the board and pointed out the common mistakes students make with limiting reactants. I had been confused about that topic for weeks, and I finally understood it. I also appreciated that you stayed late to answer everyone's questions.\n\nThe one thing that could be improved is the room. So many people came that several of us had to sit on the floor or stand near the door, and it was hard to see the board from the back. Maybe a larger lecture hall would work better next time, or you could split the session into two smaller groups.\n\nI was also wondering whether you plan to hold another review session before the final exam. If you do, I will definitely be there.\n\nThanks again,\nRyan"
+ },
+ {
+  "id": "em2-14",
+  "difficulty": "intermediate",
+  "scenario": "You are scheduled to give an individual presentation in your marketing course on November 12, but you have just been selected to represent the university at a regional business case competition that week. Your professor says you may switch dates if another student agrees. Your classmate Isabel is scheduled to present on November 19.",
+  "to": "Isabel Ruiz, a classmate in your marketing course",
+  "subject": "Could we switch presentation dates?",
+  "bullets": [
+   "Explain why you need to change your presentation date.",
+   "Ask whether she would be willing to switch with you.",
+   "Offer something to make the switch easier for her."
+  ],
+  "sample_response": "Hi Isabel,\n\nI hope you don't mind me reaching out. I'm in your Principles of Marketing class, and I have a favor to ask.\n\nI'm scheduled to give my presentation on November 12, but I just found out I've been chosen to represent the university at the regional business case competition, which takes place in Chicago that same week. Professor Grant said I can change my date as long as another student agrees to trade with me.\n\nSince you're scheduled for November 19, would you be willing to switch with me? I know that would give you one less week to prepare, so please feel free to say no if it doesn't work for you.\n\nIf you do agree, I'd be happy to help however I can. For example, I could practice with you and give feedback on your slides, or share the presentation template I designed, which saved me a lot of time.\n\nThanks so much for considering it!\n\nBest,\nDavid"
+ },
+ {
+  "id": "em2-15",
+  "difficulty": "intermediate",
+  "scenario": "You are writing a fifteen-page research paper for your sociology course on how social media affects teenagers' friendships. English is your second language, and you are worried about organizing your argument clearly. The University Writing Center offers one-on-one sessions, but its website does not explain how to book one.",
+  "to": "Tutoring Coordinator, University Writing Center",
+  "subject": "Help with a sociology research paper",
+  "bullets": [
+   "Describe the paper you are working on.",
+   "Explain which parts you need help with.",
+   "Ask how to schedule an appointment."
+  ],
+  "sample_response": "Dear Writing Center Coordinator,\n\nI am a second-year student, and I would like some help with a research paper for my sociology course. The paper is about fifteen pages long and examines how social media affects friendships among teenagers. I have already collected my sources, including two surveys and several interviews, and I have finished a rough draft of about ten pages.\n\nSince English is my second language, I mainly need help with organization. My professor commented that my argument is \"hard to follow,\" so I would like someone to help me plan clearer paragraphs and smoother transitions. I would also appreciate advice on connecting my evidence more directly to my main claim.\n\nCould you tell me how to schedule a one-on-one session? I looked on the website, but I could not find a booking page. My paper is due on December 4, so I would prefer an appointment within the next two weeks, ideally on a Tuesday or Thursday afternoon.\n\nThank you,\nYuki"
+ },
+ {
+  "id": "em2-16",
+  "difficulty": "intermediate",
+  "scenario": "You have written a few articles for the campus newspaper this year. The editor-in-chief, Rachel, has invited you to write a weekly column next semester. You are flattered, but next semester you will be taking a heavy course load and working as a lab assistant.",
+  "to": "Rachel Kim, editor-in-chief of the student newspaper",
+  "subject": "Your offer of a weekly column",
+  "bullets": [
+   "Thank her for the offer.",
+   "Explain why you cannot accept it.",
+   "Suggest another way you could contribute to the newspaper."
+  ],
+  "sample_response": "Hi Rachel,\n\nThank you so much for inviting me to write a weekly column next semester. I was honestly surprised and really flattered, especially since I've only written four articles for the paper so far. It means a lot that you liked my piece on food waste in the dining halls.\n\nAfter thinking about it carefully, though, I don't think I can take it on. Next semester I'll be taking eighteen credits, including organic chemistry, and I've also accepted a job as a lab assistant for ten hours a week. A weekly column deserves real time and attention, and I'm worried I wouldn't be able to meet the deadlines or keep the quality up.\n\nThat said, I'd love to stay involved. Could I contribute one longer feature story each month instead? I could also help edit articles on weekends when my schedule is lighter. I'd be glad to talk about it whenever you have time.\n\nThanks again for thinking of me!\n\nBest,\nMaya"
+ },
+ {
+  "id": "em2-17",
+  "difficulty": "intermediate",
+  "scenario": "Last week, your classmate Jacob lent you his biology textbook because yours had not arrived yet. Yesterday, you accidentally knocked over a cup of coffee, and several pages of his book were stained and wrinkled. You still have the book, and he will need it before Friday's quiz.",
+  "to": "Jacob, a classmate in your biology course",
+  "subject": "About your biology textbook",
+  "bullets": [
+   "Apologize and explain what happened.",
+   "Describe the damage to the book.",
+   "Offer a way to make up for it."
+  ],
+  "sample_response": "Hi Jacob,\n\nI'm really sorry, but I have some bad news about your biology textbook. Yesterday evening I was studying at my desk, and when I reached for my notebook, I knocked over a full cup of coffee. Most of it landed on the book before I could grab it. I feel terrible, especially because you were so generous to lend it to me.\n\nThe cover is fine, but about twenty pages in Chapter 6 are stained brown and a little wrinkled. The text is still readable, but the pages stick together slightly, and the diagrams on cellular respiration are harder to see.\n\nI'd like to make this right. I can order you a new copy, which should arrive by Thursday, so you'll have it before Friday's quiz. If you'd rather keep this one for now, I'll pay for a replacement whenever you want it. Either way, I'll bring the book to class tomorrow so you can see it yourself.\n\nAgain, I'm so sorry.\n\nBest,\nChris"
+ },
+ {
+  "id": "em2-18",
+  "difficulty": "intermediate",
+  "scenario": "You and four friends from your calculus class have started a study group that meets twice a week. You have been meeting in your small dorm room, but it is crowded and disturbs your roommate. Your residence hall has a common room with a whiteboard, and your resident assistant, Tyler, manages its use.",
+  "to": "Tyler Owens, resident assistant on your floor",
+  "subject": "Using the common room for a study group",
+  "bullets": [
+   "Describe your study group.",
+   "Explain why you would like to use the common room.",
+   "Ask about the rules and how to reserve the room."
+  ],
+  "sample_response": "Hi Tyler,\n\nI live in Room 312, and I wanted to ask you about using the common room on our floor.\n\nFour friends from my calculus class and I started a study group a few weeks ago. We meet on Monday and Wednesday evenings from 7 to 9 p.m. to go over homework problems and prepare for quizzes. So far it has really helped; all of us improved our scores on the last exam.\n\nRight now we meet in my room, but with five people it's very crowded, and my roommate needs a quiet place to study at the same time. The common room would be perfect because it has a big table and a whiteboard, which would make working through problems together much easier.\n\nCould you tell me what the rules are for using the room? For example, do we need to reserve it in advance, and are students from other buildings allowed to come? We'll keep the noise down and clean up afterward.\n\nThanks a lot,\nAmir"
+ },
+ {
+  "id": "em2-19",
+  "difficulty": "advanced",
+  "scenario": "You received a C on your essay for Professor Hale's American Literature course. His comments say that your discussion of the novel's ending was \"off-topic,\" but you believe the assignment prompt invited students to analyze how a key scene shapes the meaning of the whole novel. You respect the professor and do not want to sound as if you are simply complaining about your grade.",
+  "to": "Professor Richard Hale, American literature professor",
+  "subject": "Question about my essay evaluation",
+  "bullets": [
+   "Explain which part of the evaluation concerns you.",
+   "Give reasons why you believe your essay addressed the prompt.",
+   "Request a meeting or a second review of your essay."
+  ],
+  "sample_response": "Dear Professor Hale,\n\nThank you for your detailed comments on my essay about The Great Gatsby. I have read them carefully, and I agree with your points about my weak introduction. However, I would like to ask about one comment in particular: you noted that my section on the novel's ending was off-topic, and that section seems to have cost me a significant number of points.\n\nI may have misunderstood the assignment, but my reading of the prompt was different. It asked us to analyze \"how a key scene shapes the meaning of the novel as a whole.\" I chose the final pages because, in my view, Nick's reflection on the green light reframes Gatsby's dream as a national rather than a personal illusion. I tried to connect that argument back to my thesis in each paragraph.\n\nWould it be possible to meet during your office hours to discuss this? If you feel it is appropriate, I would welcome a second look at that section. Either way, I would value your guidance before the next essay.\n\nRespectfully,\nNatalie"
+ },
+ {
+  "id": "em2-20",
+  "difficulty": "advanced",
+  "scenario": "In early October, your father was hospitalized after a serious accident, and you went home for three weeks to help your family. When you returned, the deadline to withdraw from courses without a failing grade had passed, and you are now far behind in your physics course. The dean's office can approve late withdrawals in exceptional cases.",
+  "to": "Office of the Dean of Undergraduate Studies",
+  "subject": "Request for a late course withdrawal",
+  "bullets": [
+   "Explain the circumstances that prevented you from meeting the deadline.",
+   "Describe how the situation has affected your coursework.",
+   "Request an exception and explain what documentation you can provide."
+  ],
+  "sample_response": "Dear Dean's Office,\n\nI am writing to request permission to withdraw late from Physics 201. On October 3, my father was seriously injured in a car accident, and I flew home immediately to help my mother care for him and my two younger brothers. I stayed for three weeks, and during that difficult time I was not thinking about academic deadlines. When I returned on October 25, the withdrawal deadline had already passed.\n\nI have managed to catch up in my other three courses, but Physics 201 has been much harder. I missed two problem sets, a lab report, and the midterm exam, and my professor has told me it would be nearly impossible to pass the course now.\n\nI would therefore like to ask for an exception so that I can receive a W rather than a failing grade. I can provide a letter from the hospital confirming the dates of my father's treatment, along with my flight records. My physics professor has also offered to write a supporting note.\n\nThank you for considering my request.\n\nSincerely,\nElena"
+ },
+ {
+  "id": "em2-21",
+  "difficulty": "advanced",
+  "scenario": "You work as an undergraduate assistant in Dr. Brenner's plant genetics lab. Last night, you were the last person to leave, and you failed to close the door of a freezer properly. By morning, several boxes of seed samples that a graduate student had spent months collecting had warmed up and may be ruined.",
+  "to": "Dr. Alan Brenner, director of the plant genetics lab",
+  "subject": "Freezer incident in the lab last night",
+  "bullets": [
+   "Explain what happened and accept responsibility.",
+   "Describe the consequences for the lab's work.",
+   "Propose steps to repair the damage and prevent similar mistakes."
+  ],
+  "sample_response": "Dear Dr. Brenner,\n\nI am writing to tell you about a serious mistake I made last night. I was the last person to leave the lab at around 10 p.m., and when I put away the seed samples, I did not check that the door of Freezer B had latched. This morning Marco found it slightly open, and the temperature inside had risen to almost zero degrees. This was entirely my responsibility, and I am truly sorry.\n\nAs a result, three boxes of the drought-resistance samples that Marco spent four months collecting may no longer be usable. If they are damaged, his experiment could be delayed by at least a semester, which I know could also affect the lab's grant timeline.\n\nI have already offered to help Marco test the samples today to see which ones are still viable. I would also like to propose a simple closing checklist for the last person in the lab, including a freezer check, and I would be glad to draft it this week.\n\nSincerely,\nKai"
+ },
+ {
+  "id": "em2-22",
+  "difficulty": "advanced",
+  "scenario": "As an international student, you have noticed that many students from abroad rarely speak with local students outside class and feel isolated, especially in their first year. The student government association has announced small grants for student-led projects that improve campus life. Its vice president, Olivia Sandoval, reviews the proposals.",
+  "to": "Olivia Sandoval, vice president of the student government association",
+  "subject": "Proposal for an international conversation partner program",
+  "bullets": [
+   "Describe a problem that many international students face.",
+   "Propose a program to address the problem.",
+   "Explain what support you would need from student government."
+  ],
+  "sample_response": "Dear Ms. Sandoval,\n\nI am writing to propose a project for the campus life grant. As an international student from Vietnam, I have noticed that many students like me rarely talk with local students outside of class. A survey I conducted through the International Student Association last month found that almost 60 percent of first-year international students have no close local friends, and many said they feel isolated on weekends.\n\nTo address this, I would like to start a program called Coffee Partners. Each international student would be matched with a local volunteer, and the pairs would meet for coffee once a week to practice conversation and share their cultures. Once a month, all participants would gather for a larger social event, such as a potluck or a game night.\n\nTo launch the program, I would need about $800 for coffee vouchers and monthly events, as well as help advertising through the student government's social media accounts. I would be happy to present a detailed plan at your next meeting.\n\nBest regards,\nMinh"
+ },
+ {
+  "id": "em2-23",
+  "difficulty": "advanced",
+  "scenario": "Last spring, the housing office approved your request for a single room because you have a diagnosed sleep disorder that requires a strict, quiet sleep schedule. This week, you received an email saying that, because of a housing shortage, you will be moved to a triple room next month. You understand the shortage but believe the decision ignores your approved need.",
+  "to": "Mr. Gregory Walsh, director of university housing",
+  "subject": "Appeal of my room reassignment",
+  "bullets": [
+   "Explain why the reassignment concerns you.",
+   "Describe why your situation should be reconsidered.",
+   "Propose an alternative arrangement."
+  ],
+  "sample_response": "Dear Mr. Walsh,\n\nI am writing about the email I received on Monday informing me that I will be moved from my single room in Oakwood Hall to a triple room next month. I understand that the university is facing a serious housing shortage, and I appreciate how difficult it must be to find space for everyone. Nevertheless, I am very concerned about this change.\n\nLast April, your office approved my single room through Accessibility Services because I have a diagnosed sleep disorder. My doctor requires me to keep a strict schedule in a quiet, dark room. When I shared a room during my first year, my symptoms returned and my grades suffered. Because the single room is an approved accommodation rather than a preference, I hope the decision can be reconsidered.\n\nIf keeping my current room is impossible, could I be offered a single room in another building, even a smaller one? I would also be willing to move into a university apartment off campus if one becomes available.\n\nThank you for your understanding.\n\nSincerely,\nSophie"
+ },
+ {
+  "id": "em2-24",
+  "difficulty": "advanced",
+  "scenario": "You receive the Founders' Merit Scholarship, which requires a GPA of at least 3.5. Last semester, you were ill with mononucleosis for six weeks, and your GPA dropped to 3.3. You have received a letter saying that your scholarship will be canceled next semester unless the scholarship committee approves an appeal.",
+  "to": "Dr. Patricia Monroe, chair of the scholarship committee",
+  "subject": "Appeal to keep my Founders' Merit Scholarship",
+  "bullets": [
+   "Explain why your grades fell last semester.",
+   "Describe what you have done since then to improve.",
+   "Ask for a probationary period and explain why you deserve one."
+  ],
+  "sample_response": "Dear Dr. Monroe,\n\nThank you for your letter about my Founders' Merit Scholarship. I am writing to appeal the decision and to ask the committee to consider the circumstances behind my lower GPA.\n\nIn the middle of last semester, I was diagnosed with mononucleosis and spent nearly six weeks with extreme fatigue. I tried to keep attending classes, but I missed several exams and had to take them late, often while still ill. As a result, my GPA fell from 3.7 to 3.3, the first time it has ever dropped below the requirement.\n\nSince recovering, I have worked hard to get back on track. I meet weekly with a tutor in organic chemistry, I have reduced my hours at my campus job, and my midterm grades this semester are all A's and B+'s.\n\nI would be very grateful if the committee allowed me one probationary semester to raise my GPA. My record before my illness shows what I am capable of, and this scholarship is what makes it possible for me to stay at the university.\n\nRespectfully,\nAndre"
+ },
+ {
+  "id": "em2-25",
+  "difficulty": "advanced",
+  "scenario": "You have been a member of the campus outdoor adventure club for two years. The new president, Zoe, has announced that annual membership dues will rise from $20 to $75 to pay for new camping equipment. You agree that the equipment is needed, but you know several members who already struggle with expenses.",
+  "to": "Zoe Lambert, president of the outdoor adventure club",
+  "subject": "Thoughts on the new membership fee",
+  "bullets": [
+   "Acknowledge the reasons for the change.",
+   "Explain how the change may affect some members.",
+   "Suggest an alternative that would still meet the club's needs."
+  ],
+  "sample_response": "Hi Zoe,\n\nThanks for explaining the new membership fee at Tuesday's meeting. I completely agree that our tents and stoves need replacing. Two of the tents leaked badly on the October trip, and it's clear we can't keep running safe trips with old equipment. I appreciate that you're taking the problem seriously.\n\nThat said, I'm worried that raising dues from $20 to $75 could push some people out. Several members, especially first-years and students who pay their own tuition, have told me privately that they might not renew. Since the club has always prided itself on making the outdoors accessible to everyone, losing them would be a real loss.\n\nWould you consider a different approach? We could raise the regular fee to $30 and offer an optional \"supporter\" membership for those who can pay more. We could also hold a gear swap as a fundraiser and apply for a grant from the student activities office. I'd be glad to help organize either one.\n\nBest,\nOwen"
+ },
+ {
+  "id": "em2-26",
+  "difficulty": "advanced",
+  "scenario": "You share a two-bedroom university apartment with Ben, a roommate you generally get along with. Lately, his friends have been staying over three or four nights a week, often playing video games in the living room until 2 a.m. You have early classes and find it hard to raise the issue in person.",
+  "to": "Ben, your roommate",
+  "subject": "Can we talk about late nights?",
+  "bullets": [
+   "Mention what you appreciate about living with him.",
+   "Explain the issue that has been bothering you.",
+   "Propose a specific arrangement that would be fair to both of you."
+  ],
+  "sample_response": "Hey Ben,\n\nI wanted to write to you about something, since it's sometimes hard for me to bring things up in person. First, I really like living with you. You always keep the kitchen clean, and I still appreciate how you helped me move my desk in September. Honestly, I've had much worse roommates.\n\nThe thing that's been bothering me is the late nights. Over the last month, your friends have been staying over three or four nights a week, and the games in the living room often go until 2 a.m. My room is right next to it, and since I have 8 a.m. classes four days a week, I've been running on about five hours of sleep. I'm not upset with anyone; I just hadn't said anything until now.\n\nWould you be open to keeping things quiet after midnight on weeknights? Weekends would be totally fine for later nights. Maybe we could also give each other a heads-up when guests are staying over.\n\nLet me know what you think.\n\nThanks,\nTom"
+ },
+ {
+  "id": "em2-27",
+  "difficulty": "advanced",
+  "scenario": "After you did well in her course, Professor Weiss invited you to join her neuroscience research lab next year. However, you have already accepted a position in another lab, working on a project closely related to your planned graduate studies. You admire Professor Weiss and want to keep a good relationship with her.",
+  "to": "Professor Hannah Weiss, neuroscience professor",
+  "subject": "Your kind offer to join the lab",
+  "bullets": [
+   "Thank her for the offer and explain what it means to you.",
+   "Explain why you have decided not to accept it.",
+   "Suggest a way to stay connected with her research."
+  ],
+  "sample_response": "Dear Professor Weiss,\n\nThank you so much for inviting me to join your lab next year. Your Cognitive Neuroscience course was the highlight of my sophomore year, and being asked to work with you is one of the greatest compliments I have received as a student. I thought about your offer for several days before writing back.\n\nUnfortunately, I must decline. Two weeks ago, before your offer arrived, I accepted a position in Dr. Ramos's lab, where I will help study language development in bilingual children. Since I plan to apply to graduate programs in developmental psychology, the project fits my long-term goals closely, and I did not feel it would be fair to withdraw from a commitment I had already made.\n\nI would still love to stay connected to your work. Would it be possible for me to attend your lab's monthly journal club as a guest? I am also planning to take your seminar on memory next fall.\n\nThank you again for your confidence in me.\n\nWarm regards,\nIrene"
+ },
+ {
+  "id": "em2-28",
+  "difficulty": "advanced",
+  "scenario": "The psychology department requires all majors to take Research Statistics, a course that focuses heavily on calculating formulas by hand. The department chair, Dr. Clarke, has asked students for feedback as the department reviews its curriculum. You believe the course does not prepare students for the research they will actually do.",
+  "to": "Dr. Steven Clarke, chair of the psychology department",
+  "subject": "Feedback on the Research Statistics requirement",
+  "bullets": [
+   "Describe your experience in the course.",
+   "Explain why the current format is not meeting students' needs.",
+   "Recommend a specific change and explain its benefits."
+  ],
+  "sample_response": "Dear Dr. Clarke,\n\nThank you for inviting students to contribute to the curriculum review. I completed Research Statistics last spring, and I would like to offer some feedback on it.\n\nThe instructor was clear and well organized, and I earned a good grade. However, almost all of our class time was spent calculating t-tests and correlations by hand. When I began my senior project this fall, I realized I had never used statistical software, and I had to teach myself SPSS from online videos before I could analyze my survey data.\n\nI do not think my experience is unusual. Most psychology research today relies on software, so students who learn only hand calculations understand the formulas but cannot apply them to real data. Several classmates in my thesis seminar have described the same problem.\n\nI would recommend replacing half of the hand-calculation exercises with weekly computer labs using R or SPSS. Students would still learn the underlying concepts, but they would also graduate with the practical skills that graduate schools and employers expect.\n\nRespectfully,\nBenjamin"
+ },
+ {
+  "id": "em2-29",
+  "difficulty": "advanced",
+  "scenario": "You are currently studying abroad in Barcelona. Before you left, your department approved an urban design course that would count toward a requirement for your major, but the host university has just canceled it. A course in sustainable city planning is still open, but you need your department's approval within a week for it to count.",
+  "to": "Professor Martin Novak, study abroad credit advisor, architecture department",
+  "subject": "Approval for a substitute course abroad",
+  "bullets": [
+   "Explain the problem with your approved course.",
+   "Describe the course you would like to take instead.",
+   "Explain why it should meet the requirement and ask for approval."
+  ],
+  "sample_response": "Dear Professor Novak,\n\nI hope everything is going well in the department. I am writing from Barcelona with an urgent request about my study abroad course plan.\n\nBefore I left, you approved Urban Design Studio at my host university as a substitute for our required course, ARCH 340. Unfortunately, the university canceled the course last Friday because the instructor is on medical leave, and the registration period here closes next Wednesday.\n\nThe closest alternative is Sustainable City Planning, taught by Professor Garriga. It meets six hours a week, including a studio component, and students design a neighborhood plan for an area of Barcelona. I have attached the syllabus.\n\nI believe this course meets the requirement because it covers the same core topics as ARCH 340, including street networks, public space, and zoning, while adding an environmental focus. It also ends with a design project of similar scale. Would you be willing to approve it as a substitute? A reply before Wednesday would help me enormously.\n\nWith thanks,\nCarmen"
+ },
+ {
+  "id": "em2-30",
+  "difficulty": "advanced",
+  "scenario": "You received a notice from the university library charging you $120 for a lost book. However, you returned the book to the drop box outside the library three weeks ago, before it was due, and you remember the date because it was the day of your chemistry final. The notice says the charge will be added to your tuition account in ten days.",
+  "to": "Circulation Services, university library",
+  "subject": "Disputed charge for a returned book",
+  "bullets": [
+   "Explain why you believe the charge is a mistake.",
+   "Describe the evidence that supports your claim.",
+   "Request a specific action before the charge is added to your account."
+  ],
+  "sample_response": "Dear Circulation Services,\n\nOn Monday I received a notice charging me $120 for a lost copy of Principles of Marine Ecology. I believe this charge is a mistake, because I returned the book three weeks ago, well before its due date of May 20.\n\nI am confident about the date because I put the book in the outdoor return box on the morning of May 12, just before my chemistry final in the building next door. I also remember that the box was extremely full that day, so it is possible the book was never scanned or was placed on the wrong shelf.\n\nAs evidence, my online account listed the book as \"in transit\" for two days afterward, and I took a screenshot at the time, which I have attached. In addition, my roommate was with me when I returned it and is willing to confirm this.\n\nCould you please search the shelves for the book and remove the charge before it reaches my tuition account on June 15?\n\nSincerely,\nHiroshi"
+ },
+ {
+  "id": "em2-31",
+  "difficulty": "advanced",
+  "scenario": "You are the treasurer of the Global Cultures Club. While preparing the budget for last weekend's festival, you made a calculation error and approved food orders that went $400 over the club's budget. The club now owes money to a catering company, and the club president, Jasmine, does not yet know.",
+  "to": "Jasmine Cole, president of the Global Cultures Club",
+  "subject": "An error in the festival budget",
+  "bullets": [
+   "Explain the mistake you made.",
+   "Describe how it affects the club's finances.",
+   "Propose a plan to cover the shortfall."
+  ],
+  "sample_response": "Hi Jasmine,\n\nI need to tell you about a mistake I made with the festival budget, and I wanted you to hear it from me directly. When I calculated the catering costs, I entered the price per tray as $12 instead of $20. Because of that error, I approved food orders that were $400 over our budget. I should have double-checked the invoice before signing it, and I take full responsibility.\n\nRight now, the club owes Sunrise Catering $400. Our account has only about $150 left for the semester, so paying the bill now would leave us unable to fund the spring film night or the farewell party.\n\nI have a plan to close the gap. The caterer has already agreed to let us pay over two months. I'd also like to organize a bake sale and a dumpling-making workshop with a small fee, which I estimate could raise $300. I'll personally cover anything left over.\n\nI'm really sorry. Could we talk before Thursday's meeting?\n\nBest,\nKaren"
+ },
+ {
+  "id": "em2-32",
+  "difficulty": "advanced",
+  "scenario": "Your university's robotics team has qualified for an international competition in Tokyo for the first time. The team needs about $6,000 for travel and for shipping its robot, but the club's budget is only $1,500. The associate dean of student affairs, Dr. Hughes, manages a fund that supports student achievements.",
+  "to": "Dr. Victoria Hughes, associate dean of student affairs",
+  "subject": "Funding request for the robotics team",
+  "bullets": [
+   "Describe the competition and your team's achievement.",
+   "Explain why the team needs financial support.",
+   "Explain how the university would benefit from supporting the team."
+  ],
+  "sample_response": "Dear Dr. Hughes,\n\nI am writing on behalf of the university robotics team to request support from the Student Achievement Fund. Last month, our team placed second at the national championship, which qualified us for the International Robotics Challenge in Tokyo this June. It is the first time a team from our university has reached this level, and we will compete against forty teams from fifteen countries.\n\nUnfortunately, attending will cost about $6,000, mainly for five students' flights and for shipping our robot safely. Our club budget is only $1,500, and although we have raised $900 through a crowdfunding campaign, we are still far short of the total.\n\nWe believe supporting the team would also benefit the university. The competition receives international media coverage, so our participation would showcase the engineering program to prospective students. In addition, we plan to run free robotics workshops for local high schools next fall to share what we learn in Tokyo.\n\nThank you for considering our request.\n\nRespectfully,\nAhmed Karimi"
+ },
+ {
+  "id": "em2-33",
+  "difficulty": "advanced",
+  "scenario": "Your academic advisor, Dr. Wallace, wrote a recommendation letter that helped you get accepted into a competitive master's program in public health at another university. You have learned that one of his former colleagues, Dr. Rivera, leads a research group there, and you hope to work with her. You have never met Dr. Rivera.",
+  "to": "Dr. Henry Wallace, your academic advisor",
+  "subject": "Good news and a small request",
+  "bullets": [
+   "Share your news and thank him for his support.",
+   "Explain your plans for the program.",
+   "Ask whether he would introduce you to his former colleague and explain why."
+  ],
+  "sample_response": "Dear Dr. Wallace,\n\nI have wonderful news: I have been accepted into the Master of Public Health program at Lakeview University! I know your letter of recommendation played a large part in this, and I am deeply grateful for it, as well as for all the advice you have given me over the past four years.\n\nWhen I begin the program in September, I plan to focus on epidemiology, particularly the spread of infectious diseases in crowded urban neighborhoods. Ideally, I would like to join a research group during my first year so that I can start working with real data early.\n\nWhile reading about the faculty, I noticed that Dr. Isabel Rivera, who I believe worked with you at the state health department, leads a group studying exactly this topic. Would you be comfortable introducing me to her by email? Since I have no connection to her yet, a short introduction from you would make it much easier to begin a conversation about opportunities in her lab.\n\nWith sincere thanks,\nFatima"
+ },
+ {
+  "id": "em2-34",
+  "difficulty": "advanced",
+  "scenario": "You have an approved accommodation from the Office of Disability Services that gives you 50 percent extra time on all exams and quizzes. However, Tuesday's online quiz in Professor Doyle's sociology course closed automatically after the standard 30 minutes, and you could not answer the last four questions. You want to resolve the problem without sounding accusatory.",
+  "to": "Professor Karen Doyle, sociology professor",
+  "subject": "Extended time on Tuesday's online quiz",
+  "bullets": [
+   "Remind her of your approved accommodation.",
+   "Explain what happened during the quiz.",
+   "Propose a fair solution."
+  ],
+  "sample_response": "Dear Professor Doyle,\n\nI hope you are having a good week. I am writing about Tuesday's online quiz in Introduction to Sociology. As you may remember, at the start of the semester I submitted my accommodation letter from the Office of Disability Services, which gives me 50 percent extra time on all exams and quizzes.\n\nDuring Tuesday's quiz, however, the system closed automatically after the standard 30 minutes instead of 45. I had answered sixteen of the twenty questions, but the last four were submitted blank. I suspect the extended-time setting was simply not applied to my account for this quiz, which I understand can easily happen with online platforms.\n\nWould it be possible for me to complete the four unanswered questions, or a similar set, under supervision in your office or at the testing center? Alternatively, my score could be based only on the questions I was able to finish. I would also be grateful if the setting could be checked before the next quiz.\n\nThank you for your understanding.\n\nBest regards,\nVictor"
+ },
+ {
+  "id": "em2-35",
+  "difficulty": "advanced",
+  "scenario": "Your Introductory Biology course has eight lab sections, each graded by a different teaching assistant. You and several classmates compared your lab reports and noticed that similar work receives very different scores depending on the section. Lab reports count for 25 percent of the final grade, and Dr. Shaw coordinates all the lab sections.",
+  "to": "Dr. Rebecca Shaw, coordinator of Introductory Biology labs",
+  "subject": "Inconsistent grading across lab sections",
+  "bullets": [
+   "Explain what you and your classmates have noticed.",
+   "Describe why this is a concern.",
+   "Suggest a way to make grading more consistent."
+  ],
+  "sample_response": "Dear Dr. Shaw,\n\nI am a student in Introductory Biology, and I would like to raise a concern about lab report grading on behalf of several classmates. After the second lab, a group of us from four different sections compared our reports. We found that reports with nearly identical data and analysis received very different scores. In one case, two students with almost the same discussion section received 92 and 74 points.\n\nI want to be clear that I am not criticizing any individual teaching assistant; all of them have been helpful and hardworking. Still, because lab reports make up 25 percent of our final grade, these differences could affect students' GPAs and, for pre-medical students, even their applications.\n\nOne solution might be a detailed common rubric, shared with students before each lab, that lists point values for every part of the report. It could also help if the teaching assistants graded a few sample reports together at the start of the semester to agree on standards.\n\nThank you for considering this.\n\nSincerely,\nLena"
+ }
+]
