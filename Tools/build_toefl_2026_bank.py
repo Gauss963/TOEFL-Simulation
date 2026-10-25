@@ -4,7 +4,8 @@
 Inputs live in Tools/content2026/ (original items written to the ETS 2026 task specifications):
   academic_passage_*.json, academic_talk_*.json, conversation_*.json, announcement_*.json,
   daily_life_*.json, build_sentence_*.json, email_task_*.json, academic_discussion_*.json,
-  choose_response_*.json, repeat_set_*.json, interview_set_*.json, legacy_*.json
+  choose_response_*.json, repeat_set_*.json, interview_set_*.json, ctest_texts_*.json (Complete the Words
+  paragraphs) with ctest_notes_*.json (per-blank part of speech, meaning, and reasoning), legacy_*.json
 
 Outputs:
   TOEFL Simulation/Resources/TOEFL2026Bank.json   items with set structure, read by the app
@@ -23,6 +24,8 @@ import json
 import random
 import re
 from pathlib import Path
+
+from ctest_rule import ctest
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "Tools" / "content2026"
@@ -93,45 +96,26 @@ def add_mc_set(set_id: str, section: str, task: str, difficulty: str, questions:
 
 # Reading ---------------------------------------------------------------------------------------
 
-def ctest(text: str) -> tuple[str, list[tuple[str, str]]] | None:
-    match = re.match(r"(.+?[.!?])\s+(.*)", text.strip(), re.S)
-    if not match:
-        return None
-    first, rest = match.groups()
-    tokens = rest.split(" ")
-    blanks: list[tuple[str, str]] = []
-    eligible = 0
-    out: list[str] = []
-    for token in tokens:
-        core_match = re.match(r"^([\"'(]*)([A-Za-z]+)([^A-Za-z]*)$", token)
-        if core_match and len(blanks) < 10 and len(core_match.group(2)) >= 2:
-            lead, core, trail = core_match.groups()
-            eligible += 1
-            if eligible % 2 == 0:
-                keep = len(core) // 2
-                blanks.append((core[:keep], core[keep:]))
-                out.append(f"{lead}{{{core[:keep]}|{core[keep:]}}}{trail}")
-                continue
-        out.append(token)
-    if len(blanks) < 10:
-        return None
-    return first + " " + " ".join(out), blanks
-
-
-for text in json.loads((CONTENT / "legacy_ctest_texts.json").read_text(encoding="utf-8")):
+notes = {row["id"]: row["blanks"] for row in load("ctest_notes")}
+for text in load("ctest_texts"):
     built = ctest(text["text"])
     if not built:
-        continue
+        raise SystemExit(f"{text['id']} yields fewer than 10 blanks")
     passage, blanks = built
     set_id = f"cw-{text['id']}"
+    annotations = notes.get(text["id"], [])
     for index, (kept, missing) in enumerate(blanks):
         word = kept + missing
+        note = annotations[index] if index < len(annotations) else {}
+        if note and note["word"] != word:
+            raise SystemExit(f"{text['id']} note {index + 1} is for {note['word']!r}, not {word!r}")
         items.append(base(
             f"{set_id}-{index + 1}", "reading", "completeWords", text["difficulty"],
             "Fill in the missing letters in the paragraph.", passage=passage,
             acceptedTextAnswers=[missing, word], sampleAnswer=word,
-            explanation=f"The complete word is “{word}”.", setID=set_id, setIndex=index,
-            setting=text["title"],
+            explanation=f"The complete word is “{word}”." + (f" {note['why']}" if note else ""),
+            setID=set_id, setIndex=index, setting=text["title"],
+            **({"partOfSpeech": note["pos"], "wordGloss": note["zh"], "blankReason": note["why"]} if note else {}),
         ))
 
 for row in load("daily_life"):

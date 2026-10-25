@@ -12,7 +12,12 @@ struct TOEFL_SimulationApp: App {
     init() {
         #if DEBUG
         let issues = TOEFLQuestionBank.validate() + TOEFLStudyBank.validate()
-        if ProcessInfo.processInfo.arguments.contains("-selfTest") {
+        let arguments = ProcessInfo.processInfo.arguments
+        if let flag = arguments.firstIndex(of: "-renderWordsDrill"), arguments.indices.contains(flag + 1) {
+            WordsDrillView.renderSnapshots(to: URL(fileURLWithPath: arguments[flag + 1]))
+            exit(0)
+        }
+        if arguments.contains("-selfTest") {
             // Prints validation and Listen and Choose a Response rotation results, then exits.
             let report = issues + TOEFLQuestionBank.rotationIssues()
             FileHandle.standardError.write(Data(((report.isEmpty ? ["SELF-TEST PASSED"] : report).joined(separator: "\n") + "\n").utf8))

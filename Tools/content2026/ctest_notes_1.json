@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "ct-01",
+  "blanks": [
+   {
+    "word": "pavement",
+    "pos": "n.",
+    "zh": "鋪面；柏油路面",
+    "why": "形容詞 Dark 之後需要名詞，與 building materials 並列當主詞；pave（鋪路）加上常見名詞字尾 -ment，所以補 ment。"
+   },
+   {
+    "word": "dense",
+    "pos": "adj.",
+    "zh": "密集的；緻密的",
+    "why": "dense 修飾後面的名詞 building materials，需要形容詞；不是 densely，因為修飾名詞要用形容詞，補 nse。"
+   },
+   {
+    "word": "materials",
+    "pos": "n.",
+    "zh": "材料",
+    "why": "building materials 是常見搭配「建材」；動詞 absorb 沒有加 -s，表示主詞是複數，所以寫 materials，別漏掉字尾 s。"
+   },
+   {
+    "word": "solar",
+    "pos": "adj.",
+    "zh": "太陽的",
+    "why": "主題是日落前白天累積的熱，被吸收的是 solar energy（太陽能）；so 後補 lar，注意字尾是 -ar 不是 -er。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和；而且（連接 absorb 與 release 兩個動作）",
+    "why": "先吸收（absorb）再釋放（release），兩個並列動詞之間需要連接詞；a 後補 nd 成 and。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指 solar energy）",
+    "why": "release 是及物動詞，需要受詞，指前面單數的 solar energy，所以用 it；i 後只缺一個 t。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "句首 F 加上後面的 example，是固定片語 For example，引出路面與遮蔭的實例；在句首所以 F 大寫，補 or。"
+   },
+   {
+    "word": "shaded",
+    "pos": "adj.",
+    "zh": "有遮蔭的",
+    "why": "冠詞 a 和名詞 courtyard 之間需要形容詞；與後面的 unshaded parking lot 形成對比，所以是 shade 加 -d 的 shaded。"
+   },
+   {
+    "word": "may",
+    "pos": "aux.",
+    "zh": "可能",
+    "why": "主詞 a shaded courtyard 與原形動詞 be 之間需要情態助動詞；表示「可能」比較涼，m 後補 ay，不是語氣太強的 must。"
+   },
+   {
+    "word": "cooler",
+    "pos": "adj.",
+    "zh": "比較涼爽的",
+    "why": "後面出現 than，必須用比較級；cool 加 -er 成 cooler，呼應全段「城市降溫較慢」的主題。"
+   }
+  ]
+ },
+ {
+  "id": "ct-03",
+  "blanks": [
+   {
+    "word": "fruit",
+    "pos": "n.",
+    "zh": "果實；果肉",
+    "why": "定冠詞 The 之後需要名詞當主詞；首句說吃果實的鳥，被消化的就是 fruit；補 uit，注意 u 在 i 前面。"
+   },
+   {
+    "word": "digested",
+    "pos": "v.",
+    "zh": "被消化（過去分詞）",
+    "why": "is 加過去分詞構成被動語態：果實「被消化」；digest 加 -ed，後面 while 對比種子卻完好通過。"
+   },
+   {
+    "word": "many",
+    "pos": "det.",
+    "zh": "許多",
+    "why": "修飾可數複數名詞 seeds，用 many 而不是 much；ma 後補 ny。"
+   },
+   {
+    "word": "pass",
+    "pos": "v.",
+    "zh": "通過",
+    "why": "主詞 hard-coated seeds 是複數，現在式動詞不加 -s；pass through 是「穿過」的搭配，注意雙寫 ss。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "那（定冠詞）",
+    "why": "through 之後指的是已提過的那隻吃果實的鳥，需要定冠詞 the；t 後補 he。"
+   },
+   {
+    "word": "intact",
+    "pos": "adj.",
+    "zh": "完好無損的",
+    "why": "放在句尾補充說明種子通過鳥體後的狀態；hard-coated（硬殼）暗示種子沒被破壞，所以是 intact，補 act。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For 之後接 example 組成 For example，舉出鳥停在籬笆旁散播種子的具體情境；exa 後補 mple，注意字尾 -mple。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "（關係代名詞，指 a bird）",
+    "why": "a bird 後面接 that rests along a fence，是修飾 bird 的關係子句；rests 加 -s 也呼應單數先行詞，補 at。"
+   },
+   {
+    "word": "along",
+    "pos": "prep.",
+    "zh": "沿著",
+    "why": "rests along a fence 指「停在籬笆沿線上」，後面接名詞需要介系詞；al 後補 ong，不是 also。"
+   },
+   {
+    "word": "can",
+    "pos": "aux.",
+    "zh": "能夠；可能",
+    "why": "主詞 a bird that... 與原形動詞 deposit 之間需要助動詞，表示能把種子帶到新田地；c 後補 an。"
+   }
+  ]
+ },
+ {
+  "id": "ct-05",
+  "blanks": [
+   {
+    "word": "releases",
+    "pos": "v.",
+    "zh": "釋放",
+    "why": "主詞 Weathering（風化作用）是單數不可數，現在簡單式動詞要加 -s；風化把岩石中的礦物「釋放」出來，rele 後補 ases。"
+   },
+   {
+    "word": "nutrients",
+    "pos": "n.",
+    "zh": "養分",
+    "why": "mineral 修飾名詞，「礦物養分」；最後一句 roots capture them 指的也是 nutrients；字尾 -ient 加複數 s。"
+   },
+   {
+    "word": "colonizing",
+    "pos": "adj.",
+    "zh": "拓殖的；率先定居的",
+    "why": "現在分詞當形容詞修飾 organisms，指最早在新火山地落腳的生物；colonize 去 e 加 -ing，補 izing。"
+   },
+   {
+    "word": "add",
+    "pos": "v.",
+    "zh": "增加；添加",
+    "why": "while 子句的主詞 organisms 是複數，動詞用原形 add；add organic matter「增加有機質」，注意雙寫 dd。"
+   },
+   {
+    "word": "matter",
+    "pos": "n.",
+    "zh": "物質",
+    "why": "organic matter 是固定搭配「有機質」；mat 後補 ter，注意雙寫 tt，不是 mater。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "上一句講風化與生物的一般過程，這句用地衣當具體例子，For example 固定片語；exa 後補 mple。"
+   },
+   {
+    "word": "growing",
+    "pos": "v.",
+    "zh": "生長（現在分詞）",
+    "why": "lichens growing on bare rock 是分詞片語修飾 lichens（= lichens that grow），真正的動詞是後面的 begin；gro 後補 wing。"
+   },
+   {
+    "word": "bare",
+    "pos": "adj.",
+    "zh": "裸露的；光禿的",
+    "why": "修飾 rock：剛形成的火山岩上還沒有土壤，是光禿禿的岩石；ba 後補 re，不要寫成同音的 bear。"
+   },
+   {
+    "word": "begin",
+    "pos": "v.",
+    "zh": "開始",
+    "why": "主詞 lichens 是複數，動詞用原形 begin（不加 s）；begin the process 開始某個過程，be 後補 gin。"
+   },
+   {
+    "word": "slow",
+    "pos": "adj.",
+    "zh": "緩慢的",
+    "why": "冠詞 the 與名詞 process 之間需要形容詞；土壤形成要花很長時間（後句 over time），所以是 slow，不是副詞 slowly。"
+   }
+  ]
+ },
+ {
+  "id": "ct-07",
+  "blanks": [
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和（連接兩個主詞）",
+    "why": "Water 與 temperature 兩個名詞並列當主詞，中間用 and；所以後面動詞 affect 用複數形。"
+   },
+   {
+    "word": "affect",
+    "pos": "v.",
+    "zh": "影響",
+    "why": "複數主詞 Water and temperature 後接原形動詞 affect；注意動詞是 affect，名詞才是 effect，aff 後補 ect。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（關係代名詞，指前面整件事）",
+    "why": "逗號後的 which 指「影響生長」這件事，接著說明它改變年輪寬度；wh 後補 ich。"
+   },
+   {
+    "word": "ring",
+    "pos": "n.",
+    "zh": "年輪",
+    "why": "ring width「年輪寬度」，名詞修飾名詞，所以 ring 不加 s；呼應首句的 tree rings，ri 後補 ng。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和（連接 changes 的兩個受詞）",
+    "why": "changes 的受詞有兩個：ring width 與 wood density，中間用 and 並列；a 後補 nd。"
+   },
+   {
+    "word": "density",
+    "pos": "n.",
+    "zh": "密度",
+    "why": "wood 修飾名詞，wood density「木材密度」；形容詞 dense 的名詞是 density，字尾 -ity，den 後補 sity。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "這句舉乾旱留下窄年輪的具體例子，For example 是固定片語；exa 後補 mple。"
+   },
+   {
+    "word": "narrow",
+    "pos": "adj.",
+    "zh": "窄的",
+    "why": "several 與名詞 rings 之間需要形容詞；乾旱時樹長得少，年輪就窄；nar 後補 row，注意雙寫 rr。"
+   },
+   {
+    "word": "across",
+    "pos": "prep.",
+    "zh": "遍及；橫跨",
+    "why": "across many trees 表示「在許多棵樹上都出現」，後接名詞需要介系詞；acr 後補 oss，注意雙寫 ss。"
+   },
+   {
+    "word": "trees",
+    "pos": "n.",
+    "zh": "樹木",
+    "why": "many 之後接可數名詞複數，tree 加 s；tr 後補 ees。"
+   }
+  ]
+ },
+ {
+  "id": "ct-09",
+  "blanks": [
+   {
+    "word": "basins",
+    "pos": "n.",
+    "zh": "盆地；窪地",
+    "why": "形容詞 Shallow 之後需要名詞，和 absorbent soils 並列當主詞，所以是複數 basins；bas 後補 ins。"
+   },
+   {
+    "word": "absorbent",
+    "pos": "adj.",
+    "zh": "吸水性強的",
+    "why": "修飾名詞 soils，需要形容詞；吸水的土壤能減緩逕流，字尾是 -ent（不是 -ant），abso 後補 rbent。"
+   },
+   {
+    "word": "slow",
+    "pos": "v.",
+    "zh": "減緩",
+    "why": "注意這裡 slow 是動詞！複數主詞 basins and soils 之後需要動詞，slow runoff「減緩逕流」；不是副詞 slowly。"
+   },
+   {
+    "word": "during",
+    "pos": "prep.",
+    "zh": "在……期間",
+    "why": "during a storm「暴雨期間」，後面接名詞的時間介系詞；dur 後補 ing。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "句首 F 和逗號前的 example 組成 For example，引出沼澤分散水流的實例；句首大寫，補 or。"
+   },
+   {
+    "word": "marsh",
+    "pos": "n.",
+    "zh": "沼澤",
+    "why": "冠詞 a 之後需要單數名詞，沼澤是濕地的一種，正好作為 wetlands 的例子；ma 後補 rsh。"
+   },
+   {
+    "word": "spread",
+    "pos": "v.",
+    "zh": "分散；使散開",
+    "why": "助動詞 may 後接原形動詞；spread water across an area「把水分散到大範圍」，spr 後補 ead。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水",
+    "why": "storm water「暴雨逕流水」，是名詞複合字，當 spread 的受詞；wa 後補 ter。"
+   },
+   {
+    "word": "wide",
+    "pos": "adj.",
+    "zh": "寬廣的",
+    "why": "a ___ area 中間需要形容詞；與 spread across 搭配表示面積大；wi 後補 de，不是 wild。"
+   },
+   {
+    "word": "before",
+    "pos": "prep.",
+    "zh": "在……之前",
+    "why": "before 後接動名詞 releasing，表示「先分散、之後才慢慢釋放」；bef 後補 ore。"
+   }
+  ]
+ },
+ {
+  "id": "ct-11",
+  "blanks": [
+   {
+    "word": "algae",
+    "pos": "n.",
+    "zh": "藻類",
+    "why": "The 之後需要名詞當主詞，指首句的 microscopic algae；algae 是 alga 的不規則複數，所以動詞 provide 不加 s，al 後補 gae。"
+   },
+   {
+    "word": "compounds",
+    "pos": "n.",
+    "zh": "化合物",
+    "why": "energy-rich 修飾的名詞，作 provide 的受詞；藻類提供富含能量的化合物，複數 -s，comp 後補 ounds。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "while 子句的主詞 coral 前需要冠詞，指與藻類共生的那隻珊瑚，用 the；t 後補 he。"
+   },
+   {
+    "word": "supplies",
+    "pos": "v.",
+    "zh": "供應",
+    "why": "主詞 the coral 是單數，現在式動詞要加 -s；supply 是子音加 y，改 y 為 i 再加 -es，所以補 plies。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和（連接兩個受詞）",
+    "why": "supplies 的受詞 shelter 與 nutrients 並列，用 and；a 後補 nd。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "大寫 F 開頭、後接 example，是 For example，引出陽光淺水幫助藻類行光合作用的例子；補 or。"
+   },
+   {
+    "word": "sunlit",
+    "pos": "adj.",
+    "zh": "陽光照射的",
+    "why": "修飾 shallow water 的形容詞；光合作用需要光，所以是 sun + lit（light 的過去分詞），補 lit。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水域",
+    "why": "sunlit shallow ___ 需要名詞當主詞；water 不可數，所以動詞用單數 lets；wa 後補 ter。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "the resident algae 指已提過、住在珊瑚體內的那些藻類，用定冠詞 the。"
+   },
+   {
+    "word": "algae",
+    "pos": "n.",
+    "zh": "藻類",
+    "why": "lets 的句型是 let + 受詞 + 原形動詞：讓 algae 行光合作用（photosynthesize）；resident 修飾名詞，補 gae。"
+   }
+  ]
+ },
+ {
+  "id": "ct-13",
+  "blanks": [
+   {
+    "word": "move",
+    "pos": "v.",
+    "zh": "移動；推動",
+    "why": "複數主詞 Winds 之後接原形動詞 move，風把表層海水推向外海；mo 後補 ve。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水",
+    "why": "surface water「表層海水」，呼應首句的 surface waters，是 move 的受詞；wa 後補 ter。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "並且（連接 move 與 allow）",
+    "why": "風做了兩件事：推走表層水、讓深層水上升；兩個動詞並列用 and。"
+   },
+   {
+    "word": "cold",
+    "pos": "adj.",
+    "zh": "冷的",
+    "why": "與 nutrient-rich 並列修飾 deep water；下一句說衛星看到一條 cool band，所以是 cold，co 後補 ld。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水",
+    "why": "allow + 受詞 + to V：allow ... deep water to rise，形容詞 deep 後需要名詞；wa 後補 ter。"
+   },
+   {
+    "word": "rise",
+    "pos": "v.",
+    "zh": "上升",
+    "why": "to 之後接原形動詞；深層水自己往上湧，用不及物的 rise，不是及物的 raise，ri 後補 se。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出衛星影像的實例，證明湧升流的存在；exa 後補 mple。"
+   },
+   {
+    "word": "image",
+    "pos": "n.",
+    "zh": "影像",
+    "why": "satellite image「衛星影像」，冠詞 a 加 satellite 後需要名詞；im 後補 age。"
+   },
+   {
+    "word": "reveal",
+    "pos": "v.",
+    "zh": "顯示；揭露",
+    "why": "助動詞 can 之後接原形動詞；影像「顯示」出冷水帶，rev 後補 eal。"
+   },
+   {
+    "word": "band",
+    "pos": "n.",
+    "zh": "帶狀區域",
+    "why": "a cool ___ of water 需要名詞，「一條冷水帶」；ba 後補 nd，不是 bank 或 bend。"
+   }
+  ]
+ },
+ {
+  "id": "ct-15",
+  "blanks": [
+   {
+    "word": "sensory",
+    "pos": "adj.",
+    "zh": "感覺的；感官的",
+    "why": "修飾名詞 processes，需要形容詞；sense 的形容詞是 sensory，字尾 -ory，sen 後補 sory。"
+   },
+   {
+    "word": "allow",
+    "pos": "v.",
+    "zh": "使能夠",
+    "why": "主詞 processes 是複數，動詞用原形；allow + 受詞 + to V 是「讓……能夠」的句型，al 後補 low。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞符號）",
+    "why": "allow them to use 的句型中，to 是不定詞符號，後接原形動詞 use；t 後補 o。"
+   },
+   {
+    "word": "information",
+    "pos": "n.",
+    "zh": "資訊",
+    "why": "use 的受詞需要名詞；information 不可數，不加 s；字尾 -tion，infor 後補 mation。"
+   },
+   {
+    "word": "magnetic",
+    "pos": "adj.",
+    "zh": "磁的",
+    "why": "修飾 field，Earth's magnetic field「地球磁場」；magnet 加形容詞字尾 -ic，補 etic。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出陰天時磁場線索更重要的例子；句首 F 大寫，補 or。"
+   },
+   {
+    "word": "cloudy",
+    "pos": "adj.",
+    "zh": "多雲的；陰天的",
+    "why": "冠詞 a 與名詞 sky 之間需要形容詞；首句說雲遮住地標，cloud 加 -y 成 cloudy。"
+   },
+   {
+    "word": "can",
+    "pos": "aux.",
+    "zh": "能夠；可能",
+    "why": "主詞 a cloudy sky 與原形動詞 make 之間需要助動詞，表示陰天「可能讓」磁場線索變重要。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "make + 受詞 + 形容詞的句型中，受詞 magnetic cue 前需冠詞，指特定的磁場線索。"
+   },
+   {
+    "word": "cue",
+    "pos": "n.",
+    "zh": "線索；提示",
+    "why": "magnetic 修飾的名詞；後文又提到 magnetic and visual cues，所以是 cue，c 後補 ue，不是 cure。"
+   }
+  ]
+ },
+ {
+  "id": "ct-17",
+  "blanks": [
+   {
+    "word": "large",
+    "pos": "adj.",
+    "zh": "大的",
+    "why": "Nearby 與名詞 islands 之間需要形容詞；下一句用 small distant island 對比，所以這裡是 large，la 後補 rge。"
+   },
+   {
+    "word": "receive",
+    "pos": "v.",
+    "zh": "接收；迎來",
+    "why": "主詞 islands 是複數，動詞用原形；拼字注意 c 之後是 ei（rec + eive），不是 recieve。"
+   },
+   {
+    "word": "more",
+    "pos": "adv.",
+    "zh": "更（比較級）",
+    "why": "more often「更常」，大島離得近，移入者來得更頻繁；mo 後補 re。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "並且（連接兩個動詞）",
+    "why": "receive 與 support 兩個動詞共用主詞 islands，中間用 and 連接。"
+   },
+   {
+    "word": "larger",
+    "pos": "adj.",
+    "zh": "較大的",
+    "why": "large 的比較級 larger，呼應前面 more often 的比較語氣：族群規模更大；lar 後補 ger。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出小而遠的島容易失去物種的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "a ___ distant island，與上一句 large 對比；sm 後補 all，注意雙寫 ll。"
+   },
+   {
+    "word": "island",
+    "pos": "n.",
+    "zh": "島嶼",
+    "why": "冠詞 a 與形容詞之後需要單數名詞；拼字有不發音的 s，isl 後補 and。"
+   },
+   {
+    "word": "lose",
+    "pos": "v.",
+    "zh": "失去",
+    "why": "助動詞 may 之後接原形動詞；失去稀有物種＝局部滅絕；lose 只有一個 o，loose 是「鬆的」。"
+   },
+   {
+    "word": "species",
+    "pos": "n.",
+    "zh": "物種",
+    "why": "a rare ___ 需要名詞；species 單複數同形，即使前面是 a 也要保留字尾 s，spe 後補 cies。"
+   }
+  ]
+ },
+ {
+  "id": "ct-19",
+  "blanks": [
+   {
+    "word": "transform",
+    "pos": "v.",
+    "zh": "轉化；轉變",
+    "why": "複數主詞 Microbes 之後用原形動詞；transform A into B 是「把 A 轉化成 B」的搭配，tran 後補 sform。"
+   },
+   {
+    "word": "into",
+    "pos": "prep.",
+    "zh": "成為；進入",
+    "why": "與前面 transform 搭配成 transform ... into ...，表示轉變的結果；in 後補 to。"
+   },
+   {
+    "word": "forms",
+    "pos": "n.",
+    "zh": "形式；型態",
+    "why": "usable 修飾的名詞，「可利用的形式」；複數 forms，fo 後補 rms。"
+   },
+   {
+    "word": "sometimes",
+    "pos": "adv.",
+    "zh": "有時",
+    "why": "頻率副詞放在動詞 extend 前；表示「有時」要用 sometimes（有 s），sometime 是「某個時候」。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "the root's effective reach 指特定植物根部的範圍，所有格名詞前用 the。"
+   },
+   {
+    "word": "reach",
+    "pos": "n.",
+    "zh": "可及範圍",
+    "why": "effective 修飾名詞，「有效觸及範圍」；這裡 reach 當名詞而非動詞，re 後補 ach。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出菌絲運送磷的具體例子，說明微生物如何擴大根的範圍；exa 後補 mple。"
+   },
+   {
+    "word": "threads",
+    "pos": "n.",
+    "zh": "細絲；菌絲",
+    "why": "fungal 修飾的名詞，fungal threads「菌絲」；後面 can transport 的主詞，複數 threads。"
+   },
+   {
+    "word": "transport",
+    "pos": "v.",
+    "zh": "運輸；輸送",
+    "why": "助動詞 can 後接原形動詞；菌絲把磷「運送」到根部，trans + port，tran 後補 sport。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "從",
+    "why": "與後面的 to a root 搭配成 from ... to ...，表示從土壤孔隙到根部；fr 後補 om。"
+   }
+  ]
+ },
+ {
+  "id": "ct-21",
+  "blanks": [
+   {
+    "word": "snow",
+    "pos": "n.",
+    "zh": "雪",
+    "why": "形容詞 Clean 之後需要名詞；動詞 reflects 加 -s，snow 不可數視為單數；sn 後補 ow。"
+   },
+   {
+    "word": "much",
+    "pos": "pron.",
+    "zh": "大部分",
+    "why": "much of the ... 表示「……的大部分」；light 是不可數名詞，所以用 much 不用 many。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "of 之後的 incoming light 指照射到冰河的那些光，需要定冠詞 the。"
+   },
+   {
+    "word": "light",
+    "pos": "n.",
+    "zh": "光",
+    "why": "incoming 修飾的名詞，「入射光」；與首句 solar energy 呼應，li 後補 ght。"
+   },
+   {
+    "word": "dust",
+    "pos": "n.",
+    "zh": "灰塵",
+    "why": "whereas 子句的主詞之一，與 exposed ice 並列；灰塵是暗色物質，du 後補 st。"
+   },
+   {
+    "word": "exposed",
+    "pos": "adj.",
+    "zh": "裸露的",
+    "why": "修飾名詞 ice；雪融後露出底下的冰，過去分詞 expose + d 當形容詞，exp 後補 osed。"
+   },
+   {
+    "word": "are",
+    "pos": "v.",
+    "zh": "是",
+    "why": "主詞 dust and exposed ice 為複數，be 動詞用 are，後接比較級形容詞 darker；a 後補 re。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出煤灰降低反射率的實例；句首大寫 F，補 or。"
+   },
+   {
+    "word": "thin",
+    "pos": "adj.",
+    "zh": "薄的",
+    "why": "冠詞 a 與名詞 layer 之間需要形容詞；只要「一層薄薄的」煤灰就有影響，th 後補 in。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "a layer of soot「一層煤灰」，量詞片語 a layer of；o 後補 f。"
+   }
+  ]
+ },
+ {
+  "id": "ct-23",
+  "blanks": [
+   {
+    "word": "affects",
+    "pos": "v.",
+    "zh": "影響",
+    "why": "主詞 Temperature 是單數，現在式動詞加 -s；affect 是動詞（effect 是名詞），aff 後補 ects。"
+   },
+   {
+    "word": "seasonal",
+    "pos": "adj.",
+    "zh": "季節性的",
+    "why": "定冠詞 the 與名詞 development 之間需要形容詞；season 加 -al，seas 後補 onal。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "development of plants and insects「植物與昆蟲的發育」，名詞後接 of 表所屬；o 後補 f。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "plants 與 insects 兩個名詞並列，正是首句提到的植物與授粉者。"
+   },
+   {
+    "word": "at",
+    "pos": "prep.",
+    "zh": "以（速率）",
+    "why": "at different rates「以不同速率」是固定搭配，速率前用 at；a 後補 t。"
+   },
+   {
+    "word": "rates",
+    "pos": "n.",
+    "zh": "速率",
+    "why": "different 之後需要複數名詞；植物與昆蟲發育快慢不同，ra 後補 tes。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出暖春讓花期提前、蜜蜂卻沒跟上的例子；exa 後補 mple。"
+   },
+   {
+    "word": "early",
+    "pos": "adj.",
+    "zh": "提早的",
+    "why": "冠詞 an 暗示下一個字是母音開頭，修飾 spring 的形容詞 early 正好符合；ea 後補 rly。"
+   },
+   {
+    "word": "can",
+    "pos": "aux.",
+    "zh": "可能；能夠",
+    "why": "主詞 an early spring 與原形動詞 shift 之間需要助動詞；c 後補 an。"
+   },
+   {
+    "word": "bloom",
+    "pos": "n.",
+    "zh": "開花",
+    "why": "bloom time「花期」，名詞修飾名詞；與後面 bee's emergence date 對比，bl 後補 oom（雙 o）。"
+   }
+  ]
+ },
+ {
+  "id": "ct-25",
+  "blanks": [
+   {
+    "word": "contains",
+    "pos": "v.",
+    "zh": "含有",
+    "why": "主詞 Clay 是不可數單數，現在式動詞加 -s；cont 後補 ains。"
+   },
+   {
+    "word": "signatures",
+    "pos": "n.",
+    "zh": "特徵（像指紋般可辨識）",
+    "why": "mineral 修飾名詞，mineral signatures「礦物特徵」；後面 that can be compared 用複數，signa 後補 tures。"
+   },
+   {
+    "word": "can",
+    "pos": "aux.",
+    "zh": "能夠",
+    "why": "關係子句 that ___ be compared 中，助動詞後接 be + 過去分詞的被動語態；c 後補 an。"
+   },
+   {
+    "word": "compared",
+    "pos": "v.",
+    "zh": "被比較（過去分詞）",
+    "why": "be 之後接過去分詞構成被動；compare A with B 為常見搭配，comp 後補 ared。"
+   },
+   {
+    "word": "deposits",
+    "pos": "n.",
+    "zh": "沉積物；礦床",
+    "why": "with 之後需要名詞，指可比對的黏土產地；複數 deposits，depo 後補 sits。"
+   },
+   {
+    "word": "known",
+    "pos": "adj.",
+    "zh": "已知的",
+    "why": "修飾名詞 locations；know 的過去分詞 known 當形容詞「已知產地」，kn 後補 own。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出兩只碗外觀相同、礦物不同的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "two",
+    "pos": "num.",
+    "zh": "二",
+    "why": "後面名詞 bowls 是複數，前面需要數字；比較「兩只」碗，t 後補 wo。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "帶有",
+    "why": "bowls with the same painted design「有相同彩繪圖案的碗」，with 表示具有；wi 後補 th。"
+   },
+   {
+    "word": "same",
+    "pos": "adj.",
+    "zh": "相同的",
+    "why": "the ___ painted design 與後面 different mineral mixtures 形成對比，the same 是固定用法；sa 後補 me。"
+   }
+  ]
+ },
+ {
+  "id": "ct-27",
+  "blanks": [
+   {
+    "word": "usually",
+    "pos": "adv.",
+    "zh": "通常",
+    "why": "頻率副詞放在主詞 People 與動詞 hid 之間；usual 加 -ly，注意雙寫 ll。"
+   },
+   {
+    "word": "money",
+    "pos": "n.",
+    "zh": "錢",
+    "why": "hid 的受詞需要名詞；藏的是錢幣，呼應首句 buried coins；mo 後補 ney。"
+   },
+   {
+    "word": "periods",
+    "pos": "n.",
+    "zh": "時期",
+    "why": "during 之後的名詞，periods of danger「危險時期」；複數 -s，per 後補 iods。"
+   },
+   {
+    "word": "danger",
+    "pos": "n.",
+    "zh": "危險",
+    "why": "of 之後需要名詞；戰亂等危險時期人們才藏錢，與後文 invasion 呼應，dan 後補 ger。"
+   },
+   {
+    "word": "intended",
+    "pos": "v.",
+    "zh": "打算（過去式）",
+    "why": "與前面的 hid 並列，時態一致用過去式；intend to V「打算做」，inte 後補 nded。"
+   },
+   {
+    "word": "retrieve",
+    "pos": "v.",
+    "zh": "取回",
+    "why": "to 之後接原形動詞；藏起來是為了之後「取回」，拼字是 ie，retr 後補 ieve。"
+   },
+   {
+    "word": "later",
+    "pos": "adv.",
+    "zh": "之後；稍後",
+    "why": "放在句尾的時間副詞，retrieve it later「之後再取回」；la 後補 ter。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出邊境埋藏錢幣與入侵時間吻合的實例；exa 後補 mple。"
+   },
+   {
+    "word": "buried",
+    "pos": "adj.",
+    "zh": "被埋藏的（過去分詞）",
+    "why": "coins buried near ... 是過去分詞片語修飾 coins，真正動詞是 may coincide；bury 改 y 為 i 加 -ed。"
+   },
+   {
+    "word": "frontier",
+    "pos": "n.",
+    "zh": "邊境",
+    "why": "near a ___ 需要名詞；邊境最容易遭遇入侵（invasion），fron 後補 tier。"
+   }
+  ]
+ },
+ {
+  "id": "ct-29",
+  "blanks": [
+   {
+    "word": "introduced",
+    "pos": "v.",
+    "zh": "造成；帶入（過去式）",
+    "why": "主詞 Scribes 之後需要動詞，與後面 made 時態一致用過去式；intro 後補 duced。"
+   },
+   {
+    "word": "omissions",
+    "pos": "n.",
+    "zh": "遺漏",
+    "why": "accidental 修飾名詞；動詞 omit 的名詞 omission，雙寫 ss 加 -ion，再加複數 s。"
+   },
+   {
+    "word": "sometimes",
+    "pos": "adv.",
+    "zh": "有時",
+    "why": "放在 and 與動詞 made 之間的頻率副詞：抄寫員「有時」刻意修改；some 後補 times。"
+   },
+   {
+    "word": "deliberate",
+    "pos": "adj.",
+    "zh": "刻意的；故意的",
+    "why": "修飾名詞 clarifications，與前面 accidental（意外的）形成對比；delib 後補 erate。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出兩份抄本漏掉同一行的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "two",
+    "pos": "num.",
+    "zh": "二",
+    "why": "複數名詞 manuscripts 前的數字；比較兩份抄本是否同源，t 後補 wo。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "（關係代名詞，指 manuscripts）",
+    "why": "that omit the same line 修飾 manuscripts；omit 不加 s 正是因為先行詞是複數，th 後補 at。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "the same 是固定搭配，same 前要用 the；t 後補 he。"
+   },
+   {
+    "word": "line",
+    "pos": "n.",
+    "zh": "（文字的）行",
+    "why": "the same ___ 需要名詞；抄本漏掉同一「行」文字，li 後補 ne。"
+   },
+   {
+    "word": "descend",
+    "pos": "v.",
+    "zh": "源自；傳承自",
+    "why": "助動詞 may 後接原形動詞；descend from「由……傳下來」，注意 sc 拼字，des 後補 cend。"
+   }
+  ]
+ },
+ {
+  "id": "ct-31",
+  "blanks": [
+   {
+    "word": "travelers",
+    "pos": "n.",
+    "zh": "旅人",
+    "why": "列舉的第二個複數名詞，與 Merchants、translators 並列；美式拼法 traveler 單 l，trav 後補 elers。"
+   },
+   {
+    "word": "translators",
+    "pos": "n.",
+    "zh": "譯者",
+    "why": "and 之後的最後一項，同樣是人；translate 改為表示人的字尾 -or，trans 後補 lators。"
+   },
+   {
+    "word": "techniques",
+    "pos": "n.",
+    "zh": "技術",
+    "why": "carried 的受詞，與 beliefs 並列；拼字字尾 -que，techn 後補 iques。"
+   },
+   {
+    "word": "beliefs",
+    "pos": "n.",
+    "zh": "信仰；觀念",
+    "why": "and 後與 techniques 並列的名詞；belief 的複數直接加 s，不要寫成動詞 believes。"
+   },
+   {
+    "word": "communities",
+    "pos": "n.",
+    "zh": "群體；社群",
+    "why": "between 之後需要複數名詞；community 是子音加 y，複數改成 -ies，commu 後補 nities。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出織布技術隨商人傳播的例子，說明知識也跟著貿易移動；exa 後補 mple。"
+   },
+   {
+    "word": "technique",
+    "pos": "n.",
+    "zh": "技術",
+    "why": "a weaving ___ 前面有冠詞 a，所以是單數 technique，不加 s；tech 後補 nique。"
+   },
+   {
+    "word": "travel",
+    "pos": "v.",
+    "zh": "傳播；移動",
+    "why": "助動詞 may 之後接原形動詞，所以是 travel 而不是 travels；tra 後補 vel。"
+   },
+   {
+    "word": "merchants",
+    "pos": "n.",
+    "zh": "商人",
+    "why": "with 之後需要名詞，呼應上句列舉的 Merchants；複數，merc 後補 hants。"
+   },
+   {
+    "word": "acquire",
+    "pos": "v.",
+    "zh": "獲得",
+    "why": "and 連接 travel 與 acquire，兩者同樣接在 may 之後，用原形；acq 後補 uire。"
+   }
+  ]
+ },
+ {
+  "id": "ct-33",
+  "blanks": [
+   {
+    "word": "could",
+    "pos": "aux.",
+    "zh": "能夠（過去）",
+    "why": "主詞 Printers 與原形動詞 reproduce 之間需要助動詞；描述歷史上的印刷術用過去式 could，co 後補 uld。"
+   },
+   {
+    "word": "many",
+    "pos": "det.",
+    "zh": "許多",
+    "why": "修飾可數複數名詞 copies；印刷的重點是能印「很多份」，ma 後補 ny。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "從",
+    "why": "reproduce copies from one set「從一套排好的活字印出」，表示來源；fr 後補 om。"
+   },
+   {
+    "word": "arranged",
+    "pos": "adj.",
+    "zh": "排好的",
+    "why": "過去分詞當形容詞修飾 set，指已排版好的一套活字；arrange 加 -d，arra 後補 nged。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "set of type「一套活字」，量詞 set 後接 of；o 後補 f。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出各地學者能引用同一頁碼的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "scholars",
+    "pos": "n.",
+    "zh": "學者",
+    "why": "例句的主詞，與後面 could cite（引用）相符；字尾 -ar 加 s，scho 後補 lars。"
+   },
+   {
+    "word": "different",
+    "pos": "adj.",
+    "zh": "不同的",
+    "why": "in ___ cities 中修飾複數名詞的形容詞；注意雙寫 ff，diff 後補 erent。"
+   },
+   {
+    "word": "could",
+    "pos": "aux.",
+    "zh": "能夠（過去）",
+    "why": "scholars in different cities ___ cite，主詞與原形動詞 cite 之間需助動詞，與前句時態一致用 could。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "cite the same numbered page，same 前固定要用 the。"
+   }
+  ]
+ },
+ {
+  "id": "ct-35",
+  "blanks": [
+   {
+    "word": "sound",
+    "pos": "n.",
+    "zh": "聲音",
+    "why": "形容詞 Reflected 之後需要名詞當主詞，「反射的聲音」；so 後補 und。"
+   },
+   {
+    "word": "reinforce",
+    "pos": "v.",
+    "zh": "加強",
+    "why": "助動詞 can 之後接原形動詞；反射聲能「加強」人聲，re + in + force，rein 後補 force。"
+   },
+   {
+    "word": "but",
+    "pos": "conj.",
+    "zh": "但是",
+    "why": "前半說反射聲有幫助，後半說延遲的回音會造成模糊，語意轉折用 but；b 後補 ut。"
+   },
+   {
+    "word": "echoes",
+    "pos": "n.",
+    "zh": "回音",
+    "why": "形容詞 delayed 之後需要名詞，動詞 blur 未加 s 表示主詞複數；echo 的複數加 -es，ech 後補 oes。"
+   },
+   {
+    "word": "rapid",
+    "pos": "adj.",
+    "zh": "快速的",
+    "why": "修飾名詞 words；說得快的字最容易被回音弄糊，ra 後補 pid，不是副詞 rapidly。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出弧形牆把聲音導向遠處座位的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "curved",
+    "pos": "adj.",
+    "zh": "彎曲的",
+    "why": "冠詞 a 與名詞 wall 之間需要形容詞；curve 加 -d 成過去分詞形容詞，cur 後補 ved。"
+   },
+   {
+    "word": "may",
+    "pos": "aux.",
+    "zh": "可能",
+    "why": "主詞 a curved wall 與原形動詞 direct 之間需要助動詞，表示「可能把聲音導向」；m 後補 ay。"
+   },
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個（不定冠詞）",
+    "why": "後面的 actor's 是母音開頭，所以不定冠詞用 an 而不是 a；a 後補 n。"
+   },
+   {
+    "word": "toward",
+    "pos": "prep.",
+    "zh": "朝向",
+    "why": "direct ... toward ... 「把……導向」；美式拼法 toward 沒有 s，tow 後補 ard。"
+   }
+  ]
+ },
+ {
+  "id": "ct-37",
+  "blanks": [
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和（連接兩個主詞）",
+    "why": "Light 與 chemical reactions 兩個主詞並列，所以後面的動詞 alter 用原形。"
+   },
+   {
+    "word": "reactions",
+    "pos": "n.",
+    "zh": "反應",
+    "why": "chemical 修飾的名詞，chemical reactions「化學反應」；react 加 -ion 再加複數 s，reac 後補 tions。"
+   },
+   {
+    "word": "alter",
+    "pos": "v.",
+    "zh": "改變",
+    "why": "副詞 gradually 之後需要動詞，複數主詞用原形；alter 意為改變，al 後補 ter，別寫成 alert。"
+   },
+   {
+    "word": "pigments",
+    "pos": "n.",
+    "zh": "顏料",
+    "why": "some 之後接可數複數名詞；首句講畫作顏色，pigm 後補 ents。"
+   },
+   {
+    "word": "varnishes",
+    "pos": "n.",
+    "zh": "亮光漆；凡尼斯",
+    "why": "and 後與 pigments 並列的複數名詞；varnish 字尾 sh，複數要加 -es，varn 後補 ishes。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出紫色礦物顏料在強光下褪成灰色的例子；exa 後補 mple。"
+   },
+   {
+    "word": "pigment",
+    "pos": "n.",
+    "zh": "顏料",
+    "why": "冠詞 a 與 mineral 之後需要單數名詞，所以是 pigment 不加 s；pig 後補 ment。"
+   },
+   {
+    "word": "fade",
+    "pos": "v.",
+    "zh": "褪色",
+    "why": "助動詞 may 之後接原形動詞；顏色變淡＝fade，fa 後補 de。"
+   },
+   {
+    "word": "gray",
+    "pos": "n.",
+    "zh": "灰色",
+    "why": "介系詞 toward 之後需要名詞，「褪成灰色」；美式拼法 gray（英式 grey），gr 後補 ay。"
+   },
+   {
+    "word": "strong",
+    "pos": "adj.",
+    "zh": "強烈的",
+    "why": "in ___ light 中修飾 light 的形容詞，in strong light「在強光下」；str 後補 ong。"
+   }
+  ]
+ },
+ {
+  "id": "ct-39",
+  "blanks": [
+   {
+    "word": "lines",
+    "pos": "n.",
+    "zh": "線",
+    "why": "形容詞 Parallel 之後需要名詞，後面 be 動詞是 are，所以用複數 lines；li 後補 nes。"
+   },
+   {
+    "word": "represented",
+    "pos": "v.",
+    "zh": "被呈現（過去分詞）",
+    "why": "are 之後接過去分詞形成被動：平行線「被畫成」匯聚；repre 後補 sented。"
+   },
+   {
+    "word": "converging",
+    "pos": "v.",
+    "zh": "匯聚（現在分詞）",
+    "why": "as 之後接 V-ing，represented as converging「被表現為逐漸匯聚」；converge 去 e 加 -ing。"
+   },
+   {
+    "word": "shared",
+    "pos": "adj.",
+    "zh": "共同的",
+    "why": "修飾 vanishing points，平行線匯聚到「共同的」消失點；share 加 -d，sha 後補 red。"
+   },
+   {
+    "word": "points",
+    "pos": "n.",
+    "zh": "點",
+    "why": "vanishing points「消失點」，透視法的專有名詞；toward 後的名詞用複數，poi 後補 nts。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出鐵軌在地平線附近看似交會的例子；exa 後補 mple。"
+   },
+   {
+    "word": "tracks",
+    "pos": "n.",
+    "zh": "軌道",
+    "why": "railway tracks「鐵軌」，複數主詞，所以動詞 seem 不加 s；tra 後補 cks。"
+   },
+   {
+    "word": "picture",
+    "pos": "n.",
+    "zh": "圖畫",
+    "why": "in a ___ 需要名詞，「在畫中」；字尾 -ture，pic 後補 ture。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞符號）",
+    "why": "seem to + 原形動詞，「似乎……」；後面 meet 是原形，所以前面是不定詞 to。"
+   },
+   {
+    "word": "near",
+    "pos": "prep.",
+    "zh": "在……附近",
+    "why": "near the horizon「在地平線附近」，名詞前的介系詞；ne 後補 ar。"
+   }
+  ]
+ },
+ {
+  "id": "ct-41",
+  "blanks": [
+   {
+    "word": "activates",
+    "pos": "v.",
+    "zh": "啟動；激發",
+    "why": "主詞 A cue 為單數，現在式動詞加 -s；active 的動詞 activate，acti 後補 vates。"
+   },
+   {
+    "word": "formed",
+    "pos": "adj.",
+    "zh": "形成的（過去分詞）",
+    "why": "associations formed during ... ＝ associations that were formed，過去分詞修飾前面的名詞；for 後補 med。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "the original experience 指當初學習的那次特定經驗，用定冠詞 the。"
+   },
+   {
+    "word": "experience",
+    "pos": "n.",
+    "zh": "經驗",
+    "why": "original 修飾的名詞，「最初的經驗」；字尾 -ence，exper 後補 ience。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出氣味喚起記憶的具體例子；exa 後補 mple。"
+   },
+   {
+    "word": "smell",
+    "pos": "n.",
+    "zh": "氣味",
+    "why": "冠詞 a 與 particular 之後需要單數名詞；氣味是典型的提取線索，sm 後補 ell。"
+   },
+   {
+    "word": "bring",
+    "pos": "v.",
+    "zh": "帶來",
+    "why": "助動詞 may 之後接原形動詞；bring back「喚回（記憶）」是常見片語，br 後補 ing。"
+   },
+   {
+    "word": "details",
+    "pos": "n.",
+    "zh": "細節",
+    "why": "bring back 的受詞需要名詞；details of an earlier place「先前地點的細節」，det 後補 ails。"
+   },
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個（不定冠詞）",
+    "why": "後面的 earlier 是母音開頭，冠詞用 an；a 後補 n。"
+   },
+   {
+    "word": "place",
+    "pos": "n.",
+    "zh": "地方",
+    "why": "形容詞 earlier 之後需要名詞，「以前待過的地方」；pl 後補 ace。"
+   }
+  ]
+ },
+ {
+  "id": "ct-43",
+  "blanks": [
+   {
+    "word": "forgetting",
+    "pos": "n.",
+    "zh": "遺忘（動名詞）",
+    "why": "Some 之後需要名詞當主詞，用動名詞 forgetting；forget 重音在後，所以雙寫 t 再加 -ing。"
+   },
+   {
+    "word": "sessions",
+    "pos": "n.",
+    "zh": "學習時段",
+    "why": "between 之後的複數名詞，呼應首句 study sessions；注意雙寫 ss，sess 後補 ions。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "require + 受詞 + to V，受詞 learner 前用 the，指正在學習的人。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞符號）",
+    "why": "require someone to do something 的句型，to 之後接原形動詞 reconstruct。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "reconstruct the memory，指被遺忘的那段特定記憶，用定冠詞 the。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出一週內三次短複習勝過一晚苦讀的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "three",
+    "pos": "num.",
+    "zh": "三",
+    "why": "複數名詞 reviews 前的數字，與後面 a single evening 對比；th 後補 ree。"
+   },
+   {
+    "word": "reviews",
+    "pos": "n.",
+    "zh": "複習",
+    "why": "形容詞 brief 之後需要名詞，「三次簡短的複習」；複數，rev 後補 iews。"
+   },
+   {
+    "word": "week",
+    "pos": "n.",
+    "zh": "週",
+    "why": "across a ___ 需要單數名詞，「分散在一週內」；we 後補 ek（雙 e）。"
+   },
+   {
+    "word": "outlast",
+    "pos": "v.",
+    "zh": "比……持久",
+    "why": "助動詞 may 之後接原形動詞；out + last「持續得比……久」，呼應首句 longer-lasting。"
+   }
+  ]
+ },
+ {
+  "id": "ct-45",
+  "blanks": [
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和（連接兩個主詞）",
+    "why": "Attention 與 interpretation 並列當主詞，所以後面 be 動詞要用複數 are。"
+   },
+   {
+    "word": "are",
+    "pos": "aux.",
+    "zh": "（被動語態的 be 動詞）",
+    "why": "主詞為複數，are + 過去分詞 guided 構成被動語態「被引導」；a 後補 re。"
+   },
+   {
+    "word": "by",
+    "pos": "prep.",
+    "zh": "被（引出動作者）",
+    "why": "被動語態中用 by 帶出動作者：被 expectations 引導；b 後補 y。"
+   },
+   {
+    "word": "already",
+    "pos": "adv.",
+    "zh": "已經",
+    "why": "expectations already in memory「已存在記憶中的預期」；拼字只有一個 l，alr 後補 eady。"
+   },
+   {
+    "word": "memory",
+    "pos": "n.",
+    "zh": "記憶",
+    "why": "介系詞 in 之後需要名詞，in memory「在記憶中」；mem 後補 ory。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出兩位讀者對同一份模稜兩可報告判斷不同的例子；exa 後補 mple。"
+   },
+   {
+    "word": "readers",
+    "pos": "n.",
+    "zh": "讀者",
+    "why": "數字 two 之後要接複數名詞；read 加 -er 表示人，rea 後補 ders。"
+   },
+   {
+    "word": "judge",
+    "pos": "v.",
+    "zh": "判斷；評斷",
+    "why": "助動詞 may 之後接原形動詞，後面副詞 differently 修飾它；ju 後補 dge。"
+   },
+   {
+    "word": "same",
+    "pos": "adj.",
+    "zh": "相同的",
+    "why": "the ___ ambiguous report 與後面 differently 形成對比：同一份報告、不同判斷；sa 後補 me。"
+   },
+   {
+    "word": "report",
+    "pos": "n.",
+    "zh": "報告",
+    "why": "形容詞 ambiguous 之後需要名詞，是 judge 的受詞；rep 後補 ort。"
+   }
+  ]
+ },
+ {
+  "id": "ct-47",
+  "blanks": [
+   {
+    "word": "accommodate",
+    "pos": "v.",
+    "zh": "適應；遷就",
+    "why": "複數主詞 Speakers 之後接原形動詞；accommodate to「向……調適」，注意雙寫 cc 和 mm。"
+   },
+   {
+    "word": "social",
+    "pos": "adj.",
+    "zh": "社會的",
+    "why": "修飾名詞 groups，social groups「社會群體」；soc 後補 ial。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "而且（連接兩個子句）",
+    "why": "逗號後連接兩個完整子句：說話者調適、常見變體變成慣例；a 後補 nd。"
+   },
+   {
+    "word": "variants",
+    "pos": "n.",
+    "zh": "變體",
+    "why": "形容詞 frequent 之後需要名詞，動詞 become 不加 s 表示複數；vary 相關名詞 variant，vari 後補 ants。"
+   },
+   {
+    "word": "conventional",
+    "pos": "adj.",
+    "zh": "慣常的；約定俗成的",
+    "why": "連綴動詞 become 之後接形容詞；convention 加 -al，conven 後補 tional。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出年輕人的發音後來變成一般用法的例子；exa 後補 mple。"
+   },
+   {
+    "word": "first",
+    "pos": "adv.",
+    "zh": "最初",
+    "why": "first associated with ...「最初與……有關」，與後面 later 呼應；fi 後補 rst。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "與",
+    "why": "associated with 是固定搭配「與……相關」；wi 後補 th。"
+   },
+   {
+    "word": "speakers",
+    "pos": "n.",
+    "zh": "說話者",
+    "why": "形容詞 young 之後需要複數名詞，呼應上句 Speakers；spea 後補 kers。"
+   },
+   {
+    "word": "later",
+    "pos": "adv.",
+    "zh": "後來",
+    "why": "放在助動詞 may 與 become 之間的副詞，和前面 first 形成「起初……後來……」的時間對照。"
+   }
+  ]
+ },
+ {
+  "id": "ct-49",
+  "blanks": [
+   {
+    "word": "react",
+    "pos": "v.",
+    "zh": "反應",
+    "why": "複數主詞 Buyers 之後接原形動詞；react to price changes 呼應首句 respond，re 後補 act。"
+   },
+   {
+    "word": "strongly",
+    "pos": "adv.",
+    "zh": "強烈地",
+    "why": "修飾動詞 react 要用副詞，more strongly 是比較級；strong 加 -ly，不是形容詞 stronger。"
+   },
+   {
+    "word": "substitutes",
+    "pos": "n.",
+    "zh": "替代品",
+    "why": "when 子句的主詞，後面用 are，所以是複數；subst 後補 itutes。"
+   },
+   {
+    "word": "available",
+    "pos": "adj.",
+    "zh": "可取得的",
+    "why": "be 動詞 are 之後接形容詞，「有替代品可用」；字尾 -able，avai 後補 lable。"
+   },
+   {
+    "word": "purchase",
+    "pos": "n.",
+    "zh": "購買（行為）",
+    "why": "不定冠詞 a 之後需要名詞，a purchase can be delayed「購買可以延後」；purc 後補 hase。"
+   },
+   {
+    "word": "be",
+    "pos": "v.",
+    "zh": "被（被動語態）",
+    "why": "can 之後接原形 be，再加過去分詞 delayed 構成被動；b 後補 e。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出旅客延後度假卻照買藥的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "travelers",
+    "pos": "n.",
+    "zh": "旅客",
+    "why": "例句主詞，後接 may postpone a vacation，度假的人自然是 travelers；trav 後補 elers。"
+   },
+   {
+    "word": "postpone",
+    "pos": "v.",
+    "zh": "延後",
+    "why": "助動詞 may 之後接原形動詞；呼應前句 can be delayed，post 後補 pone。"
+   },
+   {
+    "word": "but",
+    "pos": "conj.",
+    "zh": "但是",
+    "why": "延後度假與「仍然」購買必要藥品形成對比，後面還有 still，用 but；b 後補 ut。"
+   }
+  ]
+ },
+ {
+  "id": "ct-51",
+  "blanks": [
+   {
+    "word": "additional",
+    "pos": "adj.",
+    "zh": "額外的；新增的",
+    "why": "Each 與名詞 user 之間需要形容詞；addition 加 -al，addit 後補 ional。"
+   },
+   {
+    "word": "increases",
+    "pos": "v.",
+    "zh": "增加",
+    "why": "主詞 Each additional user 是單數，現在式動詞加 -s；incr 後補 eases。"
+   },
+   {
+    "word": "number",
+    "pos": "n.",
+    "zh": "數量",
+    "why": "the number of 是固定搭配「……的數量」；num 後補 ber。"
+   },
+   {
+    "word": "possible",
+    "pos": "adj.",
+    "zh": "可能的",
+    "why": "修飾名詞 connections，possible connections「可能的連結」；字尾 -ible，poss 後補 ible。"
+   },
+   {
+    "word": "or",
+    "pos": "conj.",
+    "zh": "或",
+    "why": "connections 與 exchanges 兩個名詞以 or 連接，表示二者之一；o 後補 r。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For example 例如）",
+    "why": "For example 引出通訊軟體沒朋友使用就沒用的例子；句首大寫 F，補 or。"
+   },
+   {
+    "word": "messaging",
+    "pos": "n.",
+    "zh": "傳訊",
+    "why": "messaging system「通訊系統」，名詞修飾名詞；message 去 e 加 -ing，mess 後補 aging。"
+   },
+   {
+    "word": "is",
+    "pos": "v.",
+    "zh": "是",
+    "why": "主詞 a messaging system 為單數，be 動詞用 is；be of little use「幾乎沒用」。"
+   },
+   {
+    "word": "little",
+    "pos": "adj.",
+    "zh": "很少的",
+    "why": "of little use 是固定說法；use 不可數，用 little 而非 few，lit 後補 tle。"
+   },
+   {
+    "word": "if",
+    "pos": "conj.",
+    "zh": "如果",
+    "why": "if 引導條件子句：「如果」聯絡人都沒在用；i 後補 f。"
+   }
+  ]
+ },
+ {
+  "id": "ct-53",
+  "blanks": [
+   {
+    "word": "provided",
+    "pos": "v.",
+    "zh": "被提供（過去分詞）",
+    "why": "Once provided ＝ Once they are provided，省略主詞與 be 動詞的分詞構句；prov 後補 ided。"
+   },
+   {
+    "word": "goods",
+    "pos": "n.",
+    "zh": "財貨；物品",
+    "why": "these 之後需要複數名詞；經濟學的 goods 恆為複數形，go 後補 ods。"
+   },
+   {
+    "word": "serve",
+    "pos": "v.",
+    "zh": "服務；供……使用",
+    "why": "助動詞 can 之後接原形動詞；serve many users「供許多人使用」，se 後補 rve。"
+   },
+   {
+    "word": "users",
+    "pos": "n.",
+    "zh": "使用者",
+    "why": "many 之後接可數複數名詞，use 加 -er 表示人，再加 s；us 後補 ers。"
+   },
+   {
+    "word": "being",
+    "pos": "v.",
+    "zh": "被（被動動名詞）",
+    "why": "介系詞 without 之後要接動名詞，being consumed 是被動形式「不會被消耗掉」；be 後補 ing。"
+   },
+   {
+    "word": "by",
+    "pos": "prep.",
+    "zh": "被（引出動作者）",
+    "why": "consumed by one person，被動語態中 by 帶出動作者；b 後補 y。"
+   },
+   {
+    "word": "person",
+    "pos": "n.",
+    "zh": "人",
+    "why": "one 之後需要單數名詞，one person「一個人」；per 後補 son。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出燈塔訊號的例子，說明公共財的非排他性；exa 後補 mple。"
+   },
+   {
+    "word": "signal",
+    "pos": "n.",
+    "zh": "訊號",
+    "why": "lighthouse signal「燈塔訊號」，名詞當主詞；sig 後補 nal。"
+   },
+   {
+    "word": "guide",
+    "pos": "v.",
+    "zh": "引導",
+    "why": "助動詞 can 之後接原形動詞；燈塔「引導」船隻，gu 後補 ide。"
+   }
+  ]
+ },
+ {
+  "id": "ct-55",
+  "blanks": [
+   {
+    "word": "materials",
+    "pos": "n.",
+    "zh": "材料",
+    "why": "Permeable 修飾的名詞，「透水材料」；動詞 allow 不加 s，所以主詞是複數 materials，mate 後補 rials。"
+   },
+   {
+    "word": "infiltration",
+    "pos": "n.",
+    "zh": "入滲",
+    "why": "allow 的受詞需要名詞；infiltrate 的名詞形，字尾 -tion，infilt 後補 ration。"
+   },
+   {
+    "word": "pavement",
+    "pos": "n.",
+    "zh": "鋪面；柏油路面",
+    "why": "while 子句的主詞，與透水材料對比的不透水路面；redirects 加 -s 表示單數，pave 後補 ment。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水",
+    "why": "redirects 的受詞，把雨水導入排水溝；wa 後補 ter。"
+   },
+   {
+    "word": "drains",
+    "pos": "n.",
+    "zh": "排水溝",
+    "why": "介系詞 into 之後需要名詞，「導入排水溝」；複數，dra 後補 ins。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出草地窪地讓雨水下滲的例子；exa 後補 mple。"
+   },
+   {
+    "word": "basin",
+    "pos": "n.",
+    "zh": "窪地；集水池",
+    "why": "冠詞 a 與形容詞 grassy 之後需要單數名詞；ba 後補 sin。"
+   },
+   {
+    "word": "storm",
+    "pos": "n.",
+    "zh": "暴雨",
+    "why": "storm water「暴雨逕流」，名詞修飾名詞；st 後補 orm。"
+   },
+   {
+    "word": "soak",
+    "pos": "v.",
+    "zh": "滲入；浸透",
+    "why": "let + 受詞 + 原形動詞：lets storm water soak downward「讓雨水往下滲」；so 後補 ak。"
+   },
+   {
+    "word": "instead",
+    "pos": "adv.",
+    "zh": "代替；而不是",
+    "why": "instead of 是固定片語「而不是」，下滲而不是從管子流走；ins 後補 tead。"
+   }
+  ]
+ },
+ {
+  "id": "ct-57",
+  "blanks": [
+   {
+    "word": "motion",
+    "pos": "n.",
+    "zh": "運動",
+    "why": "mantle motion「地函運動」，名詞當主詞之一；字尾 -tion，mot 後補 ion。"
+   },
+   {
+    "word": "gravitational",
+    "pos": "adj.",
+    "zh": "重力的",
+    "why": "修飾名詞 forces，gravitational forces「重力」；gravitation 加 -al，gravit 後補 ational。"
+   },
+   {
+    "word": "act",
+    "pos": "v.",
+    "zh": "作用",
+    "why": "複數主詞（motion and forces）之後接原形動詞；act on「作用於」，a 後補 ct。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "on 之後的 rigid plates 指首句提到的地球板塊，用定冠詞 the。"
+   },
+   {
+    "word": "plates",
+    "pos": "n.",
+    "zh": "板塊",
+    "why": "形容詞 rigid 之後需要名詞，「堅硬的板塊」；複數，pla 後補 tes。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出海底對稱磁條帶記錄擴張的證據；exa 後補 mple。"
+   },
+   {
+    "word": "magnetic",
+    "pos": "adj.",
+    "zh": "磁性的",
+    "why": "修飾名詞 stripes，magnetic stripes「磁條帶」；magn 後補 etic。"
+   },
+   {
+    "word": "record",
+    "pos": "v.",
+    "zh": "記錄",
+    "why": "複數主詞 stripes 之後需要動詞，用原形不加 s；rec 後補 ord。"
+   },
+   {
+    "word": "spreading",
+    "pos": "n.",
+    "zh": "擴張",
+    "why": "seafloor spreading「海底擴張」是地質學固定名詞；spread 加 -ing，spre 後補 ading。"
+   },
+   {
+    "word": "both",
+    "pos": "det.",
+    "zh": "兩邊的",
+    "why": "both sides of a ridge「洋脊兩側」，後接複數 sides；呼應 symmetric（對稱），bo 後補 th。"
+   }
+  ]
+ },
+ {
+  "id": "ct-59",
+  "blanks": [
+   {
+    "word": "planet",
+    "pos": "n.",
+    "zh": "行星",
+    "why": "定冠詞 The 之後需要名詞當主詞，指首句的 a planet；blocks 加 -s 表示單數，pla 後補 net。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "a ___ fraction「一小部分」，冠詞與名詞之間要形容詞；sm 後補 all。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "a fraction of starlight「星光的一部分」，fraction 後接 of；o 後補 f。"
+   },
+   {
+    "word": "at",
+    "pos": "prep.",
+    "zh": "以（間隔）",
+    "why": "at regular intervals「每隔固定時間」是固定片語；a 後補 t。"
+   },
+   {
+    "word": "intervals",
+    "pos": "n.",
+    "zh": "間隔",
+    "why": "regular 修飾的名詞，at regular intervals 中用複數；inte 後補 rvals。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "For example 引出大行星造成較深亮度下降的例子；exa 後補 mple。"
+   },
+   {
+    "word": "planet",
+    "pos": "n.",
+    "zh": "行星",
+    "why": "冠詞 a 與形容詞 large 之後需要單數名詞，動詞 produces 也是單數；pla 後補 net。"
+   },
+   {
+    "word": "deeper",
+    "pos": "adj.",
+    "zh": "較深的",
+    "why": "後面有 than，要用比較級；deep 加 -er，dee 後補 per。"
+   },
+   {
+    "word": "dip",
+    "pos": "n.",
+    "zh": "下降",
+    "why": "brightness dip「亮度下降」，形容詞 deeper 修飾的名詞；後文也說 repeated dips，d 後補 ip。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "a ___ one 與前面的 large planet 對比，one 代替 planet；sm 後補 all。"
+   }
+  ]
+ }
+]

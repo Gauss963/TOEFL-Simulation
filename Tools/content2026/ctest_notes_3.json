@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "ct3-01",
+  "blanks": [
+   {
+    "word": "plants",
+    "pos": "n.",
+    "zh": "植物",
+    "why": "Living 後需要名詞作主詞，並與 and animals 並列：會吸收碳的生物就是動植物。pla- 補 -nts，主詞是複數（動詞 take 沒加 -s），所以要用 plants。"
+   },
+   {
+    "word": "animals",
+    "pos": "n.",
+    "zh": "動物",
+    "why": "and 連接兩個對等名詞 plants and ___，生物除了植物就是動物。ani- 補 -mals，同樣要有複數 -s。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "（take in）吸收、攝入",
+    "why": "take in 是固定片語「吸收、攝取」，後面接受詞 carbon。只剩 i-，補 n；別誤填 it（take it carbon 不合文法）。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "從……（表來源）",
+    "why": "carbon ___ the air 表示碳的來源，搭配 take in X from Y。fr- 補 -om；不是 for。"
+   },
+   {
+    "word": "air",
+    "pos": "n.",
+    "zh": "空氣",
+    "why": "the 之後需要名詞；植物是從「空氣」中的二氧化碳取得碳。a- 補 -ir；別填 age 或 area，語意不合。"
+   },
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個（用於母音開頭的字前）",
+    "why": "organism 以母音 o 開頭，不定冠詞要用 an 而不是 a。只給 a-，補 n。"
+   },
+   {
+    "word": "dies",
+    "pos": "v.",
+    "zh": "死亡",
+    "why": "When an organism ___ 需要動詞；主詞為第三人稱單數、敘述普遍事實，用現在式 dies，後文 when death occurred 也呼應。di- 補 -es（die → dies）。"
+   },
+   {
+    "word": "stops",
+    "pos": "v.",
+    "zh": "停止",
+    "why": "主詞 it 是第三人稱單數現在式，要加 -s；stop + V-ing 表示「停止做某事」（stops absorbing）。st- 補 -ops。"
+   },
+   {
+    "word": "carbon",
+    "pos": "n.",
+    "zh": "碳",
+    "why": "absorbing 後接受詞名詞；本段主題就是 carbon，上一句 take in carbon 已出現。car- 補 -bon。"
+   },
+   {
+    "word": "radioactive",
+    "pos": "adj.",
+    "zh": "放射性的",
+    "why": "a ___ form of carbon 中，冠詞與名詞 form 之間需要形容詞；首句 Radiocarbon 與後面 decays 都暗示「放射性」。radio- 補 -active，整個字沒有連字號。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-02",
+  "blanks": [
+   {
+    "word": "achieved",
+    "pos": "v.",
+    "zh": "達成、實現",
+    "why": "主詞 Builders 後需要動詞；描述中世紀的事要用過去式。achi- 補 -eved（achieve + d），achieve this height 即「達到這種高度」。"
+   },
+   {
+    "word": "height",
+    "pos": "n.",
+    "zh": "高度",
+    "why": "this 之後需要單數名詞，呼應第一句 tall walls。hei- 補 -ght，注意拼法 h-e-i-g-h-t，常被誤拼成 hight。"
+   },
+   {
+    "word": "using",
+    "pos": "v.",
+    "zh": "使用（動名詞）",
+    "why": "介系詞 by 後接動名詞 V-ing，表示「藉由……的方式」。us- 補 -ing（use 去 e 加 ing）。"
+   },
+   {
+    "word": "buttresses",
+    "pos": "n.",
+    "zh": "扶壁",
+    "why": "flying buttresses 是建築術語「飛扶壁」；後面 which are 是複數動詞，所以名詞用複數。buttr- 補 -esses（buttress 字尾 ss 加 -es）。"
+   },
+   {
+    "word": "are",
+    "pos": "v.",
+    "zh": "是",
+    "why": "which 指代複數的 buttresses，關係子句動詞用 are，後接補語 stone arches。只剩 a-，補 -re。"
+   },
+   {
+    "word": "arches",
+    "pos": "n.",
+    "zh": "拱",
+    "why": "stone 在這裡當修飾語，後面需要名詞「石拱」；配合 are 用複數。arc- 補 -hes，arch 字尾 ch 加 -es。"
+   },
+   {
+    "word": "outside",
+    "pos": "prep.",
+    "zh": "在……外面",
+    "why": "built ___ the main walls 需要表位置的介系詞；「飛」扶壁正是建在牆的外側。out- 補 -side。"
+   },
+   {
+    "word": "main",
+    "pos": "adj.",
+    "zh": "主要的",
+    "why": "the 與 walls 之間需要形容詞；main walls 指建築本體的主牆。ma- 補 -in；別填 many（the many walls 語意不對）。"
+   },
+   {
+    "word": "These",
+    "pos": "det.",
+    "zh": "這些",
+    "why": "句首修飾複數名詞 arches 的限定詞，指上一句的石拱。Th- 補 -ese；arches 是複數，所以不能用 This。"
+   },
+   {
+    "word": "carry",
+    "pos": "v.",
+    "zh": "承載、傳遞",
+    "why": "主詞 These arches 為複數，現在式用原形動詞；carry the outward push down to the ground「把向外推力傳到地面」。ca- 補 -rry，注意雙寫 r。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-03",
+  "blanks": [
+   {
+    "word": "durability",
+    "pos": "n.",
+    "zh": "耐久性",
+    "why": "Their 之後需要名詞作主詞；呼應上一句 survived for nearly two thousand years。durab- 補 -ility（durable → durability，-ble 變成 -bility）。"
+   },
+   {
+    "word": "partly",
+    "pos": "adv.",
+    "zh": "部分地",
+    "why": "is ___ explained 是被動語態，be 動詞與過去分詞之間放副詞；partly explained by 意思是「部分原因在於」。par- 補 -tly。"
+   },
+   {
+    "word": "by",
+    "pos": "prep.",
+    "zh": "由、被（帶出原因）",
+    "why": "被動語態 is explained 之後用 by 帶出原因。只給 b-，補 y。"
+   },
+   {
+    "word": "concrete",
+    "pos": "n.",
+    "zh": "混凝土",
+    "why": "the 之後需要名詞，標題與最後一句 Roman concrete 都是線索。conc- 補 -rete。"
+   },
+   {
+    "word": "Roman",
+    "pos": "adj.",
+    "zh": "羅馬的",
+    "why": "修飾 engineers 的形容詞，第一句已出現 Roman harbors。Ro- 補 -man，保留大寫 R。"
+   },
+   {
+    "word": "developed",
+    "pos": "v.",
+    "zh": "研發",
+    "why": "the concrete that Roman engineers ___ 是關係子句，需要及物動詞的過去式。deve- 補 -loped，develop 加 -ed 時 p 不雙寫。"
+   },
+   {
+    "word": "mixed",
+    "pos": "v.",
+    "zh": "混合",
+    "why": "They 之後接過去式動詞；mix A with B「把 A 與 B 混合」，石灰加火山灰正是配方。mi- 補 -xed。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "與……（mix A with B）",
+    "why": "與前面 mixed 搭配的固定用法 mixed lime with volcanic ash。wi- 補 -th。"
+   },
+   {
+    "word": "ash",
+    "pos": "n.",
+    "zh": "灰",
+    "why": "volcanic 是形容詞，後面需要名詞：volcanic ash「火山灰」。只給 a-，補 -sh。"
+   },
+   {
+    "word": "reacted",
+    "pos": "v.",
+    "zh": "起化學反應",
+    "why": "逗號後 which 引導關係子句，需要過去式動詞；react with water「與水起反應」，後面 to form a binding material 是結果。rea- 補 -cted。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-04",
+  "blanks": [
+   {
+    "word": "memorized",
+    "pos": "v.",
+    "zh": "記住、背下",
+    "why": "主詞 Performers 後需要過去式動詞；口傳詩人要「記住」故事大綱而非逐字。memo- 補 -rized（memorize + d）。"
+   },
+   {
+    "word": "general",
+    "pos": "adj.",
+    "zh": "大致的、整體的",
+    "why": "the ___ plot 中需要形容詞；與後面 rather than every exact word 對比，指「大致」的情節。gen- 補 -eral。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "the general plot ___ an epic 表示所屬關係「一部史詩的情節」。只剩 o-，補 f；別填 on。"
+   },
+   {
+    "word": "epic",
+    "pos": "n.",
+    "zh": "史詩",
+    "why": "不定冠詞 an 後需要以母音開頭的名詞；後文 Homeric epics 可作線索。ep- 補 -ic。"
+   },
+   {
+    "word": "than",
+    "pos": "conj.",
+    "zh": "（rather than）而不是",
+    "why": "rather than 是固定片語「而不是」，對比 general plot 與 exact word。th- 補 -an；別寫成 then。"
+   },
+   {
+    "word": "exact",
+    "pos": "adj.",
+    "zh": "確切的、一字不差的",
+    "why": "every ___ word 中需要形容詞，與 general 形成對比。ex- 補 -act。"
+   },
+   {
+    "word": "They",
+    "pos": "pron.",
+    "zh": "他們",
+    "why": "句首需要主詞，指前一句的 Performers；後面 relied 是動詞，所以不是 These 或 Their。Th- 補 -ey。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "（rely on）依賴",
+    "why": "rely on 為固定搭配「依靠」。只給 o-，補 n；別填 of。"
+   },
+   {
+    "word": "phrases",
+    "pos": "n.",
+    "zh": "片語、詞組",
+    "why": "repeated 是形容詞，後面要接名詞；下一句 These formulas 指的正是這些重複詞組。phr- 補 -ases，複數。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "（such as）例如",
+    "why": "such as 是舉例的固定片語，後面 fixed descriptions of heroes 就是例子。只給 a-，補 s。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-05",
+  "blanks": [
+   {
+    "word": "normal",
+    "pos": "adj.",
+    "zh": "正常的",
+    "why": "Under ___ conditions 是常見搭配「在正常情況下」，與末句動物、洪水打亂土層的例外情況相對。nor- 補 -mal。"
+   },
+   {
+    "word": "deeper",
+    "pos": "adj.",
+    "zh": "較深的",
+    "why": "後面有 earlier than 的比較結構，這裡也用比較級形容詞修飾 layers。dee- 補 -per（deep + er）。"
+   },
+   {
+    "word": "were",
+    "pos": "aux.",
+    "zh": "（被動語態的 be 動詞）",
+    "why": "主詞 layers 為複數，deposited 是過去分詞，被動語態用 were + p.p.。we- 補 -re；別寫成 where。"
+   },
+   {
+    "word": "earlier",
+    "pos": "adv.",
+    "zh": "較早地",
+    "why": "後面有 than，需要比較級；越深的土層越「早」沉積。ear- 補 -lier（early → earlier，y 變 i）。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "那些（定冠詞）",
+    "why": "than ___ layers above them 指特定的上方土層，有 above them 限定，用定冠詞。只給 t-，補 -he。"
+   },
+   {
+    "word": "above",
+    "pos": "prep.",
+    "zh": "在……上方",
+    "why": "the layers ___ them 需要表位置的介系詞，與 deeper 相對。ab- 補 -ove；別填 about。"
+   },
+   {
+    "word": "This",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "修飾單數名詞 principle，指前一句說明的規則。Th- 補 -is；principle 是單數，所以不是 These。"
+   },
+   {
+    "word": "called",
+    "pos": "v.",
+    "zh": "被稱為（過去分詞）",
+    "why": "principle, called superposition 是省略的關係子句（which is called），用過去分詞。cal- 補 -led，雙寫 l。"
+   },
+   {
+    "word": "helps",
+    "pos": "v.",
+    "zh": "幫助",
+    "why": "主詞 This principle 為單數，現在式加 -s；help + 受詞 + 原形動詞（helps researchers place）。he- 補 -lps。"
+   },
+   {
+    "word": "place",
+    "pos": "v.",
+    "zh": "放置、排定",
+    "why": "help sb do 結構，此處要原形動詞；place objects in a sequence「把物品排出先後順序」。pl- 補 -ace。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-06",
+  "blanks": [
+   {
+    "word": "clocks",
+    "pos": "n.",
+    "zh": "時鐘",
+    "why": "Early 後需要名詞作主詞，第一句的主題就是 Mechanical clocks。clo- 補 -cks，複數。"
+   },
+   {
+    "word": "falling",
+    "pos": "adj.",
+    "zh": "下落的（現在分詞作形容詞）",
+    "why": "冠詞 a 與名詞 weight 之間需要形容詞；falling weight「下墜的重錘」提供動力。fal- 補 -ling，雙寫 l。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞符號）為了",
+    "why": "used a weight ___ turn 表示「用重錘來轉動」，後接原形動詞 turn，故為不定詞 to。只給 t-，補 o。"
+   },
+   {
+    "word": "series",
+    "pos": "n.",
+    "zh": "一系列",
+    "why": "a ___ of gears 是固定片語 a series of「一連串的」。ser- 補 -ies；series 單複數同形，不要寫 serie。"
+   },
+   {
+    "word": "gears",
+    "pos": "n.",
+    "zh": "齒輪",
+    "why": "of 後接名詞；下一句 released the gears 再次出現，可回頭對照。ge- 補 -ars。"
+   },
+   {
+    "word": "called",
+    "pos": "v.",
+    "zh": "被稱為（過去分詞）",
+    "why": "A device ___ an escapement 為省略的被動關係子句，用過去分詞，裝置名稱放在後面。cal- 補 -led。"
+   },
+   {
+    "word": "escapement",
+    "pos": "n.",
+    "zh": "擒縱器",
+    "why": "冠詞 an 後需要以母音開頭的名詞，即這個裝置的名稱；它是動詞 released 的主詞核心。escap- 補 -ement（escape + ment）。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（指前述齒輪）",
+    "why": "released ___ gears 指前一句已提過的齒輪，再次提及用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "以（某種方式）",
+    "why": "in small, regular steps「以小而規律的步幅」，in 表示方式。只給 i-，補 n。"
+   },
+   {
+    "word": "regular",
+    "pos": "adj.",
+    "zh": "規律的",
+    "why": "small, ___ steps 兩個並列形容詞修飾 steps；後面 kept the motion steady 說明是「規律」的。reg- 補 -ular。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-07",
+  "blanks": [
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（指那層灰泥）",
+    "why": "As ___ plaster 指第一句提到的那層濕灰泥，已知事物用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "dries",
+    "pos": "v.",
+    "zh": "變乾",
+    "why": "As the plaster ___ 需要動詞，主詞單數現在式；第一句 wet plaster 提示接下來會「乾」。dr- 補 -ies（dry → dries，y 變 ies）。"
+   },
+   {
+    "word": "pigments",
+    "pos": "n.",
+    "zh": "顏料",
+    "why": "the 後需要名詞作主詞，配複數動詞 become；壁畫中與牆結合的是「顏料」。pigm- 補 -ents。"
+   },
+   {
+    "word": "chemically",
+    "pos": "adv.",
+    "zh": "化學地",
+    "why": "become ___ bound 中修飾過去分詞 bound 的副詞。chemi- 補 -cally（chemical + ly）。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "與……（bound to）",
+    "why": "bound to「與……結合」是固定搭配。只給 t-，補 o。"
+   },
+   {
+    "word": "wall",
+    "pos": "n.",
+    "zh": "牆",
+    "why": "the 後需要名詞；溼壁畫直接畫在「牆」上的灰泥裡。wa- 補 -ll，雙 l。"
+   },
+   {
+    "word": "makes",
+    "pos": "v.",
+    "zh": "使得",
+    "why": "主詞 This 為單數，現在式加 -s；make + 受詞 + 形容詞（makes the colors durable）。ma- 補 -kes。"
+   },
+   {
+    "word": "colors",
+    "pos": "n.",
+    "zh": "顏色",
+    "why": "the 後需要名詞作 makes 的受詞；美式拼法 colors（英式 colours）。col- 補 -ors。"
+   },
+   {
+    "word": "durable",
+    "pos": "adj.",
+    "zh": "耐久的",
+    "why": "very 後接形容詞作受詞補語；but 之後講缺點，所以前面是優點「持久不褪」。dur- 補 -able。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指這件事）",
+    "why": "but ___ also means 需要單數主詞，指前述「顏料與濕灰泥結合」這件事；動詞 means 加 -s 也提示單數。只給 i-，補 t。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-08",
+  "blanks": [
+   {
+    "word": "have",
+    "pos": "aux.",
+    "zh": "（現在完成式助動詞）",
+    "why": "主詞 Anthropologists 為複數，後接過去分詞 observed，構成現在完成式 have observed。ha- 補 -ve；別用 has。"
+   },
+   {
+    "word": "that",
+    "pos": "conj.",
+    "zh": "引導名詞子句",
+    "why": "observed ___ a gift is rarely free 中，that 引導 observed 的受詞子句。th- 補 -at。"
+   },
+   {
+    "word": "is",
+    "pos": "v.",
+    "zh": "是",
+    "why": "子句主詞 a gift 為單數，現在式 be 動詞用 is，後接副詞 rarely 和形容詞 free。只給 i-，補 s。"
+   },
+   {
+    "word": "free",
+    "pos": "adj.",
+    "zh": "免費的、無代價的",
+    "why": "rarely 修飾形容詞；because 後說收禮者被期待回禮，可推出禮物「很少是免費的」。fr- 補 -ee。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（收禮的那個人）",
+    "why": "___ receiver 指這份禮物特定的收受者，用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "is",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "be expected to「被期望做……」為被動語態，主詞 receiver 單數用 is。只給 i-，補 s。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞符號）",
+    "why": "be expected to + 原形動詞（return）是固定句型。只給 t-，補 o。"
+   },
+   {
+    "word": "something",
+    "pos": "pron.",
+    "zh": "某樣東西",
+    "why": "return 後需要受詞；some- 補 -thing，「回贈某樣東西」；注意不是 sometime。"
+   },
+   {
+    "word": "This",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "修飾單數名詞 cycle，指前一句描述的送禮與回禮過程。Th- 補 -is。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "cycle ___ giving and returning「給予與回報的循環」，of 後接動名詞。只給 o-，補 f。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-09",
+  "blanks": [
+   {
+    "word": "church",
+    "pos": "n.",
+    "zh": "教會（作修飾語）",
+    "why": "church singers「教會歌手」，名詞修飾名詞；中世紀歐洲的音樂多在教會中傳唱。chu- 補 -rch。"
+   },
+   {
+    "word": "used",
+    "pos": "v.",
+    "zh": "使用",
+    "why": "主詞 singers 後需要動詞，全段描述過去，用過去式。us- 補 -ed。"
+   },
+   {
+    "word": "marks",
+    "pos": "n.",
+    "zh": "記號",
+    "why": "small 後需要名詞；下一句 These signs 指的就是這些「記號」。ma- 補 -rks。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（指歌詞）",
+    "why": "above ___ words 指歌曲裡特定的歌詞，用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞，表目的）",
+    "why": "small marks ... ___ recall 後接原形動詞 recall，表示這些記號「用來」提醒。只給 t-，補 o。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（旋律的輪廓）",
+    "why": "recall ___ general shape of a melody，shape 後有 of 片語限定，用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "shape",
+    "pos": "n.",
+    "zh": "形狀、輪廓",
+    "why": "the general ___ of a melody「旋律的大致走向」；下一句 rise or fall 說明是音高的起伏輪廓。sh- 補 -ape。"
+   },
+   {
+    "word": "melody",
+    "pos": "n.",
+    "zh": "旋律",
+    "why": "不定冠詞 a 後需要單數名詞；音樂語境中的「旋律」。mel- 補 -ody。"
+   },
+   {
+    "word": "signs",
+    "pos": "n.",
+    "zh": "符號",
+    "why": "These 修飾複數名詞，換個說法指前一句的 marks。si- 補 -gns，注意不發音的 g。"
+   },
+   {
+    "word": "whether",
+    "pos": "conj.",
+    "zh": "是否",
+    "why": "showed ___ the voice should rise or fall，whether ... or 表示「是……還是」。whe- 補 -ther；別寫成同音的 weather。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-10",
+  "blanks": [
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "（instead of）而不是",
+    "why": "Instead of + V-ing 為固定片語「不……而是」。只給 o-，補 f。"
+   },
+   {
+    "word": "lectures",
+    "pos": "n.",
+    "zh": "講課、演講",
+    "why": "giving 後需要名詞，give lectures「講課」，與後文「提問」的教學方式對比。lect- 補 -ures。"
+   },
+   {
+    "word": "asked",
+    "pos": "v.",
+    "zh": "問",
+    "why": "主詞 he 後需要過去式動詞；ask sb questions 為雙受詞句型。as- 補 -ked。"
+   },
+   {
+    "word": "students",
+    "pos": "n.",
+    "zh": "學生",
+    "why": "his 後接名詞作間接受詞，教學的對象就是「學生」。stud- 補 -ents。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的（a series of）",
+    "why": "a series of「一連串的」為固定片語，後接 careful questions。只給 o-，補 f。"
+   },
+   {
+    "word": "questions",
+    "pos": "n.",
+    "zh": "問題",
+    "why": "careful 後需要名詞，作 asked 的直接受詞；蘇格拉底教學法的核心就是「提問」。ques- 補 -tions。"
+   },
+   {
+    "word": "answer",
+    "pos": "n.",
+    "zh": "回答",
+    "why": "Each 後接單數可數名詞；有問題就有「回答」。ans- 補 -wer，w 不發音容易漏寫。"
+   },
+   {
+    "word": "examined",
+    "pos": "v.",
+    "zh": "檢驗（過去分詞）",
+    "why": "was ___ 為被動語態，需要過去分詞。exam- 補 -ined（examine + d）。"
+   },
+   {
+    "word": "see",
+    "pos": "v.",
+    "zh": "看、查明",
+    "why": "to ___ whether「看看是否」，不定詞後接原形動詞。只給 s-，補 -ee。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指答案）",
+    "why": "whether ___ led to a contradiction，主詞指單數的 answer。只給 i-，補 t。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-11",
+  "blanks": [
+   {
+    "word": "usually",
+    "pos": "adv.",
+    "zh": "通常",
+    "why": "主詞 A pidgin 與動詞 has 之間放頻率副詞。usu- 補 -ally，雙寫 l。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的、有限的",
+    "why": "a ___ vocabulary，形容詞修飾名詞；與 simple grammar 並列，皮欽語的詞彙量「有限」。sm- 補 -all。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "連接兩個名詞片語 a small vocabulary 與 simple grammar。只給 a-，補 -nd。"
+   },
+   {
+    "word": "grammar",
+    "pos": "n.",
+    "zh": "文法",
+    "why": "simple 後接名詞；文法與詞彙同為語言的組成部分。gra- 補 -mmar，雙寫 m，字尾是 -ar 不是 -er。"
+   },
+   {
+    "word": "no",
+    "pos": "det.",
+    "zh": "沒有",
+    "why": "___ one speaks it「沒有人把它當……來說」，no one 是固定詞組。只給 n-，補 o。"
+   },
+   {
+    "word": "speaks",
+    "pos": "v.",
+    "zh": "說（某種語言）",
+    "why": "no one 視為單數，現在式加 -s；speak a language「說一種語言」。spe- 補 -aks。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "作為",
+    "why": "speak it ___ a first language「把它當作母語來說」。只給 a-，補 s。"
+   },
+   {
+    "word": "language",
+    "pos": "n.",
+    "zh": "語言",
+    "why": "a first ___ =「母語」，固定說法；首句也有 shared language。lang- 補 -uage，字尾 -uage 容易拼錯。"
+   },
+   {
+    "word": "children",
+    "pos": "n.",
+    "zh": "孩子們",
+    "why": "If 子句的主詞，動詞 grow 為原形，表示主詞是複數；child 的不規則複數是 children。chil- 補 -dren。"
+   },
+   {
+    "word": "up",
+    "pos": "adv.",
+    "zh": "（grow up）長大",
+    "why": "grow up 是片語動詞「長大」，後接 hearing a pidgin at home。只給 u-，補 p。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-12",
+  "blanks": [
+   {
+    "word": "farmers",
+    "pos": "n.",
+    "zh": "農民",
+    "why": "Early 後需要名詞作主詞；主題 domestication 與農耕有關，馴化植物的是「農民」。far- 補 -mers。"
+   },
+   {
+    "word": "selected",
+    "pos": "v.",
+    "zh": "挑選",
+    "why": "副詞 gradually 後接過去式動詞；挑出具有用特徵的植物就是人為選擇。sele- 補 -cted。"
+   },
+   {
+    "word": "plants",
+    "pos": "n.",
+    "zh": "植物",
+    "why": "wild 形容詞後需要名詞；首句 domestication of plants 是線索。pla- 補 -nts。"
+   },
+   {
+    "word": "useful",
+    "pos": "adj.",
+    "zh": "有用的",
+    "why": "with ___ features，形容詞修飾 features。use- 補 -ful，字尾只有一個 l。"
+   },
+   {
+    "word": "such",
+    "pos": "adj.",
+    "zh": "（such as）例如",
+    "why": "___ as 引出例子 larger seeds or grains。su- 補 -ch。"
+   },
+   {
+    "word": "larger",
+    "pos": "adj.",
+    "zh": "較大的",
+    "why": "seeds 前需要形容詞；比較級表示被挑選的是「比較大的」種子。lar- 補 -ger。"
+   },
+   {
+    "word": "or",
+    "pos": "conj.",
+    "zh": "或",
+    "why": "連接 larger seeds 與 grains that stayed on the stalk 兩個例子。只給 o-，補 r。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "grains ___ stayed on the stalk，關係代名詞引導子句修飾 grains。th- 補 -at。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "在……上",
+    "why": "stayed ___ the stalk「留在莖上」不會掉落，方便收成。只給 o-，補 n；別填 of。"
+   },
+   {
+    "word": "stalk",
+    "pos": "n.",
+    "zh": "莖、稈",
+    "why": "the 後接名詞，穀粒長在植物的「莖稈」上。st- 補 -alk，l 不發音。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-13",
+  "blanks": [
+   {
+    "word": "set",
+    "pos": "v.",
+    "zh": "制定",
+    "why": "主詞 A guild 後需要動詞；set rules「訂定規則」，過去式與原形同形。只給 s-，補 -et。"
+   },
+   {
+    "word": "for",
+    "pos": "prep.",
+    "zh": "針對",
+    "why": "rules ___ the quality...「針對品質的規則」。只給 f-，補 -or。"
+   },
+   {
+    "word": "quality",
+    "pos": "n.",
+    "zh": "品質",
+    "why": "the ___ of goods「商品的品質」。qua- 補 -lity。"
+   },
+   {
+    "word": "goods",
+    "pos": "n.",
+    "zh": "商品",
+    "why": "of 後接名詞；goods 恆為複數，指「貨品」。go- 補 -ods，別寫成形容詞 good。"
+   },
+   {
+    "word": "prices",
+    "pos": "n.",
+    "zh": "價格",
+    "why": "與 the quality of goods 並列的另一規範項目；後面 members could charge 表示會員「收取的價格」。pri- 補 -ces。"
+   },
+   {
+    "word": "members",
+    "pos": "n.",
+    "zh": "成員",
+    "why": "the prices that ___ could charge，關係子句需要名詞作主詞，指公會「會員」。mem- 補 -bers。"
+   },
+   {
+    "word": "charge",
+    "pos": "v.",
+    "zh": "收費、索價",
+    "why": "情態助動詞 could 後接原形動詞；charge a price「索取價格」。cha- 補 -rge。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（列舉第三項）",
+    "why": "列舉的第三項 ___ training of new workers，有 of 片語限定，用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "the training ___ new workers「新工人的訓練」。只給 o-，補 f。"
+   },
+   {
+    "word": "workers",
+    "pos": "n.",
+    "zh": "工人",
+    "why": "new 後需要名詞；下一句的 apprentices 就是這些新進「工人」。wor- 補 -kers。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-14",
+  "blanks": [
+   {
+    "word": "bought",
+    "pos": "v.",
+    "zh": "購買（buy 的過去式）",
+    "why": "主詞 Readers 後需要過去式動詞；buy 是不規則動詞，過去式 bought。bou- 補 -ght；別寫成 brought（帶來）。"
+   },
+   {
+    "word": "short",
+    "pos": "adj.",
+    "zh": "短的",
+    "why": "each 與名詞 installment 之間放形容詞；呼應首句 small weekly or monthly parts。sh- 補 -ort。"
+   },
+   {
+    "word": "at",
+    "pos": "prep.",
+    "zh": "以（某價格）",
+    "why": "at a low price「以低價」是固定搭配。只給 a-，補 t。"
+   },
+   {
+    "word": "price",
+    "pos": "n.",
+    "zh": "價格",
+    "why": "a low ___，形容詞後需要單數名詞。pr- 補 -ice。"
+   },
+   {
+    "word": "made",
+    "pos": "v.",
+    "zh": "使得",
+    "why": "which 指前面整件事，需要過去式動詞；make + 受詞 + 形容詞（made fiction affordable）。ma- 補 -de。"
+   },
+   {
+    "word": "affordable",
+    "pos": "adj.",
+    "zh": "負擔得起的",
+    "why": "made fiction ___ 需要形容詞當受詞補語；與 low price 呼應。affor- 補 -dable，afford 雙寫 f。"
+   },
+   {
+    "word": "much",
+    "pos": "adv.",
+    "zh": "更加（修飾比較級）",
+    "why": "修飾比較級 larger 用 much。mu- 補 -ch；別填 more（more larger 是錯誤的雙重比較）。"
+   },
+   {
+    "word": "audience",
+    "pos": "n.",
+    "zh": "讀者群、受眾",
+    "why": "larger 後需要名詞，指作品的接收者。audi- 補 -ence，字尾是 -ence 不是 -ance。"
+   },
+   {
+    "word": "working",
+    "pos": "adj.",
+    "zh": "勞動（階層）的",
+    "why": "of ___ families，working families 指「勞工家庭」，呼應低價讓更多人買得起。wor- 補 -king。"
+   },
+   {
+    "word": "Authors",
+    "pos": "n.",
+    "zh": "作者",
+    "why": "句首主詞，後面有 such as Charles Dickens 舉例，狄更斯是小說「作者」。Aut- 補 -hors，字尾 -or 不是 -er。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-15",
+  "blanks": [
+   {
+    "word": "result",
+    "pos": "n.",
+    "zh": "結果",
+    "why": "As a result「因此」是固定的轉折語，說明前一句造成的後果。res- 補 -ult。"
+   },
+   {
+    "word": "time",
+    "pos": "n.",
+    "zh": "時間",
+    "why": "local ___「地方時間」；與首句 set their clocks by the sun 呼應。ti- 補 -me。"
+   },
+   {
+    "word": "differ",
+    "pos": "v.",
+    "zh": "不同",
+    "why": "could 後接原形動詞；differ by + 數量「相差……」。dif- 補 -fer。"
+   },
+   {
+    "word": "several",
+    "pos": "adj.",
+    "zh": "幾個的",
+    "why": "修飾複數名詞 minutes 的數量形容詞。sev- 補 -eral。"
+   },
+   {
+    "word": "between",
+    "pos": "prep.",
+    "zh": "在……之間",
+    "why": "___ nearby cities 比較城市與城市之間的差距。bet- 補 -ween。"
+   },
+   {
+    "word": "cities",
+    "pos": "n.",
+    "zh": "城市",
+    "why": "nearby 後需要複數名詞（between 多個地點）。cit- 補 -ies（city → cities）。"
+   },
+   {
+    "word": "variation",
+    "pos": "n.",
+    "zh": "差異",
+    "why": "This 後需要單數名詞，概括前一句各地時間不同的現象。vari- 補 -ation（vary → variation）。"
+   },
+   {
+    "word": "confusion",
+    "pos": "n.",
+    "zh": "混亂",
+    "why": "caused 後接名詞受詞；時間不一致造成「混亂」。conf- 補 -usion（confuse → confusion）。"
+   },
+   {
+    "word": "trains",
+    "pos": "n.",
+    "zh": "火車",
+    "why": "once ___ began，子句主詞；本段主題是 railways。tra- 補 -ins。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞符號）",
+    "why": "began ___ follow，begin to + 原形動詞。只給 t-，補 o。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-16",
+  "blanks": [
+   {
+    "word": "is",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "It is generally believed that... 是常見學術句型「一般認為」，虛主詞 It 搭配 is。只給 i-，補 s。"
+   },
+   {
+    "word": "believed",
+    "pos": "v.",
+    "zh": "相信（過去分詞）",
+    "why": "is generally ___ that 為被動語態，需要過去分詞。beli- 補 -eved，注意 ie 的順序（i 在 e 前）。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（指楔形文字系統）",
+    "why": "___ system 指首句已提到的楔形文字書寫系統，用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "originated",
+    "pos": "v.",
+    "zh": "起源",
+    "why": "主詞 the system 後需要動詞；originate as「起初是作為……」，過去式。origi- 補 -nated。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "作為",
+    "why": "originated predominantly ___ a means「起初主要作為一種工具」。只給 a-，補 s。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的（a means of）",
+    "why": "a means of + V-ing「做……的方法」是固定搭配（means 單複數同形）。只給 o-，補 f。"
+   },
+   {
+    "word": "economic",
+    "pos": "adj.",
+    "zh": "經濟的",
+    "why": "修飾 transactions 的形容詞；後面舉的穀物和牲畜交付都是「經濟」交易。econ- 補 -omic；別填 economical（節省的）。"
+   },
+   {
+    "word": "such",
+    "pos": "adj.",
+    "zh": "（such as）例如",
+    "why": "___ as 帶出交易的實例。su- 補 -ch。"
+   },
+   {
+    "word": "deliveries",
+    "pos": "n.",
+    "zh": "交付、運送",
+    "why": "such as 後接名詞；of grain and livestock 是交付的內容。deliv- 補 -eries（delivery → deliveries）。"
+   },
+   {
+    "word": "grain",
+    "pos": "n.",
+    "zh": "穀物",
+    "why": "of 後接名詞，與 livestock 並列，都是農牧產品。gr- 補 -ain。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-17",
+  "blanks": [
+   {
+    "word": "their",
+    "pos": "det.",
+    "zh": "它們的（指期刊）",
+    "why": "Before ___ emergence，名詞前需要所有格，指首句 journals 的出現。th- 補 -eir；別寫成 there。"
+   },
+   {
+    "word": "discoveries",
+    "pos": "n.",
+    "zh": "發現",
+    "why": "主詞位置需要複數名詞（配合 were）。disco- 補 -veries（discovery → discoveries）。"
+   },
+   {
+    "word": "predominantly",
+    "pos": "adv.",
+    "zh": "主要地",
+    "why": "were ___ communicated 是被動語態，中間放副詞，表示「主要」靠私人信件傳遞。predom- 補 -inantly。"
+   },
+   {
+    "word": "through",
+    "pos": "prep.",
+    "zh": "透過",
+    "why": "communicated ___ private letters 表示傳遞的管道。thr- 補 -ough；別和 though 或 thorough 混淆。"
+   },
+   {
+    "word": "letters",
+    "pos": "n.",
+    "zh": "信件",
+    "why": "private 後需要名詞；期刊出現前學者靠私人「書信」交流。let- 補 -ters。"
+   },
+   {
+    "word": "meant",
+    "pos": "v.",
+    "zh": "意味著（mean 的過去式）",
+    "why": "which 指前面整件事，需要過去式；mean 是不規則動詞，過去式 meant。me- 補 -ant。"
+   },
+   {
+    "word": "findings",
+    "pos": "n.",
+    "zh": "研究結果",
+    "why": "that 子句的主詞需要名詞，與前面 discoveries 同義；學術上常用複數 findings。find- 補 -ings。"
+   },
+   {
+    "word": "slowly",
+    "pos": "adv.",
+    "zh": "緩慢地",
+    "why": "修飾 circulated 的副詞，後面與 unevenly 並列。slo- 補 -wly。"
+   },
+   {
+    "word": "unevenly",
+    "pos": "adv.",
+    "zh": "不均勻地",
+    "why": "and 連接兩個副詞，結構對稱 slowly and ___；書信只會傳到部分人手上。unev- 補 -enly（un + even + ly）。"
+   },
+   {
+    "word": "scholars",
+    "pos": "n.",
+    "zh": "學者",
+    "why": "among 後接複數名詞，指彼此通信的「學者」們。scho- 補 -lars，字尾 -ar 不是 -er。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-18",
+  "blanks": [
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "In ___ arrangement 指首句的 basso continuo 這種做法，arrangement 為單數。th- 補 -is。"
+   },
+   {
+    "word": "bass",
+    "pos": "n.",
+    "zh": "低音（作修飾語）",
+    "why": "a ___ line「低音聲部」，呼應首句 basso continuo 的 basso。ba- 補 -ss；別寫成 base。"
+   },
+   {
+    "word": "was",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "主詞 a bass line 單數，後接過去分詞 written，過去被動用 was。只給 w-，補 -as。"
+   },
+   {
+    "word": "out",
+    "pos": "adv.",
+    "zh": "（write out）完整寫出",
+    "why": "written ___ in full，write out 表示「全部寫出來」。只給 o-，補 -ut。"
+   },
+   {
+    "word": "full",
+    "pos": "n.",
+    "zh": "全部（in full）",
+    "why": "in full「完整地」為固定片語。fu- 補 -ll，雙 l。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（指上方和聲）",
+    "why": "while ___ harmonies above it，名詞後有 above it 限定，用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "above",
+    "pos": "prep.",
+    "zh": "在……之上",
+    "why": "harmonies ___ it 中的 it 指低音線，和聲位於低音「之上」。ab- 補 -ove。"
+   },
+   {
+    "word": "were",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "主詞 harmonies 為複數，後接 indicated（過去分詞），用 were。we- 補 -re。"
+   },
+   {
+    "word": "only",
+    "pos": "adv.",
+    "zh": "只、僅",
+    "why": "indicated ___ by small numbers，強調和聲沒有完整寫出、只用數字標示，與前面 in full 形成對比。on- 補 -ly。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "___ numbers or symbols，形容詞修飾 numbers。sm- 補 -all。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-19",
+  "blanks": [
+   {
+    "word": "than",
+    "pos": "conj.",
+    "zh": "（rather than）而不是",
+    "why": "Rather ___ + V-ing（relying）為固定片語「不是……而是」。th- 補 -an。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "（rely on）依賴",
+    "why": "relying ___ reports，rely on 為固定搭配。只給 o-，補 n。"
+   },
+   {
+    "word": "collected",
+    "pos": "v.",
+    "zh": "收集（過去分詞）",
+    "why": "reports ___ by travelers 為省略的被動關係子句（which were collected）。coll- 補 -ected，雙寫 l。"
+   },
+   {
+    "word": "travelers",
+    "pos": "n.",
+    "zh": "旅行者",
+    "why": "by 後接名詞，與 missionaries 並列，都是早期提供異文化報告的人。trav- 補 -elers（美式拼法單 l）。"
+   },
+   {
+    "word": "missionaries",
+    "pos": "n.",
+    "zh": "傳教士",
+    "why": "or 連接兩個名詞，travelers or ___。missio- 補 -naries（missionary → missionaries）。"
+   },
+   {
+    "word": "began",
+    "pos": "v.",
+    "zh": "開始",
+    "why": "主詞 researchers 後需要過去式；begin 為不規則動詞 → began，後接動名詞 living。be- 補 -gan。"
+   },
+   {
+    "word": "within",
+    "pos": "prep.",
+    "zh": "在……之內",
+    "why": "living ___ the communities「住在社群之中」，正是 participant observation 的精神。wit- 補 -hin。"
+   },
+   {
+    "word": "communities",
+    "pos": "n.",
+    "zh": "社群",
+    "why": "the 後接複數名詞，後面 they studied 修飾它。commu- 補 -nities（community → communities）。"
+   },
+   {
+    "word": "studied",
+    "pos": "v.",
+    "zh": "研究",
+    "why": "the communities they ___ 為省略 that 的關係子句，需要過去式。stu- 補 -died（study → studied，y 變 i）。"
+   },
+   {
+    "word": "extended",
+    "pos": "adj.",
+    "zh": "長時間的",
+    "why": "for ___ periods「長時間地」是常見搭配。exte- 補 -nded。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-20",
+  "blanks": [
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在……中",
+    "why": "Researchers ___ this field「這個領域的研究者」。只給 i-，補 n。"
+   },
+   {
+    "word": "field",
+    "pos": "n.",
+    "zh": "領域",
+    "why": "this 後需要名詞，指首句的 archaeoastronomy 這門學科。fi- 補 -eld，注意 ie 順序。"
+   },
+   {
+    "word": "whether",
+    "pos": "conj.",
+    "zh": "是否",
+    "why": "examine ___ monuments were aligned... 引導名詞子句「檢驗是否」。whe- 補 -ther。"
+   },
+   {
+    "word": "were",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "主詞 monuments 為複數，後接 aligned（過去分詞），中間插入副詞 deliberately。we- 補 -re。"
+   },
+   {
+    "word": "aligned",
+    "pos": "v.",
+    "zh": "對齊、對準（過去分詞）",
+    "why": "be aligned with「與……對準」為固定搭配。ali- 補 -gned，g 不發音容易漏。"
+   },
+   {
+    "word": "astronomical",
+    "pos": "adj.",
+    "zh": "天文的",
+    "why": "___ events 前需要形容詞；呼應首句 the sky 與後面日出的例子。astron- 補 -omical。"
+   },
+   {
+    "word": "such",
+    "pos": "adj.",
+    "zh": "（such as）例如",
+    "why": "___ as 舉例說明天文事件。su- 補 -ch。"
+   },
+   {
+    "word": "sunrise",
+    "pos": "n.",
+    "zh": "日出",
+    "why": "such as 後接名詞；下一句 midsummer sunrise 也出現。sun- 補 -rise，合成字中間沒有空格。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（最高級前）",
+    "why": "___ longest day 中最高級前要加 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "day",
+    "pos": "n.",
+    "zh": "日、天",
+    "why": "the longest ___ of the year「一年中白晝最長的一天」即夏至。只給 d-，補 -ay。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-21",
+  "blanks": [
+   {
+    "word": "strongest",
+    "pos": "adj.",
+    "zh": "最強的（最高級）",
+    "why": "Its ___ version 與下一句 A weaker form 對照，需要最高級。stro- 補 -ngest。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（非限定關係代名詞）",
+    "why": "逗號後引導非限定關係子句修飾 version，指物不能用 who。wh- 補 -ich。"
+   },
+   {
+    "word": "that",
+    "pos": "conj.",
+    "zh": "引導名詞子句",
+    "why": "claimed ___ language determines thought，that 引導 claimed 的受詞子句。th- 補 -at。"
+   },
+   {
+    "word": "determines",
+    "pos": "v.",
+    "zh": "決定",
+    "why": "that 子句主詞 language 單數，現在式加 -s；強版本說語言「決定」思想，比首句的 influences 更強烈。deter- 補 -mines。"
+   },
+   {
+    "word": "has",
+    "pos": "aux.",
+    "zh": "（現在完成式助動詞）",
+    "why": "主詞 version 單數，has been abandoned 是現在完成式被動。只給 h-，補 -as。"
+   },
+   {
+    "word": "largely",
+    "pos": "adv.",
+    "zh": "大致上",
+    "why": "been ___ abandoned 中修飾過去分詞的副詞。lar- 補 -gely。"
+   },
+   {
+    "word": "by",
+    "pos": "prep.",
+    "zh": "被（帶出行為者）",
+    "why": "被動語態 abandoned ___ researchers 帶出動作的執行者。只給 b-，補 y。"
+   },
+   {
+    "word": "weaker",
+    "pos": "adj.",
+    "zh": "較弱的",
+    "why": "A ___ form 與前句 strongest version 對照，用比較級。wea- 補 -ker。"
+   },
+   {
+    "word": "however",
+    "pos": "adv.",
+    "zh": "然而",
+    "why": "兩個逗號夾住的插入語，表示與前句的轉折：強版本被放棄，弱版本卻有支持。how- 補 -ever。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞符號）",
+    "why": "continues ___ receive，continue to + 原形動詞。只給 t-，補 o。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-22",
+  "blanks": [
+   {
+    "word": "followers",
+    "pos": "n.",
+    "zh": "追隨者",
+    "why": "Its 後接名詞作主詞，指斯多噶學派的「信徒」。foll- 補 -owers。"
+   },
+   {
+    "word": "that",
+    "pos": "conj.",
+    "zh": "引導名詞子句",
+    "why": "maintained ___ happiness depends...「主張……」，that 引導受詞子句。th- 補 -at。"
+   },
+   {
+    "word": "depends",
+    "pos": "v.",
+    "zh": "取決於",
+    "why": "主詞 happiness 為單數、現在式加 -s；depend on 為固定搭配。dep- 補 -ends。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "（depend on）取決於",
+    "why": "depends not ___ external circumstances，not ... but ... 結構中的第一個 on。只給 o-，補 n。"
+   },
+   {
+    "word": "circumstances",
+    "pos": "n.",
+    "zh": "環境、情況",
+    "why": "external 後需要名詞，「外在環境」。circum- 補 -stances，複數。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "（but on）而是取決於",
+    "why": "not on X but on Y 是平行結構，第二個 on 對應前面的 on。只給 o-，補 n。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "連接 virtue 與 rational judgment 兩個名詞。只給 a-，補 -nd。"
+   },
+   {
+    "word": "judgment",
+    "pos": "n.",
+    "zh": "判斷",
+    "why": "rational 後接名詞；美式拼法 judgment（judge 去 e 加 ment）。judg- 補 -ment。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（according to）根據",
+    "why": "According to 是固定片語。只給 t-，補 o。"
+   },
+   {
+    "word": "teaching",
+    "pos": "n.",
+    "zh": "教導、學說",
+    "why": "Stoic 作形容詞，後面接名詞；Stoic teaching「斯多噶學說」。teac- 補 -hing。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-23",
+  "blanks": [
+   {
+    "word": "model",
+    "pos": "n.",
+    "zh": "模型",
+    "why": "This 後需要單數名詞，指哥白尼提出的日心「模型」。mo- 補 -del。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（傳統觀點）",
+    "why": "challenged ___ predominantly accepted view，指特定那個傳統觀點。只給 t-，補 -he。"
+   },
+   {
+    "word": "accepted",
+    "pos": "adj.",
+    "zh": "被接受的",
+    "why": "predominantly ___ view 中，副詞後接過去分詞當形容詞「普遍被接受的」。acce- 補 -pted。"
+   },
+   {
+    "word": "inherited",
+    "pos": "v.",
+    "zh": "繼承（過去分詞）",
+    "why": "view, ___ from... 是省略的被動關係子句，「承襲自」古希臘天文學。inhe- 補 -rited。"
+   },
+   {
+    "word": "ancient",
+    "pos": "adj.",
+    "zh": "古代的",
+    "why": "___ Greek astronomy 需要形容詞。anc- 補 -ient。"
+   },
+   {
+    "word": "astronomy",
+    "pos": "n.",
+    "zh": "天文學",
+    "why": "Greek 後接名詞；本段談行星與太陽。astr- 補 -onomy；別寫 astrology（占星術）。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（the Earth）",
+    "why": "___ Earth 地球作為天體時固定加 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "remained",
+    "pos": "v.",
+    "zh": "保持",
+    "why": "that 子句主詞 the Earth 後需要過去式動詞；remain + 形容詞 motionless。rema- 補 -ined。"
+   },
+   {
+    "word": "at",
+    "pos": "prep.",
+    "zh": "在（某一點）",
+    "why": "___ the center of「在……的中心」。只給 a-，補 t。"
+   },
+   {
+    "word": "center",
+    "pos": "n.",
+    "zh": "中心",
+    "why": "the ___ of the universe；美式拼法 center（英式 centre）。cen- 補 -ter。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-24",
+  "blanks": [
+   {
+    "word": "approach",
+    "pos": "n.",
+    "zh": "方法、作法",
+    "why": "Their 後接名詞作主詞，指印象派畫家的作畫「方式」。appr- 補 -oach，注意 approach 雙寫 p。"
+   },
+   {
+    "word": "considerably",
+    "pos": "adv.",
+    "zh": "相當地",
+    "why": "was ___ facilitated，被動語態中間的程度副詞。consid- 補 -erably。"
+   },
+   {
+    "word": "by",
+    "pos": "prep.",
+    "zh": "藉由（帶出原因）",
+    "why": "facilitated ___ the invention 帶出促成的原因。只給 b-，補 y。"
+   },
+   {
+    "word": "invention",
+    "pos": "n.",
+    "zh": "發明",
+    "why": "the ___ of ...「……的發明」，需要名詞。inve- 補 -ntion（invent → invention）。"
+   },
+   {
+    "word": "collapsible",
+    "pos": "adj.",
+    "zh": "可壓扁的",
+    "why": "of 與 metal paint tubes 之間需要形容詞，描述可擠壓的軟管。colla- 補 -psible，字尾是 -ible 不是 -able。"
+   },
+   {
+    "word": "paint",
+    "pos": "n.",
+    "zh": "顏料（作修飾語）",
+    "why": "metal ___ tubes「金屬顏料管」，名詞修飾名詞。pa- 補 -int。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（非限定關係代名詞）",
+    "why": "逗號後 ___ allowed 修飾 tubes，指物用 which。wh- 補 -ich。"
+   },
+   {
+    "word": "artists",
+    "pos": "n.",
+    "zh": "畫家、藝術家",
+    "why": "allow sb to do 句型，受詞是「畫家」。art- 補 -ists。"
+   },
+   {
+    "word": "carry",
+    "pos": "v.",
+    "zh": "攜帶",
+    "why": "to 後接原形動詞；carry colors outdoors「把顏料帶到戶外」，呼應下一句過去只能在畫室調色。ca- 補 -rry。"
+   },
+   {
+    "word": "colors",
+    "pos": "n.",
+    "zh": "顏料",
+    "why": "prepared 後接名詞，指預先調好的「顏料」。col- 補 -ors。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-25",
+  "blanks": [
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（圓頂的開口）",
+    "why": "Because ___ opening 指這座圓頂的開口，特定事物用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "was",
+    "pos": "v.",
+    "zh": "是",
+    "why": "主詞 the opening 單數，過去式 be 動詞用 was，後接 too wide。只給 w-，補 -as。"
+   },
+   {
+    "word": "wide",
+    "pos": "adj.",
+    "zh": "寬的",
+    "why": "too ___ for「太寬而無法用……」，too + 形容詞。wi- 補 -de。"
+   },
+   {
+    "word": "conventional",
+    "pos": "adj.",
+    "zh": "傳統的",
+    "why": "for ___ wooden supports，形容詞修飾 supports；與後面 innovative 對比。conven- 補 -tional。"
+   },
+   {
+    "word": "supports",
+    "pos": "n.",
+    "zh": "支撐物",
+    "why": "wooden 後需要名詞（木製支架）。supp- 補 -orts，雙寫 p。"
+   },
+   {
+    "word": "architect",
+    "pos": "n.",
+    "zh": "建築師",
+    "why": "its 後接名詞作主詞，指首句的 Brunelleschi。arch- 補 -itect。"
+   },
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個（母音前）",
+    "why": "___ innovative，innovative 以母音 i 開頭，所以用 an。只給 a-，補 n。"
+   },
+   {
+    "word": "construction",
+    "pos": "n.",
+    "zh": "建造、施工",
+    "why": "innovative ___ method，名詞修飾名詞「施工方法」。constr- 補 -uction。"
+   },
+   {
+    "word": "He",
+    "pos": "pron.",
+    "zh": "他",
+    "why": "句首主詞指前一句的 architect。只給 H-，補 e。"
+   },
+   {
+    "word": "two",
+    "pos": "num.",
+    "zh": "二",
+    "why": "___ connected shells，複數 shells 前需要數詞，即「雙層殼」。只給 t-，補 -wo；別填 too。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-26",
+  "blanks": [
+   {
+    "word": "stone",
+    "pos": "n.",
+    "zh": "石頭、石碑",
+    "why": "The ___ contains 的主詞，指首句的 Rosetta Stone。st- 補 -one。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（the same）",
+    "why": "___ same 為固定用法 the same「同一個」。只給 t-，補 -he。"
+   },
+   {
+    "word": "decree",
+    "pos": "n.",
+    "zh": "法令、詔書",
+    "why": "the same ___ written in...，需要名詞。dec- 補 -ree，雙寫 e。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "以（某種文字）",
+    "why": "written ___ three scripts「以三種文字書寫」。只給 i-，補 n。"
+   },
+   {
+    "word": "different",
+    "pos": "adj.",
+    "zh": "不同的",
+    "why": "three ___ scripts，形容詞修飾 scripts。diff- 補 -erent，雙寫 f。"
+   },
+   {
+    "word": "namely",
+    "pos": "adv.",
+    "zh": "即、也就是",
+    "why": "逗號後列出三種文字的具體名稱，用 namely 引出。nam- 補 -ely。"
+   },
+   {
+    "word": "demotic",
+    "pos": "adj.",
+    "zh": "世俗體的",
+    "why": "列舉的第二種文字，與 hieroglyphic 並列，同樣以 -ic 結尾。dem- 補 -otic。"
+   },
+   {
+    "word": "ancient",
+    "pos": "adj.",
+    "zh": "古代的",
+    "why": "and ___ Greek，修飾 Greek 的形容詞。anc- 補 -ient。"
+   },
+   {
+    "word": "Because",
+    "pos": "conj.",
+    "zh": "因為",
+    "why": "句首連接詞引導原因子句，主句是 scholars could compare。Bec- 補 -ause。"
+   },
+   {
+    "word": "was",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "主詞 Greek 單數，was well understood 為過去被動。只給 w-，補 -as。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-27",
+  "blanks": [
+   {
+    "word": "writers",
+    "pos": "n.",
+    "zh": "作家",
+    "why": "Romantic 後需要名詞作主詞，文學運動中的「作家」。wri- 補 -ters。"
+   },
+   {
+    "word": "emphasized",
+    "pos": "v.",
+    "zh": "強調",
+    "why": "副詞 predominantly 後接過去式動詞。empha- 補 -sized（美式 -ize）。"
+   },
+   {
+    "word": "imagination",
+    "pos": "n.",
+    "zh": "想像力",
+    "why": "與 emotion 並列的名詞，列舉浪漫主義重視的事物。imagi- 補 -nation。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（個人經驗）",
+    "why": "___ individual experience of...，名詞後有 of 片語限定，用 the。只給 t-，補 -he。"
+   },
+   {
+    "word": "experience",
+    "pos": "n.",
+    "zh": "經驗、體驗",
+    "why": "individual 後需要名詞。exper- 補 -ience。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（the natural world）",
+    "why": "of ___ natural world，the natural world「自然界」是固定說法。只給 t-，補 -he。"
+   },
+   {
+    "word": "world",
+    "pos": "n.",
+    "zh": "世界",
+    "why": "the natural ___ =「自然界」。wo- 補 -rld；別填 word。"
+   },
+   {
+    "word": "than",
+    "pos": "conj.",
+    "zh": "（rather than）而非",
+    "why": "rather ___ reason，浪漫主義重情感而非理性，呼應首句 reaction against rationalism。th- 補 -an。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（for example）例如",
+    "why": "___ example 為舉例的固定片語，句首大寫。只給 F-，補 -or。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（頭銜前）",
+    "why": "___ poet William Wordsworth，人名前的身分頭銜加 the。只給 t-，補 -he。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-28",
+  "blanks": [
+   {
+    "word": "designs",
+    "pos": "n.",
+    "zh": "設計",
+    "why": "Early 後需要名詞作主詞，配合複數 were。des- 補 -igns，g 不發音。"
+   },
+   {
+    "word": "extremely",
+    "pos": "adv.",
+    "zh": "極其",
+    "why": "were ___ inefficient 中修飾形容詞的副詞。extr- 補 -emely。"
+   },
+   {
+    "word": "since",
+    "pos": "conj.",
+    "zh": "因為",
+    "why": "逗號後連接詞引出效率低的原因。si- 補 -nce。"
+   },
+   {
+    "word": "main",
+    "pos": "adj.",
+    "zh": "主要的",
+    "why": "the ___ cylinder「主汽缸」，與後文 separate condenser 相對。ma- 補 -in。"
+   },
+   {
+    "word": "was",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "主詞 cylinder 單數，後接 heated（過去分詞），過去被動用 was。只給 w-，補 -as。"
+   },
+   {
+    "word": "heated",
+    "pos": "v.",
+    "zh": "加熱（過去分詞）",
+    "why": "was repeatedly ___ by steam，與後面 cooled 相對。hea- 補 -ted。"
+   },
+   {
+    "word": "steam",
+    "pos": "n.",
+    "zh": "蒸汽",
+    "why": "by ___，主題是 steam engines。st- 補 -eam。"
+   },
+   {
+    "word": "then",
+    "pos": "adv.",
+    "zh": "然後",
+    "why": "and ___ cooled 表示先後順序：先加熱再冷卻。th- 補 -en；別寫成 than。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞，表目的）",
+    "why": "cooled ___ condense it，to + 原形動詞表示目的「以便冷凝」。只給 t-，補 o。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指蒸汽）",
+    "why": "condense ___ 的受詞，指前面的 steam。只給 i-，補 t。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-29",
+  "blanks": [
+   {
+    "word": "tooth",
+    "pos": "n.",
+    "zh": "牙齒（作修飾語）",
+    "why": "___ enamel「牙釉質」，名詞修飾名詞時用單數 tooth（不是 teeth）。to- 補 -oth。"
+   },
+   {
+    "word": "forms",
+    "pos": "v.",
+    "zh": "形成",
+    "why": "As tooth enamel ___，子句主詞單數、現在式加 -s。fo- 補 -rms。"
+   },
+   {
+    "word": "incorporates",
+    "pos": "v.",
+    "zh": "納入、吸收",
+    "why": "主詞 it 單數加 -s；incorporate elements「把元素納入」。incorp- 補 -orates。"
+   },
+   {
+    "word": "such",
+    "pos": "adj.",
+    "zh": "（such as）例如",
+    "why": "elements ___ as strontium，舉例說明元素。su- 補 -ch。"
+   },
+   {
+    "word": "strontium",
+    "pos": "n.",
+    "zh": "鍶",
+    "why": "such as 後接化學元素名稱，可由 elements 推知。stro- 補 -ntium，字尾 -ium 是元素名稱常見字尾。"
+   },
+   {
+    "word": "local",
+    "pos": "adj.",
+    "zh": "當地的",
+    "why": "___ food and water，強調來自「當地」，所以能反映居住地點。lo- 補 -cal。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "連接 food 與 water 兩個名詞。只給 a-，補 -nd。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（非限定關係代名詞）",
+    "why": "逗號後 ___ reflect，指前面的複數 elements，所以動詞 reflect 不加 -s。wh- 補 -ich。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞（當地地質）",
+    "why": "reflect ___ underlying geology，特指當地的地質。只給 t-，補 -he。"
+   },
+   {
+    "word": "geology",
+    "pos": "n.",
+    "zh": "地質",
+    "why": "underlying 後需要名詞，「下方的地質」；後文 comparing this signature with the geology 再次出現。geo- 補 -logy。"
+   }
+  ]
+ },
+ {
+  "id": "ct3-30",
+  "blanks": [
+   {
+    "word": "thin",
+    "pos": "adj.",
+    "zh": "薄的",
+    "why": "___ slices of cork，形容詞修飾 slices；顯微觀察需要「薄」片才能透光。th- 補 -in。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "slices ___ cork「軟木的切片」。只給 o-，補 f。"
+   },
+   {
+    "word": "were",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞）",
+    "why": "主詞 slices 為複數，後接 examined（過去分詞）。we- 補 -re。"
+   },
+   {
+    "word": "under",
+    "pos": "prep.",
+    "zh": "在……之下",
+    "why": "examined ___ lenses「在鏡片下觀察」。un- 補 -der。"
+   },
+   {
+    "word": "magnifying",
+    "pos": "adj.",
+    "zh": "放大的",
+    "why": "early ___ lenses「放大鏡片」，呼應首句 microscope。magni- 補 -fying（magnify + ing，y 保留）。"
+   },
+   {
+    "word": "tiny",
+    "pos": "adj.",
+    "zh": "微小的",
+    "why": "___ compartments，形容詞修飾名詞；肉眼看不見的小隔間。ti- 補 -ny。"
+   },
+   {
+    "word": "were",
+    "pos": "aux.",
+    "zh": "（被動語態 be 動詞，第二次）",
+    "why": "主詞 compartments 為複數，後接 observed；與前面 were examined 是相同結構。we- 補 -re。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（非限定關係代名詞）",
+    "why": "逗號後 ___ were subsequently named，指前面的 compartments。wh- 補 -ich。"
+   },
+   {
+    "word": "subsequently",
+    "pos": "adv.",
+    "zh": "隨後",
+    "why": "were ___ named 中間的副詞，表示時間上「後來」。subseq- 補 -uently。"
+   },
+   {
+    "word": "cells",
+    "pos": "n.",
+    "zh": "細胞",
+    "why": "named ___ 後接名稱，就是生物學的「細胞」。ce- 補 -lls；別寫成 sells。"
+   }
+  ]
+ }
+]

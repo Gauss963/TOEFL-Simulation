@@ -53,7 +53,10 @@ jobs:
 
           test -d "$APP_PATH"
           test -x "$APP_PATH/Contents/MacOS/TOEFL Simulation"
-          test -s "$APP_PATH/Contents/Resources/ExpandedQuestionBank.json"
+          test -s "$APP_PATH/Contents/Resources/TOEFL2026Bank.json"
+          test -s "$APP_PATH/Contents/Resources/ExamAudio.json"
+          test -s "$APP_PATH/Contents/Resources/ExamAudio.pack"
+          test -s "$APP_PATH/Contents/Resources/WordPronunciations.pack"
 
           version=$(/usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" "$APP_PATH/Contents/Info.plist")
           build=$(/usr/libexec/PlistBuddy -c "Print :CFBundleVersion" "$APP_PATH/Contents/Info.plist")

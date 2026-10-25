@@ -290,6 +290,9 @@ enum TOEFLQuestionBank {
             if question.taskType.isListeningStimulus || question.section == .speaking {
                 if !TOEFLExamAudio.hasClip(question.audioKey) { issues.append("\(question.id) has no recording.") }
             }
+            if question.taskType == .completeWords, question.wordGloss == nil || question.blankReason == nil || question.partOfSpeech == nil {
+                issues.append("\(question.id) has no study notes.")
+            }
             if question.taskType == .buildSentence {
                 let blanks = (question.sentenceTemplate ?? "").components(separatedBy: "___").count - 1
                 if blanks != question.correctSentenceTokens.count { issues.append("\(question.id) blank count mismatch.") }
