@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "cr-c-001",
+    "difficulty": "foundational",
+    "audioScript": "Where can I pick up my new dorm key?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sometime after ten tomorrow morning."
+      },
+      {
+        "id": "B",
+        "text": "My roommate lost hers last week."
+      },
+      {
+        "id": "C",
+        "text": "I think the door was already unlocked."
+      },
+      {
+        "id": "D",
+        "text": "At the front desk in the housing office."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key names a location for a where-question, while \"Sometime after ten tomorrow morning\" answers when instead of where."
+  },
+  {
+    "id": "cr-c-002",
+    "difficulty": "foundational",
+    "audioScript": "What time does the dining hall close tonight?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Nine, but the grill stops at eight-thirty."
+      },
+      {
+        "id": "B",
+        "text": "It's right next to the library."
+      },
+      {
+        "id": "C",
+        "text": "The hall was really crowded at lunch."
+      },
+      {
+        "id": "D",
+        "text": "I had the pasta there last night."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key gives a closing time, whereas \"It's right next to the library\" answers where the hall is rather than when it closes."
+  },
+  {
+    "id": "cr-c-003",
+    "difficulty": "foundational",
+    "audioScript": "Is the laundry room in the basement?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It costs two dollars a load, I believe."
+      },
+      {
+        "id": "B",
+        "text": "The basement flooded pretty badly a few years ago."
+      },
+      {
+        "id": "C",
+        "text": "I usually wash my clothes on Sundays."
+      },
+      {
+        "id": "D",
+        "text": "No, it's on the ground floor by the mailboxes."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key corrects the location directly, while \"The basement flooded pretty badly a few years ago\" only echoes the word basement."
+  },
+  {
+    "id": "cr-c-004",
+    "difficulty": "foundational",
+    "audioScript": "Could you turn your music down a little?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It's a new album I just downloaded last night."
+      },
+      {
+        "id": "B",
+        "text": "I'll turn left at the next corner, then."
+      },
+      {
+        "id": "C",
+        "text": "Oh, sorry, I didn't realize it was that loud."
+      },
+      {
+        "id": "D",
+        "text": "The music room closes at ten."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key apologizes and accepts the request, while \"I'll turn left at the next corner\" repeats the word turn with an unrelated meaning."
+  },
+  {
+    "id": "cr-c-005",
+    "difficulty": "foundational",
+    "audioScript": "Who do I talk to about a broken heater?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I talked to her yesterday afternoon."
+      },
+      {
+        "id": "B",
+        "text": "Submit a request to the maintenance staff."
+      },
+      {
+        "id": "C",
+        "text": "It's been freezing in here all week."
+      },
+      {
+        "id": "D",
+        "text": "The heater is under the window."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key tells the speaker whom to contact, whereas \"The heater is under the window\" gives a location instead of a person."
+  },
+  {
+    "id": "cr-c-006",
+    "difficulty": "foundational",
+    "audioScript": "Does the meal plan include weekend breakfast?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I usually skip breakfast anyway."
+      },
+      {
+        "id": "B",
+        "text": "The plan costs more this semester."
+      },
+      {
+        "id": "C",
+        "text": "No, weekend meals start at eleven."
+      },
+      {
+        "id": "D",
+        "text": "I'd like eggs and toast, please."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key answers whether breakfast is covered, while \"I'd like eggs and toast, please\" is an order that echoes breakfast but answers nothing."
+  },
+  {
+    "id": "cr-c-007",
+    "difficulty": "foundational",
+    "audioScript": "How late is the gym open on Fridays?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It's across from the swimming pool."
+      },
+      {
+        "id": "B",
+        "text": "I went there last Friday."
+      },
+      {
+        "id": "C",
+        "text": "About forty minutes on the treadmill."
+      },
+      {
+        "id": "D",
+        "text": "Until midnight, same as on weekdays."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key gives a closing time, while \"About forty minutes on the treadmill\" answers how long someone exercises, not how late the gym is open."
+  },
+  {
+    "id": "cr-c-008",
+    "difficulty": "foundational",
+    "audioScript": "I can help you carry those boxes upstairs.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I bought these boxes at the hardware store."
+      },
+      {
+        "id": "B",
+        "text": "The moving company charged us too much."
+      },
+      {
+        "id": "C",
+        "text": "Thanks, the heavy ones are by the door."
+      },
+      {
+        "id": "D",
+        "text": "The stairs were just repainted."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key accepts the offer and gives a useful detail, while \"The stairs were just repainted\" only echoes upstairs."
+  },
+  {
+    "id": "cr-c-009",
+    "difficulty": "foundational",
+    "audioScript": "Did you get a flu shot at the health center?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I think flu season starts in October."
+      },
+      {
+        "id": "B",
+        "text": "I'll probably catch a cold this winter."
+      },
+      {
+        "id": "C",
+        "text": "The health center is near the stadium."
+      },
+      {
+        "id": "D",
+        "text": "Yes, and it only took about ten minutes."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key confirms and adds a detail, while \"The health center is near the stadium\" repeats the place name but answers where, not whether."
+  },
+  {
+    "id": "cr-c-010",
+    "difficulty": "foundational",
+    "audioScript": "Please sign the guest log before you go upstairs.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'll sign up for that class later this week."
+      },
+      {
+        "id": "B",
+        "text": "Of course. Do I need my ID too?"
+      },
+      {
+        "id": "C",
+        "text": "The guests left about an hour ago, I think."
+      },
+      {
+        "id": "D",
+        "text": "The stairs are on the left."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key complies and asks a relevant follow-up, while \"I'll sign up for that class later\" reuses sign in a different sense."
+  },
+  {
+    "id": "cr-c-011",
+    "difficulty": "foundational",
+    "audioScript": "Which café sells the cheapest coffee on campus?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Probably the cart outside the science building."
+      },
+      {
+        "id": "B",
+        "text": "Because the beans are imported."
+      },
+      {
+        "id": "C",
+        "text": "I drink about two cups a day."
+      },
+      {
+        "id": "D",
+        "text": "It usually sells out by noon."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key identifies a specific place, while \"Because the beans are imported\" answers a why-question instead of which."
+  },
+  {
+    "id": "cr-c-012",
+    "difficulty": "foundational",
+    "audioScript": "Are pets allowed in the residence halls?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "She's allowed to stay out late."
+      },
+      {
+        "id": "B",
+        "text": "Just fish in small tanks, I believe."
+      },
+      {
+        "id": "C",
+        "text": "I'd love to adopt a cat someday."
+      },
+      {
+        "id": "D",
+        "text": "The halls are cleaned every Tuesday."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key states what the rule permits, while \"She's allowed to stay out late\" echoes allowed but is about a different person and topic."
+  },
+  {
+    "id": "cr-c-013",
+    "difficulty": "foundational",
+    "audioScript": "The washing machine ate my quarters again.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "My machine learning class is hard."
+      },
+      {
+        "id": "B",
+        "text": "Spring quarter ends in early June this year."
+      },
+      {
+        "id": "C",
+        "text": "You should report it to the front desk."
+      },
+      {
+        "id": "D",
+        "text": "I'll wash the dishes right after dinner tonight."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key offers a sensible fix for the broken machine, while \"Spring quarter ends in early June\" plays on quarters as a school term."
+  },
+  {
+    "id": "cr-c-014",
+    "difficulty": "foundational",
+    "audioScript": "When are quiet hours on weeknights?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "From ten p.m. until eight the next morning."
+      },
+      {
+        "id": "B",
+        "text": "Because a lot of people have early classes."
+      },
+      {
+        "id": "C",
+        "text": "In all of the residence halls on campus."
+      },
+      {
+        "id": "D",
+        "text": "It was really quiet last weekend."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key gives the time span, while \"In all of the residence halls on campus\" answers where rather than when."
+  },
+  {
+    "id": "cr-c-015",
+    "difficulty": "foundational",
+    "audioScript": "Can you save me a seat at lunch?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Lunch is my favorite meal of the day."
+      },
+      {
+        "id": "B",
+        "text": "The seats in the lecture hall are hard."
+      },
+      {
+        "id": "C",
+        "text": "I saved a lot on my meal plan."
+      },
+      {
+        "id": "D",
+        "text": "Sure, I'll be at the table by the window."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key agrees and tells the speaker where to look, while \"I saved a lot on my meal plan\" reuses save with a different meaning."
+  },
+  {
+    "id": "cr-c-016",
+    "difficulty": "foundational",
+    "audioScript": "Do I need an appointment at the health center?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It's next to the campus bookstore."
+      },
+      {
+        "id": "B",
+        "text": "Not during the morning walk-in hours."
+      },
+      {
+        "id": "C",
+        "text": "I had a checkup there last spring."
+      },
+      {
+        "id": "D",
+        "text": "The appointment went really well."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key answers whether an appointment is required, while \"The appointment went really well\" echoes appointment but refers to a past visit."
+  },
+  {
+    "id": "cr-c-017",
+    "difficulty": "foundational",
+    "audioScript": "How much does a gym locker cost?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Near the entrance to the weight room."
+      },
+      {
+        "id": "B",
+        "text": "I lost my lock there last week."
+      },
+      {
+        "id": "C",
+        "text": "Twenty dollars for the whole semester."
+      },
+      {
+        "id": "D",
+        "text": "It takes five minutes to sign up."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key states a price, while \"It takes five minutes to sign up\" answers how long instead of how much."
+  },
+  {
+    "id": "cr-c-018",
+    "difficulty": "foundational",
+    "audioScript": "Want me to grab you a sandwich from the café?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "That'd be great, turkey if they have it."
+      },
+      {
+        "id": "B",
+        "text": "The café is open until ten."
+      },
+      {
+        "id": "C",
+        "text": "I grabbed my keys before leaving."
+      },
+      {
+        "id": "D",
+        "text": "She made a sign for the bake sale."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key accepts the offer with a specific choice, while \"I grabbed my keys before leaving\" only repeats the verb grab."
+  },
+  {
+    "id": "cr-c-019",
+    "difficulty": "foundational",
+    "audioScript": "Has the elevator been fixed yet?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I fixed my bike last weekend."
+      },
+      {
+        "id": "B",
+        "text": "Not yet, so we're still taking the stairs."
+      },
+      {
+        "id": "C",
+        "text": "It's on the north side of the lobby."
+      },
+      {
+        "id": "D",
+        "text": "The elevator music is so annoying."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key answers the status question directly, while \"I fixed my bike last weekend\" echoes fixed but is about something else."
+  },
+  {
+    "id": "cr-c-020",
+    "difficulty": "foundational",
+    "audioScript": "Where's the recycling bin for this floor?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "This floor is a lot quieter than mine."
+      },
+      {
+        "id": "B",
+        "text": "Plastic and glass go in together."
+      },
+      {
+        "id": "C",
+        "text": "Next to the vending machines by the stairwell."
+      },
+      {
+        "id": "D",
+        "text": "They pick it up every Thursday morning, I think."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key gives a location, while \"They pick it up every Thursday morning\" answers when pickup happens, not where the bin is."
+  },
+  {
+    "id": "cr-c-021",
+    "difficulty": "foundational",
+    "audioScript": "Would you mind closing the window? It's chilly.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It's sunny, but rain is coming later."
+      },
+      {
+        "id": "B",
+        "text": "I'd rather have chili for dinner."
+      },
+      {
+        "id": "C",
+        "text": "The windows were washed yesterday."
+      },
+      {
+        "id": "D",
+        "text": "Not at all. I was getting cold myself."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key agrees to the request, while \"I'd rather have chili for dinner\" is a sound-alike trap on chilly."
+  },
+  {
+    "id": "cr-c-022",
+    "difficulty": "foundational",
+    "audioScript": "Who's running the floor meeting tonight?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our resident assistant is leading it."
+      },
+      {
+        "id": "B",
+        "text": "I charged my phone during the meeting."
+      },
+      {
+        "id": "C",
+        "text": "We met in the lobby last semester."
+      },
+      {
+        "id": "D",
+        "text": "At seven in the common room."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key names a person, while \"At seven in the common room\" gives a time and place instead of who."
+  },
+  {
+    "id": "cr-c-023",
+    "difficulty": "foundational",
+    "audioScript": "Is there a vegetarian option at dinner today?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Today is the last day of classes."
+      },
+      {
+        "id": "B",
+        "text": "I'm thinking of becoming vegetarian."
+      },
+      {
+        "id": "C",
+        "text": "The dining hall seats three hundred people."
+      },
+      {
+        "id": "D",
+        "text": "Yes, a lentil curry at the main counter."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key confirms and names the dish, while \"I'm thinking of becoming vegetarian\" echoes the topic but doesn't answer."
+  },
+  {
+    "id": "cr-c-024",
+    "difficulty": "foundational",
+    "audioScript": "I finally got a single room for next year!",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Congratulations! No more sharing a closet."
+      },
+      {
+        "id": "B",
+        "text": "I got mine at the bookstore."
+      },
+      {
+        "id": "C",
+        "text": "The room numbers start at one hundred."
+      },
+      {
+        "id": "D",
+        "text": "Next year I'm taking chemistry."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key reacts appropriately to good news, while \"Next year I'm taking chemistry\" only repeats next year."
+  },
+  {
+    "id": "cr-c-025",
+    "difficulty": "foundational",
+    "audioScript": "Why is the pool closed this week?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I usually swim early in the morning."
+      },
+      {
+        "id": "B",
+        "text": "Until next Monday, according to the sign."
+      },
+      {
+        "id": "C",
+        "text": "They're replacing the filter system."
+      },
+      {
+        "id": "D",
+        "text": "It's closer than the old one."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key gives a reason, while \"Until next Monday, according to the sign\" answers how long instead of why, and \"closer\" is a sound-alike of closed."
+  },
+  {
+    "id": "cr-c-026",
+    "difficulty": "foundational",
+    "audioScript": "Can you show me how to use the dryer?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "My hair dryer broke this morning."
+      },
+      {
+        "id": "B",
+        "text": "It shows the time left on the little screen."
+      },
+      {
+        "id": "C",
+        "text": "I used it for about an hour yesterday."
+      },
+      {
+        "id": "D",
+        "text": "Sure, just tap your card and pick a cycle."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key explains the steps, while \"My hair dryer broke this morning\" echoes dryer but refers to a different machine."
+  },
+  {
+    "id": "cr-c-027",
+    "difficulty": "foundational",
+    "audioScript": "Did you sign up for the yoga class?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It starts at nine on Tuesdays."
+      },
+      {
+        "id": "B",
+        "text": "The yoga mats are in the closet."
+      },
+      {
+        "id": "C",
+        "text": "I tried, but it was already full."
+      },
+      {
+        "id": "D",
+        "text": "I'll sign the form for you."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key indirectly says no and explains why, while \"It starts at nine on Tuesdays\" answers when rather than whether."
+  },
+  {
+    "id": "cr-c-028",
+    "difficulty": "foundational",
+    "audioScript": "How do I add money to my meal card?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I usually spend about fifty dollars a week."
+      },
+      {
+        "id": "B",
+        "text": "You can do it on the student portal."
+      },
+      {
+        "id": "C",
+        "text": "The meals here are pretty good."
+      },
+      {
+        "id": "D",
+        "text": "I lost my card once last semester, actually."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key explains the method, while \"I usually spend about fifty dollars a week\" answers how much instead of how."
+  },
+  {
+    "id": "cr-c-029",
+    "difficulty": "foundational",
+    "audioScript": "My roommate keeps leaving dirty dishes in the sink.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Plates are cheap at the campus store."
+      },
+      {
+        "id": "B",
+        "text": "I'll keep the leftovers for tomorrow."
+      },
+      {
+        "id": "C",
+        "text": "Maybe you two should make a cleaning schedule."
+      },
+      {
+        "id": "D",
+        "text": "The sink was installed last year."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key responds to the complaint with a practical suggestion, while \"I'll keep the leftovers for tomorrow\" only repeats keep."
+  },
+  {
+    "id": "cr-c-030",
+    "difficulty": "foundational",
+    "audioScript": "Is the shuttle to the rec center running today?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yes, but on the weekend schedule."
+      },
+      {
+        "id": "B",
+        "text": "The center has a new climbing wall."
+      },
+      {
+        "id": "C",
+        "text": "I ran three miles at the rec center."
+      },
+      {
+        "id": "D",
+        "text": "It's free with a student ID."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key confirms service with a key detail, while \"I ran three miles at the rec center\" echoes running in a different sense."
+  },
+  {
+    "id": "cr-c-031",
+    "difficulty": "foundational",
+    "audioScript": "What's in the soup of the day?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'd rather have a salad, thanks."
+      },
+      {
+        "id": "B",
+        "text": "Chicken, rice, and a few vegetables."
+      },
+      {
+        "id": "C",
+        "text": "A day or two at most."
+      },
+      {
+        "id": "D",
+        "text": "It's served in a large bowl."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key lists ingredients, while \"A day or two at most\" echoes day and answers how long."
+  },
+  {
+    "id": "cr-c-032",
+    "difficulty": "foundational",
+    "audioScript": "I'll lend you my vacuum if you need it.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The vacuum was really loud yesterday."
+      },
+      {
+        "id": "B",
+        "text": "My bank approved a student loan."
+      },
+      {
+        "id": "C",
+        "text": "Thanks, I'll bring it back by tonight."
+      },
+      {
+        "id": "D",
+        "text": "I lent my notes to a classmate."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key accepts the offer and promises to return it, while \"My bank approved a student loan\" is a sound-alike trap on lend."
+  },
+  {
+    "id": "cr-c-033",
+    "difficulty": "foundational",
+    "audioScript": "Which floor is the nurse's office on?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The floors were just mopped."
+      },
+      {
+        "id": "B",
+        "text": "Because the clinic moved last year."
+      },
+      {
+        "id": "C",
+        "text": "She works there Mondays and Wednesdays."
+      },
+      {
+        "id": "D",
+        "text": "The second, right off the elevators."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key names the floor, while \"She works there Mondays and Wednesdays\" answers when rather than which floor."
+  },
+  {
+    "id": "cr-c-034",
+    "difficulty": "foundational",
+    "audioScript": "Please remember to lock the door when you leave.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The door is made of solid oak."
+      },
+      {
+        "id": "B",
+        "text": "I still remember the day we moved in."
+      },
+      {
+        "id": "C",
+        "text": "Will do. Should I leave the hall light on?"
+      },
+      {
+        "id": "D",
+        "text": "I think I left my lock at the gym."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key agrees and asks a related question, while \"I still remember the day we moved in\" only echoes remember."
+  },
+  {
+    "id": "cr-c-035",
+    "difficulty": "intermediate",
+    "audioScript": "When does the van for summer storage come by our building?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "In front of the east entrance."
+      },
+      {
+        "id": "B",
+        "text": "Not sure. The schedule's on the lobby bulletin board."
+      },
+      {
+        "id": "C",
+        "text": "It holds about fifty boxes at once."
+      },
+      {
+        "id": "D",
+        "text": "I stored my winter clothes in the closet."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key admits uncertainty but points to where the time is posted, while \"In front of the east entrance\" answers where instead of when."
+  },
+  {
+    "id": "cr-c-036",
+    "difficulty": "intermediate",
+    "audioScript": "The dining hall switched to reusable containers, didn't it?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The containers are stacked in the kitchen."
+      },
+      {
+        "id": "B",
+        "text": "I usually eat dinner there around six or so."
+      },
+      {
+        "id": "C",
+        "text": "I might switch my major to biology next year."
+      },
+      {
+        "id": "D",
+        "text": "Right, you get a token when you return one."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key confirms and adds how the system works, while \"I might switch my major to biology\" echoes switched in an unrelated sense."
+  },
+  {
+    "id": "cr-c-037",
+    "difficulty": "intermediate",
+    "audioScript": "Aren't you going to the floor barbecue tonight?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'd like to, but I have a lab report due."
+      },
+      {
+        "id": "B",
+        "text": "We had burgers and corn there last weekend."
+      },
+      {
+        "id": "C",
+        "text": "The floor just got brand-new carpet last month."
+      },
+      {
+        "id": "D",
+        "text": "It's on the patio behind the building, I think."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key gives an indirect no with a reason, while \"It's on the patio behind the building\" answers where instead of whether."
+  },
+  {
+    "id": "cr-c-038",
+    "difficulty": "intermediate",
+    "audioScript": "Why don't we split the cost of a mini-fridge?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I split my jeans moving that couch upstairs."
+      },
+      {
+        "id": "B",
+        "text": "Good idea, as long as it fits under the desk."
+      },
+      {
+        "id": "C",
+        "text": "The fridge was delivered on Tuesday."
+      },
+      {
+        "id": "D",
+        "text": "The cost of living here keeps going up every year."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key accepts the suggestion with a condition, while \"I split my jeans moving that couch\" echoes split with a different meaning."
+  },
+  {
+    "id": "cr-c-039",
+    "difficulty": "intermediate",
+    "audioScript": "Is the health center open on Sunday afternoons?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The health fair is next month in the gym."
+      },
+      {
+        "id": "B",
+        "text": "I went there on a Sunday morning."
+      },
+      {
+        "id": "C",
+        "text": "Only the urgent care side, from noon to four."
+      },
+      {
+        "id": "D",
+        "text": "It's open to faculty and staff as well."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key gives a qualified yes with hours, while \"It's open to faculty and staff as well\" reuses open to answer who, not when."
+  },
+  {
+    "id": "cr-c-040",
+    "difficulty": "intermediate",
+    "audioScript": "If you're heading to the laundry room, I can take your basket.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The laundry room has six washers."
+      },
+      {
+        "id": "B",
+        "text": "My basket broke when we moved in."
+      },
+      {
+        "id": "C",
+        "text": "I'm heading home for the holidays."
+      },
+      {
+        "id": "D",
+        "text": "Thanks, but I still have one load drying."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key politely declines with a reason, while \"I'm heading home for the holidays\" echoes heading in a different context."
+  },
+  {
+    "id": "cr-c-041",
+    "difficulty": "intermediate",
+    "audioScript": "You've tried the climbing wall at the rec center, haven't you?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It's right next to the indoor track."
+      },
+      {
+        "id": "B",
+        "text": "The wall was painted blue last year."
+      },
+      {
+        "id": "C",
+        "text": "A few times, though I'm still a beginner."
+      },
+      {
+        "id": "D",
+        "text": "I'll try it after my shift tonight."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key confirms past experience, while \"I'll try it after my shift tonight\" shifts to the future and so does not answer."
+  },
+  {
+    "id": "cr-c-042",
+    "difficulty": "intermediate",
+    "audioScript": "The hallway smells like burnt popcorn again.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'd love some popcorn during the movie."
+      },
+      {
+        "id": "B",
+        "text": "Someone probably left a bag in the microwave."
+      },
+      {
+        "id": "C",
+        "text": "They replaced all the hallway lights last week."
+      },
+      {
+        "id": "D",
+        "text": "I smelled the roses at the market."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key explains the likely cause of the smell, while \"I'd love some popcorn during the movie\" echoes popcorn without responding."
+  },
+  {
+    "id": "cr-c-043",
+    "difficulty": "intermediate",
+    "audioScript": "How long does a maintenance request usually take?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It depends, but often within two business days."
+      },
+      {
+        "id": "B",
+        "text": "The office is in the basement."
+      },
+      {
+        "id": "C",
+        "text": "Fill out the form on the housing website."
+      },
+      {
+        "id": "D",
+        "text": "It took me a while to unpack."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key estimates the time, while \"Fill out the form on the housing website\" explains how to submit a request rather than how long it takes."
+  },
+  {
+    "id": "cr-c-044",
+    "difficulty": "intermediate",
+    "audioScript": "Didn't the gym use to open at six?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I used to run every morning before class."
+      },
+      {
+        "id": "B",
+        "text": "Six people signed up for the morning class."
+      },
+      {
+        "id": "C",
+        "text": "It's open until eleven tonight, if that helps."
+      },
+      {
+        "id": "D",
+        "text": "It did, but they pushed it back to seven."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key confirms and updates the information, while \"Six people signed up for the morning class\" echoes six as a number of people."
+  },
+  {
+    "id": "cr-c-045",
+    "difficulty": "intermediate",
+    "audioScript": "Let's try the new noodle place in the student union.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The student union meets every other Thursday night."
+      },
+      {
+        "id": "B",
+        "text": "I tried on a new jacket yesterday."
+      },
+      {
+        "id": "C",
+        "text": "I'm in. How about after our two o'clock class?"
+      },
+      {
+        "id": "D",
+        "text": "Noodles are really easy to cook at home, though."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key accepts and proposes a time, while \"I tried on a new jacket yesterday\" only repeats try."
+  },
+  {
+    "id": "cr-c-046",
+    "difficulty": "intermediate",
+    "audioScript": "Do you know if quiet hours start earlier during finals?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I know the final is on Thursday."
+      },
+      {
+        "id": "B",
+        "text": "I started studying a week ago."
+      },
+      {
+        "id": "C",
+        "text": "It's quieter in the library basement."
+      },
+      {
+        "id": "D",
+        "text": "They actually go to twenty-four hours that week."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key gives the relevant rule change, while \"I know the final is on Thursday\" echoes know and final without answering."
+  },
+  {
+    "id": "cr-c-047",
+    "difficulty": "intermediate",
+    "audioScript": "I'm stopping by the campus pharmacy; need anything?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Anything with chocolate is my favorite."
+      },
+      {
+        "id": "B",
+        "text": "I picked up a pharmacy job last summer."
+      },
+      {
+        "id": "C",
+        "text": "Could you pick up some cough drops for me?"
+      },
+      {
+        "id": "D",
+        "text": "I need to stop staying up so late."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key accepts the offer with a specific request, while \"I need to stop staying up so late\" echoes need and stop."
+  },
+  {
+    "id": "cr-c-048",
+    "difficulty": "intermediate",
+    "audioScript": "The meal plan doesn't carry over to next semester, does it?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Unfortunately not, so use up your swipes."
+      },
+      {
+        "id": "B",
+        "text": "I carried the groceries up three flights."
+      },
+      {
+        "id": "C",
+        "text": "Next semester starts in late January."
+      },
+      {
+        "id": "D",
+        "text": "The plan was cheaper than I expected."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key confirms and gives advice, while \"I carried the groceries up three flights\" plays on carry with a literal meaning."
+  },
+  {
+    "id": "cr-c-049",
+    "difficulty": "intermediate",
+    "audioScript": "The new treadmills at the rec center have screens built in.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "My old sneakers are completely worn out."
+      },
+      {
+        "id": "B",
+        "text": "The rec center opened decades ago."
+      },
+      {
+        "id": "C",
+        "text": "Nice, now I can watch something while I run."
+      },
+      {
+        "id": "D",
+        "text": "I built a bookshelf for my dorm room."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key reacts to the new feature, while \"I built a bookshelf for my dorm room\" only echoes built."
+  },
+  {
+    "id": "cr-c-050",
+    "difficulty": "intermediate",
+    "audioScript": "Where should I keep my bike while I'm away this summer?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I rode it to class every day."
+      },
+      {
+        "id": "B",
+        "text": "From June until late August."
+      },
+      {
+        "id": "C",
+        "text": "My bike has a flat tire."
+      },
+      {
+        "id": "D",
+        "text": "The housing office rents out storage cages."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key suggests a place, while \"From June until late August\" answers when rather than where."
+  },
+  {
+    "id": "cr-c-051",
+    "difficulty": "intermediate",
+    "audioScript": "Haven't you finished unpacking yet? It's been a week.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The boxes came from the grocery store."
+      },
+      {
+        "id": "B",
+        "text": "Almost. Just the books and kitchen stuff are left."
+      },
+      {
+        "id": "C",
+        "text": "I packed a lunch for the trip tomorrow."
+      },
+      {
+        "id": "D",
+        "text": "We finished the puzzle in the lounge last night."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key reports progress, while \"We finished the puzzle in the lounge\" echoes finished about a different task."
+  },
+  {
+    "id": "cr-c-052",
+    "difficulty": "intermediate",
+    "audioScript": "Could you keep an eye on my laundry for a few minutes?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sure, I'm folding mine anyway."
+      },
+      {
+        "id": "B",
+        "text": "My eyes are tired from reading."
+      },
+      {
+        "id": "C",
+        "text": "A few minutes ago, I think."
+      },
+      {
+        "id": "D",
+        "text": "Detergent is on sale this week."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key agrees and gives a reason it is easy, while \"My eyes are tired from reading\" takes keep an eye on literally."
+  },
+  {
+    "id": "cr-c-053",
+    "difficulty": "intermediate",
+    "audioScript": "You should see a doctor about that cough.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Coffee always makes me thirsty."
+      },
+      {
+        "id": "B",
+        "text": "You're right. I'll call the health center today."
+      },
+      {
+        "id": "C",
+        "text": "I saw her at the coffee shop."
+      },
+      {
+        "id": "D",
+        "text": "The doctor's office has a nice view."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key accepts the advice, while \"I saw her at the coffee shop\" echoes see in an unrelated sense."
+  },
+  {
+    "id": "cr-c-054",
+    "difficulty": "intermediate",
+    "audioScript": "Did they ever fix the leak in your bathroom?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Finally, after three separate requests."
+      },
+      {
+        "id": "B",
+        "text": "I'll take a shower before class."
+      },
+      {
+        "id": "C",
+        "text": "The bathroom is down the hall."
+      },
+      {
+        "id": "D",
+        "text": "I fixed a snack for my roommate."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key indirectly says yes and notes the delay, while \"I fixed a snack for my roommate\" uses fix with a different meaning."
+  },
+  {
+    "id": "cr-c-055",
+    "difficulty": "intermediate",
+    "audioScript": "The line at the café takes forever every morning.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'll line up the chairs after the meeting."
+      },
+      {
+        "id": "B",
+        "text": "I like my coffee with oat milk."
+      },
+      {
+        "id": "C",
+        "text": "It's been open forever, I think."
+      },
+      {
+        "id": "D",
+        "text": "Try ordering ahead on the app; it's faster."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key offers a solution to the wait, while \"I'll line up the chairs after the meeting\" echoes line as a verb."
+  },
+  {
+    "id": "cr-c-056",
+    "difficulty": "intermediate",
+    "audioScript": "You're moving into the new residence hall next week, aren't you?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yes, and I still need a mattress pad."
+      },
+      {
+        "id": "B",
+        "text": "I moved my car to the north lot."
+      },
+      {
+        "id": "C",
+        "text": "The hall was designed by a local firm."
+      },
+      {
+        "id": "D",
+        "text": "Last week was really busy for me."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key confirms and adds a natural detail, while \"Last week was really busy for me\" shifts the time frame to the past."
+  },
+  {
+    "id": "cr-c-057",
+    "difficulty": "intermediate",
+    "audioScript": "Who should I ask about switching roommates?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Maybe sometime in October."
+      },
+      {
+        "id": "B",
+        "text": "The area coordinator in the housing office."
+      },
+      {
+        "id": "C",
+        "text": "I switched classes last week."
+      },
+      {
+        "id": "D",
+        "text": "Because we don't get along at all."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key names the right person, while \"Because we don't get along at all\" answers why instead of who."
+  },
+  {
+    "id": "cr-c-058",
+    "difficulty": "intermediate",
+    "audioScript": "I can show you where the free weights are, if you'd like.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Please do. I've been wandering around for ten minutes."
+      },
+      {
+        "id": "B",
+        "text": "I'd like the free samples at the café."
+      },
+      {
+        "id": "C",
+        "text": "The show starts at eight tonight."
+      },
+      {
+        "id": "D",
+        "text": "I lost a little weight last semester."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key gratefully accepts, while \"I lost a little weight last semester\" is a sound-alike trap on weights."
+  },
+  {
+    "id": "cr-c-059",
+    "difficulty": "intermediate",
+    "audioScript": "Isn't the dining hall having a special dinner tonight?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tonight I'm going to bed early."
+      },
+      {
+        "id": "B",
+        "text": "Dinner was cold yesterday."
+      },
+      {
+        "id": "C",
+        "text": "I served on the dining committee."
+      },
+      {
+        "id": "D",
+        "text": "Yes, it's international food night."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key confirms and names the event, while \"Dinner was cold yesterday\" refers to the wrong day."
+  },
+  {
+    "id": "cr-c-060",
+    "difficulty": "intermediate",
+    "audioScript": "It looks like the vending machine is broken again.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "There's another one by the mailroom that works."
+      },
+      {
+        "id": "B",
+        "text": "I ordered a pizza an hour ago."
+      },
+      {
+        "id": "C",
+        "text": "It looks like rain this afternoon."
+      },
+      {
+        "id": "D",
+        "text": "The machine takes coins and cards."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key offers a helpful alternative, while \"It looks like rain this afternoon\" only repeats the phrase it looks like."
+  },
+  {
+    "id": "cr-c-061",
+    "difficulty": "intermediate",
+    "audioScript": "Will the gym be open during spring break?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The gym was renovated last year."
+      },
+      {
+        "id": "B",
+        "text": "I broke my racket during the match."
+      },
+      {
+        "id": "C",
+        "text": "Mornings only. There's a sign by the entrance."
+      },
+      {
+        "id": "D",
+        "text": "I'm spending spring break with family."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key answers with the limited hours, while \"I broke my racket during the match\" plays on break."
+  },
+  {
+    "id": "cr-c-062",
+    "difficulty": "intermediate",
+    "audioScript": "How about we ask our resident assistant to settle the thermostat dispute?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I settled my bill at the front desk."
+      },
+      {
+        "id": "B",
+        "text": "Fine, though I doubt she'll take sides."
+      },
+      {
+        "id": "C",
+        "text": "The thermostat is next to the door."
+      },
+      {
+        "id": "D",
+        "text": "We asked for directions earlier."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key accepts the suggestion with a realistic reservation, while \"I settled my bill at the front desk\" uses settle in a different sense."
+  },
+  {
+    "id": "cr-c-063",
+    "difficulty": "intermediate",
+    "audioScript": "Would you sign for my package if it arrives while I'm out?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "No problem. I'll leave it on your desk."
+      },
+      {
+        "id": "B",
+        "text": "I signed up for the package deal."
+      },
+      {
+        "id": "C",
+        "text": "I'm out of stamps right now."
+      },
+      {
+        "id": "D",
+        "text": "It arrived on Monday afternoon."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key agrees and explains what will happen, while \"It arrived on Monday afternoon\" uses the wrong time frame."
+  },
+  {
+    "id": "cr-c-064",
+    "difficulty": "intermediate",
+    "audioScript": "The rec center has a sauna, doesn't it?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The center hosts movie nights, too."
+      },
+      {
+        "id": "B",
+        "text": "It does, but it's closed for repairs."
+      },
+      {
+        "id": "C",
+        "text": "I'm going to the center tonight."
+      },
+      {
+        "id": "D",
+        "text": "I sat in the hot sun all day."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key confirms and adds a key update, while \"I sat in the hot sun all day\" is related to heat but does not answer."
+  },
+  {
+    "id": "cr-c-065",
+    "difficulty": "intermediate",
+    "audioScript": "They're closing the north dining hall for renovations next month.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "So we'll all be crowding into the south one?"
+      },
+      {
+        "id": "B",
+        "text": "Next month I'm visiting my cousin."
+      },
+      {
+        "id": "C",
+        "text": "I renovated my kitchen last summer."
+      },
+      {
+        "id": "D",
+        "text": "The north side of campus is beautiful in fall."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key responds with a natural follow-up about the consequence, while \"Next month I'm visiting my cousin\" only echoes next month."
+  },
+  {
+    "id": "cr-c-066",
+    "difficulty": "intermediate",
+    "audioScript": "What's the fastest way to the health center from here?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They're fastest in the morning."
+      },
+      {
+        "id": "B",
+        "text": "It takes a week to get results."
+      },
+      {
+        "id": "C",
+        "text": "Because I've been feeling sick."
+      },
+      {
+        "id": "D",
+        "text": "Cut through the parking garage behind the gym."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key gives a route, while \"Because I've been feeling sick\" answers why the speaker is going rather than how to get there."
+  },
+  {
+    "id": "cr-c-067",
+    "difficulty": "intermediate",
+    "audioScript": "I made way too much soup for one person; want some?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I made the team last year."
+      },
+      {
+        "id": "B",
+        "text": "I'd love some. I skipped lunch today."
+      },
+      {
+        "id": "C",
+        "text": "One person per room is the rule."
+      },
+      {
+        "id": "D",
+        "text": "The soup kitchen needs volunteers."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key accepts the offer with a reason, while \"I made the team last year\" echoes made with a different meaning."
+  },
+  {
+    "id": "cr-c-068",
+    "difficulty": "advanced",
+    "audioScript": "I can't believe they raised the meal plan price again this year.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I believe the school year ends in late May."
+      },
+      {
+        "id": "B",
+        "text": "They raised the flag over the stadium."
+      },
+      {
+        "id": "C",
+        "text": "The price tag fell off my sweater."
+      },
+      {
+        "id": "D",
+        "text": "Same here. I might start cooking for myself."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key shares the frustration and implies a response to the cost, while \"They raised the flag over the stadium\" echoes raised with a literal meaning."
+  },
+  {
+    "id": "cr-c-069",
+    "difficulty": "advanced",
+    "audioScript": "Would you be willing to switch rooms with me so I can be near my friends?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'd rather not. I just finished setting everything up."
+      },
+      {
+        "id": "B",
+        "text": "My friends are coming to visit this weekend."
+      },
+      {
+        "id": "C",
+        "text": "I switched off the lights before leaving."
+      },
+      {
+        "id": "D",
+        "text": "It's near the stairs, on the left side."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key is a polite refusal with a reason, while \"It's near the stairs, on the left side\" answers where instead of responding to the request."
+  },
+  {
+    "id": "cr-c-070",
+    "difficulty": "advanced",
+    "audioScript": "My new roommate seems nice, but it might take a while to break the ice.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "She broke her phone screen yesterday."
+      },
+      {
+        "id": "B",
+        "text": "There's ice in the freezer if you need some."
+      },
+      {
+        "id": "C",
+        "text": "Maybe invite her to the floor movie night this week."
+      },
+      {
+        "id": "D",
+        "text": "Time flies when you're busy."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key suggests a way to get to know the roommate, while \"There's ice in the freezer if you need some\" takes the idiom break the ice literally."
+  },
+  {
+    "id": "cr-c-071",
+    "difficulty": "advanced",
+    "audioScript": "Who left the stove on in the shared kitchen last night?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Twelve students on our floor share that kitchen."
+      },
+      {
+        "id": "B",
+        "text": "No idea, but the smoke alarm let us know."
+      },
+      {
+        "id": "C",
+        "text": "The stove came with the apartment."
+      },
+      {
+        "id": "D",
+        "text": "I left the kitchen around eleven last night."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key admits not knowing while acknowledging the problem, while \"I left the kitchen around eleven last night\" echoes left in a different sense."
+  },
+  {
+    "id": "cr-c-072",
+    "difficulty": "advanced",
+    "audioScript": "You're telling me the gym charges extra for towels now?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Extra credit is available in my chemistry class."
+      },
+      {
+        "id": "B",
+        "text": "Tell me when you're ready to leave."
+      },
+      {
+        "id": "C",
+        "text": "Apparently, so I've started bringing my own from home."
+      },
+      {
+        "id": "D",
+        "text": "The gym is bigger than I expected."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key confirms the surprising news and how the speaker adapted, while \"Extra credit is available in my chemistry class\" only echoes extra."
+  },
+  {
+    "id": "cr-c-073",
+    "difficulty": "advanced",
+    "audioScript": "I'm thinking of joining intramural basketball, but I'm worried I'll stand out.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The basketball court is on the second floor."
+      },
+      {
+        "id": "B",
+        "text": "Don't worry. Half the players are total beginners."
+      },
+      {
+        "id": "C",
+        "text": "I signed the lease for the apartment."
+      },
+      {
+        "id": "D",
+        "text": "I'll stand outside and wait for you."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key reassures the speaker about the worry, while \"I'll stand outside and wait for you\" plays on stand out with a literal meaning."
+  },
+  {
+    "id": "cr-c-074",
+    "difficulty": "advanced",
+    "audioScript": "I've got an early exam tomorrow, and your alarm went off three times this morning.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "My exam was easier than I thought."
+      },
+      {
+        "id": "B",
+        "text": "Three times a week is plenty."
+      },
+      {
+        "id": "C",
+        "text": "The alarm clock was a gift from my aunt."
+      },
+      {
+        "id": "D",
+        "text": "Sorry. I'll switch my phone to vibrate from now on."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key recognizes the implied complaint and apologizes, while \"My exam was easier than I thought\" refers to the wrong person and time."
+  },
+  {
+    "id": "cr-c-075",
+    "difficulty": "advanced",
+    "audioScript": "Are you going to renew your gym membership for the spring?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Probably not, since the rec center is free."
+      },
+      {
+        "id": "B",
+        "text": "My membership card has my photo on it."
+      },
+      {
+        "id": "C",
+        "text": "The spring semester starts in January."
+      },
+      {
+        "id": "D",
+        "text": "I renewed my passport last year."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key answers with a reason, while \"I renewed my passport last year\" echoes renew about something unrelated."
+  },
+  {
+    "id": "cr-c-076",
+    "difficulty": "advanced",
+    "audioScript": "The health center said my test results won't be back until Friday.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Friday is my busiest day of the week."
+      },
+      {
+        "id": "B",
+        "text": "I tested the microphone before the talk."
+      },
+      {
+        "id": "C",
+        "text": "So you'll have to sit tight a bit longer."
+      },
+      {
+        "id": "D",
+        "text": "The center is back near the parking lot."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key sympathizes with having to wait, while \"The center is back near the parking lot\" uses back as a location."
+  },
+  {
+    "id": "cr-c-077",
+    "difficulty": "advanced",
+    "audioScript": "If the upstairs neighbors drop one more thing tonight, I'm going to lose my mind.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Want me to go ask them to keep it down?"
+      },
+      {
+        "id": "B",
+        "text": "I try to keep an open mind about it."
+      },
+      {
+        "id": "C",
+        "text": "They moved in upstairs at the start of spring."
+      },
+      {
+        "id": "D",
+        "text": "I dropped my phone on the way to class."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key offers help with the noise, while \"I dropped my phone on the way to class\" echoes drop without responding to the frustration."
+  },
+  {
+    "id": "cr-c-078",
+    "difficulty": "advanced",
+    "audioScript": "Honestly, the salad bar is the only thing here worth a meal swipe.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I swiped my card at the bookstore."
+      },
+      {
+        "id": "B",
+        "text": "Honestly, I'd rather not say."
+      },
+      {
+        "id": "C",
+        "text": "Salad dressing comes in three flavors."
+      },
+      {
+        "id": "D",
+        "text": "Really? I think the stir-fry station is underrated."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key responds to the opinion with a contrasting one, while \"I swiped my card at the bookstore\" echoes swipe in another context."
+  },
+  {
+    "id": "cr-c-079",
+    "difficulty": "advanced",
+    "audioScript": "Since we're both swamped, why don't we take turns picking up groceries?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Deal. I'll go this week since my schedule's lighter."
+      },
+      {
+        "id": "B",
+        "text": "The groceries cost a lot more this week."
+      },
+      {
+        "id": "C",
+        "text": "Turn right at the second light."
+      },
+      {
+        "id": "D",
+        "text": "We took a picture by the lake."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key accepts and volunteers for the first turn, while \"Turn right at the second light\" echoes turn with a different meaning."
+  },
+  {
+    "id": "cr-c-080",
+    "difficulty": "advanced",
+    "audioScript": "Guess what? I just got hired as a lifeguard at the campus pool.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The pool is heated in the winter."
+      },
+      {
+        "id": "B",
+        "text": "They hired a new chef last month."
+      },
+      {
+        "id": "C",
+        "text": "Good for you! Do you get free gym access?"
+      },
+      {
+        "id": "D",
+        "text": "I guessed on most of the questions on the quiz."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key congratulates and asks a relevant follow-up, while \"I guessed on most of the questions on the quiz\" only echoes guess."
+  },
+  {
+    "id": "cr-c-081",
+    "difficulty": "advanced",
+    "audioScript": "I've got an extra ticket to the rec center's dance workshop if you're interested.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The rec center has a new juice bar."
+      },
+      {
+        "id": "B",
+        "text": "I'm interested in studying abroad."
+      },
+      {
+        "id": "C",
+        "text": "I left my ticket stub in my jacket."
+      },
+      {
+        "id": "D",
+        "text": "Thanks, but I'm afraid I have two left feet."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key politely declines with an idiom meaning a poor dancer, while \"I left my ticket stub in my jacket\" echoes ticket without answering the offer."
+  },
+  {
+    "id": "cr-c-082",
+    "difficulty": "advanced",
+    "audioScript": "What do you think I should do about my roommate's friends staying over every weekend?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "We've been friends since high school."
+      },
+      {
+        "id": "B",
+        "text": "Have you mentioned it to her directly yet?"
+      },
+      {
+        "id": "C",
+        "text": "I'm staying with friends this weekend."
+      },
+      {
+        "id": "D",
+        "text": "I think so, but I'm not sure."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key answers with a useful question that leads to a solution, while \"I'm staying with friends this weekend\" echoes the words but changes the person."
+  },
+  {
+    "id": "cr-c-083",
+    "difficulty": "advanced",
+    "audioScript": "Wow, the dining hall actually has fresh sushi today.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The hall was freshly painted last month."
+      },
+      {
+        "id": "B",
+        "text": "I used to go fishing as a kid."
+      },
+      {
+        "id": "C",
+        "text": "Today I have three classes in a row."
+      },
+      {
+        "id": "D",
+        "text": "Then I'd better grab some before it disappears."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key reacts to the surprise with an implied plan, while \"The hall was freshly painted last month\" echoes fresh in another sense."
+  },
+  {
+    "id": "cr-c-084",
+    "difficulty": "advanced",
+    "audioScript": "Do you think the laundry room will be busy on Sunday night?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It always is. Everyone waits until the last minute."
+      },
+      {
+        "id": "B",
+        "text": "I think I left my socks in there."
+      },
+      {
+        "id": "C",
+        "text": "Sunday night I'm watching a movie."
+      },
+      {
+        "id": "D",
+        "text": "It's busy work, but it pays well."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key answers yes indirectly with a reason, while \"It's busy work, but it pays well\" uses busy in an unrelated phrase."
+  },
+  {
+    "id": "cr-c-085",
+    "difficulty": "advanced",
+    "audioScript": "Moving out of the dorm turned out to be a piece of cake.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'd like a piece of chocolate cake."
+      },
+      {
+        "id": "B",
+        "text": "The dorm moved its mailroom last year."
+      },
+      {
+        "id": "C",
+        "text": "Lucky you. It took me an entire weekend."
+      },
+      {
+        "id": "D",
+        "text": "I'm moving to a new seat in class."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key reacts to the idiom meaning very easy, while \"I'd like a piece of chocolate cake\" takes the idiom literally."
+  },
+  {
+    "id": "cr-c-086",
+    "difficulty": "advanced",
+    "audioScript": "I'm not sure the twenty-four-hour study lounge was worth giving up the game room.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Twenty-four students signed up for the trip."
+      },
+      {
+        "id": "B",
+        "text": "The lounge is on the fourth floor."
+      },
+      {
+        "id": "C",
+        "text": "I gave my old board games to my brother."
+      },
+      {
+        "id": "D",
+        "text": "Well, it's packed every night, so people use it."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key offers evidence against the speaker's doubt, while \"Twenty-four students signed up for the trip\" only repeats the number."
+  },
+  {
+    "id": "cr-c-087",
+    "difficulty": "advanced",
+    "audioScript": "I hate to ask, but could I borrow your car to move a couch this weekend?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I'd help, but a couch won't fit in my compact."
+      },
+      {
+        "id": "B",
+        "text": "I hate waiting in long lines at the store too."
+      },
+      {
+        "id": "C",
+        "text": "The couch in the lounge is really comfortable."
+      },
+      {
+        "id": "D",
+        "text": "I borrowed a book from the library yesterday."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key politely refuses with a practical reason, while \"I borrowed a book from the library\" echoes borrow but answers nothing."
+  },
+  {
+    "id": "cr-c-088",
+    "difficulty": "advanced",
+    "audioScript": "Why does the café always run out of oat milk by noon?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It runs from seven until three on weekdays."
+      },
+      {
+        "id": "B",
+        "text": "I'd guess they only get one delivery a week."
+      },
+      {
+        "id": "C",
+        "text": "Noon is when I usually eat lunch."
+      },
+      {
+        "id": "D",
+        "text": "I actually prefer almond milk in my coffee."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key offers a plausible reason, while \"It runs from seven until three on weekdays\" echoes run and answers until when."
+  },
+  {
+    "id": "cr-c-089",
+    "difficulty": "advanced",
+    "audioScript": "The trainer said I need to cut back on lifting until my shoulder heals.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I cut my hair shorter last week."
+      },
+      {
+        "id": "B",
+        "text": "The trainer drives a blue truck."
+      },
+      {
+        "id": "C",
+        "text": "My shoulder bag is really heavy with books today."
+      },
+      {
+        "id": "D",
+        "text": "Makes sense. Maybe swimming would be easier on it."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key accepts the advice and suggests an alternative, while \"I cut my hair shorter last week\" plays on the phrasal verb cut back."
+  },
+  {
+    "id": "cr-c-090",
+    "difficulty": "advanced",
+    "audioScript": "The heat in our building is on full blast, and it's sixty degrees outside.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I had a blast at the concert."
+      },
+      {
+        "id": "B",
+        "text": "Let's report it. They can probably adjust the boiler."
+      },
+      {
+        "id": "C",
+        "text": "The building has about sixty rooms on four floors."
+      },
+      {
+        "id": "D",
+        "text": "It's supposed to rain outside later."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key proposes a fix for the overheating, while \"I had a blast at the concert\" uses blast in an idiom with a different meaning."
+  },
+  {
+    "id": "cr-c-091",
+    "difficulty": "advanced",
+    "audioScript": "Is it worth getting the unlimited meal plan if I usually skip breakfast?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I skipped class once to finish my paper."
+      },
+      {
+        "id": "B",
+        "text": "The plan was announced at orientation."
+      },
+      {
+        "id": "C",
+        "text": "It was definitely worth the trip downtown."
+      },
+      {
+        "id": "D",
+        "text": "Probably not. The ten-meal plan would save you money."
+      }
+    ],
+    "correctChoiceID": "D",
+    "explanation": "The key gives a recommendation with a reason, while \"It was definitely worth the trip downtown\" echoes worth about something else."
+  },
+  {
+    "id": "cr-c-092",
+    "difficulty": "advanced",
+    "audioScript": "The rec center is offering free swimming lessons to beginners all semester.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Perfect timing. I never learned how to swim."
+      },
+      {
+        "id": "B",
+        "text": "I'm offering my old bike for sale."
+      },
+      {
+        "id": "C",
+        "text": "I began a new novel yesterday."
+      },
+      {
+        "id": "D",
+        "text": "The semester ends in mid-December."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key reacts with personal relevance, while \"I began a new novel yesterday\" is a sound-alike trap on beginners."
+  },
+  {
+    "id": "cr-c-093",
+    "difficulty": "advanced",
+    "audioScript": "I'm locked out, and the front desk doesn't open for another hour.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I locked my bike outside the library this morning."
+      },
+      {
+        "id": "B",
+        "text": "The front desk handles packages too."
+      },
+      {
+        "id": "C",
+        "text": "You're welcome to wait in my room until then."
+      },
+      {
+        "id": "D",
+        "text": "Another hour of studying, then dinner."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key offers practical help for the implied problem, while \"I locked my bike outside the library\" echoes locked."
+  },
+  {
+    "id": "cr-c-094",
+    "difficulty": "advanced",
+    "audioScript": "I'd say living off campus is cheaper once you factor in the meal plan.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Factor the numbers and divide by two."
+      },
+      {
+        "id": "B",
+        "text": "Maybe, but you'd also pay for transportation."
+      },
+      {
+        "id": "C",
+        "text": "The meal was cheaper than I expected."
+      },
+      {
+        "id": "D",
+        "text": "I live about two blocks from campus."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key responds to the opinion with a counterpoint, while \"Factor the numbers and divide by two\" takes factor in its math sense."
+  },
+  {
+    "id": "cr-c-095",
+    "difficulty": "advanced",
+    "audioScript": "I thought you'd quit the swim team after the first month.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Swimming is good for your back."
+      },
+      {
+        "id": "B",
+        "text": "I quit drinking soda in January."
+      },
+      {
+        "id": "C",
+        "text": "I almost did, but the coach talked me into staying."
+      },
+      {
+        "id": "D",
+        "text": "The team won its very first meet last month."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key explains why the speaker's assumption is wrong, while \"I quit drinking soda in January\" echoes quit about something else."
+  },
+  {
+    "id": "cr-c-096",
+    "difficulty": "advanced",
+    "audioScript": "When you get a chance, could you take a look at the sink in room three-twelve?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Chances are it'll rain again tomorrow afternoon."
+      },
+      {
+        "id": "B",
+        "text": "I'm on another call, but I'll come by after lunch."
+      },
+      {
+        "id": "C",
+        "text": "Room three-twelve is on the third floor, I think."
+      },
+      {
+        "id": "D",
+        "text": "I already looked at the lunch menu, thanks."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key agrees and gives a realistic time, while \"Room three-twelve is on the third floor\" only gives the location."
+  },
+  {
+    "id": "cr-c-097",
+    "difficulty": "advanced",
+    "audioScript": "With finals coming up, the gym is the last place I want to be.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Even a short workout might help you clear your head."
+      },
+      {
+        "id": "B",
+        "text": "Finals are in the main lecture hall."
+      },
+      {
+        "id": "C",
+        "text": "I want to be a personal trainer."
+      },
+      {
+        "id": "D",
+        "text": "The last place I lived had a gym downstairs."
+      }
+    ],
+    "correctChoiceID": "A",
+    "explanation": "The key responds to the speaker's reluctance with encouragement, while \"The last place I lived had a gym\" takes the last place literally."
+  },
+  {
+    "id": "cr-c-098",
+    "difficulty": "advanced",
+    "audioScript": "Why don't you join our study group in the dorm lounge tonight?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tonight's dinner is lasagna, I heard."
+      },
+      {
+        "id": "B",
+        "text": "Thanks, but I'm covering a shift at the café."
+      },
+      {
+        "id": "C",
+        "text": "We joined that same group last spring, actually."
+      },
+      {
+        "id": "D",
+        "text": "The lounge closes at midnight, I think."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key politely declines with a reason, while \"The lounge closes at midnight, I think\" echoes lounge and does not accept or decline."
+  },
+  {
+    "id": "cr-c-099",
+    "difficulty": "advanced",
+    "audioScript": "How am I supposed to sleep with the construction crew starting at six every morning?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Six people work on that crew."
+      },
+      {
+        "id": "B",
+        "text": "They're building a new parking garage."
+      },
+      {
+        "id": "C",
+        "text": "Have you tried earplugs? The front desk has them."
+      },
+      {
+        "id": "D",
+        "text": "I slept right through my alarm yesterday morning."
+      }
+    ],
+    "correctChoiceID": "C",
+    "explanation": "The key answers the frustrated question with a practical solution, while \"I slept right through my alarm yesterday morning\" echoes sleep without helping."
+  },
+  {
+    "id": "cr-c-100",
+    "difficulty": "advanced",
+    "audioScript": "The line for the yoga class wraps all the way around the building.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The building was designed in the sixties."
+      },
+      {
+        "id": "B",
+        "text": "Then let's skip it and go running."
+      },
+      {
+        "id": "C",
+        "text": "Yoga helps me relax before exams."
+      },
+      {
+        "id": "D",
+        "text": "I wrapped the gift last night."
+      }
+    ],
+    "correctChoiceID": "B",
+    "explanation": "The key infers the class is too crowded and suggests an alternative, while \"I wrapped the gift last night\" echoes wraps literally."
+  }
+]

@@ -240,6 +240,7 @@ final class TOEFLExamSession: ObservableObject {
 
     private func summarizeSection() {
         let section = currentSection
+        TOEFLQuestionBank.rememberExposure(section.questions)
         if section.kind == .writing {
             for question in section.questions where question.taskType == .writeEmail || question.taskType == .academicDiscussion {
                 var answer = answers[question.id] ?? TOEFLAnswer()

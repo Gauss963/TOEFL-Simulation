@@ -59,7 +59,7 @@ Pronunciation and compact English lexical fields are supplemented from the exist
 
 ## Bundled practice content
 
-The runtime bank (`TOEFL2026Bank.json`) contains 1,854 original items organized into the task sets of the January 2026 format: 60 Complete the Words paragraphs (600 blanks), 40 Read in Daily Life sets, 40 Read an Academic Passage sets, 240 Listen and Choose a Response items, 30 conversations, 26 announcements, 36 academic talks, 140 Build a Sentence items, 30 email tasks, 30 academic discussions, 22 Listen and Repeat scenarios, and 26 interviews.
+The runtime bank (`TOEFL2026Bank.json`) contains 2,212 original items organized into the task sets of the January 2026 format: 60 Complete the Words paragraphs (600 blanks), 40 Read in Daily Life sets, 40 Read an Academic Passage sets, 598 Listen and Choose a Response items (each a distinct situation with its own wording, key, and trap distractors; no sentence templates), 30 conversations, 26 announcements, 36 academic talks, 140 Build a Sentence items, 30 email tasks, 30 academic discussions, 22 Listen and Repeat scenarios, and 26 interviews.
 
 The items were written for this app to the ETS specifications above (text types and lengths, question counts per set, question types, speaker settings, and timing) and checked with `Tools/content2026` validators for length, set size, answer-key balance, and structure. The authorized reference library informed topic domains and skill coverage; no ETS or published test question is copied or relabeled. Every review item identifies itself as an original practice item, not an official ETS question.
 
