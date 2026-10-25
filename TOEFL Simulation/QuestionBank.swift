@@ -122,16 +122,18 @@ enum TOEFLQuestionBank {
 
     static func practiceSection(
         for kind: TOEFLSectionKind,
-        seed: UInt64 = UInt64.random(in: UInt64.min...UInt64.max)
+        seed: UInt64 = UInt64.random(in: UInt64.min...UInt64.max),
+        recent: [String]? = nil
     ) -> TOEFLExamSection {
-        section(for: kind, seed: seed)
+        section(for: kind, seed: seed, recent: recent)
     }
 
-    private static func section(for kind: TOEFLSectionKind, seed: UInt64) -> TOEFLExamSection {
+    /// `recent` overrides the stored exposure history (used by the debug self-test).
+    private static func section(for kind: TOEFLSectionKind, seed: UInt64, recent: [String]? = nil) -> TOEFLExamSection {
         if kind.isAdaptive {
-            let router = questions(plan: plan(for: kind, stage: .router), stage: .router, seed: mixedSeed(seed, label: "\(kind.rawValue)-router"))
+            let router = questions(plan: plan(for: kind, stage: .router), stage: .router, seed: mixedSeed(seed, label: "\(kind.rawValue)-router"), recent: recent)
             // A provisional lower module keeps the item count visible until routing decides the real one.
-            let provisional = moduleQuestions(for: kind, route: .lower, seed: seed, excluding: Set(router.map(\.id)))
+            let provisional = moduleQuestions(for: kind, route: .lower, seed: seed, excluding: Set(router.map(\.id)), recent: recent)
             return TOEFLExamSection(
                 id: "\(kind.rawValue)-section", kind: kind, durationSeconds: kind.officialMinutes * 60,
                 questions: router + provisional, routerCount: router.count, route: nil
@@ -139,7 +141,7 @@ enum TOEFLQuestionBank {
         }
         return TOEFLExamSection(
             id: "\(kind.rawValue)-section", kind: kind, durationSeconds: kind.officialMinutes * 60,
-            questions: questions(plan: plan(for: kind, stage: .linear), stage: .linear, seed: mixedSeed(seed, label: "\(kind.rawValue)-linear")),
+            questions: questions(plan: plan(for: kind, stage: .linear), stage: .linear, seed: mixedSeed(seed, label: "\(kind.rawValue)-linear"), recent: recent),
             routerCount: nil, route: nil
         )
     }
@@ -148,18 +150,22 @@ enum TOEFLQuestionBank {
         for kind: TOEFLSectionKind,
         route: AdaptiveRoute,
         seed: UInt64 = UInt64.random(in: UInt64.min...UInt64.max),
-        excluding excludedIDs: Set<String> = []
+        excluding excludedIDs: Set<String> = [],
+        recent: [String]? = nil
     ) -> [TOEFLQuestion] {
         let stage: Stage = route == .lower ? .lower : .upper
         return questions(
             plan: plan(for: kind, stage: stage),
             stage: stage,
             seed: mixedSeed(seed, label: "\(kind.rawValue)-\(route.rawValue)"),
-            excluding: excludedIDs
+            excluding: excludedIDs,
+            recent: recent
         )
     }
 
-    private static func questions(plan: [Draw], stage: Stage, seed: UInt64, excluding excludedIDs: Set<String> = []) -> [TOEFLQuestion] {
+    private static func questions(plan: [Draw], stage: Stage, seed: UInt64, excluding excludedIDs: Set<String> = [], recent override: [String]? = nil) -> [TOEFLQuestion] {
+        // Set key → position in the history (higher is more recent).
+        let recent = Dictionary((override ?? recentSetKeys).enumerated().map { ($1, $0) }, uniquingKeysWith: max)
         var generator = SeededGenerator(seed: seed)
         var usedSets = Set(excludedIDs.compactMap { id in allQuestions.first { $0.id == id }.map { $0.setID ?? $0.id } })
         var usedTopics = Set<String>()
@@ -174,8 +180,16 @@ enum TOEFLQuestionBank {
                     let key = first.setID ?? first.id
                     return !usedSets.contains(key) && (size == nil || set.count == size)
                 }
-                let ranked = pool.filter { preferred.contains($0[0].difficulty) }.shuffled(using: &generator)
-                    + pool.filter { !preferred.contains($0[0].difficulty) }.shuffled(using: &generator)
+                // Unseen sets come first (the module's difficulty, then neighboring levels); seen sets
+                // return least recently seen first, so an item reappears only after the pool rotates.
+                let isPreferred = { (set: [TOEFLQuestion]) in preferred.contains(set[0].difficulty) }
+                let unseen = pool.filter { recent[$0[0].setID ?? $0[0].id] == nil }
+                let seen = pool.filter { recent[$0[0].setID ?? $0[0].id] != nil }
+                    .shuffled(using: &generator)
+                    .sorted { recent[$0[0].setID ?? $0[0].id]! < recent[$1[0].setID ?? $1[0].id]! }
+                let ranked = unseen.filter(isPreferred).shuffled(using: &generator)
+                    + unseen.filter { !isPreferred($0) }.shuffled(using: &generator)
+                    + seen.filter(isPreferred) + seen.filter { !isPreferred($0) }
                 let fresh = ranked.first { !usedTopics.contains(topicKey($0[0])) } ?? ranked.first
                 guard var chosen = fresh else {
                     preconditionFailure("Not enough \(draw.task.title) sets in the bank")
@@ -203,6 +217,57 @@ enum TOEFLQuestionBank {
         }
     }
 
+    // MARK: - Exposure
+
+    private static let exposureKey = "toefl.question-exposure.v1"
+    /// Remembers enough sets that a full rotation of each task pool passes before an item returns.
+    private static let exposureLimit = 1_500
+    /// Validation turns this off so sampled forms do not depend on, or change, the user's history.
+    static var usesExposureHistory = true
+
+    /// Exposure history, oldest first.
+    private static var recentSetKeys: [String] {
+        guard usesExposureHistory else { return [] }
+        return UserDefaults.standard.stringArray(forKey: exposureKey) ?? []
+    }
+
+    /// Records the sets a test taker actually worked through, newest last.
+    static func rememberExposure(_ questions: [TOEFLQuestion]) {
+        guard usesExposureHistory else { return }
+        let keys = questions.map { $0.setID ?? $0.id }
+        var history = (UserDefaults.standard.stringArray(forKey: exposureKey) ?? []).filter { !keys.contains($0) }
+        var seen = Set<String>()
+        history += keys.filter { seen.insert($0).inserted }
+        UserDefaults.standard.set(Array(history.suffix(exposureLimit)), forKey: exposureKey)
+    }
+
+    #if DEBUG
+    /// Simulates 20 consecutive Listening sessions (about 400 Listen and Choose a Response items)
+    /// with an in-memory history: none of the pool's items may repeat before the pool rotates.
+    static func rotationIssues() -> [String] {
+        var history: [String] = []
+        var seen: [String: Int] = [:]
+        var issues: [String] = []
+        let poolSize = allQuestions.filter { $0.taskType == .listenChooseResponse }.count
+        for session in 0..<20 {
+            let recent = history
+            let section = practiceSection(for: .listening, seed: UInt64(session) &* 104_729, recent: recent)
+            let module = moduleQuestions(for: .listening, route: session.isMultiple(of: 2) ? .lower : .upper,
+                                         seed: UInt64(session), excluding: Set(section.questions.prefix(section.routerCount ?? 0).map(\.id)), recent: recent)
+            let items = Array(section.questions.prefix(section.routerCount ?? 0)) + module
+            for item in items where item.taskType == .listenChooseResponse {
+                if let earlier = seen[item.id] {
+                    issues.append("\(item.id) returned after \(session - earlier) sessions")
+                }
+                seen[item.id] = session
+            }
+            history += items.map { $0.setID ?? $0.id }
+        }
+        FileHandle.standardError.write(Data("Choose a Response pool \(poolSize); \(seen.count) distinct items in 20 Listening sessions\n".utf8))
+        return Array(Set(issues)).sorted()
+    }
+    #endif
+
     /// Avoids, for example, a Complete the Words paragraph and an academic passage on the same subject.
     private static func topicKey(_ question: TOEFLQuestion) -> String {
         question.setting ?? question.setID ?? question.id
@@ -212,6 +277,8 @@ enum TOEFLQuestionBank {
 
     static func validate() -> [String] {
         var issues: [String] = []
+        usesExposureHistory = false
+        defer { usesExposureHistory = true }
         if Set(allQuestions.map(\.id)).count != allQuestions.count { issues.append("Duplicate question IDs.") }
         for question in allQuestions {
             if question.choices.isEmpty == false, question.correctChoiceID == nil { issues.append("\(question.id) has no key.") }

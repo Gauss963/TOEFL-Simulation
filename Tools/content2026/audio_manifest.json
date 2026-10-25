@@ -743,6 +743,3594 @@
    "voice": "af_kore"
   }
  ],
+ "cr-a-001": [
+  {
+   "text": "When is the last day to drop a class?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-002": [
+  {
+   "text": "Where does the professor hold office hours?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-003": [
+  {
+   "text": "Who's grading our midterm essays?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-004": [
+  {
+   "text": "How long is the final exam?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-005": [
+  {
+   "text": "Which biology section did you sign up for?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-006": [
+  {
+   "text": "Why did you decide to switch advisors?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-007": [
+  {
+   "text": "What time does the review session start?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-008": [
+  {
+   "text": "How many credits are you taking this term?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-009": [
+  {
+   "text": "Where can I pick up my graded paper?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-010": [
+  {
+   "text": "Who's in your group for the project?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-011": [
+  {
+   "text": "When are the grades going to be posted?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-012": [
+  {
+   "text": "What's the topic of your research paper?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-013": [
+  {
+   "text": "How did you do on the chemistry quiz?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-a-014": [
+  {
+   "text": "Where's the study session for the statistics exam?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-015": [
+  {
+   "text": "Have you registered for spring classes yet?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-a-016": [
+  {
+   "text": "Are the professor's office hours still on today?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-017": [
+  {
+   "text": "Did you get feedback on your lab report?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-018": [
+  {
+   "text": "Can I still join your study group?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-019": [
+  {
+   "text": "Was the midterm harder than you expected?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-020": [
+  {
+   "text": "Do we need a calculator for the exam?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-021": [
+  {
+   "text": "Are you taking the advanced writing seminar?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-022": [
+  {
+   "text": "Did the professor approve your thesis topic?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-023": [
+  {
+   "text": "Is attendance part of our grade?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-024": [
+  {
+   "text": "Have you finished the reading for tomorrow?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-025": [
+  {
+   "text": "Please sign my course withdrawal form.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-026": [
+  {
+   "text": "Can you explain question four again?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-027": [
+  {
+   "text": "I can lend you my notes from Monday.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-028": [
+  {
+   "text": "I just got my essay grade back.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-a-029": [
+  {
+   "text": "Let's meet in the library to study.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-030": [
+  {
+   "text": "This syllabus has so many readings.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-031": [
+  {
+   "text": "Please submit your projects by Friday.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-032": [
+  {
+   "text": "Could you check my bibliography format?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-033": [
+  {
+   "text": "The registration website is down again.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-a-034": [
+  {
+   "text": "Want me to save you a seat?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-035": [
+  {
+   "text": "How do I get permission to take a graduate course?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-036": [
+  {
+   "text": "What did the professor say about the late penalty?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-037": [
+  {
+   "text": "Why is the chemistry lab closed this afternoon?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-038": [
+  {
+   "text": "Where should we meet to rehearse our group presentation?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-039": [
+  {
+   "text": "Which textbook edition does the course actually require?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-040": [
+  {
+   "text": "Who should I talk to about changing my major?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-041": [
+  {
+   "text": "The library stays open late during finals week, doesn't it?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-042": [
+  {
+   "text": "Didn't you already take Introduction to Psychology?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-043": [
+  {
+   "text": "Is it too late to switch to pass/fail grading?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-044": [
+  {
+   "text": "Are you going to the review session tonight?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-045": [
+  {
+   "text": "We're supposed to cite at least five sources, aren't we?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-046": [
+  {
+   "text": "Isn't the group report due before the presentation?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-a-047": [
+  {
+   "text": "Do you think the professor will curve the exam?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-048": [
+  {
+   "text": "Has anyone in our group heard back from the client?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-049": [
+  {
+   "text": "Why don't we split the literature review into sections?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-050": [
+  {
+   "text": "If you're struggling with calculus, I could tutor you on weekends.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-051": [
+  {
+   "text": "I've emailed my advisor three times and still haven't heard back.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-052": [
+  {
+   "text": "The professor just extended the essay deadline by a week.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-053": [
+  {
+   "text": "The waitlist for organic chemistry already has over forty names.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-054": [
+  {
+   "text": "Would you mind proofreading my personal statement before Friday?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-a-055": [
+  {
+   "text": "I think the online quizzes are more stressful than in-class ones.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-056": [
+  {
+   "text": "You might want to visit the writing center for that paper.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-057": [
+  {
+   "text": "My lab partner dropped the course, so I'm on my own now.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-058": [
+  {
+   "text": "The feedback on my essay was just a single word.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-059": [
+  {
+   "text": "Can you remind me which chapters the quiz covers?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-060": [
+  {
+   "text": "I've got an extra copy of the lab manual you can borrow.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-061": [
+  {
+   "text": "Hardly anyone showed up to the professor's office hours today.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-062": [
+  {
+   "text": "Let's divide up the slides tonight so nobody gets stuck with extra work.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-063": [
+  {
+   "text": "I just found out I passed the language proficiency exam.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-064": [
+  {
+   "text": "The printer in the computer lab jammed right before my deadline.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-065": [
+  {
+   "text": "Please let me know if you can't make Thursday's meeting.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-066": [
+  {
+   "text": "Honestly, this textbook explains things better than the lectures do.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-067": [
+  {
+   "text": "You've color-coded every single deadline on your study calendar.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-068": [
+  {
+   "text": "What made you decide to take the seminar pass/fail instead of for a grade?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-069": [
+  {
+   "text": "How on earth did you manage to finish the whole problem set overnight?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-070": [
+  {
+   "text": "Where do you think I'd get more useful feedback, from the TA or the professor?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-071": [
+  {
+   "text": "When would be a good time to ask her for a recommendation letter?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-072": [
+  {
+   "text": "Aren't you worried that taking six courses next term will burn you out?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-073": [
+  {
+   "text": "Did you end up going to the professor about your exam grade?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-074": [
+  {
+   "text": "You're not seriously thinking of pulling an all-nighter before the final, are you?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-075": [
+  {
+   "text": "Would it be possible to turn in my lab report a couple of days late?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-076": [
+  {
+   "text": "Have you had a chance to look over the draft I sent you?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-077": [
+  {
+   "text": "Didn't the professor say the final would only cover material after the midterm?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-078": [
+  {
+   "text": "I can't believe the registrar's office closed add/drop two days early.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-079": [
+  {
+   "text": "If it's not too much trouble, could you look over my thesis outline sometime this week?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-080": [
+  {
+   "text": "Maybe we should run the survey results by the professor before we write them up.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-081": [
+  {
+   "text": "Our group's been meeting for weeks, and we still can't agree on a topic.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-082": [
+  {
+   "text": "Guess what—the department is offering the advanced seminar again next spring.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-083": [
+  {
+   "text": "You look like you haven't slept since the exam schedule came out.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-084": [
+  {
+   "text": "I'm heading to the professor's office anyway, so I could drop off your paper.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-085": [
+  {
+   "text": "Frankly, I don't see how anyone could finish that take-home exam in two days.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-086": [
+  {
+   "text": "Would you be willing to switch presentation slots with me? I have a conflict Tuesday.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-a-087": [
+  {
+   "text": "Looks like the professor really went out of her way to give detailed comments.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-088": [
+  {
+   "text": "I heard the midterm has been moved up to this Thursday.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-a-089": [
+  {
+   "text": "The professor's comments say my argument is solid but my evidence is thin.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-a-090": [
+  {
+   "text": "If I were you, I'd hold off on declaring a major until you've taken more classes.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-a-091": [
+  {
+   "text": "I didn't expect so many people to show up for the optional review.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-a-092": [
+  {
+   "text": "I was hoping you could explain what you meant by 'underdeveloped' in your comments.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-093": [
+  {
+   "text": "Do you want to join our study group, or would you rather go it alone?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-a-094": [
+  {
+   "text": "The professor seems a lot more relaxed since she submitted her book manuscript.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-095": [
+  {
+   "text": "Office hours are pretty useless if you don't come with specific questions.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-a-096": [
+  {
+   "text": "The registrar said my transfer credits didn't count toward my major.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-a-097": [
+  {
+   "text": "I'm having trouble following the lectures—any chance you'd share your notes?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-098": [
+  {
+   "text": "It's frustrating that two of my required courses meet at exactly the same time.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-a-099": [
+  {
+   "text": "We should probably touch base with the TA before we change the project scope.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-a-100": [
+  {
+   "text": "Wow, you finished your thesis draft a whole month ahead of schedule.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-001": [
+  {
+   "text": "Where can I pick up my reserved book?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-002": [
+  {
+   "text": "When does the computer lab close tonight?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-b-003": [
+  {
+   "text": "Do you have a printer card I could borrow?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-004": [
+  {
+   "text": "How long can I keep a loaner laptop?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-b-005": [
+  {
+   "text": "Can you help me reset my password?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-006": [
+  {
+   "text": "Which floor are the study rooms on?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-b-007": [
+  {
+   "text": "Is the campus Wi-Fi down again?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-008": [
+  {
+   "text": "Please return these books by Friday.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-009": [
+  {
+   "text": "Who should I ask about a lost library card?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-010": [
+  {
+   "text": "How much does it cost to print in color?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-011": [
+  {
+   "text": "Did you buy the textbook for chemistry yet?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-012": [
+  {
+   "text": "I can show you how to use the scanner.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-b-013": [
+  {
+   "text": "What time does the bookstore open on Saturday?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-b-014": [
+  {
+   "text": "Is anyone using this computer right now?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-015": [
+  {
+   "text": "Could you renew this book for me?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-016": [
+  {
+   "text": "Why is the printer making that noise?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-017": [
+  {
+   "text": "Do I need a password for the lab computers?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-018": [
+  {
+   "text": "Let me know when the study room is free.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-019": [
+  {
+   "text": "Where did you find that article?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-020": [
+  {
+   "text": "Is the bookstore having a sale this week?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-021": [
+  {
+   "text": "Can you lend me a flash drive?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-022": [
+  {
+   "text": "How do I connect to the campus Wi-Fi?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-b-023": [
+  {
+   "text": "Have you returned the laptop to the IT desk?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-024": [
+  {
+   "text": "Let's study in the quiet room today.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-025": [
+  {
+   "text": "Which software do we need for statistics class?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-026": [
+  {
+   "text": "Can I eat in the computer lab?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-027": [
+  {
+   "text": "Please turn off your phone in the reading room.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-028": [
+  {
+   "text": "Who fixed the scanner on the second floor?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-029": [
+  {
+   "text": "Did the library get the new journal?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-030": [
+  {
+   "text": "Could you show me where the atlases are?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-b-031": [
+  {
+   "text": "When does the textbook buyback start?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-032": [
+  {
+   "text": "Is the help desk open on Sundays?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-b-033": [
+  {
+   "text": "I left my charger in the lab.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-034": [
+  {
+   "text": "What's the fine for a late book?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-035": [
+  {
+   "text": "Is the media lab still open after dinner?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-036": [
+  {
+   "text": "You've used the new printing system, haven't you?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-037": [
+  {
+   "text": "Didn't you say the bookstore buys back calculators?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-038": [
+  {
+   "text": "Why don't we reserve a study room for Thursday?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-039": [
+  {
+   "text": "I can print your handout if your account is empty.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-040": [
+  {
+   "text": "This lab computer keeps freezing every few minutes.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-041": [
+  {
+   "text": "Where do I go if my student account gets locked?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-042": [
+  {
+   "text": "Do you know if the reserve copy can leave the library?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-043": [
+  {
+   "text": "The line at the bookstore is out the door.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-b-044": [
+  {
+   "text": "Would you mind checking whether my paper printed?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-b-045": [
+  {
+   "text": "How did you get access to that research database?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-b-046": [
+  {
+   "text": "Aren't the library's laptops supposed to be charged?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-047": [
+  {
+   "text": "You should try the bookstore's rental program.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-048": [
+  {
+   "text": "The IT office is updating every lab computer this weekend.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-049": [
+  {
+   "text": "The study rooms have to be booked online, don't they?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-050": [
+  {
+   "text": "Want me to show you a faster way to search the catalog?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-051": [
+  {
+   "text": "The Wi-Fi in this reading room is painfully slow.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-052": [
+  {
+   "text": "What happens if I return a laptop after the deadline?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-053": [
+  {
+   "text": "Is there a quieter place to work than this lounge?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-b-054": [
+  {
+   "text": "Could you remind me how to share files with my group?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-055": [
+  {
+   "text": "The bookstore just raised the price of lab notebooks.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-056": [
+  {
+   "text": "Haven't you finished those library books yet?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-057": [
+  {
+   "text": "Why are all the scanners on this floor out of order?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-058": [
+  {
+   "text": "We could ask the librarian to help with our citations.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-059": [
+  {
+   "text": "I finally got my laptop back from the repair shop.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-060": [
+  {
+   "text": "Do you still need the statistics software installed?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-061": [
+  {
+   "text": "Can you hold this book for me until tomorrow?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-062": [
+  {
+   "text": "I think the new library hours are a big improvement.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-063": [
+  {
+   "text": "That printer only takes student cards, right?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-064": [
+  {
+   "text": "Which database has the best articles on marine biology?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-b-065": [
+  {
+   "text": "Someone took my seat while I was printing.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-066": [
+  {
+   "text": "I'll be at the bookstore, if you need anything.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-067": [
+  {
+   "text": "My account password expired again this morning, of all days.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-068": [
+  {
+   "text": "I can't believe the library still doesn't have a self-checkout machine.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-069": [
+  {
+   "text": "I was wondering if anyone could spare a few minutes to look at my code.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-070": [
+  {
+   "text": "Would you be willing to cover my shift at the help desk on Saturday?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-b-071": [
+  {
+   "text": "This citation software is supposed to be user-friendly, but I can't make heads or tails of it.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-b-072": [
+  {
+   "text": "Apparently the bookstore is going to stop carrying printed textbooks next fall.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-073": [
+  {
+   "text": "Are you going to the database workshop the library is running tomorrow?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-074": [
+  {
+   "text": "The lab computers keep logging me out before I can save my work.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-075": [
+  {
+   "text": "Where can I get my essay printed on such short notice?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-076": [
+  {
+   "text": "I don't suppose the library has any study rooms left for tonight.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-077": [
+  {
+   "text": "Funny, my account says I still owe a fine for a book I returned weeks ago.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-b-078": [
+  {
+   "text": "Honestly, paying for the premium version of the editing software seems like a waste.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-079": [
+  {
+   "text": "Why not just borrow the textbook from the library instead of buying one?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-080": [
+  {
+   "text": "Wait, you managed to install that program on a lab computer without admin rights?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-b-081": [
+  {
+   "text": "I'm not sure whether my laptop meets the requirements for the design course.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-082": [
+  {
+   "text": "Do you think the bookstore will take back a textbook I've already written in?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-083": [
+  {
+   "text": "The library is extending its hours to midnight for the rest of the semester.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-b-084": [
+  {
+   "text": "If you're stuck on that spreadsheet, my roommate tutors at the computer lab.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-085": [
+  {
+   "text": "How am I supposed to finish this report when the printers are down all afternoon?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-b-086": [
+  {
+   "text": "Would it be too much trouble to switch our study room to the larger one?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-087": [
+  {
+   "text": "I've been going back and forth about whether to buy a new laptop or fix my old one.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-088": [
+  {
+   "text": "It looks like the reserve shelf is missing half the readings for my seminar.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-b-089": [
+  {
+   "text": "Have you had any luck getting the campus Wi-Fi to work on your phone?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-b-090": [
+  {
+   "text": "I heard the computer lab is going to start charging for color printing.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-091": [
+  {
+   "text": "I'd be happy to lend you my old textbook, though it's a couple of editions behind.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-092": [
+  {
+   "text": "I had no idea the library lends out cameras and microphones.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-b-093": [
+  {
+   "text": "What's the point of buying the access code if the homework is optional?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-094": [
+  {
+   "text": "Maybe you should back up your thesis before the system update tonight.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-b-095": [
+  {
+   "text": "It's strange that the bookstore closes right when classes let out.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-b-096": [
+  {
+   "text": "The IT help desk keeps giving me the runaround about my email account.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-097": [
+  {
+   "text": "Did the librarian say whether we can renew the laptop over the phone?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-b-098": [
+  {
+   "text": "That online tutorial made the citation manager seem a lot easier than it is.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-b-099": [
+  {
+   "text": "You wouldn't happen to have a spare charger for this kind of laptop, would you?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-b-100": [
+  {
+   "text": "The interlibrary loan request I put in last month finally came through.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-001": [
+  {
+   "text": "Where can I pick up my new dorm key?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-002": [
+  {
+   "text": "What time does the dining hall close tonight?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-003": [
+  {
+   "text": "Is the laundry room in the basement?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-004": [
+  {
+   "text": "Could you turn your music down a little?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-c-005": [
+  {
+   "text": "Who do I talk to about a broken heater?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-006": [
+  {
+   "text": "Does the meal plan include weekend breakfast?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-007": [
+  {
+   "text": "How late is the gym open on Fridays?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-008": [
+  {
+   "text": "I can help you carry those boxes upstairs.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-009": [
+  {
+   "text": "Did you get a flu shot at the health center?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-010": [
+  {
+   "text": "Please sign the guest log before you go upstairs.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-011": [
+  {
+   "text": "Which café sells the cheapest coffee on campus?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-012": [
+  {
+   "text": "Are pets allowed in the residence halls?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-c-013": [
+  {
+   "text": "The washing machine ate my quarters again.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-014": [
+  {
+   "text": "When are quiet hours on weeknights?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-015": [
+  {
+   "text": "Can you save me a seat at lunch?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-016": [
+  {
+   "text": "Do I need an appointment at the health center?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-017": [
+  {
+   "text": "How much does a gym locker cost?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-018": [
+  {
+   "text": "Want me to grab you a sandwich from the café?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-c-019": [
+  {
+   "text": "Has the elevator been fixed yet?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-020": [
+  {
+   "text": "Where's the recycling bin for this floor?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-021": [
+  {
+   "text": "Would you mind closing the window? It's chilly.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-c-022": [
+  {
+   "text": "Who's running the floor meeting tonight?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-023": [
+  {
+   "text": "Is there a vegetarian option at dinner today?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-024": [
+  {
+   "text": "I finally got a single room for next year!",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-025": [
+  {
+   "text": "Why is the pool closed this week?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-026": [
+  {
+   "text": "Can you show me how to use the dryer?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-027": [
+  {
+   "text": "Did you sign up for the yoga class?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-028": [
+  {
+   "text": "How do I add money to my meal card?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-c-029": [
+  {
+   "text": "My roommate keeps leaving dirty dishes in the sink.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-030": [
+  {
+   "text": "Is the shuttle to the rec center running today?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-031": [
+  {
+   "text": "What's in the soup of the day?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-032": [
+  {
+   "text": "I'll lend you my vacuum if you need it.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-c-033": [
+  {
+   "text": "Which floor is the nurse's office on?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-034": [
+  {
+   "text": "Please remember to lock the door when you leave.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-035": [
+  {
+   "text": "When does the van for summer storage come by our building?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-036": [
+  {
+   "text": "The dining hall switched to reusable containers, didn't it?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-037": [
+  {
+   "text": "Aren't you going to the floor barbecue tonight?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-038": [
+  {
+   "text": "Why don't we split the cost of a mini-fridge?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-039": [
+  {
+   "text": "Is the health center open on Sunday afternoons?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-040": [
+  {
+   "text": "If you're heading to the laundry room, I can take your basket.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-041": [
+  {
+   "text": "You've tried the climbing wall at the rec center, haven't you?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-c-042": [
+  {
+   "text": "The hallway smells like burnt popcorn again.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-043": [
+  {
+   "text": "How long does a maintenance request usually take?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-044": [
+  {
+   "text": "Didn't the gym use to open at six?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-045": [
+  {
+   "text": "Let's try the new noodle place in the student union.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-046": [
+  {
+   "text": "Do you know if quiet hours start earlier during finals?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-047": [
+  {
+   "text": "I'm stopping by the campus pharmacy; need anything?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-048": [
+  {
+   "text": "The meal plan doesn't carry over to next semester, does it?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-049": [
+  {
+   "text": "The new treadmills at the rec center have screens built in.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-c-050": [
+  {
+   "text": "Where should I keep my bike while I'm away this summer?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-051": [
+  {
+   "text": "Haven't you finished unpacking yet? It's been a week.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-052": [
+  {
+   "text": "Could you keep an eye on my laundry for a few minutes?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-053": [
+  {
+   "text": "You should see a doctor about that cough.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-054": [
+  {
+   "text": "Did they ever fix the leak in your bathroom?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-055": [
+  {
+   "text": "The line at the café takes forever every morning.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-056": [
+  {
+   "text": "You're moving into the new residence hall next week, aren't you?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-c-057": [
+  {
+   "text": "Who should I ask about switching roommates?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-058": [
+  {
+   "text": "I can show you where the free weights are, if you'd like.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-059": [
+  {
+   "text": "Isn't the dining hall having a special dinner tonight?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-060": [
+  {
+   "text": "It looks like the vending machine is broken again.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-061": [
+  {
+   "text": "Will the gym be open during spring break?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-062": [
+  {
+   "text": "How about we ask our resident assistant to settle the thermostat dispute?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-063": [
+  {
+   "text": "Would you sign for my package if it arrives while I'm out?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-c-064": [
+  {
+   "text": "The rec center has a sauna, doesn't it?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-065": [
+  {
+   "text": "They're closing the north dining hall for renovations next month.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-c-066": [
+  {
+   "text": "What's the fastest way to the health center from here?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-067": [
+  {
+   "text": "I made way too much soup for one person; want some?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-068": [
+  {
+   "text": "I can't believe they raised the meal plan price again this year.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-069": [
+  {
+   "text": "Would you be willing to switch rooms with me so I can be near my friends?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-070": [
+  {
+   "text": "My new roommate seems nice, but it might take a while to break the ice.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-c-071": [
+  {
+   "text": "Who left the stove on in the shared kitchen last night?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-072": [
+  {
+   "text": "You're telling me the gym charges extra for towels now?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-073": [
+  {
+   "text": "I'm thinking of joining intramural basketball, but I'm worried I'll stand out.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-074": [
+  {
+   "text": "I've got an early exam tomorrow, and your alarm went off three times this morning.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-075": [
+  {
+   "text": "Are you going to renew your gym membership for the spring?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-076": [
+  {
+   "text": "The health center said my test results won't be back until Friday.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-077": [
+  {
+   "text": "If the upstairs neighbors drop one more thing tonight, I'm going to lose my mind.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-078": [
+  {
+   "text": "Honestly, the salad bar is the only thing here worth a meal swipe.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-079": [
+  {
+   "text": "Since we're both swamped, why don't we take turns picking up groceries?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-080": [
+  {
+   "text": "Guess what? I just got hired as a lifeguard at the campus pool.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-081": [
+  {
+   "text": "I've got an extra ticket to the rec center's dance workshop if you're interested.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-c-082": [
+  {
+   "text": "What do you think I should do about my roommate's friends staying over every weekend?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-083": [
+  {
+   "text": "Wow, the dining hall actually has fresh sushi today.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-c-084": [
+  {
+   "text": "Do you think the laundry room will be busy on Sunday night?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-085": [
+  {
+   "text": "Moving out of the dorm turned out to be a piece of cake.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-c-086": [
+  {
+   "text": "I'm not sure the twenty-four-hour study lounge was worth giving up the game room.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-c-087": [
+  {
+   "text": "I hate to ask, but could I borrow your car to move a couch this weekend?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-088": [
+  {
+   "text": "Why does the café always run out of oat milk by noon?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-089": [
+  {
+   "text": "The trainer said I need to cut back on lifting until my shoulder heals.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-090": [
+  {
+   "text": "The heat in our building is on full blast, and it's sixty degrees outside.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-c-091": [
+  {
+   "text": "Is it worth getting the unlimited meal plan if I usually skip breakfast?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-c-092": [
+  {
+   "text": "The rec center is offering free swimming lessons to beginners all semester.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-093": [
+  {
+   "text": "I'm locked out, and the front desk doesn't open for another hour.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-094": [
+  {
+   "text": "I'd say living off campus is cheaper once you factor in the meal plan.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-095": [
+  {
+   "text": "I thought you'd quit the swim team after the first month.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-c-096": [
+  {
+   "text": "When you get a chance, could you take a look at the sink in room three-twelve?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-097": [
+  {
+   "text": "With finals coming up, the gym is the last place I want to be.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-c-098": [
+  {
+   "text": "Why don't you join our study group in the dorm lounge tonight?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-099": [
+  {
+   "text": "How am I supposed to sleep with the construction crew starting at six every morning?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-c-100": [
+  {
+   "text": "The line for the yoga class wraps all the way around the building.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-001": [
+  {
+   "text": "When does the career fair start tomorrow?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-002": [
+  {
+   "text": "Where do I sign up for the hiking club?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-003": [
+  {
+   "text": "Are you working at the campus bookstore this semester?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-004": [
+  {
+   "text": "Please hand me one of those volunteer forms.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-005": [
+  {
+   "text": "Who's speaking at tonight's guest lecture?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-006": [
+  {
+   "text": "Did our team win the basketball game last night?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-007": [
+  {
+   "text": "How much are tickets for the spring concert?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-008": [
+  {
+   "text": "I can help you set up chairs for the event.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-009": [
+  {
+   "text": "Is the student government meeting open to everyone?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-010": [
+  {
+   "text": "Why did you quit the debate team?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-011": [
+  {
+   "text": "Could you check if the internship listing is still posted?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-012": [
+  {
+   "text": "I got the job at the campus café.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-013": [
+  {
+   "text": "Which room is the chess club using now?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-014": [
+  {
+   "text": "Have you registered for the charity run yet?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-015": [
+  {
+   "text": "Let's get to the stadium early for good seats.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-016": [
+  {
+   "text": "What does the career center do on Fridays?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-017": [
+  {
+   "text": "The volunteer sign-up sheet is already full.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-018": [
+  {
+   "text": "Is the photography club meeting tonight?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-019": [
+  {
+   "text": "Can you text me the address of the shelter?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-020": [
+  {
+   "text": "How long is your summer internship?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-021": [
+  {
+   "text": "Would you like a flyer for the jazz night?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-022": [
+  {
+   "text": "Where are the student government elections held?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-023": [
+  {
+   "text": "The guest lecture has been canceled.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-024": [
+  {
+   "text": "Do you need a ride to the volleyball game?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-025": [
+  {
+   "text": "Please turn your phone off during the concert.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-026": [
+  {
+   "text": "Who should I ask about work-study jobs?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-027": [
+  {
+   "text": "The club fair is really crowded today.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-028": [
+  {
+   "text": "Was the career workshop helpful?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-029": [
+  {
+   "text": "What time does the soccer game end?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-030": [
+  {
+   "text": "Could you save me a seat at the talk?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-031": [
+  {
+   "text": "Why don't you apply to be a tour guide?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-032": [
+  {
+   "text": "How many people joined the robotics club?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-033": [
+  {
+   "text": "Did you finish your volunteer hours?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-034": [
+  {
+   "text": "I lost my ticket for the theater show.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-035": [
+  {
+   "text": "Is the career center open during spring break?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-036": [
+  {
+   "text": "You're running for treasurer this year, aren't you?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-037": [
+  {
+   "text": "Didn't the orchestra perform this same piece last fall?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-038": [
+  {
+   "text": "We should ask the dean to speak at our club's banquet.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-039": [
+  {
+   "text": "I'll cover your shift at the library if you're sick.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-040": [
+  {
+   "text": "How did your interview at the engineering firm go?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-041": [
+  {
+   "text": "Would you mind proofreading my application essay for the fellowship?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-042": [
+  {
+   "text": "Hardly anyone showed up to the poetry reading.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-043": [
+  {
+   "text": "Are internships with the city paid this year?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-044": [
+  {
+   "text": "Where did the campus food drive collect the most donations?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-045": [
+  {
+   "text": "Aren't you volunteering at the marathon this weekend?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-046": [
+  {
+   "text": "How about we split the cost of a booth at the fair?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-047": [
+  {
+   "text": "The sound at last night's concert was way too loud.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-048": [
+  {
+   "text": "The internship application closes Friday, doesn't it?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-049": [
+  {
+   "text": "Can you announce the club meeting at the end of class?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-050": [
+  {
+   "text": "Who's in charge of booking the band for homecoming?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-051": [
+  {
+   "text": "The robotics team just qualified for the national finals.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-052": [
+  {
+   "text": "Do you know if the gym is open during the game?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-053": [
+  {
+   "text": "Want me to introduce you to the newspaper's editor?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-054": [
+  {
+   "text": "What should I wear to the networking reception?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-055": [
+  {
+   "text": "You should mention your tutoring experience in the interview.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-056": [
+  {
+   "text": "Isn't the drama club performing a comedy this term?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-057": [
+  {
+   "text": "The line for basketball tickets goes around the building.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-058": [
+  {
+   "text": "Why is the student union closing early today?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-059": [
+  {
+   "text": "Your résumé doesn't list any of your club leadership.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-060": [
+  {
+   "text": "Will the guest speaker take questions after the talk?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-061": [
+  {
+   "text": "Let me know when the volunteer schedule is posted.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-062": [
+  {
+   "text": "That was the best halftime show we've had, wasn't it?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-063": [
+  {
+   "text": "How often does the environmental club organize cleanups?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-064": [
+  {
+   "text": "I have an extra pass for the film festival tomorrow.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-065": [
+  {
+   "text": "I'm thinking of dropping out of the choir.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-066": [
+  {
+   "text": "Don't you need a reference letter for that internship?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-067": [
+  {
+   "text": "Maybe we could hold the bake sale outside the library.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-068": [
+  {
+   "text": "How are you managing two part-time jobs on top of a full course load?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-069": [
+  {
+   "text": "I can't believe they turned down your proposal for the campus garden.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-070": [
+  {
+   "text": "I was wondering if you'd be willing to chair the fundraising committee next semester.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-071": [
+  {
+   "text": "Honestly, I think the student government spends too much on concerts.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-d-072": [
+  {
+   "text": "Do you think the career center could look over my portfolio before Thursday?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-073": [
+  {
+   "text": "I'm on the fence about accepting the internship in another city.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-074": [
+  {
+   "text": "The new president of the hiking club really dropped the ball on the trip planning.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-075": [
+  {
+   "text": "What made you decide to volunteer at the hospital rather than the library?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-076": [
+  {
+   "text": "If you're free Saturday, we could use another hand at the charity car wash.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-d-077": [
+  {
+   "text": "Did you hear that the guest lecture got moved to the big auditorium?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-078": [
+  {
+   "text": "You might want to tone down the jokes in your campaign speech.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-079": [
+  {
+   "text": "The stands looked half empty for the championship game.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-080": [
+  {
+   "text": "I've emailed the club treasurer three times about my reimbursement.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-d-081": [
+  {
+   "text": "Would it be a problem if I brought a friend from another school to the concert?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-082": [
+  {
+   "text": "I'm surprised they hired a sophomore to manage the campus radio station.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-d-083": [
+  {
+   "text": "Where do you think the debate team should spend the travel money?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-084": [
+  {
+   "text": "My manager at the café said I could take the weekend off if I find a replacement.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-085": [
+  {
+   "text": "I'd say the career fair is more useful for seniors than for first-year students.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-086": [
+  {
+   "text": "If it's not too much trouble, could you forward me the minutes from Tuesday's meeting?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-087": [
+  {
+   "text": "Why do you suppose the volunteer turnout dropped so sharply this year?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-088": [
+  {
+   "text": "You're not seriously thinking of skipping the alumni panel, are you?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-089": [
+  {
+   "text": "It might be worth reaching out to last year's interns before you accept.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-090": [
+  {
+   "text": "The film society lost its funding, so this semester's screenings are off.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-091": [
+  {
+   "text": "Which of the two job offers are you leaning toward?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-092": [
+  {
+   "text": "I hate to ask, but could you take my place at the information booth for an hour?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-d-093": [
+  {
+   "text": "The new rules for reserving club rooms seem awfully complicated.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-094": [
+  {
+   "text": "Have you heard back from the summer program you applied to in March?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-d-095": [
+  {
+   "text": "If you need someone to look over your speech before the election, just say the word.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-d-096": [
+  {
+   "text": "When do you think you'll hear about the resident assistant position?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-d-097": [
+  {
+   "text": "Wow, the line for the climbing wall is shorter than I expected.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-d-098": [
+  {
+   "text": "Is it true the student senate voted against extending library hours?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-d-099": [
+  {
+   "text": "I spent all weekend on the club newsletter, and only five people opened it.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-d-100": [
+  {
+   "text": "Any chance you could swap your Friday shift at the rec center for my Monday one?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-001": [
+  {
+   "text": "What time does the pharmacy close tonight?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-002": [
+  {
+   "text": "Do you take credit cards here?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-003": [
+  {
+   "text": "Could you weigh this package for me?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-004": [
+  {
+   "text": "Where is the nearest bus stop?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-005": [
+  {
+   "text": "Excuse me, is this seat taken?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-006": [
+  {
+   "text": "How much is a ticket into the city?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-007": [
+  {
+   "text": "Here, let me help you carry those bags.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-008": [
+  {
+   "text": "Please turn your music down after ten.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-009": [
+  {
+   "text": "When is my next cleaning appointment?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-010": [
+  {
+   "text": "Did the landlord fix your sink yet?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-011": [
+  {
+   "text": "I think I left my umbrella on the train.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-012": [
+  {
+   "text": "Which platform does the airport train leave from?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-013": [
+  {
+   "text": "Can I see the dessert menu, please?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-e-014": [
+  {
+   "text": "Is the store open on Sundays?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-015": [
+  {
+   "text": "Who should I talk to about my rent?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-e-016": [
+  {
+   "text": "Let's grab lunch at that new noodle place.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-017": [
+  {
+   "text": "Is it going to snow this weekend?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-018": [
+  {
+   "text": "Could you cut it a little shorter on top?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-019": [
+  {
+   "text": "How long is the wait for a table?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-020": [
+  {
+   "text": "Oh no, my flight was just canceled.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-021": [
+  {
+   "text": "Do I need an appointment to open an account?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-022": [
+  {
+   "text": "Where can I buy stamps around here?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-023": [
+  {
+   "text": "Would you like your receipt in the bag?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-024": [
+  {
+   "text": "Please fill out this form while you wait.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-025": [
+  {
+   "text": "Why is the subway so crowded today?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-e-026": [
+  {
+   "text": "Have you met our new neighbors yet?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-027": [
+  {
+   "text": "Excuse me, this soup is completely cold.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-028": [
+  {
+   "text": "What's the fastest way to the airport?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-029": [
+  {
+   "text": "Can you hold the elevator for me?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-030": [
+  {
+   "text": "Is breakfast included with the room?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-031": [
+  {
+   "text": "How often does the mail come here?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-032": [
+  {
+   "text": "I finally found an apartment near work.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-033": [
+  {
+   "text": "Could you recommend a good dish here?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-e-034": [
+  {
+   "text": "Did you remember to bring the tickets?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-035": [
+  {
+   "text": "Is the post office still open this late?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-e-036": [
+  {
+   "text": "The bus is running late again, isn't it?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-037": [
+  {
+   "text": "Didn't you say the bank closes at noon on Saturdays?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-038": [
+  {
+   "text": "Why don't we split a taxi to the airport?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-039": [
+  {
+   "text": "I can lend you my car while yours is in the shop.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-040": [
+  {
+   "text": "How did you find out about this restaurant?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-e-041": [
+  {
+   "text": "The dentist's office called to move my appointment up.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-e-042": [
+  {
+   "text": "Do you know if this train stops at Riverside?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-043": [
+  {
+   "text": "The heater in my apartment has been making a strange noise.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-044": [
+  {
+   "text": "Aren't you going to the beach with everyone on Saturday?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-045": [
+  {
+   "text": "Maybe we should book the hotel before prices go up.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-046": [
+  {
+   "text": "Who did your hair? It looks fantastic.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-047": [
+  {
+   "text": "Would you like me to wrap this as a gift?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-e-048": [
+  {
+   "text": "You've lived in this neighborhood for years, haven't you?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-049": [
+  {
+   "text": "Wow, the line at the bank is out the door.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-050": [
+  {
+   "text": "Which bus should I take to get to the museum?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-051": [
+  {
+   "text": "Could you keep an eye on my plants while I'm traveling?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-052": [
+  {
+   "text": "Did the doctor say anything about your test results?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-053": [
+  {
+   "text": "Wasn't the farmers' market supposed to be here today?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-e-054": [
+  {
+   "text": "I've been on hold with the airline for almost an hour.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-055": [
+  {
+   "text": "How about we meet at the café instead of the library?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-056": [
+  {
+   "text": "The forecast says it'll be sunny all weekend.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-057": [
+  {
+   "text": "Is there a pharmacy nearby that's open twenty-four hours?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-e-058": [
+  {
+   "text": "What should I bring to your housewarming party?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-059": [
+  {
+   "text": "Do you want me to pick up groceries on my way home?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-060": [
+  {
+   "text": "This apartment gets a lot of sunlight, doesn't it?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-061": [
+  {
+   "text": "Would you mind switching seats so I can sit with my son?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-062": [
+  {
+   "text": "I heard the bakery on the corner is closing next month.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-063": [
+  {
+   "text": "Don't we need to change trains at the next stop?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-e-064": [
+  {
+   "text": "When are you planning to visit your family?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-065": [
+  {
+   "text": "The package I ordered was supposed to arrive yesterday.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-066": [
+  {
+   "text": "You should try the express lane; you only have a few items.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-067": [
+  {
+   "text": "Can I pay my phone bill at this counter?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-068": [
+  {
+   "text": "Where would you recommend staying if we only have one night in the city?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-070": [
+  {
+   "text": "If you're heading to the post office anyway, I could drop your letters off.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-071": [
+  {
+   "text": "I'm thinking of getting a bike instead of renewing my bus pass.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-072": [
+  {
+   "text": "Are you coming to the barbecue at the neighbors' place tomorrow?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-073": [
+  {
+   "text": "Wow, the line for this brunch spot goes all the way around the block.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-e-074": [
+  {
+   "text": "My landlord keeps dragging his feet on fixing the leak.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-075": [
+  {
+   "text": "What time should we leave for the airport tomorrow?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-076": [
+  {
+   "text": "I've been meaning to try that dentist everyone keeps raving about.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-077": [
+  {
+   "text": "The waiter brought us the wrong order, and we've waited forty minutes.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-078": [
+  {
+   "text": "It's a bit chilly in here, don't you think?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-079": [
+  {
+   "text": "We might have to call off the hike if this storm doesn't let up.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-080": [
+  {
+   "text": "Guess what, the bank approved my loan for the apartment.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-081": [
+  {
+   "text": "How did your meeting with the new landlord go?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-082": [
+  {
+   "text": "We could take the scenic route along the coast, if you're not in a hurry.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-083": [
+  {
+   "text": "Honestly, I think the new train schedule is a lot more confusing.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-084": [
+  {
+   "text": "I didn't expect the hotel room to be quite this tiny.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-085": [
+  {
+   "text": "Do you happen to know whether this café has wireless internet?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-086": [
+  {
+   "text": "My phone's about to die, and I still need to call a taxi.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-087": [
+  {
+   "text": "Why do you always shop at the market across town?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-088": [
+  {
+   "text": "The neighbors' dog barked all night, and I barely slept.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-089": [
+  {
+   "text": "I'm not sure I should sign a two-year lease on that place.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-090": [
+  {
+   "text": "There's an extra ticket to the concert Saturday if you want it.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-091": [
+  {
+   "text": "Which neighborhood do you think we should look for apartments in?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-e-092": [
+  {
+   "text": "I'm going to have to take a rain check on dinner tonight.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-e-093": [
+  {
+   "text": "If you're still feeling sick, you might want to see a doctor.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-094": [
+  {
+   "text": "Where's the best place to exchange money before our trip?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-e-095": [
+  {
+   "text": "I just realized I left my wallet at the restaurant.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-e-096": [
+  {
+   "text": "You wouldn't happen to have change for a twenty, would you?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-e-097": [
+  {
+   "text": "What did the mechanic end up saying about your car?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-098": [
+  {
+   "text": "These grocery prices are really getting out of hand lately.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-e-099": [
+  {
+   "text": "Would you mind if I parked in your spot while you're away?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-e-100": [
+  {
+   "text": "They're closing the main bridge for repairs starting next Monday.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-001": [
+  {
+   "text": "Where do we put used pipette tips?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-002": [
+  {
+   "text": "Is the museum open on Mondays?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-003": [
+  {
+   "text": "When does the shuttle to the science building leave?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-004": [
+  {
+   "text": "Hand me those safety goggles, please.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-005": [
+  {
+   "text": "Who's leading the field trip tomorrow?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-006": [
+  {
+   "text": "I forgot my lab coat at home.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-007": [
+  {
+   "text": "Did you book the conference room for Thursday?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-008": [
+  {
+   "text": "How do I get to the east building?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-009": [
+  {
+   "text": "Please sign in before using the microscope.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-010": [
+  {
+   "text": "What time does your shift end today?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-011": [
+  {
+   "text": "Are the beakers on this shelf clean?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-012": [
+  {
+   "text": "The projector in Room 210 isn't working.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-013": [
+  {
+   "text": "Which bus goes to the art museum?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-f-014": [
+  {
+   "text": "Please pass out these handouts to everyone.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-015": [
+  {
+   "text": "Have you tried the new microscope yet?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-016": [
+  {
+   "text": "I'm presenting first at the conference tomorrow.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-017": [
+  {
+   "text": "Why is the lab door locked?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-018": [
+  {
+   "text": "Let's take the stairs instead of the elevator.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-019": [
+  {
+   "text": "Is the gallery free for students?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-020": [
+  {
+   "text": "Where can I borrow a tripod?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-f-021": [
+  {
+   "text": "Please wear gloves when handling these samples.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-022": [
+  {
+   "text": "How long is the presentation supposed to be?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-023": [
+  {
+   "text": "Did the manager approve your time off?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-024": [
+  {
+   "text": "The field trip got canceled because of rain.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-f-025": [
+  {
+   "text": "Who has the key to the storage room?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-027": [
+  {
+   "text": "Is there a printer in this building?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-028": [
+  {
+   "text": "I just got promoted to shift supervisor.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-029": [
+  {
+   "text": "What should I bring on the field trip?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-030": [
+  {
+   "text": "I can drive you to the north campus.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-031": [
+  {
+   "text": "When is the safety training this month?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-032": [
+  {
+   "text": "Why don't we meet in the library instead?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-f-033": [
+  {
+   "text": "Do you need help carrying those boxes?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-034": [
+  {
+   "text": "My laptop battery is almost dead.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-035": [
+  {
+   "text": "Will the chemistry lab be open tonight?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-f-036": [
+  {
+   "text": "You've used this centrifuge before, haven't you?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-037": [
+  {
+   "text": "Didn't the gallery extend its hours this month?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-038": [
+  {
+   "text": "Maybe we should rehearse the presentation one more time.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-039": [
+  {
+   "text": "I can lend you my laptop charger for the conference.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-040": [
+  {
+   "text": "How are we getting to the conference hotel?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-041": [
+  {
+   "text": "The break room fridge is full of old food again.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-042": [
+  {
+   "text": "Has anyone signed up for the Saturday shift yet?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-043": [
+  {
+   "text": "The department finally approved funding for the new spectrometer.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-044": [
+  {
+   "text": "Why did they move the poster session to the gym?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-045": [
+  {
+   "text": "Would you mind covering my shift on Thursday afternoon?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-046": [
+  {
+   "text": "Aren't we supposed to wear closed-toe shoes in here?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-047": [
+  {
+   "text": "This bus seems to be taking the long way around.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-f-048": [
+  {
+   "text": "Who should I ask about borrowing a projector for my talk?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-049": [
+  {
+   "text": "How about we split the driving on the way to the conference?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-f-050": [
+  {
+   "text": "Do you know if the museum allows photography inside?",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-051": [
+  {
+   "text": "The meeting's been moved to three, hasn't it?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-052": [
+  {
+   "text": "I keep losing track of which samples I've already labeled.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-053": [
+  {
+   "text": "I'm not sure my slides will fit on the screen in that room.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-054": [
+  {
+   "text": "Which entrance should we use to get to the loading dock?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-f-055": [
+  {
+   "text": "I'll grab the extension cord from the supply room.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-056": [
+  {
+   "text": "Did you get a chance to look over my lab report?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-057": [
+  {
+   "text": "They're installing a new emergency shower in Lab B next week.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-058": [
+  {
+   "text": "What did the manager say about the new schedule?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-059": [
+  {
+   "text": "We should leave early to beat the traffic to the field site.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-060": [
+  {
+   "text": "Isn't the guest speaker arriving this afternoon?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-061": [
+  {
+   "text": "The copier on the second floor keeps jamming.",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-f-062": [
+  {
+   "text": "Can visitors walk between the two buildings through the tunnel?",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-063": [
+  {
+   "text": "The lab's emergency eyewash station is blocked by boxes.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-064": [
+  {
+   "text": "How often does the tour guide stop to answer questions?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-065": [
+  {
+   "text": "If you want, I can introduce you to the lab director.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-066": [
+  {
+   "text": "Our manager just said we're closing early for the holiday.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-067": [
+  {
+   "text": "You're presenting the second half of our project, right?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-068": [
+  {
+   "text": "I was hoping to use the 3D printer this afternoon, but someone's booked it all day.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-069": [
+  {
+   "text": "Do you think the manager would mind if I swapped shifts with someone from the morning crew?",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-070": [
+  {
+   "text": "What made you decide to present your findings as a poster rather than a talk?",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-071": [
+  {
+   "text": "Would you be willing to chair the morning session at next month's conference?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-072": [
+  {
+   "text": "I'm completely swamped—any chance you could take over the inventory count?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-073": [
+  {
+   "text": "I can't believe they're letting first-year students run experiments unsupervised.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "cr-f-074": [
+  {
+   "text": "Honestly, that exhibit on early printing was more interesting than I expected.",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-075": [
+  {
+   "text": "Where are we supposed to park the vans once we reach the field station?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-076": [
+  {
+   "text": "The heater in the greenhouse lab has been acting up all week.",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-077": [
+  {
+   "text": "Shouldn't we confirm the room booking before we send out the meeting invitation?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-078": [
+  {
+   "text": "The lab manager said the order for the reagents fell through.",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-f-079": [
+  {
+   "text": "Can someone give me a ride to the observatory tonight?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-080": [
+  {
+   "text": "I'd go to the conference, but the registration fee is pretty steep.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-081": [
+  {
+   "text": "It looks like nobody has signed out the soldering kit since March.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-082": [
+  {
+   "text": "How did the visitors react when the volcano demonstration went off early?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-083": [
+  {
+   "text": "You'll be able to cover the front desk while I'm at the dentist, won't you?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-084": [
+  {
+   "text": "I'm heading over to the engineering building—want me to carry that monitor for you?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-f-085": [
+  {
+   "text": "Apparently, the museum is letting us handle some of the fossils on Thursday.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-086": [
+  {
+   "text": "Let's touch base after the presentation to see what needs fixing.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-087": [
+  {
+   "text": "Why do you think the supervisor scheduled everyone for the same shift?",
+   "voice": "am_puck"
+  }
+ ],
+ "cr-f-088": [
+  {
+   "text": "I had no idea the shuttle stopped running at nine on weekends.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-089": [
+  {
+   "text": "Is it really necessary to wear a respirator just to pour this solution?",
+   "voice": "bm_george"
+  }
+ ],
+ "cr-f-090": [
+  {
+   "text": "Personally, I think the conference should have spread the keynotes over two days.",
+   "voice": "af_kore"
+  }
+ ],
+ "cr-f-091": [
+  {
+   "text": "If you're passing by the print shop, I'd be grateful if you picked up my posters.",
+   "voice": "af_bella"
+  }
+ ],
+ "cr-f-092": [
+  {
+   "text": "When would be the least disruptive time to recalibrate the instruments?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-093": [
+  {
+   "text": "The gallery tour runs ninety minutes, and I only have an hour.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-094": [
+  {
+   "text": "Didn't you say you'd already reserved the van for the field trip?",
+   "voice": "af_sarah"
+  }
+ ],
+ "cr-f-095": [
+  {
+   "text": "My manager keeps assigning me the closing shift even though I've asked for mornings.",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-096": [
+  {
+   "text": "If the elevator's still out, I can help you get the cart up to the third floor.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-097": [
+  {
+   "text": "What's the best way to get from the lab to the auditorium in this rain?",
+   "voice": "bm_fable"
+  }
+ ],
+ "cr-f-098": [
+  {
+   "text": "Would it be a problem if I brought my younger cousin to the observatory open house?",
+   "voice": "af_heart"
+  }
+ ],
+ "cr-f-099": [
+  {
+   "text": "The conference schedule they emailed us doesn't match the one on the website.",
+   "voice": "af_aoede"
+  }
+ ],
+ "cr-f-100": [
+  {
+   "text": "I've been asked to give a lab tour to the new interns, but I've never done one.",
+   "voice": "af_kore"
+  }
+ ],
  "cv1-01": [
   {
    "pause": 0.8,
@@ -3957,1446 +7545,6 @@
   {
    "text": "Guided hiking trips are posted on this board, and spaces often fill up within hours of being announced.",
    "voice": "am_puck"
-  }
- ],
- "x-l-response-01-01": [
-  {
-   "text": "Could you send the notes today?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-01-02": [
-  {
-   "text": "Could you send the outline today?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-01-03": [
-  {
-   "text": "Could you send the ticket today?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-01-04": [
-  {
-   "text": "Could you send the agenda today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-01-05": [
-  {
-   "text": "Could you send the map today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-01-06": [
-  {
-   "text": "Could you send the pass today?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-01-07": [
-  {
-   "text": "Could you send the form today?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-01-08": [
-  {
-   "text": "Could you send the résumé today?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-01-09": [
-  {
-   "text": "Could you send the score today?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-01-10": [
-  {
-   "text": "Could you send the record today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-01-11": [
-  {
-   "text": "Could you send the article today?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-01-12": [
-  {
-   "text": "Could you send the waiver today?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-01-13": [
-  {
-   "text": "Could you send the schedule today?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-01-14": [
-  {
-   "text": "Could you send the invitation today?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-01-15": [
-  {
-   "text": "Could you send the password today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-01-16": [
-  {
-   "text": "Could you send the program today?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-01-17": [
-  {
-   "text": "Could you send the degree plan today?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-01-18": [
-  {
-   "text": "Could you send the receipt today?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-01-19": [
-  {
-   "text": "Could you send the worksheet today?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-01-20": [
-  {
-   "text": "Could you send the guide today?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-02-01": [
-  {
-   "text": "Why was the workshop moved?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-02-02": [
-  {
-   "text": "Why was the lecture moved?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-02-03": [
-  {
-   "text": "Why was the concert moved?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-02-04": [
-  {
-   "text": "Why was the meeting moved?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-02-05": [
-  {
-   "text": "Why was the tour moved?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-02-06": [
-  {
-   "text": "Why was the bus moved?",
-   "voice": "am_puck"
-  }
- ],
- "x-l-response-02-07": [
-  {
-   "text": "Why was the lab moved?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-02-08": [
-  {
-   "text": "Why was the interview moved?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-02-09": [
-  {
-   "text": "Why was the rehearsal moved?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-02-10": [
-  {
-   "text": "Why was the clinic moved?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-02-11": [
-  {
-   "text": "Why was the seminar moved?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-02-12": [
-  {
-   "text": "Why was the field trip moved?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-02-13": [
-  {
-   "text": "Why was the practice moved?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-02-14": [
-  {
-   "text": "Why was the screening moved?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-02-15": [
-  {
-   "text": "Why was the session moved?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-02-16": [
-  {
-   "text": "Why was the talk moved?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-02-17": [
-  {
-   "text": "Why was the appointment moved?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-02-18": [
-  {
-   "text": "Why was the pickup moved?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-02-19": [
-  {
-   "text": "Why was the class moved?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-02-20": [
-  {
-   "text": "Why was the exhibit moved?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-03-01": [
-  {
-   "text": "Is the library still open?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-03-02": [
-  {
-   "text": "Is the auditorium still open?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-03-03": [
-  {
-   "text": "Is the theater still open?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-03-04": [
-  {
-   "text": "Is the student center still open?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-03-05": [
-  {
-   "text": "Is the museum still open?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-03-06": [
-  {
-   "text": "Is the south gate still open?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-03-07": [
-  {
-   "text": "Is the science hall still open?",
-   "voice": "am_puck"
-  }
- ],
- "x-l-response-03-08": [
-  {
-   "text": "Is the career center still open?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-03-09": [
-  {
-   "text": "Is the music hall still open?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-03-10": [
-  {
-   "text": "Is the health center still open?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-03-11": [
-  {
-   "text": "Is the Room 204 still open?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-03-12": [
-  {
-   "text": "Is the north gate still open?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-03-13": [
-  {
-   "text": "Is the gym still open?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-03-14": [
-  {
-   "text": "Is the ballroom still open?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-03-15": [
-  {
-   "text": "Is the computer lab still open?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-03-16": [
-  {
-   "text": "Is the east gallery still open?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-03-17": [
-  {
-   "text": "Is the advising office still open?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-03-18": [
-  {
-   "text": "Is the parcel window still open?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-03-19": [
-  {
-   "text": "Is the Room 118 still open?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-03-20": [
-  {
-   "text": "Is the main gallery still open?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-04-01": [
-  {
-   "text": "I thought the workshop was Friday.",
-   "voice": "am_puck"
-  }
- ],
- "x-l-response-04-02": [
-  {
-   "text": "I thought the lecture was Tuesday.",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-04-03": [
-  {
-   "text": "I thought the concert was Saturday.",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-04-04": [
-  {
-   "text": "I thought the meeting was Monday.",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-04-05": [
-  {
-   "text": "I thought the tour was Thursday.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-04-06": [
-  {
-   "text": "I thought the bus was Wednesday.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-04-07": [
-  {
-   "text": "I thought the lab was Friday.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-04-08": [
-  {
-   "text": "I thought the interview was Monday.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-04-09": [
-  {
-   "text": "I thought the rehearsal was Sunday.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-04-10": [
-  {
-   "text": "I thought the clinic was Tuesday.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-04-11": [
-  {
-   "text": "I thought the seminar was Thursday.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-04-12": [
-  {
-   "text": "I thought the field trip was Saturday.",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-04-13": [
-  {
-   "text": "I thought the practice was Wednesday.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-04-14": [
-  {
-   "text": "I thought the screening was Friday.",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-04-15": [
-  {
-   "text": "I thought the session was Monday.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-04-16": [
-  {
-   "text": "I thought the talk was Sunday.",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-04-17": [
-  {
-   "text": "I thought the appointment was Thursday.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-04-18": [
-  {
-   "text": "I thought the pickup was Tuesday.",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-04-19": [
-  {
-   "text": "I thought the class was Wednesday.",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-04-20": [
-  {
-   "text": "I thought the exhibit was Saturday.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-05-01": [
-  {
-   "text": "Would you show me the library?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-05-02": [
-  {
-   "text": "Would you show me the auditorium?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-05-03": [
-  {
-   "text": "Would you show me the theater?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-05-04": [
-  {
-   "text": "Would you show me the student center?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-05-05": [
-  {
-   "text": "Would you show me the museum?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-05-06": [
-  {
-   "text": "Would you show me the south gate?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-05-07": [
-  {
-   "text": "Would you show me the science hall?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-05-08": [
-  {
-   "text": "Would you show me the career center?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-05-09": [
-  {
-   "text": "Would you show me the music hall?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-05-10": [
-  {
-   "text": "Would you show me the health center?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-05-11": [
-  {
-   "text": "Would you show me the Room 204?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-05-12": [
-  {
-   "text": "Would you show me the north gate?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-05-13": [
-  {
-   "text": "Would you show me the gym?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-05-14": [
-  {
-   "text": "Would you show me the ballroom?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-05-15": [
-  {
-   "text": "Would you show me the computer lab?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-05-16": [
-  {
-   "text": "Would you show me the east gallery?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-05-17": [
-  {
-   "text": "Would you show me the advising office?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-05-18": [
-  {
-   "text": "Would you show me the parcel window?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-05-19": [
-  {
-   "text": "Would you show me the Room 118?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-05-20": [
-  {
-   "text": "Would you show me the main gallery?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-06-01": [
-  {
-   "text": "How can I confirm the workshop?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-06-02": [
-  {
-   "text": "How can I confirm the lecture?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-06-03": [
-  {
-   "text": "How can I confirm the concert?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-06-04": [
-  {
-   "text": "How can I confirm the meeting?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-06-05": [
-  {
-   "text": "How can I confirm the tour?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-06-06": [
-  {
-   "text": "How can I confirm the bus?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-06-07": [
-  {
-   "text": "How can I confirm the lab?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-06-08": [
-  {
-   "text": "How can I confirm the interview?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-06-09": [
-  {
-   "text": "How can I confirm the rehearsal?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-06-10": [
-  {
-   "text": "How can I confirm the clinic?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-06-11": [
-  {
-   "text": "How can I confirm the seminar?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-06-12": [
-  {
-   "text": "How can I confirm the field trip?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-06-13": [
-  {
-   "text": "How can I confirm the practice?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-06-14": [
-  {
-   "text": "How can I confirm the screening?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-06-15": [
-  {
-   "text": "How can I confirm the session?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-06-16": [
-  {
-   "text": "How can I confirm the talk?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-06-17": [
-  {
-   "text": "How can I confirm the appointment?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-06-18": [
-  {
-   "text": "How can I confirm the pickup?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-06-19": [
-  {
-   "text": "How can I confirm the class?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-06-20": [
-  {
-   "text": "How can I confirm the exhibit?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-07-01": [
-  {
-   "text": "Wasn't the workshop Friday?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-07-02": [
-  {
-   "text": "Wasn't the lecture Tuesday?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-07-03": [
-  {
-   "text": "Wasn't the concert Saturday?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-07-04": [
-  {
-   "text": "Wasn't the meeting Monday?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-07-05": [
-  {
-   "text": "Wasn't the tour Thursday?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-07-06": [
-  {
-   "text": "Wasn't the bus Wednesday?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-07-07": [
-  {
-   "text": "Wasn't the lab Friday?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-07-08": [
-  {
-   "text": "Wasn't the interview Monday?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-07-09": [
-  {
-   "text": "Wasn't the rehearsal Sunday?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-07-10": [
-  {
-   "text": "Wasn't the clinic Tuesday?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-07-11": [
-  {
-   "text": "Wasn't the seminar Thursday?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-07-12": [
-  {
-   "text": "Wasn't the field trip Saturday?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-07-13": [
-  {
-   "text": "Wasn't the practice Wednesday?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-07-14": [
-  {
-   "text": "Wasn't the screening Friday?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-07-15": [
-  {
-   "text": "Wasn't the session Monday?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-07-16": [
-  {
-   "text": "Wasn't the talk Sunday?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-07-17": [
-  {
-   "text": "Wasn't the appointment Thursday?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-07-18": [
-  {
-   "text": "Wasn't the pickup Tuesday?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-07-19": [
-  {
-   "text": "Wasn't the class Wednesday?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-07-20": [
-  {
-   "text": "Wasn't the exhibit Saturday?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-08-01": [
-  {
-   "text": "Where is the workshop now?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-08-02": [
-  {
-   "text": "Where is the lecture now?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-08-03": [
-  {
-   "text": "Where is the concert now?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-08-04": [
-  {
-   "text": "Where is the meeting now?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-08-05": [
-  {
-   "text": "Where is the tour now?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-08-06": [
-  {
-   "text": "Where is the bus now?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-08-07": [
-  {
-   "text": "Where is the lab now?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-08-08": [
-  {
-   "text": "Where is the interview now?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-08-09": [
-  {
-   "text": "Where is the rehearsal now?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-08-10": [
-  {
-   "text": "Where is the clinic now?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-08-11": [
-  {
-   "text": "Where is the seminar now?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-08-12": [
-  {
-   "text": "Where is the field trip now?",
-   "voice": "am_puck"
-  }
- ],
- "x-l-response-08-13": [
-  {
-   "text": "Where is the practice now?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-08-14": [
-  {
-   "text": "Where is the screening now?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-08-15": [
-  {
-   "text": "Where is the session now?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-08-16": [
-  {
-   "text": "Where is the talk now?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-08-17": [
-  {
-   "text": "Where is the appointment now?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-08-18": [
-  {
-   "text": "Where is the pickup now?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-08-19": [
-  {
-   "text": "Where is the class now?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-08-20": [
-  {
-   "text": "Where is the exhibit now?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-01": [
-  {
-   "text": "Should I submit the notes today?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-09-02": [
-  {
-   "text": "Should I submit the outline today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-03": [
-  {
-   "text": "Should I submit the ticket today?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-09-04": [
-  {
-   "text": "Should I submit the agenda today?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-09-05": [
-  {
-   "text": "Should I submit the map today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-06": [
-  {
-   "text": "Should I submit the pass today?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-09-07": [
-  {
-   "text": "Should I submit the form today?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-09-08": [
-  {
-   "text": "Should I submit the résumé today?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-09-09": [
-  {
-   "text": "Should I submit the score today?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-09-10": [
-  {
-   "text": "Should I submit the record today?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-09-11": [
-  {
-   "text": "Should I submit the article today?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-09-12": [
-  {
-   "text": "Should I submit the waiver today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-13": [
-  {
-   "text": "Should I submit the schedule today?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-09-14": [
-  {
-   "text": "Should I submit the invitation today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-15": [
-  {
-   "text": "Should I submit the password today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-16": [
-  {
-   "text": "Should I submit the program today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-17": [
-  {
-   "text": "Should I submit the degree plan today?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-09-18": [
-  {
-   "text": "Should I submit the receipt today?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-09-19": [
-  {
-   "text": "Should I submit the worksheet today?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-09-20": [
-  {
-   "text": "Should I submit the guide today?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-10-01": [
-  {
-   "text": "The workshop plan seems confusing.",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-10-02": [
-  {
-   "text": "The lecture plan seems confusing.",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-10-03": [
-  {
-   "text": "The concert plan seems confusing.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-10-04": [
-  {
-   "text": "The meeting plan seems confusing.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-10-05": [
-  {
-   "text": "The tour plan seems confusing.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-10-06": [
-  {
-   "text": "The bus plan seems confusing.",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-10-07": [
-  {
-   "text": "The lab plan seems confusing.",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-10-08": [
-  {
-   "text": "The interview plan seems confusing.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-10-09": [
-  {
-   "text": "The rehearsal plan seems confusing.",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-10-10": [
-  {
-   "text": "The clinic plan seems confusing.",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-10-11": [
-  {
-   "text": "The seminar plan seems confusing.",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-10-12": [
-  {
-   "text": "The field trip plan seems confusing.",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-10-13": [
-  {
-   "text": "The practice plan seems confusing.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-10-14": [
-  {
-   "text": "The screening plan seems confusing.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-10-15": [
-  {
-   "text": "The session plan seems confusing.",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-10-16": [
-  {
-   "text": "The talk plan seems confusing.",
-   "voice": "am_puck"
-  }
- ],
- "x-l-response-10-17": [
-  {
-   "text": "The appointment plan seems confusing.",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-10-18": [
-  {
-   "text": "The pickup plan seems confusing.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-10-19": [
-  {
-   "text": "The class plan seems confusing.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-10-20": [
-  {
-   "text": "The exhibit plan seems confusing.",
-   "voice": "am_puck"
-  }
- ],
- "x-l-response-11-01": [
-  {
-   "text": "I can't attend the workshop.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-11-02": [
-  {
-   "text": "I can't attend the lecture.",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-11-03": [
-  {
-   "text": "I can't attend the concert.",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-11-04": [
-  {
-   "text": "I can't attend the meeting.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-11-05": [
-  {
-   "text": "I can't attend the tour.",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-11-06": [
-  {
-   "text": "I can't attend the bus.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-11-07": [
-  {
-   "text": "I can't attend the lab.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-11-08": [
-  {
-   "text": "I can't attend the interview.",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-11-09": [
-  {
-   "text": "I can't attend the rehearsal.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-11-10": [
-  {
-   "text": "I can't attend the clinic.",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-11-11": [
-  {
-   "text": "I can't attend the seminar.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-11-12": [
-  {
-   "text": "I can't attend the field trip.",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-11-13": [
-  {
-   "text": "I can't attend the practice.",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-11-14": [
-  {
-   "text": "I can't attend the screening.",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-11-15": [
-  {
-   "text": "I can't attend the session.",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-11-16": [
-  {
-   "text": "I can't attend the talk.",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-11-17": [
-  {
-   "text": "I can't attend the appointment.",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-11-18": [
-  {
-   "text": "I can't attend the pickup.",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-11-19": [
-  {
-   "text": "I can't attend the class.",
-   "voice": "am_puck"
-  }
- ],
- "x-l-response-11-20": [
-  {
-   "text": "I can't attend the exhibit.",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-12-01": [
-  {
-   "text": "Why register for the workshop?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-12-02": [
-  {
-   "text": "Why register for the lecture?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-12-03": [
-  {
-   "text": "Why register for the concert?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-12-04": [
-  {
-   "text": "Why register for the meeting?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-12-05": [
-  {
-   "text": "Why register for the tour?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-12-06": [
-  {
-   "text": "Why register for the bus?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-12-07": [
-  {
-   "text": "Why register for the lab?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-12-08": [
-  {
-   "text": "Why register for the interview?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-12-09": [
-  {
-   "text": "Why register for the rehearsal?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-12-10": [
-  {
-   "text": "Why register for the clinic?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-12-11": [
-  {
-   "text": "Why register for the seminar?",
-   "voice": "bm_fable"
-  }
- ],
- "x-l-response-12-12": [
-  {
-   "text": "Why register for the field trip?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-12-13": [
-  {
-   "text": "Why register for the practice?",
-   "voice": "af_heart"
-  }
- ],
- "x-l-response-12-14": [
-  {
-   "text": "Why register for the screening?",
-   "voice": "am_fenrir"
-  }
- ],
- "x-l-response-12-15": [
-  {
-   "text": "Why register for the session?",
-   "voice": "af_bella"
-  }
- ],
- "x-l-response-12-16": [
-  {
-   "text": "Why register for the talk?",
-   "voice": "af_aoede"
-  }
- ],
- "x-l-response-12-17": [
-  {
-   "text": "Why register for the appointment?",
-   "voice": "bm_george"
-  }
- ],
- "x-l-response-12-18": [
-  {
-   "text": "Why register for the pickup?",
-   "voice": "af_sarah"
-  }
- ],
- "x-l-response-12-19": [
-  {
-   "text": "Why register for the class?",
-   "voice": "af_kore"
-  }
- ],
- "x-l-response-12-20": [
-  {
-   "text": "Why register for the exhibit?",
-   "voice": "af_aoede"
   }
  ]
 }

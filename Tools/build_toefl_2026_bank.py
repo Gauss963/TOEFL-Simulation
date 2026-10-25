@@ -4,7 +4,7 @@
 Inputs live in Tools/content2026/ (original items written to the ETS 2026 task specifications):
   academic_passage_*.json, academic_talk_*.json, conversation_*.json, announcement_*.json,
   daily_life_*.json, build_sentence_*.json, email_task_*.json, academic_discussion_*.json,
-  repeat_set_*.json, interview_set_*.json, legacy_*.json
+  choose_response_*.json, repeat_set_*.json, interview_set_*.json, legacy_*.json
 
 Outputs:
   TOEFL Simulation/Resources/TOEFL2026Bank.json   items with set structure, read by the app
@@ -144,7 +144,7 @@ for row in load("academic_passage"):
 
 # Listening -------------------------------------------------------------------------------------
 
-for row in json.loads((CONTENT / "legacy_choose_response.json").read_text(encoding="utf-8")):
+for row in load("choose_response"):
     gender = "female" if rng_for(row["id"]).random() < 0.5 else "male"
     voice = pick_voices(row["id"], [gender])[0]
     answer = next(c["text"] for c in row["choices"] if c["id"] == row["correctChoiceID"])
