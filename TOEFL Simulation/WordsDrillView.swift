@@ -40,7 +40,7 @@ final class WordsDrillStore: ObservableObject {
         var lastDate: Date
     }
 
-    /// One checked paragraph. Attempts made before answers were kept (1.5.0) have no entries.
+    /// One checked paragraph with the letters typed in each blank and which blanks were right.
     struct AttemptRecord: Codable, Equatable, Identifiable {
         let id: UUID
         let paragraphID: String
@@ -87,15 +87,6 @@ final class WordsDrillStore: ObservableObject {
             saved = decoded
         } else {
             saved = Saved()
-        }
-        // Attempts saved before the history existed keep their score and date.
-        let logged = Set(saved.history.map(\.paragraphID))
-        let earlier = saved.attempts.filter { !logged.contains($0.key) }.map { id, attempt in
-            AttemptRecord(id: UUID(), paragraphID: id, date: attempt.lastDate, entries: nil, results: nil, correct: attempt.lastCorrect)
-        }
-        if !earlier.isEmpty {
-            saved.history = (saved.history + earlier).sorted { $0.date < $1.date }
-            persist()
         }
     }
 
@@ -172,7 +163,7 @@ final class WordsDrillStore: ObservableObject {
     }
 
     #if DEBUG
-    /// Checks that 1.5.0 data (scores only) migrates into the history and that new attempts keep
+    /// Checks that scores without typed answers never enter the history and that new attempts keep
     /// what was typed, using a throwaway defaults domain.
     static func selfTestIssues() -> [String] {
         let suite = "r14521220.TOEFL-Simulation.selftest"
@@ -182,13 +173,13 @@ final class WordsDrillStore: ObservableObject {
         defaults.set(Data(legacy.utf8), forKey: "toefl.words-drill.v1")
         var issues: [String] = []
         let store = WordsDrillStore(defaults: defaults)
-        if store.history.count != 1 || store.history.first?.correct != 7 || store.history.first?.entries != nil {
-            issues.append("1.5.0 drill data did not migrate into the history")
+        if !store.history.isEmpty || store.attempt(for: paragraph)?.attempts != 1 {
+            issues.append("Score-only drill data was turned into a history record")
         }
         let entries = paragraph.blanks.map { $0.acceptedTextAnswers.first ?? "" }
         store.record(paragraph, entries: entries, results: Array(repeating: true, count: entries.count))
         let reloaded = WordsDrillStore(defaults: defaults)
-        if reloaded.history.count != 2 || reloaded.history.first?.entries != entries || reloaded.attempt(for: paragraph)?.attempts != 2 {
+        if reloaded.history.count != 1 || reloaded.history.first?.entries != entries || reloaded.attempt(for: paragraph)?.attempts != 2 {
             issues.append("Drill attempts are not saved with their answers")
         }
         return issues
@@ -197,7 +188,7 @@ final class WordsDrillStore: ObservableObject {
 }
 
 /// A checked paragraph: each blank shows the letters typed, marked right or wrong, with the correct
-/// letters beside wrong answers. Without results (attempts saved before 1.5.1) the answers are shown.
+/// letters beside wrong answers. Without results, the answers are shown.
 struct CheckedParagraphView: View {
     let paragraph: WordsDrillParagraph
     let entries: [String]?
@@ -264,9 +255,7 @@ struct WordExplanationsView: View {
                     .font(.system(size: 28, weight: .bold, design: .rounded))
                     .foregroundStyle(correct >= 8 ? TOEFLTheme.teal : (correct >= 5 ? TOEFLTheme.gold : .red))
                 Spacer()
-                Text(results == nil
-                     ? "Typed answers were not saved for attempts made before version 1.5.1."
-                     : (correct == 10 ? "Perfect paragraph." : "Review the explanations for the missed words."))
+                Text(correct == 10 ? "Perfect paragraph." : "Review the explanations for the missed words.")
                     .font(.subheadline).foregroundStyle(.secondary)
             }
             ForEach(Array(paragraph.blanks.enumerated()), id: \.element.id) { index, blank in
@@ -434,8 +423,6 @@ struct WordsDrillView: View {
         }
         let record = WordsDrillStore.AttemptRecord(id: UUID(), paragraphID: paragraph.id, date: .now, entries: entries, results: results, correct: results.filter { $0 }.count)
         write(WordsDrillReviewView(record: record) { _ in }.details, "drill-review", width: 920)
-        let legacy = WordsDrillStore.AttemptRecord(id: UUID(), paragraphID: paragraph.id, date: .now, entries: nil, results: nil, correct: 7)
-        write(WordsDrillReviewView(record: legacy) { _ in }.details, "drill-review-legacy", width: 920)
     }
     #endif
 
@@ -581,9 +568,6 @@ struct WordsDrillView: View {
                                 .font(.caption).foregroundStyle(.secondary)
                         }
                         Spacer()
-                        if record.entries == nil {
-                            Text("Score only").font(.caption).foregroundStyle(.secondary)
-                        }
                         Image(systemName: "chevron.right").font(.caption).foregroundStyle(.secondary)
                     }
                     .padding(10)
