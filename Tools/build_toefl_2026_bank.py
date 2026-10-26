@@ -228,9 +228,13 @@ def repeat_seconds(sentence: str) -> int:
     return 8 if words <= 7 else 9 if words <= 10 else 10 if words <= 13 else 11 if words <= 16 else 12
 
 
+# Speaking prompts cap pauses inside speech at a natural length; long pauses between the sentences
+# of a question sound like the recording stopped.
+SPEAKING_MAX_PAUSE = 0.5
+
 for row in load("repeat_set"):
     voice = pick_voices(row["id"], [row["speaker"]["gender"]])[0]
-    manifest[f"intro-{row['id']}"] = [{"voice": NARRATOR, "text": row["intro"]}]
+    manifest[f"intro-{row['id']}"] = [{"voice": NARRATOR, "text": row["intro"], "maxPause": SPEAKING_MAX_PAUSE}]
     for index, sentence in enumerate(row["sentences"]):
         id = f"{row['id']}-{index + 1}"
         items.append(base(
@@ -240,11 +244,11 @@ for row in load("repeat_set"):
             setID=row["id"], setIndex=index, setting=row["setting"], stops=row["stops"],
             speakers=[row["speaker"]], responseSeconds=repeat_seconds(sentence),
         ))
-        manifest[id] = [{"voice": voice, "text": sentence}]
+        manifest[id] = [{"voice": voice, "text": sentence, "maxPause": SPEAKING_MAX_PAUSE}]
 
 for row in load("interview_set"):
     voice = pick_voices(row["id"], [row["interviewer"]["gender"]])[0]
-    manifest[f"intro-{row['id']}"] = [{"voice": NARRATOR, "text": row["intro"]}]
+    manifest[f"intro-{row['id']}"] = [{"voice": NARRATOR, "text": row["intro"], "maxPause": SPEAKING_MAX_PAUSE}]
     for index, question in enumerate(row["questions"]):
         id = f"{row['id']}-{index + 1}"
         items.append(base(
@@ -253,7 +257,7 @@ for row in load("interview_set"):
             explanation="Scored 0–5 on the official interview rubric: relevance, elaboration, fluency, intelligibility, and language use.",
             setID=row["id"], setIndex=index, speakers=[row["interviewer"]], responseSeconds=45,
         ))
-        manifest[id] = [{"voice": voice, "text": question}]
+        manifest[id] = [{"voice": voice, "text": question, "maxPause": SPEAKING_MAX_PAUSE}]
 
 # Output ----------------------------------------------------------------------------------------
 

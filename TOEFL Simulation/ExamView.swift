@@ -817,7 +817,9 @@ private struct SpeakingFlowView: View {
         stage = .saving
         await tone(TOEFLExamAudio.endTone)
         session.recordSpeaking(question: question, duration: duration, url: started ? recorder.lastRecordingURL : nil)
-        try? await Task.sleep(for: .milliseconds(500))
+        // Releasing the microphone can make the output device reconfigure (Bluetooth headsets switch
+        // back from call mode), which takes about a second; wait so the next prompt is not cut.
+        try? await Task.sleep(for: .milliseconds(1_200))
         guard !Task.isCancelled else { return }
         session.goNext()
     }
