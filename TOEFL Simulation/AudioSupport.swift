@@ -193,6 +193,7 @@ final class ExamAudioPlayer: NSObject, ObservableObject, AVAudioPlayerDelegate, 
         player.volume = volume
         audioPlayer = player
         self.completion = completion
+        player.prepareToPlay()
         isPlaying = player.play()
         if !isPlaying { finish() }
     }

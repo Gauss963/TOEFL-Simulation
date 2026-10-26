@@ -4,7 +4,7 @@
 Reads Tools/content2026/audio_manifest.json ({key: [{voice, text, pause}]}) produced by
 build_toefl_2026_bank.py. Each segment is spoken by its Kokoro-82M (Apache-2.0) voice:
 af_/am_ voices are North American English, bf_/bm_ voices British English. Segments are
-joined with natural pauses, encoded as mono AAC with macOS afconvert, and packed into
+joined with natural pauses (a segment's "maxPause" caps the silences inside its speech), encoded as mono AAC with macOS afconvert, and packed into
 TOEFL Simulation/Resources/ExamAudio.pack (+ ExamAudio-2.pack, …: volumes under 45 MB) and ExamAudio.json.
 
     PYTORCH_ENABLE_MPS_FALLBACK=1 python Tools/generate_exam_audio.py --cache tmp/exam-audio-cache --device mps   # render
@@ -54,6 +54,32 @@ def render(manifest: dict, cache: Path, shard: int, shards: int, device: str | N
         pad = int(0.04 * SAMPLE_RATE)
         return audio[max(0, loud[0] - pad): min(len(audio), loud[-1] + pad)]
 
+    def cap_pauses(audio, longest, threshold=0.004):
+        """Shortens silences inside speech to at most `longest` seconds (keeping each pause's edges)."""
+        frame = int(0.01 * SAMPLE_RATE)
+        count = len(audio) // frame
+        if count == 0:
+            return audio
+        quiet = np.sqrt((audio[:count * frame].reshape(count, frame) ** 2).mean(1)) <= threshold
+        keep = int(longest / 0.01)
+        pieces, start = [], 0
+        # Collect silent runs, then drop the middle of each run that is longer than `longest`.
+        runs, begin = [], None
+        for index, is_quiet in enumerate(list(quiet) + [False]):
+            if is_quiet and begin is None:
+                begin = index
+            elif not is_quiet and begin is not None:
+                if index - begin > keep:
+                    runs.append((begin, index))
+                begin = None
+        for begin, end in runs:
+            cut_from = begin + keep // 2
+            cut_to = end - (keep - keep // 2)
+            pieces.append(audio[start * frame: cut_from * frame])
+            start = cut_to
+        pieces.append(audio[start * frame:])
+        return np.concatenate(pieces)
+
     with tempfile.TemporaryDirectory() as scratch:
         wav = Path(scratch) / f"clip-{shard}.wav"
         for count, key in enumerate(pending, 1):
@@ -63,7 +89,10 @@ def render(manifest: dict, cache: Path, shard: int, shards: int, device: str | N
                 pipeline = pipelines["b" if voice.startswith("b") else "a"]
                 chunks = [audio.numpy() for _, _, audio in pipeline(segment["text"], voice=voice, speed=segment.get("speed", SPEED))]
                 if chunks:
-                    pieces.append(trim(np.concatenate(chunks)).astype(np.float32))
+                    speech = trim(np.concatenate(chunks)).astype(np.float32)
+                    if segment.get("maxPause"):
+                        speech = cap_pauses(speech, segment["maxPause"])
+                    pieces.append(speech)
                 pieces.append(np.zeros(int(segment.get("pause", 0.35) * SAMPLE_RATE), dtype=np.float32))
             sf.write(wav, np.concatenate(pieces), SAMPLE_RATE)
             subprocess.run(["afconvert", "-f", "m4af", "-d", "aac", "-b", str(BITRATE), "-c", "1",
