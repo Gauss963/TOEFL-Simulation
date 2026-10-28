@@ -10,6 +10,7 @@ import SwiftUI
 enum TOEFLAppPage: String, CaseIterable, Identifiable {
     case dashboard
     case wordsDrill
+    case writingGuide
     case study
     case history
     case resources
@@ -19,6 +20,7 @@ enum TOEFLAppPage: String, CaseIterable, Identifiable {
         switch self {
         case .dashboard: "Practice Tests"
         case .wordsDrill: "Complete the Words"
+        case .writingGuide: "Writing Guide"
         case .study: "Vocabulary"
         case .history: "Score History"
         case .resources: "Official Resources"
@@ -28,6 +30,7 @@ enum TOEFLAppPage: String, CaseIterable, Identifiable {
         switch self {
         case .dashboard: "rectangle.and.pencil.and.ellipsis"
         case .wordsDrill: "character.cursor.ibeam"
+        case .writingGuide: "envelope.open"
         case .study: "text.book.closed"
         case .history: "chart.line.uptrend.xyaxis"
         case .resources: "checkmark.seal"
@@ -47,6 +50,7 @@ struct ContentView: View {
             _selection = State(initialValue: .study)
         }
         if args.contains("-openWordsDrill") { _selection = State(initialValue: .wordsDrill) }
+        if args.contains("-openWritingGuide") { _selection = State(initialValue: .writingGuide) }
         if args.contains("-startReadingPractice") { _activeExamMode = State(initialValue: .readingPractice) }
         if args.contains("-startFullPractice") { _activeExamMode = State(initialValue: .fullLength) }
         #endif
@@ -85,6 +89,7 @@ struct ContentView: View {
                 switch selection ?? .dashboard {
                 case .dashboard: DashboardView(history: history.results) { activeExamMode = $0 }
                 case .wordsDrill: WordsDrillView()
+                case .writingGuide: WritingGuideView { activeExamMode = $0 }
                 case .study: VocabularyView()
                 case .history: HistoryView(store: history)
                 case .resources: ResourcesView()
