@@ -21,6 +21,10 @@ struct TOEFL_SimulationApp: App {
             WritingGuideView.renderSnapshots(to: URL(fileURLWithPath: arguments[flag + 1]))
             exit(0)
         }
+        if let flag = arguments.firstIndex(of: "-renderSpeakingGuide"), arguments.indices.contains(flag + 1) {
+            SpeakingGuideView.renderSnapshots(to: URL(fileURLWithPath: arguments[flag + 1]))
+            exit(0)
+        }
         if arguments.contains("-selfTest") {
             // Prints validation and Listen and Choose a Response rotation results, then exits.
             let report = issues + TOEFLQuestionBank.rotationIssues() + WordsDrillStore.selfTestIssues()
