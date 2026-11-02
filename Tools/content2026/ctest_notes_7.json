@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "ct7-01",
+    "blanks": [
+      {
+        "word": "currents",
+        "pos": "n.",
+        "zh": "水流",
+        "why": "形容詞 Swift 後需名詞當主詞，動詞 erode 沒加 s 表示複數；「Swift ___」與後面的 slower water 對比，指河道中快速的水流。curr 後補 ents，rr 雙寫、字尾 -ent 不是 -ant。"
+      },
+      {
+        "word": "outer",
+        "pos": "adj.",
+        "zh": "外側的",
+        "why": "erode ___ banks 中修飾 banks 的形容詞，與後半句 inner banks 成對（外側被侵蝕、內側堆積）；ou 後補 ter，別誤填 our 或 out。"
+      },
+      {
+        "word": "while",
+        "pos": "conj.",
+        "zh": "而（表對比）",
+        "why": "逗號後連接兩個完整子句，一個講侵蝕、一個講堆積，需表對比的連接詞；wh 後補 ile。後面是完整子句 slower water deposits…，所以不是 which。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "比較級 slower 後要名詞當主詞，slower ___ 與 Swift currents 對照，指流速較慢的河水；wa 後補 ter。"
+      },
+      {
+        "word": "sediment",
+        "pos": "n.",
+        "zh": "沉積物",
+        "why": "deposits（堆積）的受詞：河水放下的泥沙即 sediment，是河曲內側沙洲的來源；sedi 後補 ment，同族字 sedimentary（沉積的）。"
+      },
+      {
+        "word": "inner",
+        "pos": "adj.",
+        "zh": "內側的",
+        "why": "on ___ banks 與前面 outer banks 正好相反，所以是 inner；in 後補 ner，注意 n 要寫兩次（in + ner）。"
+      },
+      {
+        "word": "Over",
+        "pos": "prep.",
+        "zh": "經過（一段時間）",
+        "why": "句首大寫，「Over many years」是表示長時間累積的固定說法，引出河曲慢慢變大的過程；Ov 後補 er。"
+      },
+      {
+        "word": "years",
+        "pos": "n.",
+        "zh": "年",
+        "why": "many 後接複數可數名詞，many ___ 表示時間很長；ye 後補 ars，順序是 e-a-r-s。"
+      },
+      {
+        "word": "loops",
+        "pos": "n.",
+        "zh": "河曲；環形彎道",
+        "why": "these 後接複數名詞，回指首句「wide loops called meanders」；lo 後補 ops。形近字 looks 不合「變寬、遷移」的語意。"
+      },
+      {
+        "word": "wider",
+        "pos": "adj.",
+        "zh": "更寬的",
+        "why": "grow + 形容詞表示「變得……」，河曲越彎越大，用比較級；wide 已有 e，只加 r，wi 後補 der。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-02",
+    "blanks": [
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "形容詞 Slow 後接名詞當主詞，呼應首句河流「suddenly loses speed」，指流速變慢的水；wa 後補 ter。"
+      },
+      {
+        "word": "carry",
+        "pos": "v.",
+        "zh": "搬運",
+        "why": "助動詞 cannot 後接原形動詞；水流變慢就「搬不動」重顆粒，carry 是描述河流搬運泥沙的常用動詞；ca 後補 rry，rr 雙寫、y 結尾。"
+      },
+      {
+        "word": "particles",
+        "pos": "n.",
+        "zh": "顆粒",
+        "why": "heavy 修飾的複數名詞，指較重的泥沙顆粒；part 後補 icles，字尾 -icle 常被誤拼成 -cal 或 -cel。"
+      },
+      {
+        "word": "sediment",
+        "pos": "n.",
+        "zh": "沉積物",
+        "why": "so 後的結果子句主詞，動詞 settles 單數；會在河口「沉降」的是河水帶來的泥沙；sedi 後補 ment，sediment 不可數所以不加 s。"
+      },
+      {
+        "word": "near",
+        "pos": "prep.",
+        "zh": "在……附近",
+        "why": "settles ___ the mouth「在河口附近沉降」，需地點介系詞；ne 後補 ar，不是 next（next to 才通）。"
+      },
+      {
+        "word": "mouth",
+        "pos": "n.",
+        "zh": "河口",
+        "why": "the ___ 指河流入海處，river mouth（河口）正是三角洲形成的位置；mo 後補 uth，注意 ou 與 th。"
+      },
+      {
+        "word": "deposits",
+        "pos": "n.",
+        "zh": "沉積物；堆積層",
+        "why": "These 後接複數名詞，動詞 build 沒加 s；回指上一句沉降下來的 sediment，deposit 當名詞指「堆積物」；depo 後補 sits。"
+      },
+      {
+        "word": "build",
+        "pos": "v.",
+        "zh": "堆積出；建造",
+        "why": "副詞 gradually 後的動詞，主詞 deposits 為複數用原形；build new land「堆出新陸地」；bu 後補 ild，u 在 i 前面別顛倒。"
+      },
+      {
+        "word": "land",
+        "pos": "n.",
+        "zh": "陸地",
+        "why": "形容詞 new 修飾的名詞，三角洲就是河流堆出的新陸地，後面還說 extends outward from the coast；la 後補 nd，不是 lake。"
+      },
+      {
+        "word": "extends",
+        "pos": "v.",
+        "zh": "延伸",
+        "why": "關係代名詞 that 指單數的 land，動詞加 s；extends outward「向外延伸」；ext 後補 ends，同族名詞 extension、extent。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-03",
+    "blanks": [
+      {
+        "word": "snow",
+        "pos": "n.",
+        "zh": "雪",
+        "why": "Melted ___「融化的雪」與 rainwater 並列，同為滲入岩縫的水源，也呼應主題 Frost；sn 後補 ow。"
+      },
+      {
+        "word": "rainwater",
+        "pos": "n.",
+        "zh": "雨水",
+        "why": "and 連接兩個名詞主詞，與 Melted snow 並列；複合字 rain + water，保留的 rain 後補 water，寫成一個字。"
+      },
+      {
+        "word": "into",
+        "pos": "prep.",
+        "zh": "進入",
+        "why": "seep ___ narrow cracks「滲入狹窄裂縫」，表示由外向內的介系詞；in 後補 to，seep into 是常見搭配。"
+      },
+      {
+        "word": "cracks",
+        "pos": "n.",
+        "zh": "裂縫",
+        "why": "形容詞 narrow 後的複數名詞，指岩石裡的「縫」，後文 the crack 回指；cra 後補 cks，字尾 ck。"
+      },
+      {
+        "word": "freeze",
+        "pos": "v.",
+        "zh": "結冰",
+        "why": "then 後與 seep 並列的動詞，主詞為複數所以用原形；frost wedging 的關鍵就是水在縫裡結冰；fre 後補 eze，ee 雙寫、用 z 不是 s。"
+      },
+      {
+        "word": "temperatures",
+        "pos": "n.",
+        "zh": "氣溫",
+        "why": "when 子句的主詞，fall 沒加 s 表示複數；「temperatures fall」氣溫下降是固定搭配；temper 後補 atures，中間的 -ra- 常被漏掉。"
+      },
+      {
+        "word": "overnight",
+        "pos": "adv.",
+        "zh": "在夜間",
+        "why": "修飾 fall 的時間副詞：白天融化、「夜裡」結冰，形成凍融循環；over 後補 night，gh 不發音。"
+      },
+      {
+        "word": "frozen",
+        "pos": "adj.",
+        "zh": "結冰的",
+        "why": "修飾 water 的形容詞，「結冰的水」即冰，與 liquid water 比較；freeze 的過去分詞是 frozen，fro 後補 zen。"
+      },
+      {
+        "word": "occupies",
+        "pos": "v.",
+        "zh": "佔據",
+        "why": "主詞 frozen water 是單數；occupies more volume「佔更多體積」，說明水結冰會膨脹；occu 後補 pies，cc 雙寫、y 改 i 加 es。"
+      },
+      {
+        "word": "volume",
+        "pos": "n.",
+        "zh": "體積",
+        "why": "more ___ than liquid water 比較的是空間大小，即體積；vol 後補 ume，字尾 -ume 不是 -umn。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-04",
+    "blanks": [
+      {
+        "word": "burial",
+        "pos": "n.",
+        "zh": "掩埋",
+        "why": "形容詞 Rapid 後接名詞當主詞，「Rapid ___ beneath fine mud」指被細泥快速埋住；bury 的名詞 y 改 i 加 -al，bur 後補 ial。"
+      },
+      {
+        "word": "fine",
+        "pos": "adj.",
+        "zh": "細的",
+        "why": "修飾 mud，fine mud 指顆粒很細的泥，能緊密包住遺骸；fi 後補 ne。這裡不是「好的」，而是「細緻的」。"
+      },
+      {
+        "word": "shields",
+        "pos": "v.",
+        "zh": "保護；遮蔽",
+        "why": "主詞 burial 單數，動詞加 s；shield A from B「保護 A 免於 B」；shi 後補 elds，i 在 e 前。"
+      },
+      {
+        "word": "from",
+        "pos": "prep.",
+        "zh": "免於",
+        "why": "shield ... ___ scavengers 的固定搭配，表示隔開的對象；fr 後補 om。"
+      },
+      {
+        "word": "scavengers",
+        "pos": "n.",
+        "zh": "食腐動物",
+        "why": "hungry 修飾的名詞，會吃掉屍體、破壞化石形成的動物；scave 後補 ngers，動詞 scavenge（撿食殘骸）。"
+      },
+      {
+        "word": "decay",
+        "pos": "n.",
+        "zh": "腐爛",
+        "why": "and 與 scavengers 並列，同為 shield from 的對象；首句「organisms decay completely」已出現此字；de 後補 cay。"
+      },
+      {
+        "word": "groundwater",
+        "pos": "n.",
+        "zh": "地下水",
+        "why": "Later 後的主詞，動詞 penetrates 單數；「carrying dissolved minerals」的水即地下水；複合字 ground + water，groun 後補 dwater。"
+      },
+      {
+        "word": "dissolved",
+        "pos": "adj.",
+        "zh": "溶解的",
+        "why": "修飾 minerals：溶在水中的礦物會慢慢取代骨頭，下一句 replace the original bone 證實；diss 後補 olved，ss 雙寫。"
+      },
+      {
+        "word": "slowly",
+        "pos": "adv.",
+        "zh": "緩慢地",
+        "why": "主詞與動詞 penetrates 之間的副詞，石化是極慢的過程，呼應下句 gradually；slo 後補 wly，不要寫成 slowely。"
+      },
+      {
+        "word": "buried",
+        "pos": "adj.",
+        "zh": "被掩埋的",
+        "why": "修飾 skeletons，指先前 burial 後被埋住的骨骸；bury 的過去分詞 y 改 i 加 ed，bur 後補 ied。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-05",
+    "blanks": [
+      {
+        "word": "underground",
+        "pos": "adv.",
+        "zh": "在地底下",
+        "why": "「Deep ___」表示地點「在地底深處」，與後文 lava ... at the surface 形成對比；under 後補 ground。"
+      },
+      {
+        "word": "cools",
+        "pos": "v.",
+        "zh": "冷卻",
+        "why": "主詞 magma 單數，動詞加 s；呼應首句「molten rock cools」；co 後補 ols，別誤寫成 coals（煤）。"
+      },
+      {
+        "word": "giving",
+        "pos": "v.",
+        "zh": "使得；給予（分詞構句）",
+        "why": "逗號後的分詞構句表示結果：慢慢冷卻，「讓」晶體有時間生長；give 去 e 加 ing，giv 後補 ing。"
+      },
+      {
+        "word": "crystals",
+        "pos": "n.",
+        "zh": "晶體",
+        "why": "mineral ___ 礦物晶體，是後面 to grow 的主角；crys 後補 tals，字尾 -al 不是 -le。"
+      },
+      {
+        "word": "time",
+        "pos": "n.",
+        "zh": "時間",
+        "why": "ample ___ to grow「充足的時間去生長」，慢速冷卻的重點就是時間；ti 後補 me。"
+      },
+      {
+        "word": "grow",
+        "pos": "v.",
+        "zh": "生長",
+        "why": "不定詞 to 後接原形動詞，晶體「長大」；gr 後補 ow。"
+      },
+      {
+        "word": "therefore",
+        "pos": "adv.",
+        "zh": "因此",
+        "why": "插在主詞 Granite 與動詞 contains 之間的連接副詞，表示上一句的結果；ther 後補 efore，there + fore 中間的 e 別漏。"
+      },
+      {
+        "word": "large",
+        "pos": "adj.",
+        "zh": "大的",
+        "why": "修飾 grains，慢冷形成「大」顆粒，與後文「crystals remain tiny」對比；la 後補 rge。"
+      },
+      {
+        "word": "that",
+        "pos": "pron.",
+        "zh": "（關係代名詞）",
+        "why": "引導形容詞子句修飾 grains（that are visible）；th 後補 at。後面沒有比較級，所以不是 than。"
+      },
+      {
+        "word": "visible",
+        "pos": "adj.",
+        "zh": "可見的",
+        "why": "are 後的形容詞，「___ without a microscope」不用顯微鏡就看得到；vis 後補 ible，字尾 -ible 不是 -able。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-06",
+    "blanks": [
+      {
+        "word": "ocean",
+        "pos": "n.",
+        "zh": "海洋（修飾 air）",
+        "why": "Moist ___ air 中名詞修飾名詞，指從海上吹來的濕空氣；oc 後補 ean，c 發 /ʃ/ 音。"
+      },
+      {
+        "word": "rises",
+        "pos": "v.",
+        "zh": "上升",
+        "why": "主詞 air 單數，動詞加 s；下一句 Rising air 重複同一動作；ri 後補 ses。rise 是不及物，別寫成 raises。"
+      },
+      {
+        "word": "prevailing",
+        "pos": "adj.",
+        "zh": "盛行的",
+        "why": "修飾 winds，prevailing winds「盛行風」是氣象固定詞；preva 後補 iling，prevail 的 ai 拼法要留意。"
+      },
+      {
+        "word": "push",
+        "pos": "v.",
+        "zh": "推",
+        "why": "主詞 winds 複數，用原形；push it against「把空氣推向」山坡；pu 後補 sh。"
+      },
+      {
+        "word": "against",
+        "pos": "prep.",
+        "zh": "抵向；朝著",
+        "why": "push ... ___ mountain slopes「推向山坡」，表示撞上、抵住；aga 後補 inst，常漏 i 寫成 aginst。"
+      },
+      {
+        "word": "slopes",
+        "pos": "n.",
+        "zh": "坡",
+        "why": "mountain ___ 山坡，與後文 windward side、opposite slope 呼應；slo 後補 pes。"
+      },
+      {
+        "word": "air",
+        "pos": "n.",
+        "zh": "空氣",
+        "why": "Rising 修飾的主詞，「上升的空氣」；a 後補 ir。"
+      },
+      {
+        "word": "cools",
+        "pos": "v.",
+        "zh": "冷卻",
+        "why": "expands, ___, and condenses 三個並列動詞：空氣上升膨脹而「變冷」；co 後補 ols。"
+      },
+      {
+        "word": "condenses",
+        "pos": "v.",
+        "zh": "使凝結",
+        "why": "並列的第三個動詞，受詞是 its vapor：水氣「凝結」成雲；cond 後補 enses，名詞 condensation。"
+      },
+      {
+        "word": "vapor",
+        "pos": "n.",
+        "zh": "水蒸氣",
+        "why": "its ___ into clouds 中會變成雲的是水氣；va 後補 por，美式拼法 vapor（英式 vapour）。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-07",
+    "blanks": [
+      {
+        "word": "seawater",
+        "pos": "n.",
+        "zh": "海水",
+        "why": "形容詞 Cold 後的主詞，呼應首句「cold ocean water」；sea + water 複合字，seaw 後補 ater。"
+      },
+      {
+        "word": "overlying",
+        "pos": "adj.",
+        "zh": "位於上方的",
+        "why": "修飾 air，指「覆蓋在冷海面上方的」空氣；over + lying，lie 的 -ing 形式是 lying，over 後補 lying。"
+      },
+      {
+        "word": "until",
+        "pos": "conj.",
+        "zh": "直到",
+        "why": "chills air ___ moisture condenses「冷卻到水氣凝結為止」，表時間終點；un 後補 til，只有一個 l。"
+      },
+      {
+        "word": "condenses",
+        "pos": "v.",
+        "zh": "凝結",
+        "why": "主詞 moisture 是單數，動詞加 s；水氣凝結成小水滴就是霧；cond 後補 enses，容易誤猜 condemns。"
+      },
+      {
+        "word": "countless",
+        "pos": "adj.",
+        "zh": "無數的",
+        "why": "修飾 tiny droplets，「數不清的」小水滴；count + less，coun 後補 tless。"
+      },
+      {
+        "word": "droplets",
+        "pos": "n.",
+        "zh": "小水滴",
+        "why": "tiny 修飾的複數名詞，霧由小水滴組成；drop + 指小字尾 -let，drop 後補 lets。"
+      },
+      {
+        "word": "happens",
+        "pos": "v.",
+        "zh": "發生",
+        "why": "主詞 This（單數）後接動詞加 s，「This ___ because」說明原因；hap 後補 pens，pp 雙寫。"
+      },
+      {
+        "word": "cooler",
+        "pos": "adj.",
+        "zh": "較冷的",
+        "why": "because 子句主詞前的形容詞，和句尾「than warmer air」比較，用比較級；coo 後補 ler。"
+      },
+      {
+        "word": "holds",
+        "pos": "v.",
+        "zh": "容納",
+        "why": "主詞 air 單數，動詞加 s；air holds less water vapor「空氣能容納的水氣較少」；ho 後補 lds。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "___ vapor「水蒸氣」是固定搭配，後面 vapor 就是線索；wa 後補 ter。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-08",
+    "blanks": [
+      {
+        "word": "incoming",
+        "pos": "adj.",
+        "zh": "湧入的；打上來的",
+        "why": "Each 與 wave 之間的形容詞，指往岸上「打過來的」浪；in + coming，inco 後補 ming。"
+      },
+      {
+        "word": "carries",
+        "pos": "v.",
+        "zh": "攜帶",
+        "why": "主詞 wave 單數，carry 的 y 改 i 加 es；浪「帶著」沙往上衝；car 後補 ries。"
+      },
+      {
+        "word": "diagonally",
+        "pos": "adv.",
+        "zh": "斜向地",
+        "why": "修飾 carries 的副詞：首句說浪以 slight angle 斜斜打上岸，所以沙也「斜向」移動；diago 後補 nally，diagonal 加 -ly。"
+      },
+      {
+        "word": "and",
+        "pos": "conj.",
+        "zh": "而且",
+        "why": "連接兩個完整子句（wave carries… / gravity drags…）；a 後補 nd。"
+      },
+      {
+        "word": "drags",
+        "pos": "v.",
+        "zh": "拖拉",
+        "why": "主詞 gravity 單數，加 s；重力把水「拉」回海裡；dr 後補 ags。"
+      },
+      {
+        "word": "straight",
+        "pos": "adv.",
+        "zh": "筆直地",
+        "why": "與前面 diagonally 對比：斜著上去、直直地下來，才形成 zigzag；stra 後補 ight，gh 不發音，不是 strait（海峽）。"
+      },
+      {
+        "word": "Repeated",
+        "pos": "adj.",
+        "zh": "反覆的",
+        "why": "句首形容詞修飾 movement，一斜一直不斷「重複」；Repe 後補 ated，repeat 加 ed。"
+      },
+      {
+        "word": "movement",
+        "pos": "n.",
+        "zh": "移動",
+        "why": "zigzag 修飾的主詞，動詞 transports 單數；move + ment，move 的 e 保留，move 後補 ment。"
+      },
+      {
+        "word": "transports",
+        "pos": "v.",
+        "zh": "運送",
+        "why": "主詞 movement 單數加 s；transports sediment「搬運沉積物」；trans 後補 ports，port 有「搬運」之意。"
+      },
+      {
+        "word": "parallel",
+        "pos": "adv.",
+        "zh": "平行地",
+        "why": "「___ to the coastline」與海岸線平行，就是 longshore（沿岸）的意思；para 後補 llel，ll 雙寫在中間、字尾只有一個 l。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-09",
+    "blanks": [
+      {
+        "word": "contains",
+        "pos": "v.",
+        "zh": "含有",
+        "why": "主詞 Seawater 不可數視為單數，動詞加 s；cont 後補 ains。"
+      },
+      {
+        "word": "salt",
+        "pos": "n.",
+        "zh": "鹽",
+        "why": "dissolved ___「溶解的鹽」，是海水與淡水的差別所在；sa 後補 lt。"
+      },
+      {
+        "word": "lowers",
+        "pos": "v.",
+        "zh": "降低",
+        "why": "which 指前面的 salt（單數），動詞加 s；鹽「降低」冰點，所以後面說 below；low 後補 ers。"
+      },
+      {
+        "word": "freezing",
+        "pos": "adj.",
+        "zh": "結冰的",
+        "why": "___ point「冰點」是固定詞，首句 freezes 同族；free 後補 zing，freeze 去 e 加 ing。"
+      },
+      {
+        "word": "below",
+        "pos": "prep.",
+        "zh": "低於",
+        "why": "海水的冰點「低於」淡水的冰點，接在 lowers 之後語意一致；be 後補 low，與 above 相對。"
+      },
+      {
+        "word": "of",
+        "pos": "prep.",
+        "zh": "……的",
+        "why": "that ___ fresh water 中，that 代替 the freezing point，後接 of 表所屬；o 後補 f。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "fresh ___「淡水」；wa 後補 ter。"
+      },
+      {
+        "word": "ice",
+        "pos": "n.",
+        "zh": "冰（修飾 crystals）",
+        "why": "Growing ___ crystals「正在生長的冰晶」，名詞修飾名詞；i 後補 ce。"
+      },
+      {
+        "word": "expel",
+        "pos": "v.",
+        "zh": "排出",
+        "why": "主詞 crystals 複數用原形；結冰時把鹽「排出」到周圍水中，所以下句說冰較淡、海水變鹹；ex 後補 pel，名詞 expulsion。"
+      },
+      {
+        "word": "salt",
+        "pos": "n.",
+        "zh": "鹽",
+        "why": "most ___「大部分的鹽」，被排出的對象，回指前句 dissolved salt；不可數名詞不加 s，sa 後補 lt。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-10",
+    "blanks": [
+      {
+        "word": "comets",
+        "pos": "n.",
+        "zh": "彗星",
+        "why": "形容詞 Distant 後的複數主詞，動詞 remain 沒加 s；回指首句 Comets；com 後補 ets。"
+      },
+      {
+        "word": "frozen",
+        "pos": "adj.",
+        "zh": "冰凍的",
+        "why": "remain + 形容詞「保持……」，遠離太陽時冰仍「凍結」；fro 後補 zen，freeze 的過去分詞。"
+      },
+      {
+        "word": "nearly",
+        "pos": "adv.",
+        "zh": "幾乎",
+        "why": "修飾形容詞 invisible，「幾乎」看不見；nea 後補 rly，不是 newly。"
+      },
+      {
+        "word": "As",
+        "pos": "conj.",
+        "zh": "當……時",
+        "why": "句首連接詞引導時間子句「___ a comet approaches」；A 後補 s。"
+      },
+      {
+        "word": "approaches",
+        "pos": "v.",
+        "zh": "接近",
+        "why": "主詞 comet 單數，-ch 結尾加 es；與 Distant 對比，彗星「靠近」太陽；appro 後補 aches，pp 雙寫。"
+      },
+      {
+        "word": "radiation",
+        "pos": "n.",
+        "zh": "輻射",
+        "why": "solar ___「太陽輻射」，提供熱量使冰氣化；radi 後補 ation，radiate 的名詞。"
+      },
+      {
+        "word": "surface",
+        "pos": "n.",
+        "zh": "表面（修飾 ice）",
+        "why": "___ ice「表面的冰」，名詞修飾名詞，受熱的是彗核表面；sur 後補 face。"
+      },
+      {
+        "word": "directly",
+        "pos": "adv.",
+        "zh": "直接地",
+        "why": "converts ice ___ into gas：冰不經液態「直接」變成氣體（昇華 sublimation）；dire 後補 ctly。"
+      },
+      {
+        "word": "gas",
+        "pos": "n.",
+        "zh": "氣體",
+        "why": "converts ... into ___，冰轉變成的狀態，下一句 This escaping gas 證實；g 後補 as。"
+      },
+      {
+        "word": "escaping",
+        "pos": "adj.",
+        "zh": "逸出的",
+        "why": "修飾 gas，從彗核「跑出來」的氣體並帶出塵埃；esca 後補 ping，escape 去 e 加 ing。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-11",
+    "blanks": [
+      {
+        "word": "occurs",
+        "pos": "v.",
+        "zh": "發生",
+        "why": "主詞 Summer 單數，動詞加 s；occ 後補 urs，只有過去式 occurred 才雙寫 r。"
+      },
+      {
+        "word": "hemisphere",
+        "pos": "n.",
+        "zh": "半球",
+        "why": "冠詞 a 後的名詞，會傾斜的是地球的「半球」，首句後文 the same hemisphere 證實；hemis 後補 phere，hemi（半）+ sphere（球）。"
+      },
+      {
+        "word": "sunward",
+        "pos": "adv.",
+        "zh": "朝向太陽",
+        "why": "修飾 tilts 的方向副詞，sun + -ward（朝某方向），與後文 tilts away 對比；sun 後補 ward。"
+      },
+      {
+        "word": "steep",
+        "pos": "adj.",
+        "zh": "高角度的；陡的",
+        "why": "與 concentrated 並列修飾 sunlight，「高角度」直射，與後文 shallow angle 相對；st 後補 eep。"
+      },
+      {
+        "word": "sunlight",
+        "pos": "n.",
+        "zh": "陽光",
+        "why": "被 steep, concentrated 修飾的名詞；sunl 後補 ight，gh 不發音。"
+      },
+      {
+        "word": "days",
+        "pos": "n.",
+        "zh": "白晝",
+        "why": "Longer ___「較長的白天」是夏天的第二個原因；da 後補 ys。"
+      },
+      {
+        "word": "increase",
+        "pos": "v.",
+        "zh": "增加",
+        "why": "主詞 days 複數，further 在此是副詞，動詞用原形；incr 後補 ease。"
+      },
+      {
+        "word": "energy",
+        "pos": "n.",
+        "zh": "能量",
+        "why": "the ___ absorbed「吸收到的能量」；ene 後補 rgy，常誤拼 enegry。"
+      },
+      {
+        "word": "Six",
+        "pos": "num.",
+        "zh": "六",
+        "why": "「___ months later」六個月後地球繞到軌道另一側，季節相反；句首大寫，S 後補 ix。"
+      },
+      {
+        "word": "later",
+        "pos": "adv.",
+        "zh": "之後",
+        "why": "時間 + later 表「……之後」；la 後補 ter，不是 latter（後者）。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-12",
+    "blanks": [
+      {
+        "word": "typhoons",
+        "pos": "n.",
+        "zh": "颱風",
+        "why": "介系詞 During 後接名詞，帶來 torrential rainfall 的天氣系統；typh 後補 oons，ph 發 /f/、oo 雙寫。"
+      },
+      {
+        "word": "rainfall",
+        "pos": "n.",
+        "zh": "降雨",
+        "why": "torrential（傾盆的）修飾的主詞，動詞 saturates 單數；rain + fall，rain 後補 fall。"
+      },
+      {
+        "word": "hillside",
+        "pos": "n.",
+        "zh": "山坡（修飾 soil）",
+        "why": "___ soil「山坡上的土壤」，名詞修飾名詞，呼應首句 Steep slopes；hill + side，hill 後補 side。"
+      },
+      {
+        "word": "and",
+        "pos": "conj.",
+        "zh": "並且",
+        "why": "連接兩個動詞 saturates 與 fills，主詞都是 rainfall；a 後補 nd。"
+      },
+      {
+        "word": "pores",
+        "pos": "n.",
+        "zh": "孔隙",
+        "why": "fills ___ between particles「填滿顆粒間的孔隙」；po 後補 res，別寫成 pours（倒）。"
+      },
+      {
+        "word": "particles",
+        "pos": "n.",
+        "zh": "顆粒",
+        "why": "between 後的複數名詞，土壤顆粒；part 後補 icles。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "Added ___「增加的水」為主詞，動詞 increases 單數；wa 後補 ter。"
+      },
+      {
+        "word": "slope",
+        "pos": "n.",
+        "zh": "斜坡（修飾 weight）",
+        "why": "___ weight「坡體的重量」，名詞修飾名詞；sl 後補 ope。"
+      },
+      {
+        "word": "while",
+        "pos": "conj.",
+        "zh": "同時",
+        "why": "while reducing「同時降低」，水一方面加重、一方面減少摩擦；wh 後補 ile。"
+      },
+      {
+        "word": "friction",
+        "pos": "n.",
+        "zh": "摩擦力",
+        "why": "reducing 的受詞，首句「friction holds the soil」正是穩定的原因；fric 後補 tion。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-13",
+    "blanks": [
+      {
+        "word": "primary",
+        "pos": "adj.",
+        "zh": "初級的（P 波）",
+        "why": "Compressional ___ waves「壓縮型的初波」，與下一句 Secondary waves 成對；pri 後補 mary，primary wave 即 P 波。"
+      },
+      {
+        "word": "pass",
+        "pos": "v.",
+        "zh": "通過",
+        "why": "主詞 waves 複數用原形；pass through「穿過」；pa 後補 ss，ss 雙寫。"
+      },
+      {
+        "word": "solids",
+        "pos": "n.",
+        "zh": "固體",
+        "why": "through ___ and liquids alike，與 liquids 並列的物質狀態；sol 後補 ids。"
+      },
+      {
+        "word": "liquids",
+        "pos": "n.",
+        "zh": "液體",
+        "why": "與 solids 並列，P 波固體液體都能穿過；liq 後補 uids，q 後一定接 u。"
+      },
+      {
+        "word": "Secondary",
+        "pos": "adj.",
+        "zh": "次級的（S 波）",
+        "why": "句首形容詞修飾 waves，與前句 primary 對應；Seco 後補 ndary，second + -ary。"
+      },
+      {
+        "word": "which",
+        "pos": "pron.",
+        "zh": "（關係代名詞）",
+        "why": "逗號後的非限定子句，補充說明 Secondary waves；wh 後補 ich。"
+      },
+      {
+        "word": "rock",
+        "pos": "n.",
+        "zh": "岩石",
+        "why": "shear ___ sideways「把岩石左右剪切」，波經過的介質；ro 後補 ck。"
+      },
+      {
+        "word": "cannot",
+        "pos": "aux.",
+        "zh": "不能",
+        "why": "與 P 波對比，S 波「無法」在液體中傳播；can 後補 not，寫成一個字。"
+      },
+      {
+        "word": "through",
+        "pos": "prep.",
+        "zh": "穿過",
+        "why": "propagate ___ any liquid，與前句 pass through 呼應；thr 後補 ough，別和 thorough、though 混淆。"
+      },
+      {
+        "word": "liquid",
+        "pos": "n.",
+        "zh": "液體",
+        "why": "any 後的單數名詞；S 波過不了液體，正是外核為液態的證據；liq 後補 uid。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-14",
+    "blanks": [
+      {
+        "word": "conditions",
+        "pos": "n.",
+        "zh": "條件；環境",
+        "why": "Such 後的複數名詞，指首句 intense heat and pressure 這種環境；condi 後補 tions，字尾 -tion。"
+      },
+      {
+        "word": "develop",
+        "pos": "v.",
+        "zh": "形成",
+        "why": "主詞 conditions 複數，副詞 commonly 後用原形；dev 後補 elop，字尾沒有 e。"
+      },
+      {
+        "word": "within",
+        "pos": "prep.",
+        "zh": "在……內部",
+        "why": "deep ___ mountain belts「在造山帶深處」；wit 後補 hin。"
+      },
+      {
+        "word": "belts",
+        "pos": "n.",
+        "zh": "帶狀區域",
+        "why": "mountain ___「造山帶」，像帶子般延伸的山脈；be 後補 lts。"
+      },
+      {
+        "word": "colliding",
+        "pos": "adj.",
+        "zh": "相撞的",
+        "why": "修飾 plates，板塊相撞把岩石壓入深處；coll 後補 iding，ll 雙寫，collide 去 e 加 ing。"
+      },
+      {
+        "word": "bury",
+        "pos": "v.",
+        "zh": "掩埋",
+        "why": "where 子句中主詞 plates 複數，用原形；把岩石「埋」到地殼底下；bu 後補 ry。"
+      },
+      {
+        "word": "beneath",
+        "pos": "prep.",
+        "zh": "在……之下",
+        "why": "bury rock ___ thicknesses of crust「埋在厚厚地殼之下」；ben 後補 eath。"
+      },
+      {
+        "word": "thicknesses",
+        "pos": "n.",
+        "zh": "厚度",
+        "why": "enormous 修飾、of crust「地殼的厚度」；thick + ness + es，thick 後補 nesses。"
+      },
+      {
+        "word": "crust",
+        "pos": "n.",
+        "zh": "地殼",
+        "why": "of ___，地球最外層的岩石圈層；cr 後補 ust，不是 crest。"
+      },
+      {
+        "word": "these",
+        "pos": "det.",
+        "zh": "這些",
+        "why": "Under ___ circumstances「在這些情況下」，回指上述高溫高壓；th 後補 ese。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-15",
+    "blanks": [
+      {
+        "word": "continental",
+        "pos": "adj.",
+        "zh": "大陸的",
+        "why": "修飾 crust，continental crust「大陸地殼」，首句 continental plates 已出現；conti 後補 nental，continent + -al。"
+      },
+      {
+        "word": "resists",
+        "pos": "v.",
+        "zh": "抵抗",
+        "why": "主詞 crust 單數加 s；因為 Buoyant（浮力大、較輕），大陸地殼「不肯」隱沒；res 後補 ists，名詞 resistance。"
+      },
+      {
+        "word": "so",
+        "pos": "conj.",
+        "zh": "所以",
+        "why": "逗號後引導結果子句：不下沉，「所以」只好被擠壓；s 後補 o。"
+      },
+      {
+        "word": "colliding",
+        "pos": "adj.",
+        "zh": "正在碰撞的",
+        "why": "修飾 margins（板塊邊緣），與首句動詞 collided 同族；coll 後補 iding，-ide 動詞去 e 加 ing。"
+      },
+      {
+        "word": "are",
+        "pos": "aux.",
+        "zh": "（被動語態 be 動詞）",
+        "why": "主詞 margins 複數，be + 過去分詞 compressed 構成被動「被擠壓」；a 後補 re。"
+      },
+      {
+        "word": "compressed",
+        "pos": "v.",
+        "zh": "被擠壓",
+        "why": "are instead ___：板塊不下沉，「反而」被壓縮擠高；compr 後補 essed，ss 雙寫，名詞 compression。"
+      },
+      {
+        "word": "sedimentary",
+        "pos": "adj.",
+        "zh": "沉積的",
+        "why": "修飾 layers，sedimentary rock「沉積岩」是一層層堆成的岩層；sedim 後補 entary，sediment + -ary。"
+      },
+      {
+        "word": "buckle",
+        "pos": "v.",
+        "zh": "彎曲；拱起",
+        "why": "主詞 layers 複數用原形；buckle into folds「彎成褶皺」，呼應標題 Fold；buc 後補 kle。"
+      },
+      {
+        "word": "immense",
+        "pos": "adj.",
+        "zh": "巨大的",
+        "why": "修飾 folds；imm 後補 ense，mm 雙寫、字尾 -ense 不是 -ence。"
+      },
+      {
+        "word": "Upward",
+        "pos": "adj.",
+        "zh": "向上的",
+        "why": "句首形容詞修飾 arches，與後面 downward troughs 對比（背斜 vs. 向斜）；Upw 後補 ard。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-16",
+    "blanks": [
+      {
+        "word": "require",
+        "pos": "v.",
+        "zh": "需要",
+        "why": "主詞 Geysers 複數用原形，後面列出三個必要條件；req 後補 uire，名詞 requirement。"
+      },
+      {
+        "word": "groundwater",
+        "pos": "n.",
+        "zh": "地下水",
+        "why": "abundant 修飾，間歇泉噴出的水從哪來：地下水；groun 後補 dwater，ground + water 一個字。"
+      },
+      {
+        "word": "volcanic",
+        "pos": "adj.",
+        "zh": "火山的",
+        "why": "intense ___ heat「火山提供的強烈熱源」，下一句 magma 證實；volc 後補 anic，volcano 去 o 加 -ic。"
+      },
+      {
+        "word": "and",
+        "pos": "conj.",
+        "zh": "以及",
+        "why": "三項列舉 A, B, ___ C 的最後連接；a 後補 nd。"
+      },
+      {
+        "word": "underground",
+        "pos": "adj.",
+        "zh": "地下的",
+        "why": "修飾 plumbing（管線系統），指地底狹窄的通道；under 後補 ground。"
+      },
+      {
+        "word": "Heated",
+        "pos": "v.",
+        "zh": "被加熱（分詞構句）",
+        "why": "句首過去分詞「___ by magma」被岩漿加熱，主詞是後面的 deep water；Hea 後補 ted，heat 加 ed。"
+      },
+      {
+        "word": "magma",
+        "pos": "n.",
+        "zh": "岩漿",
+        "why": "by 後的名詞，地底的熔融岩石，與 volcanic 呼應；ma 後補 gma，別猜成 mass。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "deep ___ 為主詞，動詞 exceeds 單數；wa 後補 ter。"
+      },
+      {
+        "word": "normal",
+        "pos": "adj.",
+        "zh": "正常的；一般的",
+        "why": "修飾 boiling temperatures：壓力使深處水溫超過「一般」沸點（超熱水）；nor 後補 mal。"
+      },
+      {
+        "word": "temperatures",
+        "pos": "n.",
+        "zh": "溫度",
+        "why": "boiling ___ 沸騰溫度，exceeds 的受詞；temper 後補 atures，tempera 的 a 別漏。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-17",
+    "blanks": [
+      {
+        "word": "and",
+        "pos": "conj.",
+        "zh": "和",
+        "why": "Clay ___ silt 兩種細顆粒沉積物並列；a 後補 nd。"
+      },
+      {
+        "word": "layers",
+        "pos": "n.",
+        "zh": "地層",
+        "why": "Clay and silt ___「黏土和粉砂層」，動詞 store 用原形表示複數主詞；lay 後補 ers。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "store ___ within pores，孔隙裡儲存的是地下水；wa 後補 ter。"
+      },
+      {
+        "word": "microscopic",
+        "pos": "adj.",
+        "zh": "極微小的",
+        "why": "修飾 pores，「小到要用顯微鏡才看得到」的孔隙；micro 後補 scopic，microscope 的形容詞。"
+      },
+      {
+        "word": "which",
+        "pos": "pron.",
+        "zh": "（關係代名詞，指前面整件事）",
+        "why": "逗號後指「水存在孔隙中」這件事，後接 helps；wh 後補 ich。"
+      },
+      {
+        "word": "support",
+        "pos": "v.",
+        "zh": "支撐",
+        "why": "helps + 原形動詞；孔隙水壓「撐住」上方沉積物的重量，抽走就會下陷；sup 後補 port，pp 雙寫。"
+      },
+      {
+        "word": "sediment",
+        "pos": "n.",
+        "zh": "沉積物",
+        "why": "overlying 修飾，上覆的沉積物，是會壓下來的重量；sedi 後補 ment。"
+      },
+      {
+        "word": "pumping",
+        "pos": "n.",
+        "zh": "抽水",
+        "why": "Intensive 修飾的動名詞主詞，呼應首句 groundwater is pumped；pum 後補 ping。"
+      },
+      {
+        "word": "pore",
+        "pos": "n.",
+        "zh": "孔隙（修飾 pressure）",
+        "why": "___ pressure「孔隙水壓」，名詞修飾名詞，回指前句 pores；po 後補 re，別寫成 poor 或 pour。"
+      },
+      {
+        "word": "allowing",
+        "pos": "v.",
+        "zh": "使得（分詞構句）",
+        "why": "逗號後分詞表結果，allow + O + to V：水壓降低「讓」顆粒壓得更緊；allo 後補 wing，ll 雙寫。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-18",
+    "blanks": [
+      {
+        "word": "warms",
+        "pos": "v.",
+        "zh": "使變暖",
+        "why": "主詞 Sunlight 單數，加 s；陽光「加熱」表層水；wa 後補 rms。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "surface ___「表層水」，warms 的受詞；wa 後補 ter。"
+      },
+      {
+        "word": "floats",
+        "pos": "v.",
+        "zh": "漂浮",
+        "why": "which 指 surface water（單數），加 s；暖水密度小所以「浮」在上面；flo 後補 ats。"
+      },
+      {
+        "word": "colder",
+        "pos": "adj.",
+        "zh": "較冷的",
+        "why": "與 denser 並列修飾 layers，和前面 warms 對比；col 後補 der。"
+      },
+      {
+        "word": "layers",
+        "pos": "n.",
+        "zh": "水層",
+        "why": "colder, denser ___ below「下方較冷較重的水層」，首句 distinct layers 呼應；lay 後補 ers。"
+      },
+      {
+        "word": "This",
+        "pos": "det.",
+        "zh": "這",
+        "why": "句首限定詞修飾 stratification（分層現象），回指上一句；Th 後補 is。"
+      },
+      {
+        "word": "prevents",
+        "pos": "v.",
+        "zh": "阻止",
+        "why": "主詞 stratification 單數，加 s；分層「阻止」上下混合；prev 後補 ents，名詞 prevention。"
+      },
+      {
+        "word": "so",
+        "pos": "conj.",
+        "zh": "所以",
+        "why": "引導結果：無法混合，「所以」底層缺氧；s 後補 o。"
+      },
+      {
+        "word": "deep",
+        "pos": "adj.",
+        "zh": "深的",
+        "why": "the ___ layer 與後面 the surface layer 對比；de 後補 ep。"
+      },
+      {
+        "word": "gradually",
+        "pos": "adv.",
+        "zh": "逐漸地",
+        "why": "修飾 loses，氧氣是慢慢被消耗；grad 後補 ually，gradual + ly，a 別漏。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-19",
+    "blanks": [
+      {
+        "word": "irrigation",
+        "pos": "n.",
+        "zh": "灌溉",
+        "why": "All ___ water「所有灌溉用水」，首句 Irrigation 已出現；irrig 後補 ation，rr 雙寫，動詞 irrigate。"
+      },
+      {
+        "word": "contains",
+        "pos": "v.",
+        "zh": "含有",
+        "why": "主詞 water 單數，加 s；cont 後補 ains。"
+      },
+      {
+        "word": "amounts",
+        "pos": "n.",
+        "zh": "量",
+        "why": "small ___ of「少量的」，後接不可數名詞 salts 的量；amo 後補 unts。"
+      },
+      {
+        "word": "dissolved",
+        "pos": "adj.",
+        "zh": "溶解的",
+        "why": "修飾 salts，溶在水裡所以「看起來是淡水」；diss 後補 olved，ss 雙寫。"
+      },
+      {
+        "word": "even",
+        "pos": "adv.",
+        "zh": "即使",
+        "why": "even when「即使當……時」，表讓步，後接 appears perfectly fresh；ev 後補 en。"
+      },
+      {
+        "word": "it",
+        "pos": "pron.",
+        "zh": "它",
+        "why": "when 子句主詞，指單數的 irrigation water；i 後補 t。"
+      },
+      {
+        "word": "perfectly",
+        "pos": "adv.",
+        "zh": "完全地",
+        "why": "修飾形容詞 fresh，「看起來完全是淡水」；perf 後補 ectly。"
+      },
+      {
+        "word": "In",
+        "pos": "prep.",
+        "zh": "在",
+        "why": "句首「___ hot climates」在炎熱氣候中；I 後補 n。"
+      },
+      {
+        "word": "climates",
+        "pos": "n.",
+        "zh": "氣候",
+        "why": "hot 修飾的複數名詞；clim 後補 ates，字尾 -ate 不是 -it。"
+      },
+      {
+        "word": "evaporation",
+        "pos": "n.",
+        "zh": "蒸發",
+        "why": "intense 修飾的主詞，把水「蒸發」掉、鹽留下（leaving the salts behind）；evapo 後補 ration，動詞 evaporate。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-20",
+    "blanks": [
+      {
+        "word": "loess",
+        "pos": "n.",
+        "zh": "黃土",
+        "why": "Most 後的名詞，回指首句定義的 Loess（風積黃土）；lo 後補 ess，oe 相連的罕見拼法。"
+      },
+      {
+        "word": "during",
+        "pos": "prep.",
+        "zh": "在……期間",
+        "why": "___ ice ages「在冰河時期」，表時間範圍；dur 後補 ing。"
+      },
+      {
+        "word": "ages",
+        "pos": "n.",
+        "zh": "時期",
+        "why": "ice ___ 冰河時期固定詞，後接 when glaciers…；ag 後補 es。"
+      },
+      {
+        "word": "glaciers",
+        "pos": "n.",
+        "zh": "冰川",
+        "why": "when 子句主詞，能把基岩磨成粉的是冰川；glac 後補 iers，ci 發 /ʃ/。"
+      },
+      {
+        "word": "bedrock",
+        "pos": "n.",
+        "zh": "基岩",
+        "why": "pulverized（磨碎）的受詞，地表下的堅硬岩盤；bed + rock，bed 後補 rock。"
+      },
+      {
+        "word": "extremely",
+        "pos": "adv.",
+        "zh": "極度地",
+        "why": "修飾形容詞 fine；extr 後補 emely，extreme 保留 e 再加 -ly。"
+      },
+      {
+        "word": "powder",
+        "pos": "n.",
+        "zh": "粉末",
+        "why": "fine ___「細粉」，被磨碎後的產物，後句 dust 呼應；pow 後補 der。"
+      },
+      {
+        "word": "streams",
+        "pos": "n.",
+        "zh": "溪流",
+        "why": "Meltwater ___「融水溪流」，冰川融化的水；str 後補 eams。"
+      },
+      {
+        "word": "deposited",
+        "pos": "v.",
+        "zh": "沉積；放置",
+        "why": "主詞 streams 的過去式動詞，首句「deposited by wind」同一字；depo 後補 sited。"
+      },
+      {
+        "word": "across",
+        "pos": "prep.",
+        "zh": "遍及",
+        "why": "deposited silt ___ broad plains「散布在廣大平原上」；acr 後補 oss，只有一個 c、兩個 s。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-21",
+    "blanks": [
+      {
+        "word": "develop",
+        "pos": "v.",
+        "zh": "形成",
+        "why": "主詞 They（barrier islands）後的動詞，where 引出形成條件；dev 後補 elop。"
+      },
+      {
+        "word": "gentle",
+        "pos": "adj.",
+        "zh": "平緩的",
+        "why": "修飾 slopes，平緩的海底坡度讓沙堆得起來；gen 後補 tle。"
+      },
+      {
+        "word": "abundant",
+        "pos": "adj.",
+        "zh": "豐富的",
+        "why": "修飾 sediment，充足的沙源；abun 後補 dant，字尾 -ant 不是 -ent。"
+      },
+      {
+        "word": "and",
+        "pos": "conj.",
+        "zh": "以及",
+        "why": "三項列舉的最後一項 moderate tides 前的連接詞；a 後補 nd。"
+      },
+      {
+        "word": "tides",
+        "pos": "n.",
+        "zh": "潮汐",
+        "why": "moderate 修飾，「中等的潮汐」，海岸作用力之一；ti 後補 des。"
+      },
+      {
+        "word": "waves",
+        "pos": "n.",
+        "zh": "波浪",
+        "why": "allow ___ to pile sand，能把沙往外海堆的是波浪；wa 後補 ves。"
+      },
+      {
+        "word": "pile",
+        "pos": "v.",
+        "zh": "堆積",
+        "why": "allow + O + to + 原形；pile sand「把沙堆起來」；pi 後補 le。"
+      },
+      {
+        "word": "offshore",
+        "pos": "adv.",
+        "zh": "在離岸處",
+        "why": "pile sand ___「在離海岸一段距離處」，所以島和 mainland 之間隔著 lagoon；offs 後補 hore，off + shore。"
+      },
+      {
+        "word": "frequently",
+        "pos": "adv.",
+        "zh": "經常",
+        "why": "主詞 Storms 與動詞 push 之間的頻率副詞；frequ 後補 ently。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "海水",
+        "why": "push ___ across these islands，暴風把海水推過島嶼並帶沙；wa 後補 ter。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-22",
+    "blanks": [
+      {
+        "word": "fresh",
+        "pos": "adj.",
+        "zh": "淡的",
+        "why": "Lighter ___ water「較輕的淡水」，首句 fresh river water；fr 後補 esh。"
+      },
+      {
+        "word": "tends",
+        "pos": "v.",
+        "zh": "傾向",
+        "why": "主詞 water 單數，tends to + 原形；te 後補 nds。"
+      },
+      {
+        "word": "flow",
+        "pos": "v.",
+        "zh": "流動",
+        "why": "tend to 後接原形；fl 後補 ow。"
+      },
+      {
+        "word": "above",
+        "pos": "prep.",
+        "zh": "在……之上",
+        "why": "淡水較輕（Lighter），所以流在鹽水楔「上方」；ab 後補 ove。"
+      },
+      {
+        "word": "wedge",
+        "pos": "n.",
+        "zh": "楔形水體",
+        "why": "a dense ___ of salty water「鹽水楔」，形狀像楔子插在底部；we 後補 dge，d 不發音。"
+      },
+      {
+        "word": "salty",
+        "pos": "adj.",
+        "zh": "鹹的",
+        "why": "修飾 bottom water，與 fresh 對比；sa 後補 lty。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "bottom ___「底層水」；wa 後補 ter。"
+      },
+      {
+        "word": "intensity",
+        "pos": "n.",
+        "zh": "強度",
+        "why": "The ___ of mixing「混合的程度」；inte 後補 nsity，intense 的名詞。"
+      },
+      {
+        "word": "mixing",
+        "pos": "n.",
+        "zh": "混合",
+        "why": "of 後的動名詞，淡鹹水的混合；mix 後補 ing。"
+      },
+      {
+        "word": "largely",
+        "pos": "adv.",
+        "zh": "主要地",
+        "why": "depends ___ on「主要取決於」；lar 後補 gely，large + ly。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-23",
+    "blanks": [
+      {
+        "word": "evaporation",
+        "pos": "n.",
+        "zh": "蒸發",
+        "why": "Intense 修飾的主詞，海水變成水氣的過程；evapo 後補 ration。"
+      },
+      {
+        "word": "tropical",
+        "pos": "adj.",
+        "zh": "熱帶的",
+        "why": "___ seas「熱帶海域」，首句 Tropical cyclones 已出現；trop 後補 ical。"
+      },
+      {
+        "word": "supplies",
+        "pos": "v.",
+        "zh": "提供",
+        "why": "主詞 evaporation 單數，supply 的 y 改 i 加 es；supp 後補 lies。"
+      },
+      {
+        "word": "quantities",
+        "pos": "n.",
+        "zh": "量",
+        "why": "enormous ___ of「大量的」；quant 後補 ities，quantity 的複數。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "___ vapor「水氣」；wa 後補 ter。"
+      },
+      {
+        "word": "Rising",
+        "pos": "adj.",
+        "zh": "上升的",
+        "why": "句首分詞形容詞修飾 air；Ris 後補 ing，rise 去 e 加 ing。"
+      },
+      {
+        "word": "cools",
+        "pos": "v.",
+        "zh": "冷卻",
+        "why": "主詞 air 單數，加 s；上升空氣冷卻後水氣才會凝結；co 後補 ols。"
+      },
+      {
+        "word": "the",
+        "pos": "art.",
+        "zh": "定冠詞",
+        "why": "___ vapor 指前一句已提到的 water vapor，特定所以用 the；t 後補 he。"
+      },
+      {
+        "word": "condenses",
+        "pos": "v.",
+        "zh": "凝結",
+        "why": "主詞 vapor 單數，加 s；凝結時放出熱量，為颱風供能；cond 後補 enses。"
+      },
+      {
+        "word": "latent",
+        "pos": "adj.",
+        "zh": "潛（熱）的",
+        "why": "latent heat「潛熱」：水氣凝結時釋放的熱能；lat 後補 ent。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-24",
+    "blanks": [
+      {
+        "word": "form",
+        "pos": "v.",
+        "zh": "形成",
+        "why": "主詞 They（jet streams）後的動詞；fo 後補 rm，別寫成 from。"
+      },
+      {
+        "word": "boundaries",
+        "pos": "n.",
+        "zh": "交界",
+        "why": "along ___ where…「在冷暖空氣交會的界線」；bound 後補 aries，boundary 的 y 改 ies。"
+      },
+      {
+        "word": "cold",
+        "pos": "adj.",
+        "zh": "冷的",
+        "why": "___ polar air「寒冷的極地空氣」，與 warmer air 對比；co 後補 ld。"
+      },
+      {
+        "word": "air",
+        "pos": "n.",
+        "zh": "空氣",
+        "why": "polar ___ 極地空氣；a 後補 ir。"
+      },
+      {
+        "word": "warmer",
+        "pos": "adj.",
+        "zh": "較暖的",
+        "why": "與 cold 對比的比較級，來自低緯度的暖空氣；war 後補 mer。"
+      },
+      {
+        "word": "from",
+        "pos": "prep.",
+        "zh": "來自",
+        "why": "air ___ lower latitudes「來自低緯度的空氣」；fr 後補 om。"
+      },
+      {
+        "word": "latitudes",
+        "pos": "n.",
+        "zh": "緯度（地區）",
+        "why": "lower ___「低緯度」，與 polar 對比；lati 後補 tudes，與高度 altitude 不同。"
+      },
+      {
+        "word": "sharp",
+        "pos": "adj.",
+        "zh": "明顯的；劇烈的",
+        "why": "修飾 temperature contrast，冷暖空氣的「劇烈」溫差；sh 後補 arp。"
+      },
+      {
+        "word": "contrast",
+        "pos": "n.",
+        "zh": "對比；差異",
+        "why": "temperature ___「溫度差異」；cont 後補 rast。"
+      },
+      {
+        "word": "steep",
+        "pos": "adj.",
+        "zh": "陡的",
+        "why": "a ___ pressure gradient「陡峭的氣壓梯度」，溫差大造成氣壓變化陡；st 後補 eep。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-25",
+    "blanks": [
+      {
+        "word": "steady",
+        "pos": "adj.",
+        "zh": "穩定的",
+        "why": "修飾 trade winds，「Normally」平時持續吹的信風；ste 後補 ady。"
+      },
+      {
+        "word": "winds",
+        "pos": "n.",
+        "zh": "風",
+        "why": "trade ___「信風」是固定詞；wi 後補 nds。"
+      },
+      {
+        "word": "westward",
+        "pos": "adv.",
+        "zh": "向西",
+        "why": "blow ___ 往西吹，把暖水推向 Indonesia；west 後補 ward，與後文 eastward 對比。"
+      },
+      {
+        "word": "push",
+        "pos": "v.",
+        "zh": "推",
+        "why": "and 連接 blow 與 push，主詞 winds 複數用原形；pu 後補 sh。"
+      },
+      {
+        "word": "surface",
+        "pos": "n.",
+        "zh": "表層（修飾 water）",
+        "why": "warm ___ water「溫暖的表層海水」；sur 後補 face。"
+      },
+      {
+        "word": "toward",
+        "pos": "prep.",
+        "zh": "朝向",
+        "why": "___ Indonesia and Australia，表方向；tow 後補 ard。"
+      },
+      {
+        "word": "and",
+        "pos": "conj.",
+        "zh": "和",
+        "why": "Indonesia ___ Australia 兩個地名並列；a 後補 nd。"
+      },
+      {
+        "word": "This",
+        "pos": "det.",
+        "zh": "這",
+        "why": "___ movement 回指上一句暖水被推走的移動；Th 後補 is。"
+      },
+      {
+        "word": "allows",
+        "pos": "v.",
+        "zh": "使得",
+        "why": "主詞 movement 單數加 s；allows cold water to rise；all 後補 ows。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "cold ___ full of nutrients「富含養分的冷水」，即湧升流（upwelling）；wa 後補 ter。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-26",
+    "blanks": [
+      {
+        "word": "attribute",
+        "pos": "v.",
+        "zh": "歸因於",
+        "why": "主詞 Scientists 後的動詞，attribute A to B「把 A 歸因於 B」；attr 後補 ibute。"
+      },
+      {
+        "word": "rhythm",
+        "pos": "n.",
+        "zh": "節律；週期",
+        "why": "this ___ 回指首句「regular rhythm」；rhy 後補 thm，整個字沒有一般母音，h 不發音。"
+      },
+      {
+        "word": "gradual",
+        "pos": "adj.",
+        "zh": "逐漸的",
+        "why": "與 predictable 並列修飾 variations，變化非常緩慢；gra 後補 dual。"
+      },
+      {
+        "word": "variations",
+        "pos": "n.",
+        "zh": "變化",
+        "why": "形容詞修飾的名詞，in orbital geometry「軌道形狀的變化」；varia 後補 tions，vary 的名詞。"
+      },
+      {
+        "word": "orbital",
+        "pos": "adj.",
+        "zh": "軌道的",
+        "why": "___ geometry「軌道幾何」；orb 後補 ital，orbit + -al，t 只有一個。"
+      },
+      {
+        "word": "These",
+        "pos": "det.",
+        "zh": "這些",
+        "why": "___ cycles 回指上一句的軌道變化週期；Th 後補 ese。"
+      },
+      {
+        "word": "alter",
+        "pos": "v.",
+        "zh": "改變",
+        "why": "主詞 cycles 複數用原形；al 後補 ter，別寫成 altar（祭壇）。"
+      },
+      {
+        "word": "sunlight",
+        "pos": "n.",
+        "zh": "陽光",
+        "why": "how ___ is distributed，陽光如何分配到各季節與緯度；sunl 後補 ight。"
+      },
+      {
+        "word": "distributed",
+        "pos": "v.",
+        "zh": "被分配",
+        "why": "is ___ between 被動語態；distr 後補 ibuted，名詞 distribution。"
+      },
+      {
+        "word": "seasons",
+        "pos": "n.",
+        "zh": "季節",
+        "why": "between ___ and latitudes，與 latitudes 並列；sea 後補 sons。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-27",
+    "blanks": [
+      {
+        "word": "snow",
+        "pos": "n.",
+        "zh": "雪",
+        "why": "Accumulating ___「累積的雪」為主詞，冰芯由雪壓成；sn 後補 ow。"
+      },
+      {
+        "word": "compresses",
+        "pos": "v.",
+        "zh": "壓縮",
+        "why": "主詞 snow 單數加 es；compresses into ice「被壓實成冰」；compr 後補 esses。"
+      },
+      {
+        "word": "ice",
+        "pos": "n.",
+        "zh": "冰",
+        "why": "into ___，雪被壓成的東西，主題 Ice cores；i 後補 ce。"
+      },
+      {
+        "word": "tiny",
+        "pos": "adj.",
+        "zh": "微小的",
+        "why": "修飾 bubbles，冰中的小氣泡；ti 後補 ny。"
+      },
+      {
+        "word": "of",
+        "pos": "prep.",
+        "zh": "……的",
+        "why": "bubbles ___ ancient atmosphere「古代大氣的氣泡」；o 後補 f。"
+      },
+      {
+        "word": "atmosphere",
+        "pos": "n.",
+        "zh": "大氣",
+        "why": "ancient ___「古代大氣」，標題 Ancient air；atmos 後補 phere，ph 發 /f/。"
+      },
+      {
+        "word": "analyze",
+        "pos": "v.",
+        "zh": "分析",
+        "why": "主詞 Researchers 複數用原形；ana 後補 lyze，美式拼法 -yze。"
+      },
+      {
+        "word": "bubbles",
+        "pos": "n.",
+        "zh": "氣泡",
+        "why": "these ___ 回指前一句 tiny bubbles；bub 後補 bles，bb 雙寫。"
+      },
+      {
+        "word": "measure",
+        "pos": "v.",
+        "zh": "測量",
+        "why": "不定詞 to 後原形，表目的；mea 後補 sure。"
+      },
+      {
+        "word": "carbon",
+        "pos": "n.",
+        "zh": "碳",
+        "why": "___ dioxide「二氧化碳」是固定詞，後面 dioxide 是線索；car 後補 bon。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-28",
+    "blanks": [
+      {
+        "word": "glacier",
+        "pos": "n.",
+        "zh": "冰川",
+        "why": "冠詞 a 後的單數主詞，動詞 slides 加 s；首句 Glaciers；gla 後補 cier。"
+      },
+      {
+        "word": "downhill",
+        "pos": "adv.",
+        "zh": "往下坡",
+        "why": "slides ___「往山下滑」；down 後補 hill。"
+      },
+      {
+        "word": "frozen",
+        "pos": "adj.",
+        "zh": "凍結的",
+        "why": "rocks ___ into its base「凍在冰川底部的岩石」，像砂紙一樣刮磨；fro 後補 zen。"
+      },
+      {
+        "word": "its",
+        "pos": "det.",
+        "zh": "它的",
+        "why": "___ base「冰川的底部」，所有格不加撇號（it's = it is）；i 後補 ts。"
+      },
+      {
+        "word": "scrape",
+        "pos": "v.",
+        "zh": "刮擦",
+        "why": "主詞 rocks 複數用原形，與 grind 並列；scr 後補 ape。"
+      },
+      {
+        "word": "grind",
+        "pos": "v.",
+        "zh": "研磨",
+        "why": "and 後與 scrape 並列，把基岩磨碎；gr 後補 ind。"
+      },
+      {
+        "word": "bedrock",
+        "pos": "n.",
+        "zh": "基岩",
+        "why": "the ___ beneath「底下的基岩」；bed 後補 rock。"
+      },
+      {
+        "word": "Rivers",
+        "pos": "n.",
+        "zh": "河流",
+        "why": "句首主詞，與後面 whereas glaciers 對比（V 形 vs. U 形谷）；Riv 後補 ers。"
+      },
+      {
+        "word": "to",
+        "pos": "prep.",
+        "zh": "不定詞記號",
+        "why": "tend ___ carve「傾向於切出」，tend to + 原形；t 後補 o。"
+      },
+      {
+        "word": "narrow",
+        "pos": "adj.",
+        "zh": "狹窄的",
+        "why": "修飾 valleys，與後面 broad 對比；nar 後補 row。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-29",
+    "blanks": [
+      {
+        "word": "tsunamis",
+        "pos": "n.",
+        "zh": "海嘯",
+        "why": "Most 後的複數主詞，首句 A tsunami；tsun 後補 amis，ts 開頭是日語借字。"
+      },
+      {
+        "word": "triggered",
+        "pos": "v.",
+        "zh": "引發",
+        "why": "are ___ by 被動語態「由……引發」；trig 後補 gered，gg 雙寫。"
+      },
+      {
+        "word": "undersea",
+        "pos": "adj.",
+        "zh": "海底的",
+        "why": "修飾 earthquakes，「海底地震」；unde 後補 rsea，under + sea。"
+      },
+      {
+        "word": "in",
+        "pos": "prep.",
+        "zh": "在（in which）",
+        "why": "___ which 介系詞 + 關係代名詞，引導說明地震過程的子句；i 後補 n。"
+      },
+      {
+        "word": "one",
+        "pos": "num.",
+        "zh": "一（塊）",
+        "why": "___ block of the seafloor「一塊海床」；o 後補 ne。"
+      },
+      {
+        "word": "of",
+        "pos": "prep.",
+        "zh": "……的",
+        "why": "block ___ the seafloor；o 後補 f。"
+      },
+      {
+        "word": "seafloor",
+        "pos": "n.",
+        "zh": "海床",
+        "why": "the ___ 海底，sea + floor；seaf 後補 loor。"
+      },
+      {
+        "word": "thrust",
+        "pos": "v.",
+        "zh": "被推擠",
+        "why": "is ___ upward 被動「被往上推」，海水因此被抬升；thr 後補 ust。"
+      },
+      {
+        "word": "In",
+        "pos": "prep.",
+        "zh": "在",
+        "why": "句首「___ deep water」在深水中；I 後補 n。"
+      },
+      {
+        "word": "water",
+        "pos": "n.",
+        "zh": "水",
+        "why": "deep ___「深水」，與下一句 shallow coastal water 對比；wa 後補 ter。"
+      }
+    ]
+  },
+  {
+    "id": "ct7-30",
+    "blanks": [
+      {
+        "word": "spacecraft",
+        "pos": "n.",
+        "zh": "太空船",
+        "why": "Orbiting ___ 環繞火星運行的探測器，後接複數動詞 have；space 後補 craft，單複數同形。"
+      },
+      {
+        "word": "photographed",
+        "pos": "v.",
+        "zh": "拍攝",
+        "why": "have ___ 現在完成式；photog 後補 raphed，ph 發 /f/。"
+      },
+      {
+        "word": "channels",
+        "pos": "n.",
+        "zh": "河道",
+        "why": "branching ___「分叉的河道」，像地球的 river valleys；chan 後補 nels，nn 只有一個。"
+      },
+      {
+        "word": "closely",
+        "pos": "adv.",
+        "zh": "非常地；密切地",
+        "why": "___ resemble「非常相似」；clo 後補 sely。"
+      },
+      {
+        "word": "river",
+        "pos": "n.",
+        "zh": "河流（修飾 valleys）",
+        "why": "___ valleys「河谷」；ri 後補 ver。"
+      },
+      {
+        "word": "on",
+        "pos": "prep.",
+        "zh": "在",
+        "why": "___ Earth「在地球上」；o 後補 n。"
+      },
+      {
+        "word": "Some",
+        "pos": "det.",
+        "zh": "一些",
+        "why": "句首「___ craters」有些隕石坑；So 後補 me。"
+      },
+      {
+        "word": "even",
+        "pos": "adv.",
+        "zh": "甚至",
+        "why": "___ contain「甚至含有」，證據更進一步；ev 後補 en。"
+      },
+      {
+        "word": "ancient",
+        "pos": "adj.",
+        "zh": "古老的",
+        "why": "修飾 deltas，遠古時期形成的三角洲；anc 後補 ient，-ient 拼法。"
+      },
+      {
+        "word": "indicating",
+        "pos": "v.",
+        "zh": "顯示（分詞構句）",
+        "why": "分詞構句「___ that they once held lakes」表示推論；indic 後補 ating，indicate 去 e 加 ing。"
+      }
+    ]
+  }
+]

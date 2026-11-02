@@ -4,11 +4,28 @@ import Combine
 import AppKit
 #endif
 
+/// Subject areas used to find weak fields in Complete the Words.
+enum WordsDrillField: String, CaseIterable, Identifiable {
+    case humanities, history, earth, life, physical, social
+    var id: String { rawValue }
+    var title: String {
+        switch self {
+        case .humanities: "Arts & Language"
+        case .history: "History & Anthropology"
+        case .earth: "Earth & Space"
+        case .life: "Life Sciences"
+        case .physical: "Physical Sciences"
+        case .social: "Social Sciences"
+        }
+    }
+}
+
 /// One Complete the Words paragraph: its 10 blank items in order.
 struct WordsDrillParagraph: Identifiable {
     let id: String
     let title: String
     let difficulty: TOEFLDifficulty
+    let field: WordsDrillField?
     let blanks: [TOEFLQuestion]
 
     var passage: String { blanks.first?.passage ?? "" }
@@ -24,7 +41,8 @@ struct WordsDrillParagraph: Identifiable {
         }
         return order.compactMap { key in
             guard let blanks = grouped[key]?.sorted(by: { ($0.setIndex ?? 0) < ($1.setIndex ?? 0) }), let first = blanks.first else { return nil }
-            return WordsDrillParagraph(id: key, title: first.setting ?? "Paragraph", difficulty: first.difficulty, blanks: blanks)
+            return WordsDrillParagraph(id: key, title: first.setting ?? "Paragraph", difficulty: first.difficulty,
+                                       field: first.field.flatMap(WordsDrillField.init(rawValue:)), blanks: blanks)
         }
     }()
 }
@@ -147,15 +165,46 @@ final class WordsDrillStore: ObservableObject {
         return record
     }
 
+    struct FieldAccuracy: Identifiable {
+        let field: WordsDrillField
+        let correct: Int
+        let total: Int
+        let paragraphs: Int
+        var id: String { field.rawValue }
+        var accuracy: Double { total == 0 ? 0 : Double(correct) / Double(total) }
+    }
+
+    /// Accuracy per subject area from each paragraph's most recent attempt.
+    var accuracyByField: [FieldAccuracy] {
+        var latest: [String: AttemptRecord] = [:]
+        for record in saved.history where record.results != nil { latest[record.paragraphID] = record }
+        var sums: [WordsDrillField: (Int, Int, Int)] = [:]
+        for record in latest.values {
+            guard let field = record.paragraph?.field else { continue }
+            let current = sums[field] ?? (0, 0, 0)
+            sums[field] = (current.0 + record.correct, current.1 + 10, current.2 + 1)
+        }
+        return WordsDrillField.allCases.compactMap { field in
+            sums[field].map { FieldAccuracy(field: field, correct: $0.0, total: $0.1, paragraphs: $0.2) }
+        }
+    }
+
+    /// The two lowest-accuracy subject areas with at least three practiced paragraphs.
+    var weakFields: [WordsDrillField] {
+        Array(accuracyByField.filter { $0.paragraphs >= 3 }.sorted { $0.accuracy < $1.accuracy }.prefix(2).map(\.field))
+    }
+
     /// Unattempted paragraphs first, then the weakest and least recently practiced.
-    func next(after current: String?, difficulty: TOEFLDifficulty?) -> WordsDrillParagraph? {
-        let pool = WordsDrillParagraph.all.filter { ($0.difficulty == difficulty || difficulty == nil) && $0.id != current }
+    func next(after current: String?, difficulty: TOEFLDifficulty?, fields: Set<WordsDrillField>? = nil) -> WordsDrillParagraph? {
+        let pool = WordsDrillParagraph.all.filter {
+            ($0.difficulty == difficulty || difficulty == nil) && $0.id != current && (fields == nil || $0.field.map { fields!.contains($0) } == true)
+        }
         let fresh = pool.filter { saved.attempts[$0.id] == nil }
         if let pick = fresh.randomElement() { return pick }
         return pool.min { lhs, rhs in
             let a = saved.attempts[lhs.id]!, b = saved.attempts[rhs.id]!
             return (a.lastCorrect, a.lastDate) < (b.lastCorrect, b.lastDate)
-        } ?? WordsDrillParagraph.all.first
+        }
     }
 
     private func persist() {
@@ -360,6 +409,7 @@ struct WordsDrillView: View {
 
     @StateObject private var store = WordsDrillStore()
     @State private var level: LevelFilter = .all
+    @State private var subject = "all"
     @State private var paragraph: WordsDrillParagraph?
     @State private var entries: [String] = []
     @State private var results: [Bool]?
@@ -370,8 +420,9 @@ struct WordsDrillView: View {
     var body: some View {
         ScrollView { content }
         .navigationTitle("Complete the Words")
-        .onAppear { if paragraph == nil { load(store.next(after: nil, difficulty: level.difficulty)) } }
-        .onChange(of: level) { _, newLevel in load(store.next(after: nil, difficulty: newLevel.difficulty)) }
+        .onAppear { if paragraph == nil { load(nextParagraph(after: nil)) } }
+        .onChange(of: level) { _, _ in load(nextParagraph(after: nil)) }
+        .onChange(of: subject) { _, _ in load(nextParagraph(after: nil)) }
         .sheet(item: $reviewing) { record in
             WordsDrillReviewView(record: record) { load($0) }
         }
@@ -440,11 +491,20 @@ struct WordsDrillView: View {
                         .fixedSize(horizontal: false, vertical: true)
                 }
                 Spacer()
-                Picker("Level", selection: $level) {
-                    ForEach(LevelFilter.allCases) { Text($0.rawValue).tag($0) }
+                VStack(alignment: .trailing, spacing: 8) {
+                    Picker("Level", selection: $level) {
+                        ForEach(LevelFilter.allCases) { Text($0.rawValue).tag($0) }
+                    }
+                    .pickerStyle(.segmented)
+                    .frame(width: 320)
+                    Picker("Subject", selection: $subject) {
+                        Text("All subjects").tag("all")
+                        Text("Focus on weak areas").tag("weak")
+                        Divider()
+                        ForEach(WordsDrillField.allCases) { Text($0.title).tag($0.rawValue) }
+                    }
+                    .frame(width: 320)
                 }
-                .pickerStyle(.segmented)
-                .frame(width: 320)
             }
             HStack(spacing: 22) {
                 stat("Paragraphs practiced", "\(store.completedCount) / \(WordsDrillParagraph.all.count)")
@@ -452,8 +512,49 @@ struct WordsDrillView: View {
                 stat("Attempts", "\(store.history.count)")
                 stat("Words to review", "\(store.wordsToReview.count)")
             }
+            fieldAccuracy
         }
         .toeflCard()
+    }
+
+    /// Accuracy per subject area, weakest first, so weak fields are visible at a glance.
+    @ViewBuilder
+    private var fieldAccuracy: some View {
+        let fields = store.accuracyByField.sorted { $0.accuracy < $1.accuracy }
+        if !fields.isEmpty {
+            let weak = Set(store.weakFields)
+            VStack(alignment: .leading, spacing: 6) {
+                Text("Accuracy by subject (latest attempt of each paragraph)").font(.caption).foregroundStyle(.secondary)
+                FlowLayout(spacing: 8, lineSpacing: 8) {
+                    ForEach(fields) { entry in
+                        HStack(spacing: 6) {
+                            Text(entry.field.title).font(.caption.weight(.semibold))
+                            Text("\(Int((entry.accuracy * 100).rounded()))%").font(.caption.bold().monospacedDigit())
+                                .foregroundStyle(entry.accuracy >= 0.8 ? TOEFLTheme.teal : (entry.accuracy >= 0.65 ? TOEFLTheme.gold : .red))
+                            Text("· \(entry.paragraphs)").font(.caption2).foregroundStyle(.secondary)
+                        }
+                        .padding(.horizontal, 10).padding(.vertical, 5)
+                        .background(weak.contains(entry.field) ? Color.red.opacity(0.08) : TOEFLTheme.input, in: Capsule())
+                        .overlay(Capsule().stroke(weak.contains(entry.field) ? Color.red.opacity(0.35) : Color.clear))
+                    }
+                }
+                if !weak.isEmpty {
+                    Text("Weak areas: \(store.weakFields.map(\.title).joined(separator: " and ")). Choose “Focus on weak areas” to practice them first.")
+                        .font(.caption).foregroundStyle(.secondary)
+                }
+            }
+        }
+    }
+
+    private func nextParagraph(after current: String?) -> WordsDrillParagraph? {
+        let fields: Set<WordsDrillField>? = switch subject {
+        case "all": nil
+        case "weak": store.weakFields.isEmpty ? nil : Set(store.weakFields)
+        default: WordsDrillField(rawValue: subject).map { [$0] }
+        }
+        return store.next(after: current, difficulty: level.difficulty, fields: fields)
+            ?? store.next(after: current, difficulty: level.difficulty)
+            ?? WordsDrillParagraph.all.first
     }
 
     private func stat(_ title: String, _ value: String) -> some View {
@@ -504,10 +605,10 @@ struct WordsDrillView: View {
                     Button("Check Answers") { check(paragraph) }
                         .buttonStyle(TOEFLPrimaryButtonStyle())
                         .keyboardShortcut(.return, modifiers: .command)
-                    Button("Skip") { load(store.next(after: paragraph.id, difficulty: level.difficulty)) }
+                    Button("Skip") { load(nextParagraph(after: paragraph.id)) }
                         .buttonStyle(TOEFLSecondaryButtonStyle())
                 } else {
-                    Button("Next Paragraph") { load(store.next(after: paragraph.id, difficulty: level.difficulty)) }
+                    Button("Next Paragraph") { load(nextParagraph(after: paragraph.id)) }
                         .buttonStyle(TOEFLPrimaryButtonStyle())
                         .keyboardShortcut(.return, modifiers: .command)
                     Button("Try Again") { load(paragraph) }

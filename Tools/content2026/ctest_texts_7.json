@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ct7-01",
+    "difficulty": "intermediate",
+    "title": "River meanders and oxbow lakes",
+    "field": "earth",
+    "text": "On flat land, rivers rarely flow in straight lines and instead form wide loops called meanders. Swift currents erode outer banks, while slower water deposits sediment on inner banks. Over many years, these loops grow wider and gradually migrate across the floodplain. Eventually, a large flood may cut straight through the narrow neck of land between two bends. The abandoned loop is then left behind as a curved, isolated oxbow lake."
+  },
+  {
+    "id": "ct7-02",
+    "difficulty": "intermediate",
+    "title": "Building a river delta",
+    "field": "earth",
+    "text": "A delta forms where a river enters a calm sea or lake and suddenly loses speed. Slow water cannot carry heavy particles, so sediment settles near the mouth. These deposits gradually build new land that extends outward from the coast. The main channel often splits into smaller branches called distributaries, which spread the mud across a broad fan. However, a delta survives only if sediment arrives faster than waves and currents remove it. Dams upstream can therefore cause deltas to shrink."
+  },
+  {
+    "id": "ct7-03",
+    "difficulty": "intermediate",
+    "title": "Frost wedging",
+    "field": "earth",
+    "text": "Frost wedging is a form of physical weathering that breaks rock apart without changing its chemistry. Melted snow and rainwater seep into narrow cracks, then freeze when temperatures fall overnight. Since frozen water occupies more volume than liquid water, the ice pushes the crack slightly wider. Repeated cycles of freezing and thawing eventually split large boulders into angular fragments. This process is most effective in mountains, where temperatures frequently cross the freezing point. In contrast, it is rare in places that stay constantly warm."
+  },
+  {
+    "id": "ct7-04",
+    "difficulty": "intermediate",
+    "title": "How fossils form",
+    "field": "earth",
+    "text": "Most organisms decay completely after death, so fossils preserve only a tiny fraction of ancient life. Rapid burial beneath fine mud shields remains from hungry scavengers and decay. Later, groundwater carrying dissolved minerals slowly penetrates buried skeletons. These minerals gradually replace the original bone or shell and turn it into stone. Hard parts such as teeth are therefore far more common in the fossil record than soft tissue. Consequently, scientists must be cautious when reconstructing ancient communities."
+  },
+  {
+    "id": "ct7-05",
+    "difficulty": "intermediate",
+    "title": "Crystal size in igneous rock",
+    "field": "earth",
+    "text": "Igneous rock forms when molten rock cools and hardens, and its texture records how quickly that cooling happened. Deep underground, magma cools slowly, giving mineral crystals ample time to grow. Granite therefore contains large grains that are visible without a microscope. In contrast, lava that erupts at the surface loses heat rapidly. Its crystals remain tiny, which gives basalt a fine, smooth appearance. Thus, geologists can infer where a rock solidified simply by examining its grains."
+  },
+  {
+    "id": "ct7-06",
+    "difficulty": "intermediate",
+    "title": "Rain shadows",
+    "field": "earth",
+    "text": "Mountain ranges can create a dry region on their far side known as a rain shadow. Moist ocean air rises when prevailing winds push it against mountain slopes. Rising air expands, cools, and condenses its vapor into clouds. Most of the precipitation therefore falls on the windward side. By the time the air descends the opposite slope, it has lost most of its moisture and warms as it sinks. Consequently, deserts often lie just beyond tall coastal mountains."
+  },
+  {
+    "id": "ct7-07",
+    "difficulty": "intermediate",
+    "title": "Coastal fog",
+    "field": "earth",
+    "text": "Thick fog often forms along coasts where warm, humid air passes over cold ocean water. Cold seawater chills overlying air until moisture condenses into countless tiny droplets. This happens because cooler air holds less water vapor than warmer air. Meteorologists call this advection fog, since it develops as air moves horizontally. It frequently appears in summer along shores where cold currents flow nearby. However, it usually disappears once the sun heats the land during the afternoon."
+  },
+  {
+    "id": "ct7-08",
+    "difficulty": "intermediate",
+    "title": "Longshore drift",
+    "field": "earth",
+    "text": "Waves rarely strike a beach head on; instead, they usually arrive at a slight angle. Each incoming wave carries sand diagonally upslope, and gravity drags water straight downslope. Repeated zigzag movement gradually transports sediment parallel to the coastline, a process called longshore drift. Over months, enormous quantities of sand can travel many kilometers. Engineers sometimes build low walls across beaches to trap this moving sand, although these structures may starve beaches farther along the coast."
+  },
+  {
+    "id": "ct7-09",
+    "difficulty": "intermediate",
+    "title": "How sea ice forms",
+    "field": "earth",
+    "text": "Sea ice forms when the surface of the ocean freezes during the long polar winter. Seawater contains dissolved salt, which lowers its freezing point below that of fresh water. Growing ice crystals expel most salt into the surrounding water. This leaves the ice relatively fresh and makes the water beneath it saltier and denser. The dense water sinks, which helps drive deep ocean circulation. Moreover, the ice acts as a lid that limits heat loss from the ocean to the frigid air."
+  },
+  {
+    "id": "ct7-10",
+    "difficulty": "intermediate",
+    "title": "Comet tails",
+    "field": "earth",
+    "text": "Comets are small bodies of ice and dust that travel around the Sun in long, stretched orbits. Distant comets remain frozen and nearly invisible. As a comet approaches, solar radiation converts surface ice directly into gas. This escaping gas releases trapped dust, and together they form a glowing cloud around the solid nucleus. Pressure from sunlight and the solar wind then pushes this material away. As a result, the tail always points away from the Sun, even when the comet is moving outward."
+  },
+  {
+    "id": "ct7-11",
+    "difficulty": "intermediate",
+    "title": "Why seasons change",
+    "field": "earth",
+    "text": "Earth has seasons because its axis is tilted about 23 degrees relative to its orbit. Summer occurs when a hemisphere tilts sunward, receiving steep, concentrated sunlight. Longer days further increase the energy absorbed. Six months later, the same hemisphere tilts away, so sunlight arrives at a shallow angle and spreads over a wider area. A common misconception is that seasons result from changes in distance. In fact, Earth is closest to the Sun in early January, during the northern winter."
+  },
+  {
+    "id": "ct7-12",
+    "difficulty": "intermediate",
+    "title": "Landslides after heavy rain",
+    "field": "earth",
+    "text": "Steep slopes stay stable as long as friction holds the soil and rock in place. During typhoons, torrential rainfall saturates hillside soil and fills pores between particles. Added water increases slope weight while reducing friction between grains. Eventually, gravity overcomes the resistance, and a mass of earth suddenly slides downhill. Slopes that have lost their vegetation are especially vulnerable, because roots normally bind the soil together. For this reason, landslides are common in mountainous regions such as central Taiwan after major storms."
+  },
+  {
+    "id": "ct7-13",
+    "difficulty": "advanced",
+    "title": "Seismic waves and the core",
+    "field": "earth",
+    "text": "Seismologists have learned about the deep interior of the planet by studying how earthquake waves travel through it. Compressional primary waves pass through solids and liquids alike. Secondary waves, which shear rock sideways, cannot propagate through any liquid. After a large earthquake, stations on the far side of the globe detect primary waves but receive no secondary waves. This shadow zone provides compelling evidence that the outer core is molten. Furthermore, the bending of waves at depth reveals distinct boundaries between layers."
+  },
+  {
+    "id": "ct7-14",
+    "difficulty": "advanced",
+    "title": "Metamorphic rock",
+    "field": "earth",
+    "text": "Metamorphic rock forms when existing rock is transformed by intense heat and pressure without actually melting. Such conditions commonly develop deep within mountain belts, where colliding plates bury rock beneath enormous thicknesses of crust. Under these circumstances, minerals recrystallize into new arrangements that are stable at higher temperatures. For instance, soft shale gradually becomes slate, and limestone is converted into marble. Pressure also aligns flat minerals in parallel layers, producing a banded appearance called foliation. Consequently, geologists can reconstruct the burial history of a region by identifying its metamorphic minerals."
+  },
+  {
+    "id": "ct7-15",
+    "difficulty": "advanced",
+    "title": "Fold mountains",
+    "field": "earth",
+    "text": "Many of the highest mountain ranges on Earth were created when continental plates collided. Buoyant continental crust resists subduction, so the colliding margins are instead compressed. Thick sedimentary layers buckle into immense folds. Upward arches are called anticlines, whereas downward troughs are termed synclines. The Himalayas, which formed as India pushed into Asia, remain the most spectacular example. Remarkably, marine fossils occur near their summits, demonstrating that these rocks originated on an ancient seafloor. The collision continues today, so the range is still rising."
+  },
+  {
+    "id": "ct7-16",
+    "difficulty": "advanced",
+    "title": "Geyser eruptions",
+    "field": "earth",
+    "text": "A geyser is a hot spring that periodically ejects a column of boiling water and steam into the air. Geysers require abundant groundwater, intense volcanic heat, and narrow underground plumbing. Heated by magma, deep water exceeds normal boiling temperatures because overlying pressure prevents boiling. Eventually, some water flashes into steam, which forces liquid out of the vent and suddenly lowers the pressure below. The remaining superheated water then boils explosively. Consequently, geysers are rare and occur mainly in volcanic regions."
+  },
+  {
+    "id": "ct7-17",
+    "difficulty": "advanced",
+    "title": "Land subsidence from pumping",
+    "field": "earth",
+    "text": "When groundwater is pumped faster than rainfall can replace it, the land above an aquifer may gradually sink. Clay and silt layers store water within microscopic pores, which helps support overlying sediment. Intensive pumping reduces pore pressure, allowing fine particles to compact more tightly. Unlike sandy layers, compressed clay rarely recovers its original volume, so the subsidence is essentially permanent. Coastal farmland that has sunk becomes increasingly susceptible to flooding and saltwater intrusion. Parts of western Taiwan have experienced significant subsidence for this reason."
+  },
+  {
+    "id": "ct7-18",
+    "difficulty": "advanced",
+    "title": "Seasonal lake turnover",
+    "field": "earth",
+    "text": "In temperate regions, many deep lakes become divided into distinct layers of water during the summer. Sunlight warms surface water, which floats above colder, denser layers below. This stratification prevents mixing, so the deep layer gradually loses oxygen while the surface layer loses nutrients. In autumn, however, the surface water cools until its density matches that of the bottom water. Wind can then circulate the entire lake, a process known as turnover. This mixing redistributes oxygen downward and nutrients upward, which often triggers a bloom of algae."
+  },
+  {
+    "id": "ct7-19",
+    "difficulty": "advanced",
+    "title": "Soil salinization",
+    "field": "earth",
+    "text": "Irrigation can transform dry land into productive farmland, but it may eventually poison the soil with salt. All irrigation water contains small amounts of dissolved salts, even when it appears perfectly fresh. In hot climates, intense evaporation removes the water from the fields while leaving the salts behind. Moreover, excessive watering can raise the water table, allowing salty groundwater to rise toward the surface by capillary action. As salts accumulate, crops struggle to absorb moisture through their roots, and yields decline. Ancient Mesopotamian agriculture is thought to have suffered from precisely this problem."
+  },
+  {
+    "id": "ct7-20",
+    "difficulty": "advanced",
+    "title": "Windblown loess",
+    "field": "earth",
+    "text": "Loess is a fine, yellowish sediment deposited by wind, and it covers large areas of northern China and central North America. Most loess originated during ice ages, when glaciers pulverized bedrock into extremely fine powder. Meltwater streams later deposited silt across broad plains, where it dried and was lifted by strong winds. The dust then settled downwind, sometimes accumulating in layers hundreds of meters thick. Because loess is porous and rich in minerals, it forms remarkably fertile soil. Nevertheless, it erodes easily, which explains the enormous sediment load of the Yellow River."
+  },
+  {
+    "id": "ct7-21",
+    "difficulty": "advanced",
+    "title": "Migrating barrier islands",
+    "field": "earth",
+    "text": "Barrier islands are long, narrow ridges of sand that run parallel to a coastline and are separated from the mainland by a shallow lagoon. They develop where gentle slopes, abundant sediment, and moderate tides allow waves to pile sand offshore. Storms frequently push water across these islands, carrying sand from the ocean side to the lagoon side. Through this process, the islands gradually migrate landward as sea level rises. Consequently, permanent buildings on barrier islands are inherently vulnerable. Nevertheless, the islands shelter the mainland by absorbing much of the energy of storm waves."
+  },
+  {
+    "id": "ct7-22",
+    "difficulty": "advanced",
+    "title": "Where rivers meet the sea",
+    "field": "earth",
+    "text": "An estuary is a partly enclosed body of water where fresh river water meets salty seawater. Lighter fresh water tends to flow seaward above a dense wedge of salty bottom water. The intensity of mixing depends largely on the balance between river discharge and tidal currents. Where tides are powerful, turbulence blends the two layers thoroughly. Estuaries are among the most productive ecosystems, since rivers continually supply nutrients and brackish conditions support abundant plankton. However, they also trap pollutants carried from inland cities and farms."
+  },
+  {
+    "id": "ct7-23",
+    "difficulty": "advanced",
+    "title": "How typhoons gain strength",
+    "field": "earth",
+    "text": "Tropical cyclones, called typhoons in the western Pacific, draw their energy from warm ocean water. Intense evaporation from tropical seas supplies enormous quantities of water vapor. Rising air cools, and the vapor condenses, releasing latent heat that warms the surrounding air and lowers surface pressure. More air then rushes inward, and the rotation of the planet deflects it into a spiral. This cycle intensifies as long as warm water remains beneath the storm. Once a cyclone moves over land or cooler water, it rapidly weakens."
+  },
+  {
+    "id": "ct7-24",
+    "difficulty": "advanced",
+    "title": "The jet stream",
+    "field": "earth",
+    "text": "Jet streams are narrow bands of extremely fast wind that flow from west to east near the top of the troposphere. They form along boundaries where cold polar air meets warmer air from lower latitudes. The sharp temperature contrast creates a steep pressure gradient, which accelerates the wind to remarkable speeds. Airlines exploit this current, since eastbound flights that follow it consume less fuel. However, the jet stream meanders in large waves rather than flowing straight. When these waves stall, they can trap heat or cold over one region for weeks."
+  },
+  {
+    "id": "ct7-25",
+    "difficulty": "advanced",
+    "title": "El Nino events",
+    "field": "earth",
+    "text": "El Nino is a periodic warming of the eastern tropical Pacific Ocean that disrupts weather around the world. Normally, steady trade winds blow westward and push warm surface water toward Indonesia and Australia. This movement allows cold water full of nutrients to rise along the coast of South America. During an El Nino event, however, the trade winds weaken, and the warm water spreads back eastward. Consequently, upwelling is suppressed, and fisheries off Peru decline sharply. The shifting heat also redistributes rainfall, bringing floods to some deserts and severe drought to normally humid regions."
+  },
+  {
+    "id": "ct7-26",
+    "difficulty": "advanced",
+    "title": "Orbital cycles and ice ages",
+    "field": "earth",
+    "text": "Over the past million years, ice ages have alternated with warmer interglacial periods in a surprisingly regular rhythm. Scientists attribute this rhythm to gradual, predictable variations in orbital geometry. These cycles alter how sunlight is distributed between seasons and latitudes. They involve the shape of the orbit, the tilt of the axis, and a slow wobble of that axis. When northern summers receive less sunlight, winter snow survives through the year and ice sheets expand. Sediment cores from the ocean floor have since confirmed these predicted cycles."
+  },
+  {
+    "id": "ct7-27",
+    "difficulty": "advanced",
+    "title": "Ancient air in ice cores",
+    "field": "earth",
+    "text": "Ice cores drilled from the Antarctic ice sheet contain a continuous record of climate stretching back hundreds of thousands of years. Accumulating snow gradually compresses into ice, trapping tiny bubbles of ancient atmosphere. Researchers analyze these bubbles to measure past carbon dioxide concentrations. In addition, the ratio of heavy to light oxygen atoms in the ice indicates the temperature when the snow fell. These records show that carbon dioxide and temperature have risen and fallen together. However, the deepest layers are hard to interpret because the ice slowly flows and deforms."
+  },
+  {
+    "id": "ct7-28",
+    "difficulty": "advanced",
+    "title": "Glacial valleys and moraines",
+    "field": "earth",
+    "text": "Glaciers are powerful agents of erosion that reshape mountain landscapes far more dramatically than rivers do. As a glacier slides downhill, rocks frozen into its base scrape and grind the bedrock beneath. Rivers tend to carve narrow valleys with a V shape, whereas glaciers widen them into broad, steep valleys with a U shape. The ice also transports enormous quantities of debris, which accumulates along its edges and at its front. When the glacier eventually retreats, these unsorted piles remain as ridges called moraines. Geologists therefore use moraines to map the former extent of ice."
+  },
+  {
+    "id": "ct7-29",
+    "difficulty": "advanced",
+    "title": "How tsunamis are generated",
+    "field": "earth",
+    "text": "A tsunami is a series of ocean waves generated when a large volume of water is suddenly displaced. Most tsunamis are triggered by undersea earthquakes in which one block of the seafloor is thrust upward. In deep water, the waves are barely noticeable, although they travel as fast as a jet aircraft. As they approach shallow coastal water, however, they slow down and their height increases dramatically. The sea sometimes retreats from the shore first, exposing the seabed for several minutes. Residents who recognize this warning sign should immediately move to higher ground."
+  },
+  {
+    "id": "ct7-30",
+    "difficulty": "advanced",
+    "title": "Evidence of water on Mars",
+    "field": "earth",
+    "text": "Although the surface of Mars is now cold and dry, abundant evidence suggests that liquid water once flowed across it. Orbiting spacecraft have photographed branching channels that closely resemble river valleys on Earth. Some craters even contain ancient deltas, indicating that they once held lakes. Moreover, rovers have discovered minerals such as clays and sulfates, which typically form only in the presence of water. Today, however, the thin atmosphere cannot keep water liquid for long. The planet probably lost much of its air after its magnetic field weakened and the solar wind stripped it away."
+  }
+]

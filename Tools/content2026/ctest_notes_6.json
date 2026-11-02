@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "ct6-01",
+  "blanks": [
+   {
+    "word": "building",
+    "pos": "n.",
+    "zh": "建築物（指商隊驛站本身）",
+    "why": "Each 後接單數名詞當主詞；第一句的 roadside inns called caravanserais 就是這種「建築」。buil- 補 -ding，build 的名詞形。"
+   },
+   {
+    "word": "large",
+    "pos": "adj.",
+    "zh": "大的",
+    "why": "冠詞 a 與 open courtyard 之間需形容詞，描述能容納整支駱駝商隊的「大」庭院；la- 補 -rge，別寫成 lagre。"
+   },
+   {
+    "word": "courtyard",
+    "pos": "n.",
+    "zh": "庭院；中庭",
+    "why": "a large open ___ 需名詞，後面 where merchants could unload 說明是卸貨的空地；court（院子）+ yard（場地）複合字，cour- 補 -tyard。"
+   },
+   {
+    "word": "merchants",
+    "pos": "n.",
+    "zh": "商人",
+    "why": "where 子句的主詞，能卸下駱駝貨物的是「商人」；本題主題字 merchant 與 merchandise 同源，merc- 補 -hants，注意 -ant 不是 -ent。"
+   },
+   {
+    "word": "unload",
+    "pos": "v.",
+    "zh": "卸（貨）",
+    "why": "情態助動詞 could 後接原形動詞，受詞 their camels 表示從駱駝身上「卸下」貨物；un-（相反）+ load（裝載），unl- 補 -oad。"
+   },
+   {
+    "word": "camels",
+    "pos": "n.",
+    "zh": "駱駝",
+    "why": "their 後需名詞，第一句 overland routes 與後文 silk and spices 指向陸路商隊的馱獸「駱駝」；cam- 補 -els，字尾 -el 不是 -le。"
+   },
+   {
+    "word": "Rooms",
+    "pos": "n.",
+    "zh": "房間",
+    "why": "句首大寫名詞當主詞，Rooms for sleeping「睡覺用的房間」排列在牆邊；Ro- 補 -oms，雙 o。"
+   },
+   {
+    "word": "sleeping",
+    "pos": "n.",
+    "zh": "睡覺（動名詞）",
+    "why": "介系詞 for 後接動名詞；與後面 storerooms（儲藏室）對比，一種給人睡、一種給貨放。slee- 補 -ping，sleep 加 -ing 不重複 p。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "lined ___ walls 指這座驛站本身的牆，是特定對象，用 the；t- 補 -he。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "而且；和",
+    "why": "逗號後連接兩個完整子句 Rooms ... lined the walls 與 storerooms protected ...，需對等連接詞；a- 補 -nd。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-02",
+  "blanks": [
+   {
+    "word": "called",
+    "pos": "v.",
+    "zh": "被稱為（過去分詞）",
+    "why": "Officials ___ censors 是「被稱為 censors 的官員」，過去分詞片語修飾名詞，與第一句的 census 同源；cal- 補 -led，雙 l。"
+   },
+   {
+    "word": "recorded",
+    "pos": "v.",
+    "zh": "記錄",
+    "why": "主詞 Officials ... censors 後需要主要動詞，受詞 each household 表示「登記」每一戶；全文過去式，reco- 補 -rded，名詞 record 重音在前。"
+   },
+   {
+    "word": "household",
+    "pos": "n.",
+    "zh": "家戶",
+    "why": "each 後接單數名詞，後面 names of family members 說明是一個「家庭戶」；house + hold 複合字，hous- 補 -ehold，別漏掉中間的 e。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "including ___ names of family members，有 of 片語限定的名字，用 the；t- 補 -he。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "the names ___ family members「家庭成員的名字」，所屬關係用 of；o- 補 -f。"
+   },
+   {
+    "word": "members",
+    "pos": "n.",
+    "zh": "成員",
+    "why": "family ___ 是固定搭配「家庭成員」，前有 names 表示多人，用複數；mem- 補 -bers，別猜成 memory 或 memorize。"
+   },
+   {
+    "word": "property",
+    "pos": "n.",
+    "zh": "財產",
+    "why": "與 names、slaves 並列的登記項目，下一句 how much tax 說明財產決定稅額；prop- 補 -erty，注意 -erty 不是 -ety。"
+   },
+   {
+    "word": "their",
+    "pos": "det.",
+    "zh": "他們的",
+    "why": "___ property and ___ slaves 指這些家戶「他們的」財產，所有格限定詞；th- 補 -eir，別寫成 there。"
+   },
+   {
+    "word": "This",
+    "pos": "det.",
+    "zh": "這（些）",
+    "why": "___ information 回指上一句官員登記的資料，句首用指示詞 This 且大寫；Th- 補 -is。"
+   },
+   {
+    "word": "decided",
+    "pos": "v.",
+    "zh": "決定",
+    "why": "主詞 This information 後需主要動詞，接 how much tax 名詞子句，表示資料「決定」稅額；dec- 補 -ided，decide 的 -ide 拼法。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-03",
+  "blanks": [
+   {
+    "word": "merchants",
+    "pos": "n.",
+    "zh": "商人",
+    "why": "Italian 後需名詞當主詞，後面 brought silk, spices 說明是攜帶貨物來交易的「商人」；merc- 補 -hants，與後面 traders 同義呼應。"
+   },
+   {
+    "word": "silk",
+    "pos": "n.",
+    "zh": "絲綢",
+    "why": "brought 的第一個受詞，與 spices、dyes 並列為東方高價商品；si- 補 -lk，l 在 k 前。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "列舉 silk, spices, ___ dyes 的最後一項前用 and；a- 補 -nd。"
+   },
+   {
+    "word": "while",
+    "pos": "conj.",
+    "zh": "而（表對比）",
+    "why": "連接兩個子句，對比南方義大利商人與北方商人帶來的不同商品；wh- 補 -ile，別寫成 whlie。"
+   },
+   {
+    "word": "traders",
+    "pos": "n.",
+    "zh": "商人；貿易者",
+    "why": "northern 後需名詞當主詞，對應前半句的 Italian merchants；trade 加 -er 成 trader，tra- 補 -ders。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "帶著",
+    "why": "arrived ___ fine woolen cloth「帶著上好毛料抵達」，表示攜帶用 with；wi- 補 -th。"
+   },
+   {
+    "word": "woolen",
+    "pos": "adj.",
+    "zh": "羊毛製的",
+    "why": "fine ___ cloth 中修飾 cloth 的形容詞「羊毛的」；wool + -en，美式拼法單 l，woo- 補 -len。"
+   },
+   {
+    "word": "The",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "句首 ___ local rulers 指 Champagne 當地特定的統治者，用 The；T- 補 -he。"
+   },
+   {
+    "word": "rulers",
+    "pos": "n.",
+    "zh": "統治者",
+    "why": "local 後需名詞當主詞，能「保證通行安全、任命官員」的是當地「統治者」；rule + -er，rul- 補 -ers。"
+   },
+   {
+    "word": "safe",
+    "pos": "adj.",
+    "zh": "安全的",
+    "why": "guaranteed ___ passage 中修飾 passage 的形容詞，safe passage「安全通行」；sa- 補 -fe，別寫成名詞 safety。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-04",
+  "blanks": [
+   {
+    "word": "member",
+    "pos": "n.",
+    "zh": "成員（作形容詞用）",
+    "why": "___ cities 是名詞修飾名詞，「會員城市」，呼應第一句 association of merchant towns；mem- 補 -ber，不加 s 因為後面 cities 才是中心詞。"
+   },
+   {
+    "word": "controlled",
+    "pos": "v.",
+    "zh": "控制",
+    "why": "主詞 Its member cities 後需主要動詞，受詞 much of the commerce 表示「掌控」大部分貿易；control 雙寫 l 加 -ed，contr- 補 -olled。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的（much of）",
+    "why": "much ___ the commerce「大部分的貿易」，much of 是固定搭配；o- 補 -f。"
+   },
+   {
+    "word": "commerce",
+    "pos": "n.",
+    "zh": "商業；貿易",
+    "why": "the 後需名詞，聯盟是 merchant towns，控制的是「貿易」；comm- 補 -erce，雙 m，形容詞 commercial。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "across ___ northern seas 指北歐特定海域，用 the；t- 補 -he。"
+   },
+   {
+    "word": "seas",
+    "pos": "n.",
+    "zh": "海域",
+    "why": "northern 後需名詞，下一句 Ships carried 提示是「海上」貿易；se- 補 -as，別寫成 sees。"
+   },
+   {
+    "word": "several",
+    "pos": "det.",
+    "zh": "數個",
+    "why": "___ centuries 需修飾複數名詞的數量詞，「好幾個世紀」；sev- 補 -eral，中間是 e 不是 a。"
+   },
+   {
+    "word": "Ships",
+    "pos": "n.",
+    "zh": "船隻",
+    "why": "句首名詞當主詞，承接上一句 seas，能「載運」皮草與木材的是「船」；Sh- 補 -ips。"
+   },
+   {
+    "word": "furs",
+    "pos": "n.",
+    "zh": "毛皮",
+    "why": "carried 的第一個受詞，與 timber、grain 並列為北方森林產品；fu- 補 -rs，別猜成 fruits。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "列舉 furs, timber, ___ grain 的最後一項前用 and；a- 補 -nd。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-05",
+  "blanks": [
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "Along ___ royal highway 指第一句帝國修建的那條特定道路，用 the；t- 補 -he。"
+   },
+   {
+    "word": "highway",
+    "pos": "n.",
+    "zh": "大道；公路",
+    "why": "royal 後需名詞，承接第一句 network of roads，「御道」是幹線大路；high + way，hig- 補 -hway。"
+   },
+   {
+    "word": "stations",
+    "pos": "n.",
+    "zh": "驛站",
+    "why": "official 後需複數名詞當主詞，後面 kept fresh horses 說明是換馬的「驛站」；stat- 補 -ions，字尾 -tion 是名詞標記。"
+   },
+   {
+    "word": "at",
+    "pos": "prep.",
+    "zh": "在（間隔）",
+    "why": "___ regular intervals「每隔固定距離」是固定片語；a- 補 -t。"
+   },
+   {
+    "word": "intervals",
+    "pos": "n.",
+    "zh": "間隔",
+    "why": "regular 後需名詞，指驛站之間「固定的距離」；inter-（之間）+ val，inte- 補 -rvals，別寫成 intervels。"
+   },
+   {
+    "word": "kept",
+    "pos": "v.",
+    "zh": "備有；保持",
+    "why": "主詞 stations 的第二個動詞，與 stood 以 and 並列，「備有」新馬；keep 的過去式，ke- 補 -pt。"
+   },
+   {
+    "word": "horses",
+    "pos": "n.",
+    "zh": "馬",
+    "why": "fresh ___ and riders「換上精力充沛的馬和騎手」；hor- 補 -ses，別寫成 houses。"
+   },
+   {
+    "word": "riders",
+    "pos": "n.",
+    "zh": "騎手；信差",
+    "why": "與 horses 並列，接力送信的「騎手」，下一句 courier 同義；ride + -er，rid- 補 -ers。"
+   },
+   {
+    "word": "passed",
+    "pos": "v.",
+    "zh": "傳遞",
+    "why": "主詞 A message 後需動詞，from one courier to the next 表示訊息「傳遞」下去；pas- 補 -sed，別寫成 past。"
+   },
+   {
+    "word": "one",
+    "pos": "pron.",
+    "zh": "一個（信差）",
+    "why": "from ___ courier to the next「從一個信差到下一個」是對比結構；o- 補 -ne。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-06",
+  "blanks": [
+   {
+    "word": "chests",
+    "pos": "n.",
+    "zh": "箱子",
+    "why": "Carrying ___ of coins 中 of 前需名詞，裝錢幣的「箱子」；che- 補 -sts；chest 也有「胸部」義，這裡指箱子。"
+   },
+   {
+    "word": "coins",
+    "pos": "n.",
+    "zh": "硬幣",
+    "why": "chests of ___ 指裝滿的「錢幣」，後文 without coins 再次出現；co- 補 -ins，coin 是 currency 的實體形式。"
+   },
+   {
+    "word": "risky",
+    "pos": "adj.",
+    "zh": "有風險的",
+    "why": "be 動詞 was 後需形容詞補語，since 子句說旅人常被搶，所以「危險」；risk 加 -y，ri- 補 -sky。"
+   },
+   {
+    "word": "travelers",
+    "pos": "n.",
+    "zh": "旅行者",
+    "why": "since 子句的主詞，在路上會被搶的是「旅人」；美式拼法單 l，trav- 補 -elers（英式 travellers）。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "on ___ roads 指商人往來城市的道路，用 the；t- 補 -he。"
+   },
+   {
+    "word": "were",
+    "pos": "aux.",
+    "zh": "（被動）be 動詞",
+    "why": "主詞 travelers 為複數、過去式，were robbed 構成被動語態；we- 補 -re，別寫成 where。"
+   },
+   {
+    "word": "robbed",
+    "pos": "v.",
+    "zh": "被搶劫",
+    "why": "were 後接過去分詞形成被動，搶走的正是 coins；rob 短母音雙寫 b 加 -ed，rob- 補 -bed。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "A bill ___ exchange 是固定術語「匯票」；o- 補 -f。"
+   },
+   {
+    "word": "solved",
+    "pos": "v.",
+    "zh": "解決",
+    "why": "主詞 A bill of exchange 後需動詞，受詞 this problem 指搬運錢幣的風險；sol- 補 -ved。"
+   },
+   {
+    "word": "problem",
+    "pos": "n.",
+    "zh": "問題",
+    "why": "this 後需名詞，回指上一句 risky 的情況；pro- 補 -blem，別寫成 probelm。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-07",
+  "blanks": [
+   {
+    "word": "value",
+    "pos": "v.",
+    "zh": "重視",
+    "why": "主詞 Archaeologists 後需動詞，受詞 them 指貝塚，because 子句說明「重視」的理由；va- 補 -lue，也可作名詞「價值」。"
+   },
+   {
+    "word": "because",
+    "pos": "conj.",
+    "zh": "因為",
+    "why": "連接原因子句 they preserve evidence，說明考古學家為何看重貝塚；bec- 補 -ause，注意 -au- 順序。"
+   },
+   {
+    "word": "preserve",
+    "pos": "v.",
+    "zh": "保存",
+    "why": "主詞 they 後需動詞，受詞 evidence 表示「保存」證據；pre- + serve，pres- 補 -erve，名詞 preservation。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "evidence ___ daily diets「日常飲食的證據」；o- 補 -f。"
+   },
+   {
+    "word": "diets",
+    "pos": "n.",
+    "zh": "飲食",
+    "why": "daily 後需名詞，貝殼與魚骨正是古人「飲食」的遺跡；di- 補 -ets，別寫成 dates。"
+   },
+   {
+    "word": "long",
+    "pos": "adj.",
+    "zh": "長的",
+    "why": "over ___ periods「長時期」，貝塚層層堆積數百年；lo- 補 -ng。"
+   },
+   {
+    "word": "Layers",
+    "pos": "n.",
+    "zh": "地層；層",
+    "why": "句首名詞當主詞，contain 表示每一「層」含有遺物，呼應後文 in each layer；Lay- 補 -ers。"
+   },
+   {
+    "word": "contain",
+    "pos": "v.",
+    "zh": "包含",
+    "why": "主詞 Layers 為複數，用原形動詞，受詞 fish bones, broken tools；con- 補 -tain，名詞 container。"
+   },
+   {
+    "word": "bones",
+    "pos": "n.",
+    "zh": "骨頭",
+    "why": "fish ___ 魚骨，與工具、木炭並列為貝塚內的遺物；bo- 補 -nes。"
+   },
+   {
+    "word": "tools",
+    "pos": "n.",
+    "zh": "工具",
+    "why": "broken ___「破損的工具」，考古常見的 artifact；to- 補 -ols，雙 o。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-08",
+  "blanks": [
+   {
+    "word": "began",
+    "pos": "v.",
+    "zh": "開始；起源",
+    "why": "主詞 They 後需動詞，began as associations「起初是……組織」；begin 的過去式，be- 補 -gan，別寫成 begun。"
+   },
+   {
+    "word": "associations",
+    "pos": "n.",
+    "zh": "協會；團體",
+    "why": "as 後需名詞，of students and teachers 說明是師生組成的「團體」；associ- 補 -ations，雙 s，動詞 associate。"
+   },
+   {
+    "word": "students",
+    "pos": "n.",
+    "zh": "學生",
+    "why": "associations of ___ and teachers，與 teachers 並列；stud- 補 -ents，-ent 字尾。"
+   },
+   {
+    "word": "teachers",
+    "pos": "n.",
+    "zh": "教師",
+    "why": "與 students 並列，大學由「師生」組成；teac- 補 -hers。"
+   },
+   {
+    "word": "wanted",
+    "pos": "v.",
+    "zh": "想要",
+    "why": "who 子句的動詞，受詞 protection 表示他們「想要」保護；wan- 補 -ted。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "連接 protection ___ shared rules 兩個受詞；a- 補 -nd。"
+   },
+   {
+    "word": "rules",
+    "pos": "n.",
+    "zh": "規則",
+    "why": "shared 後需名詞，「共同的規則」，呼應下一句 guilds 的組織性質；ru- 補 -les。"
+   },
+   {
+    "word": "other",
+    "pos": "adj.",
+    "zh": "其他的",
+    "why": "Like ___ guilds「像其他行會一樣」，暗示大學本身也是一種 guild；ot- 補 -her。"
+   },
+   {
+    "word": "these",
+    "pos": "det.",
+    "zh": "這些",
+    "why": "___ groups 回指前面的師生團體，複數名詞用 these；th- 補 -ese，別寫成 this。"
+   },
+   {
+    "word": "obtained",
+    "pos": "v.",
+    "zh": "取得",
+    "why": "主詞 these groups 後需動詞，受詞 charters（特許狀）表示從教宗或國王「取得」；obta- 補 -ined，-ain 字尾。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-09",
+  "blanks": [
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在……之中",
+    "why": "Late ___ the eighteenth century「在十八世紀後期」，世紀前用 in；i- 補 -n。"
+   },
+   {
+    "word": "eighteenth",
+    "pos": "adj.",
+    "zh": "第十八的",
+    "why": "the ___ century 需序數詞；第一句後談牛痘，Jenner 是十八世紀末；eight- 補 -eenth，注意只有一個 t（eight + eenth）。"
+   },
+   {
+    "word": "country",
+    "pos": "adj.",
+    "zh": "鄉村的（名詞作形容詞）",
+    "why": "a ___ doctor「鄉村醫生」，後面 dairy workers 呼應鄉間環境；cou- 補 -ntry，別寫成 county。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在（地點）",
+    "why": "a country doctor ___ England 表示所在國家；i- 補 -n。"
+   },
+   {
+    "word": "observed",
+    "pos": "v.",
+    "zh": "觀察到",
+    "why": "主詞 doctor 後需動詞，接 that 子句表示「注意到」某現象；obse- 補 -rved，名詞 observation。"
+   },
+   {
+    "word": "dairy",
+    "pos": "adj.",
+    "zh": "乳品業的；酪農的",
+    "why": "___ workers 指擠牛奶的工人，因接觸牛才會得 cowpox；da- 補 -iry，別寫成 diary（日記）。"
+   },
+   {
+    "word": "who",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "先行詞 workers 是人，___ caught ... 修飾他們，用 who；w- 補 -ho。"
+   },
+   {
+    "word": "mild",
+    "pos": "adj.",
+    "zh": "輕微的",
+    "why": "a ___ disease called cowpox，與致命的 smallpox 對比，牛痘只是「輕微」疾病；mi- 補 -ld。"
+   },
+   {
+    "word": "called",
+    "pos": "v.",
+    "zh": "被稱為",
+    "why": "a mild disease ___ cowpox「名叫牛痘的疾病」，過去分詞修飾 disease；cal- 補 -led。"
+   },
+   {
+    "word": "rarely",
+    "pos": "adv.",
+    "zh": "很少",
+    "why": "修飾動詞 developed，得過牛痘的人「很少」得天花，這正是疫苗的靈感；rare + -ly，rar- 補 -ely。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-10",
+  "blanks": [
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "In ___ Song period 指特定朝代時期，用 the；t- 補 -he。"
+   },
+   {
+    "word": "period",
+    "pos": "n.",
+    "zh": "時期",
+    "why": "the Song ___「宋朝時期」，in + 時期名詞；per- 補 -iod。"
+   },
+   {
+    "word": "merchants",
+    "pos": "n.",
+    "zh": "商人",
+    "why": "wealthy 後需名詞當主詞，會交易憑證的是有錢「商人」；merc- 補 -hants。"
+   },
+   {
+    "word": "trading",
+    "pos": "v.",
+    "zh": "交易（動名詞）",
+    "why": "began 後接動名詞 trading，受詞 paper certificates；trade 去 e 加 -ing，tra- 補 -ding。"
+   },
+   {
+    "word": "certificates",
+    "pos": "n.",
+    "zh": "憑證；票據",
+    "why": "paper ___ 需名詞，取代沉重鐵錢的「紙製憑證」，即早期紙幣交子；certif- 補 -icates，動詞 certify。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "（instead of 代替）",
+    "why": "instead ___ carrying「而不是攜帶」，固定片語 instead of；o- 補 -f。"
+   },
+   {
+    "word": "heavy",
+    "pos": "adj.",
+    "zh": "沉重的",
+    "why": "___ iron coins，鐵錢「笨重」正是改用紙張的原因；he- 補 -avy。"
+   },
+   {
+    "word": "coins",
+    "pos": "n.",
+    "zh": "錢幣",
+    "why": "iron ___「鐵錢」，與 paper certificates 對比；co- 補 -ins，別寫成 coils。"
+   },
+   {
+    "word": "government",
+    "pos": "n.",
+    "zh": "政府",
+    "why": "The ___ soon took control 主詞，下一句 issued official notes 是「政府」行為；gover- 補 -nment，別漏掉中間的 n。"
+   },
+   {
+    "word": "took",
+    "pos": "v.",
+    "zh": "取得（控制權）",
+    "why": "主詞 government 後需動詞，took control of「接管」此做法；take 的過去式，to- 補 -ok。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-11",
+  "blanks": [
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "Thousands ___ skilled carpenters「數千名熟練木匠」，Thousands of 固定用法；o- 補 -f。"
+   },
+   {
+    "word": "carpenters",
+    "pos": "n.",
+    "zh": "木匠",
+    "why": "skilled 後需名詞，木造船隻需要「木匠」；carpe- 補 -nters，字尾 -er 不是 -or。"
+   },
+   {
+    "word": "craftsmen",
+    "pos": "n.",
+    "zh": "工匠",
+    "why": "與 carpenters 並列，craft（手藝）+ men；craf- 補 -tsmen，複數 -men。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "built ___ repaired 連接兩個動詞「建造與修理」；a- 補 -nd。"
+   },
+   {
+    "word": "warships",
+    "pos": "n.",
+    "zh": "戰艦",
+    "why": "built and repaired 的受詞，後面 protected the commerce 說明是保護商貿的「戰船」；war + ships，wars- 補 -hips。"
+   },
+   {
+    "word": "protected",
+    "pos": "v.",
+    "zh": "保護",
+    "why": "that 子句的動詞，受詞 the commerce；prot- 補 -ected，名詞 protection。"
+   },
+   {
+    "word": "commerce",
+    "pos": "n.",
+    "zh": "商業",
+    "why": "the ___ of the republic「共和國的貿易」，戰艦護航商船；comm- 補 -erce。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "of ___ republic 指威尼斯共和國，特定對象；t- 補 -he。"
+   },
+   {
+    "word": "Ships",
+    "pos": "n.",
+    "zh": "船",
+    "why": "句首主詞，were assembled in stages 說明「船」分段組裝；Sh- 補 -ips。"
+   },
+   {
+    "word": "assembled",
+    "pos": "v.",
+    "zh": "組裝（被動）",
+    "why": "were 後接過去分詞形成被動，in stages 表示分階段「組裝」，呼應 assembly line；asse- 補 -mbled，雙 s。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-12",
+  "blanks": [
+   {
+    "word": "grass",
+    "pos": "n.",
+    "zh": "草",
+    "why": "Because 子句主詞，in dry regions grows unevenly 表示「草」生長不均；gr- 補 -ass，雙 s。"
+   },
+   {
+    "word": "dry",
+    "pos": "adj.",
+    "zh": "乾燥的",
+    "why": "in ___ regions，乾燥地區草長得零散，所以牧民要遷徙；d- 補 -ry。"
+   },
+   {
+    "word": "grows",
+    "pos": "v.",
+    "zh": "生長",
+    "why": "主詞 grass 為不可數單數，動詞加 -s；gr- 補 -ows，別寫成 grass。"
+   },
+   {
+    "word": "families",
+    "pos": "n.",
+    "zh": "家庭",
+    "why": "主要子句主詞，travel to find water 是「家庭」遷移；family 去 y 加 -ies，fami- 補 -lies。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞）為了",
+    "why": "travel ___ find water「為了找水而遷移」，不定詞表目的；t- 補 -o。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水",
+    "why": "find ___ and fresh grazing land，乾旱地區最缺的是「水」；wa- 補 -ter。"
+   },
+   {
+    "word": "fresh",
+    "pos": "adj.",
+    "zh": "新鮮的",
+    "why": "___ grazing land「新的牧草地」，舊牧地已被吃光；fr- 補 -esh。"
+   },
+   {
+    "word": "land",
+    "pos": "n.",
+    "zh": "土地",
+    "why": "grazing ___「放牧地」；la- 補 -nd。"
+   },
+   {
+    "word": "wealth",
+    "pos": "n.",
+    "zh": "財富",
+    "why": "Their ___ is measured in livestock「財富以牲畜計算」；wea- 補 -lth，形容詞 wealthy。"
+   },
+   {
+    "word": "measured",
+    "pos": "v.",
+    "zh": "衡量（被動）",
+    "why": "is 後接過去分詞形成被動，mainly in livestock 表示以牲畜「衡量」；meas- 補 -ured，-sure 字尾。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-13",
+  "blanks": [
+   {
+    "word": "rulers",
+    "pos": "n.",
+    "zh": "統治者",
+    "why": "Neighboring 後需名詞當主詞，派出使節的是鄰國「君主」；rul- 補 -ers。"
+   },
+   {
+    "word": "envoys",
+    "pos": "n.",
+    "zh": "使節",
+    "why": "sent 的受詞，到 capital（首都）朝貢的是「使節」；env- 補 -oys，複數直接加 s。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "to ___ capital 指中國的首都，特定對象；t- 補 -he。"
+   },
+   {
+    "word": "carrying",
+    "pos": "v.",
+    "zh": "攜帶（現在分詞）",
+    "why": "envoys ___ gifts「攜帶禮物的使節」，現在分詞修飾；carry 加 -ing 保留 y，carr- 補 -ying。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "先行詞 gifts，___ symbolically acknowledged... 修飾禮物；th- 補 -at。"
+   },
+   {
+    "word": "acknowledged",
+    "pos": "v.",
+    "zh": "承認",
+    "why": "that 子句動詞，受詞 superior status，貢品象徵性地「承認」皇帝地位；acknow- 補 -ledged，注意不發音的 k 與 -dge。"
+   },
+   {
+    "word": "superior",
+    "pos": "adj.",
+    "zh": "較高的；上級的",
+    "why": "___ status of the emperor「皇帝的較高地位」，tribute 即下對上的貢獻；supe- 補 -rior，-ior 字尾。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "the superior status ___ the emperor；o- 補 -f。"
+   },
+   {
+    "word": "emperor",
+    "pos": "n.",
+    "zh": "皇帝",
+    "why": "the ___ 指 imperial China 的統治者，imperial 與 emperor 同源；emp- 補 -eror，字尾 -or。"
+   },
+   {
+    "word": "return",
+    "pos": "n.",
+    "zh": "回報（In return）",
+    "why": "In ___「作為回報」固定片語，引出朝廷回贈厚禮；ret- 補 -urn。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-14",
+  "blanks": [
+   {
+    "word": "document",
+    "pos": "n.",
+    "zh": "文件",
+    "why": "The ___ 主詞，回指第一句的 charter（特許狀）；docu- 補 -ment，別寫成 docoment。"
+   },
+   {
+    "word": "that",
+    "pos": "conj.",
+    "zh": "（引導名詞子句）",
+    "why": "promised ___ the king would not...「承諾說」，that 引導受詞子句；th- 補 -at。"
+   },
+   {
+    "word": "king",
+    "pos": "n.",
+    "zh": "國王",
+    "why": "the ___ would not imprison 主詞，指第一句的 King John；ki- 補 -ng。"
+   },
+   {
+    "word": "not",
+    "pos": "adv.",
+    "zh": "不",
+    "why": "would ___ imprison，限制王權「不得」任意監禁；n- 補 -ot。"
+   },
+   {
+    "word": "free",
+    "pos": "adj.",
+    "zh": "自由的",
+    "why": "___ men「自由民」，與農奴相對；fr- 補 -ee。"
+   },
+   {
+    "word": "without",
+    "pos": "prep.",
+    "zh": "沒有",
+    "why": "imprison free men ___ the lawful judgment「未經合法審判」；wit- 補 -hout。"
+   },
+   {
+    "word": "lawful",
+    "pos": "adj.",
+    "zh": "合法的",
+    "why": "the ___ judgment「依法的判決」；law + -ful，只有一個 l 在字尾，law- 補 -ful。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "judgment ___ their peers「同儕的裁決」；o- 補 -f。"
+   },
+   {
+    "word": "peers",
+    "pos": "n.",
+    "zh": "同儕；同等地位者",
+    "why": "their ___ 指與被告同階層的人，judgment of peers 是陪審概念的起源；pe- 補 -ers，別寫成 piers。"
+   },
+   {
+    "word": "also",
+    "pos": "adv.",
+    "zh": "也",
+    "why": "It ___ restricted...，列舉憲章另一項內容「也」限制課稅；al- 補 -so。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-15",
+  "blanks": [
+   {
+    "word": "nearly",
+    "pos": "adv.",
+    "zh": "將近",
+    "why": "修飾數詞 three hundred，「將近三百條」；near + -ly，nea- 補 -rly。"
+   },
+   {
+    "word": "hundred",
+    "pos": "num.",
+    "zh": "百",
+    "why": "three ___ provisions，數詞不加 s；hun- 補 -dred，別寫成 hunderd。"
+   },
+   {
+    "word": "address",
+    "pos": "v.",
+    "zh": "處理；涉及",
+    "why": "主詞 provisions（條文）後需動詞，受詞 matters such as...，「處理」各類事務；add- 補 -ress，雙 d 雙 s。"
+   },
+   {
+    "word": "such",
+    "pos": "det.",
+    "zh": "（such as 例如）",
+    "why": "matters ___ as commerce「諸如商業等事務」；su- 補 -ch。"
+   },
+   {
+    "word": "commerce",
+    "pos": "n.",
+    "zh": "商業",
+    "why": "列舉的第一項，法典規範商業交易；comm- 補 -erce。"
+   },
+   {
+    "word": "inheritance",
+    "pos": "n.",
+    "zh": "繼承",
+    "why": "與 property 並列，財產「繼承」；inher- 補 -itance，字尾 -ance，動詞 inherit。"
+   },
+   {
+    "word": "professional",
+    "pos": "adj.",
+    "zh": "職業的；專業的",
+    "why": "___ negligence「執業過失」，如後文建築師造屋倒塌；profes- 補 -sional，雙 s 單 f。"
+   },
+   {
+    "word": "Punishments",
+    "pos": "n.",
+    "zh": "懲罰",
+    "why": "句首主詞，depended on social rank「刑罰」依身份而定；punish + -ment，Punis- 補 -hments。"
+   },
+   {
+    "word": "depended",
+    "pos": "v.",
+    "zh": "取決於",
+    "why": "主詞 Punishments 後需動詞，___ on 固定搭配「取決於」；depe- 補 -nded。"
+   },
+   {
+    "word": "social",
+    "pos": "adj.",
+    "zh": "社會的",
+    "why": "___ rank「社會階級」，後面 nobleman 與 commoner 對比；soc- 補 -ial。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-16",
+  "blanks": [
+   {
+    "word": "by",
+    "pos": "prep.",
+    "zh": "由（表動作者）",
+    "why": "Excavation ___ divers「由潛水員進行的發掘」，沉船在海底；b- 補 -y。"
+   },
+   {
+    "word": "revealed",
+    "pos": "v.",
+    "zh": "揭露；顯示",
+    "why": "主詞 Excavation 後需動詞，受詞 cargo 表示發掘「揭露」船貨；reve- 補 -aled，名詞 revelation。"
+   },
+   {
+    "word": "diverse",
+    "pos": "adj.",
+    "zh": "多樣的",
+    "why": "a remarkably ___ cargo，後面列出銅、錫、玻璃、象牙、烏木，可見種類「多樣」；div- 補 -erse，名詞 diversity。"
+   },
+   {
+    "word": "including",
+    "pos": "prep.",
+    "zh": "包括",
+    "why": "cargo, ___ copper and tin ingots，引出清單；incl- 補 -uding，include 去 e 加 -ing。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "copper ___ tin ingots，銅和錫是青銅的兩種原料；a- 補 -nd。"
+   },
+   {
+    "word": "ingots",
+    "pos": "n.",
+    "zh": "金屬錠",
+    "why": "copper and tin ___ 指鑄成塊狀的金屬原料「錠」；ing- 補 -ots，別猜成 ingredients。"
+   },
+   {
+    "word": "ivory",
+    "pos": "n.",
+    "zh": "象牙",
+    "why": "與 glass、ebony 並列的奢侈品原料；iv- 補 -ory，-ory 不是 -ery。"
+   },
+   {
+    "word": "ebony",
+    "pos": "n.",
+    "zh": "烏木",
+    "why": "清單最後一項，與 ivory 同為高價異國材料（黑色硬木）；eb- 補 -ony。"
+   },
+   {
+    "word": "bronze",
+    "pos": "n.",
+    "zh": "青銅",
+    "why": "Because 子句主詞，is produced by combining these two metals，銅加錫即「青銅」，呼應第一句 Bronze Age；bro- 補 -nze。"
+   },
+   {
+    "word": "produced",
+    "pos": "v.",
+    "zh": "製造（被動）",
+    "why": "is ___ by combining「由結合……製成」，被動語態用過去分詞；prod- 補 -uced。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-17",
+  "blanks": [
+   {
+    "word": "so",
+    "pos": "adv.",
+    "zh": "如此（多）",
+    "why": "Because ___ many laborers died，so many「如此多」強調死亡人數，呼應 a third of the population；s- 補 -o。"
+   },
+   {
+    "word": "laborers",
+    "pos": "n.",
+    "zh": "勞工",
+    "why": "many 後需複數名詞，後文 wages、workers 都在談「勞動者」；labor + -er，美式拼法，labo- 補 -rers。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "___ survivors 指這場瘟疫特定的倖存者；t- 補 -he。"
+   },
+   {
+    "word": "suddenly",
+    "pos": "adv.",
+    "zh": "突然",
+    "why": "修飾動詞 found，人口驟減使倖存者「突然」處於優勢；sudden + -ly，sudd- 補 -enly，雙 d。"
+   },
+   {
+    "word": "themselves",
+    "pos": "pron.",
+    "zh": "他們自己",
+    "why": "found ___ in...「發現自己處於……」，反身代名詞指回 survivors；thems- 補 -elves，self 複數 selves。"
+   },
+   {
+    "word": "stronger",
+    "pos": "adj.",
+    "zh": "更強的",
+    "why": "a ___ bargaining position，勞工變少因此議價力「更強」；strong + -er，stro- 補 -nger。"
+   },
+   {
+    "word": "position",
+    "pos": "n.",
+    "zh": "地位；處境",
+    "why": "bargaining ___「議價地位」；posi- 補 -tion。"
+   },
+   {
+    "word": "struggled",
+    "pos": "v.",
+    "zh": "費力；難以",
+    "why": "主詞 Landowners 後需動詞，___ to find tenants「難以找到佃農」；stru- 補 -ggled，雙 g。"
+   },
+   {
+    "word": "find",
+    "pos": "v.",
+    "zh": "找到",
+    "why": "struggled to ___ 不定詞後接原形動詞；fi- 補 -nd。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "tenants ___ workers 並列受詞；a- 補 -nd。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-18",
+  "blanks": [
+   {
+    "word": "villagers",
+    "pos": "n.",
+    "zh": "村民",
+    "why": "Previously 後的主詞，共享 open fields 的是「村民」；village + -er，vill- 補 -agers，雙 l。"
+   },
+   {
+    "word": "shared",
+    "pos": "v.",
+    "zh": "共享",
+    "why": "had ___ 過去完成式需過去分詞，與第一句 private farms 對比，圈地前土地是「共用」的；sha- 補 -red。"
+   },
+   {
+    "word": "fields",
+    "pos": "n.",
+    "zh": "田地",
+    "why": "open ___「開放式田地」，與 pastures 並列；fie- 補 -lds，ie 順序。"
+   },
+   {
+    "word": "pastures",
+    "pos": "n.",
+    "zh": "牧場",
+    "why": "與 fields 並列的公有地，放牧用；past- 補 -ures，別猜成 pasta 或 pastors。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（according to 依照）",
+    "why": "according ___ customary rights「依照習慣權利」，固定片語；t- 補 -o。"
+   },
+   {
+    "word": "rights",
+    "pos": "n.",
+    "zh": "權利",
+    "why": "customary ___「習慣法上的權利」，村民依傳統使用公地；rig- 補 -hts，不發音的 gh。"
+   },
+   {
+    "word": "allowed",
+    "pos": "v.",
+    "zh": "允許",
+    "why": "主詞 Enclosure 後需動詞，allow sb to do「讓地主能夠……」；all- 補 -owed，雙 l，別寫成 aloud。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞）",
+    "why": "allowed landowners ___ consolidate，allow 後接 to + 原形動詞；t- 補 -o。"
+   },
+   {
+    "word": "scattered",
+    "pos": "adj.",
+    "zh": "分散的",
+    "why": "___ strips 指散落各處的條狀田，consolidate（合併）正是要解決「分散」；scat- 補 -tered，雙 t。"
+   },
+   {
+    "word": "introduce",
+    "pos": "v.",
+    "zh": "引進",
+    "why": "與 consolidate、raise 並列的不定詞動詞，___ new crops「引進新作物」；intr- 補 -oduce，-duce 字尾。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-19",
+  "blanks": [
+   {
+    "word": "supporters",
+    "pos": "n.",
+    "zh": "支持者",
+    "why": "Its ___ believed 主詞，相信重商主義的人；support + -er，suppo- 補 -rters，雙 p。"
+   },
+   {
+    "word": "that",
+    "pos": "conj.",
+    "zh": "（引導名詞子句）",
+    "why": "believed ___ national wealth depended...，引導相信的內容；th- 補 -at。"
+   },
+   {
+    "word": "wealth",
+    "pos": "n.",
+    "zh": "財富",
+    "why": "national ___「國家財富」，重商主義以金銀衡量財富；wea- 補 -lth。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "（depend on 取決於）",
+    "why": "depended ___ accumulating「取決於累積」，固定搭配；o- 補 -n。"
+   },
+   {
+    "word": "gold",
+    "pos": "n.",
+    "zh": "黃金",
+    "why": "accumulating ___ and silver，重商主義追求的貴金屬；go- 補 -ld，別猜成 goals 或 goods。"
+   },
+   {
+    "word": "silver",
+    "pos": "n.",
+    "zh": "白銀",
+    "why": "與 gold 並列的貴金屬；sil- 補 -ver。"
+   },
+   {
+    "word": "achieve",
+    "pos": "v.",
+    "zh": "達成",
+    "why": "To ___ a favorable balance「為了達成順差」，不定詞後接原形動詞；ach- 補 -ieve，ie 順序（i before e）。"
+   },
+   {
+    "word": "balance",
+    "pos": "n.",
+    "zh": "差額；平衡",
+    "why": "a favorable ___ of trade「貿易順差」，出口大於進口；bal- 補 -ance，-ance 不是 -ence。"
+   },
+   {
+    "word": "trade",
+    "pos": "n.",
+    "zh": "貿易",
+    "why": "balance of ___ 固定術語；tr- 補 -ade。"
+   },
+   {
+    "word": "encouraged",
+    "pos": "v.",
+    "zh": "鼓勵",
+    "why": "主詞 governments 後需動詞，受詞 exports，與 imposed tariffs 並列；encou- 補 -raged，courage 加 en- 與 -ed。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-20",
+  "blanks": [
+   {
+    "word": "such",
+    "pos": "det.",
+    "zh": "（such as 例如）",
+    "why": "Crops ___ as maize「諸如玉米之類的作物」；su- 補 -ch。"
+   },
+   {
+    "word": "maize",
+    "pos": "n.",
+    "zh": "玉米",
+    "why": "such as 後舉美洲原生作物「玉米」，美式也叫 corn；ma- 補 -ize，別寫成 maze（迷宮）。"
+   },
+   {
+    "word": "potatoes",
+    "pos": "n.",
+    "zh": "馬鈴薯",
+    "why": "與 maize 並列的美洲作物；potato 複數加 -es，pota- 補 -toes。"
+   },
+   {
+    "word": "became",
+    "pos": "v.",
+    "zh": "成為",
+    "why": "主詞 Crops 後需動詞，___ staple foods「成為主食」；become 過去式，bec- 補 -ame。"
+   },
+   {
+    "word": "foods",
+    "pos": "n.",
+    "zh": "食物",
+    "why": "staple ___「主食」，staple 意為基本的；fo- 補 -ods，別寫成 floods。"
+   },
+   {
+    "word": "other",
+    "pos": "adj.",
+    "zh": "其他的",
+    "why": "on ___ continents 指美洲以外的大陸，呼應定義中 rest of the world；ot- 補 -her。"
+   },
+   {
+    "word": "Conversely",
+    "pos": "adv.",
+    "zh": "反過來",
+    "why": "句首轉折副詞，前句美洲作物傳到外地，這句歐洲物種傳入美洲，方向「相反」；Conve- 補 -rsely，converse + -ly。"
+   },
+   {
+    "word": "introduced",
+    "pos": "v.",
+    "zh": "引進",
+    "why": "主詞 Europeans 後需動詞，受詞 wheat, cattle, and horses；intro- 補 -duced。"
+   },
+   {
+    "word": "cattle",
+    "pos": "n.",
+    "zh": "牛（集合名詞）",
+    "why": "與 wheat、horses 並列，歐洲帶入的家畜；cattle 恆為複數義，cat- 補 -tle，雙 t。"
+   },
+   {
+    "word": "horses",
+    "pos": "n.",
+    "zh": "馬",
+    "why": "清單最後一項，後文 transforming ... transportation 指「馬」改變了交通；hor- 補 -ses。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-21",
+  "blanks": [
+   {
+    "word": "trained",
+    "pos": "adj.",
+    "zh": "受過訓練的",
+    "why": "___ officials「受訓的官員」，後文 specialized accountants 呼應專業性；train + -ed，tra- 補 -ined。"
+   },
+   {
+    "word": "recorded",
+    "pos": "v.",
+    "zh": "記錄",
+    "why": "主詞 officials 後需動詞，受詞 information，Instead 表示用繩結代替文字「記錄」；reco- 補 -rded。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "在……上",
+    "why": "recorded information ___ khipus，記錄在載體上用 on；o- 補 -n。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "逗號後的非限定關係子句，先行詞 khipus 是物，用 which；wh- 補 -ich。"
+   },
+   {
+    "word": "bundles",
+    "pos": "n.",
+    "zh": "束；捆",
+    "why": "were ___ of knotted cords「一束束打結的繩子」；bundle 複數，bun- 補 -dles。"
+   },
+   {
+    "word": "knotted",
+    "pos": "adj.",
+    "zh": "打結的",
+    "why": "___ cords，下一句 each knot 直接提示「打結」；knot 雙寫 t 加 -ed，kno- 補 -tted，k 不發音。"
+   },
+   {
+    "word": "made",
+    "pos": "v.",
+    "zh": "製成（過去分詞）",
+    "why": "cords ___ from cotton or wool「由棉或羊毛製成的繩」；ma- 補 -de。"
+   },
+   {
+    "word": "cotton",
+    "pos": "n.",
+    "zh": "棉",
+    "why": "___ or wool，兩種纖維原料；cot- 補 -ton，雙 t。"
+   },
+   {
+    "word": "wool",
+    "pos": "n.",
+    "zh": "羊毛",
+    "why": "與 cotton 並列，安地斯山羊駝毛；wo- 補 -ol。"
+   },
+   {
+    "word": "position",
+    "pos": "n.",
+    "zh": "位置",
+    "why": "The ___ and type of each knot，繩結的「位置」表示位數（decimal）；posi- 補 -tion。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-22",
+  "blanks": [
+   {
+    "word": "ocean",
+    "pos": "adj.",
+    "zh": "海洋的（名詞作形容詞）",
+    "why": "Long ___ voyages「長途遠洋航行」，前往亞洲需跨海；oc- 補 -ean，-ean 拼法。"
+   },
+   {
+    "word": "were",
+    "pos": "v.",
+    "zh": "是（be 動詞）",
+    "why": "主詞 voyages 複數過去式，後接形容詞 expensive；we- 補 -re。"
+   },
+   {
+    "word": "expensive",
+    "pos": "adj.",
+    "zh": "昂貴的",
+    "why": "extremely ___ and dangerous，下文 afford the risk 提示「花費高」；expe- 補 -nsive，-sive 不是 -cive。"
+   },
+   {
+    "word": "dangerous",
+    "pos": "adj.",
+    "zh": "危險的",
+    "why": "與 expensive 並列，遠航有船難風險；danger + -ous，dang- 補 -erous。"
+   },
+   {
+    "word": "few",
+    "pos": "det.",
+    "zh": "很少的",
+    "why": "___ individuals could afford「很少人負擔得起」，否定語氣；f- 補 -ew。"
+   },
+   {
+    "word": "could",
+    "pos": "aux.",
+    "zh": "能夠",
+    "why": "___ afford 情態助動詞後接原形；co- 補 -uld，l 不發音。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "afford ___ risk 指前述遠航的特定風險；t- 補 -he。"
+   },
+   {
+    "word": "alone",
+    "pos": "adv.",
+    "zh": "單獨地",
+    "why": "afford the risk ___「獨自承擔」，與下一句 many investors 分攤對比；al- 補 -one。"
+   },
+   {
+    "word": "purchasing",
+    "pos": "v.",
+    "zh": "購買（動名詞）",
+    "why": "By ___ shares，介系詞 by 後接動名詞；purchase 去 e 加 -ing，purch- 補 -asing。"
+   },
+   {
+    "word": "many",
+    "pos": "det.",
+    "zh": "許多的",
+    "why": "___ investors，與上句 few individuals 對比，股份制讓「許多」人出資；ma- 補 -ny。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-23",
+  "blanks": [
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "Since ___ planet 指地球，唯一的對象用 the；t- 補 -he。"
+   },
+   {
+    "word": "rotates",
+    "pos": "v.",
+    "zh": "自轉",
+    "why": "主詞 the planet 單數，動詞加 -s，___ at a steady rate「以穩定速度自轉」；rot- 補 -ates，名詞 rotation。"
+   },
+   {
+    "word": "steady",
+    "pos": "adj.",
+    "zh": "穩定的",
+    "why": "at a ___ rate「穩定的速率」，地球自轉均勻才能用時差算經度；ste- 補 -ady，別寫成 study。"
+   },
+   {
+    "word": "comparing",
+    "pos": "v.",
+    "zh": "比較（動名詞）",
+    "why": "___ local noon with the time... 動名詞片語當主詞，compare A with B；comp- 補 -aring，去 e 加 -ing。"
+   },
+   {
+    "word": "noon",
+    "pos": "n.",
+    "zh": "正午",
+    "why": "local ___「當地正午」，可由太陽最高點測得；no- 補 -on，雙 o。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "with ___ time kept at a home port，有後位修飾的特定時間；t- 補 -he。"
+   },
+   {
+    "word": "kept",
+    "pos": "v.",
+    "zh": "保持（過去分詞）",
+    "why": "the time ___ at a home port「保持母港時間」，即船上時鐘的功能；keep 的過去分詞，ke- 補 -pt。"
+   },
+   {
+    "word": "home",
+    "pos": "adj.",
+    "zh": "本國的；出發地的",
+    "why": "a ___ port「母港」，船出發的港口作為參照；ho- 補 -me。"
+   },
+   {
+    "word": "reveals",
+    "pos": "v.",
+    "zh": "顯示",
+    "why": "動名詞主詞 comparing ... 視為單數，動詞加 -s；rev- 補 -eals。"
+   },
+   {
+    "word": "distance",
+    "pos": "n.",
+    "zh": "距離",
+    "why": "reveals the ___ a ship has traveled east or west「東西向航行的距離」，即經度；dist- 補 -ance，-ance 不是 -ence。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-24",
+  "blanks": [
+   {
+    "word": "therefore",
+    "pos": "adv.",
+    "zh": "因此",
+    "why": "第一句說病人完全清醒，所以外科醫生「因此」必須很快；ther- 補 -efore，there + fore。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "以；帶著",
+    "why": "operated ___ extraordinary speed「以驚人速度開刀」；wi- 補 -th。"
+   },
+   {
+    "word": "speed",
+    "pos": "n.",
+    "zh": "速度",
+    "why": "extraordinary ___，沒有麻醉只能求「快」；sp- 補 -eed，雙 e。"
+   },
+   {
+    "word": "many",
+    "pos": "det.",
+    "zh": "許多",
+    "why": "___ patients suffered，量詞修飾複數名詞；ma- 補 -ny。"
+   },
+   {
+    "word": "suffered",
+    "pos": "v.",
+    "zh": "遭受",
+    "why": "主詞 patients 後需動詞，受詞 unbearable pain；suff- 補 -ered，雙 f。"
+   },
+   {
+    "word": "pain",
+    "pos": "n.",
+    "zh": "疼痛",
+    "why": "unbearable ___「難以忍受的疼痛」，麻醉要解決的正是這個；pa- 補 -in，別寫成 pane。"
+   },
+   {
+    "word": "shock",
+    "pos": "n.",
+    "zh": "休克",
+    "why": "pain or ___，劇痛引起的「休克」；sh- 補 -ock，-ck 結尾。"
+   },
+   {
+    "word": "famous",
+    "pos": "adj.",
+    "zh": "著名的",
+    "why": "a ___ demonstration「著名的示範」，此事件被視為麻醉史起點；fam- 補 -ous，fame 去 e 加 -ous。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在（地點）",
+    "why": "demonstration ___ a Boston hospital；i- 補 -n。"
+   },
+   {
+    "word": "hospital",
+    "pos": "n.",
+    "zh": "醫院",
+    "why": "a Boston ___，手術示範的場所；hosp- 補 -ital，-al 不是 -le。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-25",
+  "blanks": [
+   {
+    "word": "demonstrated",
+    "pos": "v.",
+    "zh": "證明",
+    "why": "主詞 He 後需動詞，接 that 子句說明他「證明」的發現；demons- 補 -trated，名詞 demonstration。"
+   },
+   {
+    "word": "fermentation",
+    "pos": "n.",
+    "zh": "發酵",
+    "why": "that 子句主詞，呼應第一句 wine and beer 的釀造過程「發酵」；ferment + -ation，fermen- 補 -tation。"
+   },
+   {
+    "word": "caused",
+    "pos": "v.",
+    "zh": "引起（被動）",
+    "why": "was ___ by living microorganisms「由活微生物引起」；cau- 補 -sed，cause 加 -d。"
+   },
+   {
+    "word": "living",
+    "pos": "adj.",
+    "zh": "活的",
+    "why": "___ microorganisms，與 purely chemical 對比，強調是「活的」生物；live 去 e 加 -ing，liv- 補 -ing。"
+   },
+   {
+    "word": "rather",
+    "pos": "adv.",
+    "zh": "（rather than 而非）",
+    "why": "___ than by purely chemical processes「而非純化學過程」；rat- 補 -her。"
+   },
+   {
+    "word": "by",
+    "pos": "prep.",
+    "zh": "由",
+    "why": "rather than ___ purely chemical processes，與前面 caused by 平行；b- 補 -y。"
+   },
+   {
+    "word": "chemical",
+    "pos": "adj.",
+    "zh": "化學的",
+    "why": "purely ___ processes「純化學過程」，與生物原因對比；chem- 補 -ical，ch 讀 /k/。"
+   },
+   {
+    "word": "Moreover",
+    "pos": "adv.",
+    "zh": "此外",
+    "why": "句首連接副詞，再補充一項發現；More- 補 -over，more + over 一個字。"
+   },
+   {
+    "word": "discovered",
+    "pos": "v.",
+    "zh": "發現",
+    "why": "主詞 he 後需動詞，接 that 子句；disco- 補 -vered，dis + cover + ed。"
+   },
+   {
+    "word": "undesirable",
+    "pos": "adj.",
+    "zh": "不受歡迎的；有害的",
+    "why": "___ microbes「不想要的微生物」，就是讓酒變質的元兇；un + desire + -able，undes- 補 -irable，-able 不是 -ible。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-26",
+  "blanks": [
+   {
+    "word": "excavation",
+    "pos": "n.",
+    "zh": "發掘",
+    "why": "Systematic ___ of the site「有系統的發掘」，考古核心字，動詞 excavate；excav- 補 -ation。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "of ___ site 指龐貝遺址，特定對象；t- 補 -he。"
+   },
+   {
+    "word": "began",
+    "pos": "v.",
+    "zh": "開始",
+    "why": "主詞 excavation 後需動詞，___ in the eighteenth century；be- 補 -gan。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "in ___ eighteenth century，序數詞前用 the；t- 補 -he（同一句第二個 the）。"
+   },
+   {
+    "word": "century",
+    "pos": "n.",
+    "zh": "世紀",
+    "why": "the eighteenth ___，序數 + century；cen- 補 -tury。"
+   },
+   {
+    "word": "continues",
+    "pos": "v.",
+    "zh": "持續",
+    "why": "與 began 並列，and ___ today「至今仍在進行」；主詞單數加 -s，cont- 補 -inues。"
+   },
+   {
+    "word": "Because",
+    "pos": "conj.",
+    "zh": "因為",
+    "why": "句首引導原因子句，城市被瞬間封存，所以保存完整；Bec- 補 -ause。"
+   },
+   {
+    "word": "town",
+    "pos": "n.",
+    "zh": "城鎮",
+    "why": "the ___ 回指第一句 the Roman town of Pompeii；to- 補 -wn。"
+   },
+   {
+    "word": "sealed",
+    "pos": "v.",
+    "zh": "封存（被動）",
+    "why": "was ___ so suddenly「如此突然地被封住」，火山灰覆蓋整座城；sea- 補 -led。"
+   },
+   {
+    "word": "suddenly",
+    "pos": "adv.",
+    "zh": "突然地",
+    "why": "so ___ 修飾 sealed，火山爆發來得「突然」；sudd- 補 -enly。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-27",
+  "blanks": [
+   {
+    "word": "acidic",
+    "pos": "adj.",
+    "zh": "酸性的",
+    "why": "The ___ water，泥炭沼的酸性水是保存屍體的條件之一；acid + -ic，aci- 補 -dic。"
+   },
+   {
+    "word": "low",
+    "pos": "adj.",
+    "zh": "低的",
+    "why": "___ temperatures「低溫」，抑制細菌活動；l- 補 -ow。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "三項條件並列，最後一項 lack of oxygen 前用 and；a- 補 -nd。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "lack ___ oxygen「缺氧」，lack of 固定搭配；o- 補 -f。"
+   },
+   {
+    "word": "prevent",
+    "pos": "v.",
+    "zh": "阻止",
+    "why": "主詞是三項條件（複數），___ bacteria from decomposing，prevent A from V-ing；pre- 補 -vent。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "（prevent ... from 阻止）",
+    "why": "prevent bacteria ___ decomposing 固定結構；fr- 補 -om。"
+   },
+   {
+    "word": "soft",
+    "pos": "adj.",
+    "zh": "柔軟的",
+    "why": "___ tissue「軟組織」，如皮膚和內臟，與骨頭相對；so- 補 -ft。"
+   },
+   {
+    "word": "Consequently",
+    "pos": "adv.",
+    "zh": "因此",
+    "why": "句首表結果，因為組織被保存，考古學家才能檢查皮膚頭髮；Conseq- 補 -uently，-ent 字尾。"
+   },
+   {
+    "word": "can",
+    "pos": "aux.",
+    "zh": "能夠",
+    "why": "archaeologists ___ sometimes examine，情態助動詞；c- 補 -an。"
+   },
+   {
+    "word": "examine",
+    "pos": "v.",
+    "zh": "檢查",
+    "why": "can 後接原形動詞，受詞 skin, hair, contents of stomachs；exa- 補 -mine，名詞 examination。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-28",
+  "blanks": [
+   {
+    "word": "known",
+    "pos": "v.",
+    "zh": "被稱為（過去分詞）",
+    "why": "Peasants ___ as serfs「被稱為農奴的農民」，known as 固定搭配；kn- 補 -own，k 不發音。"
+   },
+   {
+    "word": "serfs",
+    "pos": "n.",
+    "zh": "農奴",
+    "why": "known as ___，後文 Serfs were not slaves 再次出現；被綁在莊園土地上的農民；se- 補 -rfs，別寫成 surfs。"
+   },
+   {
+    "word": "strips",
+    "pos": "n.",
+    "zh": "條狀田地",
+    "why": "farmed ___ of land「耕作條狀土地」，中世紀田地分成長條；str- 補 -ips。"
+   },
+   {
+    "word": "land",
+    "pos": "n.",
+    "zh": "土地",
+    "why": "strips of ___；la- 補 -nd。"
+   },
+   {
+    "word": "owed",
+    "pos": "v.",
+    "zh": "欠；有義務提供",
+    "why": "與 farmed 並列的動詞，___ the lord labor services「欠領主勞役」；owe 加 -d，ow- 補 -ed。"
+   },
+   {
+    "word": "lord",
+    "pos": "n.",
+    "zh": "領主",
+    "why": "the ___，第一句 an estate controlled by a lord；lo- 補 -rd。"
+   },
+   {
+    "word": "services",
+    "pos": "n.",
+    "zh": "勞役；服務",
+    "why": "labor ___「勞動服役」，在領主田地上無償工作；serv- 補 -ices，-ice 不是 -ise。"
+   },
+   {
+    "word": "his",
+    "pos": "det.",
+    "zh": "他的",
+    "why": "on ___ fields 指領主的田；h- 補 -is。"
+   },
+   {
+    "word": "They",
+    "pos": "pron.",
+    "zh": "他們",
+    "why": "句首主詞，回指農奴；Th- 補 -ey。"
+   },
+   {
+    "word": "paid",
+    "pos": "v.",
+    "zh": "支付",
+    "why": "They also ___ fees，pay 的過去式不規則；pa- 補 -id，不是 payed。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-29",
+  "blanks": [
+   {
+    "word": "method",
+    "pos": "n.",
+    "zh": "方法",
+    "why": "His ___ represented...，指他的投影法；met- 補 -hod，-thod 字尾。"
+   },
+   {
+    "word": "lines",
+    "pos": "n.",
+    "zh": "線",
+    "why": "represented ___ of constant compass bearing「等方位線」；li- 補 -nes。"
+   },
+   {
+    "word": "constant",
+    "pos": "adj.",
+    "zh": "固定的",
+    "why": "___ compass bearing「固定的羅盤方位」，即恆向線；cons- 補 -tant，-ant 不是 -ent。"
+   },
+   {
+    "word": "bearing",
+    "pos": "n.",
+    "zh": "方位",
+    "why": "compass ___「羅盤方位角」，航海術語；bea- 補 -ring。"
+   },
+   {
+    "word": "straight",
+    "pos": "adj.",
+    "zh": "直的",
+    "why": "as ___ lines「畫成直線」，所以才能用尺畫航線；stra- 補 -ight，別寫成 strait（海峽）。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "逗號後 ___ greatly simplified navigation，指前面整件事；wh- 補 -ich。"
+   },
+   {
+    "word": "simplified",
+    "pos": "v.",
+    "zh": "簡化",
+    "why": "which 子句動詞，受詞 navigation；simplify 去 y 加 -ied，simpl- 補 -ified。"
+   },
+   {
+    "word": "Sailors",
+    "pos": "n.",
+    "zh": "水手",
+    "why": "句首主詞，可以用尺規畫航線的人是「水手」；sail + -or，Sai- 補 -lors，-or 不是 -er。"
+   },
+   {
+    "word": "therefore",
+    "pos": "adv.",
+    "zh": "因此",
+    "why": "Sailors could ___ plot a course，承接上句簡化航行；ther- 補 -efore。"
+   },
+   {
+    "word": "course",
+    "pos": "n.",
+    "zh": "航線",
+    "why": "plot a ___「標出航線」；cou- 補 -rse，別寫成 coarse。"
+   }
+  ]
+ },
+ {
+  "id": "ct6-30",
+  "blanks": [
+   {
+    "word": "working",
+    "pos": "v.",
+    "zh": "工作（現在分詞）",
+    "why": "Scholars ___ in the city「在城中工作的學者」，現在分詞修飾；wor- 補 -king。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "in ___ city 指第一句的 Baghdad；t- 補 -he。"
+   },
+   {
+    "word": "translated",
+    "pos": "v.",
+    "zh": "翻譯",
+    "why": "主詞 Scholars 後需動詞，___ texts into Arabic，呼應第一句 translation；trans- 補 -lated。"
+   },
+   {
+    "word": "scientific",
+    "pos": "adj.",
+    "zh": "科學的",
+    "why": "important ___ and philosophical texts，修飾 texts；science 變形容詞 scien- 補 -tific。"
+   },
+   {
+    "word": "philosophical",
+    "pos": "adj.",
+    "zh": "哲學的",
+    "why": "與 scientific 並列，philosophy 的形容詞；philos- 補 -ophical，ph 讀 /f/。"
+   },
+   {
+    "word": "into",
+    "pos": "prep.",
+    "zh": "譯成",
+    "why": "translated texts ___ Arabic「譯成阿拉伯文」，translate A into B；in- 補 -to。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "從",
+    "why": "___ Greek and Persian sources「從希臘與波斯原典」；fr- 補 -om。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "Greek ___ Persian 並列；a- 補 -nd。"
+   },
+   {
+    "word": "sources",
+    "pos": "n.",
+    "zh": "來源；原典",
+    "why": "Greek and Persian ___「希臘與波斯的原始文獻」；sou- 補 -rces，-rce 字尾。"
+   },
+   {
+    "word": "works",
+    "pos": "n.",
+    "zh": "著作",
+    "why": "These ___ covered astronomy...，指被翻譯的「著作」；wo- 補 -rks，work 作可數名詞為作品。"
+   }
+  ]
+ }
+]

@@ -102,6 +102,10 @@ def add_mc_set(set_id: str, section: str, task: str, difficulty: str, questions:
 # Reading ---------------------------------------------------------------------------------------
 
 notes = {row["id"]: row["blanks"] for row in load("ctest_notes")}
+# Subject areas: new paragraphs carry "field"; older ones are tagged in ctest_fields_*.json.
+ctest_fields: dict[str, str] = {}
+for fields_file in load_maps("ctest_fields"):
+    ctest_fields.update(fields_file)
 for text in load("ctest_texts"):
     built = ctest(text["text"])
     if not built:
@@ -119,7 +123,7 @@ for text in load("ctest_texts"):
             "Fill in the missing letters in the paragraph.", passage=passage,
             acceptedTextAnswers=[missing, word], sampleAnswer=word,
             explanation=f"The complete word is “{word}”." + (f" {note['why']}" if note else ""),
-            setID=set_id, setIndex=index, setting=text["title"],
+            setID=set_id, setIndex=index, setting=text["title"], field=text.get("field") or ctest_fields.get(text["id"]),
             **({"partOfSpeech": note["pos"], "wordGloss": note["zh"], "blankReason": note["why"]} if note else {}),
         ))
 

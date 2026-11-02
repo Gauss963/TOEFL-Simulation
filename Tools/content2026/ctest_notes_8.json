@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "ct8-01",
+  "blanks": [
+   {
+    "word": "cell",
+    "pos": "n.",
+    "zh": "細胞",
+    "why": "The ___ membrane 是複合名詞「細胞膜」，名詞 cell 修飾 membrane；後文 a plant cell 也提示主題；ce 後補 ll（雙寫 l），別寫成 cel。"
+   },
+   {
+    "word": "allows",
+    "pos": "v.",
+    "zh": "允許；讓…通過",
+    "why": "主詞 The cell membrane 是單數，現在式動詞加 -s；後接 water molecules to pass，正是 allow + 受詞 + to V 的句型；all 後補 ows。"
+   },
+   {
+    "word": "molecules",
+    "pos": "n.",
+    "zh": "分子",
+    "why": "water ___ 是「水分子」，複數名詞當 allows 的受詞；mole 後補 cules，注意名詞拼 -cule，形容詞才是 molecular。"
+   },
+   {
+    "word": "pass",
+    "pos": "v.",
+    "zh": "通過",
+    "why": "allow ... to 後面要原形動詞；pass through 是「穿過」，呼應首句滲透作用是水「穿越膜」；pa 後補 ss（雙 s）。"
+   },
+   {
+    "word": "freely",
+    "pos": "adv.",
+    "zh": "自由地；不受阻地",
+    "why": "修飾動詞 pass through 要用副詞；free + -ly，補 ely，與後面 but blocks 的「阻擋」形成對比，別寫成 freelly。"
+   },
+   {
+    "word": "blocks",
+    "pos": "v.",
+    "zh": "阻擋",
+    "why": "but 連接第二個動詞，主詞仍是單數的 The cell membrane，所以加 -s；意思與 pass through freely 相反，blo 後補 cks。"
+   },
+   {
+    "word": "dissolved",
+    "pos": "adj.",
+    "zh": "溶解的",
+    "why": "numerous ___ substances：修飾名詞的過去分詞形容詞，指溶在水中的物質（dissolve 溶解）；diss 後補 olved，注意雙 s。"
+   },
+   {
+    "word": "including",
+    "pos": "prep.",
+    "zh": "包括",
+    "why": "substances 後面列出 sugars, salts, and proteins 三個例子，用 including 引出；include 去 e 加 -ing，incl 後補 uding。"
+   },
+   {
+    "word": "salts",
+    "pos": "n.",
+    "zh": "鹽類",
+    "why": "列舉 sugars, ___, and proteins 都是複數名詞，所以 salt 加 -s；sa 後補 lts。"
+   },
+   {
+    "word": "proteins",
+    "pos": "n.",
+    "zh": "蛋白質",
+    "why": "列舉最後一項，and 後需要複數名詞；細胞膜擋住的大分子例子就是 proteins；prot 後補 eins，注意 e 在 i 之前。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-02",
+  "blanks": [
+   {
+    "word": "enzyme",
+    "pos": "n.",
+    "zh": "酵素",
+    "why": "Each 後接單數名詞，指首句的 Enzymes；此處 enzyme 修飾後面的 molecule；enz 後補 yme，中間是 y 不是 i。"
+   },
+   {
+    "word": "has",
+    "pos": "v.",
+    "zh": "具有",
+    "why": "主詞 Each enzyme molecule 是單數，需要第三人稱單數動詞 has，後接受詞 active site；h 後補 as。"
+   },
+   {
+    "word": "shaped",
+    "pos": "adj.",
+    "zh": "有…形狀的",
+    "why": "uniquely ___ 修飾 active site：副詞 uniquely 修飾形容詞 shaped「形狀獨特的」；shape 加 -d，sha 後補 ped。"
+   },
+   {
+    "word": "site",
+    "pos": "n.",
+    "zh": "部位",
+    "why": "active site 是酵素的「活性部位」，也就是受質結合之處；si 後補 te，別和同音的 sight 混淆。"
+   },
+   {
+    "word": "binds",
+    "pos": "v.",
+    "zh": "結合",
+    "why": "that 是關係代名詞，指單數的 active site，所以動詞加 -s；活性部位「結合」特定受質，bi 後補 nds。"
+   },
+   {
+    "word": "substrate",
+    "pos": "n.",
+    "zh": "受質",
+    "why": "a particular ___：酵素作用的對象分子叫 substrate（受質）；subs 後補 trate，sub-（在下）+ strate。"
+   },
+   {
+    "word": "temperature",
+    "pos": "n.",
+    "zh": "溫度",
+    "why": "Rising ___ 是主詞，標題 Enzymes and temperature 就是提示；tempe 後補 rature，中間的 -ra- 常被漏寫成 temperture。"
+   },
+   {
+    "word": "molecules",
+    "pos": "n.",
+    "zh": "分子",
+    "why": "makes + 受詞 + 原形動詞 move：溫度上升時會移動、碰撞的是 molecules；字尾 -cules 的 c 發 /k/，mole 後補 cules。"
+   },
+   {
+    "word": "faster",
+    "pos": "adv.",
+    "zh": "更快地",
+    "why": "move ___ 與後面的 more frequently 並列，用比較級；溫度越高分子動得越快，fast + er，fas 後補 ter。"
+   },
+   {
+    "word": "collide",
+    "pos": "v.",
+    "zh": "碰撞",
+    "why": "and 連接兩個原形動詞 move 與 ___（都受 makes 支配）；more frequently 提示「更常碰撞」；col 後補 lide，雙 l（名詞 collision）。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-03",
+  "blanks": [
+   {
+    "word": "break",
+    "pos": "v.",
+    "zh": "分解",
+    "why": "主詞 They（粒線體）後接動詞，與 down 組成片語 break down「分解」；br 後補 eak，不是同音的 brake（煞車）。"
+   },
+   {
+    "word": "sugar",
+    "pos": "n.",
+    "zh": "糖",
+    "why": "___ molecules 是被分解來產生能量的分子，首句說 convert food into usable energy；su 後補 gar，字尾 -ar。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "利用；與…一起",
+    "why": "sugar molecules ___ oxygen：介系詞表示「靠氧氣」分解糖，即有氧呼吸；wi 後補 th。"
+   },
+   {
+    "word": "capturing",
+    "pos": "v.",
+    "zh": "捕捉；儲存",
+    "why": "逗號後的分詞構句，表示同時發生的結果：把釋放的能量「抓住」；capture 去 e 加 -ing，capt 後補 uring。"
+   },
+   {
+    "word": "released",
+    "pos": "adj.",
+    "zh": "被釋放的",
+    "why": "the ___ energy：過去分詞當形容詞，指分解糖時「釋放出來的」能量；release + d，rele 後補 ased。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "以（某種形式）",
+    "why": "in a chemical form 是固定搭配「以…形式」；i 後補 n。"
+   },
+   {
+    "word": "form",
+    "pos": "n.",
+    "zh": "形式",
+    "why": "a chemical ___：冠詞與形容詞後需要名詞，與 in 構成 in a ... form；fo 後補 rm，別寫成 from。"
+   },
+   {
+    "word": "cells",
+    "pos": "n.",
+    "zh": "細胞",
+    "why": "that 子句的主詞，後接 can readily use；會使用這些能量的是 cells（複數）；ce 後補 lls。"
+   },
+   {
+    "word": "readily",
+    "pos": "adv.",
+    "zh": "容易地；隨時",
+    "why": "can 與 use 之間放副詞；ready 改 y 為 i 再加 -ly，rea 後補 dily。"
+   },
+   {
+    "word": "Tissues",
+    "pos": "n.",
+    "zh": "組織",
+    "why": "新句大寫開頭的主詞，後面 such as muscle 提示是身體的「組織」；Tis 後補 sues，注意雙 s 與字尾 -ue。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-04",
+  "blanks": [
+   {
+    "word": "forms",
+    "pos": "n.",
+    "zh": "形式；型",
+    "why": "Alternative ___ of a gene：形容詞後需要複數名詞，指同一基因的不同「版本」；fo 後補 rms。注意 Alternative 不要讀成 alternator。"
+   },
+   {
+    "word": "gene",
+    "pos": "n.",
+    "zh": "基因",
+    "why": "of a ___：冠詞 a 後要單數名詞，首句提到 a pair of genes；ge 後補 ne。"
+   },
+   {
+    "word": "alleles",
+    "pos": "n.",
+    "zh": "等位基因",
+    "why": "termed ___ 表示「稱為…」，同一基因的不同版本叫 alleles（等位基因）；all 後補 eles，注意雙 l 與兩個 e。"
+   },
+   {
+    "word": "be",
+    "pos": "v.",
+    "zh": "是",
+    "why": "情態助動詞 can 後接原形動詞，後面 either dominant or recessive 是形容詞補語；b 後補 e。"
+   },
+   {
+    "word": "dominant",
+    "pos": "adj.",
+    "zh": "顯性的",
+    "why": "either ___ or recessive：兩個相對的遺傳學形容詞，dominant 是「顯性的」；domi 後補 nant，字尾 -ant 不是 -ent。"
+   },
+   {
+    "word": "recessive",
+    "pos": "adj.",
+    "zh": "隱性的",
+    "why": "與 dominant 相對的是 recessive（隱性的），來自 recede 退後；rece 後補 ssive，注意雙 s。"
+   },
+   {
+    "word": "allele",
+    "pos": "n.",
+    "zh": "等位基因",
+    "why": "A dominant ___：A 後接單數名詞，延續前句的 alleles；all 後補 ele，不加 s。"
+   },
+   {
+    "word": "appearance",
+    "pos": "n.",
+    "zh": "外觀；表現型",
+    "why": "controls 的受詞，指生物外在呈現的性狀；appear + -ance，appea 後補 rance，字尾 -ance 不是 -ence。"
+   },
+   {
+    "word": "when",
+    "pos": "conj.",
+    "zh": "當…時",
+    "why": "even ___ 引導子句「即使在…的情況下」，後接 an organism carries only one copy；wh 後補 en。"
+   },
+   {
+    "word": "organism",
+    "pos": "n.",
+    "zh": "生物體",
+    "why": "an ___ 以母音開頭，指帶有這些基因的「生物個體」；organ + -ism，orga 後補 nism。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-05",
+  "blanks": [
+   {
+    "word": "call",
+    "pos": "v.",
+    "zh": "稱為",
+    "why": "主詞 Biologists 是複數，動詞用原形；call A B「把 A 稱作 B」，B 是句尾的 imprinting；ca 後補 ll。"
+   },
+   {
+    "word": "rapid",
+    "pos": "adj.",
+    "zh": "迅速的",
+    "why": "this ___ learning process：修飾名詞的形容詞；首句說孵化後馬上形成依附，表示學得「很快」；ra 後補 pid。"
+   },
+   {
+    "word": "process",
+    "pos": "n.",
+    "zh": "過程",
+    "why": "learning ___ 是「學習過程」，需要名詞；pro 後補 cess，注意雙 s。"
+   },
+   {
+    "word": "Ducklings",
+    "pos": "n.",
+    "zh": "小鴨",
+    "why": "句首大寫，for example 舉幼鳥的例子，後面 their mother 也提示是雛鳥；duck + 指小字尾 -ling，Duck 後補 lings。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "for ___ 是固定片語「例如」，插在主詞與 will 之間；exa 後補 mple。"
+   },
+   {
+    "word": "follow",
+    "pos": "v.",
+    "zh": "跟隨",
+    "why": "will 之後接原形動詞；印痕作用的表現就是雛鳥「跟著」母親走；fol 後補 low，雙 l。"
+   },
+   {
+    "word": "mother",
+    "pos": "n.",
+    "zh": "母親",
+    "why": "their ___ 是 follow 的受詞；雛鳥看見的第一個移動物體通常是母鳥；mot 後補 her。"
+   },
+   {
+    "word": "across",
+    "pos": "prep.",
+    "zh": "穿越",
+    "why": "___ fields, ponds, and streams：介系詞表示「穿過」這些地方；acr 後補 oss，注意只有一個 c、字尾雙 s。"
+   },
+   {
+    "word": "ponds",
+    "pos": "n.",
+    "zh": "池塘",
+    "why": "fields, ___, and streams 三項並列的複數名詞；鴨子會跟著母鴨走過水域；po 後補 nds。"
+   },
+   {
+    "word": "streams",
+    "pos": "n.",
+    "zh": "溪流",
+    "why": "並列最後一項的複數名詞，與 ponds 同屬水域；str 後補 eams。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-06",
+  "blanks": [
+   {
+    "word": "bending",
+    "pos": "n.",
+    "zh": "彎曲",
+    "why": "The ___ 當主詞，呼應首句 bend toward the light；動名詞 bending，ben 後補 ding。"
+   },
+   {
+    "word": "regulated",
+    "pos": "v.",
+    "zh": "調控",
+    "why": "is ___ by 是被動語態，需要過去分詞；regulate 加 -d，regu 後補 lated。"
+   },
+   {
+    "word": "hormone",
+    "pos": "n.",
+    "zh": "激素；荷爾蒙",
+    "why": "a ___, auxin：同位語說明 auxin 是一種植物「激素」；hor 後補 mone，注意 h 開頭與字尾 -one。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "引導形容詞子句修飾 auxin，後面直接接動詞 stimulates；th 後補 at。"
+   },
+   {
+    "word": "cells",
+    "pos": "n.",
+    "zh": "細胞",
+    "why": "stimulates + 受詞 + to V：被刺激而伸長的是植物「細胞」；ce 後補 lls。"
+   },
+   {
+    "word": "elongate",
+    "pos": "v.",
+    "zh": "伸長",
+    "why": "to 後接原形動詞；e- + long 意為「變長」，與後文 lengthen 同義；elon 後補 gate。"
+   },
+   {
+    "word": "sunlight",
+    "pos": "n.",
+    "zh": "陽光",
+    "why": "When ___ strikes 的主詞，不可數名詞；sun + light，sunl 後補 ight，注意 gh 不發音。"
+   },
+   {
+    "word": "stem",
+    "pos": "n.",
+    "zh": "莖",
+    "why": "strikes a ___ unevenly：從一側被照到的是植物的「莖」；st 後補 em。"
+   },
+   {
+    "word": "auxin",
+    "pos": "n.",
+    "zh": "生長素",
+    "why": "migrates 的主詞，是前一句剛出現的植物激素名稱，可直接照抄；au 後補 xin。"
+   },
+   {
+    "word": "toward",
+    "pos": "prep.",
+    "zh": "朝向",
+    "why": "migrates ___ the shaded side：表方向的介系詞，首句 bend toward 已出現；tow 後補 ard，不加 s 是美式拼法。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-07",
+  "blanks": [
+   {
+    "word": "prey",
+    "pos": "n.",
+    "zh": "獵物",
+    "why": "___ animals 修飾 animals，首句 predators and their prey 已提示；pr 後補 ey，別和同音的 pray（祈禱）混淆。"
+   },
+   {
+    "word": "become",
+    "pos": "v.",
+    "zh": "變得",
+    "why": "When 子句主詞 prey animals 是複數，用原形 become，後接形容詞 abundant；bec 後補 ome。"
+   },
+   {
+    "word": "predators",
+    "pos": "n.",
+    "zh": "掠食者",
+    "why": "主要子句的主詞：獵物多時「掠食者」容易找到食物；pred 後補 ators，字尾 -or 不是 -er。"
+   },
+   {
+    "word": "food",
+    "pos": "n.",
+    "zh": "食物",
+    "why": "find ___ easily：find 的受詞；fo 後補 od。"
+   },
+   {
+    "word": "survive",
+    "pos": "v.",
+    "zh": "存活",
+    "why": "與 find、raise 並列的動詞，後接 longer「活得更久」；sur + vive（活），sur 後補 vive。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "A, B, and C 三項並列：find..., survive..., ___ raise...，最後一項前用 and；a 後補 nd。"
+   },
+   {
+    "word": "numerous",
+    "pos": "adj.",
+    "zh": "許多的",
+    "why": "___ offspring：修飾名詞的形容詞「大量的」；nume 後補 rous，字尾 -ous。"
+   },
+   {
+    "word": "Expanding",
+    "pos": "adj.",
+    "zh": "擴張中的",
+    "why": "新句句首的現在分詞形容詞，修飾 predator populations，呼應掠食者數量上升；Expa 後補 nding。"
+   },
+   {
+    "word": "populations",
+    "pos": "n.",
+    "zh": "族群",
+    "why": "Expanding predator ___ 是複數主詞（動詞 consume 沒有 -s）；popul 後補 ations，字尾 -tion。"
+   },
+   {
+    "word": "consume",
+    "pos": "v.",
+    "zh": "吃掉；消耗",
+    "why": "主詞複數用原形；後接 so many individuals that prey numbers decline，表示「吃掉」大量獵物；con 後補 sume。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-08",
+  "blanks": [
+   {
+    "word": "call",
+    "pos": "v.",
+    "zh": "稱為",
+    "why": "Biologists ___ this process homeostasis：call + 受詞 + 名稱「把…稱為恆定性」；主詞複數用原形，ca 後補 ll。"
+   },
+   {
+    "word": "process",
+    "pos": "n.",
+    "zh": "過程",
+    "why": "this ___ 指前句「讓體溫維持恆定」的過程；pro 後補 cess，字尾雙 s。"
+   },
+   {
+    "word": "meaning",
+    "pos": "v.",
+    "zh": "意指",
+    "why": "逗號後的分詞 meaning 用來解釋 homeostasis 的定義「也就是…」；mean + ing，mea 後補 ning。"
+   },
+   {
+    "word": "maintenance",
+    "pos": "n.",
+    "zh": "維持",
+    "why": "the ___ of 需要名詞；動詞 maintain 的名詞拼法會變（ai 變成 e），maint 後補 enance，字尾 -ance。"
+   },
+   {
+    "word": "stable",
+    "pos": "adj.",
+    "zh": "穩定的",
+    "why": "of ___ internal conditions：修飾名詞的形容詞，呼應首句 constant level；sta 後補 ble，字尾 -ble。"
+   },
+   {
+    "word": "conditions",
+    "pos": "n.",
+    "zh": "狀態",
+    "why": "stable internal ___ 需要複數名詞，指體內的各種「狀態」；condi 後補 tions，字尾 -tion。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "When ___ body：特指人體，用定冠詞；t 後補 he。"
+   },
+   {
+    "word": "becomes",
+    "pos": "v.",
+    "zh": "變得",
+    "why": "主詞 the body 是單數，動詞加 -s，後接 too warm；bec 後補 omes。"
+   },
+   {
+    "word": "warm",
+    "pos": "adj.",
+    "zh": "溫暖的；過熱的",
+    "why": "too ___ 需要形容詞，與後文 In cold weather 相對；wa 後補 rm。"
+   },
+   {
+    "word": "vessels",
+    "pos": "n.",
+    "zh": "血管",
+    "why": "blood ___ 是「血管」，複數（動詞 widen 沒加 s）；ves 後補 sels，注意雙 s。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-09",
+  "blanks": [
+   {
+    "word": "effective",
+    "pos": "adj.",
+    "zh": "有效的",
+    "why": "An ___ screening test：An 表示下一個字是母音開頭；effect + -ive，effe 後補 ctive，別和後面 a 開頭的 affected 搞混。"
+   },
+   {
+    "word": "test",
+    "pos": "n.",
+    "zh": "檢驗",
+    "why": "screening ___ 是「篩檢測試」，首句已出現 Screening tests；te 後補 st。"
+   },
+   {
+    "word": "be",
+    "pos": "v.",
+    "zh": "是",
+    "why": "must 之後接原形 be，後面 sensitive 是形容詞補語「靈敏的」；b 後補 e。"
+   },
+   {
+    "word": "correctly",
+    "pos": "adv.",
+    "zh": "正確地",
+    "why": "修飾分詞 detecting 要用副詞；correct + -ly，corr 後補 ectly，注意雙 r。"
+   },
+   {
+    "word": "nearly",
+    "pos": "adv.",
+    "zh": "幾乎",
+    "why": "___ every：副詞修飾 every「幾乎每一個」；near + -ly，nea 後補 rly。"
+   },
+   {
+    "word": "affected",
+    "pos": "adj.",
+    "zh": "患病的；受影響的",
+    "why": "every ___ patient：修飾 patient 的形容詞，指「罹病的」人；affect 加 -ed，affe 後補 cted，a 開頭，不同於 effective。"
+   },
+   {
+    "word": "Additionally",
+    "pos": "adv.",
+    "zh": "此外",
+    "why": "句首轉承副詞，帶出第二個條件 specific；addition + -al + -ly，Additi 後補 onally，注意雙 d 與雙 l。"
+   },
+   {
+    "word": "should",
+    "pos": "aux.",
+    "zh": "應該",
+    "why": "主詞 it 與原形 be 之間需要情態助動詞，表示「應該」；sho 後補 uld，l 不發音。"
+   },
+   {
+    "word": "specific",
+    "pos": "adj.",
+    "zh": "特異的",
+    "why": "be ___：和上句 sensitive 對應的篩檢指標「特異性」，後文 healthy people are rarely told they might be sick 就是定義；spec 後補 ific。"
+   },
+   {
+    "word": "healthy",
+    "pos": "adj.",
+    "zh": "健康的",
+    "why": "___ people ... might be sick：與 sick 相對的形容詞；health + y，hea 後補 lthy。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-10",
+  "blanks": [
+   {
+    "word": "frogs",
+    "pos": "n.",
+    "zh": "青蛙",
+    "why": "Poisonous ___ 是列舉的第一項，複數名詞；有毒的「蛙」如箭毒蛙；fr 後補 ogs。"
+   },
+   {
+    "word": "insects",
+    "pos": "n.",
+    "zh": "昆蟲",
+    "why": "stinging ___「會螫人的昆蟲」，如蜜蜂、黃蜂；ins 後補 ects。"
+   },
+   {
+    "word": "distasteful",
+    "pos": "adj.",
+    "zh": "味道令人厭惡的",
+    "why": "and ___ butterflies：修飾蝴蝶的形容詞，dis-（否定）+ taste + -ful，表示「難吃的」；dista 後補 steful，字尾 -ful 只有一個 l。"
+   },
+   {
+    "word": "frequently",
+    "pos": "adv.",
+    "zh": "經常",
+    "why": "主詞與動詞 display 之間放頻率副詞；frequent + -ly，frequ 後補 ently，字尾 -ent。"
+   },
+   {
+    "word": "vivid",
+    "pos": "adj.",
+    "zh": "鮮豔的",
+    "why": "___ red, yellow, or black patterns：形容色彩「鮮明的」，呼應首句 advertise their danger；vi 後補 vid。"
+   },
+   {
+    "word": "yellow",
+    "pos": "adj.",
+    "zh": "黃色的",
+    "why": "顏色列舉 red, ___, or black；yel 後補 low，雙 l。"
+   },
+   {
+    "word": "black",
+    "pos": "adj.",
+    "zh": "黑色的",
+    "why": "or 之後的最後一個顏色，警戒色常見紅、黃、黑；bl 後補 ack。"
+   },
+   {
+    "word": "Any",
+    "pos": "det.",
+    "zh": "任何",
+    "why": "句首限定詞修飾單數 predator：「任何」攻擊牠們的掠食者都會學到教訓；A 後補 ny。"
+   },
+   {
+    "word": "attacking",
+    "pos": "v.",
+    "zh": "攻擊",
+    "why": "分詞片語修飾 predator，後接受詞 these animals；attack + ing，atta 後補 cking，注意雙 t。"
+   },
+   {
+    "word": "animals",
+    "pos": "n.",
+    "zh": "動物",
+    "why": "these ___ 指前面列出的蛙、昆蟲和蝴蝶；ani 後補 mals。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-11",
+  "blanks": [
+   {
+    "word": "surfaces",
+    "pos": "n.",
+    "zh": "表面",
+    "why": "Even ___ that look smooth：主詞是複數名詞（動詞 have 沒有 -s），呼應首句 two surfaces；surf 後補 aces，字尾 -face 加 s。"
+   },
+   {
+    "word": "look",
+    "pos": "v.",
+    "zh": "看起來",
+    "why": "that 子句中的連綴動詞，後接形容詞 smooth「看起來光滑」；主詞複數用原形，lo 後補 ok。"
+   },
+   {
+    "word": "have",
+    "pos": "v.",
+    "zh": "具有",
+    "why": "主要子句動詞，主詞 surfaces 是複數，所以用 have 而不是 has；ha 後補 ve。"
+   },
+   {
+    "word": "bumps",
+    "pos": "n.",
+    "zh": "凸起",
+    "why": "tiny ___：形容詞後的複數名詞，指表面上微小的「凸起」，這是摩擦力的來源；bu 後補 mps。"
+   },
+   {
+    "word": "catch",
+    "pos": "v.",
+    "zh": "卡住",
+    "why": "that 指 bumps（複數），用原形動詞；___ and grip one another 表示凸起互相「卡住」；ca 後補 tch，注意 t 不發音。"
+   },
+   {
+    "word": "grip",
+    "pos": "v.",
+    "zh": "抓住",
+    "why": "與 catch 並列的原形動詞，後接 one another「互相抓牢」；gr 後補 ip。"
+   },
+   {
+    "word": "another",
+    "pos": "pron.",
+    "zh": "另一個（one another 彼此）",
+    "why": "one ___ 是固定用語「彼此」，作 grip 的受詞；ano 後補 ther。"
+   },
+   {
+    "word": "strength",
+    "pos": "n.",
+    "zh": "強度",
+    "why": "The ___ of friction：主詞名詞，指摩擦力的「大小」；strong 的名詞形，stre 後補 ngth，注意 -ngth 子音群。"
+   },
+   {
+    "word": "friction",
+    "pos": "n.",
+    "zh": "摩擦力",
+    "why": "of ___：本段主題字，首句第一個字就是 Friction；fric 後補 tion，字尾 -tion。"
+   },
+   {
+    "word": "mainly",
+    "pos": "adv.",
+    "zh": "主要地",
+    "why": "depends ___ on：副詞插在 depends on 之間，表示「主要取決於」；main + -ly，mai 後補 nly。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-12",
+  "blanks": [
+   {
+    "word": "series",
+    "pos": "n.",
+    "zh": "串聯",
+    "why": "a ___ circuit 是「串聯電路」，與後文 parallel circuit 對比；ser 後補 ies，series 單複數同形。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "逗號後主詞前需要冠詞：___ current 指這個電路中的電流；t 後補 he。"
+   },
+   {
+    "word": "follows",
+    "pos": "v.",
+    "zh": "沿著…走",
+    "why": "主詞 the current 是單數，動詞加 -s；電流「沿著」單一路徑流動；fol 後補 lows，雙 l。"
+   },
+   {
+    "word": "path",
+    "pos": "n.",
+    "zh": "路徑",
+    "why": "a single ___：串聯電路只有一條「路徑」，後文 the entire path is broken 再次出現；pa 後補 th。"
+   },
+   {
+    "word": "through",
+    "pos": "prep.",
+    "zh": "穿過",
+    "why": "passing ___ each component：介系詞表示電流「依序穿過」每個元件；thr 後補 ough，不要寫成 though 或 thorough。"
+   },
+   {
+    "word": "component",
+    "pos": "n.",
+    "zh": "元件",
+    "why": "each 後接單數名詞，首句的 Electrical components 已出現；comp 後補 onent，字尾 -ent。"
+   },
+   {
+    "word": "turn",
+    "pos": "n.",
+    "zh": "順序（in turn 依序）",
+    "why": "in ___ 是固定片語「依序、輪流」；tu 後補 rn。"
+   },
+   {
+    "word": "one",
+    "pos": "det.",
+    "zh": "一個",
+    "why": "If ___ bulb：表示「只要其中一個」燈泡壞掉；o 後補 ne。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在…之中",
+    "why": "bulb ___ a series circuit：介系詞表示燈泡位於電路「中」；i 後補 n。"
+   },
+   {
+    "word": "circuit",
+    "pos": "n.",
+    "zh": "電路",
+    "why": "a series ___ 需要名詞，與首句 circuit 相同；cir 後補 cuit，注意 u 在 i 前且 u 不發音。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-13",
+  "blanks": [
+   {
+    "word": "resisting",
+    "pos": "v.",
+    "zh": "抵抗；阻擋",
+    "why": "Substances ___ this transfer：分詞片語修飾主詞，表示「阻擋熱傳遞的」物質；resist + ing，resi 後補 sting。"
+   },
+   {
+    "word": "transfer",
+    "pos": "n.",
+    "zh": "傳遞",
+    "why": "this ___ 指首句「熱從暖處流到冷處」的熱傳遞；tran 後補 sfer。"
+   },
+   {
+    "word": "called",
+    "pos": "v.",
+    "zh": "被稱為",
+    "why": "are ___ insulators 是被動語態，be + 過去分詞；call 加 -ed，cal 後補 led。"
+   },
+   {
+    "word": "Effective",
+    "pos": "adj.",
+    "zh": "有效的",
+    "why": "句首形容詞修飾 insulators「效果好的」絕緣體；effect + -ive，Effe 後補 ctive。"
+   },
+   {
+    "word": "including",
+    "pos": "prep.",
+    "zh": "包括",
+    "why": "insulators 後面列舉 wool, foam, and feathers 三個例子；include 去 e 加 -ing，incl 後補 uding。"
+   },
+   {
+    "word": "foam",
+    "pos": "n.",
+    "zh": "泡沫材料",
+    "why": "列舉 wool, ___, and feathers，泡沫塑膠內含大量空氣；fo 後補 am。"
+   },
+   {
+    "word": "feathers",
+    "pos": "n.",
+    "zh": "羽毛",
+    "why": "and 後的最後一項複數名詞，羽毛（如羽絨衣）能保暖；feat 後補 hers。"
+   },
+   {
+    "word": "trap",
+    "pos": "v.",
+    "zh": "困住",
+    "why": "主詞 insulators 複數，動詞用原形；它們「困住」空氣才能隔熱；tr 後補 ap。"
+   },
+   {
+    "word": "pockets",
+    "pos": "n.",
+    "zh": "小空間",
+    "why": "tiny ___ of air「一個個小氣袋」，pocket 引申為小空間；poc 後補 kets，注意 ck。"
+   },
+   {
+    "word": "air",
+    "pos": "n.",
+    "zh": "空氣",
+    "why": "pockets of ___：下一句 still air conducts heat poorly 直接提示；a 後補 ir。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-14",
+  "blanks": [
+   {
+    "word": "acid",
+    "pos": "n.",
+    "zh": "酸",
+    "why": "An ___ is ...：An 表示母音開頭，首句 acidity 的字根；後文 a base 與之對照；ac 後補 id。"
+   },
+   {
+    "word": "substance",
+    "pos": "n.",
+    "zh": "物質",
+    "why": "a ___ that releases...：定義句「酸是一種…的物質」；subs 後補 tance，字尾 -ance 不是 -ence。"
+   },
+   {
+    "word": "releases",
+    "pos": "v.",
+    "zh": "釋放",
+    "why": "that 指單數的 substance，動詞加 -s，受詞是 hydrogen ions；rele 後補 ases。"
+   },
+   {
+    "word": "ions",
+    "pos": "n.",
+    "zh": "離子",
+    "why": "hydrogen ___ 是「氫離子」，帶電的原子；io 後補 ns，複數。"
+   },
+   {
+    "word": "dissolved",
+    "pos": "v.",
+    "zh": "溶解",
+    "why": "when ___ in water 是省略主詞與 be 的被動形（when it is dissolved）；diss 後補 olved，雙 s。"
+   },
+   {
+    "word": "water",
+    "pos": "n.",
+    "zh": "水",
+    "why": "dissolved in ___：酸鹼反應發生在「水」中；wa 後補 ter。"
+   },
+   {
+    "word": "base",
+    "pos": "n.",
+    "zh": "鹼",
+    "why": "while a ___：與 acid 對比的另一類物質，後文 common bases 證實；ba 後補 se。"
+   },
+   {
+    "word": "them",
+    "pos": "pron.",
+    "zh": "它們（指氫離子）",
+    "why": "accepts 的受詞，指前面的複數 hydrogen ions，鹼「接受」氫離子；th 後補 em。"
+   },
+   {
+    "word": "juice",
+    "pos": "n.",
+    "zh": "汁",
+    "why": "Lemon ___「檸檬汁」是常見的酸；ju 後補 ice，注意 -uice 的拼法。"
+   },
+   {
+    "word": "vinegar",
+    "pos": "n.",
+    "zh": "醋",
+    "why": "Lemon juice and ___ are familiar acids：另一種熟悉的酸是「醋」；vin 後補 egar，字尾 -ar。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-15",
+  "blanks": [
+   {
+    "word": "metals",
+    "pos": "n.",
+    "zh": "金屬",
+    "why": "Pure ___：複數名詞（動詞 are），與首句 a metal 對應；met 後補 als，不要和 medals（獎牌）混淆。"
+   },
+   {
+    "word": "softer",
+    "pos": "adj.",
+    "zh": "比較軟的",
+    "why": "are ___：純金屬與合金比較，所以用比較級，呼應標題 Why alloys are stronger；soft + er，sof 後補 ter。"
+   },
+   {
+    "word": "identical",
+    "pos": "adj.",
+    "zh": "完全相同的",
+    "why": "___ atoms：純金屬裡的原子都「一樣大」，與後文 a different size 對比；iden 後補 tical。"
+   },
+   {
+    "word": "arrange",
+    "pos": "v.",
+    "zh": "排列",
+    "why": "主詞 atoms 複數用原形，___ themselves in orderly layers「自行排成整齊的層」；arr 後補 ange，雙 r。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "成為（某種排列）",
+    "why": "arrange ... ___ orderly layers：in 表示排列的形式；i 後補 n。"
+   },
+   {
+    "word": "layers",
+    "pos": "n.",
+    "zh": "層",
+    "why": "orderly ___：整齊的原子「層」，下一句 disrupt these layers 再次出現；lay 後補 ers。"
+   },
+   {
+    "word": "slide",
+    "pos": "v.",
+    "zh": "滑動",
+    "why": "that 指複數 layers，動詞用原形，後接 smoothly；層與層容易「滑動」所以較軟；sl 後補 ide。"
+   },
+   {
+    "word": "Atoms",
+    "pos": "n.",
+    "zh": "原子",
+    "why": "新句主詞，與前文 identical atoms 對比：大小不同的「原子」；At 後補 oms。"
+   },
+   {
+    "word": "different",
+    "pos": "adj.",
+    "zh": "不同的",
+    "why": "of a ___ size 與 identical 形成對比；diff 後補 erent，雙 f，字尾 -ent。"
+   },
+   {
+    "word": "however",
+    "pos": "adv.",
+    "zh": "然而",
+    "why": "插在主詞與動詞之間的轉折副詞，對比純金屬容易滑動；how 後補 ever。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-16",
+  "blanks": [
+   {
+    "word": "cell",
+    "pos": "n.",
+    "zh": "電池單元",
+    "why": "Each ___：each 後接單數名詞，首句 photovoltaic cells；ce 後補 ll。"
+   },
+   {
+    "word": "thin",
+    "pos": "adj.",
+    "zh": "薄的",
+    "why": "contains ___ silicon layers：修飾 layers 的形容詞「薄的」；th 後補 in。"
+   },
+   {
+    "word": "layers",
+    "pos": "n.",
+    "zh": "層",
+    "why": "silicon ___ 是複數名詞，後文 upper layer、lower layer 證實有兩層；lay 後補 ers。"
+   },
+   {
+    "word": "treated",
+    "pos": "v.",
+    "zh": "處理過的",
+    "why": "chemically ___：過去分詞表被動「經過化學處理」，被副詞 chemically 修飾；treat + ed，tre 後補 ated。"
+   },
+   {
+    "word": "upper",
+    "pos": "adj.",
+    "zh": "上方的",
+    "why": "the ___ layer 與後面 the lower layer 相對；up 後補 per，雙 p。"
+   },
+   {
+    "word": "holds",
+    "pos": "v.",
+    "zh": "持有",
+    "why": "主詞 the upper layer 單數，動詞加 -s；「帶有」多餘的電子；ho 後補 lds。"
+   },
+   {
+    "word": "electrons",
+    "pos": "n.",
+    "zh": "電子",
+    "why": "surplus ___「多餘的電子」，下一句 knock electrons loose 也出現；elec 後補 trons。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "whereas ___ lower layer：與前面 the upper layer 平行，用定冠詞；t 後補 he。"
+   },
+   {
+    "word": "layer",
+    "pos": "n.",
+    "zh": "層",
+    "why": "the lower ___ 單數名詞（動詞 lacks 有 -s）；la 後補 yer。"
+   },
+   {
+    "word": "them",
+    "pos": "pron.",
+    "zh": "它們（指電子）",
+    "why": "lacks 的受詞，指前面複數的 electrons：下層「缺少電子」；th 後補 em。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-17",
+  "blanks": [
+   {
+    "word": "pushes",
+    "pos": "n.",
+    "zh": "推力；推動",
+    "why": "Periodic ___ 是主詞，複數名詞（動詞 cause 無 -s），指「週期性的推動」；push + es，pus 後補 hes。"
+   },
+   {
+    "word": "such",
+    "pos": "det.",
+    "zh": "這樣的",
+    "why": "matching ___ a frequency：such a + 名詞「這樣的一個頻率」，指首句的 natural frequencies；su 後補 ch。"
+   },
+   {
+    "word": "cause",
+    "pos": "v.",
+    "zh": "導致",
+    "why": "主詞 pushes 複數用原形；cause + 受詞 + to V 的句型；ca 後補 use。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞 to）",
+    "why": "cause vibrations ___ grow：cause 後接 to + 原形動詞；t 後補 o。"
+   },
+   {
+    "word": "steadily",
+    "pos": "adv.",
+    "zh": "穩定地；持續地",
+    "why": "grow ___ larger：副詞修飾比較級，「越來越大」；steady 改 y 為 i 加 -ly，stea 後補 dily。"
+   },
+   {
+    "word": "phenomenon",
+    "pos": "n.",
+    "zh": "現象",
+    "why": "a ___ called resonance：同位語「一種稱為共振的現象」；pheno 後補 menon，單數字尾 -on（複數 phenomena）。"
+   },
+   {
+    "word": "resonance",
+    "pos": "n.",
+    "zh": "共振",
+    "why": "called ___ 是本段主題「共振」：外力頻率與固有頻率一致時振幅變大；reso 後補 nance，字尾 -ance。"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "zh": "例子",
+    "why": "A familiar ___ is...：引出盪鞦韆的熟悉「例子」；exa 後補 mple。"
+   },
+   {
+    "word": "child",
+    "pos": "n.",
+    "zh": "孩子",
+    "why": "a ___ on a swing，後面 who rises higher 指人；ch 後補 ild。"
+   },
+   {
+    "word": "swing",
+    "pos": "n.",
+    "zh": "鞦韆",
+    "why": "on a ___：「被推得越來越高」的是盪鞦韆；sw 後補 ing。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-18",
+  "blanks": [
+   {
+    "word": "reduce",
+    "pos": "v.",
+    "zh": "減少",
+    "why": "To ___ this delay：不定詞表目的，後接受詞 delay；red 後補 uce。"
+   },
+   {
+    "word": "delay",
+    "pos": "n.",
+    "zh": "延遲",
+    "why": "this ___ 指首句「記憶體跟不上處理器」造成的等待；de 後補 lay。"
+   },
+   {
+    "word": "include",
+    "pos": "v.",
+    "zh": "包含",
+    "why": "主詞 processors 複數用原形，受詞是 a cache；inc 後補 lude。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "a ___ but extremely fast memory：but 連接兩個對比的特質「小但很快」；sm 後補 all，雙 l。"
+   },
+   {
+    "word": "extremely",
+    "pos": "adv.",
+    "zh": "極其",
+    "why": "___ fast：副詞修飾形容詞；extreme + -ly，保留 e，extr 後補 emely。"
+   },
+   {
+    "word": "memory",
+    "pos": "n.",
+    "zh": "記憶體",
+    "why": "fast ___：首句 main memory 已出現，cache 是另一種「記憶體」；mem 後補 ory。"
+   },
+   {
+    "word": "close",
+    "pos": "adv.",
+    "zh": "靠近地",
+    "why": "placed ___ to：close to「靠近」；cl 後補 ose。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "close to ___ processing unit：特指處理器中的那個處理單元；t 後補 he。"
+   },
+   {
+    "word": "unit",
+    "pos": "n.",
+    "zh": "單元",
+    "why": "processing ___「處理單元」（CPU 的 U）；un 後補 it。"
+   },
+   {
+    "word": "cache",
+    "pos": "n.",
+    "zh": "快取",
+    "why": "The ___ stores copies...：前一句已出現 a cache，這裡作主詞；ca 後補 che，發音同 cash，字尾 -che 的 e 不發音。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-19",
+  "blanks": [
+   {
+    "word": "units",
+    "pos": "n.",
+    "zh": "單元",
+    "why": "These ___ 指首句 small repeating units，複數（動詞 are）；un 後補 its。"
+   },
+   {
+    "word": "monomers",
+    "pos": "n.",
+    "zh": "單體",
+    "why": "called ___：與 polymer 相對，mono-（單一）+ -mer（部分），即組成聚合物的小單元；mono 後補 mers。"
+   },
+   {
+    "word": "joined",
+    "pos": "v.",
+    "zh": "連接",
+    "why": "are ___ 是被動語態「被連接起來」；join + ed，joi 後補 ned。"
+   },
+   {
+    "word": "chemical",
+    "pos": "adj.",
+    "zh": "化學的",
+    "why": "___ reactions「化學反應」，修飾名詞的形容詞；chem 後補 ical。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "引導子句修飾 reactions，後接動詞 form；th 後補 at。"
+   },
+   {
+    "word": "strong",
+    "pos": "adj.",
+    "zh": "強的",
+    "why": "form ___ covalent bonds：修飾 bonds 的形容詞「牢固的」；str 後補 ong。"
+   },
+   {
+    "word": "bonds",
+    "pos": "n.",
+    "zh": "鍵",
+    "why": "covalent ___「共價鍵」，原子間共用電子形成的化學鍵；bo 後補 nds。"
+   },
+   {
+    "word": "properties",
+    "pos": "n.",
+    "zh": "性質",
+    "why": "The ___ of a polymer depend：主詞複數（動詞 depend 無 -s），指材料「性質」；property 改 y 為 ies，prope 後補 rties。"
+   },
+   {
+    "word": "polymer",
+    "pos": "n.",
+    "zh": "聚合物",
+    "why": "of a ___：本段主題「聚合物」，a 後接單數；pol 後補 ymer，注意 y。"
+   },
+   {
+    "word": "largely",
+    "pos": "adv.",
+    "zh": "主要地",
+    "why": "depend ___ on：副詞「很大程度上」；large + -ly，lar 後補 gely。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-20",
+  "blanks": [
+   {
+    "word": "truck",
+    "pos": "n.",
+    "zh": "卡車",
+    "why": "A heavy ___ 與後面 a light car 對比，重量大的「卡車」；tr 後補 uck。"
+   },
+   {
+    "word": "slowly",
+    "pos": "adv.",
+    "zh": "緩慢地",
+    "why": "moving ___ 與後面 traveling quickly 相對，修飾動詞要用副詞；slow + -ly，slo 後補 wly。"
+   },
+   {
+    "word": "therefore",
+    "pos": "adv.",
+    "zh": "因此",
+    "why": "can ___ have：副詞放在助動詞與動詞之間，表示由定義推出的結論；ther 後補 efore。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "___ same 是固定搭配「同樣的」，same 前一定用 the；t 後補 he。"
+   },
+   {
+    "word": "momentum",
+    "pos": "n.",
+    "zh": "動量",
+    "why": "the same ___ as：首句定義的「動量」（質量乘以速度）；mome 後補 ntum，字尾 -um。"
+   },
+   {
+    "word": "light",
+    "pos": "adj.",
+    "zh": "輕的",
+    "why": "a ___ car 與 heavy truck 相對，指重量「輕」；li 後補 ght，gh 不發音。"
+   },
+   {
+    "word": "traveling",
+    "pos": "v.",
+    "zh": "行進",
+    "why": "car ___ quickly：分詞修飾 car，與 moving slowly 平行；美式拼法單 l，trav 後補 eling。"
+   },
+   {
+    "word": "During",
+    "pos": "prep.",
+    "zh": "在…期間",
+    "why": "句首介系詞 ___ a collision「碰撞過程中」；Dur 後補 ing。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "___ total momentum：特指這次碰撞中物體的總動量；t 後補 he，出現在 total 之前。"
+   },
+   {
+    "word": "momentum",
+    "pos": "n.",
+    "zh": "動量",
+    "why": "total ___ of the objects 是主詞，下一句 conservation of momentum 指「動量守恆」；mome 後補 ntum。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-21",
+  "blanks": [
+   {
+    "word": "famous",
+    "pos": "adj.",
+    "zh": "著名的",
+    "why": "a ___ series of experiments：冠詞與名詞之間的形容詞，指著名的狗與鈴聲實驗；fame 去 e 加 -ous，fam 後補 ous。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "a series ___ experiments 是固定搭配「一系列的」；o 後補 f。"
+   },
+   {
+    "word": "dogs",
+    "pos": "n.",
+    "zh": "狗",
+    "why": "主詞，複數（下文 the dogs began），是實驗對象；do 後補 gs。"
+   },
+   {
+    "word": "bell",
+    "pos": "n.",
+    "zh": "鈴",
+    "why": "heard a ___：中性信號是「鈴聲」，後文 heard the bell alone 證實；be 後補 ll，雙 l。"
+   },
+   {
+    "word": "before",
+    "pos": "prep.",
+    "zh": "在…之前",
+    "why": "shortly ___ receiving food：鈴聲出現在給食物「之前」，這是制約的關鍵順序；bef 後補 ore。"
+   },
+   {
+    "word": "food",
+    "pos": "n.",
+    "zh": "食物",
+    "why": "receiving ___：狗得到的是「食物」，後文 without any food 呼應；fo 後補 od。"
+   },
+   {
+    "word": "many",
+    "pos": "det.",
+    "zh": "許多",
+    "why": "After ___ repetitions：修飾可數複數名詞 repetitions，「多次重複之後」；ma 後補 ny。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "___ dogs 指前面提過的那些狗，用定冠詞；t 後補 he。"
+   },
+   {
+    "word": "began",
+    "pos": "v.",
+    "zh": "開始",
+    "why": "主詞 the dogs 後接過去式動詞，後面 to salivate；begin 的不規則過去式，be 後補 gan，不是 begun。"
+   },
+   {
+    "word": "salivate",
+    "pos": "v.",
+    "zh": "分泌唾液",
+    "why": "began to 後接原形動詞；saliva（唾液）+ -ate 變動詞「流口水」，這是對食物的自動反應；sali 後補 vate。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-22",
+  "blanks": [
+   {
+    "word": "laws",
+    "pos": "n.",
+    "zh": "法律",
+    "why": "Unlike ___：與 norms 對比的是成文的「法律」，後文 not written down 提示；la 後補 ws。"
+   },
+   {
+    "word": "norms",
+    "pos": "n.",
+    "zh": "規範",
+    "why": "most ___ 是主詞，本段主題 Social norms；no 後補 rms。"
+   },
+   {
+    "word": "not",
+    "pos": "adv.",
+    "zh": "不",
+    "why": "are ___ written down：否定被動語態，與 Unlike laws 呼應；n 後補 ot。"
+   },
+   {
+    "word": "down",
+    "pos": "adv.",
+    "zh": "（write down 寫下）",
+    "why": "written ___ 是片語 write down「寫下來」的被動形；do 後補 wn。"
+   },
+   {
+    "word": "people",
+    "pos": "n.",
+    "zh": "人們",
+    "why": "yet ___ learn them：子句主詞，複數動詞 learn；peo 後補 ple，注意不發音的 o。"
+   },
+   {
+    "word": "them",
+    "pos": "pron.",
+    "zh": "它們（指規範）",
+    "why": "learn 的受詞，指前面複數的 norms；th 後補 em。"
+   },
+   {
+    "word": "everyday",
+    "pos": "adj.",
+    "zh": "日常的",
+    "why": "___ observation：一個字的 everyday 是形容詞「日常的」，與兩個字的副詞片語 every day 不同；ever 後補 yday。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "observation ___ interaction：連接兩個並列名詞；a 後補 nd。"
+   },
+   {
+    "word": "Individuals",
+    "pos": "n.",
+    "zh": "個人",
+    "why": "新句大寫主詞，後接 who follow；individual 加 -s，Indiv 後補 iduals，注意 -idu- 的母音順序。"
+   },
+   {
+    "word": "follow",
+    "pos": "v.",
+    "zh": "遵守",
+    "why": "who 指複數 Individuals，動詞用原形；follow rules「遵守規則」；fol 後補 low，雙 l。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-23",
+  "blanks": [
+   {
+    "word": "impose",
+    "pos": "v.",
+    "zh": "施加；實施",
+    "why": "主詞 Governments 複數用原形，受詞 these limits；impose a limit「設定上限」；imp 後補 ose。"
+   },
+   {
+    "word": "limits",
+    "pos": "n.",
+    "zh": "限制",
+    "why": "these ___ 指首句的 legal maximum；lim 後補 its。"
+   },
+   {
+    "word": "keep",
+    "pos": "v.",
+    "zh": "使保持",
+    "why": "to ___ essential goods affordable：keep + 受詞 + 形容詞「使…保持負擔得起」；ke 後補 ep。"
+   },
+   {
+    "word": "goods",
+    "pos": "n.",
+    "zh": "商品",
+    "why": "essential ___ 是複數名詞，首句 charge for a good；go 後補 ods。"
+   },
+   {
+    "word": "housing",
+    "pos": "n.",
+    "zh": "住房",
+    "why": "including ___ and fuel：列舉民生必需品，後文 Landlords、rent controls 呼應；hou 後補 sing。"
+   },
+   {
+    "word": "fuel",
+    "pos": "n.",
+    "zh": "燃料",
+    "why": "and 後與 housing 並列的必需品；fu 後補 el，字尾 -el 不是 -le。"
+   },
+   {
+    "word": "for",
+    "pos": "prep.",
+    "zh": "對…而言",
+    "why": "affordable ___ ordinary households：afford 對象用 for「對一般家庭來說」；f 後補 or。"
+   },
+   {
+    "word": "households",
+    "pos": "n.",
+    "zh": "家庭；住戶",
+    "why": "ordinary ___ 需要複數名詞；house + hold，house 後補 holds。"
+   },
+   {
+    "word": "ceiling",
+    "pos": "n.",
+    "zh": "上限（價格上限）",
+    "why": "a ___ set below：本段主題 price ceiling；cei 後補 ling，記住 c 後面是 ei（receive 同理）。"
+   },
+   {
+    "word": "below",
+    "pos": "prep.",
+    "zh": "低於",
+    "why": "set ___ the market price：價格上限要「低於」市場價格才會造成短缺；be 後補 low。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-24",
+  "blanks": [
+   {
+    "word": "advantage",
+    "pos": "n.",
+    "zh": "優勢",
+    "why": "This ___ 指前句「大公司單位成本較低」；adva 後補 ntage，字尾 -age。"
+   },
+   {
+    "word": "called",
+    "pos": "v.",
+    "zh": "被稱為",
+    "why": "is ___ economies of scale：被動語態「被稱為」；call 加 -ed，cal 後補 led。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "…的",
+    "why": "economies ___ scale 是固定術語「規模經濟」；o 後補 f。"
+   },
+   {
+    "word": "factory",
+    "pos": "n.",
+    "zh": "工廠",
+    "why": "A ___ has fixed expenses，後面 machinery 提示是「工廠」；fac 後補 tory。"
+   },
+   {
+    "word": "fixed",
+    "pos": "adj.",
+    "zh": "固定的",
+    "why": "___ expenses「固定成本」：不論產量多少都不變，後文 remain the same regardless of output 是定義；fi 後補 xed。"
+   },
+   {
+    "word": "such",
+    "pos": "det.",
+    "zh": "例如（such as）",
+    "why": "___ as machinery and rent：such as 引出例子；su 後補 ch。"
+   },
+   {
+    "word": "machinery",
+    "pos": "n.",
+    "zh": "機器設備",
+    "why": "such as ___：不可數名詞，指整體「機械設備」；machine + -ry，mach 後補 inery。"
+   },
+   {
+    "word": "rent",
+    "pos": "n.",
+    "zh": "租金",
+    "why": "machinery and ___：另一項固定支出「租金」；re 後補 nt。"
+   },
+   {
+    "word": "remain",
+    "pos": "v.",
+    "zh": "保持",
+    "why": "that 指複數的 expenses，動詞用原形，___ the same「保持不變」；rem 後補 ain。"
+   },
+   {
+    "word": "same",
+    "pos": "adj.",
+    "zh": "相同的",
+    "why": "the ___ regardless of output：the same 表示「不變」；sa 後補 me。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-25",
+  "blanks": [
+   {
+    "word": "might",
+    "pos": "aux.",
+    "zh": "可能",
+    "why": "A teacher ___ first demonstrate：情態助動詞後接原形 demonstrate，表示舉例的可能做法；mi 後補 ght。"
+   },
+   {
+    "word": "demonstrate",
+    "pos": "v.",
+    "zh": "示範",
+    "why": "first ___ a procedure：鷹架教學第一步是教師「示範」；demon 後補 strate，字尾 -strate。"
+   },
+   {
+    "word": "then",
+    "pos": "adv.",
+    "zh": "然後",
+    "why": "first..., ___ guide..., and finally...：步驟順序詞；th 後補 en，不是 than。"
+   },
+   {
+    "word": "students",
+    "pos": "n.",
+    "zh": "學生",
+    "why": "guide ___ through it：guide 的受詞，被引導的是「學生」；stud 後補 ents。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它（指 procedure）",
+    "why": "through ___：指前面單數的 a procedure；i 後補 t。"
+   },
+   {
+    "word": "hints",
+    "pos": "n.",
+    "zh": "提示",
+    "why": "with ___ and questions：老師用「提示」和提問來引導；hi 後補 nts。"
+   },
+   {
+    "word": "questions",
+    "pos": "n.",
+    "zh": "問題",
+    "why": "hints and ___ 並列的複數名詞；ques 後補 tions，字尾 -tion。"
+   },
+   {
+    "word": "finally",
+    "pos": "adv.",
+    "zh": "最後",
+    "why": "first, then, ___ 三步驟的最後一步；final + -ly，fin 後補 ally，雙 l。"
+   },
+   {
+    "word": "assistance",
+    "pos": "n.",
+    "zh": "協助",
+    "why": "withdraw ___：逐步「撤除協助」，即首句 temporary support；assist + -ance，assis 後補 tance，字尾 -ance。"
+   },
+   {
+    "word": "competence",
+    "pos": "n.",
+    "zh": "能力",
+    "why": "as ___ grows：學生「能力」增加時撤除協助；competent 的名詞，compe 後補 tence，字尾 -ence 不是 -ance。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-26",
+  "blanks": [
+   {
+    "word": "researchers",
+    "pos": "n.",
+    "zh": "研究者",
+    "why": "Communication ___ 是複數主詞（動詞 call 無 -s）；research + -er + -s，resea 後補 rchers。"
+   },
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "call ___ process framing：指首句「呈現方式影響解讀」的過程；th 後補 is。"
+   },
+   {
+    "word": "framing",
+    "pos": "n.",
+    "zh": "框架效應；框架設定",
+    "why": "call + 受詞 + 名稱，本段主題 framing「框架」：如何包裝資訊；fra 後補 ming。"
+   },
+   {
+    "word": "report",
+    "pos": "n.",
+    "zh": "報導",
+    "why": "A news ___ about unemployment：news report「新聞報導」；rep 後補 ort。"
+   },
+   {
+    "word": "unemployment",
+    "pos": "n.",
+    "zh": "失業",
+    "why": "about ___：un- + employ + -ment，「失業」議題；unempl 後補 oyment。"
+   },
+   {
+    "word": "instance",
+    "pos": "n.",
+    "zh": "例子（for instance 例如）",
+    "why": "for ___ 同 for example；instance 字尾 -ance，inst 後補 ance。"
+   },
+   {
+    "word": "emphasize",
+    "pos": "v.",
+    "zh": "強調",
+    "why": "might 後接原形動詞，受詞 personal hardship；emphasis 的動詞形，emph 後補 asize，注意 ph 發 /f/。"
+   },
+   {
+    "word": "hardship",
+    "pos": "n.",
+    "zh": "困苦",
+    "why": "personal ___「個人困境」，與後文 struggling family 呼應；hard + -ship，hard 後補 ship。"
+   },
+   {
+    "word": "describing",
+    "pos": "v.",
+    "zh": "描述",
+    "why": "by ___ a single struggling family：介系詞 by 後接動名詞，表示方法；describe 去 e 加 -ing，descr 後補 ibing。"
+   },
+   {
+    "word": "struggling",
+    "pos": "adj.",
+    "zh": "陷入困境的",
+    "why": "a single ___ family：現在分詞形容詞「苦苦掙扎的」；struggle 去 e 加 -ing，strug 後補 gling，雙 g。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-27",
+  "blanks": [
+   {
+    "word": "suburbs",
+    "pos": "n.",
+    "zh": "郊區",
+    "why": "Sprawling ___ 是複數主詞（動詞 depend 無 -s），蔓延的「郊區」；sub- + urb（城市），sub 後補 urbs。"
+   },
+   {
+    "word": "depend",
+    "pos": "v.",
+    "zh": "依賴",
+    "why": "___ heavily on：depend on「依賴」，副詞 heavily 插中間；dep 後補 end。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "依靠（depend on）",
+    "why": "depend heavily ___ private cars：depend 固定搭配 on；o 後補 n。"
+   },
+   {
+    "word": "cars",
+    "pos": "n.",
+    "zh": "汽車",
+    "why": "private ___「私家車」，郊區居民靠開車；ca 後補 rs。"
+   },
+   {
+    "word": "homes",
+    "pos": "n.",
+    "zh": "住家",
+    "why": "because ___, shops, schools, and offices：列舉第一項，複數名詞；ho 後補 mes。"
+   },
+   {
+    "word": "schools",
+    "pos": "n.",
+    "zh": "學校",
+    "why": "列舉中的複數名詞，日常生活要去的地方；sch 後補 ools，ch 發 /k/。"
+   },
+   {
+    "word": "offices",
+    "pos": "n.",
+    "zh": "辦公室",
+    "why": "and 後的最後一項；office + s，off 後補 ices，雙 f。"
+   },
+   {
+    "word": "far",
+    "pos": "adv.",
+    "zh": "遠地",
+    "why": "lie ___ apart「相距很遠」，解釋為何要開車；f 後補 ar。"
+   },
+   {
+    "word": "Consequently",
+    "pos": "adv.",
+    "zh": "因此",
+    "why": "句首連接副詞，表示前一句的結果：要花很多時間通勤；consequent + -ly，Conseq 後補 uently。"
+   },
+   {
+    "word": "spend",
+    "pos": "v.",
+    "zh": "花費（時間）",
+    "why": "residents ___ considerable time commuting：spend + 時間 + V-ing；主詞複數用原形，sp 後補 end。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-28",
+  "blanks": [
+   {
+    "word": "capacity",
+    "pos": "n.",
+    "zh": "容量",
+    "why": "Its ___ is ... limited：工作記憶的「容量」有限；capa 後補 city，字尾 -city。"
+   },
+   {
+    "word": "surprisingly",
+    "pos": "adv.",
+    "zh": "出乎意料地",
+    "why": "is ___ limited：副詞修飾形容詞 limited；surprising + -ly，surpri 後補 singly，注意 sur 後有 r。"
+   },
+   {
+    "word": "typical",
+    "pos": "adj.",
+    "zh": "一般的",
+    "why": "___ adults：修飾名詞的形容詞「一般的成人」；type 的形容詞，typ 後補 ical，y 發 /ɪ/。"
+   },
+   {
+    "word": "retain",
+    "pos": "v.",
+    "zh": "保留",
+    "why": "主詞 adults 複數用原形，___ only a handful of items「只能記住幾個項目」；ret 後補 ain，-tain 家族（maintain, contain）。"
+   },
+   {
+    "word": "handful",
+    "pos": "n.",
+    "zh": "少數；一把",
+    "why": "a ___ of：片語「少數幾個」，hand + -ful；han 後補 dful，只有一個 l。"
+   },
+   {
+    "word": "separate",
+    "pos": "adj.",
+    "zh": "分開的；個別的",
+    "why": "___ items：形容詞「各自獨立的」；sepa 後補 rate，常見錯拼 seperate，記住中間是 a。"
+   },
+   {
+    "word": "simultaneously",
+    "pos": "adv.",
+    "zh": "同時地",
+    "why": "句尾副詞「同時」，修飾 retain，強調一次能記住的量很少；simulta 後補 neously，字尾 -eously。"
+   },
+   {
+    "word": "task",
+    "pos": "n.",
+    "zh": "任務",
+    "why": "When a ___ requires：a 後接單數名詞「任務」；ta 後補 sk。"
+   },
+   {
+    "word": "remembering",
+    "pos": "n.",
+    "zh": "記住",
+    "why": "requires ___ more：require + 動名詞；remember + ing，remem 後補 bering。"
+   },
+   {
+    "word": "performance",
+    "pos": "n.",
+    "zh": "表現",
+    "why": "___ declines sharply：主詞名詞「表現」下降；perform + -ance，perfo 後補 rmance，字尾 -ance。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-29",
+  "blanks": [
+   {
+    "word": "factory",
+    "pos": "n.",
+    "zh": "工廠",
+    "why": "Consider a ___ releasing smoke：會排放煙霧的「工廠」，是外部性的經典例子；fac 後補 tory，-ory 字尾。"
+   },
+   {
+    "word": "smoke",
+    "pos": "n.",
+    "zh": "煙",
+    "why": "releasing ___：工廠排放的「煙」，後文 reduce pollution 呼應；sm 後補 oke。"
+   },
+   {
+    "word": "harms",
+    "pos": "v.",
+    "zh": "傷害",
+    "why": "that 指單數的 smoke，動詞加 -s，受詞 nearby residents；ha 後補 rms。"
+   },
+   {
+    "word": "residents",
+    "pos": "n.",
+    "zh": "居民",
+    "why": "nearby ___「附近居民」，即首句 people who are not directly involved；resi 後補 dents，字尾 -ent。"
+   },
+   {
+    "word": "receive",
+    "pos": "v.",
+    "zh": "收到",
+    "why": "who 指複數 residents，動詞用原形；receive no compensation；rec 後補 eive，c 之後是 ei。"
+   },
+   {
+    "word": "compensation",
+    "pos": "n.",
+    "zh": "補償",
+    "why": "no ___：外部成本的受害者沒有得到「補償」；compensate 的名詞，compen 後補 sation。"
+   },
+   {
+    "word": "their",
+    "pos": "det.",
+    "zh": "他們的",
+    "why": "___ medical expenses：所有格指 residents 的醫療費；th 後補 eir，不是 there。"
+   },
+   {
+    "word": "expenses",
+    "pos": "n.",
+    "zh": "費用",
+    "why": "medical ___「醫療費用」；expense 加 -s，expe 後補 nses，注意是 s 不是 c。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "（定冠詞）",
+    "why": "Because ___ factory：指前面提過的那家工廠；t 後補 he。"
+   },
+   {
+    "word": "ignores",
+    "pos": "v.",
+    "zh": "忽視",
+    "why": "主詞 the factory 單數，動詞加 -s；工廠「不理會」造成的損害，所以產品定價過低；ign 後補 ores。"
+   }
+  ]
+ },
+ {
+  "id": "ct8-30",
+  "blanks": [
+   {
+    "word": "frequently",
+    "pos": "adv.",
+    "zh": "經常",
+    "why": "Members ___ conceal：頻率副詞放在主詞與動詞之間；frequ 後補 ently，字尾 -ently。"
+   },
+   {
+    "word": "doubts",
+    "pos": "n.",
+    "zh": "疑慮",
+    "why": "conceal ___：成員「隱藏疑慮」以避免衝突；dou 後補 bts，b 不發音。"
+   },
+   {
+    "word": "preserve",
+    "pos": "v.",
+    "zh": "維持",
+    "why": "to ___ harmony：不定詞表目的「維持和諧」，對應首句 desire for agreement；pres 後補 erve。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "而且",
+    "why": "連接兩個子句 Members conceal... ___ the whole group overlooks...；a 後補 nd。"
+   },
+   {
+    "word": "whole",
+    "pos": "adj.",
+    "zh": "整個的",
+    "why": "the ___ group「整個團體」；wh 後補 ole，w 不發音，別寫成 hole。"
+   },
+   {
+    "word": "overlooks",
+    "pos": "v.",
+    "zh": "忽略",
+    "why": "主詞 the whole group 單數，動詞加 -s；overlook signs「忽略跡象」；over 後補 looks。"
+   },
+   {
+    "word": "warning",
+    "pos": "n.",
+    "zh": "警告",
+    "why": "obvious ___ signs「警訊」，名詞修飾 signs；warn + ing，war 後補 ning。"
+   },
+   {
+    "word": "Highly",
+    "pos": "adv.",
+    "zh": "高度地",
+    "why": "句首副詞修飾形容詞 cohesive「高度凝聚的」；high + -ly，Hig 後補 hly。"
+   },
+   {
+    "word": "teams",
+    "pos": "n.",
+    "zh": "團隊",
+    "why": "cohesive ___ 是複數主詞（動詞 are）；te 後補 ams。"
+   },
+   {
+    "word": "dominant",
+    "pos": "adj.",
+    "zh": "強勢的",
+    "why": "___ leaders「強勢的領導者」，會壓抑異議；domi 後補 nant，字尾 -ant。"
+   }
+  ]
+ }
+]

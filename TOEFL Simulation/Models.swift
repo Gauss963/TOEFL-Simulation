@@ -185,6 +185,8 @@ struct TOEFLQuestion: Identifiable, Hashable, Codable {
     var partOfSpeech: String? = nil
     var wordGloss: String? = nil
     var blankReason: String? = nil
+    /// Complete the Words subject area: humanities, history, earth, life, physical, or social.
+    var field: String? = nil
 
     var countsTowardScore: Bool { isScored ?? true }
 

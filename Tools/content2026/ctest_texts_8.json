@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ct8-01",
+    "difficulty": "intermediate",
+    "title": "Osmosis in plant cells",
+    "field": "life",
+    "text": "Osmosis is the movement of water across a membrane from a dilute solution to a more concentrated one. The cell membrane allows water molecules to pass through freely, but blocks numerous dissolved substances, including sugars, salts, and proteins. When a plant cell sits in fresh water, water enters the cell and pushes the membrane against the rigid cell wall. This internal pressure keeps stems and leaves firm. However, if the surrounding soil becomes salty, water leaves the cells, and the plant begins to wilt."
+  },
+  {
+    "id": "ct8-02",
+    "difficulty": "advanced",
+    "title": "Enzymes and temperature",
+    "field": "life",
+    "text": "Enzymes are proteins that speed up chemical reactions inside living cells. Each enzyme molecule has a uniquely shaped active site that binds a particular substrate. Rising temperature makes molecules move faster and collide more frequently, so reaction rates generally increase. Beyond a certain point, however, the heat disrupts the weak bonds that hold the enzyme in its folded shape. The active site becomes distorted, and the substrate can no longer attach. This permanent change is called denaturation, which explains why extremely high fevers can be dangerous to the human body."
+  },
+  {
+    "id": "ct8-03",
+    "difficulty": "intermediate",
+    "title": "Mitochondria and cell energy",
+    "field": "life",
+    "text": "Mitochondria are small structures inside cells that convert food into usable energy. They break down sugar molecules with oxygen, capturing the released energy in a chemical form that cells can readily use. Tissues that demand a great deal of energy, such as muscle, contain cells packed with mitochondria. Interestingly, mitochondria possess their own small set of genes, which are inherited only from the mother. Scientists therefore use this genetic material to trace family lines across many generations."
+  },
+  {
+    "id": "ct8-04",
+    "difficulty": "advanced",
+    "title": "Dominant and recessive traits",
+    "field": "life",
+    "text": "Many inherited traits are controlled by a pair of genes, one received from each parent. Alternative forms of a gene, termed alleles, can be either dominant or recessive. A dominant allele controls appearance even when an organism carries only one copy. In contrast, a recessive trait appears only when an individual inherits two copies of the recessive allele. Consequently, two parents who both carry a hidden recessive allele may produce a child who displays the trait. This explains why certain characteristics seem to skip a generation."
+  },
+  {
+    "id": "ct8-05",
+    "difficulty": "intermediate",
+    "title": "Imprinting in young birds",
+    "field": "life",
+    "text": "Many young birds form a strong attachment to the first moving object they see after hatching. Biologists call this rapid learning process imprinting. Ducklings, for example, will follow their mother closely across fields, ponds, and streams. In experiments, chicks raised by people followed their human caretakers instead. Imprinting usually occurs during a brief sensitive period shortly after birth. If the young bird does not encounter a suitable object during this window, the attachment may never develop properly."
+  },
+  {
+    "id": "ct8-06",
+    "difficulty": "advanced",
+    "title": "Plants bending toward light",
+    "field": "life",
+    "text": "Plants grown on a windowsill gradually bend toward the light, a response known as phototropism. The bending is regulated by a hormone, auxin, that stimulates cells to elongate. When sunlight strikes a stem unevenly, auxin migrates toward the shaded side. There, cells lengthen more rapidly than the cells facing the light, so the stem curves toward the brighter direction. This behavior benefits the plant considerably, since leaves positioned in sunlight produce more sugar through photosynthesis. Roots, however, generally respond to gravity rather than to light."
+  },
+  {
+    "id": "ct8-07",
+    "difficulty": "advanced",
+    "title": "Predator and prey cycles",
+    "field": "life",
+    "text": "In some ecosystems, the populations of predators and their prey rise and fall in repeating cycles. When prey animals become abundant, predators find food easily, survive longer, and raise numerous offspring. Expanding predator populations then consume so many individuals that prey numbers decline. Eventually, the scarcity of food causes predators to starve or reproduce less successfully. With fewer predators remaining, the prey population recovers, and the cycle begins again. Ecologists caution that weather and disease also influence these fluctuations considerably."
+  },
+  {
+    "id": "ct8-08",
+    "difficulty": "intermediate",
+    "title": "Regulating body temperature",
+    "field": "life",
+    "text": "The human body works to keep its internal temperature close to a constant level. Biologists call this process homeostasis, meaning the maintenance of stable internal conditions. When the body becomes too warm, blood vessels near the skin widen and sweat glands release moisture. As the sweat evaporates, it carries heat away from the surface. In cold weather, the vessels narrow to conserve heat, and muscles begin shivering to generate additional warmth. Both responses happen automatically, without conscious effort."
+  },
+  {
+    "id": "ct8-09",
+    "difficulty": "advanced",
+    "title": "Disease screening tests",
+    "field": "life",
+    "text": "Screening tests are used to detect diseases in people who do not yet have any symptoms. An effective screening test must be sensitive, correctly detecting nearly every affected patient. Additionally, it should be specific, so healthy people are rarely told they might be sick. No test is perfect, however, and false alarms can cause unnecessary anxiety as well as expensive additional procedures. For this reason, health authorities generally recommend screening only for conditions that are common, serious, and treatable when discovered early."
+  },
+  {
+    "id": "ct8-10",
+    "difficulty": "advanced",
+    "title": "Warning coloration",
+    "field": "life",
+    "text": "Some animals advertise their danger instead of hiding from predators. Poisonous frogs, stinging insects, and distasteful butterflies frequently display vivid red, yellow, or black patterns. Any predator attacking these animals quickly learns to associate the conspicuous colors with an unpleasant experience. Consequently, it avoids similar prey in the future. This strategy, known as warning coloration, benefits the whole population, although the first individuals attacked may not survive. Interestingly, some harmless species have evolved to imitate these signals, gaining protection without producing any toxin."
+  },
+  {
+    "id": "ct8-11",
+    "difficulty": "intermediate",
+    "title": "How friction works",
+    "field": "physical",
+    "text": "Friction is a force that resists motion when two surfaces slide against each other. Even surfaces that look smooth have tiny bumps that catch and grip one another. The strength of friction depends mainly on the materials involved and on how firmly the surfaces are pressed together. Friction can be useful, since it allows tires to grip the road and lets us walk without slipping. However, it also wastes energy as heat, so engineers apply lubricants such as oil to moving machine parts."
+  },
+  {
+    "id": "ct8-12",
+    "difficulty": "advanced",
+    "title": "Series and parallel circuits",
+    "field": "physical",
+    "text": "Electrical components can be connected in a circuit in two basic ways. In a series circuit, the current follows a single path, passing through each component in turn. If one bulb in a series circuit fails, the entire path is broken and every bulb goes dark. In a parallel circuit, by contrast, each component sits on its own separate branch. The current divides among these branches, so a failure in one branch does not interrupt the others. For this reason, household wiring is arranged in parallel, allowing appliances to operate independently of one another."
+  },
+  {
+    "id": "ct8-13",
+    "difficulty": "intermediate",
+    "title": "Thermal insulation",
+    "field": "physical",
+    "text": "Heat always flows from warmer objects to cooler ones. Substances resisting this transfer are called insulators. Effective insulators, including wool, foam, and feathers, typically trap tiny pockets of air. Because still air conducts heat poorly, these pockets reduce the flow of warmth through the material. Metals, in contrast, are excellent conductors and quickly feel cold to the touch. Builders therefore place insulation inside walls and roofs to lower heating costs in winter and cooling costs in summer."
+  },
+  {
+    "id": "ct8-14",
+    "difficulty": "advanced",
+    "title": "Acids and bases",
+    "field": "physical",
+    "text": "Chemists measure acidity on the pH scale, which runs from zero to fourteen. An acid is a substance that releases hydrogen ions when dissolved in water, while a base accepts them. Lemon juice and vinegar are familiar acids, whereas soap and baking soda are common bases. When an acid and a base are mixed in suitable amounts, they neutralize each other, forming water and a salt. This reaction has practical applications; for instance, farmers add crushed limestone to soil that has become excessively acidic."
+  },
+  {
+    "id": "ct8-15",
+    "difficulty": "intermediate",
+    "title": "Why alloys are stronger",
+    "field": "physical",
+    "text": "An alloy is a mixture of a metal with one or more other elements. Pure metals are softer because identical atoms arrange themselves in orderly layers that slide smoothly. Atoms of a different size, however, disrupt these layers and make sliding more difficult. Steel, for example, is iron combined with a small amount of carbon, and it is much harder than pure iron. Bronze, an alloy of copper and tin, was valued for similar reasons."
+  },
+  {
+    "id": "ct8-16",
+    "difficulty": "advanced",
+    "title": "Photovoltaic cells",
+    "field": "physical",
+    "text": "Solar panels are made of photovoltaic cells that convert sunlight directly into electricity. Each cell contains thin silicon layers, chemically treated; the upper layer holds surplus electrons, whereas the lower layer lacks them. When particles of light strike the cell, they knock electrons loose. An electric field at the boundary between the layers then pushes these electrons in one direction, producing a current. Most commercial cells convert less than a quarter of incoming sunlight into usable power. Nevertheless, their efficiency has improved steadily as manufacturing techniques have advanced."
+  },
+  {
+    "id": "ct8-17",
+    "difficulty": "advanced",
+    "title": "Resonance in structures",
+    "field": "physical",
+    "text": "Every structure has natural frequencies at which it tends to vibrate. Periodic pushes matching such a frequency cause vibrations to grow steadily larger, a phenomenon called resonance. A familiar example is a child on a swing, who rises higher when pushed at precisely the right moment. In buildings and bridges, however, resonance can be destructive. Strong winds or marching soldiers may produce rhythmic forces that cause dangerous oscillation. Engineers therefore install dampers, devices that absorb vibrational energy and prevent excessive movement."
+  },
+  {
+    "id": "ct8-18",
+    "difficulty": "advanced",
+    "title": "Memory caches",
+    "field": "physical",
+    "text": "Computer processors can perform calculations far faster than main memory can supply data. To reduce this delay, processors include a cache, a small but extremely fast memory placed close to the processing unit. The cache stores copies of data that the program has recently used or is likely to need soon. When the requested information is already in the cache, the processor retrieves it almost immediately. Otherwise, it must wait for the slower main memory. Because programs tend to reuse the same data repeatedly, even a modest cache can noticeably accelerate overall performance."
+  },
+  {
+    "id": "ct8-19",
+    "difficulty": "advanced",
+    "title": "Polymer chains",
+    "field": "physical",
+    "text": "Polymers are large molecules built from many small repeating units linked together in long chains. These units, called monomers, are joined through chemical reactions that form strong covalent bonds. The properties of a polymer depend largely on the length of its chains and on how they are arranged. When chains are tangled loosely, the material tends to be flexible, as in plastic bags. When chains are tightly connected to one another, the material becomes rigid and resistant to heat. Natural polymers also exist; for example, cellulose gives plant fibers their remarkable strength."
+  },
+  {
+    "id": "ct8-20",
+    "difficulty": "intermediate",
+    "title": "Momentum and collisions",
+    "field": "physical",
+    "text": "Momentum is the product of an object's mass and its velocity. A heavy truck moving slowly can therefore have the same momentum as a light car traveling quickly. During a collision, the total momentum of the objects remains constant, provided no outside force acts on them. This principle is called the conservation of momentum. When a moving billiard ball strikes a stationary one, the first ball often stops while the second moves away at nearly the same speed."
+  },
+  {
+    "id": "ct8-21",
+    "difficulty": "intermediate",
+    "title": "Classical conditioning",
+    "field": "social",
+    "text": "Classical conditioning is a type of learning in which a neutral signal comes to trigger an automatic response. In a famous series of experiments, dogs heard a bell shortly before receiving food. After many repetitions, the dogs began to salivate when they heard the bell alone, even without any food. The bell had become associated with the meal. Similar learning occurs in people; for instance, the sound of a dentist's drill can produce anxiety before any treatment begins."
+  },
+  {
+    "id": "ct8-22",
+    "difficulty": "advanced",
+    "title": "Social norms",
+    "field": "social",
+    "text": "Social norms are shared expectations about how members of a group ought to behave. Unlike laws, most norms are not written down, yet people learn them through everyday observation and interaction. Individuals who follow these unwritten rules usually receive approval, whereas those who violate them may face criticism, ridicule, or exclusion. Norms vary considerably across cultures; for example, the acceptable distance between people during conversation differs from one society to another. Sociologists emphasize that norms are not permanent. They gradually shift as generations replace one another and new technologies alter daily life."
+  },
+  {
+    "id": "ct8-23",
+    "difficulty": "advanced",
+    "title": "Price ceilings",
+    "field": "social",
+    "text": "A price ceiling is a legal maximum on the price that sellers may charge for a good. Governments impose these limits to keep essential goods, including housing and fuel, affordable for ordinary households. However, a ceiling set below the market price causes the quantity demanded to exceed the quantity supplied. The resulting shortage can produce long waiting lists and informal markets where goods are sold illegally at higher prices. Landlords facing rent controls, for example, may neglect maintenance because their income is restricted. Economists therefore debate whether the benefits outweigh these unintended consequences."
+  },
+  {
+    "id": "ct8-24",
+    "difficulty": "intermediate",
+    "title": "Economies of scale",
+    "field": "social",
+    "text": "Large companies can often produce goods more cheaply per unit than small ones. This advantage is called economies of scale. A factory has fixed expenses, such as machinery and rent, that remain the same regardless of output. When production increases, these costs are spread across more units, so the average cost falls. Large firms can also negotiate discounts when they purchase materials in bulk. However, extremely large organizations may become difficult to manage efficiently."
+  },
+  {
+    "id": "ct8-25",
+    "difficulty": "advanced",
+    "title": "Instructional scaffolding",
+    "field": "social",
+    "text": "In education, scaffolding refers to temporary support that helps learners complete tasks they cannot yet manage alone. A teacher might first demonstrate a procedure, then guide students through it with hints and questions, and finally withdraw assistance as competence grows. The approach is based on the idea that learning progresses most effectively when tasks are slightly beyond a student's current ability. Effective scaffolding requires careful observation, because support that continues too long may encourage dependence. Conversely, removing guidance too early can leave learners frustrated and discouraged."
+  },
+  {
+    "id": "ct8-26",
+    "difficulty": "advanced",
+    "title": "Framing in news reports",
+    "field": "social",
+    "text": "The way information is presented can shape how audiences interpret it. Communication researchers call this process framing. A news report about unemployment, for instance, might emphasize personal hardship by describing a single struggling family, or it might focus on broad economic statistics. Although both reports contain accurate facts, readers of the first version tend to feel greater sympathy, whereas readers of the second are more likely to blame larger forces. Framing therefore influences public opinion without any false statements. Critics argue that audiences should compare several sources to recognize these subtle choices."
+  },
+  {
+    "id": "ct8-27",
+    "difficulty": "intermediate",
+    "title": "Urban sprawl",
+    "field": "social",
+    "text": "Urban sprawl describes the spread of low-density housing far beyond a city's center. Sprawling suburbs usually depend heavily on private cars, because homes, shops, schools, and offices lie far apart. Consequently, residents spend considerable time commuting. Sprawl also consumes farmland and natural habitats at the edges of cities. Some planners encourage compact development, in which buildings are grouped closer together near public transportation. Supporters argue that this approach reduces traffic and pollution."
+  },
+  {
+    "id": "ct8-28",
+    "difficulty": "advanced",
+    "title": "Limits of working memory",
+    "field": "social",
+    "text": "Working memory is the mental workspace where we hold and manipulate information for brief periods. Its capacity is surprisingly limited; typical adults retain only a handful of separate items simultaneously. When a task requires remembering more, performance declines sharply. People compensate by grouping information into meaningful units, a strategy known as chunking. For example, a long sequence of digits becomes easier to remember when divided into smaller clusters. Teachers who understand these limits often present complicated material in manageable steps to avoid overwhelming students."
+  },
+  {
+    "id": "ct8-29",
+    "difficulty": "advanced",
+    "title": "Pollution as an externality",
+    "field": "social",
+    "text": "An externality occurs when an economic activity affects people who are not directly involved in it. Consider a factory releasing smoke that harms nearby residents, who receive no compensation for their medical expenses. Because the factory ignores this damage, its products are priced too low, and society consumes more of them than is efficient. Economists often recommend a tax equal to the external cost, which encourages producers to reduce pollution. Positive externalities also exist; a homeowner who plants a garden benefits neighbors who enjoy the view."
+  },
+  {
+    "id": "ct8-30",
+    "difficulty": "intermediate",
+    "title": "Groupthink",
+    "field": "social",
+    "text": "Groupthink occurs when the desire for agreement within a group overrides careful decision making. Members frequently conceal doubts to preserve harmony, and the whole group overlooks obvious warning signs. Highly cohesive teams with dominant leaders are especially vulnerable. Such teams sometimes make poor choices that no individual member would have supported alone. To prevent groupthink, organizations can invite outside experts, encourage open debate, or assign someone to question the majority opinion deliberately."
+  }
+]

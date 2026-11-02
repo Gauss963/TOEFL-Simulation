@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "ct5-01",
+  "blanks": [
+   {
+    "word": "term",
+    "pos": "n.",
+    "zh": "術語；名稱",
+    "why": "The ___ comes from Italian words：指上一句 chiaroscuro 這個「名稱」的來源；te- 補 -rm。別猜 technique，字母數不合，而且字源講的是名稱不是方法。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "來自",
+    "why": "comes ___ Italian words：come from 表「源自」；fr- 補 -om。"
+   },
+   {
+    "word": "words",
+    "pos": "n.",
+    "zh": "字；詞",
+    "why": "Italian 之後需要複數名詞，後面 meaning light and dark 說明這些字的意思；wo- 補 -rds。"
+   },
+   {
+    "word": "light",
+    "pos": "n.",
+    "zh": "光；明亮",
+    "why": "chiaro = light、scuro = dark，「明暗」正是 chiaroscuro（明暗對照法）的字義；li- 補 -ght，gh 不發音。"
+   },
+   {
+    "word": "dark",
+    "pos": "n.",
+    "zh": "暗",
+    "why": "與 light 以 and 並列成反義對比，下一句的 deep shadows 也呼應「暗」；da- 補 -rk。"
+   },
+   {
+    "word": "placing",
+    "pos": "v.",
+    "zh": "放置（動名詞）",
+    "why": "介系詞 By 後接 V-ing 表「藉由……方法」；place 去 e 加 -ing，pla- 補 -cing，別寫成 placeing。"
+   },
+   {
+    "word": "highlights",
+    "pos": "n.",
+    "zh": "亮部；高光",
+    "why": "strong ___ beside deep shadows：與 shadows 對比的是畫面最亮的地方；high + light + s，highl- 補 -ights，gh 不發音、別漏複數 s。"
+   },
+   {
+    "word": "deep",
+    "pos": "adj.",
+    "zh": "深的",
+    "why": "修飾 shadows 的形容詞，和 strong highlights 對稱；de- 補 -ep，雙寫 e。"
+   },
+   {
+    "word": "painter",
+    "pos": "n.",
+    "zh": "畫家",
+    "why": "冠詞 a 後需要名詞當主詞，呼應首句 Renaissance painters；paint → painter → painting，pai- 補 -nter，字尾 -er。"
+   },
+   {
+    "word": "suggest",
+    "pos": "v.",
+    "zh": "暗示；營造出",
+    "why": "情態助動詞 could 後接原形，suggest the rounded volume「營造出圓潤的立體感」；sug- 補 -gest，注意雙寫 g。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-02",
+  "blanks": [
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "In ___ medium：指首句 egg tempera 這種「媒材」，medium 為單數所以用 this；th- 補 -is。"
+   },
+   {
+    "word": "finely",
+    "pos": "adv.",
+    "zh": "細細地",
+    "why": "修飾過去分詞 ground（研磨）的副詞，finely ground pigments「磨得極細的色粉」；fine + ly 保留 e，fin- 補 -ely。"
+   },
+   {
+    "word": "pigments",
+    "pos": "n.",
+    "zh": "顏料；色粉",
+    "why": "finely ground ___ were mixed：被磨細再與蛋黃調和的是色粉；were 提示複數，pigm- 補 -ents，字尾 -ment + s。"
+   },
+   {
+    "word": "mixed",
+    "pos": "v.",
+    "zh": "混合（被動）",
+    "why": "were ___ with egg yolk 為被動語態 be + p.p.；mi- 補 -xed。mix → mixture，文末 a smooth white mixture 是同字族。"
+   },
+   {
+    "word": "egg",
+    "pos": "n.",
+    "zh": "蛋",
+    "why": "主題 egg tempera 已在首句出現，___ yolk 就是「蛋黃」；e- 補 -gg，雙寫 g。"
+   },
+   {
+    "word": "natural",
+    "pos": "adj.",
+    "zh": "天然的",
+    "why": "a ___ binder 是同位語，說明蛋黃是「天然的黏合劑」（binder 讓色粉黏住）；nature → natural，nat- 補 -ural，別寫成 naturel。"
+   },
+   {
+    "word": "The",
+    "pos": "art.",
+    "zh": "這（定冠詞）",
+    "why": "句首 ___ paint 指前面用蛋黃調成的那種顏料，已特定所以用 The；T- 補 -he。"
+   },
+   {
+    "word": "dried",
+    "pos": "v.",
+    "zh": "乾燥",
+    "why": "主詞 The paint 後要過去式動詞；dry 是子音 + y，改 i 加 -ed，dr- 補 -ied。"
+   },
+   {
+    "word": "quickly",
+    "pos": "adv.",
+    "zh": "快速地",
+    "why": "very ___ 修飾 dried；後面 so 表結果「乾得快，所以要薄塗、細筆」；qui- 補 -ckly，注意 ck。"
+   },
+   {
+    "word": "artists",
+    "pos": "n.",
+    "zh": "畫家；藝術家",
+    "why": "so 之後新子句的主詞，動詞 applied 前需要人，呼應首句 European artists；art- 補 -ists。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-03",
+  "blanks": [
+   {
+    "word": "order",
+    "pos": "n.",
+    "zh": "（建築）柱式",
+    "why": "Each ___ 指首句 classical orders 中的「每一種柱式」，each 接單數；or- 補 -der。在建築裡 order 不是「命令」或「順序」。"
+   },
+   {
+    "word": "its",
+    "pos": "det.",
+    "zh": "它的",
+    "why": "had ___ own：its own「它自己的」，所有格不加撇號；i- 補 -ts，別寫成 it's（= it is）。"
+   },
+   {
+    "word": "style",
+    "pos": "n.",
+    "zh": "樣式；風格",
+    "why": "its own ___ of column：每種柱式都有自己「樣式」的柱子；st- 補 -yle，母音是 y 不是 i。"
+   },
+   {
+    "word": "column",
+    "pos": "n.",
+    "zh": "柱子",
+    "why": "of 後接名詞，與 base（柱基）、top（柱頭）並列，都是柱子的部位；col- 補 -umn，字尾 n 不發音。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "column, base, ___ decorated top：列舉最後一項前用 and；a- 補 -nd。"
+   },
+   {
+    "word": "top",
+    "pos": "n.",
+    "zh": "頂部",
+    "why": "decorated ___ 指柱子「頂端」的裝飾部分，後面立刻說明它叫 capital；t- 補 -op。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "作為；稱為",
+    "why": "known ___ the capital：be known as「被稱為」；a- 補 -s。"
+   },
+   {
+    "word": "capital",
+    "pos": "n.",
+    "zh": "柱頭",
+    "why": "建築術語，柱子頂端的裝飾構件叫 capital（不是「首都」）；下一句 plain capitals 再度出現。cap- 補 -ital，字尾 -al 不是 -ol（capitol 是議會大廈）。"
+   },
+   {
+    "word": "simplest",
+    "pos": "adj.",
+    "zh": "最簡單的",
+    "why": "The ___ was the Doric order, with plain capitals and no base：plain、no base 提示「最簡樸」，simple → simplest 最高級，simp- 補 -lest。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "was ___ Doric order：指特定一種柱式，名稱前加 the；t- 補 -he。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-04",
+  "blanks": [
+   {
+    "word": "tall",
+    "pos": "adj.",
+    "zh": "高的",
+    "why": "Earlier ___ buildings：摩天大樓之前的「高」樓；ta- 補 -ll，雙寫 l。"
+   },
+   {
+    "word": "needed",
+    "pos": "v.",
+    "zh": "需要",
+    "why": "主詞 buildings 後要過去式動詞，needed ... walls to support；nee- 補 -ded。"
+   },
+   {
+    "word": "thick",
+    "pos": "adj.",
+    "zh": "厚的",
+    "why": "extremely ___ masonry walls：和後文 the outer walls could be thin 形成對比；th- 補 -ick，注意 ck。"
+   },
+   {
+    "word": "walls",
+    "pos": "n.",
+    "zh": "牆",
+    "why": "masonry ___「磚石承重牆」；wa- 補 -lls，雙寫 l 再加複數 s。"
+   },
+   {
+    "word": "support",
+    "pos": "v.",
+    "zh": "支撐",
+    "why": "to + 原形表目的，牆要「撐住」建築本身的重量；sup- 補 -port，雙寫 p。"
+   },
+   {
+    "word": "own",
+    "pos": "adj.",
+    "zh": "自己的",
+    "why": "their ___ enormous weight「它們自身的巨大重量」；o- 補 -wn。"
+   },
+   {
+    "word": "weight",
+    "pos": "n.",
+    "zh": "重量",
+    "why": "support their own ___：承受的是「重量」，下文 the frame carried the load 呼應；wei- 補 -ght，ei 加不發音的 gh，別寫成 wieght。"
+   },
+   {
+    "word": "solved",
+    "pos": "v.",
+    "zh": "解決",
+    "why": "Engineers ___ this problem：solve a problem 固定搭配；sol- 補 -ved。"
+   },
+   {
+    "word": "problem",
+    "pos": "n.",
+    "zh": "問題",
+    "why": "this ___ 指牆必須很厚的困境；pro- 補 -blem。"
+   },
+   {
+    "word": "constructing",
+    "pos": "v.",
+    "zh": "建造（動名詞）",
+    "why": "by + V-ing 表方法，constructing an internal skeleton「建造內部鋼骨骨架」；construct → construction，constr- 補 -ucting。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-05",
+  "blanks": [
+   {
+    "word": "scholars",
+    "pos": "n.",
+    "zh": "學者",
+    "why": "Several ___ and talented musicians：與音樂家並列、研究古希臘戲劇的人是「學者」；scho- 補 -lars，字尾 -ar 不是 -er。"
+   },
+   {
+    "word": "talented",
+    "pos": "adj.",
+    "zh": "有才華的",
+    "why": "修飾 musicians 的形容詞；talent → talented，tale- 補 -nted。"
+   },
+   {
+    "word": "hoped",
+    "pos": "v.",
+    "zh": "希望",
+    "why": "主詞後要過去式動詞，hoped to revive「希望復興」；hope 加 -d，ho- 補 -ped，不雙寫 p（hopped 是「跳」）。"
+   },
+   {
+    "word": "revive",
+    "pos": "v.",
+    "zh": "復興；使復活",
+    "why": "hoped to ___ 接原形，revive the power of Greek tragedy「重現古希臘悲劇的力量」；re（再）+ vive（活），rev- 補 -ive。"
+   },
+   {
+    "word": "emotional",
+    "pos": "adj.",
+    "zh": "情感的",
+    "why": "the ___ power「情感感染力」；emotion → emotional，emot- 補 -ional。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "the emotional power ___ classical Greek tragedy；o- 補 -f。"
+   },
+   {
+    "word": "Greek",
+    "pos": "adj.",
+    "zh": "希臘的",
+    "why": "classical ___ tragedy，下一句 the Greeks 也是提示；Gr- 補 -eek，大寫 G、雙寫 e。"
+   },
+   {
+    "word": "They",
+    "pos": "pron.",
+    "zh": "他們",
+    "why": "句首主詞，指前一句的學者與音樂家；Th- 補 -ey。"
+   },
+   {
+    "word": "that",
+    "pos": "conj.",
+    "zh": "（引導名詞子句）",
+    "why": "believed ___ the Greeks had sung：believe that + 子句；th- 補 -at。"
+   },
+   {
+    "word": "Greeks",
+    "pos": "n.",
+    "zh": "古希臘人",
+    "why": "the ___ had sung their plays：the + 複數名詞指「希臘人」；Gre- 補 -eks，名詞要加 s，和前面形容詞 Greek 區分。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-06",
+  "blanks": [
+   {
+    "word": "exchanges",
+    "pos": "n.",
+    "zh": "一來一往的交流",
+    "why": "These ___ 指首句「一人唱、眾人答」的一問一答；ex + change + s，exch- 補 -anges。"
+   },
+   {
+    "word": "deeply",
+    "pos": "adv.",
+    "zh": "深深地",
+    "why": "are ___ rooted「根深蒂固」，修飾分詞 rooted 要用副詞；dee- 補 -ply。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在……之中",
+    "why": "rooted ___ ...：be rooted in「植根於」；i- 補 -n。"
+   },
+   {
+    "word": "communal",
+    "pos": "adj.",
+    "zh": "群體共同的",
+    "why": "the ___ singing traditions：大家一起唱，對應首句 a group answers；community 同字族，comm- 補 -unal，雙寫 m。"
+   },
+   {
+    "word": "traditions",
+    "pos": "n.",
+    "zh": "傳統",
+    "why": "singing ___ of West Africa「西非的歌唱傳統」；tradi- 補 -tions，字尾 -tion。"
+   },
+   {
+    "word": "West",
+    "pos": "adj.",
+    "zh": "西部的",
+    "why": "___ Africa「西非」，下一句被奴役的非洲人被帶往美洲正是西非的歷史；We- 補 -st。"
+   },
+   {
+    "word": "Enslaved",
+    "pos": "adj.",
+    "zh": "被奴役的",
+    "why": "___ Africans carried the practice to the Americas 指大西洋奴隸貿易；en + slave + d，Ensl- 補 -aved。"
+   },
+   {
+    "word": "carried",
+    "pos": "v.",
+    "zh": "帶去；傳播",
+    "why": "主詞 Africans 後的過去式；carry 改 y 為 i 加 -ed，car- 補 -ried，雙寫 r。"
+   },
+   {
+    "word": "practice",
+    "pos": "n.",
+    "zh": "做法；習俗",
+    "why": "the ___ 指 call and response 這種習俗；prac- 補 -tice，名詞字尾 -ice（英式動詞 practise 才用 s）。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "to ___ Americas：美洲（南北美）固定加 the；t- 補 -he。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-07",
+  "blanks": [
+   {
+    "word": "chorus",
+    "pos": "n.",
+    "zh": "歌隊；合唱隊",
+    "why": "The ___ 重提首句 a chorus of performers；cho- 補 -rus，ch 發 /k/，字尾 -us。"
+   },
+   {
+    "word": "represented",
+    "pos": "v.",
+    "zh": "代表；扮演",
+    "why": "主詞 The chorus 後的過去式，represented a group of ordinary citizens「代表一群平民」；represent → representation，repre- 補 -sented。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "a group ___ ordinary citizens；o- 補 -f。"
+   },
+   {
+    "word": "citizens",
+    "pos": "n.",
+    "zh": "公民；市民",
+    "why": "ordinary ___，與 elders、women 並列，後文 the whole community 呼應；citi- 補 -zens，中間是 z 不是 s。"
+   },
+   {
+    "word": "or",
+    "pos": "conj.",
+    "zh": "或",
+    "why": "citizens, elders, ___ women：列舉最後一項前；o- 補 -r。"
+   },
+   {
+    "word": "connected",
+    "pos": "adj.",
+    "zh": "有關聯的",
+    "why": "women ___ to the story：be connected to「與……有關」；connect 雙寫 n，conn- 補 -ected。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "connected to ___ story，指這齣戲的故事；t- 補 -he。"
+   },
+   {
+    "word": "Its",
+    "pos": "det.",
+    "zh": "它的",
+    "why": "___ members 指歌隊的成員，所有格無撇號；I- 補 -ts。"
+   },
+   {
+    "word": "commented",
+    "pos": "v.",
+    "zh": "評論",
+    "why": "comment on「對……發表評論」，與 expressed、offered 並列為過去式；comm- 補 -ented，雙寫 m；別和上一句的 connected 搞混。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "commented on ___ action，指舞台上進行的劇情；t- 補 -he。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-08",
+  "blanks": [
+   {
+    "word": "often",
+    "pos": "adv.",
+    "zh": "經常",
+    "why": "Theaters ___ hired：頻率副詞放在一般動詞前；of- 補 -ten，t 通常不發音。"
+   },
+   {
+    "word": "pianist",
+    "pos": "n.",
+    "zh": "鋼琴師",
+    "why": "hired a ___ or a small orchestra：與樂團並列的是一位演奏者；piano → pianist，pia- 補 -nist。"
+   },
+   {
+    "word": "small",
+    "pos": "adj.",
+    "zh": "小的",
+    "why": "a ___ orchestra「小型樂團」，與單人鋼琴師並列；sm- 補 -all，雙寫 l。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "（不定詞）",
+    "why": "hired ... ___ accompany the images：不定詞表目的「為了替畫面伴奏」；t- 補 -o。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "accompany ___ images，指銀幕上的畫面；t- 補 -he。"
+   },
+   {
+    "word": "while",
+    "pos": "conj.",
+    "zh": "而；同時",
+    "why": "連接兩個子句，對照音樂伴奏和字幕卡兩種輔助方式；wh- 補 -ile。"
+   },
+   {
+    "word": "title",
+    "pos": "adj.",
+    "zh": "字幕的",
+    "why": "printed ___ cards「字幕卡」，默片用印出來的卡片交代對白；ti- 補 -tle，字尾 -le。"
+   },
+   {
+    "word": "conveyed",
+    "pos": "v.",
+    "zh": "傳達",
+    "why": "title cards ___ important speech：用字卡「傳達」重要台詞；convey 加 -ed，ey 不變，conv- 補 -eyed。"
+   },
+   {
+    "word": "speech",
+    "pos": "n.",
+    "zh": "說的話；台詞",
+    "why": "important ___ 對應首句 recorded dialogue；spe- 補 -ech。"
+   },
+   {
+    "word": "success",
+    "pos": "n.",
+    "zh": "成功",
+    "why": "The ___ of The Jazz Singer convinced studios：是成功才「說服」片廠改用有聲；succ- 雙 c，結尾雙 s，suc- 補 -cess。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-09",
+  "blanks": [
+   {
+    "word": "form",
+    "pos": "n.",
+    "zh": "形式；體裁",
+    "why": "The ___ 指首句 sonnet（十四行詩）這種詩體；fo- 補 -rm。"
+   },
+   {
+    "word": "flourished",
+    "pos": "v.",
+    "zh": "興盛",
+    "why": "first ___ among Italian poets「最早在義大利詩人間盛行」；flourish 字尾 -ish，flour- 補 -ished，別只寫成 flour（麵粉）。"
+   },
+   {
+    "word": "Italian",
+    "pos": "adj.",
+    "zh": "義大利的",
+    "why": "___ poets，後面提到的 Petrarch 就是義大利詩人；Ita- 補 -lian，國籍形容詞大寫。"
+   },
+   {
+    "word": "who",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "poets, ___ used it：先行詞是人用 who；w- 補 -ho。"
+   },
+   {
+    "word": "it",
+    "pos": "pron.",
+    "zh": "它",
+    "why": "used ___ to explore：it 指 sonnet 這種形式；i- 補 -t。"
+   },
+   {
+    "word": "explore",
+    "pos": "v.",
+    "zh": "探索；描寫",
+    "why": "used it to ___ the emotions：to + 原形；exp- 補 -lore。"
+   },
+   {
+    "word": "conflicting",
+    "pos": "adj.",
+    "zh": "矛盾的；衝突的",
+    "why": "the ___ emotions of love「愛情中互相矛盾的情緒」；conflict → conflicting，confl- 補 -icting。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "the emotions ___ love；o- 補 -f。"
+   },
+   {
+    "word": "The",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "句首 ___ most influential version，最高級前加 the；T- 補 -he。"
+   },
+   {
+    "word": "influential",
+    "pos": "adj.",
+    "zh": "有影響力的",
+    "why": "most ___ 修飾 version；influence → influential，-ence 變 -ential，influ- 補 -ential，別寫成 influencial。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-10",
+  "blanks": [
+   {
+    "word": "form",
+    "pos": "n.",
+    "zh": "形式；文類",
+    "why": "This ___ 指首句的 epistolary novel（書信體小說）；fo- 補 -rm。"
+   },
+   {
+    "word": "especially",
+    "pos": "adv.",
+    "zh": "特別地",
+    "why": "became ___ popular，修飾形容詞 popular；especial + ly，espec- 補 -ially，注意 ll。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在",
+    "why": "___ England，表地點；i- 補 -n。"
+   },
+   {
+    "word": "during",
+    "pos": "prep.",
+    "zh": "在……期間",
+    "why": "___ the eighteenth century，表一段時間；dur- 補 -ing。"
+   },
+   {
+    "word": "eighteenth",
+    "pos": "adj.",
+    "zh": "第十八的",
+    "why": "the ___ century「十八世紀」；eight + eenth 只有一個 t，eight- 補 -eenth。"
+   },
+   {
+    "word": "when",
+    "pos": "adv.",
+    "zh": "（關係副詞）那時",
+    "why": "century, ___ letter writing was common：先行詞是時間用 when；wh- 補 -en。"
+   },
+   {
+    "word": "writing",
+    "pos": "n.",
+    "zh": "書寫",
+    "why": "letter ___「寫信」，正是書信體小說盛行的背景；write 去 e 加 -ing，wri- 補 -ting，只有一個 t。"
+   },
+   {
+    "word": "common",
+    "pos": "adj.",
+    "zh": "常見的",
+    "why": "a ___ daily activity「平常的日常活動」；com- 補 -mon，雙寫 m。"
+   },
+   {
+    "word": "activity",
+    "pos": "n.",
+    "zh": "活動",
+    "why": "daily ___；active → activity，acti- 補 -vity。"
+   },
+   {
+    "word": "each",
+    "pos": "det.",
+    "zh": "每一個",
+    "why": "Because ___ letter reflects：動詞加 s 表單數，「每封信」只呈現一個觀點；ea- 補 -ch。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-11",
+  "blanks": [
+   {
+    "word": "words",
+    "pos": "n.",
+    "zh": "字；單字",
+    "why": "Some ___, such as tree or quick：tree 和 quick 是單字的例子；wo- 補 -rds。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "例如（such as）",
+    "why": "such ___ 是固定片語「例如」；a- 補 -s。"
+   },
+   {
+    "word": "or",
+    "pos": "conj.",
+    "zh": "或",
+    "why": "tree ___ quick 兩個例子並列；o- 補 -r。"
+   },
+   {
+    "word": "contain",
+    "pos": "v.",
+    "zh": "包含",
+    "why": "主詞 Some words 為複數，用原形 contain only one morpheme；con- 補 -tain。"
+   },
+   {
+    "word": "one",
+    "pos": "num.",
+    "zh": "一個",
+    "why": "only ___ morpheme：tree 無法再拆，只有「一個」詞素；o- 補 -ne。"
+   },
+   {
+    "word": "Others",
+    "pos": "pron.",
+    "zh": "其他的字",
+    "why": "與前句 Some words 呼應，形成 Some ... Others ... 的對照；Oth- 補 -ers。"
+   },
+   {
+    "word": "built",
+    "pos": "v.",
+    "zh": "構成（過去分詞）",
+    "why": "are ___ from several parts，被動語態「由幾個部分組成」；build 的過去分詞是 built，bu- 補 -ilt。"
+   },
+   {
+    "word": "several",
+    "pos": "adj.",
+    "zh": "幾個的",
+    "why": "___ parts，修飾複數名詞；sev- 補 -eral，別寫成 severel。"
+   },
+   {
+    "word": "The",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "___ word unhappiness，特指這一個字；T- 補 -he。"
+   },
+   {
+    "word": "unhappiness",
+    "pos": "n.",
+    "zh": "不快樂",
+    "why": "後文說明它由 prefix（un-）、root（happy）、suffix（-ness）組成，正是多詞素的例子；happy 的 y 變 i、雙寫 p，unhap- 補 -piness。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-12",
+  "blanks": [
+   {
+    "word": "prisoners",
+    "pos": "n.",
+    "zh": "囚犯",
+    "why": "The ___ 重提首句 prisoners in a cave；prison → prisoner，pris- 補 -oners。"
+   },
+   {
+    "word": "chained",
+    "pos": "v.",
+    "zh": "被鐵鍊鎖住",
+    "why": "are ___ so tightly，被動語態；chain + ed，cha- 補 -ined。"
+   },
+   {
+    "word": "tightly",
+    "pos": "adv.",
+    "zh": "緊緊地",
+    "why": "so ___ that ...「綁得太緊以致於只看得到影子」；tight + ly，tig- 補 -htly，gh 不發音。"
+   },
+   {
+    "word": "they",
+    "pos": "pron.",
+    "zh": "他們",
+    "why": "that 子句的主詞，指囚犯；th- 補 -ey。"
+   },
+   {
+    "word": "see",
+    "pos": "v.",
+    "zh": "看見",
+    "why": "can ___ only shadows，助動詞後接原形；s- 補 -ee。"
+   },
+   {
+    "word": "shadows",
+    "pos": "n.",
+    "zh": "影子",
+    "why": "only ___ flickering on the wall，下一句 these shadows are reality 再出現；sha- 補 -dows。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "在……上",
+    "why": "flickering ___ the wall；o- 補 -n。"
+   },
+   {
+    "word": "wall",
+    "pos": "n.",
+    "zh": "牆",
+    "why": "the ___ before them「他們面前的牆」，影子投射的地方；wa- 補 -ll。"
+   },
+   {
+    "word": "them",
+    "pos": "pron.",
+    "zh": "他們（受格）",
+    "why": "before ___，介系詞後用受格；th- 補 -em。"
+   },
+   {
+    "word": "never",
+    "pos": "adv.",
+    "zh": "從未",
+    "why": "Having ___ seen anything else「從沒看過別的東西」，所以把影子當成真實；ne- 補 -ver。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-13",
+  "blanks": [
+   {
+    "word": "families",
+    "pos": "n.",
+    "zh": "家族",
+    "why": "Banking ___「銀行世家」，下文的 Medici 就是一例；family 的 y 變 ies，fami- 補 -lies。"
+   },
+   {
+    "word": "orders",
+    "pos": "n.",
+    "zh": "修會",
+    "why": "religious ___「宗教修會」（如方濟會），order 此處不是命令；ord- 補 -ers。"
+   },
+   {
+    "word": "city",
+    "pos": "n.",
+    "zh": "城市",
+    "why": "___ governments「市政府」，與家族、修會並列為贊助者；ci- 補 -ty。"
+   },
+   {
+    "word": "commissioned",
+    "pos": "v.",
+    "zh": "委託製作",
+    "why": "patrons ___ paintings：贊助人出錢「委託」藝術家創作；commission 雙 m、雙 s 加 -ion，commis- 補 -sioned。名詞 commission 指委託案。"
+   },
+   {
+    "word": "sculptures",
+    "pos": "n.",
+    "zh": "雕塑",
+    "why": "paintings, ___, and chapels 列舉委託的作品；sculpt → sculptor（雕刻家）→ sculpture，sculp- 補 -tures。"
+   },
+   {
+    "word": "chapels",
+    "pos": "n.",
+    "zh": "小禮拜堂",
+    "why": "與繪畫、雕塑並列的建築委託；cha- 補 -pels，字尾 -el 不是 -le。"
+   },
+   {
+    "word": "display",
+    "pos": "v.",
+    "zh": "展示",
+    "why": "to ___ their piety and prestige，不定詞表目的；dis- 補 -play。"
+   },
+   {
+    "word": "piety",
+    "pos": "n.",
+    "zh": "虔誠",
+    "why": "與 religious 呼應，捐建禮拜堂以顯示宗教上的「虔誠」；pious → piety，pi- 補 -ety。"
+   },
+   {
+    "word": "prestige",
+    "pos": "n.",
+    "zh": "威望；聲望",
+    "why": "piety and ___：委託藝術也為了炫耀社會「地位」；pres- 補 -tige，字尾 -ige 發 /iːʒ/。"
+   },
+   {
+    "word": "contract",
+    "pos": "n.",
+    "zh": "合約",
+    "why": "A typical ___ specified the subject, the dimensions, the deadline：會「規定」主題、尺寸和期限的是合約；cont- 補 -ract。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-14",
+  "blanks": [
+   {
+    "word": "flat",
+    "pos": "adj.",
+    "zh": "平塗的；扁平的",
+    "why": "Their ___ areas of color「平塗色塊」，浮世繪不用明暗營造立體；fl- 補 -at。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "areas ___ color；o- 補 -f。"
+   },
+   {
+    "word": "bold",
+    "pos": "adj.",
+    "zh": "粗的；醒目的",
+    "why": "___ outlines「粗黑的輪廓線」；bo- 補 -ld。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "flat areas, bold outlines, ___ unusual viewpoints：三項列舉；a- 補 -nd。"
+   },
+   {
+    "word": "viewpoints",
+    "pos": "n.",
+    "zh": "視角",
+    "why": "unusual ___「不尋常的視角」，如俯瞰或斜切的構圖；view + point，viewp- 補 -oints。"
+   },
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個",
+    "why": "offered ___ alternative，alternative 母音開頭用 an；a- 補 -n。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "對於",
+    "why": "an alternative ___ the conventions「……之外的另一種選擇」；t- 補 -o。"
+   },
+   {
+    "word": "conventions",
+    "pos": "n.",
+    "zh": "慣例；成規",
+    "why": "the ___ of academic painting「學院繪畫的成規」；convention 字尾 -tion，conve- 補 -ntions。"
+   },
+   {
+    "word": "academic",
+    "pos": "adj.",
+    "zh": "學院派的",
+    "why": "___ painting 指官方美術學院的正統畫風；academy → academic，acad- 補 -emic。"
+   },
+   {
+    "word": "Artists",
+    "pos": "n.",
+    "zh": "藝術家",
+    "why": "句首主詞，後接 such as Edgar Degas and Vincent van Gogh 兩位畫家；Art- 補 -ists。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-15",
+  "blanks": [
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "（instead of 而不是）",
+    "why": "Instead ___ depicting：instead of + V-ing；o- 補 -f。"
+   },
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個",
+    "why": "___ object，母音開頭用 an；a- 補 -n。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "從",
+    "why": "depicting an object ___ a single perspective「從單一視點描繪」；fr- 補 -om。"
+   },
+   {
+    "word": "fixed",
+    "pos": "adj.",
+    "zh": "固定的",
+    "why": "a single ___ perspective，和後面 several viewpoints 對比；fix + ed，fi- 補 -xed。"
+   },
+   {
+    "word": "Cubist",
+    "pos": "adj.",
+    "zh": "立體派的",
+    "why": "___ painters，由首句 Cubism 變化而來；-ism（主義）→ -ist（成員／形容詞），Cub- 補 -ist。"
+   },
+   {
+    "word": "represented",
+    "pos": "v.",
+    "zh": "呈現",
+    "why": "painters ___ several viewpoints，過去式動詞；repre- 補 -sented，別寫成 represanted。"
+   },
+   {
+    "word": "viewpoints",
+    "pos": "n.",
+    "zh": "視點",
+    "why": "several ___ simultaneously「同時呈現數個視點」，呼應前面 perspective；several 後用複數，viewp- 補 -oints。"
+   },
+   {
+    "word": "guitar",
+    "pos": "n.",
+    "zh": "吉他",
+    "why": "A ___ or a face：立體派常畫的物件例子；gui- 補 -tar，u 不發音。"
+   },
+   {
+    "word": "face",
+    "pos": "n.",
+    "zh": "臉",
+    "why": "a guitar or a ___，後文 its front and side 指臉的正面和側面；fa- 補 -ce。"
+   },
+   {
+    "word": "be",
+    "pos": "v.",
+    "zh": "被（被動）",
+    "why": "might ___ broken into planes，情態助動詞後用原形 be + p.p.；b- 補 -e。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-16",
+  "blanks": [
+   {
+    "word": "pressed",
+    "pos": "v.",
+    "zh": "壓入",
+    "why": "Craftsmen ___ these cubes into wet plaster：把小方塊「壓進」濕灰泥；press 雙 s，pre- 補 -ssed。"
+   },
+   {
+    "word": "tiny",
+    "pos": "adj.",
+    "zh": "微小的",
+    "why": "these ___ cubes 指首句 small pieces of glass and stone；ti- 補 -ny。"
+   },
+   {
+    "word": "into",
+    "pos": "prep.",
+    "zh": "進入",
+    "why": "pressed ... ___ wet plaster，表動作方向；in- 補 -to。"
+   },
+   {
+    "word": "plaster",
+    "pos": "n.",
+    "zh": "灰泥",
+    "why": "wet ___「濕灰泥」，鑲嵌與濕壁畫都以它為底；pla- 補 -ster。"
+   },
+   {
+    "word": "slightly",
+    "pos": "adv.",
+    "zh": "稍微",
+    "why": "at ___ different angles，修飾形容詞 different；slight + ly，slig- 補 -htly，gh 不發音。"
+   },
+   {
+    "word": "angles",
+    "pos": "n.",
+    "zh": "角度",
+    "why": "different ___「不同的角度」，下一句 the uneven surface 是其結果；ang- 補 -les，別寫成 angels（天使）。"
+   },
+   {
+    "word": "result",
+    "pos": "n.",
+    "zh": "結果",
+    "why": "As a ___ 是固定片語「因此」；res- 補 -ult。"
+   },
+   {
+    "word": "uneven",
+    "pos": "adj.",
+    "zh": "不平坦的",
+    "why": "the ___ surface：方塊角度各不相同，表面自然「凹凸不平」；un + even，une- 補 -ven。"
+   },
+   {
+    "word": "reflected",
+    "pos": "v.",
+    "zh": "反射",
+    "why": "surface ___ candlelight：表面「反射」光線產生閃爍；reflect → reflection，refl- 補 -ected。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "candlelight ___ daylight 並列兩種光源；a- 補 -nd。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-17",
+  "blanks": [
+   {
+    "word": "stars",
+    "pos": "n.",
+    "zh": "星形",
+    "why": "Interlacing ___ and polygons「交錯的星形與多邊形」，伊斯蘭幾何紋樣的典型；st- 補 -ars。"
+   },
+   {
+    "word": "polygons",
+    "pos": "n.",
+    "zh": "多邊形",
+    "why": "與 stars 並列的幾何形狀；poly（多）+ gon（角），poly- 補 -gons。"
+   },
+   {
+    "word": "constructed",
+    "pos": "v.",
+    "zh": "作圖；建構",
+    "why": "were ___ with only a compass，被動語態；construct → construction，const- 補 -ructed。"
+   },
+   {
+    "word": "only",
+    "pos": "adv.",
+    "zh": "只",
+    "why": "with ___ a compass and a straightedge「只用圓規和直尺」；on- 補 -ly。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "a compass ___ a straightedge 兩種工具並列；a- 補 -nd。"
+   },
+   {
+    "word": "beginning",
+    "pos": "v.",
+    "zh": "從……開始（分詞）",
+    "why": "___ from a circle，分詞構句說明作圖的起點；begin 重音在後，雙寫 n 再加 -ing，begi- 補 -nning，常見錯拼 begining。"
+   },
+   {
+    "word": "circle",
+    "pos": "n.",
+    "zh": "圓",
+    "why": "a ___ divided into equal parts：用圓規畫的正是圓；cir- 補 -cle。"
+   },
+   {
+    "word": "into",
+    "pos": "prep.",
+    "zh": "分成",
+    "why": "divided ___ equal parts：divide into「分成」；in- 補 -to。"
+   },
+   {
+    "word": "parts",
+    "pos": "n.",
+    "zh": "部分",
+    "why": "equal ___「等分」；pa- 補 -rts。"
+   },
+   {
+    "word": "such",
+    "pos": "adj.",
+    "zh": "這樣的",
+    "why": "Because ___ patterns 指前述的幾何圖案；su- 補 -ch。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-18",
+  "blanks": [
+   {
+    "word": "buildings",
+    "pos": "n.",
+    "zh": "建築物",
+    "why": "His ___ 指 Palladio 設計的別墅；build + ing + s，buil- 補 -dings。"
+   },
+   {
+    "word": "organized",
+    "pos": "v.",
+    "zh": "配置；組織",
+    "why": "were ___ around strict symmetry，被動語態「圍繞嚴格的對稱來配置」；organ + ize，orga- 補 -nized。"
+   },
+   {
+    "word": "strict",
+    "pos": "adj.",
+    "zh": "嚴格的",
+    "why": "___ symmetry，symmetry（對稱）即左右相同，後文 identical rooms 正是說明；str- 補 -ict。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "具有",
+    "why": "___ identical rooms arranged ...：with + 名詞 + p.p. 補充說明；wi- 補 -th。"
+   },
+   {
+    "word": "rooms",
+    "pos": "n.",
+    "zh": "房間",
+    "why": "identical ___「一模一樣的房間」；ro- 補 -oms。"
+   },
+   {
+    "word": "on",
+    "pos": "prep.",
+    "zh": "在",
+    "why": "___ either side 固定搭配；o- 補 -n。"
+   },
+   {
+    "word": "side",
+    "pos": "n.",
+    "zh": "側；邊",
+    "why": "either ___ of a central hall「中央大廳的兩側」，either 接單數名詞；si- 補 -de。"
+   },
+   {
+    "word": "central",
+    "pos": "adj.",
+    "zh": "中央的",
+    "why": "a ___ hall，對稱的中軸；center → central，cen- 補 -tral。"
+   },
+   {
+    "word": "Many",
+    "pos": "pron.",
+    "zh": "許多（建築）",
+    "why": "句首 ___ featured a portico，代替 many of his villas；Ma- 補 -ny。"
+   },
+   {
+    "word": "portico",
+    "pos": "n.",
+    "zh": "柱廊式門廊",
+    "why": "featured a ___ resembling the front of an ancient temple，有柱子與三角楣（pediment）的入口門廊；por- 補 -tico。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-19",
+  "blanks": [
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在……中",
+    "why": "A movement ___ this form「以此曲式寫的樂章」；i- 補 -n。"
+   },
+   {
+    "word": "form",
+    "pos": "n.",
+    "zh": "曲式",
+    "why": "this ___ 指首句的 sonata form（奏鳴曲式）；fo- 補 -rm。"
+   },
+   {
+    "word": "with",
+    "pos": "prep.",
+    "zh": "以",
+    "why": "begins ___ an exposition：begin with「以……開始」；wi- 補 -th。"
+   },
+   {
+    "word": "exposition",
+    "pos": "n.",
+    "zh": "呈示部",
+    "why": "which introduces two themes：樂章開頭「展示」主題的段落；expose → exposition，expos- 補 -ition，字尾 -tion。"
+   },
+   {
+    "word": "introduces",
+    "pos": "v.",
+    "zh": "引入",
+    "why": "which ___ two themes，先行詞 exposition 單數，動詞加 -s；intro- 補 -duces。"
+   },
+   {
+    "word": "contrasting",
+    "pos": "adj.",
+    "zh": "對比的",
+    "why": "two ___ themes in different keys「兩個性格對比的主題」；contrast + ing，contr- 補 -asting。"
+   },
+   {
+    "word": "in",
+    "pos": "prep.",
+    "zh": "在（某調）",
+    "why": "themes ___ different keys；i- 補 -n。"
+   },
+   {
+    "word": "keys",
+    "pos": "n.",
+    "zh": "調性",
+    "why": "different ___：音樂術語「調」，後文 distant keys、home key 都是同義；ke- 補 -ys。"
+   },
+   {
+    "word": "comes",
+    "pos": "v.",
+    "zh": "來到",
+    "why": "Next ___ the development：倒裝句，真正主詞 the development 單數；co- 補 -mes。"
+   },
+   {
+    "word": "development",
+    "pos": "n.",
+    "zh": "發展部",
+    "why": "composer fragments and transforms this material：把主題拆解變化的段落；develop → development，devel- 補 -opment，develop 後不加 e。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-20",
+  "blanks": [
+   {
+    "word": "tuned",
+    "pos": "v.",
+    "zh": "調音（過去分詞）",
+    "why": "Intervals ___ to perfectly pure ratios：過去分詞片語修飾 intervals；tune + d，tu- 補 -ned。"
+   },
+   {
+    "word": "perfectly",
+    "pos": "adv.",
+    "zh": "完全地",
+    "why": "___ pure ratios，副詞修飾形容詞 pure；perfect + ly，perf- 補 -ectly。"
+   },
+   {
+    "word": "ratios",
+    "pos": "n.",
+    "zh": "比例",
+    "why": "pure ___：純律以簡單的頻率「比」調音；ratio 複數直接加 -s，rat- 補 -ios。"
+   },
+   {
+    "word": "not",
+    "pos": "adv.",
+    "zh": "不",
+    "why": "do ___ fit together，否定；n- 補 -ot。"
+   },
+   {
+    "word": "together",
+    "pos": "adv.",
+    "zh": "一起",
+    "why": "fit ___ evenly「無法均勻地湊在一起」；toge- 補 -ther。"
+   },
+   {
+    "word": "so",
+    "pos": "conj.",
+    "zh": "因此",
+    "why": "表結果的連接詞，「所以」調準一個調時遠系調就走音；s- 補 -o。"
+   },
+   {
+    "word": "instrument",
+    "pos": "n.",
+    "zh": "樂器",
+    "why": "an ___ tuned purely，呼應首句 keyboard instrument；instr- 補 -ument。"
+   },
+   {
+    "word": "purely",
+    "pos": "adv.",
+    "zh": "純粹地",
+    "why": "tuned ___ in one key；pure + ly 保留 e，pur- 補 -ely。"
+   },
+   {
+    "word": "one",
+    "pos": "num.",
+    "zh": "一個",
+    "why": "in ___ key，與後面 distant keys 對比；o- 補 -ne。"
+   },
+   {
+    "word": "sounds",
+    "pos": "v.",
+    "zh": "聽起來",
+    "why": "an instrument ... ___ out of tune，連綴動詞，主詞單數加 -s；sou- 補 -nds。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-21",
+  "blanks": [
+   {
+    "word": "companies",
+    "pos": "n.",
+    "zh": "劇團",
+    "why": "Traveling ___「巡迴劇團」，company 在戲劇中指「劇團」而非公司；y 變 ies，comp- 補 -anies。"
+   },
+   {
+    "word": "without",
+    "pos": "prep.",
+    "zh": "沒有",
+    "why": "performed ___ complete scripts，與後面 relying instead on a brief scenario 呼應；wit- 補 -hout。"
+   },
+   {
+    "word": "scripts",
+    "pos": "n.",
+    "zh": "劇本",
+    "why": "complete ___「完整的劇本」；scr- 補 -ipts。"
+   },
+   {
+    "word": "instead",
+    "pos": "adv.",
+    "zh": "反而；改為",
+    "why": "relying ___ on ...「轉而依靠」；ins- 補 -tead，ea 發 /ɛ/。"
+   },
+   {
+    "word": "brief",
+    "pos": "adj.",
+    "zh": "簡短的",
+    "why": "a ___ scenario that outlined the plot：只「概述」劇情，所以是簡短的；br- 補 -ief，i 在 e 前。"
+   },
+   {
+    "word": "that",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "scenario ___ outlined the plot；th- 補 -at。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "outlined ___ plot；t- 補 -he。"
+   },
+   {
+    "word": "Each",
+    "pos": "det.",
+    "zh": "每個",
+    "why": "___ actor specialized，接單數名詞；Ea- 補 -ch。"
+   },
+   {
+    "word": "specialized",
+    "pos": "v.",
+    "zh": "專精於",
+    "why": "specialize in「專門演……」；special + ize，speci- 補 -alized。"
+   },
+   {
+    "word": "single",
+    "pos": "adj.",
+    "zh": "單一的",
+    "why": "in a ___ stock character「單一個定型角色」（stock character 指固定類型人物）；sin- 補 -gle。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-22",
+  "blanks": [
+   {
+    "word": "famous",
+    "pos": "adj.",
+    "zh": "著名的",
+    "why": "In a ___ experiment「一個有名的實驗」；fame 去 e 加 -ous，fam- 補 -ous。"
+   },
+   {
+    "word": "he",
+    "pos": "pron.",
+    "zh": "他",
+    "why": "主詞指首句的 Lev Kuleshov；h- 補 -e。"
+   },
+   {
+    "word": "audiences",
+    "pos": "n.",
+    "zh": "觀眾",
+    "why": "showed ___ the same face「給觀眾看」；audi- 補 -ences，字尾 -ence 不是 -ance。"
+   },
+   {
+    "word": "same",
+    "pos": "adj.",
+    "zh": "同樣的",
+    "why": "the ___ expressionless face，後文 his expression never changed 呼應；sa- 補 -me。"
+   },
+   {
+    "word": "face",
+    "pos": "n.",
+    "zh": "臉",
+    "why": "expressionless ___「面無表情的臉」；fa- 補 -ce。"
+   },
+   {
+    "word": "an",
+    "pos": "art.",
+    "zh": "一個",
+    "why": "of ___ actor，母音開頭用 an；a- 補 -n。"
+   },
+   {
+    "word": "alternating",
+    "pos": "v.",
+    "zh": "交替（分詞）",
+    "why": "___ with different shots「與不同鏡頭交替剪接」，即 montage（蒙太奇）的基礎；alternate 去 e 加 -ing，alter- 補 -nating。"
+   },
+   {
+    "word": "different",
+    "pos": "adj.",
+    "zh": "不同的",
+    "why": "___ shots，與 the same face 對比；diff- 雙寫 f，補 -erent，字尾 -ent。"
+   },
+   {
+    "word": "such",
+    "pos": "adj.",
+    "zh": "（such as 例如）",
+    "why": "___ as a bowl of soup，舉例；su- 補 -ch。"
+   },
+   {
+    "word": "bowl",
+    "pos": "n.",
+    "zh": "碗",
+    "why": "a ___ of soup「一碗湯」，對應下文觀眾讀出 hunger；bo- 補 -wl。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-23",
+  "blanks": [
+   {
+    "word": "narrator",
+    "pos": "n.",
+    "zh": "敘事者",
+    "why": "Such a ___ 重提首句 unreliable narrator；narrate → narrator → narrative，雙寫 r，narr- 補 -ator，字尾 -or。"
+   },
+   {
+    "word": "be",
+    "pos": "v.",
+    "zh": "是",
+    "why": "may ___ naive，情態助動詞後用原形；b- 補 -e。"
+   },
+   {
+    "word": "deceptive",
+    "pos": "adj.",
+    "zh": "欺騙的",
+    "why": "naive, ___, or blinded：三個形容詞並列；deceive → deception → deceptive，dece- 補 -ptive。"
+   },
+   {
+    "word": "blinded",
+    "pos": "adj.",
+    "zh": "被蒙蔽的",
+    "why": "___ by pride「被驕傲蒙蔽」；blind + ed，bli- 補 -nded。"
+   },
+   {
+    "word": "pride",
+    "pos": "n.",
+    "zh": "驕傲",
+    "why": "blinded by ___；proud（形）→ pride（名），pr- 補 -ide。"
+   },
+   {
+    "word": "detect",
+    "pos": "v.",
+    "zh": "察覺",
+    "why": "Readers ___ this unreliability through inconsistencies；detective 同字根，det- 補 -ect。"
+   },
+   {
+    "word": "unreliability",
+    "pos": "n.",
+    "zh": "不可靠",
+    "why": "this ___ 對應首句 unreliable narrator；un + rely + able + ity，y 變 i，unreli- 補 -ability。"
+   },
+   {
+    "word": "inconsistencies",
+    "pos": "n.",
+    "zh": "前後矛盾之處",
+    "why": "through ___ between what the narrator claims and what others say：說法「不一致」；consistent → consistency，y 變 ies，inconsi- 補 -stencies，是 -ency 不是 -ancy。"
+   },
+   {
+    "word": "what",
+    "pos": "pron.",
+    "zh": "……的事",
+    "why": "between ___ the narrator claims and what other characters say，名詞子句；wh- 補 -at。"
+   },
+   {
+    "word": "narrator",
+    "pos": "n.",
+    "zh": "敘事者",
+    "why": "the ___ claims：claims 加 s 表單數主詞，第二次出現的 narrator；常見錯拼 narrater，記得 -or。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-24",
+  "blanks": [
+   {
+    "word": "technique",
+    "pos": "n.",
+    "zh": "技巧；手法",
+    "why": "Their ___, known as stream of consciousness：寫作「技法」；來自法文，tech- 補 -nique，-que 發 /k/。"
+   },
+   {
+    "word": "as",
+    "pos": "prep.",
+    "zh": "稱為",
+    "why": "known ___ ...：be known as「被稱為」；a- 補 -s。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "stream ___ consciousness「意識流」；o- 補 -f。"
+   },
+   {
+    "word": "imitates",
+    "pos": "v.",
+    "zh": "模仿",
+    "why": "主詞 Their technique 單數，___ the flow of thoughts；imitate → imitation，imit- 補 -ates。"
+   },
+   {
+    "word": "continuous",
+    "pos": "adj.",
+    "zh": "連續不斷的",
+    "why": "the ___ and often disorderly flow：stream（流）提示「不間斷」；continue → continuous，conti- 補 -nuous。"
+   },
+   {
+    "word": "often",
+    "pos": "adv.",
+    "zh": "常常",
+    "why": "and ___ disorderly「也常常雜亂」；of- 補 -ten。"
+   },
+   {
+    "word": "flow",
+    "pos": "n.",
+    "zh": "流動",
+    "why": "the ... ___ of thoughts，呼應 stream 的意象；fl- 補 -ow。"
+   },
+   {
+    "word": "thoughts",
+    "pos": "n.",
+    "zh": "思緒",
+    "why": "flow of ___, memories, and sensations；thou- 補 -ghts，gh 不發音。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "thoughts, memories, ___ sensations 三項列舉；a- 補 -nd。"
+   },
+   {
+    "word": "Instead",
+    "pos": "adv.",
+    "zh": "（instead of 而不是）",
+    "why": "___ of describing a mind from the outside，與後面 follows associations 對照；Ins- 補 -tead。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-25",
+  "blanks": [
+   {
+    "word": "this",
+    "pos": "det.",
+    "zh": "這個",
+    "why": "During ___ period 指首句的十五到十八世紀；th- 補 -is。"
+   },
+   {
+    "word": "most",
+    "pos": "det.",
+    "zh": "大多數",
+    "why": "___ long vowels，修飾複數名詞；mo- 補 -st。"
+   },
+   {
+    "word": "vowels",
+    "pos": "n.",
+    "zh": "母音",
+    "why": "long ___ 呼應首句 Great Vowel Shift；vow- 補 -els。"
+   },
+   {
+    "word": "pronounced",
+    "pos": "v.",
+    "zh": "發音（被動）",
+    "why": "were ___ higher in the mouth；pronounce + d，prono- 補 -unced。注意名詞 pronunciation 沒有 o。"
+   },
+   {
+    "word": "higher",
+    "pos": "adj.",
+    "zh": "更高的",
+    "why": "progressively ___ in the mouth：舌位逐步升高；hig- 補 -her。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "in ___ mouth；t- 補 -he。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "而且",
+    "why": "連接 most long vowels were pronounced higher 與 the highest ones became diphthongs 兩個子句；a- 補 -nd。"
+   },
+   {
+    "word": "highest",
+    "pos": "adj.",
+    "zh": "最高的",
+    "why": "the ___ ones became diphthongs：已經最高的母音無法再升，只好變成雙母音；hig- 補 -hest。"
+   },
+   {
+    "word": "became",
+    "pos": "v.",
+    "zh": "變成",
+    "why": "the highest ones ___ diphthongs（雙母音），過去式；bec- 補 -ame。"
+   },
+   {
+    "word": "For",
+    "pos": "prep.",
+    "zh": "（For instance 例如）",
+    "why": "___ instance 固定片語，引出 bite、house 的例子；F- 補 -or。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-26",
+  "blanks": [
+   {
+    "word": "most",
+    "pos": "det.",
+    "zh": "大多數",
+    "why": "Meanwhile, ___ ordinary people continued speaking English，與宮廷貴族說法語對照；mo- 補 -st。"
+   },
+   {
+    "word": "people",
+    "pos": "n.",
+    "zh": "人們",
+    "why": "ordinary ___「一般平民」；peo- 補 -ple，注意 eo。"
+   },
+   {
+    "word": "speaking",
+    "pos": "v.",
+    "zh": "說（動名詞）",
+    "why": "continued ___ English：continue + V-ing；spea- 補 -king。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "而且",
+    "why": "連接「平民繼續說英語」與「法語字逐漸進入英語」兩個子句；a- 補 -nd。"
+   },
+   {
+    "word": "of",
+    "pos": "prep.",
+    "zh": "……的",
+    "why": "thousands ___ French words「數以千計的法語字」；o- 補 -f。"
+   },
+   {
+    "word": "words",
+    "pos": "n.",
+    "zh": "字",
+    "why": "French ___ gradually entered their vocabulary；wo- 補 -rds。"
+   },
+   {
+    "word": "entered",
+    "pos": "v.",
+    "zh": "進入",
+    "why": "words ___ their vocabulary「進入詞彙」；enter 重音在前，不雙寫 r，ent- 補 -ered。"
+   },
+   {
+    "word": "vocabulary",
+    "pos": "n.",
+    "zh": "詞彙",
+    "why": "entered their ___；vocab- 補 -ulary，字尾 -ary 不是 -ery。"
+   },
+   {
+    "word": "contact",
+    "pos": "n.",
+    "zh": "接觸",
+    "why": "This ___ 指法語與英語兩種語言的「接觸」（language contact）；con- 補 -tact。"
+   },
+   {
+    "word": "famous",
+    "pos": "adj.",
+    "zh": "著名的",
+    "why": "explains a ___ contrast：後面 cow／beef 的對比是教科書常見例子；fam- 補 -ous，-ous 形容詞字尾。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-27",
+  "blanks": [
+   {
+    "word": "research",
+    "pos": "n.",
+    "zh": "研究",
+    "why": "Linguistic ___ in the nineteen sixties，不可數名詞；rese- 補 -arch。"
+   },
+   {
+    "word": "the",
+    "pos": "art.",
+    "zh": "定冠詞",
+    "why": "in ___ nineteen sixties，年代前加 the；t- 補 -he。"
+   },
+   {
+    "word": "sixties",
+    "pos": "n.",
+    "zh": "六○年代",
+    "why": "nineteen ___「一九六○年代」；six- 補 -ties。"
+   },
+   {
+    "word": "demonstrated",
+    "pos": "v.",
+    "zh": "證明",
+    "why": "research ___ that ...「證明了」；demonstrate → demonstration，demons- 補 -trated。"
+   },
+   {
+    "word": "American",
+    "pos": "adj.",
+    "zh": "美國的",
+    "why": "___ Sign Language（ASL，美國手語），專有名詞大寫；Amer- 補 -ican。"
+   },
+   {
+    "word": "Language",
+    "pos": "n.",
+    "zh": "語言",
+    "why": "Sign ___ 專有名詞大寫；Lang- 補 -uage，u 在 a 前，別寫成 -auge。"
+   },
+   {
+    "word": "complex",
+    "pos": "adj.",
+    "zh": "複雜的",
+    "why": "a ___ grammar，推翻首句 simple systems of gesture 的看法；com- 補 -plex。"
+   },
+   {
+    "word": "Researchers",
+    "pos": "n.",
+    "zh": "研究者",
+    "why": "句首主詞，showed 的施事者；research + er，Resea- 補 -rchers。"
+   },
+   {
+    "word": "that",
+    "pos": "conj.",
+    "zh": "（引導名詞子句）",
+    "why": "showed ___ signs are composed；th- 補 -at。"
+   },
+   {
+    "word": "are",
+    "pos": "v.",
+    "zh": "是（被動）",
+    "why": "signs ___ composed of smaller units，複數主詞；be composed of「由……組成」；a- 補 -re。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-28",
+  "blanks": [
+   {
+    "word": "proposed",
+    "pos": "v.",
+    "zh": "提出；主張",
+    "why": "Bentham ___ that ...，後接 that 子句的過去式動詞；propose → proposal，prop- 補 -osed。"
+   },
+   {
+    "word": "pleasures",
+    "pos": "n.",
+    "zh": "快樂",
+    "why": "___ and pains「快樂與痛苦」，呼應首句 greatest happiness；please → pleasure，plea- 補 -sures。"
+   },
+   {
+    "word": "pains",
+    "pos": "n.",
+    "zh": "痛苦",
+    "why": "pleasures and ___ 反義並列；pa- 補 -ins。"
+   },
+   {
+    "word": "be",
+    "pos": "v.",
+    "zh": "被",
+    "why": "could ___ measured，被動語態；b- 補 -e。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "measured ___ compared；a- 補 -nd。"
+   },
+   {
+    "word": "much",
+    "pos": "adv.",
+    "zh": "很（much like 非常像）",
+    "why": "___ like quantities「就像數量一樣」；mu- 補 -ch。"
+   },
+   {
+    "word": "quantities",
+    "pos": "n.",
+    "zh": "數量",
+    "why": "like ___ in arithmetic：可加減比較的「量」，呼應 measured；quantity 的 y 變 ies，quant- 補 -ities。"
+   },
+   {
+    "word": "arithmetic",
+    "pos": "n.",
+    "zh": "算術",
+    "why": "quantities in ___「算術裡的數量」；arith- 補 -metic，常見錯拼 arithmatic。"
+   },
+   {
+    "word": "successor",
+    "pos": "n.",
+    "zh": "繼承者",
+    "why": "His ___, the philosopher John Stuart Mill：接續 Bentham 學說的人；succeed → succession → successor，雙 c 雙 s，succ- 補 -essor，字尾 -or。"
+   },
+   {
+    "word": "philosopher",
+    "pos": "n.",
+    "zh": "哲學家",
+    "why": "the ___ John Stuart Mill 同位語；philosophy → philosopher，philo- 補 -sopher，ph 發 /f/。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-29",
+  "blanks": [
+   {
+    "word": "distinguished",
+    "pos": "v.",
+    "zh": "區分",
+    "why": "He ___ A from B：distinguish A from B「區分 A 與 B」；distin- 補 -guished，注意 gu。"
+   },
+   {
+    "word": "imperatives",
+    "pos": "n.",
+    "zh": "令式；命令",
+    "why": "hypothetical ___「假言令式」，依個人目標而定的規則；imperative 也是祈使句，imper- 補 -atives。"
+   },
+   {
+    "word": "depend",
+    "pos": "v.",
+    "zh": "取決於",
+    "why": "which ___ on personal goals，先行詞 imperatives 複數用原形；dep- 補 -end。"
+   },
+   {
+    "word": "personal",
+    "pos": "adj.",
+    "zh": "個人的",
+    "why": "___ goals；person → personal，pers- 補 -onal（personnel 是「人事」）。"
+   },
+   {
+    "word": "from",
+    "pos": "prep.",
+    "zh": "與（區分）",
+    "why": "distinguished hypothetical imperatives ___ the categorical imperative 的 from；fr- 補 -om。"
+   },
+   {
+    "word": "categorical",
+    "pos": "adj.",
+    "zh": "定言的；無條件的",
+    "why": "the ___ imperative「定言令式」，與 hypothetical（假言）相對；category → categorical，categ- 補 -orical。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "imperative, ___ applies to every rational being；wh- 補 -ich。"
+   },
+   {
+    "word": "to",
+    "pos": "prep.",
+    "zh": "對於",
+    "why": "applies ___ every rational being：apply to「適用於」；t- 補 -o。"
+   },
+   {
+    "word": "rational",
+    "pos": "adj.",
+    "zh": "理性的",
+    "why": "every ___ being「每個理性存在者」，呼應首句 reason；ration → rational，rati- 補 -onal。"
+   },
+   {
+    "word": "unconditionally",
+    "pos": "adv.",
+    "zh": "無條件地",
+    "why": "applies ... ___，與 hypothetical（有條件）相對；un + condition + al + ly，uncondi- 補 -tionally，注意 -ally 雙 l。"
+   }
+  ]
+ },
+ {
+  "id": "ct5-30",
+  "blanks": [
+   {
+    "word": "imagined",
+    "pos": "v.",
+    "zh": "設想",
+    "why": "Hobbes ___ a condition without government；imagine + d，imag- 補 -ined。"
+   },
+   {
+    "word": "without",
+    "pos": "prep.",
+    "zh": "沒有",
+    "why": "a condition ___ government「沒有政府的狀態」；wit- 補 -hout。"
+   },
+   {
+    "word": "which",
+    "pos": "pron.",
+    "zh": "（關係代名詞）",
+    "why": "government, ___ he called ...：指前面描述的整個狀態；wh- 補 -ich。"
+   },
+   {
+    "word": "called",
+    "pos": "v.",
+    "zh": "稱作",
+    "why": "he ___ the state of nature：call A B「把 A 稱為 B」；cal- 補 -led，雙寫 l。"
+   },
+   {
+    "word": "state",
+    "pos": "n.",
+    "zh": "狀態",
+    "why": "the ___ of nature「自然狀態」，政治哲學術語，指沒有政府的處境；st- 補 -ate。"
+   },
+   {
+    "word": "nature",
+    "pos": "n.",
+    "zh": "自然",
+    "why": "state of ___；nat- 補 -ure，natural 同字族。"
+   },
+   {
+    "word": "life",
+    "pos": "n.",
+    "zh": "生活",
+    "why": "where ___ would be insecure「在那裡生活將不安全」；li- 補 -fe。"
+   },
+   {
+    "word": "be",
+    "pos": "v.",
+    "zh": "是",
+    "why": "would ___ insecure，助動詞後原形；b- 補 -e。"
+   },
+   {
+    "word": "and",
+    "pos": "conj.",
+    "zh": "和",
+    "why": "insecure ___ violent 兩個形容詞並列；a- 補 -nd。"
+   },
+   {
+    "word": "To",
+    "pos": "prep.",
+    "zh": "（不定詞，表目的）",
+    "why": "句首 ___ escape this condition「為了逃離這種狀態」；T- 補 -o。"
+   }
+  ]
+ }
+]

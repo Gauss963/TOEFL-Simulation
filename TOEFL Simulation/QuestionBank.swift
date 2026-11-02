@@ -293,6 +293,9 @@ enum TOEFLQuestionBank {
             if question.taskType == .completeWords, question.wordGloss == nil || question.blankReason == nil || question.partOfSpeech == nil {
                 issues.append("\(question.id) has no study notes.")
             }
+            if question.taskType == .completeWords, !["humanities", "history", "earth", "life", "physical", "social"].contains(question.field ?? "") {
+                issues.append("\(question.id) has no subject area.")
+            }
             if question.taskType == .buildSentence {
                 let blanks = (question.sentenceTemplate ?? "").components(separatedBy: "___").count - 1
                 if blanks != question.correctSentenceTokens.count { issues.append("\(question.id) blank count mismatch.") }
