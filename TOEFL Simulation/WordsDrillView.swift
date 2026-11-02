@@ -582,11 +582,11 @@ struct WordsDrillView: View {
 
     private var reviewList: some View {
         VStack(alignment: .leading, spacing: 10) {
-            Text("Words to review").font(.headline)
-            Text("Words you missed, most frequent first. Select one to open the attempt where you missed it. A word leaves the list after you get it right twice.")
+            Text("Words to review (\(store.wordsToReview.count))").font(.headline)
+            Text("All the words you missed, most frequent first. Select one to open the attempt where you missed it. A word leaves the list after you get it right twice.")
                 .font(.caption).foregroundStyle(.secondary)
             LazyVGrid(columns: [GridItem(.adaptive(minimum: 220), spacing: 10)], alignment: .leading, spacing: 10) {
-                ForEach(store.wordsToReview.prefix(24)) { entry in
+                ForEach(store.wordsToReview) { entry in
                     let miss = store.latestMiss(of: entry.word)
                     Button { reviewing = miss } label: {
                         VStack(alignment: .leading, spacing: 2) {
