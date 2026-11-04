@@ -5,8 +5,8 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
 ## Features
 
 - Full-length 2026 sequence: Reading → Listening → Writing → Speaking, with the official item counts on every path (50 / 47 / 12 / 11) and base timing (30 / 29 / 23 / 8 minutes)
-- **Two-stage adaptive Reading and Listening** that follows the ETS technical manual: a router module and a lower or upper second module with 35 scored items per path, plus unscored pretest items (15 in Reading, 12 in Listening) placed inside the modules just like the real test
-- **Real-test timing and navigation**: Reading Module 1 (35 items, 21 min, holding all 15 unscored items) and Module 2 (15 items, 9 min), as on the live test with Next/Back inside a module; Listening Module 1 (18 min) and Module 2 (11 min), Next only, each recording played once; Writing task clocks (Build a Sentence 6 min, Email 7 min, Academic Discussion 10 min); Speaking paced automatically with no preparation time
+- **Two-stage adaptive Reading and Listening** that follows the ETS technical manual: a router module and a lower or upper second module with 35 scored items per path, plus unscored tryout items (15 in Reading, 12 in Listening) placed in Module 1, the router, as the technical manual describes
+- **Real-test timing and navigation**: Reading Module 1 (35 items, 21 min, holding all 15 unscored items) and Module 2 (15 items, 9 min), as on the live test with Next/Back inside a module; Listening Module 1 (32 items, 18 min, holding all 12 unscored items) and Module 2 (15 items; 7 min lower, 11 min upper), Next only, each recording played once; Writing task clocks (Build a Sentence 6 min, Email 7 min, Academic Discussion 10 min); Speaking paced automatically with no preparation time
 - Task formats matched to the official specifications:
   - **Complete the Words**: 70–100-word academic paragraphs with an intact first sentence and the second half of every second word removed (10 blanks), answered inline
 - **Writing Guide**: a sidebar page for Write an Email, Academic Discussion, and Build a Sentence with the task format, a step-by-step structure, fill-in templates, time plans, greetings and sign-offs by relationship, opening lines by purpose, phrase banks (requests, reasons, alternatives, declining, apologizing, complaining, engaging classmates, adding a new reason), a politeness ladder, common mistakes with corrections, pre-submit checklists, and annotated model answers from the bank (each email paragraph labeled by its role and the required point it answers; classmate references and signal phrases highlighted in discussion responses); explanations in Traditional Chinese
@@ -39,11 +39,11 @@ ETS combines proprietary AI scoring engines with certified human raters and equa
 | Section | Module / task timing | Items (scored) |
 | --- | --- | ---: |
 | Reading | Module 1: 21 min · Module 2: 9 min | 50 (35) |
-| Listening | Module 1: 18 min · Module 2: 11 min | 47 (35) |
+| Listening | Module 1: 18 min · Module 2: 7 min (lower) / 11 min (upper) | 47 (35) |
 | Writing | Build a Sentence 6 min · Email 7 min · Discussion 10 min | 12 |
 | Speaking | Listen and Repeat 7 × 8–12 s · Interview 4 × 45 s | 11 |
 
-Scored counts per module follow the ETS technical manual (Reading router 20 + module 15; Listening router 20 + module 15). ETS does not publish where unscored items appear, so the simulator places them inside the task blocks so that every path matches the published totals for each task type.
+Scored counts per module follow the ETS technical manual (RR-25-12, Table 1: Reading router 20 + module 15; Listening router 20 + module 15). The manual says the router module may include unscored tryout questions (Reading 15, Listening 12) while noting that any module may contain them; the blueprint's second-module timings (Reading 9 min; Listening 7 min lower, 11 min upper) and per-task item ranges fit only scored items there, and a November 2026 test taker saw Reading as 35 + 15. The simulator therefore places all unscored items in Module 1 (Reading 35 + 15, Listening 32 + 15), and every path matches the blueprint's per-task ranges (e.g. Listening: Choose a Response 15–19, conversations 10, announcements 6–10, academic talks 8–16).
 
 See [SOURCES.md](SOURCES.md) for the official standard and authorized reference inventory.
 

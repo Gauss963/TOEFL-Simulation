@@ -252,7 +252,7 @@ enum ExamMode: String, Codable, CaseIterable, Identifiable {
         switch self {
         case .fullLength: "Reading → Listening → Writing → Speaking · 120 items · about 90 min"
         case .readingPractice: "50 items · 30 min · two adaptive modules"
-        case .listeningPractice: "47 items · 29 min · two adaptive modules"
+        case .listeningPractice: "47 items · 25–29 min · two adaptive modules"
         case .writingPractice: "12 items · 23 min · three timed tasks"
         case .speakingPractice: "11 items · about 8 min · automatic timing"
         }
@@ -292,7 +292,8 @@ struct TOEFLExamSection: Identifiable {
         case .reading, .listening:
             let router = routerCount ?? questions.count
             let first = kind == .reading ? 21 * 60 : 18 * 60
-            let second = kind == .reading ? 9 * 60 : 11 * 60
+            // Blueprint: Reading Module 2 is 9 min; Listening Module 2 is 7 min (lower) or 11 min (upper).
+            let second = kind == .reading ? 9 * 60 : (route == .upper ? 11 * 60 : 7 * 60)
             var parts = [TOEFLTimedPart(title: "Module 1", range: 0..<router, seconds: first, allowsBack: kind == .reading)]
             if router < questions.count {
                 parts.append(TOEFLTimedPart(title: "Module 2", range: router..<questions.count, seconds: second, allowsBack: kind == .reading))

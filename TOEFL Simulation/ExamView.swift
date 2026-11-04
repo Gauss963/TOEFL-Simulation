@@ -138,7 +138,7 @@ struct TOEFLExamContainerView: View {
         case .reading:
             "Module 1 has 21 minutes and Module 2 has 9 minutes. Use Next and Back to move within a module. Your Module 1 performance determines Module 2, and you cannot return to Module 1. Some items are unscored."
         case .listening:
-            "Module 1 has 18 minutes and Module 2 has 11 minutes; the clock pauses while recordings play. Each recording plays only once. You can take notes. You cannot return to previous questions. Some items are unscored."
+            "Module 1 has 18 minutes; Module 2 has 7 minutes on the lower path or 11 minutes on the upper path. The clock pauses while recordings play. Each recording plays only once. You can take notes. You cannot return to previous questions. Some items are unscored."
         case .writing:
             "Build a Sentence has 6 minutes, the email 7 minutes, and the academic discussion 10 minutes. Each task ends when its clock runs out."
         case .speaking:

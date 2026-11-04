@@ -60,8 +60,11 @@ enum TOEFLQuestionBank {
 
     private static func plan(for kind: TOEFLSectionKind, stage: Stage) -> [Draw] {
         switch (kind, stage) {
-        // Live tests put all 15 unscored Reading items in Module 1 (35 items) and give a 15-item
-        // Module 2, as reported by a test taker in November 2026.
+        // Unscored items sit in the router (Module 1): the technical manual (RR-25-12, II-7) says the
+        // router module may include unscored tryout questions (Reading 15, Listening 12), and the
+        // blueprint's second-module timings (Reading 9 min; Listening 7 min lower, 11 min upper) and
+        // per-task item ranges only fit 15 scored items there. A November 2026 test taker saw
+        // Reading as 35 + 15.
         case (.reading, .router):
             return [
                 Draw(.completeWords, sets: 1), Draw(.completeWords, sets: 1, unscored: true),
@@ -82,22 +85,20 @@ enum TOEFLQuestionBank {
             return [
                 Draw(.listenChooseResponse, sets: 8), Draw(.listenChooseResponse, sets: 4, unscored: true),
                 Draw(.listenConversation, sets: 2), Draw(.listenConversation, sets: 1, unscored: true),
-                Draw(.listenAnnouncement, sets: 2),
-                Draw(.listenAcademicTalk, sets: 1)
+                Draw(.listenAnnouncement, sets: 2), Draw(.listenAnnouncement, sets: 1, unscored: true),
+                Draw(.listenAcademicTalk, sets: 1), Draw(.listenAcademicTalk, sets: 1, unscored: true)
             ]
         case (.listening, .lower):
             return [
                 Draw(.listenChooseResponse, sets: 7),
                 Draw(.listenConversation, sets: 2),
-                Draw(.listenAnnouncement, sets: 2), Draw(.listenAnnouncement, sets: 1, unscored: true),
-                Draw(.listenAcademicTalk, sets: 1, unscored: true)
+                Draw(.listenAnnouncement, sets: 2)
             ]
         case (.listening, .upper):
             return [
                 Draw(.listenChooseResponse, sets: 3),
                 Draw(.listenConversation, sets: 2),
-                Draw(.listenAnnouncement, sets: 1, unscored: true),
-                Draw(.listenAcademicTalk, sets: 2), Draw(.listenAcademicTalk, sets: 1, unscored: true)
+                Draw(.listenAcademicTalk, sets: 2)
             ]
         case (.writing, _):
             return [Draw(.buildSentence, sets: 10), Draw(.writeEmail, sets: 1), Draw(.academicDiscussion, sets: 1)]
@@ -316,8 +317,10 @@ enum TOEFLQuestionBank {
                     let scored = section.questions.filter(\.countsTowardScore).count
                     if section.questions.count != kind.officialItemCount { issues.append("\(kind.title) \(route) has \(section.questions.count) items.") }
                     if scored != 35 { issues.append("\(kind.title) \(route) has \(scored) scored items.") }
-                    if kind == .reading, router.count != 35 || section.questions.count - router.count != 15 {
-                        issues.append("Reading modules should be 35 + 15 items; found \(router.count) + \(section.questions.count - router.count).")
+                    let expectedRouter = kind == .reading ? 35 : 32
+                    if router.count != expectedRouter || section.questions.count - router.count != 15
+                        || section.questions.dropFirst(router.count).contains(where: { !$0.countsTowardScore }) {
+                        issues.append("\(kind.title) modules should be \(expectedRouter) + 15 scored items; found \(router.count) + \(section.questions.count - router.count).")
                     }
                     if Set(section.questions.map(\.id)).count != section.questions.count { issues.append("\(kind.title) \(route) repeats an item.") }
                 }
