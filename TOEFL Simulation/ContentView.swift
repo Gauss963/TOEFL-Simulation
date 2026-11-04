@@ -10,6 +10,7 @@ import SwiftUI
 enum TOEFLAppPage: String, CaseIterable, Identifiable {
     case dashboard
     case wordsDrill
+    case readingDrill
     case writingGuide
     case speakingGuide
     case study
@@ -21,6 +22,7 @@ enum TOEFLAppPage: String, CaseIterable, Identifiable {
         switch self {
         case .dashboard: "Practice Tests"
         case .wordsDrill: "Complete the Words"
+        case .readingDrill: "Reading Practice"
         case .writingGuide: "Writing Guide"
         case .speakingGuide: "Speaking Guide"
         case .study: "Vocabulary"
@@ -32,6 +34,7 @@ enum TOEFLAppPage: String, CaseIterable, Identifiable {
         switch self {
         case .dashboard: "rectangle.and.pencil.and.ellipsis"
         case .wordsDrill: "character.cursor.ibeam"
+        case .readingDrill: "book"
         case .writingGuide: "envelope.open"
         case .speakingGuide: "mic"
         case .study: "text.book.closed"
@@ -93,6 +96,7 @@ struct ContentView: View {
                 switch selection ?? .dashboard {
                 case .dashboard: DashboardView(history: history.results) { activeExamMode = $0 }
                 case .wordsDrill: WordsDrillView()
+                case .readingDrill: ReadingDrillView()
                 case .writingGuide: WritingGuideView { activeExamMode = $0 }
                 case .speakingGuide: SpeakingGuideView { activeExamMode = $0 }
                 case .study: VocabularyView()

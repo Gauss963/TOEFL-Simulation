@@ -60,21 +60,23 @@ enum TOEFLQuestionBank {
 
     private static func plan(for kind: TOEFLSectionKind, stage: Stage) -> [Draw] {
         switch (kind, stage) {
+        // Live tests put all 15 unscored Reading items in Module 1 (35 items) and give a 15-item
+        // Module 2, as reported by a test taker in November 2026.
         case (.reading, .router):
             return [
                 Draw(.completeWords, sets: 1), Draw(.completeWords, sets: 1, unscored: true),
                 Draw(.readDailyLife, sizes: [2, 3]),
-                Draw(.readAcademicPassage, sets: 1)
+                Draw(.readAcademicPassage, sets: 1), Draw(.readAcademicPassage, sets: 1, unscored: true)
             ]
         case (.reading, .lower):
             return [
                 Draw(.completeWords, sets: 1),
-                Draw(.readDailyLife, sizes: [2, 3]), Draw(.readDailyLife, sizes: [2, 3], unscored: true)
+                Draw(.readDailyLife, sizes: [2, 3])
             ]
         case (.reading, .upper):
             return [
                 Draw(.completeWords, sets: 1),
-                Draw(.readAcademicPassage, sets: 1), Draw(.readAcademicPassage, sets: 1, unscored: true)
+                Draw(.readAcademicPassage, sets: 1)
             ]
         case (.listening, .router):
             return [
@@ -293,6 +295,10 @@ enum TOEFLQuestionBank {
             if question.taskType == .completeWords, question.wordGloss == nil || question.blankReason == nil || question.partOfSpeech == nil {
                 issues.append("\(question.id) has no study notes.")
             }
+            if question.taskType == .readDailyLife || question.taskType == .readAcademicPassage,
+               ReadingQuestionType(rawValue: question.questionType ?? "") == nil {
+                issues.append("\(question.id) has no question type.")
+            }
             if question.taskType == .completeWords, !["humanities", "history", "earth", "life", "physical", "social"].contains(question.field ?? "") {
                 issues.append("\(question.id) has no subject area.")
             }
@@ -310,6 +316,9 @@ enum TOEFLQuestionBank {
                     let scored = section.questions.filter(\.countsTowardScore).count
                     if section.questions.count != kind.officialItemCount { issues.append("\(kind.title) \(route) has \(section.questions.count) items.") }
                     if scored != 35 { issues.append("\(kind.title) \(route) has \(scored) scored items.") }
+                    if kind == .reading, router.count != 35 || section.questions.count - router.count != 15 {
+                        issues.append("Reading modules should be 35 + 15 items; found \(router.count) + \(section.questions.count - router.count).")
+                    }
                     if Set(section.questions.map(\.id)).count != section.questions.count { issues.append("\(kind.title) \(route) repeats an item.") }
                 }
                 if !kind.isAdaptive, section.questions.count != kind.officialItemCount {

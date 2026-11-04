@@ -1,0 +1,1172 @@
+[
+ {
+  "id": "dl3-01",
+  "difficulty": "advanced",
+  "text_type": "email",
+  "title": "Study Abroad Deposit",
+  "text": "Subject: Your Summer in Lisbon deposit\n\nHi Arjun,\n\nWe received your $400 program deposit on March 3. Here is how it applies:\n\n• If you withdraw before April 1, $300 will be refunded; the other $100 is nonrefundable.\n• Withdrawals on or after April 1 forfeit the entire deposit.\n• Exception: if your student visa is denied, the full $400 is refunded at any time, provided you send us the denial letter within 10 days of receiving it.\n\nYour deposit will be credited toward the $3,200 program fee, and the balance is due May 15. Recipients of the Global Travel Grant may defer the balance until the grant is paid out, but they must notify our office by May 1.\n\nBest regards,\nOffice of International Programs",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Arjun's visa is denied on March 28. He withdraws from the program on April 4 and sends the denial letter on April 6. How much of his deposit will be refunded?",
+    "options": [
+     "$300",
+     "$100",
+     "Nothing",
+     "$400"
+    ],
+    "answer": 3,
+    "explanation": "The visa exception refunds the full $400 \"at any time\" if the denial letter arrives within 10 days; March 28 to April 6 is 9 days, so the April 1 forfeiture rule does not apply."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"defer\" in the email is closest in meaning to",
+    "options": [
+     "postpone",
+     "reduce",
+     "transfer",
+     "cancel"
+    ],
+    "answer": 0,
+    "explanation": "Grant recipients may defer the balance \"until the grant is paid out,\" meaning they may pay it later."
+   }
+  ]
+ },
+ {
+  "id": "dl3-02",
+  "difficulty": "advanced",
+  "text_type": "email_thread",
+  "title": "Splitting October Utilities",
+  "text": "From: Dana Ruiz\nTo: Leo Park, Mina Cho\nSubject: October utilities\n\nHi both, the October bill is $186: electricity $96 and internet $90. Mina moved in on October 16, so I suggest we prorate only her electricity share; she should pay half of a normal one-third share. Internet is a flat monthly rate we'd pay no matter who lives here, so we split that equally.\n\nFrom: Leo Park\nFair enough, but I was away October 1–20 and barely used any power. Shouldn't I get the same reduction?\n\nFrom: Dana Ruiz\nLeo, your space heater was on a timer the whole time you were gone, so you'll split the rest with me evenly. Mina, please send your share by November 10. After that, the landlord adds a $15 late fee, which all three of us would have to split.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "How much should Mina pay for October?",
+    "options": [
+     "$46",
+     "$62",
+     "$31",
+     "$48"
+    ],
+    "answer": 0,
+    "explanation": "Mina pays an equal third of the internet ($90 ÷ 3 = $30) plus half of a normal electricity third (½ × $96 ÷ 3 = $16), so $30 + $16 = $46."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about Dana's reply to Leo?",
+    "options": [
+     "She agrees to lower Leo's share of the internet instead.",
+     "She thinks Leo should pay less than Mina for electricity.",
+     "She expects Leo to pay any late fee by himself.",
+     "She believes Leo's room used power while he was away."
+    ],
+    "answer": 3,
+    "explanation": "Dana points out that Leo's heater ran on a timer the whole time, so she rejects his request for a reduced electricity share."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does Dana mention the landlord's $15 late fee?",
+    "options": [
+     "To explain why the October bill is higher than usual",
+     "To ask Leo to cover the fee because he was away",
+     "To show that the October bill has already been paid late",
+     "To stress that a late payment by Mina would cost everyone"
+    ],
+    "answer": 3,
+    "explanation": "Dana says the fee would be added after November 10 and that \"all three of us would have to split\" it, encouraging Mina to pay on time."
+   }
+  ]
+ },
+ {
+  "id": "dl3-03",
+  "difficulty": "advanced",
+  "text_type": "notice",
+  "title": "Harbor View Moving Reservations",
+  "text": "HARBOR VIEW APARTMENTS\nMoving Reservations — Summer Update\n\nThe freight elevator will be modernized from June 2 to June 13. During this period, moves are allowed only on Saturdays and Sundays, using the passenger elevator with protective padding.\n\nHow to reserve\n• Book through the resident portal at least 72 hours in advance.\n• Weekday slots (after June 13): 9 AM–5 PM, 3-hour limit.\n• Weekend slots: 4-hour limit and a $50 deposit, returned if the hallways are left undamaged.\n\nResidents who move without a reservation will be charged $200. This charge is waived for moves involving fewer than five boxes and no furniture.\n\nQuestions? Visit the management office in Room 101.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "A resident wants to move a sofa and 20 boxes on Wednesday, June 11. What is true?",
+    "options": [
+     "She may book a 3-hour slot from 9 AM to 5 PM.",
+     "She may move without booking if she pays $200.",
+     "She must pay a $50 deposit for the weekday slot.",
+     "The move cannot take place on that day."
+    ],
+    "answer": 3,
+    "explanation": "June 11 falls within the June 2–13 modernization, when moves are allowed only on Saturdays and Sundays; weekday slots begin after June 13."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"waived\" in the notice is closest in meaning to",
+    "options": [
+     "increased",
+     "delayed",
+     "not applied",
+     "divided"
+    ],
+    "answer": 2,
+    "explanation": "The $200 charge is waived for very small moves, meaning those residents are not charged it."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the $50 weekend payment?",
+    "options": [
+     "It replaces the $200 charge for moves without a reservation.",
+     "A resident who causes no hallway damage will get it back.",
+     "It is required only while the freight elevator is closed.",
+     "It pays for the padding placed in the passenger elevator."
+    ],
+    "answer": 1,
+    "explanation": "The $50 is a deposit \"returned if the hallways are left undamaged,\" so a careful mover ultimately pays nothing for it."
+   }
+  ]
+ },
+ {
+  "id": "dl3-04",
+  "difficulty": "advanced",
+  "text_type": "policy",
+  "title": "Equipment Loan Policy",
+  "text": "Media Library — Equipment Loan Policy\n\nLoan periods\n• Laptops: 3 days; one renewal allowed if no one is waiting\n• Cameras and tripods: 7 days; no renewals\n\nLate fines\n• Laptops: $5 per day; cameras: $10 per day; tripods: $2 per day\n• Fines begin the day after the due date and stop accruing once they reach the item's replacement cost, which is then billed to the student account.\n• Fines are cut in half if the item is returned within 48 hours of the due time and the borrower has no other late returns this semester.\n\nBorrowing privileges are suspended while any fine over $25 remains unpaid. Equipment cannot be returned through the book drop; check it in at the service desk.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Kenji's camera was due at noon on Monday. He checked it in at the service desk at 10 AM on Wednesday. It was his first late return this semester. How much does he owe?",
+    "options": [
+     "$20",
+     "$5",
+     "$10",
+     "$4"
+    ],
+    "answer": 2,
+    "explanation": "Fines run for Tuesday and Wednesday at $10 a day ($20), and because he returned it within 48 hours of the noon Monday due time with no other late returns, the fine is halved to $10."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the policy, which of the following is NOT true of laptops?",
+    "options": [
+     "They can be renewed once if no one is waiting.",
+     "They are fined $5 for each day they are late.",
+     "They are lent out for three days at a time.",
+     "They may be returned through the book drop."
+    ],
+    "answer": 3,
+    "explanation": "The policy says equipment \"cannot be returned through the book drop\"; the other statements are all listed for laptops."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"accruing\" in the policy is closest in meaning to",
+    "options": [
+     "being forgiven",
+     "accumulating",
+     "being reported",
+     "being divided"
+    ],
+    "answer": 1,
+    "explanation": "Fines \"stop accruing\" at the replacement cost, meaning they stop adding up once they reach that amount."
+   }
+  ]
+ },
+ {
+  "id": "dl3-05",
+  "difficulty": "advanced",
+  "text_type": "schedule",
+  "title": "Route 14 Holiday Service",
+  "text": "Metro Route 14 — Thanksgiving Week Service\n\nMon, Nov 24 – Wed, Nov 26: Weekday schedule (every 15 min, 6 AM–11 PM)\nThu, Nov 27 (Thanksgiving): Sunday schedule (every 40 min, 8 AM–8 PM)\nFri, Nov 28: Saturday schedule (every 20 min, 7 AM–10 PM)\nSat, Nov 29 – Sun, Nov 30: Regular weekend schedules\n\nExceptions\n• Buses skip the Airport Express stop whenever a Sunday schedule is in effect.\n• Wed, Nov 26: two extra late trips leave Central Station at 11:15 PM and 11:45 PM for holiday travelers.\n• Senior fares ($1) apply all week, except on Friday, when all riders travel free.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Omar, a senior, plans to ride Route 14 at 9:30 PM on Friday, November 28. What should he expect?",
+    "options": [
+     "He will not have to pay for the ride.",
+     "He will pay the $1 senior fare.",
+     "No bus will be running at that hour.",
+     "He may wait up to 40 minutes for a bus."
+    ],
+    "answer": 0,
+    "explanation": "Friday runs a Saturday schedule (7 AM–10 PM, every 20 minutes), so a 9:30 PM bus runs, and on Friday all riders travel free."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be concluded about Route 14 on Sunday, November 30?",
+    "options": [
+     "Buses will run every 20 minutes that day.",
+     "Buses will not stop at Airport Express.",
+     "The last bus will leave Central Station at 11:45 PM.",
+     "Seniors will ride without paying."
+    ],
+    "answer": 1,
+    "explanation": "Sunday, November 30 has its regular weekend schedule, which is a Sunday schedule, and the Airport Express stop is skipped whenever a Sunday schedule is in effect."
+   }
+  ]
+ },
+ {
+  "id": "dl3-06",
+  "difficulty": "advanced",
+  "text_type": "form_instructions",
+  "title": "Tuition Payment Plan",
+  "text": "Spring Tuition Payment Plan — Enrollment Instructions\n\n1. Log in to Student Accounts and select \"Payment Plan\" between December 1 and January 10.\n2. Choose four monthly installments (January–April) or three (February–April). The three-installment option is available only to students who enroll after January 5.\n3. Pay the $40 enrollment fee at sign-up. The fee is waived for students receiving need-based aid.\n4. Installments are drafted automatically on the 15th of each month. A failed payment results in a $30 charge and must be resolved within 7 days; otherwise, the plan is canceled and the entire remaining balance is due immediately.\n\nNote: All financial aid is applied first, and only the remaining balance is divided into installments.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Ines owes $5,200 in tuition and has a $1,200 merit scholarship. She enrolls in the plan on December 12. How much will each installment be?",
+    "options": [
+     "$1,000",
+     "$1,300",
+     "$1,010",
+     "$1,333"
+    ],
+    "answer": 0,
+    "explanation": "Aid is applied first ($5,200 − $1,200 = $4,000), and because she enrolled before January 5 she must use four installments: $4,000 ÷ 4 = $1,000."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be concluded about a student whose February payment fails and who resolves it 10 days later?",
+    "options": [
+     "The student will have to pay the $40 enrollment fee again.",
+     "The student may switch to the three-installment option.",
+     "The student will owe only the $30 failed-payment charge.",
+     "The student can no longer pay the balance in installments."
+    ],
+    "answer": 3,
+    "explanation": "A failed payment must be resolved within 7 days; after 10 days the plan is canceled and the whole remaining balance is due at once."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why do the instructions mention January 5?",
+    "options": [
+     "To set the final day to enroll in the plan",
+     "To show when the first payment is drafted",
+     "To identify who may choose the shorter plan",
+     "To indicate when fee waivers are approved"
+    ],
+    "answer": 2,
+    "explanation": "Step 2 says the three-installment option is available only to students who enroll after January 5; the enrollment deadline is January 10."
+   }
+  ]
+ },
+ {
+  "id": "dl3-07",
+  "difficulty": "advanced",
+  "text_type": "web_page",
+  "title": "Amphitheater Refund Policy",
+  "text": "Riverfront Amphitheater — Refunds & Exchanges\n\nAll ticket sales are final, except as described below.\n\nRescheduled shows: Tickets are automatically valid for the new date. If you cannot attend, request a refund within 14 days of the announcement.\nCanceled shows: Refunds go automatically to the original payment method within 10 business days.\nWeather: Shows go on rain or shine. If a show is stopped after the headliner has performed for 45 minutes, it counts as complete and is not refunded.\nExchanges: Riverfront Club members may exchange tickets for another show this season, up to 48 hours before the original show, for $6 per ticket.\n\nService fees are not refundable under any circumstances.",
+  "questions": [
+   {
+    "type": "detail",
+    "prompt": "According to the web page, who receives a refund without having to ask for one?",
+    "options": [
+     "People holding tickets to a show that is canceled",
+     "People holding tickets to a show that is rescheduled",
+     "People at a show stopped after 45 minutes of the headliner",
+     "Club members who exchange tickets 48 hours in advance"
+    ],
+    "answer": 0,
+    "explanation": "Only refunds for canceled shows \"go automatically\" to the payment method; rescheduled-show refunds must be requested within 14 days."
+   },
+   {
+    "type": "purpose",
+    "prompt": "What is the main purpose of the web page?",
+    "options": [
+     "To announce that an upcoming show has been moved to a new date",
+     "To explain when tickets can be refunded or exchanged",
+     "To encourage visitors to become members of the Riverfront Club",
+     "To describe the safety procedures followed during bad weather"
+    ],
+    "answer": 1,
+    "explanation": "The page begins \"All ticket sales are final, except as described below\" and then lists the exceptions for refunds and exchanges."
+   }
+  ]
+ },
+ {
+  "id": "dl3-08",
+  "difficulty": "advanced",
+  "text_type": "invoice",
+  "title": "Animal Clinic Invoice",
+  "text": "Maple Street Animal Clinic — Invoice #4471\nClient: T. Okafor | Patient: Biscuit (dog) | Date: Sept 9\n\nAnnual exam: $65.00\nRabies vaccine: $28.00\nDental cleaning: $240.00\nPain medication: $32.00\nSubtotal: $365.00\nWellness Plan discount (10%, exams and vaccines only): –$9.30\nTotal: $355.70\nPaid today: $100.00\nBalance due: $255.70\n\nBalances unpaid after 30 days accrue a 1.5% monthly charge. Unopened medication may be returned within 14 days for a full refund. Wellness Plan members may split dental procedures into two monthly payments at no extra cost by calling the clinic before the balance is due.",
+  "questions": [
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the dental cleaning?",
+    "options": [
+     "Its price was lowered by 10 percent.",
+     "It must be paid for within 14 days.",
+     "It received no discount under the plan.",
+     "It is already subject to a 1.5% charge."
+    ],
+    "answer": 2,
+    "explanation": "The $9.30 discount is exactly 10% of the exam and vaccine ($93), and the discount line says it applies to those items only, so the $240 cleaning was not discounted."
+   },
+   {
+    "type": "application",
+    "prompt": "If Ms. Okafor returns the unopened pain medication on September 20, what will her balance be?",
+    "options": [
+     "$323.70",
+     "$223.70",
+     "$255.70",
+     "$232.70"
+    ],
+    "answer": 1,
+    "explanation": "September 20 is within 14 days of September 9, so the full $32 is refunded from the remaining balance: $255.70 − $32.00 = $223.70."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the invoice, how can a Wellness Plan member pay for dental work in two parts?",
+    "options": [
+     "By agreeing to pay a 1.5% monthly charge",
+     "By returning unused medication within 14 days",
+     "By paying $100 at the time of the appointment",
+     "By phoning the clinic before the balance is due"
+    ],
+    "answer": 3,
+    "explanation": "Members may split dental procedures into two payments \"by calling the clinic before the balance is due.\""
+   }
+  ]
+ },
+ {
+  "id": "dl3-09",
+  "difficulty": "advanced",
+  "text_type": "lease_terms",
+  "title": "Lease Early Termination Clause",
+  "text": "Lease Agreement — Section 12: Early Termination\n\n12.1 Tenant may end this lease before July 31 by giving 60 days' written notice and paying a termination fee equal to one month's rent ($1,450).\n12.2 The fee is reduced by half if Tenant finds a replacement approved by Landlord who begins a new lease within 30 days after Tenant's move-out date.\n12.3 Tenant remains responsible for rent until the move-out date stated in the notice or the replacement's lease start date, whichever is earlier.\n12.4 Notice given by text message or phone call is not valid.\n12.5 Tenants called to active military service may terminate with 30 days' notice and no fee.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "On February 1, Hana delivers a signed letter stating that she will move out on April 1. Her approved replacement signs a lease beginning April 20. What fee will Hana pay?",
+    "options": [
+     "$725",
+     "$1,450",
+     "$0",
+     "$2,900"
+    ],
+    "answer": 0,
+    "explanation": "Her written notice gives the required 60 days, and the replacement starts 19 days after her move-out date, within 30 days, so the $1,450 fee is halved to $725 (12.2)."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from section 12.3?",
+    "options": [
+     "A tenant must pay rent until July 31 in every case.",
+     "A replacement tenant must pay the original tenant's fee.",
+     "Rent may end before the move-out date in the notice.",
+     "Rent stops on the day the tenant delivers notice."
+    ],
+    "answer": 2,
+    "explanation": "Rent is owed until the stated move-out date or the replacement's start date, \"whichever is earlier,\" so a replacement who starts sooner ends the tenant's rent early."
+   },
+   {
+    "type": "detail",
+    "prompt": "Which of the following is NOT required of a tenant who ends the lease early because of active military service?",
+    "options": [
+     "Giving at least 30 days' notice",
+     "Paying a termination fee",
+     "Giving notice in a valid form",
+     "Paying rent until the move-out date"
+    ],
+    "answer": 1,
+    "explanation": "Section 12.5 allows such tenants to terminate \"with 30 days' notice and no fee\"; the notice and rent rules in 12.3 and 12.4 still apply."
+   }
+  ]
+ },
+ {
+  "id": "dl3-10",
+  "difficulty": "advanced",
+  "text_type": "membership_terms",
+  "title": "Climbing Gym Membership",
+  "text": "Summit Climbing Gym — Membership Terms\n\nMonthly rate: $78, billed on the 1st of each month.\nInitiation fee: $50. Waived for students with valid ID and for anyone joining in a promotional month (January or September).\nFirst month: Members who join after the 1st pay a prorated amount based on the number of days remaining in that month.\nFreezes: $10 per month, for 1–3 months. Requests made before the 25th take effect the following month.\nCancellation: 30 days' written notice is required; the final month is charged in full.\nGuests: One guest per member visit. Guest passes cost $18, or half price on Tuesdays.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Luis, who is not a student, joins in April on a day when exactly half of the month remains. How much does he pay when he signs up?",
+    "options": [
+     "$39",
+     "$128",
+     "$78",
+     "$89"
+    ],
+    "answer": 3,
+    "explanation": "His first month is prorated to half of $78 ($39), and because April is not a promotional month and he is not a student, he also pays the $50 initiation fee: $39 + $50 = $89."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"prorated\" in the terms is closest in meaning to",
+    "options": [
+     "adjusted to the time covered",
+     "charged in full in advance",
+     "reduced only for students",
+     "split into several payments"
+    ],
+    "answer": 0,
+    "explanation": "A prorated amount is \"based on the number of days remaining,\" so the charge is proportional to the part of the month used."
+   }
+  ]
+ },
+ {
+  "id": "dl3-11",
+  "difficulty": "advanced",
+  "text_type": "text_messages",
+  "title": "Delayed Flight Pickup",
+  "text": "Maya (2:05 PM): Bad news. My flight's delayed. Now landing at 7:40 instead of 5:15.\nChris (2:07 PM): Ugh. I have class until 7, and campus to the airport is about 50 minutes.\nMaya (2:08 PM): No problem, I'll just take the airport shuttle. The last one to campus leaves at 8:30.\nChris (2:10 PM): Customs usually takes about an hour for international arrivals, though.\nMaya (2:11 PM): Oh, right. I forgot about that.\nChris (2:12 PM): I'll head out right after class. Text me once you're through customs and I'll meet you at Door 6.\nMaya (2:13 PM): Thank you! Dinner's on me.",
+  "questions": [
+   {
+    "type": "purpose",
+    "prompt": "Why does Chris write, \"Customs usually takes about an hour for international arrivals, though\"?",
+    "options": [
+     "To point out that Maya may miss the last shuttle",
+     "To explain why Maya's flight has been delayed",
+     "To suggest that Maya book a later flight home",
+     "To warn that he will arrive after 8:30 PM"
+    ],
+    "answer": 0,
+    "explanation": "Maya lands at 7:40 and the last shuttle leaves at 8:30; an hour in customs would leave her past 8:30, so Chris is showing that the shuttle plan will not work."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about Chris's plan?",
+    "options": [
+     "He will reach the airport before Maya's plane lands.",
+     "He should reach the airport before Maya clears customs.",
+     "He will need to leave his class before it ends.",
+     "He will meet Maya at Door 6 at about 5:15."
+    ],
+    "answer": 1,
+    "explanation": "Leaving at 7:00 with a 50-minute drive puts Chris there around 7:50, after the 7:40 landing but well before Maya finishes about an hour of customs."
+   }
+  ]
+ },
+ {
+  "id": "dl3-12",
+  "difficulty": "advanced",
+  "text_type": "flyer",
+  "title": "Free Tax Help Clinic",
+  "text": "FREE TAX HELP — Eastside Community Center\nSaturdays, Feb 7 – Apr 11, 10 AM–2 PM (closed Mar 14)\n\nWho qualifies\n• Households that earned under $67,000 last year\n• International students filing nonresident returns, at any income level (Tuesday evenings only, by appointment)\n\nWhat to bring\n• Photo ID\n• Social Security or ITIN cards for everyone listed on the return\n• All income forms (W-2, 1099)\n• Last year's return, if available\n\nWalk-ins are served in order of arrival; please arrive by 1 PM. Returns that cannot be finished in one visit will be completed by appointment. Volunteers cannot prepare returns that include rental property or more than $10,000 in business income.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Which person could be helped at the center on a Saturday?",
+    "options": [
+     "An international student filing a nonresident return",
+     "A couple whose household earned $72,000 last year",
+     "A designer who earned $15,000 in business income",
+     "A cashier who earned $41,000 and brings her W-2"
+    ],
+    "answer": 3,
+    "explanation": "The cashier is under the $67,000 limit; nonresident returns are handled only on Tuesday evenings, $72,000 is over the limit, and business income over $10,000 cannot be prepared."
+   },
+   {
+    "type": "detail",
+    "prompt": "Which of the following is NOT something every visitor is required to bring?",
+    "options": [
+     "A form of photo identification",
+     "A copy of the previous year's tax return",
+     "Income forms such as a W-2 or 1099",
+     "A Social Security or ITIN card for each person"
+    ],
+    "answer": 1,
+    "explanation": "Last year's return is requested only \"if available,\" while the other items are listed without that condition."
+   }
+  ]
+ },
+ {
+  "id": "dl3-13",
+  "difficulty": "advanced",
+  "text_type": "syllabus",
+  "title": "BIO 210 Late Work Rules",
+  "text": "BIO 210 — Late Work and Grading Policies\n\nLab reports are due Fridays at 11:59 PM. Late reports lose 10% of the earned score for each day late, for up to three days; after that, they receive a zero.\n\nEach student has two grace days per semester. A grace day cancels one day of lateness and may be used on any lab report, but not on the final project.\n\nThe lowest quiz score is dropped. A missed quiz counts as zero unless you have a documented medical excuse; an excused quiz is removed from your average and does not count as your dropped score.\n\nRegrade requests must be submitted within one week of grades being posted.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Priya's lab report earns 80 points, but she submits it two days late and uses one grace day. What is her final score?",
+    "options": [
+     "72",
+     "64",
+     "80",
+     "70"
+    ],
+    "answer": 0,
+    "explanation": "The grace day cancels one of the two late days, leaving one day at a 10% penalty on the earned score: 80 − 8 = 72."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred from the policy?",
+    "options": [
+     "Grace days can be used to reduce the late penalty on the final project.",
+     "Unused grace days are converted into extra points on quiz scores.",
+     "A report over three days late may still earn some credit.",
+     "A student can use a grace day to excuse a quiz that was missed."
+    ],
+    "answer": 2,
+    "explanation": "A report five days late becomes three days late after two grace days are applied, which is still within the three-day window, so it earns partial credit instead of a zero."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the syllabus mention the final project?",
+    "options": [
+     "To announce the date when the final project is due",
+     "To explain that it counts as much as two lab reports",
+     "To show that its grade may not be submitted for regrading",
+     "To name an assignment that grace days cannot be used for"
+    ],
+    "answer": 3,
+    "explanation": "The final project appears only in the grace-day rule: grace days \"may be used on any lab report, but not on the final project.\""
+   }
+  ]
+ },
+ {
+  "id": "dl3-14",
+  "difficulty": "advanced",
+  "text_type": "warranty",
+  "title": "Wireless Headphones Warranty",
+  "text": "AeroSound X2 Wireless Headphones — Limited Warranty\n\nCoverage: Defects in materials and workmanship for 1 year from the date of purchase. Batteries are covered for 6 months.\nExtended coverage: Register your product online within 30 days of purchase to extend coverage to 2 years (batteries excluded).\nNot covered: Damage from drops, water, or unauthorized repairs; cosmetic wear; ear cushions.\nService: We will repair or replace your product at our option. You pay shipping to our service center; return shipping is free. A replacement unit is covered only for the remainder of the original warranty period.\nProof of purchase is required for all claims.",
+  "questions": [
+   {
+    "type": "detail",
+    "prompt": "According to the warranty, which of the following is NOT covered?",
+    "options": [
+     "Ear cushions that have worn out",
+     "A speaker defect in the eighth month",
+     "A battery defect in the fourth month",
+     "A defect in month 18 after registering"
+    ],
+    "answer": 0,
+    "explanation": "Ear cushions are listed under \"Not covered\"; the other cases fall within the 1-year, 6-month battery, or 2-year registered coverage."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a replacement unit sent 18 months after the purchase of a registered product?",
+    "options": [
+     "It will come with a new one-year warranty.",
+     "Its battery will be covered for six months.",
+     "It must be registered again within 30 days.",
+     "It will be covered for about six more months."
+    ],
+    "answer": 3,
+    "explanation": "Registration extends coverage to 2 years, and a replacement is covered only for the remainder of the original period, so 24 − 18 leaves about six months."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The phrase \"at our option\" in the warranty is closest in meaning to",
+    "options": [
+     "as the customer prefers",
+     "for an additional charge",
+     "only one time per product",
+     "as the company chooses"
+    ],
+    "answer": 3,
+    "explanation": "\"We will repair or replace your product at our option\" means the company decides which of the two remedies to provide."
+   }
+  ]
+ },
+ {
+  "id": "dl3-15",
+  "difficulty": "advanced",
+  "text_type": "email",
+  "title": "Planning Forum Registration",
+  "text": "Subject: Registration confirmed — Regional Urban Planning Forum\n\nDear Ms. Alvarez,\n\nThank you for registering for the Forum (October 16–17). You paid the early-bird student rate of $85, which covers both days and lunch.\n\nPlease note:\n• Student status must be verified by October 1. Upload a current student ID to your registration page; otherwise, your rate will change to the standard $160, and the difference will be charged to your card.\n• Cancellations made by September 15 are refunded minus a $20 processing fee. After that, no refunds are given, but you may transfer your registration to another student at no cost.\n• The optional October 15 field tour ($25) has four seats left.\n\nRegards,\nForum Registration Team",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Ms. Alvarez uploads her student ID on September 5 and cancels her registration on September 10. How much will be refunded?",
+    "options": [
+     "$85",
+     "$65",
+     "$140",
+     "$0"
+    ],
+    "answer": 1,
+    "explanation": "She cancels before the September 15 deadline and paid the $85 student rate, so she receives $85 minus the $20 processing fee, or $65."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the email, what may Ms. Alvarez do if she cannot attend and September 15 has passed?",
+    "options": [
+     "Receive a refund minus a $20 processing fee",
+     "Give her place to another student for free",
+     "Use her payment for the October 15 field tour",
+     "Pay $25 to transfer her place to a colleague"
+    ],
+    "answer": 1,
+    "explanation": "After September 15 no refunds are given, \"but you may transfer your registration to another student at no cost.\""
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the email mention the field tour?",
+    "options": [
+     "To confirm that she already has a seat on the tour",
+     "To explain that the tour is included in her rate",
+     "To tell her about an extra event with few places left",
+     "To announce that the tour has been canceled"
+    ],
+    "answer": 2,
+    "explanation": "The tour is described as \"optional,\" costs an additional $25, and \"has four seats left,\" so it is offered as a limited add-on."
+   }
+  ]
+ },
+ {
+  "id": "dl3-16",
+  "difficulty": "advanced",
+  "text_type": "notice",
+  "title": "Bulk Item Collection Rules",
+  "text": "CITY OF FAIRMONT — Bulk Item Collection\n\nBulk items (furniture, mattresses, appliances) are collected on the first Wednesday of each month. Place items at the curb no earlier than 6 PM on the Monday before and no later than 6 AM on collection day.\n\n• Each household may set out 3 items per month free of charge. Additional items cost $15 each and must be prepaid online.\n• Mattresses must be wrapped in plastic, or they will be left behind.\n• Refrigerators and air conditioners do not count toward the 3-item limit, but each requires a $25 refrigerant-removal sticker.\n• Items set out too early may result in a $75 fine.\n\nIf collection day falls on a holiday, pickup moves to Thursday.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "A household sets out a sofa, a wrapped mattress, a table, two chairs, and a refrigerator. How much must it pay?",
+    "options": [
+     "$70",
+     "$55",
+     "$45",
+     "$25"
+    ],
+    "answer": 1,
+    "explanation": "The refrigerator does not count toward the limit, so five items count: two extra items at $15 ($30) plus the $25 refrigerator sticker equals $55."
+   },
+   {
+    "type": "detail",
+    "prompt": "Which of the following is NOT stated in the notice?",
+    "options": [
+     "Items beyond the monthly limit must be paid for in advance.",
+     "Items set out after 6 AM on collection day are fined $75.",
+     "Mattresses that are not wrapped in plastic will not be taken.",
+     "Pickup moves to Thursday when Wednesday is a holiday."
+    ],
+    "answer": 1,
+    "explanation": "The $75 fine applies to items set out too early, not to items placed out late; the other statements appear in the notice."
+   }
+  ]
+ },
+ {
+  "id": "dl3-17",
+  "difficulty": "advanced",
+  "text_type": "policy",
+  "title": "Overnight Guest Policy",
+  "text": "Residence Life — Overnight Guest Policy\n\n• Residents may host an overnight guest for up to 3 nights in a row and no more than 6 nights in any calendar month.\n• All roommates must agree to each overnight guest. A roommate's objection overrides any earlier agreement.\n• Guests must be registered at the front desk by 10 PM on their first night.\n• Guests under 17 are not permitted unless they are a resident's sibling and a parent has signed a consent form.\n• No overnight guests are allowed in any hall during final exam week.\n• Residents are responsible for their guests' behavior and for any damage that guests cause.",
+  "questions": [
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"overrides\" in the policy is closest in meaning to",
+    "options": [
+     "is added to",
+     "takes priority over",
+     "is recorded with",
+     "is the same as"
+    ],
+    "answer": 1,
+    "explanation": "A roommate's objection overrides an earlier agreement, meaning the objection counts more than that agreement."
+   },
+   {
+    "type": "application",
+    "prompt": "Emma's friend stayed with her on November 2 and 3. Emma now wants her 15-year-old cousin to stay November 20–22, and her aunt has signed a consent form. Her roommate agrees. Is the visit allowed?",
+    "options": [
+     "No, because it would go over the six-night monthly limit",
+     "Yes, because a parent has signed a consent form",
+     "Yes, because Emma's roommate has agreed to it",
+     "No, because of the guest's age and relationship to Emma"
+    ],
+    "answer": 3,
+    "explanation": "Guests under 17 are allowed only if they are a resident's sibling with parental consent; a cousin does not qualify, while 2 + 3 = 5 nights would be within the monthly limit."
+   }
+  ]
+ },
+ {
+  "id": "dl3-18",
+  "difficulty": "advanced",
+  "text_type": "schedule",
+  "title": "Print Lab December Hours",
+  "text": "Digital Print Lab — December Hours\n\nRegular hours (through Sat, Dec 6)\nMon–Thu 8 AM–10 PM | Fri 8 AM–5 PM | Sat 10 AM–4 PM | Sun closed\n\nFinals period (Sun, Dec 7 – Thu, Dec 18)\nOpen 24 hours Sunday–Thursday; Friday and Saturday 8 AM–midnight\n\nLarge-format posters\nOrders accepted on weekdays, 9 AM–4 PM only. Posters are ready by 9 AM the next weekday.\n\nWinter break (Dec 19 – Jan 11): Closed. Orders not picked up by 6 PM on Dec 18 will be recycled.\n\nPrinting costs: black-and-white $0.08 per page; color $0.40 per page. Each student receives $15 in free printing per semester.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Tomás needs a poster for a presentation at 11 AM on Monday, December 15. What is the latest time he can place his order?",
+    "options": [
+     "Midnight on Saturday, December 13",
+     "4 PM on Friday, December 12",
+     "4 PM on Sunday, December 14",
+     "9 AM on Monday, December 15"
+    ],
+    "answer": 1,
+    "explanation": "Poster orders are taken only on weekdays until 4 PM and are ready by 9 AM the next weekday, so a Friday order by 4 PM is ready Monday morning; weekend orders are not accepted."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be concluded about the lab on Saturday, December 13?",
+    "options": [
+     "It will be open for the full 24 hours that day.",
+     "It will accept poster orders until 4 PM.",
+     "It will be closed for the winter break.",
+     "It will close later than on a usual Saturday."
+    ],
+    "answer": 3,
+    "explanation": "December 13 falls in the finals period, when Saturday hours are 8 AM–midnight instead of the regular 10 AM–4 PM; 24-hour service is only Sunday–Thursday."
+   }
+  ]
+ },
+ {
+  "id": "dl3-19",
+  "difficulty": "advanced",
+  "text_type": "form_instructions",
+  "title": "Club Travel Reimbursement",
+  "text": "Student Organization Travel Reimbursement — How to Submit\n\n1. Submit Form TR-2 within 30 days of returning from the trip. Late forms will not be processed.\n2. Attach itemized receipts. Credit card statements are not accepted as receipts.\n3. Personal vehicles are reimbursed at $0.50 per mile. Fuel receipts are not needed, and fuel is not reimbursed separately.\n4. Meals are covered up to $40 per traveler per day. Alcohol is never reimbursed.\n5. Hotels are covered only if the event is more than 100 miles from campus.\n6. Forms must be signed by the organization's treasurer. If the treasurer is the person requesting reimbursement, the faculty advisor signs instead.\n\nAllow 3–4 weeks for payment.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Jae drove his own car to a conference 90 miles from campus and back. He spent $35 on gas, $120 on one hotel night, and $52 on meals over two days, never more than $40 in one day. How much will be reimbursed?",
+    "options": [
+     "$177",
+     "$262",
+     "$142",
+     "$297"
+    ],
+    "answer": 2,
+    "explanation": "He receives 180 miles × $0.50 = $90 plus $52 for meals; gas is not reimbursed separately, and the hotel is not covered because the event is less than 100 miles away: $90 + $52 = $142."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the instructions, which expense is NOT reimbursable under any circumstances?",
+    "options": [
+     "Alcoholic drinks ordered with a meal",
+     "A hotel room for an overnight event",
+     "A meal costing less than $40 a day",
+     "Mileage driven in a personal vehicle"
+    ],
+    "answer": 0,
+    "explanation": "Step 4 says \"Alcohol is never reimbursed,\" while hotels, meals, and mileage are covered under certain conditions."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why do the instructions mention fuel receipts?",
+    "options": [
+     "To list the receipts that must be fully itemized",
+     "To explain how hotel costs are calculated",
+     "To clarify that the mileage rate already covers fuel",
+     "To remind travelers to have their forms signed"
+    ],
+    "answer": 2,
+    "explanation": "Step 3 says fuel receipts are not needed because fuel is not reimbursed separately from the $0.50-per-mile rate."
+   }
+  ]
+ },
+ {
+  "id": "dl3-20",
+  "difficulty": "advanced",
+  "text_type": "web_page",
+  "title": "Coworking Passes and Rooms",
+  "text": "The Loft Coworking — Passes & Rooms\n\nDay Pass: $25 (8 AM–6 PM). Includes Wi-Fi, coffee, and 30 minutes of free meeting room time.\n10-Day Bundle: $200, valid for 90 days from first use. Unused days expire and are not refunded.\nMonthly Membership: $280. The only option that includes evening access (6–10 PM).\nMeeting Rooms: $15 per hour for pass holders and members; $30 per hour for everyone else. Rooms are booked in 30-minute increments.\n\nChanges: Meeting rooms canceled at least 24 hours in advance are free. Later cancellations are billed in full unless another customer books the same time.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Grace buys a Day Pass and books a meeting room for two hours. What is her total cost?",
+    "options": [
+     "$55.00",
+     "$85.00",
+     "$47.50",
+     "$40.00"
+    ],
+    "answer": 2,
+    "explanation": "The Day Pass includes 30 free minutes, so she pays for 1.5 hours at the pass-holder rate: $25 + (1.5 × $15 = $22.50) = $47.50."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the 10-Day Bundle?",
+    "options": [
+     "Used fully, it costs less per day than Day Passes.",
+     "It includes access to the space after 6 PM.",
+     "It expires 90 days after the date it is bought.",
+     "Its unused days can be refunded within 90 days."
+    ],
+    "answer": 0,
+    "explanation": "The bundle is $200 for 10 days, or $20 a day compared with $25 for a Day Pass; its 90 days start at first use, not purchase, and evening access requires a monthly membership."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"increments\" in the web page is closest in meaning to",
+    "options": [
+     "discounts",
+     "deposits",
+     "shifts",
+     "units"
+    ],
+    "answer": 3,
+    "explanation": "Rooms are \"booked in 30-minute increments,\" meaning in blocks or units of 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "dl3-21",
+  "difficulty": "advanced",
+  "text_type": "invoice",
+  "title": "Internet Plan Statement",
+  "text": "BrightWave Internet — Monthly Statement\nStatement date: May 1\n\nPrevious balance: $45.00\nPayment received Apr 18: –$45.00\nPlan change on Apr 16 (Basic 100 to Fiber 500)\n  Credit, Basic 100, Apr 16–30: –$22.50\n  Charge, Fiber 500, Apr 16–30: +$37.50\nFiber 500, May 1–31: $75.00\nRouter rental (no charge for first 3 months): $0.00\nAmount due by May 21: $90.00\n\nA $10 late fee applies to balances still unpaid 5 days after the due date. Enroll in AutoPay before May 21 to receive a $5 credit on each monthly bill, starting with your next statement.",
+  "questions": [
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the Basic 100 plan?",
+    "options": [
+     "It cost $45 per month.",
+     "It cost $75 per month.",
+     "It cost $22.50 per month.",
+     "It cost $37.50 per month."
+    ],
+    "answer": 0,
+    "explanation": "The credit for Basic 100 covers April 16–30, half of April, and equals $22.50, so the full monthly price was $45, matching the previous balance."
+   },
+   {
+    "type": "application",
+    "prompt": "If the customer pays the full amount on May 25 and has not enrolled in AutoPay, how much will she pay?",
+    "options": [
+     "$100",
+     "$85",
+     "$90",
+     "$95"
+    ],
+    "answer": 2,
+    "explanation": "The $10 late fee applies only to balances unpaid 5 days after the May 21 due date, and May 25 is within that period, so she pays the $90 shown."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the statement mention AutoPay?",
+    "options": [
+     "To explain why this bill totals $90",
+     "To report that the April payment failed",
+     "To describe a way to lower future bills",
+     "To explain when the late fee is applied"
+    ],
+    "answer": 2,
+    "explanation": "Enrolling in AutoPay brings a $5 credit on each bill \"starting with your next statement,\" so it is offered as a way to save later."
+   }
+  ]
+ },
+ {
+  "id": "dl3-22",
+  "difficulty": "advanced",
+  "text_type": "membership_terms",
+  "title": "Car Sharing Member Terms",
+  "text": "GoShare Car Sharing — Member Terms (Excerpt)\n\nRates: $11 per hour or $79 per day (24 hours), whichever is lower. Gas and insurance are included.\nMileage: The first 180 miles of each reservation are free; each additional mile costs $0.45.\nLate returns: $50 fee plus the hourly rate for the extra time. If your lateness delays the next member's reservation, the fee rises to $75.\nFuel: Return the car with at least a quarter tank. Use the fuel card in the glove box; if you pay with your own money, you will be reimbursed when you upload the receipt within 7 days.\nDamage: Report any damage before starting your trip.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Ana reserves a car for 9 hours, drives 220 miles, and returns it on time. What does she pay?",
+    "options": [
+     "$97",
+     "$117",
+     "$79",
+     "$99"
+    ],
+    "answer": 0,
+    "explanation": "Nine hours at $11 is $99, so the lower $79 daily rate applies; 40 miles over the free 180 cost 40 × $0.45 = $18, for a total of $97."
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"reimbursed\" in the terms is closest in meaning to",
+    "options": [
+     "charged extra",
+     "given a discount",
+     "paid back",
+     "sent a receipt"
+    ],
+    "answer": 2,
+    "explanation": "Members who buy fuel with their own money are reimbursed after uploading the receipt, meaning GoShare returns the money they spent."
+   }
+  ]
+ },
+ {
+  "id": "dl3-23",
+  "difficulty": "advanced",
+  "text_type": "text_messages",
+  "title": "Farewell Gift Group Chat",
+  "text": "Group chat: Prof. Lin's farewell gift\n\nNora: The engraved pen is $96, plus $12 for engraving. Split six ways?\nSam: I'm in. But Jo says she can only give $10.\nNora: OK, then the other five of us split the rest equally.\nKai: Wait, the shop takes 15% off the pen (not the engraving) for orders placed by Friday.\nNora: Even better. I'll order tomorrow, Thursday, and pay up front. Send me your share by Monday.\nRavi: Could I pay you Tuesday instead? I get paid that day.\nNora: Sure. And I'll buy the card myself, so don't worry about that.\nSam: Thanks, Nora!",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "How much will Sam pay?",
+    "options": [
+     "$19.60",
+     "$16.72",
+     "$15.60",
+     "$18.72"
+    ],
+    "answer": 1,
+    "explanation": "The pen costs $96 × 0.85 = $81.60, plus $12 engraving is $93.60; after Jo's $10, the remaining $83.60 is split among five people: $16.72 each."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about the discount Kai mentions?",
+    "options": [
+     "It will lower the cost of the engraving as well.",
+     "The group will get it because of when Nora orders.",
+     "It requires everyone to pay Nora by Friday.",
+     "It will be used to pay for the card."
+    ],
+    "answer": 1,
+    "explanation": "The discount applies to orders placed by Friday, and Nora says she will order on Thursday, so the group qualifies."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does Ravi write, \"I get paid that day\"?",
+    "options": [
+     "To offer to cover Jo's share of the gift",
+     "To suggest that the order wait until Tuesday",
+     "To say that he will pay for the card",
+     "To explain why he cannot pay by Nora's date"
+    ],
+    "answer": 3,
+    "explanation": "Nora asks for shares by Monday; Ravi asks to pay Tuesday and gives his payday as the reason."
+   }
+  ]
+ },
+ {
+  "id": "dl3-24",
+  "difficulty": "advanced",
+  "text_type": "flyer",
+  "title": "River 5K Registration",
+  "text": "RUN FOR THE RIVER 5K\nSunday, May 18 · 8 AM · Lakeside Park\n\nRegistration\n• Early (through April 30): $30\n• Regular (May 1–16): $40\n• Race day: $50, cash only, if spots remain (limit: 600 runners)\nStudents with ID receive $10 off any rate. Children 12 and under run free with a registered adult.\n\nPacket pickup: Friday, May 16, 3–7 PM, at Stride Sports. Race-day pickup is available only to runners who live more than 30 miles away.\n\nT-shirts are guaranteed only for runners registered by April 30. Registration fees are nonrefundable but may be transferred to another runner until May 10.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "A college student with ID registers herself and her 10-year-old brother on May 3. What is the total cost?",
+    "options": [
+     "$30",
+     "$40",
+     "$20",
+     "$60"
+    ],
+    "answer": 0,
+    "explanation": "May 3 is in the regular period ($40), the student discount takes off $10, and a child 12 or under runs free with a registered adult, so the total is $30."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a runner who registers on May 5?",
+    "options": [
+     "The runner can transfer the entry until May 16.",
+     "The runner will pay the early rate of $30.",
+     "The runner might not receive a T-shirt.",
+     "The runner may collect a packet on race day."
+    ],
+    "answer": 2,
+    "explanation": "T-shirts are guaranteed only for those registered by April 30, so a May 5 registrant is not assured one; race-day pickup depends on living over 30 miles away."
+   }
+  ]
+ },
+ {
+  "id": "dl3-25",
+  "difficulty": "advanced",
+  "text_type": "syllabus",
+  "title": "CHEM 101 Lab Attendance",
+  "text": "CHEM 101 Lab — Attendance and Make-Up Policy\n\nThere are 10 weekly labs, and your lowest lab score is dropped.\n• Safety goggles and closed-toe shoes are required. Students who arrive without them will be sent home, and the absence will count as unexcused.\n• Unexcused absences receive a zero. A second unexcused absence results in failing the lab component, regardless of other scores.\n• Excused absences (documented illness or university-sponsored travel) may be made up only during Make-Up Week (Week 14). No more than two labs may be made up.\n• Students arriving more than 15 minutes late may not begin the experiment.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Ines was sent home in Week 3 for wearing sandals, and in Week 9 she missed lab because she overslept. What will happen?",
+    "options": [
+     "She will make up the Week 9 lab in Week 14.",
+     "Her Week 3 zero will be dropped with no other effect.",
+     "She will fail the lab part of the course.",
+     "She may make up both labs during Make-Up Week."
+    ],
+    "answer": 2,
+    "explanation": "Being sent home for improper shoes counts as unexcused, and oversleeping is also unexcused; a second unexcused absence means failing the lab component regardless of other scores."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the policy mention university-sponsored travel?",
+    "options": [
+     "To explain why Make-Up Week is scheduled in Week 14",
+     "To give an example of an absence that can be made up",
+     "To list a reason students may arrive late to lab",
+     "To describe a field trip that every student takes"
+    ],
+    "answer": 1,
+    "explanation": "University-sponsored travel appears in parentheses as one type of excused absence, which may be made up during Week 14."
+   }
+  ]
+ },
+ {
+  "id": "dl3-26",
+  "difficulty": "advanced",
+  "text_type": "warranty",
+  "title": "Refurbished Espresso Machine Warranty",
+  "text": "BrewMaster Pro (Certified Refurbished) — Limited Warranty\n\nYour refurbished espresso machine is covered against defects for 180 days from delivery.\n• Descale the machine every 3 months as described in the manual. Failure to do so voids this warranty for pump-related claims only.\n• Damage caused by using unfiltered hard water is not covered.\n• Covered machines will be repaired. If a repair is not possible, you will receive store credit for the purchase price, not a cash refund.\n• Care Plan: If purchased within 60 days of delivery, it extends coverage to 2 years and provides a replacement machine, rather than a repair, for covered defects.\n• Claims require your order number; the original box is not needed.",
+  "questions": [
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"voids\" in the warranty is closest in meaning to",
+    "options": [
+     "cancels",
+     "extends",
+     "reviews",
+     "replaces"
+    ],
+    "answer": 0,
+    "explanation": "Failing to descale \"voids this warranty for pump-related claims,\" meaning the warranty no longer applies to those claims."
+   },
+   {
+    "type": "application",
+    "prompt": "Lena's machine was delivered on January 5. She did not buy the Care Plan and has never descaled it. In April, its heating element fails because of a defect and cannot be repaired. What will happen?",
+    "options": [
+     "Her claim will be denied because she never descaled.",
+     "She will receive a replacement machine.",
+     "She will receive store credit for what she paid.",
+     "She will receive a cash refund of the price."
+    ],
+    "answer": 2,
+    "explanation": "April is within 180 days of January 5, and skipping descaling affects only pump claims; since the repair is not possible and she has no Care Plan, she gets store credit, not cash."
+   }
+  ]
+ },
+ {
+  "id": "dl3-27",
+  "difficulty": "advanced",
+  "text_type": "email_thread",
+  "title": "PSYC 330 Waitlist Update",
+  "text": "From: Registrar's Office\nTo: K. Mensah\nSubject: Waitlist update — PSYC 330\n\nA seat in PSYC 330 (3 credits) has opened, and you have been enrolled automatically because you chose \"auto-enroll.\" This brings you to 19 credits, so a $150 overload fee has been added to your account. To have the fee removed, drop a course by September 12, the last day of add/drop. Courses dropped after that date appear as \"W\" on your transcript, and the fee remains.\n\nFrom: K. Mensah\nIf I drop PHIL 210 tomorrow (Sept. 10), will I still be charged?\n\nFrom: Registrar's Office\nNo. Dropping any 3-credit course by September 12 brings you to 16 credits, and the fee is removed automatically. Note that an overload means more than 18 credits; 18 itself is not an overload.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Suppose Mensah keeps PHIL 210 but drops a 1-credit seminar on September 11 instead. What will happen?",
+    "options": [
+     "The fee will stay, because only 3-credit courses can be dropped.",
+     "The seminar will appear as a \"W\" on the student's transcript.",
+     "The fee will be reduced by about one-third of its amount.",
+     "The fee will be removed because the total will be 18 credits."
+    ],
+    "answer": 3,
+    "explanation": "Dropping 1 credit from 19 leaves 18, which \"is not an overload,\" and September 11 is before the September 12 add/drop deadline, so the fee is removed and no \"W\" is recorded."
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about Mensah's schedule before the waitlist seat opened?",
+    "options": [
+     "It included 16 credits.",
+     "It included 19 credits.",
+     "It included 18 credits.",
+     "It included 13 credits."
+    ],
+    "answer": 0,
+    "explanation": "Adding the 3-credit PSYC 330 brought Mensah to 19 credits, so the schedule previously had 19 − 3 = 16 credits."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the emails, what happens to a course dropped after September 12?",
+    "options": [
+     "It is recorded on the transcript as a withdrawal.",
+     "It is removed from the transcript completely.",
+     "It cancels the overload fee automatically.",
+     "It is replaced with a course from the waitlist."
+    ],
+    "answer": 0,
+    "explanation": "The first email says courses dropped after September 12 \"appear as 'W' on your transcript, and the fee remains.\""
+   }
+  ]
+ },
+ {
+  "id": "dl3-28",
+  "difficulty": "advanced",
+  "text_type": "notice",
+  "title": "Fire Safety Inspection Notice",
+  "text": "ATTENTION RESIDENTS — Annual Fire Safety Inspection\n\nInspectors will test smoke detectors and sprinklers in every unit:\n• Building A: Tuesday, Oct 7, 9 AM–1 PM\n• Building B: Wednesday, Oct 8, 9 AM–1 PM\n• Building C: Wednesday, Oct 8, 1 PM–5 PM\n\nYou do not need to be home; staff will enter with a master key. Please keep pets in a carrier or a closed room.\nIf your unit cannot be entered (for example, because of a chain lock or a loose dog), an $85 re-inspection fee will be charged to your account.\nBuilding C residents who work from home may request a morning time instead by emailing the office by Oct 3.\nAlarms will sound briefly throughout testing.",
+  "questions": [
+   {
+    "type": "detail",
+    "prompt": "Which of the following is NOT stated in the notice?",
+    "options": [
+     "Buildings B and C will be inspected on the same day.",
+     "Pets should be kept in a carrier or a closed room.",
+     "Residents must be at home during the inspection.",
+     "Some residents may ask for a different time."
+    ],
+    "answer": 2,
+    "explanation": "The notice says \"You do not need to be home\" because staff will use a master key; the other statements all appear in it."
+   },
+   {
+    "type": "purpose",
+    "prompt": "Why does the notice mention that alarms will sound?",
+    "options": [
+     "To explain how residents should report a fire",
+     "To prepare residents for noise during the testing",
+     "To warn residents that they must leave the building",
+     "To ask residents to test their own smoke alarms"
+    ],
+    "answer": 1,
+    "explanation": "The final line lets residents know in advance that alarms will sound briefly while inspectors test the equipment."
+   }
+  ]
+ },
+ {
+  "id": "dl3-29",
+  "difficulty": "advanced",
+  "text_type": "lease_terms",
+  "title": "Self Storage Rental Terms",
+  "text": "SecureSpace Self Storage — Rental Terms\n\nRent is due on the 1st of each month. A $20 late fee is added on the 6th.\nIf rent is unpaid for 30 days, access to the unit is suspended and a company lock is added. After 60 days unpaid, contents may be sold at auction; proceeds first cover unpaid rent and fees, and any remainder is mailed to the renter.\nMove-out: Give notice by the 20th to avoid being charged for the following month. Partial months are not prorated.\nFirst-month special: 50% off the first month's rent, for 10×10 units only. The $25 administrative fee is nonrefundable.\nInsurance is required. Renters may use their own policy or buy ours for $12 per month.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Ravi rents a 10×10 unit for $140 a month and buys SecureSpace insurance. What does he pay when he signs up?",
+    "options": [
+     "$107",
+     "$177",
+     "$95",
+     "$82"
+    ],
+    "answer": 0,
+    "explanation": "He pays half of the first month's rent ($70) plus the $25 administrative fee and $12 for insurance: $70 + $25 + $12 = $107."
+   },
+   {
+    "type": "detail",
+    "prompt": "According to the terms, what happens to auction money left over after unpaid charges are covered?",
+    "options": [
+     "It is kept as a late fee.",
+     "It is applied to future rent.",
+     "It pays for the company lock.",
+     "It is mailed to the renter."
+    ],
+    "answer": 3,
+    "explanation": "Auction proceeds \"first cover unpaid rent and fees, and any remainder is mailed to the renter.\""
+   },
+   {
+    "type": "vocabulary",
+    "prompt": "The word \"suspended\" in the terms is closest in meaning to",
+    "options": [
+     "permanently ended",
+     "officially transferred",
+     "temporarily stopped",
+     "partly reduced"
+    ],
+    "answer": 2,
+    "explanation": "Access is suspended after 30 days unpaid, before any auction at 60 days, meaning it is stopped for the time being."
+   }
+  ]
+ },
+ {
+  "id": "dl3-30",
+  "difficulty": "advanced",
+  "text_type": "web_page",
+  "title": "Replacing a Campus ID Card",
+  "text": "Campus Card Office — Replacing Your ID Card\n\nLost or stolen cards: Deactivate your card right away in the CampusCard app. The replacement fee is $25, but it is waived if you report the card stolen and provide a police report number.\nDamaged cards: Bring the damaged card to our office for a free replacement. However, cards damaged by punching holes, bending, or adding stickers are charged the full $25.\nName changes: Free, once the Registrar has updated your record.\n\nMeal swipes and printing funds move to the new card automatically. Building access can take up to 24 hours to update, so on-campus residents receive a temporary access pass.\n\nOffice hours: Mon–Fri, 9 AM–4:30 PM. After hours, call Campus Safety for a temporary pass.",
+  "questions": [
+   {
+    "type": "application",
+    "prompt": "Lucas punched a hole in his card to attach it to his keys, and now it no longer scans. He brings it to the office. What will he pay?",
+    "options": [
+     "Nothing, because he brought the damaged card",
+     "Nothing, if he deactivates it in the app first",
+     "$25, because of how the card was damaged",
+     "$50, for both the damage and the new card"
+    ],
+    "answer": 2,
+    "explanation": "Damaged cards are normally replaced free, but cards damaged by punching holes \"are charged the full $25.\""
+   },
+   {
+    "type": "inference",
+    "prompt": "What can be inferred about a student who lives on campus and gets a replacement card at 4 PM on a Friday?",
+    "options": [
+     "She will lose the meal swipes left on her old card.",
+     "She may need a temporary pass to enter her building.",
+     "She must call Campus Safety to receive her new card.",
+     "She will pay an extra fee for coming late in the day."
+    ],
+    "answer": 1,
+    "explanation": "Building access can take up to 24 hours to update, so on-campus residents receive a temporary pass to use until the new card works at their building."
+   }
+  ]
+ }
+]

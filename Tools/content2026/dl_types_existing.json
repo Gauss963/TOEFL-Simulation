@@ -1,0 +1,182 @@
+{
+ "dl1-01": [
+  "detail",
+  "detail"
+ ],
+ "dl1-02": [
+  "purpose",
+  "inference",
+  "vocabulary"
+ ],
+ "dl1-03": [
+  "application",
+  "detail"
+ ],
+ "dl1-04": [
+  "detail",
+  "application",
+  "vocabulary"
+ ],
+ "dl1-05": [
+  "purpose",
+  "detail",
+  "application"
+ ],
+ "dl1-06": [
+  "detail",
+  "inference",
+  "application"
+ ],
+ "dl1-07": [
+  "detail",
+  "detail"
+ ],
+ "dl1-08": [
+  "purpose",
+  "inference",
+  "vocabulary"
+ ],
+ "dl1-09": [
+  "application",
+  "detail"
+ ],
+ "dl1-10": [
+  "detail",
+  "application",
+  "detail"
+ ],
+ "dl1-11": [
+  "purpose",
+  "detail",
+  "inference"
+ ],
+ "dl1-12": [
+  "detail",
+  "inference",
+  "vocabulary"
+ ],
+ "dl1-13": [
+  "purpose",
+  "inference"
+ ],
+ "dl1-14": [
+  "purpose",
+  "inference",
+  "vocabulary"
+ ],
+ "dl1-15": [
+  "detail",
+  "inference"
+ ],
+ "dl1-16": [
+  "application",
+  "detail"
+ ],
+ "dl1-17": [
+  "detail",
+  "inference"
+ ],
+ "dl1-18": [
+  "purpose",
+  "detail",
+  "detail"
+ ],
+ "dl1-19": [
+  "application",
+  "inference"
+ ],
+ "dl1-20": [
+  "detail",
+  "detail"
+ ],
+ "dl2-01": [
+  "detail",
+  "vocabulary"
+ ],
+ "dl2-02": [
+  "purpose",
+  "detail",
+  "inference"
+ ],
+ "dl2-03": [
+  "inference",
+  "inference"
+ ],
+ "dl2-04": [
+  "inference",
+  "detail",
+  "detail"
+ ],
+ "dl2-05": [
+  "detail",
+  "detail"
+ ],
+ "dl2-06": [
+  "purpose",
+  "detail",
+  "inference"
+ ],
+ "dl2-07": [
+  "purpose",
+  "detail"
+ ],
+ "dl2-08": [
+  "application",
+  "application",
+  "detail"
+ ],
+ "dl2-09": [
+  "detail",
+  "vocabulary",
+  "inference"
+ ],
+ "dl2-10": [
+  "detail",
+  "inference"
+ ],
+ "dl2-11": [
+  "detail",
+  "vocabulary"
+ ],
+ "dl2-12": [
+  "detail",
+  "inference",
+  "detail"
+ ],
+ "dl2-13": [
+  "detail",
+  "vocabulary"
+ ],
+ "dl2-14": [
+  "detail",
+  "inference",
+  "detail"
+ ],
+ "dl2-15": [
+  "detail",
+  "vocabulary",
+  "inference"
+ ],
+ "dl2-16": [
+  "detail",
+  "inference"
+ ],
+ "dl2-17": [
+  "detail",
+  "vocabulary"
+ ],
+ "dl2-18": [
+  "detail",
+  "inference",
+  "inference"
+ ],
+ "dl2-19": [
+  "detail",
+  "detail"
+ ],
+ "dl2-20": [
+  "purpose",
+  "inference",
+  "application"
+ ]
+}

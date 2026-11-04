@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ap6-01",
+    "difficulty": "advanced",
+    "title": "A Frozen Planet?",
+    "discipline": "Geology",
+    "field": "earth",
+    "passage": "Glacial deposits roughly 700 and 640 million years old occur in rock sequences that, according to paleomagnetic evidence, formed near the equator. Because ice sheets reaching sea level in the tropics would seem to require an almost entirely frozen planet, some geologists proposed that Earth was once encased in ice from pole to pole. The idea gained support from a peculiar observation: the glacial layers are frequently capped by thick carbonate rocks, which ordinarily precipitate in warm, shallow seas.\n\nProponents argue that this pairing is exactly what a global freeze would produce. Once ice covered the oceans, its high reflectivity would have kept temperatures low, and the chemical weathering of rock, which normally removes carbon dioxide from the atmosphere, would have nearly ceased. Volcanoes, however, would have continued to emit the gas, so that over millions of years it may have accumulated to levels high enough to trigger an abrupt thaw. The sudden return of intense weathering under a hot, carbon-rich atmosphere would then have flooded the oceans with the ingredients for carbonate.\n\nCritics have raised a persistent objection. Photosynthetic organisms survived these episodes, which seems difficult to reconcile with a sealed ocean that blocked sunlight for millions of years. Some researchers therefore favor a \"slushball\" model, in which a band of open water persisted near the equator. Yet climate simulations suggest that such a partially frozen state is inherently unstable, tending either to melt or to freeze over completely, so the debate remains unresolved.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"precipitate\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "bring about suddenly",
+          "fall to the earth as rain",
+          "come out of solution as solids",
+          "act without due care"
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 1 says carbonate rocks ordinarily precipitate in warm seas, meaning the minerals separate out of seawater as solids. \"Bring about suddenly\" is a real sense of the verb (to precipitate a crisis), but rocks do not bring anything about here."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, why would carbon dioxide have built up in the atmosphere during a global freeze?",
+        "options": [
+          "Ice-covered oceans absorbed less sunlight and released the gas they had stored.",
+          "Volcanoes emitted far more of the gas once the oceans were covered with ice.",
+          "Its main removal process had nearly stopped, but its sources stayed active.",
+          "Intense weathering under a hot atmosphere released the carbon that had long been held in rock."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 says weathering, which normally removes carbon dioxide, nearly ceased while volcanoes continued to emit it. The volcano option is too strong: the passage says emissions continued, not that they increased."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 2 about the change recorded where carbonate rock lies directly on glacial deposits?",
+        "options": [
+          "The carbonate formed in tropical seas while the ice sheets were still growing.",
+          "The shift from icy to warm conditions was probably rapid rather than gradual.",
+          "Chemical weathering continued at a normal pace throughout the frozen period.",
+          "The carbonate precipitated from carbon dioxide released directly by volcanoes."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 1 says carbonate caps the glacial layers, and paragraph 2 links the carbonate to an abrupt thaw and the sudden return of weathering, so the transition was likely fast. The volcano option misreads paragraph 2: the carbonate ingredients came from weathering, not directly from volcanoes."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It supplies new evidence for the abrupt thaw that paragraph 2 describes and explains its timing.",
+          "It raises an objection to that account and offers a revised model.",
+          "It explains how volcanic activity kept photosynthetic organisms alive under the ice.",
+          "It reports that climate simulations have confirmed the global freeze of paragraph 2."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 3 opens with critics' objection about surviving organisms and then describes the slushball alternative. The simulations option reverses the paragraph's point: simulations cast doubt on the slushball state rather than confirming either model."
+      },
+      {
+        "type": "attitude",
+        "prompt": "Which of the following best describes the author's view of the slushball model?",
+        "options": [
+          "It has been decisively confirmed by recent climate simulations.",
+          "It fails because photosynthetic organisms could not have survived anywhere on it.",
+          "It answers a genuine problem but may itself be physically unlikely.",
+          "It is essentially the same as the idea of a planet frozen solid."
+        ],
+        "answer": 2,
+        "explanation": "The author presents the slushball as a response to the survival problem, then notes that simulations suggest a partly frozen state is unstable. The option about simulations confirming it reverses what paragraph 3 says."
+      }
+    ]
+  },
+  {
+    "id": "ap6-02",
+    "difficulty": "advanced",
+    "title": "The Faint Young Sun",
+    "discipline": "Astronomy",
+    "field": "earth",
+    "passage": "Models of stellar evolution indicate that the Sun has grown steadily brighter as hydrogen in its core is converted to helium, so that roughly four billion years ago it emitted perhaps 70 percent of its present energy. With so feeble a Sun and an atmosphere like today's, Earth's oceans should have been frozen for roughly the first half of its history. Yet sedimentary rocks deposited by flowing water, along with fossil traces of early microbial life, indicate that liquid water was abundant.\n\nThe most widely accepted resolution invokes a stronger greenhouse effect. Carbon dioxide released by volcanoes may have reached concentrations far above modern values, and methane produced by microbes could have supplemented it before oxygen accumulated in the atmosphere, since oxygen rapidly destroys methane. This explanation is not without difficulties, however. Certain ancient soils and weathered rocks appear to record carbon dioxide levels that, while elevated, seem insufficient on their own to offset the dimmer Sun.\n\nConsequently, other factors have been proposed to supplement the greenhouse account. A young Earth may have had less continental crust and therefore more dark ocean surface, which absorbs more sunlight than land does. Fewer cloud-forming particles might also have produced thinner, less reflective clouds. None of these mechanisms is thought to be sufficient by itself, and most researchers now suspect that the paradox was resolved by several contributions acting in combination rather than by a single decisive one.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"offset\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "shift out of line",
+          "set in motion",
+          "counterbalance",
+          "reflect back"
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 says carbon dioxide levels seem insufficient to offset the dimmer Sun, that is, to make up for its weaker output. \"Shift out of line\" is a real sense of offset (an offset position), but it does not fit a sentence about compensating for lost energy."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to the passage, all of the following may have helped keep early Earth warm EXCEPT",
+        "options": [
+          "an atmosphere that already held a large amount of oxygen",
+          "carbon dioxide from volcanoes at levels above today's",
+          "methane generated through the activity of microbes",
+          "a smaller share of the planet's surface occupied by dry land"
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 2 says methane could help only before oxygen accumulated, because oxygen destroys it, so abundant oxygen would not have helped. The land option may look unfamiliar, but paragraph 3 says less continental crust meant more dark, heat-absorbing ocean."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 2 about the greenhouse warming early Earth needed?",
+        "options": [
+          "Carbon dioxide levels must have climbed steadily as the Sun grew older and hotter.",
+          "The extra warming needed probably shrank as time passed.",
+          "Oxygen began to accumulate because the Sun had become much brighter.",
+          "Liquid water first appeared once the Sun reached its present output."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 1 says the Sun has grown steadily brighter, and paragraph 2 says greenhouse gases had to offset its dimness, so less compensation would have been needed as it brightened. The carbon dioxide option reverses this logic: a brightening Sun implies less need for the gas, not more."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention certain ancient soils and weathered rocks in paragraph 2?",
+        "options": [
+          "To indicate that the leading explanation may not fully account for the warmth",
+          "To show that liquid water was plentiful on the early planet's surface",
+          "To prove that volcanic carbon dioxide stood far above modern values at that time",
+          "To explain why continental crust absorbed less sunlight than ocean"
+        ],
+        "answer": 0,
+        "explanation": "The soils are introduced right after the author says the greenhouse explanation has difficulties: they record carbon dioxide levels too low to offset the dimmer Sun. Evidence for liquid water comes from the sedimentary rocks in paragraph 1, not from these soils."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"None of these mechanisms is thought to be sufficient by itself, and most researchers now suspect that the paradox was resolved by several contributions acting in combination rather than by a single decisive one.\"",
+        "options": [
+          "Researchers suspect that one mechanism was decisive, although none of the candidates has yet been identified.",
+          "Most researchers doubt that the paradox can be resolved, since each mechanism is insufficient.",
+          "Several mechanisms acted together, but the greenhouse effect was sufficient by itself.",
+          "No single factor seems adequate, so several probably worked together to warm the planet."
+        ],
+        "answer": 3,
+        "explanation": "The sentence says each mechanism alone falls short, so several probably combined. The option saying the paradox cannot be resolved misreads \"insufficient by itself\" as insufficient altogether."
+      }
+    ]
+  },
+  {
+    "id": "ap6-03",
+    "difficulty": "advanced",
+    "title": "Where the Moon Came From",
+    "discipline": "Planetary Science",
+    "field": "earth",
+    "passage": "For much of the twentieth century, three explanations for the Moon's origin competed: that it split off from a rapidly spinning Earth, that it was captured intact by Earth's gravity, or that it formed alongside Earth from the same cloud of debris. Samples returned by the Apollo missions undermined all three. Lunar rocks proved strikingly poor in iron and in volatile elements, which evaporate readily, a composition that none of the older models could easily explain.\n\nThe hypothesis that eventually supplanted them proposes that a body roughly the size of Mars struck the young Earth a glancing blow. The collision would have vaporized and ejected material chiefly from the rocky outer layers of both bodies, while their iron cores merged; the debris, heated to extreme temperatures, would have lost much of its volatile content before coalescing into the Moon. The model also accounts for the unusually large angular momentum of the Earth-Moon system.\n\nA complication emerged, however, as analytical techniques improved. Simulations predict that most of the lunar material should derive from the impactor, yet the isotopic composition of lunar rocks is almost indistinguishable from Earth's, whereas samples from Mars and from most meteorites differ measurably. Researchers have responded by proposing a more energetic collision, an impactor that happened to resemble Earth, or extensive mixing in a vapor cloud after impact. The giant impact itself is rarely disputed; its precise circumstances remain contested.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"supplanted\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "uprooted",
+          "replaced",
+          "challenged",
+          "combined"
+        ],
+        "answer": 1,
+        "explanation": "The impact hypothesis supplanted the older models, meaning it took their place. \"Challenged\" is tempting because the Apollo samples challenged those models, but supplanting means succeeding them, not merely questioning them."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, why does the Moon contain relatively little iron?",
+        "options": [
+          "It formed mainly from rocky outer layers, while the metal joined Earth.",
+          "The extreme heat of the collision evaporated most of the iron along with other volatile elements.",
+          "The impactor was a small body that had never formed an iron core of its own.",
+          "The iron cores of both bodies were thrown into space and lost after the impact."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 2 says the ejected material came chiefly from rocky outer layers while the iron cores merged. The heat option confuses iron with the volatile elements, which are the ones the passage says were lost to heating."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraph 3 about the isotopic composition of bodies in the solar system?",
+        "options": [
+          "Bodies the size of Mars usually match Earth's composition very closely.",
+          "Most meteorites have an isotopic makeup indistinguishable from the Moon's.",
+          "Objects that formed in different places tend to differ isotopically.",
+          "Earth's isotopic makeup was altered by the vapor cloud after the impact."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 3 says Mars and most meteorites differ measurably from Earth and that an impactor's material would be expected to differ too, which implies that separately formed bodies usually differ. The vapor cloud option overstates a proposal about mixing as an established fact about Earth."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention samples from Mars and from most meteorites in paragraph 3?",
+        "options": [
+          "To establish that the close match between Earth and Moon is unusual",
+          "To suggest that the impactor originated close to the orbit of Mars",
+          "To show that the Moon's volatile content is unusually low",
+          "To argue that the Moon formed from the same debris cloud as Earth"
+        ],
+        "answer": 0,
+        "explanation": "These samples differ measurably from Earth, which shows that the Earth-Moon similarity is not what one would normally expect. The passage gives no information about where the impactor came from, so the orbit option is unsupported."
+      },
+      {
+        "type": "main_idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Apollo samples confirmed that the Moon split away from a rapidly spinning Earth.",
+          "Isotopic evidence has led most researchers to give up on the giant impact theory entirely.",
+          "The Moon formed from an impactor whose composition was identical to that of Mars.",
+          "A collision theory now prevails, although some of its details are still unsettled."
+        ],
+        "answer": 3,
+        "explanation": "The passage explains how the giant impact replaced older models and ends by noting that the impact is rarely disputed while its circumstances remain contested. The isotopic option is too extreme: the evidence complicated the theory but did not overturn it."
+      }
+    ]
+  },
+  {
+    "id": "ap6-04",
+    "difficulty": "advanced",
+    "title": "Rethinking the Ocean Conveyor",
+    "discipline": "Oceanography",
+    "field": "earth",
+    "passage": "The textbook image of the ocean's deep circulation is a conveyor belt: cold, salty water sinks in the North Atlantic, flows southward at depth, and eventually rises back to the surface across the world's oceans. In the classic formulation, this return flow depends on mixing; heat diffusing slowly downward was thought to make deep water gradually lighter until it could ascend. Calculations of the mixing required, however, yielded rates far higher than those later measured in the open ocean interior, where turbulence proved surprisingly weak.\n\nOne resolution shifts attention to the Southern Ocean. There, strong westerly winds blowing around Antarctica drive surface water northward, and deep water appears to rise along steeply sloping density surfaces to replace it. On this view, a substantial fraction of the upwelling is mechanically driven by wind rather than by diffusive heating, which would reconcile the circulation with the feeble interior mixing that observations reveal.\n\nThe revised picture does not render mixing irrelevant. Measurements over rough seafloor topography, such as mid-ocean ridges and seamounts, have revealed localized hot spots where tidal currents generate turbulence orders of magnitude stronger than average. Such concentrated mixing may help explain how the very densest bottom waters, which lie below the reach of the Southern Ocean pathway, are eventually lightened. The circulation is therefore now pictured less as a single loop than as an interlocking set of pathways with distinct driving mechanisms.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"render\" in paragraph 3 is closest in meaning to",
+        "options": [
+          "portray",
+          "make",
+          "hand over",
+          "translate"
+        ],
+        "answer": 1,
+        "explanation": "The revised picture does not render, or make, mixing irrelevant. \"Portray\" is a real meaning of render (to render a scene in paint), but the sentence is about causing mixing to become unimportant, not depicting it."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to the passage, all of the following are true of mixing in the ocean EXCEPT:",
+        "options": [
+          "It is weaker in the open interior than early calculations required.",
+          "It can be intensified where tides move across rough terrain.",
+          "It may help lighten bottom waters lying at very great depths.",
+          "It is now seen as the main force lifting deep water near Antarctica."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 attributes upwelling near Antarctica mainly to wind rather than to diffusive heating, so this statement is false. The option about rough terrain is true: paragraph 3 describes tidal turbulence over ridges and seamounts."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 3 about the measurements of weak turbulence?",
+        "options": [
+          "They showed that tidal currents are stronger in the open ocean than near seamounts.",
+          "They proved that wind-driven upwelling is weakest where the seafloor is roughest.",
+          "They led researchers to abandon the conveyor image because it ignored tides.",
+          "They were probably taken away from ridges, seamounts, and similar features."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 1 says turbulence was weak in the open ocean interior, and paragraph 3 says turbulence is far stronger over rough topography, so the weak readings likely came from elsewhere. The tidal option reverses paragraph 3, which places the strong tidal mixing over seamounts."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It rejects the wind-driven account in favor of the original conveyor belt model.",
+          "It provides measurements showing that the westerly winds around Antarctica also generate tidal turbulence.",
+          "It qualifies the revised view by giving a limited role back to mixing.",
+          "It repeats the argument of paragraph 2 using further evidence from Antarctica."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 shifts emphasis from mixing to wind; paragraph 3 begins \"The revised picture does not render mixing irrelevant\" and assigns mixing a role for the densest waters. It does not reject the wind account, since it describes the result as interlocking pathways."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 2? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"On this view, a substantial fraction of the upwelling is mechanically driven by wind rather than by diffusive heating, which would reconcile the circulation with the feeble interior mixing that observations reveal.\"",
+        "options": [
+          "Observations reveal that wind and heating together drive most of the feeble mixing found throughout the ocean interior.",
+          "Because interior mixing is feeble, winds must heat the deep water before it is able to rise.",
+          "Wind-driven upwelling has been observed directly, so heating plays no part in the circulation.",
+          "If wind lifts much of the deep water, the weak turbulence measured would no longer conflict with the circulation."
+        ],
+        "answer": 3,
+        "explanation": "The sentence claims that wind-driven upwelling would remove the conflict between the circulation and weak observed mixing. The option about winds heating the water combines words from the sentence but invents a heating role for the wind."
+      }
+    ]
+  },
+  {
+    "id": "ap6-05",
+    "difficulty": "advanced",
+    "title": "When the Mediterranean Dried",
+    "discipline": "Geology",
+    "field": "earth",
+    "passage": "In the early 1970s, drilling beneath the floor of the Mediterranean Sea recovered layers of evaporites, minerals such as gypsum and halite that crystallize when seawater evaporates. Dated to between roughly six and five and a half million years ago, the deposits are in places more than a kilometer thick. Because evaporating the entire Mediterranean once would leave only a comparatively thin layer of salt, their sheer volume implies that seawater repeatedly flowed in and evaporated, presumably through a restricted connection to the Atlantic.\n\nThe interpretation that attracted the most attention held that the sea had at times been almost completely desiccated, leaving salt flats thousands of meters below the ocean's surface. Supporting evidence included deep canyons buried beneath the Nile and Rhone deltas, which appear to have been carved by rivers descending to a drastically lowered base level, as well as sediments resembling those of modern desert salt pans.\n\nNot all geologists accept so dramatic a scenario. Some argue that the evaporites could have precipitated from a deep, highly concentrated brine without the basin ever drying out, and they contend that certain features cited as signs of exposure are ambiguous. Seismic surveys suggest the salt layers vary considerably among the sub-basins, which may imply that conditions differed from place to place. A compromise view holds that the water level fell substantially, though perhaps not uniformly. The crisis apparently ended when Atlantic water poured back in through the Strait of Gibraltar.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"desiccated\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "preserved for storage",
+          "lacking in vitality",
+          "made saltier",
+          "emptied of water"
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 describes the sea as almost completely desiccated, leaving salt flats, so the word means dried out. \"Preserved for storage\" is a real sense (desiccated coconut), but a sea is not being preserved."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 1, why do geologists conclude that seawater entered the Mediterranean many times?",
+        "options": [
+          "The evaporites were dated to several separate periods that were millions of years apart.",
+          "Gypsum and halite crystallize only when seawater evaporates more than once.",
+          "Drying the basin once could not have left so much mineral.",
+          "The connection to the Atlantic was too wide to allow the sea to evaporate."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 1 says evaporating the sea once would leave only a thin layer, while the deposits exceed a kilometer in places. The dating option is wrong because all the deposits fall within about half a million years."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 2 and 3 about the sediments resembling those of desert salt pans?",
+        "options": [
+          "Critics deny that any evaporites formed in the basin at that time.",
+          "They formed only after Atlantic water flowed back into the basin.",
+          "Critics may regard them as weaker evidence of drying than supporters do.",
+          "Supporters of drying rely on them to reject the seismic survey results."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 lists the salt-pan sediments as evidence of exposure, and paragraph 3 says critics consider certain features cited as signs of exposure ambiguous. The option saying critics deny any evaporites formed is too extreme: critics accept the evaporites but explain them with a deep brine."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention deep canyons buried beneath the Nile and Rhone deltas?",
+        "options": [
+          "To cite signs that the water level once dropped dramatically",
+          "To explain how Atlantic water was able to return to the basin later",
+          "To show that rivers supplied most of the salt found in the deposits",
+          "To illustrate features that critics regard as clear proof that the basin was exposed"
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 2 says the canyons appear to have been cut by rivers descending to a drastically lowered base level, supporting near-complete drying. The option calling the canyons clear proof is wrong because paragraph 3 says critics find such features ambiguous, not clear."
+      },
+      {
+        "type": "attitude",
+        "prompt": "The author's attitude toward the hypothesis of near-complete drying can best be described as",
+        "options": [
+          "measured, noting its evidence as well as reasonable objections",
+          "dismissive, since a deep brine explains every observation",
+          "enthusiastic, since seismic surveys of the sub-basins have confirmed it",
+          "indifferent, since the crisis ended so long ago"
+        ],
+        "answer": 0,
+        "explanation": "The author presents the canyons and sediments as support, then reports objections and a compromise view without taking a firm side. The seismic option is wrong because the surveys suggest variation among sub-basins rather than confirming complete drying."
+      }
+    ]
+  },
+  {
+    "id": "ap6-06",
+    "difficulty": "advanced",
+    "title": "When Ice Ages Lengthened",
+    "discipline": "Climate Science",
+    "field": "earth",
+    "passage": "Over the past few million years, Earth's climate has alternated between glacial and interglacial states, a rhythm generally attributed to periodic variations in Earth's orbit and the tilt of its axis, which redistribute sunlight across latitudes and seasons. Before about one million years ago, ice sheets grew and retreated on a cycle of roughly 41,000 years, matching the period of changes in axial tilt. Thereafter, glaciations became longer and more severe, recurring about every 100,000 years.\n\nThe puzzle is that no corresponding change in orbital forcing occurred. A 100,000-year cycle does exist in the shape of Earth's orbit, but its effect on incoming sunlight is comparatively slight, apparently too weak to pace the ice ages directly. Researchers have therefore looked for changes within the climate system itself that might have altered its sensitivity to otherwise unchanging external forcing.\n\nOne prominent hypothesis concerns the ground beneath the ice. Repeated glaciations may have gradually scraped away a thick layer of loose, weathered sediment, exposing hard bedrock. Ice resting on slippery sediment tends to flow rapidly and remain thin, whereas ice anchored to rough bedrock can thicken into massive sheets that survive several orbital cycles before collapsing. Alternative proposals emphasize a long-term decline in atmospheric carbon dioxide or shifts in ocean circulation. These mechanisms are not mutually exclusive, and the transition may well reflect several of them operating together.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"pace\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "walk back and forth",
+          "measure by stepping",
+          "speed up",
+          "set the timing of"
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 says the orbital cycle seems too weak to pace the ice ages, that is, to control when they occur. \"Walk back and forth\" is a real sense of pace, but it does not apply to a cycle of sunlight."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to the passage, all of the following are true of the period after about one million years ago EXCEPT:",
+        "options": [
+          "Glacial periods lasted longer than they had before.",
+          "Ice ages became more severe than in earlier times.",
+          "Glaciations recurred at intervals of about 100,000 years.",
+          "A new 100,000-year cycle arose in Earth's orbit."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 says no corresponding change in orbital forcing occurred; the orbital 100,000-year cycle already existed. The other three statements restate the last sentence of paragraph 1."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 3 about ice sheets before the loose sediment was removed?",
+        "options": [
+          "They rested on hard bedrock that had been exposed by earlier ice.",
+          "They responded only weakly to changes in the tilt of Earth's axis.",
+          "They grew into massive sheets that lasted for several orbital cycles.",
+          "They probably melted back within roughly one cycle of axial tilt."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 3 says ice on slippery sediment stays thin rather than surviving several cycles, and paragraph 1 says early ice sheets followed the 41,000-year tilt cycle. The option about massive, long-lasting sheets describes ice on bedrock, the situation after the sediment was gone."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It identifies the change in orbital forcing that paragraph 2 says is missing.",
+          "It challenges the claim that orbital variations influence climate at all.",
+          "It shows that the 41,000-year cycle described in paragraph 1 never actually existed.",
+          "It proposes answers to the question raised at the end of paragraph 2."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 ends by saying researchers sought changes within the climate system, and paragraph 3 presents such changes (sediment removal, carbon dioxide, ocean circulation). The option about a change in orbital forcing is wrong because these are internal changes, not orbital ones."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"Ice resting on slippery sediment tends to flow rapidly and remain thin, whereas ice anchored to rough bedrock can thicken into massive sheets that survive several orbital cycles before collapsing.\"",
+        "options": [
+          "Ice gripping a rough base can grow thick enough to outlast several cycles, unlike ice sliding on soft ground.",
+          "Rapidly flowing ice scrapes slippery sediment off the bedrock, which in turn causes the massive sheets to collapse.",
+          "Ice on rough bedrock stays thin because it flows rapidly through several orbital cycles.",
+          "Massive ice sheets form on slippery sediment and collapse only once bedrock is exposed."
+        ],
+        "answer": 0,
+        "explanation": "The sentence contrasts thin, fast-flowing ice on sediment with thick, long-lasting ice on bedrock. The option about ice on bedrock staying thin attaches the sediment behavior to the wrong surface."
+      }
+    ]
+  },
+  {
+    "id": "ap6-07",
+    "difficulty": "advanced",
+    "title": "The Persistence of Sex",
+    "discipline": "Evolutionary Biology",
+    "field": "life",
+    "passage": "Sexual reproduction poses an enduring puzzle for evolutionary theory. In many species, an asexual female produces only daughters, each of which can bear offspring, whereas a sexual female devotes roughly half her offspring to sons. All else being equal, an asexual lineage should therefore increase in number about twice as fast, a disadvantage often called the twofold cost of sex. That sex nonetheless predominates among complex organisms suggests that it confers benefits large enough to outweigh this handicap.\n\nOne family of explanations stresses the accumulation of harmful mutations. In an asexual lineage, a genome cannot shed a damaging mutation except through the rare event of a reverse mutation at the same site, so such mutations may build up irreversibly from one generation to the next. Recombination, by contrast, can generate offspring carrying fewer defects than either parent, allowing selection to purge them more efficiently.\n\nA second hypothesis, named after the character in Lewis Carroll's fiction who must keep running merely to stay in place, emphasizes parasites. Because parasites evolve rapidly to exploit the most common host genotypes, a lineage of identical clones may present an easy and stationary target, whereas sexual offspring are genetically novel. Support comes from certain freshwater snails in which sexual individuals are more frequent where parasites are abundant. These explanations need not be rivals; each may operate under different conditions, and their combined effect could be what sustains sex.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"purge\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "purify morally",
+          "eliminate",
+          "expel from office",
+          "punish severely"
+        ],
+        "answer": 1,
+        "explanation": "Recombination lets selection purge harmful mutations, that is, remove them from the population. \"Expel from office\" is a real sense (a political purge), but mutations are not officials being dismissed."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, why do harmful mutations tend to build up in asexual lineages?",
+        "options": [
+          "Asexual females produce only daughters, which inherit twice as many mutations as sons.",
+          "Recombination produces offspring with more defects than either of their parents carry.",
+          "Selection cannot act on asexual organisms at all, because all members of a lineage are genetically identical.",
+          "Such a defect disappears only through a rare change that undoes it."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 says an asexual genome can shed a mutation only by a rare reverse mutation at the same site. The recombination option reverses the passage, which says recombination can yield offspring with fewer defects."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 3 about the freshwater snails?",
+        "options": [
+          "Where parasites are scarce, asexual snails may outcompete sexual ones.",
+          "Parasites infect sexual snails more often than they infect asexual ones.",
+          "Sexual snails produce twice as many offspring where parasites are common.",
+          "These snails escape the twofold cost of sex that affects other species."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 1 says asexual lineages grow faster unless sex brings a compensating benefit, and paragraph 3 says sexual snails are more common where parasites abound; where parasites are rare, the benefit shrinks while the cost remains. The infection option reverses the logic, since sexual offspring are the harder targets."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention a character in Lewis Carroll's fiction?",
+        "options": [
+          "To convey that hosts must change continually just to keep up with their enemies",
+          "To suggest that the parasite hypothesis was first put forward in a novel",
+          "To illustrate how quickly sexual lineages increase in number over time",
+          "To imply that the parasite hypothesis is more fanciful than the competing mutation hypothesis"
+        ],
+        "answer": 0,
+        "explanation": "The character must keep running merely to stay in place, which mirrors hosts producing novel genotypes to keep pace with rapidly evolving parasites. The passage says only that the hypothesis is named after the character, not that it originated in fiction."
+      },
+      {
+        "type": "main_idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Asexual lineages now increase twice as fast as sexual ones in most species of complex organisms.",
+          "Biologists have proposed several advantages that may explain why a costly mode of reproduction persists.",
+          "Parasites have been shown to be the only factor that keeps sexual reproduction widespread today.",
+          "Harmful mutations accumulate in sexual lineages unless recombination is blocked by natural selection in each generation."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 1 poses the twofold cost of sex, and paragraphs 2 and 3 present mutation and parasite explanations that may act together. The parasite option is too extreme, since the passage treats parasites as one of several possible factors."
+      }
+    ]
+  },
+  {
+    "id": "ap6-08",
+    "difficulty": "advanced",
+    "title": "Bacteria Inside Our Cells",
+    "discipline": "Cell Biology",
+    "field": "life",
+    "passage": "Few ideas in biology have undergone so complete a reversal in reputation as the proposal that mitochondria, the structures that generate most of a cell's usable energy, descend from free-living bacteria. When the idea was revived in the late 1960s, many biologists dismissed it as speculative. Today it is close to orthodoxy, chiefly because mitochondria retain several bacterial hallmarks: they divide by a process resembling bacterial fission, they possess their own small circular genome, and their protein-building machinery resembles that of bacteria more than that of the surrounding cell.\n\nThe theory nevertheless leaves a number of questions open. Mitochondrial genomes are drastically reduced; most genes the organelle needs now reside in the cell's nucleus, apparently transferred there over hundreds of millions of years. Why some genes were relocated while a handful were retained remains debated, though one hypothesis holds that keeping certain genes close to the machinery they control permits rapid, local regulation.\n\nA more fundamental controversy concerns the sequence of events. A long-standing view held that the host was already a complex cell, equipped with a nucleus and internal membranes, that engulfed the bacterium as prey. An alternative maintains that the partnership began between two comparatively simple microbes and that it was the energy supplied by the newcomer that made the subsequent evolution of complexity possible. Genetic analyses placing the host's closest living relatives among simple microbes have lent this second view growing support, although the matter is not settled.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"orthodoxy\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "conformity in religion",
+          "the generally accepted view",
+          "strict adherence to tradition",
+          "an unquestioned authority"
+        ],
+        "answer": 1,
+        "explanation": "The idea went from speculative to close to orthodoxy, meaning it is now the mainstream position. \"Conformity in religion\" is a real sense of the word, but the sentence concerns scientific acceptance."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to paragraph 1, all of the following are features that mitochondria share with bacteria EXCEPT:",
+        "options": [
+          "They keep most of their genes inside a nucleus.",
+          "They multiply by splitting in a bacterial manner.",
+          "They carry a compact, ring-shaped set of genes.",
+          "Their protein synthesis resembles that of bacteria."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 1 lists fission-like division, a small circular genome, and bacterial-type protein machinery. The nucleus option mixes in paragraph 2, where most mitochondrial genes reside in the host cell's nucleus, not in a nucleus of the mitochondria."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraph 3 about the alternative view?",
+        "options": [
+          "It holds that the bacterium engulfed the host and gave it a nucleus.",
+          "It denies that the host was related to any simple microbe that is still living today.",
+          "It claims that mitochondria moved their whole genome into the host.",
+          "On that view, the nucleus likely evolved after the partnership."
+        ],
+        "answer": 3,
+        "explanation": "The alternative says the partnership started between simple microbes and that the newcomer's energy then made complexity possible; since the nucleus is part of that complexity, it would have come later. The option denying any relationship to living simple microbes contradicts the genetic analyses that place the host's relatives among simple microbes."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It explains why certain genes were kept inside the mitochondria.",
+          "It moves from an open question to a more basic dispute about timing.",
+          "It rejects the bacterial origin of mitochondria that paragraph 2 had called into doubt.",
+          "It shows that gene transfer took hundreds of millions of years."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 2 discusses the open question of gene relocation, and paragraph 3 introduces \"a more fundamental controversy\" about the sequence of events. The option about rejecting the bacterial origin is wrong because paragraph 2 never doubts the bacterial origin."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 2? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"Why some genes were relocated while a handful were retained remains debated, though one hypothesis holds that keeping certain genes close to the machinery they control permits rapid, local regulation.\"",
+        "options": [
+          "Researchers agree that genes were relocated so that the nucleus could control the organelle's machinery more rapidly.",
+          "Most genes were retained because they needed to stay close to the machinery that they control.",
+          "It is debated whether any genes were relocated, since a handful still regulate the cell locally.",
+          "It is unclear why a few genes stayed behind, but they may let the organelle adjust its own activity quickly."
+        ],
+        "answer": 3,
+        "explanation": "The sentence says the reason for the split is debated and offers one explanation for keeping some genes in place. The option saying most genes were retained reverses the facts of paragraph 2, where most were transferred."
+      }
+    ]
+  },
+  {
+    "id": "ap6-09",
+    "difficulty": "advanced",
+    "title": "What Sleep Is For",
+    "discipline": "Neuroscience",
+    "field": "life",
+    "passage": "Sleep is so widespread among animals, occurring in some form even in fruit flies and nematode worms, that it is difficult to believe it serves no essential purpose. Yet sleep is also costly: a sleeping animal cannot feed or reproduce and may be vulnerable to predators. Its persistence despite these hazards has led researchers to search for a function important enough to justify them.\n\nAn early proposal held that sleep conserves energy, but the savings appear modest; in humans, a night of sleep is estimated to reduce energy use by only around a tenth compared with quiet wakefulness. Attention has therefore turned to the brain. One influential hypothesis maintains that during waking, connections between neurons are progressively strengthened as an animal learns, and that sleep allows them to be broadly scaled back, restoring the brain's capacity to encode new information while preserving the relative differences among connections. Another emphasizes clearance: experiments in mice indicate that fluid flows through brain tissue more vigorously during sleep, possibly flushing out metabolic waste.\n\nThese hypotheses are not necessarily incompatible, and some researchers doubt that sleep has any single function. Sleep may have originated to serve one purpose and subsequently been co-opted for others, much as feathers, which may first have provided insulation, were later adapted for flight. If so, the question of what sleep is for may lack a single answer, and the search for one might obscure the diversity of processes that sleep supports.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"co-opted\" in paragraph 3 is closest in meaning to",
+        "options": [
+          "chosen by existing members",
+          "drawn in to silence dissent",
+          "gradually discarded",
+          "adopted for another use"
+        ],
+        "answer": 3,
+        "explanation": "Sleep may have been co-opted for other purposes, just as feathers were later adapted for flight. \"Chosen by existing members\" is a real meaning (co-opted onto a committee), but sleep is not being elected to anything."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, why has research shifted toward the brain?",
+        "options": [
+          "Sleep lowers energy use more in the brain than in other organs.",
+          "Fluid stops flowing through brain tissue during quiet wakefulness.",
+          "Sleep saves too little energy to justify its costs.",
+          "Learning strengthens neural connections only while animals are asleep."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 says the energy savings appear modest, about a tenth, and \"therefore\" attention turned to the brain. The fluid option distorts the mouse findings, which say flow is more vigorous during sleep, not absent while awake."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraph 2 about an animal that is kept awake for a long period?",
+        "options": [
+          "It will lose the differences among its neural connections.",
+          "It may find it increasingly hard to take in new information.",
+          "It will need less sleep afterward if it has learned a great deal.",
+          "It will save about a tenth of its energy compared with sleeping."
+        ],
+        "answer": 1,
+        "explanation": "The scaling hypothesis says connections strengthen throughout waking and that sleep restores the capacity to encode new information, so extended waking would leave that capacity reduced. The option about losing the differences among connections contradicts the claim that sleep preserves the relative differences among connections."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention feathers in paragraph 3?",
+        "options": [
+          "To show that keeping warm was the original function of sleep in animals",
+          "To illustrate how a trait can come to serve purposes beyond its first one",
+          "To argue that sleep first evolved in birds and later spread",
+          "To suggest that sleep may in fact have no biological function whatsoever"
+        ],
+        "answer": 1,
+        "explanation": "Feathers, perhaps first used for insulation and later for flight, parallel the idea that sleep was co-opted for new roles. The insulation option misapplies the feather's original function to sleep."
+      },
+      {
+        "type": "attitude",
+        "prompt": "Which of the following best describes the author's view of the search for a single function of sleep?",
+        "options": [
+          "It has finally been settled by experiments on mice.",
+          "It may be misguided if sleep serves a range of roles.",
+          "It is pointless because sleep is too costly to study.",
+          "It should return to energy savings rather than the brain."
+        ],
+        "answer": 1,
+        "explanation": "The final sentence warns that looking for one answer might obscure the diversity of processes sleep supports. The mouse option overstates the findings, which the author presents as one hypothesis among several."
+      }
+    ]
+  },
+  {
+    "id": "ap6-10",
+    "difficulty": "advanced",
+    "title": "Giants and Dwarfs on Islands",
+    "discipline": "Evolutionary Ecology",
+    "field": "life",
+    "passage": "On islands, the bodies of animals often change size in ways that seem to follow a pattern. Species that are large on the mainland, such as elephants and deer, have repeatedly produced dwarf forms on islands, while small mainland species, especially rodents, have often given rise to giants. This tendency, known as the island rule, was formulated in the 1960s and has since been invoked to explain fossil curiosities such as the pygmy elephants of Mediterranean islands.\n\nSeveral mechanisms have been proposed. For large animals, limited food on a small island may favor individuals that require less of it, while the absence of large predators removes much of the protection that great size provides. For small animals, release from predation may permit greater size, and the relative scarcity of competitors may allow them to exploit resources once monopolized by other species. Under these conditions, body size would converge toward an intermediate optimum.\n\nRecent analyses, however, have cast doubt on the rule's generality. Compilations encompassing hundreds of species indicate that the trend is strong in some groups, notably certain mammals, but weak or absent in others, including many lizards and birds. Critics also note that early studies may have favored conspicuous examples, a bias that would exaggerate the pattern's prevalence. Proponents counter that variation is precisely what the proposed mechanisms predict, since island size, isolation, and predator communities differ widely. The debate thus concerns less whether island size changes occur than how universal and predictable they are.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"conspicuous\" in paragraph 3 is closest in meaning to",
+        "options": [
+          "extravagant",
+          "brightly colored",
+          "uncommon",
+          "striking"
+        ],
+        "answer": 3,
+        "explanation": "Early studies may have favored conspicuous, or eye-catching, examples such as pygmy elephants. \"Extravagant\" reflects the sense in \"conspicuous consumption,\" which does not fit examples chosen for study."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to paragraph 2, all of the following may influence body size on islands EXCEPT",
+        "options": [
+          "a limited supply of food on small islands",
+          "the lack of large predators on many of the islands",
+          "colder island climates that favor larger bodies",
+          "fewer rival species competing for resources"
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 mentions limited food, the absence of large predators, and scarce competitors, but says nothing about climate. The predator option may seem doubtful, yet the paragraph names release from predation for both large and small animals."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 3 about the examples first used to illustrate the island rule?",
+        "options": [
+          "They excluded lizards and birds because those animals are hard to notice.",
+          "They showed that pygmy elephants arose on islands that lacked rodents.",
+          "They proved that small islands produce more giant birds than large ones.",
+          "They come from a group in which the pattern turns out to hold fairly well."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 1's examples are elephants, deer, and rodents, all mammals, and paragraph 3 says the trend is strong in certain mammals. The lizard option overstates the bias described in paragraph 3, which concerns favoring striking cases, not deliberately excluding groups."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It offers new evidence confirming that the mechanisms of paragraph 2 hold for all species.",
+          "It argues that the mechanisms described in paragraph 2 explain why many island birds become giants.",
+          "It rejects the claim that animals on islands ever change in size relative to the mainland.",
+          "It doubts the pattern's generality, and defenders reply with paragraph 2's factors."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 3 reports doubts about the rule's generality, and proponents answer that variation in islands and predators, the conditions behind paragraph 2's mechanisms, predicts uneven results. The option rejecting all size change is too extreme, since the debate concerns universality, not whether changes occur."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"The debate thus concerns less whether island size changes occur than how universal and predictable they are.\"",
+        "options": [
+          "Whether island size changes occur at all remains the main unresolved question.",
+          "The dispute is mainly about how consistent the pattern is, not about whether it exists.",
+          "Island size changes are universal, but no one can yet predict which species will change.",
+          "The debate is over whether larger islands produce more predictable size changes."
+        ],
+        "answer": 1,
+        "explanation": "The sentence says the disagreement is not about the existence of size change but about its generality and predictability. The option calling existence the main unresolved question reverses this by making existence the central question."
+      }
+    ]
+  },
+  {
+    "id": "ap6-11",
+    "difficulty": "advanced",
+    "title": "The Mouse and the Elephant",
+    "discipline": "Physiology",
+    "field": "life",
+    "passage": "A mouse and an elephant differ in mass by a factor of roughly 100,000, yet their rates of energy use do not differ by the same factor. Across a vast range of animals, metabolic rate increases more slowly than body mass, so that each gram of elephant tissue consumes far less energy than each gram of mouse tissue. In the 1930s, careful measurements suggested that metabolic rate scales with mass raised to approximately the three-quarter power, a relationship that has served as a benchmark ever since.\n\nWhy the exponent should take this value has been contentious. An older explanation held that because heat is lost through the body's surface, and surface area grows only as the two-thirds power of mass, larger animals must lower their metabolic rates to avoid overheating. This reasoning predicts an exponent of two-thirds, not three-quarters. In the late 1990s, an alternative theory attributed the three-quarter exponent to the geometry of branching distribution networks, such as blood vessels, which must deliver resources to every cell as efficiently as possible.\n\nNeither account has escaped criticism. Some reanalyses of the data find exponents closer to two-thirds for mammals, particularly when very large species are treated separately, and others report that the exponent varies systematically with body temperature and activity level. Such findings suggest that a single universal exponent may be an idealization; scaling might instead reflect several constraints whose relative influence shifts among groups of organisms.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"contentious\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "quarrelsome",
+          "disputed",
+          "technical",
+          "offensive"
+        ],
+        "answer": 1,
+        "explanation": "The value of the exponent has been contentious, meaning a subject of disagreement, as the rival explanations show. \"Quarrelsome\" describes contentious people, but the sentence describes a question, not a person's temperament."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, what problem does the surface-area explanation face?",
+        "options": [
+          "It assumes that large animals lose heat faster per gram than small ones do.",
+          "It cannot explain why the blood vessels of large animals branch so efficiently.",
+          "It predicts that elephants should use more energy per gram than mice.",
+          "Its predicted value differs from the measured benchmark."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 says the surface reasoning predicts two-thirds, \"not three-quarters,\" the benchmark from paragraph 1. The option about large animals losing heat faster reverses the argument: larger animals have relatively less surface, so they shed heat less easily per gram."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 2 and 3 about the reanalyses of mammal data?",
+        "options": [
+          "They show that the 1930s measurements were taken only on the very largest mammals.",
+          "Some of them fit the older surface-based reasoning better than the network one.",
+          "They prove that body temperature has no influence on how metabolism scales.",
+          "They indicate that elephants and mice share one exponent only when active."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 2 says the surface account predicts two-thirds while the network theory explains three-quarters, and paragraph 3 says some reanalyses find exponents near two-thirds. The temperature option contradicts paragraph 3, which says the exponent varies with body temperature."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention blood vessels in paragraph 2?",
+        "options": [
+          "To explain how large animals avoid overheating through their body surface",
+          "To show that every cell in an animal receives an equal amount of energy",
+          "To give an example of the kind of structure the alternative theory relies on",
+          "To argue that the exponent changes with body temperature and activity"
+        ],
+        "answer": 2,
+        "explanation": "Blood vessels are cited as an instance of the branching distribution networks central to the late-1990s theory. The overheating option belongs to the older surface-area explanation, a different part of the paragraph."
+      },
+      {
+        "type": "main_idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "A familiar scaling rule lacks an agreed cause and may not hold universally.",
+          "Network theory has now replaced the surface-area account as the settled explanation for scaling.",
+          "Large animals use more energy per gram than small animals because they lose heat.",
+          "Measurements made in the 1930s have been shown to contain serious systematic errors."
+        ],
+        "answer": 0,
+        "explanation": "The passage presents the three-quarter benchmark, two contested explanations, and evidence that no single exponent may apply. The network option is wrong because paragraph 3 says neither account has escaped criticism."
+      }
+    ]
+  },
+  {
+    "id": "ap6-12",
+    "difficulty": "advanced",
+    "title": "Is Glass a Slow Liquid?",
+    "discipline": "Materials Science",
+    "field": "physical",
+    "passage": "A frequently repeated claim holds that window glass is a liquid flowing too slowly to perceive, and that panes in medieval cathedrals are thicker at the bottom because the glass has sagged over the centuries. The claim is appealing, since glass lacks the orderly, repeating arrangement of atoms found in crystals and in this respect does resemble a liquid frozen in place. Closer scrutiny, however, renders the explanation untenable.\n\nCalculations based on measured viscosities indicate that at room temperature, ordinary glass would require a span of time vastly exceeding the age of the universe to deform perceptibly under its own weight. Moreover, far older glass objects show no comparable distortion, and old panes are not consistently thicker at the bottom; some are thicker at the top or along one side. The unevenness is more plausibly a by-product of early manufacturing methods, which spun or blew molten glass into sheets of irregular thickness, glaziers perhaps tending to set the heavier edge downward.\n\nWhether glass should be classified as a liquid or a solid nonetheless remains a subtle question. As a molten mixture cools, its viscosity rises until, over a temperature range known as the glass transition, the atoms effectively lose the ability to rearrange. Unlike freezing, this transition does not occur at a single fixed temperature: a melt cooled more slowly becomes rigid at a somewhat lower temperature. Many physicists therefore describe glass as an amorphous solid, a state whose underlying physics is still not fully understood.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"untenable\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "unfit to live in",
+          "impossible to defend",
+          "unbearable to endure",
+          "difficult to test directly"
+        ],
+        "answer": 1,
+        "explanation": "Closer scrutiny renders the sagging explanation untenable, meaning it can no longer be defended. \"Unfit to live in\" is a real sense (an untenable building), but an explanation is not a dwelling."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to the passage, all of the following count against the idea that cathedral glass has sagged EXCEPT:",
+        "options": [
+          "Glass lacks the orderly arrangement of atoms found in crystals.",
+          "Glass at room temperature would take eons to deform.",
+          "Much older glass objects show no comparable distortion.",
+          "Some old panes are thickest at the top or along one side."
+        ],
+        "answer": 0,
+        "explanation": "The missing atomic order, mentioned in paragraph 1, is what makes the liquid claim appealing, not evidence against it. The other three statements come from paragraph 2, which argues against sagging."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraph 3 about the freezing of a crystalline substance?",
+        "options": [
+          "It happens at a higher temperature when cooled slowly.",
+          "It produces the disordered arrangement of atoms found in glass.",
+          "It takes place at one characteristic temperature for that substance.",
+          "It occurs gradually as viscosity falls while the liquid cools down."
+        ],
+        "answer": 2,
+        "explanation": "The paragraph says the glass transition, \"unlike freezing,\" does not occur at a single fixed temperature, implying that freezing does. The slow-cooling option borrows the description of the glass transition and reverses its direction."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It supplies further calculations showing that glass flows slowly at room temperature.",
+          "Having disposed of a popular explanation, it notes that a related question remains genuinely open.",
+          "It explains how medieval manufacturing methods first produced the glass transition.",
+          "It concludes that glass is a liquid after all, just as the popular claim about cathedrals maintained."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 2 refutes the sagging story, and paragraph 3 turns to the still-subtle question of how to classify glass. The option saying glass is a liquid after all is wrong because paragraph 3 reports that many physicists call glass an amorphous solid."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 2? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"The unevenness is more plausibly a by-product of early manufacturing methods, which spun or blew molten glass into sheets of irregular thickness, glaziers perhaps tending to set the heavier edge downward.\"",
+        "options": [
+          "Old panes were probably uneven from the start because of how they were made and installed.",
+          "Early manufacturing methods caused molten glass to keep flowing downward over time.",
+          "Glaziers set the heavier edge downward so that the panes would not sag later on.",
+          "Spun and blown glass formed even sheets that became irregular in later centuries."
+        ],
+        "answer": 0,
+        "explanation": "The sentence attributes the uneven thickness to production methods and to how glaziers mounted the panes. The glazier option invents a purpose, preventing sagging, that the sentence does not state."
+      }
+    ]
+  },
+  {
+    "id": "ap6-13",
+    "difficulty": "advanced",
+    "title": "Why Ice Is Slippery",
+    "discipline": "Physics",
+    "field": "physical",
+    "passage": "Ice is among the most slippery surfaces commonly encountered, yet the reason has proved surprisingly elusive. A long-popular explanation, still found in some textbooks, attributes skating to pressure melting: because ice is less dense than liquid water, applying pressure lowers its melting point, so the weight concentrated on a narrow blade was thought to liquefy a thin layer beneath it. Quantitative estimates undermine this account. Even under a skate blade, the melting point falls by only a few degrees, yet skating remains possible in conditions far colder.\n\nA second mechanism attributes the lubricating layer to frictional heating. As an object slides, the energy dissipated at the contact may melt a microscopically thin film of water, and experiments showing that friction diminishes at higher sliding speeds are consistent with this view. Frictional heating cannot, however, account for the observation that ice is slippery even to a person standing still on it, before any sliding has generated heat.\n\nA third line of research holds that the surface of ice is intrinsically disordered. Spectroscopic studies indicate that molecules in the outermost layers, lacking neighbors on one side, are less tightly bound and more mobile than those in the interior, producing a so-called premelted layer even well below the freezing point. Some studies further suggest that this layer differs in important ways from ordinary liquid water. Most researchers now consider several of these effects to contribute, their relative importance depending on temperature and speed.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"elusive\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "deliberately evasive",
+          "quick to escape",
+          "hard to pin down",
+          "rarely discussed"
+        ],
+        "answer": 2,
+        "explanation": "The reason for ice's slipperiness has been elusive, meaning hard to pin down, as the competing explanations show. \"Deliberately evasive\" describes a person avoiding a question, which a scientific cause cannot do."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 1, why is pressure melting considered inadequate?",
+        "options": [
+          "Ice is denser than liquid water, so pressure actually raises its melting point.",
+          "The weight on a skate blade is spread over too wide an area of ice.",
+          "The drop in melting point is too small for skating in severe cold.",
+          "Textbooks no longer present it as a cause of ice's slipperiness."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 1 says pressure lowers the melting point by only a few degrees, yet skating works at far colder temperatures. The density option reverses the passage, which says ice is less dense than water."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 2 and 3 about frictional heating?",
+        "options": [
+          "It removes the premelted layer whenever an object slides at high speed.",
+          "It is replaced by pressure melting as the dominant cause in very cold ice.",
+          "It makes ice less slippery for a fast skater than for a person standing still.",
+          "It probably contributes more when an object moves rapidly than when it moves slowly."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 links lower friction at higher speeds to frictional heating, and paragraph 3 says the importance of each effect depends on speed. The option about a fast skater reverses the speed finding, which shows ice becoming more slippery at higher speed."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention a person standing still on ice in paragraph 2?",
+        "options": [
+          "To support the claim that friction diminishes at higher sliding speeds",
+          "To show that pressure melting occurs even without a narrow skate blade",
+          "To demonstrate that the surface layer of ice is a true liquid",
+          "To identify an observation that one proposed mechanism fails to explain"
+        ],
+        "answer": 3,
+        "explanation": "A motionless person generates no frictional heat, yet ice is still slippery, so frictional heating cannot be the whole story. The option about friction diminishing at higher speeds cites a finding from the same paragraph that supports the heating idea rather than limiting it."
+      },
+      {
+        "type": "attitude",
+        "prompt": "The author's attitude toward the pressure-melting explanation is best described as",
+        "options": [
+          "approving, because some textbooks still include it",
+          "neutral, because experiments have not yet tested it",
+          "uncertain, because it depends on the skater's speed",
+          "skeptical, because the numbers do not support it"
+        ],
+        "answer": 3,
+        "explanation": "The author says quantitative estimates undermine the account, since the melting point drops only a few degrees. The textbook option uses a detail from paragraph 1, but the author mentions textbooks to show how persistent the idea is, not to endorse it."
+      }
+    ]
+  },
+  {
+    "id": "ap6-14",
+    "difficulty": "advanced",
+    "title": "Fatigue in Metals",
+    "discipline": "Engineering",
+    "field": "physical",
+    "passage": "Metal components can fail suddenly under loads far smaller than those they are designed to withstand, provided the loads are applied and removed many thousands of times. This phenomenon, known as fatigue, came to prominence in the nineteenth century, when railway axles fractured unexpectedly after years of apparently satisfactory service. Investigators at first speculated that repeated vibration caused the metal to crystallize and become brittle, an explanation that seemed to fit the granular appearance of the broken surfaces.\n\nThat interpretation was eventually abandoned. Microscopic examination showed that the metal's crystalline structure is present from the outset and does not change in the manner proposed. Fatigue is now understood to begin with the formation of minute cracks, usually at the surface and often at points where stress is concentrated, such as sharp corners, holes, or scratches. With each cycle of loading, a crack may advance by a tiny increment, frequently leaving faint curved marks on the fracture surface, until the remaining cross section becomes too small to bear the load and fails abruptly.\n\nThis understanding has transformed engineering practice. Because cracks tend to initiate at stress concentrations, designers now favor rounded transitions over sharp corners and specify smooth surface finishes. More fundamentally, many industries have moved from assuming that a part is flawless to presuming that small cracks are present and estimating how quickly they could grow, scheduling inspections so that a crack is likely to be detected well before it reaches a critical length.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"initiate\" in paragraph 3 is closest in meaning to",
+        "options": [
+          "admit into a group",
+          "begin",
+          "teach the basics",
+          "cause deliberately"
+        ],
+        "answer": 1,
+        "explanation": "Cracks tend to initiate, or start, at stress concentrations, as paragraph 2 explains. \"Admit into a group\" is a real meaning (to initiate a new member), but cracks are not joining anything."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to paragraph 2, all of the following are true of fatigue cracks EXCEPT:",
+        "options": [
+          "They form when vibration changes the metal's crystals.",
+          "They commonly start at the outer surface of a component.",
+          "They may grow slightly with each cycle of loading.",
+          "They can leave visible marks on the broken surface."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 2 says the crystalline structure is present from the outset and does not change as the old theory proposed. The surface option is true: cracks form \"usually at the surface.\""
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 2 and 3 about inspection schedules?",
+        "options": [
+          "How often a part is loaded affects how frequently it should be checked.",
+          "Parts with smooth surface finishes no longer need to be checked for cracks at all.",
+          "Cracks grow fastest at rounded transitions, so these areas are inspected most often.",
+          "A crack reaches its critical length after a fixed number of years in service."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 2 says cracks advance with each loading cycle, and paragraph 3 says inspections are timed to catch cracks before they reach a critical length, so more frequent loading calls for more frequent checks. The rounded-transition option reverses paragraph 3, which favors rounded shapes because they reduce stress."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It challenges the mechanism of crack growth presented in paragraph 2.",
+          "It describes practical consequences of the account given in paragraph 2.",
+          "It returns to the crystallization theory that paragraph 2 rejected.",
+          "It gives historical examples of the failures paragraph 2 explains."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 3 opens \"This understanding has transformed engineering practice\" and describes design and inspection changes based on paragraph 2's crack account. Historical failures such as railway axles appear in paragraph 1, not paragraph 3."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"More fundamentally, many industries have moved from assuming that a part is flawless to presuming that small cracks are present and estimating how quickly they could grow, scheduling inspections so that a crack is likely to be detected well before it reaches a critical length.\"",
+        "options": [
+          "Many fields now assume small hidden cracks exist and time checks to catch them early.",
+          "Many industries now inspect parts until they are flawless, so that small cracks never reach a critical length.",
+          "Small cracks are now presumed to grow quickly, so parts are simply replaced before any inspection becomes necessary.",
+          "Industries schedule inspections in order to estimate the critical length at which a flawless part will crack."
+        ],
+        "answer": 0,
+        "explanation": "The sentence describes a shift from assuming perfection to assuming small cracks and timing inspections around their growth. The replacement option drops inspection, which is the central point of the sentence."
+      }
+    ]
+  },
+  {
+    "id": "ap6-15",
+    "difficulty": "advanced",
+    "title": "Why Oil and Water Separate",
+    "discipline": "Chemistry",
+    "field": "physical",
+    "passage": "That oil and water do not mix is so familiar that its cause may seem self-evident: water and oil molecules, one might suppose, simply repel each other. In fact, the attraction between an oil molecule and a water molecule, although weaker than that between two water molecules, is not negligible. The tendency of nonpolar substances to cluster together in water, known as the hydrophobic effect, therefore requires a subtler explanation.\n\nThe prevailing account emphasizes the behavior of water itself. Water molecules form an extensive, constantly shifting network of hydrogen bonds. When a small nonpolar molecule is introduced, the surrounding water molecules cannot bond to it and are thought to rearrange into a more constrained configuration so as to preserve their bonds with one another. This reduces the number of ways the system can be arranged, that is, its entropy. When nonpolar molecules aggregate, fewer water molecules are in contact with them, and the overall entropy of the system increases, which is why the clustering occurs spontaneously at room temperature.\n\nThis entropic explanation, though widely taught, is now recognized to be incomplete. Theoretical work indicates that the effect depends on the size of the nonpolar object: around large surfaces, water cannot maintain its network and instead loses hydrogen bonds, so that energy rather than entropy becomes the dominant factor. Because the hydrophobic effect helps drive the folding of proteins and the assembly of cell membranes, refining its explanation is far from an academic exercise.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"aggregate\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "gather into a mass",
+          "add up to a total",
+          "break apart",
+          "grow heavier over time"
+        ],
+        "answer": 0,
+        "explanation": "When nonpolar molecules aggregate, they cluster together, which reduces their contact with water. \"Add up to a total\" is a real sense of the verb (expenses that aggregate to a large sum), but molecules are not being summed."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, why does the clustering of nonpolar molecules occur spontaneously?",
+        "options": [
+          "Nonpolar molecules form strong hydrogen bonds with one another as they gather together.",
+          "Water molecules repel nonpolar molecules more strongly at moderate temperatures.",
+          "Grouping them frees some water from a restrictive arrangement, raising overall disorder.",
+          "Clustering reduces the entropy of the system by constraining the surrounding water."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 says aggregation leaves fewer water molecules in contact with nonpolar molecules, so the system's entropy increases. The option about clustering reducing entropy reverses this: constraining water is what lowers entropy before clustering."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 2 and 3 about the widely taught account?",
+        "options": [
+          "It predicts that large surfaces form more hydrogen bonds with water.",
+          "It holds that proteins fold only when entropy is the dominant factor.",
+          "It applies more readily to small molecules than to large nonpolar surfaces.",
+          "It shows that the effect vanishes entirely around large nonpolar objects."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 builds the entropic account around a small nonpolar molecule, and paragraph 3 says that around large surfaces energy rather than entropy dominates. The option saying the effect vanishes is too extreme, since paragraph 3 says the effect changes character, not that it disappears."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention the folding of proteins and the assembly of cell membranes?",
+        "options": [
+          "To show that entropy rather than energy dominates around large biological surfaces",
+          "To explain why water cannot keep its network intact near proteins",
+          "To stress the wider practical importance of the effect",
+          "To argue that the entropic account should no longer be taught"
+        ],
+        "answer": 2,
+        "explanation": "These processes are cited to show that refining the explanation is \"far from an academic exercise.\" The option about no longer teaching the account goes too far: the author calls the account incomplete, not something to abandon."
+      },
+      {
+        "type": "main_idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Oil and water separate mainly because their molecules strongly repel one another at room temperature.",
+          "Water bonds more readily with nonpolar molecules than with other water molecules in most conditions.",
+          "Why nonpolar substances cluster in water is more complex than intuition or the standard account implies.",
+          "The entropy of water always decreases whenever nonpolar molecules are grouped closely together in solution."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 1 rejects simple repulsion, paragraph 2 gives the entropic account, and paragraph 3 calls it incomplete. The repulsion option states the intuition that the first paragraph explicitly corrects."
+      }
+    ]
+  },
+  {
+    "id": "ap6-16",
+    "difficulty": "advanced",
+    "title": "Rising Test Scores",
+    "discipline": "Psychology",
+    "field": "social",
+    "passage": "Throughout much of the twentieth century, average scores on intelligence tests rose steadily in many industrialized countries, by roughly three points per decade. Because tests are periodically renormed so that the average remains 100, the gains were initially obscured; they became apparent only when researchers compared how successive generations performed on the same versions. The rise is too rapid to be attributed to genetic change, which leaves environmental explanations as the only plausible candidates.\n\nProposed explanations include improved nutrition, reduced childhood disease, smaller families, and the expansion of schooling. A further hypothesis holds that modern life increasingly rewards abstract, hypothetical reasoning, the very skill measured by the tests on which gains have been largest, while gains on tests of vocabulary and arithmetic have been comparatively modest. On this view, the increases may reflect a shift in habits of thought rather than a uniform rise in underlying ability, a distinction that complicates any straightforward reading of the data.\n\nSince the 1990s, however, gains have stalled or even reversed in several countries, including Norway and Denmark, where military conscription records permit unusually complete comparisons. Notably, analyses comparing brothers within the same families have found that the decline persists, which suggests that changes in the composition of the population cannot by themselves account for it. The reversal thus appears to be environmental as well, though which aspects of the environment are responsible remains unclear.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"obscured\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "darkened",
+          "concealed",
+          "made unimportant",
+          "exaggerated"
+        ],
+        "answer": 1,
+        "explanation": "Renorming kept the average at 100, so the gains were obscured, or hidden, until researchers compared performance on the same versions. \"Darkened\" is the literal sense of obscure, but no light is involved here."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to the passage, all of the following have been proposed as causes of the rising scores EXCEPT",
+        "options": [
+          "healthier diets in childhood",
+          "genetic change between generations",
+          "a decline in the average size of families",
+          "wider access to education"
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 1 says the rise is too rapid to be genetic, ruling that cause out. The other three appear in the list of proposed explanations at the start of paragraph 2."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraph 1 about a person tested during the decades of rising scores?",
+        "options": [
+          "Someone who was average on an older norm would probably rank below average on a newer one.",
+          "Renorming the tests caused this person's score to rise by about three points per decade.",
+          "This person's score on a newly normed test would most likely be well above 100.",
+          "This person would have scored higher on older versions that measured vocabulary."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 1 says scores were rising and that tests were renormed to keep the average at 100, so each new norm set a higher standard than the last. The renorming option reverses cause and effect: renorming hid the rise rather than producing it."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It reports a later reversal of the trend paragraph 2 explains.",
+          "It shows that the abstract reasoning hypothesis in paragraph 2 has been disproved.",
+          "It supplies the genetic explanation that paragraph 2 sets aside.",
+          "It offers evidence that schooling produced the gains in paragraph 2."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 2 explains the rise, and paragraph 3 describes how gains stalled or reversed after the 1990s. The genetic option misplaces the dismissal of genetic causes, which occurs in paragraph 1, and paragraph 3 says the reversal appears environmental."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 2? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"On this view, the increases may reflect a shift in habits of thought rather than a uniform rise in underlying ability, a distinction that complicates any straightforward reading of the data.\"",
+        "options": [
+          "The increases reflect a uniform rise in underlying ability, which is why the data can be read in a straightforward way.",
+          "Habits of thought have shifted so much that the data no longer show any rise in scores on intelligence tests.",
+          "Higher scores may mean people think differently rather than being more capable overall, which complicates interpretation.",
+          "A rise in underlying ability has changed habits of thought, and this distinction makes the data easier to read."
+        ],
+        "answer": 2,
+        "explanation": "The sentence contrasts changed thinking habits with a general rise in ability and says this makes interpretation harder. The option claiming a uniform rise in ability adopts the very interpretation the sentence argues against."
+      }
+    ]
+  },
+  {
+    "id": "ap6-17",
+    "difficulty": "advanced",
+    "title": "Is Willpower a Limited Resource?",
+    "discipline": "Psychology",
+    "field": "social",
+    "passage": "Beginning in the late 1990s, an influential line of research proposed that self-control draws on a limited resource that becomes depleted with use, much like a muscle that tires after exertion. In typical experiments, participants who first resisted a tempting food or suppressed their emotions subsequently persisted for less time on a difficult puzzle than participants who had performed an undemanding task. Dozens of studies appeared to replicate the finding, and the idea, termed ego depletion, gained wide acceptance both in academic psychology and in popular advice.\n\nDoubts emerged in the following decade. Statistical analyses suggested that the published literature might overstate the effect, because studies yielding null results were less likely to be published. A large coordinated replication, conducted across more than twenty laboratories using a standardized procedure, found an effect close to zero. Supporters countered that the chosen procedure may have failed to deplete participants adequately, and subsequent multi-site projects have produced mixed results, some detecting a small effect.\n\nMeanwhile, a related claim that consuming glucose restores self-control now appears tenuous, partly because the brain's overall energy consumption changes little during demanding mental tasks. Some researchers instead propose that apparent depletion reflects shifting motivation and attention rather than an exhausted resource: after exerting effort, people may become less inclined to continue, not less able. The episode has become a frequently cited case in discussions of how psychology might improve the reliability of its findings.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"tenuous\" in paragraph 3 is closest in meaning to",
+        "options": [
+          "slender in physical form",
+          "low in density",
+          "poorly supported",
+          "short-lived"
+        ],
+        "answer": 2,
+        "explanation": "The glucose claim now appears tenuous, meaning weakly supported, because brain energy use barely changes during mental effort. \"Slender in physical form\" is a real physical sense (a tenuous thread), but a claim has no shape."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, why might the published research have overstated ego depletion?",
+        "options": [
+          "Laboratories used a procedure that depleted participants too much.",
+          "More than twenty laboratories reported effects close to zero.",
+          "Studies that found no effect tended to remain out of print.",
+          "Supporters counted small effects as evidence of large ones."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 says studies with null results were less likely to be published, inflating the apparent effect. The twenty-laboratory option is true but answers a different question: it describes the replication, not why the earlier literature was inflated."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 3 about participants in the original experiments, according to the motivational account?",
+        "options": [
+          "They might have kept working longer on the puzzle if given a strong enough reason.",
+          "They persisted longer after eating the tempting food than after resisting it.",
+          "Their attention would have been restored by consuming a dose of glucose.",
+          "They found the undemanding task more tiring than resisting the temptation."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 1 describes participants giving up sooner after exerting self-control, and paragraph 3 says the motivational view sees them as less inclined rather than less able, so an incentive could restore persistence. The glucose option relies on the claim that paragraph 3 calls tenuous."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention the brain's overall energy consumption in paragraph 3?",
+        "options": [
+          "To support the comparison between self-control and a muscle that tires",
+          "To show that demanding mental tasks use up the brain's glucose at a very rapid rate",
+          "To give one reason a proposed physical cause has lost credibility",
+          "To explain why the coordinated replication found an effect close to zero"
+        ],
+        "answer": 2,
+        "explanation": "The energy point follows directly from the statement that the glucose claim now appears tenuous. The muscle option reverses the point, since a brain whose energy use barely changes undercuts the idea of a tiring, fuel-based resource."
+      },
+      {
+        "type": "attitude",
+        "prompt": "The author's presentation of ego depletion research can best be described as",
+        "options": [
+          "balanced, noting both the challenges and the remaining defense",
+          "dismissive, treating the effect as conclusively disproven",
+          "approving, endorsing the idea and its many popular applications",
+          "puzzled, unable to explain why the idea was accepted"
+        ],
+        "answer": 0,
+        "explanation": "The author reports the null replication but also supporters' objections and later projects that detected a small effect. The dismissive option ignores these mixed results described at the end of paragraph 2."
+      }
+    ]
+  },
+  {
+    "id": "ap6-18",
+    "difficulty": "advanced",
+    "title": "The Resource Curse",
+    "discipline": "Economics",
+    "field": "social",
+    "passage": "Intuition suggests that a country endowed with abundant oil or minerals should enjoy faster economic growth than one without such wealth. Yet a widely cited body of research beginning in the 1990s found the opposite: across many developing economies in the late twentieth century, heavy dependence on natural resource exports was associated with slower growth. The pattern came to be known as the resource curse.\n\nEconomists have proposed several mechanisms. A boom in resource exports can drive up the value of a country's currency, making its manufactured goods less competitive abroad and causing that sector to contract, a phenomenon called Dutch disease after the effects of natural gas discoveries in the Netherlands in the 1960s. Commodity prices are also notoriously volatile, complicating budgetary planning. Political explanations stress that governments financed by resource revenue rather than taxation may face weaker pressure to be accountable to citizens, and that concentrated wealth can invite corruption or conflict over its control.\n\nMore recent work has questioned how universal the curse is. Some resource-rich countries, such as Botswana with its diamonds and Norway with its oil, have prospered, which suggests that outcomes depend heavily on the quality of institutions in place when resources are discovered. Critics further argue that measuring dependence by the share of exports may be misleading, since poor countries with few other industries will appear resource dependent almost by definition. When resource wealth itself is measured, some studies find that the apparent curse diminishes or disappears.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"volatile\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "quick to evaporate at room temperature",
+          "quick to anger",
+          "highly valuable",
+          "prone to sudden change"
+        ],
+        "answer": 3,
+        "explanation": "Volatile commodity prices complicate budget planning because they rise and fall unpredictably. \"Quick to evaporate\" is the chemical sense of volatile, which does not apply to prices."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to paragraph 2, all of the following are ways that resource wealth could harm an economy EXCEPT",
+        "options": [
+          "by making manufactured exports costly abroad",
+          "by making government revenue hard to predict",
+          "by lowering the value of the national currency",
+          "by easing rulers' need to answer to citizens"
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 2 says a resource boom drives the currency's value up, not down. The other options paraphrase Dutch disease, volatile prices, and the accountability argument."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 3 about the research that first identified the resource curse?",
+        "options": [
+          "It excluded Botswana and Norway from its samples of major resource exporters.",
+          "It showed that countries with few industries discover resources more often.",
+          "It may have partly mistaken a symptom of weak growth for one of its causes.",
+          "It measured resource wealth directly and found the curse to be stronger."
+        ],
+        "answer": 2,
+        "explanation": "Paragraph 1 says the early research measured dependence on resource exports, and paragraph 3 says poor countries with few other industries look resource dependent almost by definition, so slow growth may produce the measured dependence. The option about measuring wealth directly reverses paragraph 3, where direct measures weaken the curse."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It adds political mechanisms to the economic ones listed in paragraph 2.",
+          "It questions the generality of the problem whose causes paragraph 2 sets out.",
+          "It shows that Dutch disease explains the success of Botswana and Norway.",
+          "It confirms that resource exports always slow growth, as paragraph 2 says."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 2 lists mechanisms behind the curse, and paragraph 3 opens by questioning \"how universal the curse is.\" The political option is wrong because political explanations already appear at the end of paragraph 2."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"Some resource-rich countries, such as Botswana with its diamonds and Norway with its oil, have prospered, which suggests that outcomes depend heavily on the quality of institutions in place when resources are discovered.\"",
+        "options": [
+          "Botswana and Norway prospered because diamonds and oil are worth considerably more than most other natural resources.",
+          "Some well-endowed nations thrived, implying that existing governance largely shapes outcomes.",
+          "Resource-rich countries tend to build strong institutions once their resources have been found.",
+          "Countries with good institutions are more likely than others to discover diamonds and oil."
+        ],
+        "answer": 1,
+        "explanation": "The sentence uses Botswana and Norway as evidence that institutions already in place shape outcomes. The option about building institutions after discovery reverses the timing, since the sentence refers to institutions existing when resources are discovered."
+      }
+    ]
+  },
+  {
+    "id": "ap6-19",
+    "difficulty": "advanced",
+    "title": "Explaining Smaller Families",
+    "discipline": "Sociology",
+    "field": "social",
+    "passage": "Over the past two centuries, nearly every society that has industrialized has passed through a similar sequence. Death rates fall first, as improvements in sanitation, nutrition, and medicine reduce mortality, especially among infants; birth rates fall later, so that population grows rapidly in the interval before stabilizing at lower levels of both births and deaths. This pattern, termed the demographic transition, is among the most robust generalizations in the social sciences, yet its causes, particularly those of the fertility decline, remain disputed.\n\nEconomic explanations hold that as children survive more reliably and as economies shift from farming to industry, children become less valuable as laborers and more costly to educate, so parents choose to have fewer of them. This account fits many national trends, but a large historical project examining European provinces in the late nineteenth century complicated it. Fertility often declined at roughly the same time in regions with markedly different levels of industrialization, infant mortality, and urbanization, whereas boundaries of language and religion more closely tracked the timing of decline.\n\nSuch findings encouraged diffusion explanations, according to which ideas about the acceptability of limiting family size spread through social networks, crossing economic boundaries more readily than cultural ones. Proponents of economic accounts respond that new ideas spread only where conditions made them advantageous to adopt. Many demographers now regard the two perspectives as complementary: economic change may create the motive for smaller families, while cultural diffusion may govern when and where that motive is acted upon.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"robust\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "physically strong and sturdy",
+          "rich in flavor",
+          "forcefully stated",
+          "consistently supported"
+        ],
+        "answer": 3,
+        "explanation": "The demographic transition is called a robust generalization because it holds across nearly every industrializing society. \"Physically strong and sturdy\" is a common meaning of robust, but a generalization has no physical strength."
+      },
+      {
+        "type": "factual",
+        "prompt": "According to paragraph 2, why might parents in industrializing economies choose to have fewer children?",
+        "options": [
+          "Infant mortality rises as economies move from farming to industry.",
+          "Children survive less reliably once families settle in growing cities.",
+          "Parents earn more income when their children work in factories.",
+          "Offspring contribute less work and require greater spending on schooling."
+        ],
+        "answer": 3,
+        "explanation": "Paragraph 2 says children become less valuable as laborers and more costly to educate. The mortality options reverse the passage, which says children survive more reliably."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraph 3 about proponents of economic accounts?",
+        "options": [
+          "They would expect little decline where smaller families brought no benefit.",
+          "They deny that ideas about family size spread through social networks at all.",
+          "They believe cultural boundaries block the spread of ideas more effectively than economic ones.",
+          "They hold that fertility fell first where infant mortality was highest."
+        ],
+        "answer": 0,
+        "explanation": "Proponents say new ideas spread only where conditions made them advantageous, so without an economic advantage the ideas would not take hold. The option saying they deny that ideas spread is too extreme, since they accept that ideas spread but add a condition."
+      },
+      {
+        "type": "purpose",
+        "prompt": "Why does the author mention boundaries of language and religion in paragraph 2?",
+        "options": [
+          "To name factors that matched the timing of decline more closely",
+          "To explain why industrialization spread unevenly across the European provinces that were studied",
+          "To show that infant mortality differed sharply between religious groups",
+          "To support the claim that children became costlier to educate over time"
+        ],
+        "answer": 0,
+        "explanation": "The European project found that these boundaries tracked the timing of fertility decline more closely than industrialization or mortality did. The industrialization option misreads the paragraph, which does not discuss why industry spread unevenly."
+      },
+      {
+        "type": "main_idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Birth rates fall before death rates in societies that industrialize quickly.",
+          "A well-documented population pattern probably has both economic and cultural causes.",
+          "Cultural diffusion has replaced economic theory as the accepted explanation.",
+          "European provinces industrialized at the same time their fertility declined."
+        ],
+        "answer": 1,
+        "explanation": "The passage describes the robust transition, the debate over its causes, and the growing view that economic and cultural factors are complementary. The diffusion option is too strong, since the final sentence treats the two as working together."
+      }
+    ]
+  },
+  {
+    "id": "ap6-20",
+    "difficulty": "advanced",
+    "title": "When Guidance Backfires",
+    "discipline": "Education",
+    "field": "social",
+    "passage": "Research on instruction has long debated how much guidance learners should receive. One influential body of work, grounded in the observation that working memory can hold only a few novel elements at once, found that beginners studying worked examples, step-by-step demonstrations of how a problem is solved, often learned more than those who solved equivalent problems unaided. Searching for a solution, it was argued, consumes mental capacity that could otherwise be devoted to grasping the underlying principles.\n\nSubsequent studies, however, revealed that the advantage is not stable. As learners gain knowledge, the benefit of worked examples tends to shrink and may eventually reverse, so that more advanced learners sometimes perform better after practicing problems on their own. This pattern, termed the expertise reversal effect, is usually attributed to redundancy: for someone who already possesses the relevant knowledge, processing explanations they do not need may itself impose a burden, diverting attention from more productive activity.\n\nThe finding carries practical implications that are easy to state but harder to implement. It implies that instructional support should be progressively withdrawn, a practice sometimes called fading, in which later examples omit an increasing number of steps for the learner to complete. Yet determining when a particular student is ready for less guidance requires ongoing assessment, and a single sequence designed for an entire class may simultaneously overload some students and bore others. Adaptive computer tutors that estimate each learner's knowledge have been proposed as one solution, though their effectiveness appears to vary across subjects.",
+    "questions": [
+      {
+        "type": "vocabulary",
+        "prompt": "The word \"diverting\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "amusing",
+          "embezzling",
+          "drawing away",
+          "postponing"
+        ],
+        "answer": 2,
+        "explanation": "Unneeded explanations burden experts by diverting, or pulling, their attention from more productive activity. \"Amusing\" is a real sense of divert (a diverting story), but the sentence describes a cost, not entertainment."
+      },
+      {
+        "type": "negative_factual",
+        "prompt": "According to the passage, all of the following are true of worked examples EXCEPT:",
+        "options": [
+          "They can benefit learners who are new to a subject.",
+          "They overload beginners' memory more than solving problems alone.",
+          "They show the steps by which a problem is solved.",
+          "Their value tends to shrink and may reverse as learners gain knowledge."
+        ],
+        "answer": 1,
+        "explanation": "Paragraph 1 says unaided searching, not studying examples, consumes beginners' mental capacity. The other statements come from the definition of worked examples and from paragraph 2's account of the shrinking benefit."
+      },
+      {
+        "type": "inference",
+        "prompt": "What can be inferred from paragraphs 1 and 2 about advanced learners?",
+        "options": [
+          "Solving problems unaided is probably less taxing for them than it is for novices.",
+          "Their working memory can hold far more novel elements than a beginner's can.",
+          "Worked examples contain more unfamiliar elements for them than for beginners.",
+          "They learn underlying principles best by studying many step-by-step examples."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 1 says searching for solutions overloads beginners, and paragraph 2 says advanced learners sometimes do better solving problems on their own, so the search must cost them less. The working memory option is tempting, but the passage attributes the difference to existing knowledge, not to a larger memory capacity."
+      },
+      {
+        "type": "relationship",
+        "prompt": "How does paragraph 3 relate to paragraph 2?",
+        "options": [
+          "It draws out the teaching implications and the obstacles to applying them.",
+          "It challenges the redundancy explanation that paragraph 2 puts forward.",
+          "It presents evidence that the reversal disappears when instruction is delivered by computer tutors.",
+          "It describes the original experiments on which paragraph 2 is based."
+        ],
+        "answer": 0,
+        "explanation": "Paragraph 3 derives the practice of fading from the reversal effect and then notes the difficulty of judging each student's readiness. The tutor option overstates the paragraph, which says tutors' effectiveness varies across subjects."
+      },
+      {
+        "type": "paraphrase",
+        "prompt": "Which of the following best expresses the essential information in this sentence from paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.\n\n\"Yet determining when a particular student is ready for less guidance requires ongoing assessment, and a single sequence designed for an entire class may simultaneously overload some students and bore others.\"",
+        "options": [
+          "Ongoing assessment overloads some students and bores others, so every class should follow a single sequence.",
+          "Students who are bored by guidance are ready for less of it, which a single test can determine.",
+          "A sequence designed carefully for an entire class removes any need to assess when each individual student is ready.",
+          "Readiness needs repeated checking, and one plan for all may be too hard for some, too easy for others."
+        ],
+        "answer": 3,
+        "explanation": "The sentence says readiness must be assessed continually and that a uniform sequence can be too hard for some and too easy for others. The option blaming ongoing assessment is wrong because it holds assessment, rather than the single sequence, responsible for overload and boredom."
+      }
+    ]
+  }
+]

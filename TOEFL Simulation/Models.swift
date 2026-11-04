@@ -187,6 +187,9 @@ struct TOEFLQuestion: Identifiable, Hashable, Codable {
     var blankReason: String? = nil
     /// Complete the Words subject area: humanities, history, earth, life, physical, or social.
     var field: String? = nil
+    /// Reading question type (vocabulary, factual, negative_factual, inference, purpose, relationship,
+    /// paraphrase, main_idea, attitude, detail, application), used for accuracy by type.
+    var questionType: String? = nil
 
     var countsTowardScore: Bool { isScored ?? true }
 
@@ -384,14 +387,20 @@ final class TOEFLHistoryStore: ObservableObject {
 enum TOEFLPracticeScoring {
     /// Reading and Listening: 35 scored items across the router and the second module.
     /// The lower module tops out below the upper module, mirroring ETS path-based equating.
+    /// Reading and Listening bands from scored accuracy on the route taken.
+    ///
+    /// Calibrated stricter in November 2026: a learner who scored 23–31 of 35 on the upper route here
+    /// (formerly 5.0–5.5) received 4.0 on the live Reading section. The upper route now needs about
+    /// 90% for 5.5 and 97% for 6; the lower route tops out at 4.0, as in ETS's routing design.
     static func objectiveBand(correct: Int, total: Int, route: AdaptiveRoute?) -> Double {
         guard total > 0 else { return 1 }
         let accuracy = Double(correct) / Double(total)
-        switch route {
-        case .lower: return halfBand(1 + accuracy * 3.5)
-        case .upper: return halfBand(2.5 + accuracy * 3.5)
-        case nil: return halfBand(1 + accuracy * 5)
+        let steps: [(Double, Double)] = switch route {
+        case .upper: [(0.97, 6), (0.90, 5.5), (0.84, 5), (0.76, 4.5), (0.66, 4), (0.55, 3.5), (0.43, 3), (0, 2.5)]
+        case .lower: [(0.92, 4), (0.80, 3.5), (0.66, 3), (0.50, 2.5), (0.34, 2), (0.18, 1.5), (0, 1)]
+        case nil: [(0.97, 6), (0.90, 5.5), (0.82, 5), (0.72, 4.5), (0.62, 4), (0.52, 3.5), (0.42, 3), (0.32, 2.5), (0.22, 2), (0.12, 1.5), (0, 1)]
         }
+        return steps.first { accuracy >= $0.0 }?.1 ?? 1
     }
 
     /// Writing raw score 0–20: Build a Sentence (10 × 1) + Email (0–5) + Academic Discussion (0–5).

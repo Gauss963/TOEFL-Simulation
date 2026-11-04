@@ -95,11 +95,17 @@ def add_mc_set(set_id: str, section: str, task: str, difficulty: str, questions:
         items.append(base(
             f"{set_id}-{index + 1}", section, task, difficulty, question["prompt"],
             choices=options, correctChoiceID=key, sampleAnswer=question["options"][question["answer"]],
-            explanation=question["explanation"], setID=set_id, setIndex=index, **shared,
+            explanation=question["explanation"], setID=set_id, setIndex=index,
+            questionType=question.get("type") or (shared_types.get(set_id) or [None] * (index + 1))[index], **shared,
         ))
 
 
 # Reading ---------------------------------------------------------------------------------------
+
+# Question types for daily-life sets written before types were recorded ({set id: [type, …]}).
+shared_types: dict[str, list[str]] = {}
+for types_file in load_maps("dl_types"):
+    shared_types.update(types_file)
 
 notes = {row["id"]: row["blanks"] for row in load("ctest_notes")}
 # Subject areas: new paragraphs carry "field"; older ones are tagged in ctest_fields_*.json.
