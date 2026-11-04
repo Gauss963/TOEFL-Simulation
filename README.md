@@ -15,7 +15,7 @@ Native SwiftUI TOEFL iBT practice simulator for iPadOS and macOS, built around t
   - **Read in Daily Life**: notices, menus, web pages, posts, schedules, emails, text chains, ads, news, forms, invoices, and receipts with 2- or 3-question sets
   - **Read an Academic Passage**: ~200-word passages with five questions (factual, vocabulary, inference, purpose/relationship)
   - **Listening**: Listen and Choose a Response, two-speaker conversations (2 questions), 45–85-word announcements (2 questions), and 170–230-word academic talks (4 questions), introduced by a narrator, with speaker visuals
-  - **Build a Sentence**: a first speaker's line and a reply built from word chunks, with fixed words and one distractor
+  - **Build a Sentence**: a first speaker's line and a reply built entirely from word chunks, as on the live test (no given words at the start or in the middle, at most one fixed final word), plus one distractor; repeated chunks are supported and the first placed chunk is capitalized on screen
   - **Write an Email** (scenario + three tasks) and **Academic Discussion** (professor post + two student posts)
   - **Listen and Repeat**: seven progressively longer sentences in one illustrated scenario, 8–12-second automatic recording windows
   - **Take an Interview**: one interview scenario with four questions progressing from personal to broader issues, 45 seconds each

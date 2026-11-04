@@ -183,7 +183,16 @@ email_samples: dict[str, str] = {}
 for samples_file in load_maps("email_samples"):
     email_samples.update(samples_file)
 
+def exam_like_template(template: str) -> bool:
+    """Real-test format: no given words at the start or in the middle; at most one fixed final word."""
+    parts = template.split("___")
+    words = lambda text: re.sub(r"[.?!,]", " ", text).split()
+    return not words(parts[0]) and not any(words(part) for part in parts[1:-1]) and len(words(parts[-1])) <= 1
+
+
 for row in load("build_sentence"):
+    if not exam_like_template(row["template"]):
+        raise SystemExit(f"{row['id']}: Build a Sentence template gives words at the start or middle: {row['template']}")
     tokens = row["chunks"] + [row["distractor"]]
     rng_for(row["id"]).shuffle(tokens)
     parts = row["template"].split("___")

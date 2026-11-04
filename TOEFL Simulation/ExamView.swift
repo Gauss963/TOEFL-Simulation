@@ -568,8 +568,8 @@ private struct BuildSentenceView: View {
                     ForEach(Array(templatePieces.enumerated()), id: \.offset) { _, piece in
                         if let slot = piece.slot {
                             let token = filled.indices.contains(slot) ? filled[slot] : nil
-                            Button { if let token { session.toggleSentenceToken(token) } } label: {
-                                Text(token ?? " ")
+                            Button { if token != nil { session.removeSentenceToken(at: slot) } } label: {
+                                Text(token.map { slot == 0 && startsWithBlank ? Self.capitalizingFirstLetter($0) : $0 } ?? " ")
                                     .font(.title3)
                                     .frame(minWidth: 86, minHeight: 34)
                                     .padding(.horizontal, 8)
@@ -591,8 +591,8 @@ private struct BuildSentenceView: View {
                 Button("Clear") { session.clearSentence() }.disabled(filled.isEmpty)
             }
             FlowLayout(spacing: 9, lineSpacing: 9) {
-                ForEach(question.sentenceTokens.filter { !filled.contains($0) }, id: \.self) { token in
-                    Button(token) { session.toggleSentenceToken(token) }
+                ForEach(Array(remainingTokens(filled).enumerated()), id: \.offset) { _, token in
+                    Button(token) { session.addSentenceToken(token) }
                         .buttonStyle(.bordered)
                         .controlSize(.large)
                 }
@@ -601,6 +601,24 @@ private struct BuildSentenceView: View {
     }
 
     private struct Piece { let text: String; let slot: Int? }
+
+    /// The chunks not yet placed, removing one occurrence per placed chunk so repeated chunks work.
+    private func remainingTokens(_ filled: [String]) -> [String] {
+        var remaining = question.sentenceTokens
+        for token in filled {
+            if let index = remaining.firstIndex(of: token) { remaining.remove(at: index) }
+        }
+        return remaining
+    }
+
+    /// The reply begins with a blank (no given words), so the first placed chunk is shown capitalized.
+    private var startsWithBlank: Bool {
+        (question.sentenceTemplate ?? "").trimmingCharacters(in: .whitespaces).hasPrefix("___")
+    }
+
+    static func capitalizingFirstLetter(_ text: String) -> String {
+        text.prefix(1).uppercased() + text.dropFirst()
+    }
 
     private var templatePieces: [Piece] {
         let parts = (question.sentenceTemplate ?? "").components(separatedBy: "___")

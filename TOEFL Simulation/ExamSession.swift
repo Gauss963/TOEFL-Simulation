@@ -162,13 +162,19 @@ final class TOEFLExamSession: ObservableObject {
         answers[questionID] = answer
     }
 
-    func toggleSentenceToken(_ token: String) {
+    /// Places a chunk in the next empty blank. Chunks may repeat (for example two "to"), so placed
+    /// chunks are removed by blank position rather than by text.
+    func addSentenceToken(_ token: String) {
         var answer = currentAnswer
-        if let index = answer.orderedTokens.firstIndex(of: token) {
-            answer.orderedTokens.remove(at: index)
-        } else if answer.orderedTokens.count < currentQuestion.correctSentenceTokens.count {
-            answer.orderedTokens.append(token)
-        }
+        guard answer.orderedTokens.count < currentQuestion.correctSentenceTokens.count else { return }
+        answer.orderedTokens.append(token)
+        answers[currentQuestion.id] = answer
+    }
+
+    func removeSentenceToken(at slot: Int) {
+        var answer = currentAnswer
+        guard answer.orderedTokens.indices.contains(slot) else { return }
+        answer.orderedTokens.remove(at: slot)
         answers[currentQuestion.id] = answer
     }
 
