@@ -190,8 +190,8 @@ enum TOEFLQuestionBank {
                 let seen = pool.filter { recent[$0[0].setID ?? $0[0].id] != nil }
                     .shuffled(using: &generator)
                     .sorted { recent[$0[0].setID ?? $0[0].id]! < recent[$1[0].setID ?? $1[0].id]! }
-                let ranked = unseen.filter(isPreferred).shuffled(using: &generator)
-                    + unseen.filter { !isPreferred($0) }.shuffled(using: &generator)
+                let ranked = longFirst(unseen.filter(isPreferred).shuffled(using: &generator))
+                    + longFirst(unseen.filter { !isPreferred($0) }.shuffled(using: &generator))
                     + seen.filter(isPreferred) + seen.filter { !isPreferred($0) }
                 let fresh = ranked.first { !usedTopics.contains(topicKey($0[0])) } ?? ranked.first
                 guard var chosen = fresh else {
@@ -275,6 +275,21 @@ enum TOEFLQuestionBank {
         return Array(Set(issues)).sorted()
     }
     #endif
+
+    /// A learner who scored 5.5 on live Listening (November 2026) found the real talks and
+    /// announcements longer than the app's, so among unseen sets the long ones (talks of 235+ words,
+    /// announcements of 88+ words, the top of ETS's ranges) are delivered first.
+    private static func longFirst(_ sets: [[TOEFLQuestion]]) -> [[TOEFLQuestion]] {
+        func isLong(_ set: [TOEFLQuestion]) -> Bool {
+            let words = (set.first?.audioScript ?? "").split(whereSeparator: \.isWhitespace).count
+            switch set.first?.taskType {
+            case .listenAcademicTalk: return words >= 235
+            case .listenAnnouncement: return words >= 88
+            default: return false
+            }
+        }
+        return sets.filter(isLong) + sets.filter { !isLong($0) }
+    }
 
     /// Avoids, for example, a Complete the Words paragraph and an academic passage on the same subject.
     private static func topicKey(_ question: TOEFLQuestion) -> String {

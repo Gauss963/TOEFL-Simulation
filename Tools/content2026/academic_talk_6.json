@@ -1,0 +1,1712 @@
+[
+ {
+  "id": "at6-01",
+  "difficulty": "advanced",
+  "course": "history",
+  "intro": "Listen to a talk in a history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So, here's a question that sounds silly at first: who decides what time it is? Before the 1880s, the answer in the United States was basically, the sun. Each town set its clocks by local solar time, so when it was noon in Chicago, it was already a few minutes past noon in towns to the east. For a farmer, that was fine. For a railroad, it was chaos. Each company ran on its own time, and a busy station might display several clocks at once. In fact, there were dozens of separate railroad times in use. Now, Britain had faced this problem earlier, in the 1840s, and its solution was simple: the railways adopted one national time, Greenwich time. But Britain is small. The United States spans about four hours of solar time, so a single national time wouldn't work. The solution the American railroads chose was zones. On November 18, 1883, they switched to four standard time zones: Eastern, Central, Mountain, and Pacific. People called it the day of two noons, because in many towns the clocks struck twelve, were set back, and later struck twelve again. A year later, in 1884, an international conference in Washington chose Greenwich as the world's prime meridian. But here's what surprises students. Congress didn't make the time zones official until 1918. So for thirty-five years, the time most Americans lived by was set not by the government, but by private companies. The law simply caught up.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why Britain chose Greenwich time for its national railways",
+     "How railroads replaced local time with a system of time zones",
+     "How Congress designed the time zones used by the railroads",
+     "Why farmers resisted giving up local solar time"
+    ],
+    "answer": 1,
+    "explanation": "The professor explains how American railroads moved from many local times to four standard zones, long before the law required it."
+   },
+   {
+    "prompt": "According to the professor, what problem did railroads face before the 1880s?",
+    "options": [
+     "Towns and companies each kept their own version of the time.",
+     "Trains could not run at night without accurate solar time.",
+     "Station clocks were controlled by an office in Washington.",
+     "Farmers refused to use stations that displayed several clocks."
+    ],
+    "answer": 0,
+    "explanation": "The professor says each town used local solar time and each railroad ran on its own time, producing dozens of railroad times."
+   },
+   {
+    "prompt": "Why did the American railroads not adopt the British solution?",
+    "options": [
+     "The British system had already failed on its own railways.",
+     "Congress had passed a law requiring the use of local time.",
+     "The country covered too many hours of solar time for one time.",
+     "Each company wanted to keep its own separate railroad time."
+    ],
+    "answer": 2,
+    "explanation": "The professor contrasts small Britain, which used one time, with the United States, which spans about four hours of solar time."
+   },
+   {
+    "prompt": "Why does the professor mention the year 1918?",
+    "options": [
+     "To show that the law followed a system the railroads had already set up",
+     "To explain when the day of two noons took place across the country",
+     "To show when Greenwich became the prime meridian for the world",
+     "To explain why the British railways changed their national time"
+    ],
+    "answer": 0,
+    "explanation": "She notes that Congress made the zones official only in 1918, thirty-five years after the railroads adopted them."
+   }
+  ]
+ },
+ {
+  "id": "at6-02",
+  "difficulty": "advanced",
+  "course": "history",
+  "intro": "Listen to a talk in a history class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "Today let's look at what happened to ordinary workers after the Black Death. The plague reached England in 1348, and within about two years it had killed somewhere between a third and a half of the population. Think about that economically. Suddenly there were far fewer people to plow fields and bring in harvests, but the land was still there. So laborers were scarce, and scarce things get expensive. Workers began demanding higher wages, and many simply moved to whichever lord offered the best terms. Landowners didn't like this. So the government responded in two steps. First came an emergency ordinance in 1349, and then, in 1351, the Statute of Laborers, which tried to freeze wages at their pre-plague levels and made it illegal to refuse work. Did it work? Only partly. Wages still rose, and resentment over these controls, along with new taxes, fed into the Peasants' Revolt of 1381. Over the following century, serfdom in England largely faded away. Now, historians used to tell this as a simple story: the plague made labor scarce, so peasants became free. But compare England with parts of Eastern Europe, like Poland and Prussia. There, labor was also scarce compared with the amount of land, yet over the next two centuries, lords actually tightened their control, binding peasants more firmly to their estates. Same kind of shortage, opposite result. So the current view is that the plague created pressure, but what happened next depended on who held power.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why the plague spread faster in England than in Poland",
+     "How a labor shortage after the plague led to different outcomes",
+     "How the Peasants' Revolt brought the plague to an end",
+     "Why English lords offered higher wages than Polish lords"
+    ],
+    "answer": 1,
+    "explanation": "The lecturer explains how the plague made labor scarce and why the results differed between England and Eastern Europe."
+   },
+   {
+    "prompt": "What did the Statute of Laborers attempt to do?",
+    "options": [
+     "Allow workers to move to lords who offered better terms",
+     "Raise new taxes to pay for the damage caused by the plague",
+     "Keep wages at the levels they had been before the plague",
+     "Give the peasants who survived the plague their own land"
+    ],
+    "answer": 2,
+    "explanation": "The lecturer says the 1351 statute tried to freeze wages at pre-plague levels and made refusing work illegal."
+   },
+   {
+    "prompt": "How did the situation in Eastern Europe differ from that in England?",
+    "options": [
+     "Labor there became plentiful soon after the plague ended.",
+     "Peasants there won higher wages through a large revolt.",
+     "Lords there gained more control over peasants over time.",
+     "Governments there passed laws that freed the serfs."
+    ],
+    "answer": 2,
+    "explanation": "The lecturer says that in Poland and Prussia lords tightened their control, while serfdom faded in England."
+   },
+   {
+    "prompt": "What is the lecturer's view of the older explanation?",
+    "options": [
+     "It is correct for Eastern Europe but not for England.",
+     "It overstates how many people the plague actually killed.",
+     "It is too simple because the outcome depended on power.",
+     "It ignores the role the Statute of Laborers played in freeing peasants."
+    ],
+    "answer": 2,
+    "explanation": "He calls it a simple story and says that what happened after the plague depended on who held power."
+   }
+  ]
+ },
+ {
+  "id": "at6-03",
+  "difficulty": "advanced",
+  "course": "archaeology",
+  "intro": "Listen to a talk in an archaeology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "For most of the twentieth century, the textbook sequence went like this. First, people settled down and started farming. Then, with food surpluses, they had the time and the labor to build big monuments and temples. Farming first, monuments later. Göbekli Tepe, a hilltop site in southeastern Turkey, turned that sequence upside down. Excavations led by the German archaeologist Klaus Schmidt began in 1995, and his team uncovered large circular enclosures ringed by T-shaped limestone pillars. Some pillars are over five meters tall and weigh ten tons or more, and many are carved with animals: foxes, boars, snakes, vultures. The oldest enclosures date to around 9600 BCE. That's more than six thousand years before Stonehenge, and, crucially, before there's any clear evidence of domesticated crops or animals in the region. So who built it? Hunter-gatherers. Schmidt's interpretation was striking. He argued that Göbekli Tepe was a ceremonial center, a place where people gathered for rituals and feasts, but where nobody actually lived. He summed it up with a memorable phrase: first came the temple, then the city. Now, since Schmidt's death in 2014, newer excavations have complicated that picture. Archaeologists have found what look like houses, a system for collecting rainwater, and thousands of grinding stones for processing wild grain. So it now seems people did live at the site. The pillars are no less astonishing, but the neat contrast between a pure temple and an ordinary settlement has largely dissolved.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How a site in Turkey challenged and then revised ideas about early monuments",
+     "Why hunter-gatherers carved animals on large limestone pillars",
+     "How farming spread from Turkey to the region around Stonehenge",
+     "Why Klaus Schmidt rejected the idea of a ceremonial center"
+    ],
+    "answer": 0,
+    "explanation": "The professor describes how Göbekli Tepe overturned the farming-first sequence and how later finds revised Schmidt's interpretation."
+   },
+   {
+    "prompt": "According to the professor, what was the traditional view before Göbekli Tepe was excavated?",
+    "options": [
+     "Monuments were built first, and farming developed later.",
+     "Hunter-gatherers built monuments in order to store crops.",
+     "Farming came first, and monuments were built after it.",
+     "Temples and farms appeared at the same time in Turkey."
+    ],
+    "answer": 2,
+    "explanation": "She says the textbook sequence was farming first, monuments later."
+   },
+   {
+    "prompt": "What evidence led archaeologists to revise Schmidt's interpretation?",
+    "options": [
+     "Carvings of foxes, boars, snakes, and vultures",
+     "Remains of houses, a water system, and grinding stones",
+     "Pillars that were taller and heavier than expected",
+     "Dates showing the site was older than Stonehenge"
+    ],
+    "answer": 1,
+    "explanation": "Newer excavations found what look like houses, a rainwater system, and grinding stones, suggesting people lived there."
+   },
+   {
+    "prompt": "Why does the professor mention the phrase 'first came the temple, then the city'?",
+    "options": [
+     "To describe the order in which the enclosures were excavated",
+     "To explain why newer excavations found houses at the site",
+     "To summarize Schmidt's view that the site came before settled life",
+     "To show that Göbekli Tepe was built after Stonehenge"
+    ],
+    "answer": 2,
+    "explanation": "The phrase sums up Schmidt's argument that a ceremonial center came before settlement and farming."
+   }
+  ]
+ },
+ {
+  "id": "at6-04",
+  "difficulty": "advanced",
+  "course": "archaeology",
+  "intro": "Listen to a talk on a podcast about archaeology.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Welcome back. Today's object is a lump of corroded bronze that turned out to be one of the most surprising finds in archaeology. In 1900, sponge divers sheltering from a storm near the small Greek island of Antikythera spotted a shipwreck on the seabed. Divers brought up statues, pottery, and coins. The ship had sunk sometime around 70 to 60 BCE. Among the finds was a shoebox-sized wooden case, so badly decayed that nobody paid it much attention. Then, in 1902, an archaeologist noticed a gear wheel embedded in one of the fragments. A gear? From ancient Greece? Many scholars assumed it must come from a later period, or that it was a simple navigation instrument. In the 1950s, the historian Derek de Solla Price argued that it was a calculating device, and in the 1970s he used X-rays to count the gear teeth. Then, starting in 2005, researchers used high-resolution CT scanning, which revealed inscriptions hidden inside the fragments, basically a user's manual. Here's what we now know. Turning a handle drove at least thirty interlocking gears, and pointers showed the positions of the sun and moon, the phases of the moon, and the dates of eclipses. One dial even tracked the four-year cycle of athletic games, including the Olympics. That's why it's often called the first analog computer. And here's the strangest part: nothing with comparable gearing appears in the historical record for more than a thousand years, until the astronomical clocks of medieval Europe.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "How sponge divers salvaged statues from a Greek shipwreck",
+     "Why the ancient Greeks needed to track the Olympic Games",
+     "How medieval clockmakers copied an ancient Greek design",
+     "How an ancient geared device was found and gradually understood"
+    ],
+    "answer": 3,
+    "explanation": "The host traces the device from its discovery in a shipwreck through decades of research into its function."
+   },
+   {
+    "prompt": "What did many scholars first think about the gear noticed in 1902?",
+    "options": [
+     "It was part of a statue recovered from the same ship.",
+     "It came from a later period or was a simple instrument.",
+     "It proved that the ship had sunk around 70 to 60 BCE.",
+     "It was a calculating device for predicting eclipses."
+    ],
+    "answer": 1,
+    "explanation": "The host says many scholars assumed it was from a later period or a simple navigation instrument."
+   },
+   {
+    "prompt": "What did CT scanning add to the earlier X-ray research?",
+    "options": [
+     "It allowed the gear teeth to be counted for the first time.",
+     "It revealed inscriptions hidden inside the fragments.",
+     "It showed that the device came from a later period.",
+     "It proved that the case had been made of wood."
+    ],
+    "answer": 1,
+    "explanation": "Price had already counted gear teeth with X-rays; CT scanning from 2005 revealed hidden inscriptions."
+   },
+   {
+    "prompt": "Why does the host mention the astronomical clocks of medieval Europe?",
+    "options": [
+     "To suggest that the device was actually made in Europe",
+     "To explain how researchers learned to read the dials",
+     "To emphasize how advanced the device was for its time",
+     "To show where the ship's cargo was being taken"
+    ],
+    "answer": 2,
+    "explanation": "He notes that nothing comparable appears for over a thousand years, which stresses how advanced the mechanism was."
+   }
+  ]
+ },
+ {
+  "id": "at6-05",
+  "difficulty": "advanced",
+  "course": "anthropology",
+  "intro": "Listen to a talk in an anthropology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Today we're looking at a famous book in anthropology, and a famous argument about it. In 1925, a twenty-three-year-old Margaret Mead traveled to the island of Ta'ū in American Samoa. She spent about nine months there, observing and interviewing dozens of adolescent girls. Her question came from a debate back home. Many American psychologists claimed that adolescence was naturally a time of storm and stress, that the emotional turmoil of teenagers was biological. If that were true, Mead reasoned, it should happen everywhere. In her 1928 book, Coming of Age in Samoa, she reported that it didn't. Samoan girls, she wrote, passed through adolescence calmly, with relatively relaxed attitudes about relationships. So the turmoil of American teenagers had to be cultural, not biological. The book became a bestseller. Then, in 1983, five years after Mead died, the anthropologist Derek Freeman published a fierce critique. Freeman had worked in Samoa for years, and he argued that Samoan society actually placed a strong value on virginity and had plenty of conflict and violence. He even suggested that some of Mead's informants had been joking with her. So who was right? Well, most anthropologists today wouldn't simply side with Freeman, either. His fieldwork was done mostly in a different part of Samoa, and decades later, after major social changes. What the controversy really exposed was a problem of method: how much can one researcher, working alone in one place for a few months, claim to know about an entire culture?",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why adolescence is stressful for teenagers in America",
+     "How Mead and Freeman worked together in Samoa",
+     "A famous study of adolescence and the debate it caused",
+     "Why Samoan society changed after the 1920s"
+    ],
+    "answer": 2,
+    "explanation": "The professor presents Mead's Samoan study and Freeman's later critique of it."
+   },
+   {
+    "prompt": "What was Mead trying to find out in Samoa?",
+    "options": [
+     "Whether informants in Samoa answered questions honestly",
+     "Whether teenage turmoil is biological or shaped by culture",
+     "Whether American psychologists had studied Samoa correctly",
+     "Whether adolescence in Samoa had become more violent"
+    ],
+    "answer": 1,
+    "explanation": "Mead reasoned that if storm and stress were biological, it should happen everywhere, so she tested that in Samoa."
+   },
+   {
+    "prompt": "According to the professor, why do many anthropologists not simply accept Freeman's critique?",
+    "options": [
+     "He published it while Mead was still alive.",
+     "He studied a different area at a later time.",
+     "He relied on informants who were joking with him.",
+     "He spent less time in Samoa than Mead had."
+    ],
+    "answer": 1,
+    "explanation": "She says Freeman worked mostly in a different part of Samoa, decades later, after major social changes."
+   },
+   {
+    "prompt": "What does the professor imply about the controversy?",
+    "options": [
+     "It proved that adolescence is mainly a biological stage of life.",
+     "It raised doubts about how far one researcher's findings can be generalized.",
+     "It showed that Mead's book should never have become a bestseller.",
+     "It settled the debate clearly in favor of Freeman's account."
+    ],
+    "answer": 1,
+    "explanation": "She concludes that the controversy exposed a problem of method about one researcher describing a whole culture."
+   }
+  ]
+ },
+ {
+  "id": "at6-06",
+  "difficulty": "advanced",
+  "course": "anthropology",
+  "intro": "Listen to a talk in an anthropology class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "In 1958, the anthropologist Clifford Geertz and his wife arrived in a small village in Bali to do fieldwork. For about ten days, the villagers treated them as if they didn't exist. Then, one afternoon, the couple attended a cockfight, which was illegal at the time. The police raided it, and everyone ran, including the two anthropologists, who fled alongside the villagers and hid in a courtyard. The next day, the whole village suddenly accepted them. From that fieldwork came his famous 1972 essay, 'Deep Play.' Geertz borrowed two ideas to make sense of the cockfight. The first was thick description, a phrase from the philosopher Gilbert Ryle. Ryle's example was two boys rapidly contracting their right eyelids. For one, it's an involuntary twitch; for the other, it's a wink, a signal to a friend. A camera records the same movement. Only a thick description, one that captures meaning, tells them apart. The second idea, deep play, came from Jeremy Bentham, who used it for bets so high that it's irrational to make them. Geertz noticed two kinds of betting. Side bets between individual spectators were mostly about money. But the large central bet, pooled by groups of allies, was about status. The higher those stakes, the more the fight was really about honor. So, Geertz concluded, the cockfight was a story the Balinese told themselves about themselves. Critics later asked a pointed question, though: whose story? Geertz, they said, rarely asked the participants what they thought.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why cockfights were made illegal in Bali in 1958",
+     "How Gilbert Ryle studied winks and twitches in Bali",
+     "Why Balinese villagers ignored foreign visitors",
+     "How an anthropologist interpreted a Balinese cockfight"
+    ],
+    "answer": 3,
+    "explanation": "The lecturer explains Geertz's fieldwork in Bali and the ideas he used to interpret the cockfight."
+   },
+   {
+    "prompt": "Why did the villagers suddenly accept Geertz and his wife?",
+    "options": [
+     "The couple placed a large bet at an illegal cockfight.",
+     "The couple had lived quietly in the village for a year.",
+     "The couple fled the police raid along with the villagers.",
+     "The couple helped the police bring the cockfight to an end."
+    ],
+    "answer": 2,
+    "explanation": "The lecturer says that after the couple ran from the raid with the villagers, the village accepted them the next day."
+   },
+   {
+    "prompt": "How did the central bet differ from the side bets?",
+    "options": [
+     "It was made by individual spectators for money.",
+     "It was pooled by groups and mainly concerned status.",
+     "It was so small that it was considered irrational.",
+     "It was illegal, while the side bets were allowed."
+    ],
+    "answer": 1,
+    "explanation": "Side bets between individuals were about money, while the central bet, pooled by allies, was about status."
+   },
+   {
+    "prompt": "Why does the lecturer mention two boys contracting their eyelids?",
+    "options": [
+     "To show how Bentham defined bets that were irrational",
+     "To describe how villagers signaled during the police raid",
+     "To explain why critics rejected Geertz's interpretation",
+     "To illustrate why describing meaning matters, not just behavior"
+    ],
+    "answer": 3,
+    "explanation": "Ryle's twitch-and-wink example shows that only a description capturing meaning can tell identical movements apart."
+   }
+  ]
+ },
+ {
+  "id": "at6-07",
+  "difficulty": "advanced",
+  "course": "art history",
+  "intro": "Listen to a talk in an art history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Today: a painter who changed how light works in pictures. Michelangelo Merisi, known as Caravaggio, was born in 1571 and died in 1610, before he turned forty. In that short career, he developed a style we call tenebrism, from the Italian word for darkness. Now, you've heard of chiaroscuro, the contrast of light and shadow. Painters had used it for a century. But compare Leonardo's approach with Caravaggio's. Leonardo blended light into shadow so gradually, so smoothly, that you can't see where one ends and the other begins. Caravaggio did the opposite. His figures emerge from almost black backgrounds, struck by a strong light from a single source, often outside the frame, like a spotlight in a dark room. A great example is The Calling of Saint Matthew, finished around 1600 for a chapel in Rome. Christ points across a dim room at a group of men counting money, and a beam of light follows his gesture. And Caravaggio painted saints as ordinary people, with dirty feet and wrinkled faces, using models from the street. He influenced a generation of followers, the Caravaggisti, across Europe. Now, for a long time it was said that Caravaggio never drew, that he painted straight onto the canvas without any preparation. After all, no drawings by him survive. But technical studies have found lines scratched into the wet ground layer of his canvases, marking where figures would go. So he did plan, just not on paper, the way other painters did.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why Leonardo's paintings influenced the Caravaggisti",
+     "How painters in Rome made drawings before they began painting",
+     "Why Caravaggio's career ended before he reached forty",
+     "How Caravaggio used light and how his methods are now understood"
+    ],
+    "answer": 3,
+    "explanation": "The professor explains Caravaggio's tenebrism and corrects the belief that he worked without preparation."
+   },
+   {
+    "prompt": "According to the professor, where does the light in Caravaggio's paintings often come from?",
+    "options": [
+     "Several soft sources blended gradually into the shadows",
+     "Candles that are painted at the center of each scene",
+     "The light-colored backgrounds behind the figures",
+     "A single strong source that is often outside the frame"
+    ],
+    "answer": 3,
+    "explanation": "She says his figures are struck by strong light from a single source, often outside the frame."
+   },
+   {
+    "prompt": "What contrast does the professor draw between Leonardo and Caravaggio?",
+    "options": [
+     "Leonardo used models from the street, while Caravaggio painted idealized saints.",
+     "Leonardo scratched lines into his canvases, while Caravaggio drew on paper.",
+     "Leonardo used a single light source, while Caravaggio used several sources.",
+     "Leonardo blended light into shadow gradually, while Caravaggio used sharp contrast."
+    ],
+    "answer": 3,
+    "explanation": "She says Leonardo's transitions were gradual, while Caravaggio's figures emerge sharply from near-black backgrounds."
+   },
+   {
+    "prompt": "Why does the professor mention lines scratched into Caravaggio's canvases?",
+    "options": [
+     "To explain why none of his drawings have survived today",
+     "To challenge the claim that he painted without any planning",
+     "To show how he created his extremely dark backgrounds",
+     "To describe a technique that the Caravaggisti invented"
+    ],
+    "answer": 1,
+    "explanation": "The scratched lines show he planned where figures would go, contradicting the story that he never prepared."
+   }
+  ]
+ },
+ {
+  "id": "at6-08",
+  "difficulty": "advanced",
+  "course": "art history",
+  "intro": "Listen to a talk on a podcast about art history.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Today's episode is about how a cheap kind of Japanese print ended up transforming European painting. For over two centuries, Japan had sharply limited contact with the West. Then, in 1854, under pressure from American warships, it signed a treaty opening its ports, and Japanese goods began flowing to Europe. Among them were ukiyo-e, woodblock prints showing actors, landscapes, and city life. Now, each print was a team effort. A designer drew the image. A carver cut it into wooden blocks, a separate block for each color. A printer pressed the paper onto the blocks, one after another. Then a publisher sold them cheaply, like posters. In Japan, these were popular entertainment, not high art. Parisian artists saw them as revelations. After Japan exhibited at the Paris World's Fair of 1867, the craze took off, and by 1872 a critic had a name for it: Japonisme. So what did Europeans take from the prints? Flat areas of bright color, bold outlines, unusual high viewpoints, and figures cut off by the edge of the frame. Compare two painters. Vincent van Gogh copied prints by Hiroshige almost directly, in oil, even painting Japanese characters into the borders. Edgar Degas did something subtler. He borrowed the compositions, the off-center figures and cropped edges, but his subjects stayed entirely Parisian: dancers, racehorses, cafés. And here's the irony. Just as Europe was celebrating these prints as fine art, Japan, eager to modernize, was treating them as disposable and old-fashioned.",
+  "questions": [
+   {
+    "prompt": "What is the main topic of the podcast?",
+    "options": [
+     "How ukiyo-e prints were produced in Paris workshops",
+     "How Japanese woodblock prints influenced European artists",
+     "Why Japan opened its ports to Western trade in 1854",
+     "How Degas and van Gogh worked together on Japanese themes"
+    ],
+    "answer": 1,
+    "explanation": "The host explains how ukiyo-e reached Europe and how painters such as van Gogh and Degas used them."
+   },
+   {
+    "prompt": "According to the host, what was the carver's role in making a print?",
+    "options": [
+     "Drawing the original image that would later be printed",
+     "Cutting the image into a separate block for each color",
+     "Pressing the paper onto the blocks one after another",
+     "Selling the finished prints at a low price"
+    ],
+    "answer": 1,
+    "explanation": "He says the carver cut the design into wooden blocks, one block for each color."
+   },
+   {
+    "prompt": "How did Degas's use of Japanese prints differ from van Gogh's?",
+    "options": [
+     "Degas borrowed compositions but kept Parisian subjects.",
+     "Degas copied Hiroshige's prints almost directly in oil.",
+     "Degas added Japanese characters to the borders of his works.",
+     "Degas rejected the cropped edges found in the prints."
+    ],
+    "answer": 0,
+    "explanation": "Van Gogh copied Hiroshige closely, while Degas took the compositions but painted Parisian dancers, racehorses, and cafés."
+   },
+   {
+    "prompt": "What does the host find ironic?",
+    "options": [
+     "Japan exhibited the prints in Paris but refused to sell them.",
+     "Europe valued the prints as art while Japan was dismissing them.",
+     "The prints were cheap in Paris but expensive in Japan.",
+     "Van Gogh copied prints that Japanese artists considered high art."
+    ],
+    "answer": 1,
+    "explanation": "He says Europe celebrated the prints as fine art just as modernizing Japan treated them as disposable."
+   }
+  ]
+ },
+ {
+  "id": "at6-09",
+  "difficulty": "advanced",
+  "course": "music history",
+  "intro": "Listen to a talk in a music history class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Today: sonata form, the structure behind the first movements of most symphonies, sonatas, and string quartets from the classical period, roughly 1750 to 1820. The standard textbook version has three sections. First comes the exposition, which presents two main themes. The first theme is in the home key. Then a transition moves to a new key, usually the dominant, a fifth higher, and the second theme appears there, often more lyrical. The second section is the development. Here the composer breaks the themes into fragments, moves restlessly through different keys, and builds tension. The third section is the recapitulation, where both themes return, but now, crucially, the second theme stays in the home key. That's what resolves the tension. So: exposition, development, recapitulation. Easy to memorize. But here's what textbooks rarely stress. Haydn and Mozart never used the term sonata form. It was coined in the 1840s by theorists like Adolf Bernhard Marx, who described the form mainly in terms of contrasting themes. An earlier theorist, Heinrich Christoph Koch, writing in 1793, during Haydn's lifetime, described the same movements in terms of keys rather than themes: a journey away from home and back again. And Koch's view fits Haydn better. In many of Haydn's movements, the so-called second theme is just the first theme again, in the new key. By Marx's definition, those movements barely qualify. By Koch's, they fit perfectly. So sonata form was a description written after the fact, not a recipe composers followed.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The structure of sonata form and how it has been defined",
+     "Why Haydn wrote movements that contained only one theme",
+     "How Mozart and Marx developed the recapitulation together",
+     "Why classical composers avoided moving to the dominant key"
+    ],
+    "answer": 0,
+    "explanation": "The professor describes the three sections of sonata form and compares theme-based and key-based definitions."
+   },
+   {
+    "prompt": "According to the professor, what happens in the development section?",
+    "options": [
+     "Themes are broken into fragments and pass through different keys.",
+     "Both themes return, with the second theme in the home key.",
+     "Two contrasting themes are presented for the first time.",
+     "A transition leads from the home key to the dominant."
+    ],
+    "answer": 0,
+    "explanation": "She says the development breaks themes into fragments, moves through different keys, and builds tension."
+   },
+   {
+    "prompt": "Why do Haydn's movements fit Koch's description better than Marx's?",
+    "options": [
+     "Koch focused on contrasting themes, which Haydn always provided.",
+     "Marx wrote in 1793, before Haydn's main works were finished.",
+     "Marx described the development, which Haydn usually left out.",
+     "Koch focused on keys, and Haydn often reused the first theme in the new key."
+    ],
+    "answer": 3,
+    "explanation": "Koch defined the form by keys, and Haydn's second theme is often the first theme in the new key, which breaks Marx's theme-based definition."
+   },
+   {
+    "prompt": "What is the professor's attitude toward the textbook version of sonata form?",
+    "options": [
+     "She finds it useful but thinks it can misrepresent how composers worked.",
+     "She thinks it should be abandoned in favor of Koch's version.",
+     "She believes it describes Haydn's music better than Mozart's.",
+     "She considers it too difficult for students to memorize."
+    ],
+    "answer": 0,
+    "explanation": "She calls it easy to memorize but stresses it was a description written after the fact, not a recipe composers followed."
+   }
+  ]
+ },
+ {
+  "id": "at6-10",
+  "difficulty": "advanced",
+  "course": "music history",
+  "intro": "Listen to a talk in a music history class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "Before public concerts, where did people hear music? Mostly in church, at noble courts, and in private homes. If you were a composer, you worked for a patron, a church or a prince, and you wrote what your employer needed. Then, in London in 1672, a violinist named John Banister did something new. He advertised in a newspaper that music would be performed every afternoon at his house, and anyone could attend for a shilling. That's often considered the first series of public concerts with paid admission. Now, compare this with Paris. There, public concerts developed differently. The most important series, the Concert Spirituel, founded in 1725, operated under a royal privilege, and it originally performed on religious holidays when the opera houses were closed. So in Paris, concert life grew under the protection of the crown, while in London it grew as a business. And by the late 1700s, the London market was strong enough for an impresario named Johann Peter Salomon to bring Joseph Haydn over, twice, in the 1790s. Haydn wrote twelve symphonies for those visits, and he wrote them for a paying public. You know the Surprise Symphony, with the sudden loud chord in the quiet slow movement? The famous story is that Haydn wanted to wake up sleeping listeners. He later denied that, saying he simply wanted to do something new and make a brilliant debut. Either way, notice who he was trying to impress: not a prince, but a ticket-buying crowd.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why Haydn denied a story about his Surprise Symphony",
+     "How public concerts emerged and changed composers' audiences",
+     "How the Concert Spirituel replaced the Paris opera houses",
+     "Why church music declined during the eighteenth century"
+    ],
+    "answer": 1,
+    "explanation": "The lecturer traces the rise of paid public concerts and how they changed whom composers wrote for."
+   },
+   {
+    "prompt": "What was new about the concerts John Banister organized in 1672?",
+    "options": [
+     "Anyone who paid the admission could attend.",
+     "They were held in a church on religious holidays.",
+     "They were funded through a royal privilege.",
+     "They featured symphonies written by Haydn."
+    ],
+    "answer": 0,
+    "explanation": "The lecturer says anyone could attend Banister's concerts for a shilling, unlike a patron's invited guests."
+   },
+   {
+    "prompt": "How did concert life in Paris differ from concert life in London?",
+    "options": [
+     "Paris concerts charged a shilling, while London's were free to the public.",
+     "Paris concerts began in 1672, while London's began in 1725.",
+     "Paris concerts grew under royal protection, while London's grew as a business.",
+     "Paris concerts were held in private homes, while London's used opera houses."
+    ],
+    "answer": 2,
+    "explanation": "He says the Concert Spirituel operated under a royal privilege, while London concert life grew commercially."
+   },
+   {
+    "prompt": "Why does the lecturer mention the Surprise Symphony?",
+    "options": [
+     "To prove that London audiences often fell asleep at concerts",
+     "To explain why Salomon invited Haydn to London twice",
+     "To show that Haydn disliked writing music for the public",
+     "To show that Haydn wrote with a paying audience in mind"
+    ],
+    "answer": 3,
+    "explanation": "He concludes that Haydn was trying to impress a ticket-buying crowd rather than a prince."
+   }
+  ]
+ },
+ {
+  "id": "at6-11",
+  "difficulty": "advanced",
+  "course": "architecture",
+  "intro": "Listen to a talk in an architecture class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Let's talk about the Pantheon in Rome, perhaps the most impressive dome ever built. The building we see today was completed under the emperor Hadrian, around 125 CE, although the inscription on the front credits Agrippa, who built an earlier temple on the site. Now, the numbers. The dome spans about forty-three meters, and the height from the floor to the top is exactly the same, so a perfect sphere would fit inside. At the top is the oculus, an open hole about eight meters across, with no glass. And here's the remarkable part: the dome is unreinforced concrete, no steel at all, and nearly nineteen hundred years later, it's still the largest dome of its kind in the world. So how did the Romans do it? Three strategies. First, they varied the aggregate, the stones mixed into the concrete. Near the base, they used heavy material like travertine; higher up, they switched to lighter volcanic stone, with pumice near the top. Second, the dome's thickness decreases from about six meters at the base to just over one meter at the oculus. Third, the coffers, the sunken ceiling panels, remove even more weight. Compare that with Brunelleschi's dome in Florence, finished in the 1430s. It's slightly wider, but it's built of brick, with two shells, inner and outer. For a long time, people talked about a lost Roman secret. But really, the key was ordinary volcanic ash, which helps concrete set strongly even in damp conditions.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How the Romans built a very large concrete dome",
+     "Why the Pantheon's oculus was never covered with glass",
+     "How Brunelleschi copied the design of the Pantheon",
+     "Why Hadrian credited Agrippa on the Pantheon's front"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains the Pantheon's dimensions and the strategies that let its concrete dome stand."
+   },
+   {
+    "prompt": "What does the professor say about the dimensions of the Pantheon?",
+    "options": [
+     "Its oculus is about forty-three meters across.",
+     "Its height to the top equals the width of the dome.",
+     "Its dome is slightly wider than the dome in Florence.",
+     "Its dome is about one meter thick at the base."
+    ],
+    "answer": 1,
+    "explanation": "She says the dome spans about forty-three meters and the height to the top is the same, so a sphere fits inside."
+   },
+   {
+    "prompt": "How does the Pantheon's dome differ from Brunelleschi's dome in Florence?",
+    "options": [
+     "The Pantheon's is wider, while Florence's is much taller.",
+     "The Pantheon's has two shells, while Florence's has only one.",
+     "The Pantheon's is concrete, while Florence's is brick with two shells.",
+     "The Pantheon's uses steel, while Florence's uses none at all."
+    ],
+    "answer": 2,
+    "explanation": "She contrasts the Pantheon's unreinforced concrete with the double-shelled brick dome in Florence, which is slightly wider."
+   },
+   {
+    "prompt": "What is the professor's view of the idea of a 'lost Roman secret'?",
+    "options": [
+     "It explains why no larger concrete dome has been built since.",
+     "It is accurate because no one knows how volcanic ash works.",
+     "It is misleading because the key ingredient was common volcanic ash.",
+     "It refers to the method the Romans used to build the coffers."
+    ],
+    "answer": 2,
+    "explanation": "She says that, really, the key was ordinary volcanic ash rather than a lost secret."
+   }
+  ]
+ },
+ {
+  "id": "at6-12",
+  "difficulty": "advanced",
+  "course": "architecture",
+  "intro": "Listen to a talk in an architecture class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "So, why did the skyscraper appear in Chicago in the 1880s? There were really three conditions. The first was a disaster. In 1871, the Great Chicago Fire destroyed much of the city's center, and during rebuilding, land in the business district became very expensive. The economic logic was simple: if land is costly, build up. The second condition was the safety elevator. Elisha Otis had demonstrated one in New York in 1854, with a brake that stopped the car if the cable broke. Without elevators, nobody wanted to climb past five or six floors. But the third condition was the real structural problem. In a traditional building, the walls carry the weight, and the taller you build, the thicker the walls at the bottom have to be. Look at the Monadnock Building in Chicago, completed in 1891. It's sixteen stories tall with load-bearing brick walls, and at the base those walls are about six feet thick. That's about the limit. Now compare the Home Insurance Building, designed by William Le Baron Jenney and completed in 1885. It used an internal metal frame to carry much of the load, so the walls could be thinner. It's usually called the first skyscraper, even though it was only ten stories. But historians argue about that title. Jenney's frame still relied partly on masonry, and others were experimenting too. So the skyscraper wasn't a single invention. It was a gradual shift from walls that hold a building up to a frame that does.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why the Monadnock Building became the tallest brick building",
+     "How Elisha Otis designed buildings with metal frames",
+     "The conditions that led to the first skyscrapers in Chicago",
+     "Why the Chicago fire led to new safety laws for elevators"
+    ],
+    "answer": 2,
+    "explanation": "The lecturer explains three conditions behind the skyscraper: costly land after the fire, the safety elevator, and the metal frame."
+   },
+   {
+    "prompt": "According to the lecturer, why did land values matter after the 1871 fire?",
+    "options": [
+     "Cheap land allowed the city to spread outward.",
+     "Expensive land encouraged builders to build taller.",
+     "Expensive land made elevators too costly to install.",
+     "Cheap land led builders to use much thicker walls."
+    ],
+    "answer": 1,
+    "explanation": "He says land in the business district became very expensive, so the logic was to build up."
+   },
+   {
+    "prompt": "How did the Home Insurance Building differ from the Monadnock Building?",
+    "options": [
+     "It was sixteen stories tall, while the Monadnock had only ten.",
+     "It was built after the Monadnock and copied its thick walls.",
+     "It used a metal frame, while the Monadnock relied on thick brick walls.",
+     "It had load-bearing walls, while the Monadnock used a metal frame."
+    ],
+    "answer": 2,
+    "explanation": "The Home Insurance Building used an internal metal frame, while the Monadnock used load-bearing walls six feet thick."
+   },
+   {
+    "prompt": "What does the lecturer imply about calling the Home Insurance Building 'the first skyscraper'?",
+    "options": [
+     "The label is accurate because it was the tallest building.",
+     "The label should belong instead to the Monadnock Building.",
+     "The label was invented by Jenney to promote his own work.",
+     "The label oversimplifies what was really a gradual change."
+    ],
+    "answer": 3,
+    "explanation": "He says historians argue about the title and that the skyscraper was a gradual shift, not one invention."
+   }
+  ]
+ },
+ {
+  "id": "at6-13",
+  "difficulty": "advanced",
+  "course": "literature",
+  "intro": "Listen to a talk in a literature class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Today we're comparing two versions of the sonnet. Every sonnet has fourteen lines, but how those lines are organized changes how the poem thinks. Start with Petrarch, in fourteenth-century Italy. The Petrarchan sonnet divides into two parts: an octave of eight lines, then a sestet of six. The octave usually rhymes A-B-B-A, A-B-B-A, so it reuses just two rhyme sounds, four times each. And between the octave and the sestet, at line nine, there's a turn, which Italian critics call the volta. The octave raises a problem; the sestet answers or reconsiders it. Now, poets like Thomas Wyatt brought the sonnet to England in the 1530s. But there was a practical difficulty. Italian is full of words with similar endings, so rhymes are easy to find. English has far fewer rhyming words, and finding four rhymes on the same sound, twice, is hard. So English poets gradually developed a different structure: three quatrains of four lines, each with its own new rhymes, and then a final rhyming couplet. When Shakespeare's sonnets were published in 1609, there were a hundred and fifty-four of them, almost all in this form. So where's the turn in the English sonnet? Usually it's delayed until the couplet, which often delivers a sharp twist or summary. That's the standard contrast. But don't apply it too rigidly. Many of Shakespeare's sonnets also shift direction at line nine, just as Petrarch's do. So in practice, the English form often contains two turns, not one.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why Shakespeare published exactly one hundred fifty-four sonnets",
+     "How the Italian and English sonnet forms are organized",
+     "How Petrarch invented the rhyming couplet",
+     "Why English poets stopped writing sonnets after 1609"
+    ],
+    "answer": 1,
+    "explanation": "The professor compares the structure, rhyme, and turn of the Petrarchan and English sonnets."
+   },
+   {
+    "prompt": "According to the professor, where does the turn occur in a Petrarchan sonnet?",
+    "options": [
+     "In the final couplet, after three quatrains",
+     "In the first line, at the start of the octave",
+     "Between the second and third quatrains",
+     "At line nine, between the octave and the sestet"
+    ],
+    "answer": 3,
+    "explanation": "She says the volta comes at line nine, between the octave and the sestet."
+   },
+   {
+    "prompt": "Why did English poets change the rhyme scheme they took from Italian?",
+    "options": [
+     "English has fewer rhyming words, so repeated rhymes were difficult.",
+     "English readers preferred poems with a turn in the middle.",
+     "Italian rhymes sounded too similar when translated into English.",
+     "Wyatt wanted to remove the volta from the sonnet entirely."
+    ],
+    "answer": 0,
+    "explanation": "She explains that English has far fewer rhyming words, so four rhymes on one sound, twice, was hard."
+   },
+   {
+    "prompt": "What does the professor imply about the standard contrast between the two forms?",
+    "options": [
+     "It is wrong because English sonnets have no turn.",
+     "It applies only to the sonnets that Wyatt wrote.",
+     "It was invented by Shakespeare to explain his poems.",
+     "It is useful but should not be applied too strictly."
+    ],
+    "answer": 3,
+    "explanation": "She warns not to apply it rigidly, since many Shakespeare sonnets also turn at line nine."
+   }
+  ]
+ },
+ {
+  "id": "at6-14",
+  "difficulty": "advanced",
+  "course": "literature",
+  "intro": "Listen to a talk on a podcast about literature.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Welcome back. Today: how money shaped the Victorian novel. In the 1830s, a new novel in Britain was usually published in three volumes, and it was very expensive, about a guinea and a half, more than many workers earned in a week. So most readers didn't buy novels. They borrowed them from circulating libraries that charged an annual subscription. Then, in 1836, a young writer named Charles Dickens began publishing The Pickwick Papers in monthly installments. Each part had thirty-two pages and two illustrations, and it cost one shilling. So readers paid a little each month, for about a year and a half. At first, sales were weak; the first part sold only a few hundred copies. But in the fourth installment, Dickens introduced a witty servant named Sam Weller, and sales took off. By the end, each part was selling around forty thousand copies. Now, think about what this format did to writing. A three-volume novel was finished before readers saw it. A serial wasn't. Dickens was often writing just a few weeks ahead of publication, so he could watch sales and readers' letters and adjust his plots. And each installment needed a reason to buy the next one, which encouraged cliffhangers. For a long time, critics treated these features as flaws, saying serial novels were baggy and padded because authors were paid by length. More recently, scholars have argued nearly the opposite: that serialization created a shared, ongoing experience, much like a television series today.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "Why circulating libraries stopped lending three-volume novels",
+     "How Dickens created the character of Sam Weller",
+     "Why critics have always praised serialized novels",
+     "How publishing novels in monthly parts affected readers and writing"
+    ],
+    "answer": 3,
+    "explanation": "The host explains how monthly serial publication changed who could buy novels and how they were written."
+   },
+   {
+    "prompt": "According to the host, why did most readers not buy three-volume novels?",
+    "options": [
+     "The novels were sold only in monthly parts.",
+     "The novels were too expensive for most people.",
+     "The novels lacked the illustrations readers wanted.",
+     "The novels were banned by circulating libraries."
+    ],
+    "answer": 1,
+    "explanation": "He says a three-volume novel cost about a guinea and a half, more than many workers earned in a week."
+   },
+   {
+    "prompt": "How did writing a serial differ from writing a three-volume novel?",
+    "options": [
+     "A serial had to be finished completely before the first part appeared.",
+     "A serial was paid for by libraries rather than by individual readers.",
+     "A serial avoided cliffhangers so that readers would not be frustrated.",
+     "A serial could be adjusted in response to readers while it was appearing."
+    ],
+    "answer": 3,
+    "explanation": "A three-volume novel was finished before publication, while Dickens wrote serials weeks ahead and adjusted plots to readers."
+   },
+   {
+    "prompt": "Why does the host mention a television series?",
+    "options": [
+     "To explain why critics thought serial novels were padded",
+     "To show how The Pickwick Papers was later adapted",
+     "To illustrate a more recent, positive view of serialization",
+     "To compare serial prices with modern subscriptions"
+    ],
+    "answer": 2,
+    "explanation": "He uses the comparison to describe scholars' newer view that serialization created a shared, ongoing experience."
+   }
+  ]
+ },
+ {
+  "id": "at6-15",
+  "difficulty": "advanced",
+  "course": "linguistics",
+  "intro": "Listen to a talk in a linguistics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Here's a pattern you can test yourself. Latin pater, English father. Latin tres, English three. Latin cornu, English horn. Where Latin has a p, English has an f. Where Latin has a t, English has a th. And where Latin has a k sound, English has an h. These aren't random. In 1822, Jacob Grimm, yes, one of the brothers who collected fairy tales, laid out these correspondences systematically, building on work by the Danish scholar Rasmus Rask. Today we call it Grimm's Law. The idea is that the Germanic languages, including English, German, and Dutch, went through a sound shift that Latin and Greek didn't. One set of consonants, p, t, and k, became f, th, and h. Another set, b, d, and g, became p, t, and k. That's why Latin decem corresponds to English ten. Now, linguists think the order mattered. If b, d, and g had become p, t, and k first, those new sounds would have been swept up into the change to f, th, and h. Since they weren't, the first shift probably happened earlier. But Grimm's Law had exceptions. Latin pater should give Gothic a word with th, but Gothic has fadar, with a d. Scholars treated such cases as irregular. Then, in 1875, Karl Verner showed that these exceptions depended on where the stress fell in the original word. The exceptions followed a rule too. And that discovery encouraged a bold claim: that sound changes operate without exceptions.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How Jacob Grimm collected fairy tales from across Germany",
+     "Why Latin and Greek have no consonants like f and h",
+     "A regular pattern of sound change in the Germanic languages",
+     "How Gothic speakers changed the stress in Latin words"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains Grimm's Law, the order of its changes, and how Verner explained its exceptions."
+   },
+   {
+    "prompt": "Which correspondence does the professor give as an example of Grimm's Law?",
+    "options": [
+     "Latin f corresponding to English p",
+     "Latin t corresponding to English th",
+     "Latin h corresponding to English k",
+     "Latin d corresponding to English th"
+    ],
+    "answer": 1,
+    "explanation": "She pairs Latin tres with English three, where Latin t matches English th."
+   },
+   {
+    "prompt": "Why do linguists think the change affecting p, t, and k came before the change affecting b, d, and g?",
+    "options": [
+     "Otherwise Latin would show the same changes that English shows.",
+     "Gothic records show the b, d, and g change appearing much later.",
+     "Otherwise the new p, t, and k sounds would also have become f, th, and h.",
+     "Verner found that stress made the p, t, and k change come first."
+    ],
+    "answer": 2,
+    "explanation": "She explains that if b, d, g had become p, t, k first, they would have been swept into the shift to f, th, h."
+   },
+   {
+    "prompt": "Why does the professor mention the Gothic word fadar?",
+    "options": [
+     "To show that Gothic did not belong to the Germanic family",
+     "To prove that Grimm's Law applied only to Latin words",
+     "To show that b, d, and g changed before other consonants",
+     "To give an example of an apparent exception that was later explained"
+    ],
+    "answer": 3,
+    "explanation": "Fadar has d where Grimm's Law predicts th, an exception Verner later explained by stress."
+   }
+  ]
+ },
+ {
+  "id": "at6-16",
+  "difficulty": "advanced",
+  "course": "linguistics",
+  "intro": "Listen to a talk in a linguistics class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "A language with no native speakers is usually considered dead. So here's a remarkable case. Hebrew stopped being anyone's everyday spoken language around the second or third century CE. For more than fifteen hundred years after that, it survived, but only in prayer, scholarship, and writing, a bit like Latin in medieval Europe. Then, in 1881, a young man named Eliezer Ben-Yehuda moved to Jerusalem, determined to revive it as a spoken language. He insisted that his family speak only Hebrew at home, and his son, born in 1882, is often called the first native speaker of Hebrew in modern times. He also began a huge dictionary, coining words for modern things. That's the popular story: a single determined man. But historians of language now give much more credit to schools. In the farming settlements of the late 1800s, teachers began teaching all subjects in Hebrew, and children who learned it at school spoke it with each other, and later with their own children. So the revival really happened in three steps: first an ideology, then the classroom, then the homes of the next generation. Compare this with Irish. After Irish independence in 1922, Irish became an official language and was required in schools. Yet today, relatively few use it as their main daily language. One reason: in Palestine, immigrants arrived speaking many different languages, so Hebrew filled a real need as a common language. In Ireland, nearly everyone already shared English.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why Ben-Yehuda's dictionary took so long to finish",
+     "How Irish became an official language in 1922",
+     "Why Latin survived in medieval European scholarship",
+     "How Hebrew became a spoken native language again"
+    ],
+    "answer": 3,
+    "explanation": "The lecturer explains how Hebrew was revived as a spoken language and compares it with Irish."
+   },
+   {
+    "prompt": "According to the lecturer, how did Hebrew survive before its revival?",
+    "options": [
+     "As a home language in a few families",
+     "As the language of farming-settlement schools",
+     "Through prayer, scholarship, and writing",
+     "As a common language among new immigrants"
+    ],
+    "answer": 2,
+    "explanation": "He says Hebrew survived for centuries only in prayer, scholarship, and writing."
+   },
+   {
+    "prompt": "In what order does the lecturer describe the steps of the revival?",
+    "options": [
+     "An ideology, then schools, then the homes of the next generation",
+     "Schools, then an ideology, then the homes of the next generation",
+     "The home, then schools, then an ideology of language revival",
+     "An ideology, then the home, then schools for the next generation"
+    ],
+    "answer": 0,
+    "explanation": "He summarizes the revival as ideology first, then the classroom, then the homes of the next generation."
+   },
+   {
+    "prompt": "Why does the lecturer mention immigrants who spoke many languages?",
+    "options": [
+     "To show why Ben-Yehuda's family refused to speak Hebrew",
+     "To explain why Hebrew met a practical need that Irish did not",
+     "To explain why Irish schools stopped teaching the Irish language",
+     "To show that Hebrew borrowed many words from other languages"
+    ],
+    "answer": 1,
+    "explanation": "He says Hebrew served as a needed common language among immigrants, while in Ireland nearly everyone shared English."
+   }
+  ]
+ },
+ {
+  "id": "at6-17",
+  "difficulty": "advanced",
+  "course": "philosophy",
+  "intro": "Listen to a talk in a philosophy class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "In 1967, the British philosopher Philippa Foot published a brief thought experiment. A runaway tram is heading toward five workers on the track. The driver can steer onto a side track, where only one worker stands. Should he? Most people say yes. But Foot paired it with a second case. A judge can stop a deadly riot by framing and executing an innocent man. Again, one life against several, yet almost everyone says no. So what's the difference? Foot drew on distinctions between doing and allowing, and between intending and merely foreseeing. Later, in 1976 and again in 1985, the American philosopher Judith Jarvis Thomson pushed the puzzle further and gave it its name, the trolley problem. She introduced two famous variants. In the first, you're a bystander next to a switch, not the driver. In the second, you're on a footbridge above the track, and the only way to stop the trolley is to push a large man off the bridge onto the rails. Surveys consistently show that most people would pull the switch but would not push the man, though the numbers are identical. A common explanation is that pushing uses the man as a means, while switching merely foresees a death as a side effect. But here's a twist. In 2008, Thomson changed her mind. She argued that the bystander, unlike the driver, isn't permitted to switch either, because he'd be imposing a cost on someone else that he wouldn't accept himself.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why judges must never punish people who are innocent",
+     "A moral puzzle about sacrificing one life to save several",
+     "How trolley drivers are trained to avoid accidents",
+     "Why Thomson disagreed with every claim Foot made"
+    ],
+    "answer": 1,
+    "explanation": "The professor traces the trolley problem from Foot's original cases through Thomson's variants and her later change of mind."
+   },
+   {
+    "prompt": "In Foot's second case, what could the judge do to stop a riot?",
+    "options": [
+     "Steer a tram onto a side track",
+     "Push a large man from a bridge",
+     "Release five workers from prison",
+     "Frame and execute an innocent man"
+    ],
+    "answer": 3,
+    "explanation": "The professor says the judge could stop a deadly riot by framing and executing an innocent man."
+   },
+   {
+    "prompt": "How do most people respond to the switch case compared with the footbridge case?",
+    "options": [
+     "They would push the man but would not pull the switch.",
+     "They would refuse to act in either of the two cases.",
+     "They would act in both cases, since the numbers are equal.",
+     "They would pull the switch but would not push the man."
+    ],
+    "answer": 3,
+    "explanation": "She says surveys show most people would pull the switch but not push the man, despite identical numbers."
+   },
+   {
+    "prompt": "Why does the professor mention Thomson's view in 2008?",
+    "options": [
+     "To explain how the trolley problem first got its name",
+     "To show that even the puzzle's developer revised her position",
+     "To show that Thomson agreed with surveys of ordinary people",
+     "To introduce the footbridge case for the first time"
+    ],
+    "answer": 1,
+    "explanation": "She presents it as a twist: Thomson later argued the bystander may not switch either."
+   }
+  ]
+ },
+ {
+  "id": "at6-18",
+  "difficulty": "advanced",
+  "course": "philosophy",
+  "intro": "Listen to a talk in a philosophy class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "Here's a belief you hold with complete confidence: the sun will rise tomorrow. Why? Because it has risen every day so far. That kind of reasoning, from past cases to future ones, is called induction. In 1739, the Scottish philosopher David Hume asked a devastating question: what justifies it? Hume's argument works in two steps. Induction assumes that the future will resemble the past, that nature is uniform. So, step one: can we prove that assumption by pure logic? No. There's no contradiction in imagining that tomorrow the sun doesn't rise. It would be surprising, but it isn't logically impossible, the way a square circle is. Step two: can we prove it from experience? We could say the future has always resembled the past before. But that's itself an inductive argument. We'd be using induction to justify induction, which is circular. So Hume concluded that our expectations rest not on reason but on custom, or habit. After seeing one thing follow another many times, the mind simply expects it. Bertrand Russell later made the point vividly with a chicken. Fed every day, it confidently expects food, until the day the farmer wrings its neck instead. In the twentieth century, Karl Popper accepted Hume's argument but denied that science needs induction at all. Scientists, he said, don't prove theories from repeated observations; they propose bold theories and try to refute them. No number of fed days proves a theory, but one wrung neck can disprove it.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "A problem with justifying reasoning from past to future",
+     "How Bertrand Russell proved that induction is reliable",
+     "Why the rising of the sun can be proven by logic",
+     "How farmers predict the behavior of their animals"
+    ],
+    "answer": 0,
+    "explanation": "The lecturer presents Hume's problem of induction and Popper's later response to it."
+   },
+   {
+    "prompt": "According to the lecturer, why can't logic prove that nature is uniform?",
+    "options": [
+     "Experience shows that nature often changes suddenly.",
+     "Logic depends on induction, which is circular.",
+     "Square circles show that logic has limits.",
+     "It is not contradictory to imagine nature changing."
+    ],
+    "answer": 3,
+    "explanation": "In step one, he says there is no contradiction in imagining the sun not rising, so logic cannot prove uniformity."
+   },
+   {
+    "prompt": "How does Popper's response differ from Hume's conclusion?",
+    "options": [
+     "Popper argued that science tests theories instead of relying on induction.",
+     "Popper argued that habit provides a rational basis for induction.",
+     "Popper rejected Hume's argument and defended induction as logical.",
+     "Popper claimed that repeated observations can prove a theory true."
+    ],
+    "answer": 0,
+    "explanation": "Hume concluded that expectations rest on habit, while Popper said science proposes theories and tries to refute them."
+   },
+   {
+    "prompt": "Why does the lecturer mention Russell's chicken?",
+    "options": [
+     "To show that animals reason in the same way people do",
+     "To show that past regularity cannot guarantee the future",
+     "To explain why Popper rejected Hume's argument",
+     "To give an example of a contradiction in logic"
+    ],
+    "answer": 1,
+    "explanation": "The chicken expects food every day until it is killed, illustrating that past patterns cannot guarantee what comes next."
+   }
+  ]
+ },
+ {
+  "id": "at6-19",
+  "difficulty": "advanced",
+  "course": "philosophy",
+  "intro": "Listen to a talk on a podcast about philosophy.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "female"
+  },
+  "talk": "Welcome back. Today's question: is there anything you can know with absolute certainty? In his 1641 Meditations on First Philosophy, René Descartes tried to answer this by doubting everything he possibly could. His strategy was like sorting a basket of apples: if you suspect some are rotten, you dump them all out and put back only the ones you're sure are good. He doubted in three stages, each stronger than the last. Stage one: the senses. They sometimes deceive us; a tower that looks round from far away turns out to be square up close. But surely I know I'm sitting by the fire, holding this paper? Which leads to stage two: dreaming. He has often dreamed exactly that, and there's no sure sign to tell dreaming from waking. Still, even in dreams, two plus three equals five. So, stage three: suppose there's an evil demon, as powerful as it is deceptive, fooling me even about mathematics. Now, what survives? Descartes noticed that even if he's being deceived, he must exist in order to be deceived. Whenever he thinks 'I am, I exist,' it must be true. The famous version, 'I think, therefore I am,' actually comes from an earlier book, his Discourse on Method, published in 1637. But was even that certain? The eighteenth-century German writer Georg Lichtenberg objected that Descartes was only entitled to say 'there is thinking,' the way we say 'it is raining.' The 'I' itself, Lichtenberg suggested, was an assumption sneaking in.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "Why Descartes believed that dreams are always deceptive",
+     "How Lichtenberg proved that all thinking requires an 'I'",
+     "Why Descartes rejected mathematics as uncertain knowledge",
+     "How Descartes searched for a belief that could not be doubted"
+    ],
+    "answer": 3,
+    "explanation": "The host explains Descartes's method of doubt, the certainty he arrived at, and an objection to it."
+   },
+   {
+    "prompt": "According to the host, what example does Descartes use to show that the senses can deceive?",
+    "options": [
+     "A tower that looks square from far away but is round",
+     "A fire that seems to feel warm even in a dream",
+     "A paper that looks different when held up close",
+     "A tower that looks round from far away but is square"
+    ],
+    "answer": 3,
+    "explanation": "She says a tower that looks round from far away turns out to be square up close."
+   },
+   {
+    "prompt": "What is the order of Descartes's stages of doubt?",
+    "options": [
+     "Dreaming, then the senses, then an evil demon",
+     "The senses, then dreaming, then an evil demon",
+     "The senses, then an evil demon, then dreaming",
+     "An evil demon, then dreaming, then the senses"
+    ],
+    "answer": 1,
+    "explanation": "She describes stage one as the senses, stage two as dreaming, and stage three as the evil demon."
+   },
+   {
+    "prompt": "What does Lichtenberg's objection suggest about Descartes's conclusion?",
+    "options": [
+     "It depended on the reliability of the senses.",
+     "It was borrowed from the writings of Lichtenberg.",
+     "It assumed the existence of a self without proving it.",
+     "It could not survive the argument from dreaming."
+    ],
+    "answer": 2,
+    "explanation": "Lichtenberg said Descartes could only claim 'there is thinking,' and that the 'I' was an assumption."
+   }
+  ]
+ },
+ {
+  "id": "at6-20",
+  "difficulty": "advanced",
+  "course": "psychology",
+  "intro": "Listen to a talk in a psychology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Before the 1880s, most people assumed memory was too complex to measure scientifically. Then a German psychologist, Hermann Ebbinghaus, decided to try, using the only subject he had complete access to: himself. His key problem was that real words come with associations. If you learn the word 'apple,' it connects to everything you already know. So he invented over two thousand nonsense syllables, things like 'dax' or 'bok,' consonant, vowel, consonant, with no meaning at all. Then he memorized lists of them perfectly and tested himself after different delays. He didn't just ask, how many can I recall? He measured savings: how much less time it took to relearn the list compared with the first time. Even if you can't recall a single item, relearning might be faster, which shows something remained. His 1885 results produced what's called the forgetting curve. The drop is steep at first. Within about an hour, more than half the savings were gone. After a day, about two thirds. But then the curve flattens, so that a month later, he still retained around a fifth. He also found that spreading practice over several days was more efficient than cramming it into one session. Now, compare nonsense syllables with meaningful material. Ebbinghaus also memorized stanzas of a poem by Byron, and those took roughly a tenth of the effort. That points to a real limitation. The very thing that made his method precise, removing meaning, also made it unlike most real-world memory.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why nonsense syllables are easier to learn than poems",
+     "How memory researchers tested many subjects in the 1880s",
+     "Why cramming is the most efficient way to study",
+     "How Ebbinghaus measured forgetting and what he found"
+    ],
+    "answer": 3,
+    "explanation": "The professor describes Ebbinghaus's method, the forgetting curve, and a limitation of his approach."
+   },
+   {
+    "prompt": "Why did Ebbinghaus use nonsense syllables?",
+    "options": [
+     "To make his lists easier to remember for a month",
+     "To compare German words with English poetry",
+     "To test whether other people could learn them quickly",
+     "To avoid the associations that real words carry"
+    ],
+    "answer": 3,
+    "explanation": "The professor says real words connect to everything we know, so Ebbinghaus used meaningless syllables."
+   },
+   {
+    "prompt": "What pattern does the forgetting curve show?",
+    "options": [
+     "Forgetting is slow at first and then speeds up.",
+     "Forgetting is rapid at first and then slows down.",
+     "Forgetting happens at the same rate every day.",
+     "Forgetting stops completely after about a day."
+    ],
+    "answer": 1,
+    "explanation": "More than half the savings were lost within an hour, but a month later about a fifth remained, so the curve flattens."
+   },
+   {
+    "prompt": "Why does the professor mention Ebbinghaus's memorizing a poem by Byron?",
+    "options": [
+     "To point out a limitation of using meaningless material",
+     "To show that poems are forgotten faster than syllables",
+     "To explain how he came up with the savings method",
+     "To give an example of cramming into one session"
+    ],
+    "answer": 0,
+    "explanation": "The poem took about a tenth of the effort, showing that removing meaning made his method unlike real-world memory."
+   }
+  ]
+ },
+ {
+  "id": "at6-21",
+  "difficulty": "advanced",
+  "course": "psychology",
+  "intro": "Listen to a talk in a psychology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "In 1932, the British psychologist Frederic Bartlett published a book called Remembering, taking a different approach from earlier memory research, which often used meaningless material to keep things controlled. Bartlett thought that missed the point. Real memory, he argued, is all about meaning. So he gave his participants, students at Cambridge, a Native American folk tale called 'The War of the Ghosts.' To a British reader, it's a strange story: two young men hunting seals hear war cries, join a war party in canoes, and one realizes his companions are ghosts. Bartlett used two methods. In repeated reproduction, the same person retold the story several times, after delays of minutes, months, even years. In serial reproduction, one person's version was passed to a second person, who retold it to a third, a bit like the children's game of telephone. Both methods produced the same kinds of changes. The story got shorter. Unfamiliar details were replaced with familiar ones: canoes became boats, and hunting seals became fishing. And the supernatural element, the ghosts, was often explained away or forgotten. Bartlett explained this with the concept of a schema, organized knowledge that shapes how we take in and recall information. We don't replay memories like a recording; we rebuild them using what we already expect. Now, a caveat. His instructions were informal, and some later researchers who asked participants to be as accurate as possible found fewer distortions. Still, his central claim, that remembering is reconstruction, is now widely accepted.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why British readers disliked Native American folk tales",
+     "How the children's game of telephone was invented",
+     "How a study showed that memory reconstructs information",
+     "Why memory research should use meaningless material"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains Bartlett's experiments and his conclusion that remembering is reconstruction."
+   },
+   {
+    "prompt": "What was Bartlett's view of earlier memory research?",
+    "options": [
+     "It relied too heavily on folk tales.",
+     "It used too few participants from Cambridge.",
+     "It ignored the role of meaning in memory.",
+     "It focused too much on serial reproduction."
+    ],
+    "answer": 2,
+    "explanation": "The professor says Bartlett thought using meaningless material missed the point, since real memory is about meaning."
+   },
+   {
+    "prompt": "How did serial reproduction differ from repeated reproduction?",
+    "options": [
+     "The story passed from one person to another instead of being retold by the same person.",
+     "The same person retold the story after delays of minutes, months, or even years.",
+     "Participants were asked to be as accurate as possible when retelling the story.",
+     "The story was shortened by Bartlett himself before anyone retold it."
+    ],
+    "answer": 0,
+    "explanation": "In repeated reproduction one person retold the story; in serial reproduction it passed along a chain of people."
+   },
+   {
+    "prompt": "What does the professor imply about later studies with stricter instructions?",
+    "options": [
+     "They suggest Bartlett may have overstated how much distortion occurs.",
+     "They prove that schemas have no effect on how we remember.",
+     "They show that remembering works much like replaying a recording.",
+     "They found even more distortions than Bartlett had reported."
+    ],
+    "answer": 0,
+    "explanation": "She notes these studies found fewer distortions, a caveat to Bartlett's results, though his central claim stands."
+   }
+  ]
+ },
+ {
+  "id": "at6-22",
+  "difficulty": "advanced",
+  "course": "sociology",
+  "intro": "Listen to a talk in a sociology class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "Suicide seems like the most individual act imaginable. That's exactly why the French sociologist Émile Durkheim chose to study it. In his 1897 book, Suicide, he wanted to show that even this decision has social causes. He compared official statistics across countries and groups and found stable patterns. Suicide rates were higher among Protestants than Catholics, higher among unmarried people than married people, and, interestingly, they fell during wars and political crises. Individual psychology couldn't explain why whole groups differed so consistently, year after year. So Durkheim proposed two social forces. The first is integration, how strongly people are bound into a group. Too little integration produces what he called egoistic suicide. Protestantism, he argued, encouraged individual judgment and integrated people less than Catholicism. Too much integration, where the individual barely matters compared with the group, produces altruistic suicide, like a soldier sacrificing himself. The second force is regulation, how much society limits people's desires. Too little produces anomic suicide, from the word anomie, meaning normlessness. Strikingly, rates rose not only during economic crashes but also during sudden booms. Any rapid change loosens the rules that tell people what to expect. Too much regulation produces fatalistic suicide, which he barely discussed. Critics later raised a problem. Official statistics depend on who records a death as suicide. Where suicide carried strong religious stigma, as in many Catholic areas, families and officials may have reported fewer cases. So some of Durkheim's patterns may partly reflect recording, not reality.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "Why suicide rates rose during wars and political crises",
+     "How Durkheim explained suicide rates through social forces",
+     "How Catholic communities recorded official statistics",
+     "Why individual psychology explains suicide best"
+    ],
+    "answer": 1,
+    "explanation": "The lecturer presents Durkheim's use of statistics and his theory of integration and regulation."
+   },
+   {
+    "prompt": "Which pattern did Durkheim find in the official statistics?",
+    "options": [
+     "Rates were higher among Catholics than among Protestants.",
+     "Rates rose during wars and periods of political crisis.",
+     "Rates changed unpredictably from one year to the next.",
+     "Rates were lower among married people than unmarried people."
+    ],
+    "answer": 3,
+    "explanation": "The lecturer says rates were higher among unmarried people than married people."
+   },
+   {
+    "prompt": "How does anomic suicide differ from egoistic suicide in Durkheim's theory?",
+    "options": [
+     "Anomic results from weak integration, egoistic from weak regulation.",
+     "Anomic results from strong integration, egoistic from strong regulation.",
+     "Anomic results from weak regulation, egoistic from weak integration.",
+     "Anomic occurs only in crashes, egoistic only in sudden booms."
+    ],
+    "answer": 2,
+    "explanation": "Too little integration produces egoistic suicide, while too little regulation produces anomic suicide."
+   },
+   {
+    "prompt": "Why does the lecturer mention religious stigma in Catholic areas?",
+    "options": [
+     "To suggest that some of Durkheim's data may be unreliable",
+     "To explain why Catholics were more integrated than Protestants",
+     "To give an example of what Durkheim called fatalistic suicide",
+     "To show why suicide rates rose during economic booms"
+    ],
+    "answer": 0,
+    "explanation": "He says stigma may have led to fewer reported cases, so some patterns may reflect recording rather than reality."
+   }
+  ]
+ },
+ {
+  "id": "at6-23",
+  "difficulty": "advanced",
+  "course": "economics",
+  "intro": "Listen to a talk in an economics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "In 1857, a German statistician named Ernst Engel studied the household budgets of about two hundred working-class families in Belgium. He noticed a regularity that's now called Engel's law: as a family's income rises, the share of income spent on food falls. Not the amount, the share. Richer families do spend more on food in total, but it takes a smaller fraction of their budget. The poorest families in his data spent around sixty to seventy percent of their income on food. It's one of the most reliable patterns in economics, holding across countries and time. In fact, it became a standard way to compare living standards. If you want to know how well-off a population is, look at its food share. Here's a famous application. In the early 1960s, an American economist named Mollie Orshansky needed a way to define poverty. She knew from a 1955 survey that a typical family spent about one third of its income on food. So she took the cost of a minimal food budget and multiplied it by three. That became the basis of the official US poverty line. But notice what Engel's law implies. As the country grew richer, the food share kept falling, well below one third. Yet the poverty line was mainly updated for inflation, not rebuilt from new spending patterns. So many economists argue that the multiplier of three is outdated, since housing, health care, and childcare now take a much bigger share of family budgets.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "A pattern in food spending and how it was used to measure poverty",
+     "Why Belgian families spent most of their income on meat",
+     "How the US poverty line is updated for inflation every year",
+     "Why richer families spend less money on food in total"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains Engel's law and its use, and later problems, in setting the US poverty line."
+   },
+   {
+    "prompt": "According to Engel's law, what happens as a family's income rises?",
+    "options": [
+     "Food takes up a smaller share of its spending.",
+     "Its total spending on food goes down.",
+     "Food takes up a larger share of its spending.",
+     "Its spending on food stays exactly the same."
+    ],
+    "answer": 0,
+    "explanation": "The professor stresses that the share spent on food falls, even though the total amount rises."
+   },
+   {
+    "prompt": "Why was Orshansky's poverty line based on multiplying food costs by three?",
+    "options": [
+     "Engel's data showed that poor families spent one third on food.",
+     "Housing and health care took up two thirds of family budgets.",
+     "Inflation had tripled the cost of a minimal diet since 1955.",
+     "A survey showed families spent about one third of their income on food."
+    ],
+    "answer": 3,
+    "explanation": "She used a 1955 survey showing a typical family spent about one third of its income on food."
+   },
+   {
+    "prompt": "What is the professor's view of the multiplier of three today?",
+    "options": [
+     "Engel's law suggests it no longer reflects real family budgets.",
+     "It remains accurate because food prices follow inflation.",
+     "It should be raised to match Engel's Belgian data from 1857.",
+     "It was never based on any real survey of family spending."
+    ],
+    "answer": 0,
+    "explanation": "Because the food share kept falling as incomes rose, she says many economists consider the multiplier outdated."
+   }
+  ]
+ },
+ {
+  "id": "at6-24",
+  "difficulty": "advanced",
+  "course": "economics",
+  "intro": "Listen to a talk in an economics class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "In 1958, a New Zealand-born economist working in London, A. W. Phillips, published a study of British data covering nearly a century, from 1861 to 1957. He found a strikingly consistent relationship: when unemployment was low, wages rose quickly, and when unemployment was high, wages rose slowly or even fell. In 1960, the American economists Paul Samuelson and Robert Solow restated the idea in terms of prices. Plotting US data, they suggested a tradeoff between inflation and unemployment. Policymakers loved this, because it looked like a menu. Want lower unemployment? Accept a bit more inflation. Then, in 1968, Milton Friedman argued that the menu was an illusion, at least in the long run. His reasoning went in stages. Suppose the government stimulates the economy and inflation rises. At first, workers don't expect the higher inflation, so they accept wage offers that look generous, and unemployment falls. But in the second stage, workers notice that prices have risen, and they start demanding higher wages to keep up. Firms hire less, and unemployment drifts back to what Friedman called its natural rate. Now the economy has the same unemployment as before, but higher inflation. The 1970s seemed to confirm this. Many Western economies suffered high inflation and high unemployment at the same time, so-called stagflation, which the simple curve said shouldn't happen. Today, economists still use a Phillips curve, but one in which expectations play a central role. The tradeoff exists, but only temporarily.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "How Phillips collected wage data in New Zealand",
+     "Why governments in the 1970s stopped measuring inflation",
+     "How economists' view of the inflation-unemployment tradeoff changed",
+     "Why workers prefer higher wages to lower unemployment"
+    ],
+    "answer": 2,
+    "explanation": "The lecturer traces the Phillips curve from Phillips's data through Friedman's critique and stagflation."
+   },
+   {
+    "prompt": "What did Phillips find in the British data?",
+    "options": [
+     "Wages rose quickly when unemployment was high.",
+     "Prices rose whenever wages began to fall.",
+     "Wages rose quickly when unemployment was low.",
+     "Unemployment stayed the same for nearly a century."
+    ],
+    "answer": 2,
+    "explanation": "The lecturer says that when unemployment was low, wages rose quickly."
+   },
+   {
+    "prompt": "According to Friedman's argument, what happens after workers notice that prices have risen?",
+    "options": [
+     "They demand higher wages, and unemployment returns to its natural rate.",
+     "They accept lower wages, and unemployment falls even further.",
+     "They stop expecting inflation, and prices begin to fall.",
+     "They accept wage offers that look generous, and hiring increases."
+    ],
+    "answer": 0,
+    "explanation": "In the second stage, workers demand higher wages, firms hire less, and unemployment drifts back to its natural rate."
+   },
+   {
+    "prompt": "Why does the lecturer mention stagflation in the 1970s?",
+    "options": [
+     "To show that Phillips's data had been calculated wrongly",
+     "To explain why policymakers saw the curve as a menu",
+     "To show evidence that supported Friedman's view",
+     "To show that inflation and unemployment always move together"
+    ],
+    "answer": 2,
+    "explanation": "High inflation with high unemployment contradicted the simple curve and seemed to confirm Friedman's argument."
+   }
+  ]
+ },
+ {
+  "id": "at6-25",
+  "difficulty": "advanced",
+  "course": "business",
+  "intro": "Listen to a talk in a business class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "In January 1914, the Ford Motor Company announced something that stunned American industry: it would pay workers five dollars a day. At the time, Ford's typical wage was about two dollars and thirty-four cents for a nine-hour day, so this roughly doubled pay, and it cut the workday to eight hours. Why? Let's go back one year. In 1913, Ford introduced the moving assembly line at its Highland Park plant. Productivity soared. But the work was monotonous and exhausting, and workers quit in huge numbers. Turnover that year reached about three hundred seventy percent. In other words, to keep a workforce of around fourteen thousand people, the company had to hire more than fifty thousand over the year. Every new worker had to be trained, and every departure slowed the line. So the five-dollar day was a business decision. And it worked. After it was introduced, turnover dropped dramatically and absenteeism fell. Henry Ford later called it one of the finest cost-cutting moves the company ever made. Economists call this an efficiency wage: paying above the market rate because it raises productivity. Now, there's a popular story that Ford raised wages so workers could afford to buy Ford cars. That might have been a small bonus, but most historians doubt it was the main reason. Ford's own workers were a tiny fraction of its customers. And there was a catch. To qualify, workers had to meet standards of personal behavior, checked by company investigators who visited their homes.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why Ford introduced the five-dollar day and what it achieved",
+     "How Ford's assembly line made factory work less tiring",
+     "Why Ford wanted all of its workers to buy Ford cars",
+     "How economists first learned to measure worker turnover"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains the turnover problem behind the five-dollar day and its results."
+   },
+   {
+    "prompt": "What problem did Ford face in 1913?",
+    "options": [
+     "The assembly line lowered productivity.",
+     "Too few people applied for jobs at the plant.",
+     "Large numbers of workers quit their jobs.",
+     "Workers refused to work nine-hour days."
+    ],
+    "answer": 2,
+    "explanation": "The professor says workers quit in huge numbers, with turnover of about three hundred seventy percent."
+   },
+   {
+    "prompt": "How did the situation at Ford change after the five-dollar day?",
+    "options": [
+     "Turnover rose, but absenteeism decreased.",
+     "Turnover and absenteeism both decreased.",
+     "The company had to hire over fifty thousand people.",
+     "The workday was extended to nine hours."
+    ],
+    "answer": 1,
+    "explanation": "She says turnover dropped dramatically and absenteeism fell; hiring fifty thousand describes the year before."
+   },
+   {
+    "prompt": "What is the professor's attitude toward the idea that Ford raised wages so workers could buy cars?",
+    "options": [
+     "She considers it the best explanation.",
+     "She doubts that it was the main motive.",
+     "She thinks economists invented the story.",
+     "She believes workers were Ford's main customers."
+    ],
+    "answer": 1,
+    "explanation": "She says it may have been a small bonus but most historians doubt it was the main reason."
+   }
+  ]
+ },
+ {
+  "id": "at6-26",
+  "difficulty": "advanced",
+  "course": "business",
+  "intro": "Listen to a talk on a podcast about business.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Today: how Toyota changed the way factories think about inventory. After World War Two, American companies like Ford relied on mass production: make huge numbers of identical parts, store them in warehouses, and push them down the line, just in case they're needed. That requires lots of space and lots of capital, and Toyota had neither. An engineer named Taiichi Ohno, working from the late 1940s on, came up with an alternative. His inspiration, reportedly, was the American supermarket. In a supermarket, shelves aren't filled based on a forecast. A customer takes a can of soup, and only then does the store restock that can. So Ohno reversed the flow. Instead of pushing parts forward, each step pulls parts from the step before, only when needed. The signal was a simple card called a kanban. When a box of parts was used up, its card went back to the previous process, ordering exactly that many more. This became known as just-in-time production. A second idea was even older. In the 1920s, Sakichi Toyoda, the father of Toyota's founder, had invented a loom that stopped automatically when a thread broke. Ohno extended this: any worker could stop the entire line on spotting a defect. That sounds wasteful, but it meant problems were fixed immediately, not built into hundreds of cars. Now, just-in-time has a weakness. With almost no inventory, a single disruption can halt production. After the 2011 earthquake in Japan, Toyota itself began keeping larger stockpiles of critical parts.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "How Toyota developed a production system with little inventory",
+     "Why American supermarkets kept large stockpiles of goods",
+     "How Ford adopted kanban cards in its own factories",
+     "Why the 2011 earthquake ended just-in-time production"
+    ],
+    "answer": 0,
+    "explanation": "The host explains Ohno's just-in-time system, its origins, and its weakness."
+   },
+   {
+    "prompt": "According to the host, why could Toyota not simply copy American mass production?",
+    "options": [
+     "Its workers refused to make large numbers of identical parts.",
+     "Japanese supermarkets could not sell enough of its cars.",
+     "It lacked the space and capital to store large inventories.",
+     "Its factories had already adopted the kanban system."
+    ],
+    "answer": 2,
+    "explanation": "He says mass production requires lots of space and capital, and Toyota had neither."
+   },
+   {
+    "prompt": "How did Ohno's system differ from the mass-production approach?",
+    "options": [
+     "Parts were made only when the next step signaled a need.",
+     "Parts were made in large batches based on forecasts.",
+     "Parts were stored in warehouses just in case they were needed.",
+     "Parts were pushed forward to the next step continuously."
+    ],
+    "answer": 0,
+    "explanation": "Mass production pushed stored parts forward, while Ohno's steps pulled parts only when a kanban signaled a need."
+   },
+   {
+    "prompt": "Why does the host mention the 2011 earthquake?",
+    "options": [
+     "To illustrate a weakness of keeping very little inventory",
+     "To explain why Ohno created the kanban card",
+     "To show that Toyota stopped letting workers halt the line",
+     "To explain where Sakichi Toyoda built his loom"
+    ],
+    "answer": 0,
+    "explanation": "After the earthquake, Toyota kept larger stockpiles, showing how a disruption can halt a system with little inventory."
+   }
+  ]
+ },
+ {
+  "id": "at6-27",
+  "difficulty": "advanced",
+  "course": "education",
+  "intro": "Listen to a talk in an education class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "female"
+  },
+  "talk": "Today: Maria Montessori, whose methods are still used worldwide. She didn't start as a teacher. In 1896, she became one of the first women in Italy to earn a medical degree, and her early work was with children who had intellectual disabilities. With carefully designed materials, these children learned far more than expected, which made her wonder about other children. Her chance came on January sixth, 1907, when she opened the Casa dei Bambini, the Children's House, in a poor district of Rome called San Lorenzo. The children came from working families in a new housing project. So what made her classroom different? Picture a typical school of the time: rows of fixed desks, a teacher at the front, every child doing the same task at the same moment. Montessori's room had child-sized tables and chairs that children could move. Children of different ages worked together, and they chose their own activities from shelves of materials. Many materials were self-correcting. For example, a wooden block with holes for cylinders of different sizes: if a child puts a cylinder in the wrong hole, one will be left over, so the child discovers the error without an adult. The teacher's job was mainly to observe and guide. Her ideas spread quickly to the United States around 1912, then collapsed. In 1914, the American educator William Kilpatrick published a critique calling her methods outdated and too narrow, and interest faded for decades. Not until the late 1950s did American Montessori schools return.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "How Montessori trained medical doctors in Rome",
+     "Why American schools still used fixed desks in 1914",
+     "The origins of the Montessori method and how it was received",
+     "How Kilpatrick designed self-correcting materials"
+    ],
+    "answer": 2,
+    "explanation": "The lecturer explains how Montessori developed her method, what made it distinctive, and its rise and fall in America."
+   },
+   {
+    "prompt": "What experience led Montessori to develop her approach?",
+    "options": [
+     "Her years as a teacher in a traditional Roman school",
+     "Her visits to American schools around 1912",
+     "Her study of a housing project's architecture",
+     "Her work with children who had intellectual disabilities"
+    ],
+    "answer": 3,
+    "explanation": "The lecturer says her early work with children with intellectual disabilities made her wonder about other children."
+   },
+   {
+    "prompt": "How did Montessori's classroom differ from a typical classroom of the time?",
+    "options": [
+     "Children chose activities and could move the furniture.",
+     "Children of the same age sat in rows of fixed desks.",
+     "The teacher stood at the front and directed every task.",
+     "Every child completed the same task at the same time."
+    ],
+    "answer": 0,
+    "explanation": "She contrasts fixed desks and identical tasks with movable furniture and children choosing their own activities."
+   },
+   {
+    "prompt": "Why does the lecturer mention the wooden block with cylinders?",
+    "options": [
+     "To show why Kilpatrick considered the method too narrow",
+     "To describe the furniture used in the Children's House",
+     "To illustrate how materials let children find their own mistakes",
+     "To explain how teachers tested each child's progress"
+    ],
+    "answer": 2,
+    "explanation": "A cylinder left over shows the child an error without an adult, an example of self-correcting material."
+   }
+  ]
+ },
+ {
+  "id": "at6-28",
+  "difficulty": "advanced",
+  "course": "education",
+  "intro": "Listen to a talk in an education class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "If you've taken a teacher-training course, you've probably seen a colorful pyramid labeled Bloom's taxonomy. But its real story is different from the pyramid. In 1956, a team led by the educational psychologist Benjamin Bloom published a framework that classified learning goals into six levels. From bottom to top: knowledge, comprehension, application, analysis, synthesis, and evaluation. The idea was that each level builds on the ones below it. You can't analyze something you don't comprehend. Now, here's the part people forget. The original purpose wasn't to guide teaching at all. It was to help university examiners. Examiners at different universities wanted to share test questions, and needed a common vocabulary for what each question measured. And the original handbook had no pyramid; that came later. Then, in 2001, a group including several of Bloom's former students and colleagues published a revision. They made two important changes. First, they turned the nouns into verbs: remember, understand, apply, analyze, evaluate, create. That emphasized what learners actually do. Second, they swapped the top two levels. Synthesis, now renamed create, moved to the very top, above evaluate. Their reasoning was that producing something new is generally more demanding than judging something that already exists. Some educators have questioned the hierarchy itself, though. The pyramid makes remembering look like the least important level. But you can't evaluate an argument about history without knowing a good deal of history. So critics argue that the lower levels aren't less valuable, just more basic.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why university examiners stopped sharing test questions",
+     "How Bloom designed the pyramid used in teacher training",
+     "The origins and revision of a framework for learning goals",
+     "Why remembering is the most valuable level of learning"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains the 1956 taxonomy's purpose, its 2001 revision, and criticism of its hierarchy."
+   },
+   {
+    "prompt": "What was the original purpose of the 1956 framework?",
+    "options": [
+     "To help examiners describe what test questions measured",
+     "To guide classroom teachers in planning their lessons",
+     "To show that remembering is the least important skill",
+     "To rank universities by the difficulty of their exams"
+    ],
+    "answer": 0,
+    "explanation": "The professor says it was meant to give university examiners a common vocabulary for sharing test questions."
+   },
+   {
+    "prompt": "What change did the 2001 revision make at the top of the framework?",
+    "options": [
+     "It placed evaluate above create.",
+     "It combined analyze and evaluate.",
+     "It removed the two highest levels.",
+     "It placed create above evaluate."
+    ],
+    "answer": 3,
+    "explanation": "The revision swapped the top two levels, putting create, formerly synthesis, above evaluate."
+   },
+   {
+    "prompt": "What do critics of the hierarchy imply about remembering?",
+    "options": [
+     "It should be moved above evaluating and creating.",
+     "It was wrongly left out of the original framework.",
+     "It matters only for examiners, not for teachers.",
+     "It is basic but no less important than the higher levels."
+    ],
+    "answer": 3,
+    "explanation": "Critics argue the lower levels are not less valuable, just more basic, since evaluation requires knowledge."
+   }
+  ]
+ },
+ {
+  "id": "at6-29",
+  "difficulty": "advanced",
+  "course": "media studies",
+  "intro": "Listen to a talk in a media studies class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "On the evening of October 30, 1938, the night before Halloween, CBS radio broadcast an adaptation of H. G. Wells's novel The War of the Worlds, produced by Orson Welles and his Mercury Theatre company. The clever twist was the format. Instead of simply narrating the story, the first part was presented as a series of news bulletins interrupting a music program: reports of explosions on Mars, then a strange object landing at a farm in Grovers Mill, New Jersey, then creatures emerging and attacking. The next morning, newspapers across the country carried headlines about mass panic: people fleeing their homes, jamming phone lines, crowding the roads. And in 1940, a Princeton researcher named Hadley Cantril published a study estimating that about six million people had heard the broadcast and more than a million had been frightened. For decades, it served as the classic example of media power. More recent historians have looked again, and the picture has changed. First, the audience was small. A ratings survey that night found only about two percent of respondents listening to the program; most people were tuned to a popular comedy show on another network. Second, the newspaper reports were mostly based on anecdotes, and many were quickly exaggerated. Why? Radio was their fast-growing competitor for advertising money, and a story about radio's irresponsibility served their interests. So, some people were frightened, certainly. But the mass panic was, to a large extent, a media creation itself, just not by radio.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why Orson Welles chose to adapt a novel by H. G. Wells",
+     "How Hadley Cantril designed the first radio ratings survey",
+     "Why the program was broadcast on the night before Halloween",
+     "How a famous radio broadcast and its effects have been reinterpreted"
+    ],
+    "answer": 3,
+    "explanation": "The professor describes the 1938 broadcast, the panic story, and how historians have revised it."
+   },
+   {
+    "prompt": "What made the format of the broadcast unusual?",
+    "options": [
+     "It was presented as news bulletins interrupting music.",
+     "It was narrated entirely by the author H. G. Wells.",
+     "It was broadcast live from a farm in New Jersey.",
+     "It interrupted a popular comedy show on another network."
+    ],
+    "answer": 0,
+    "explanation": "The professor says the first part was presented as news bulletins interrupting a music program."
+   },
+   {
+    "prompt": "How does the recent view of the event differ from Cantril's 1940 study?",
+    "options": [
+     "It suggests the panic involved more than six million people.",
+     "It suggests newspapers underreported the extent of the panic.",
+     "It suggests the broadcast was heard mostly on another network.",
+     "It suggests both the audience and the panic were much smaller."
+    ],
+    "answer": 3,
+    "explanation": "Cantril estimated six million listeners and over a million frightened, while recent historians cite a tiny audience and exaggerated reports."
+   },
+   {
+    "prompt": "Why does the professor mention competition for advertising money?",
+    "options": [
+     "To explain why CBS chose to broadcast the program",
+     "To suggest a reason newspapers exaggerated the panic",
+     "To show why radio audiences were so small that night",
+     "To explain why Cantril's study appeared in 1940"
+    ],
+    "answer": 1,
+    "explanation": "She says radio was newspapers' competitor for advertising, so a story about its irresponsibility served their interests."
+   }
+  ]
+ },
+ {
+  "id": "at6-30",
+  "difficulty": "advanced",
+  "course": "media studies",
+  "intro": "Listen to a talk in a media studies class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "In New York in the early 1830s, a daily newspaper usually meant a mercantile paper, full of shipping news, commodity prices, and political speeches. It cost six cents a copy, but usually you couldn't buy single copies; you paid an annual subscription of around ten dollars, more than many workers earned in a week. These papers were aimed at merchants and politicians, and many survived on support from political parties. Then, on September 3, 1833, a young printer named Benjamin Day launched the New York Sun, priced at one penny. Day changed three things at once. First, distribution: instead of subscriptions, boys sold the paper on street corners, one copy at a time. Second, content: instead of shipping lists, the Sun ran crime reports, stories from the police court, and human-interest tales about ordinary people. And third, the business model. At one cent, the paper couldn't make money from sales alone. Profit came from advertisers paying to reach a huge audience. Within a few years, the Sun had one of the largest circulations in the world. In 1835, it even ran articles claiming a famous astronomer had found creatures on the Moon, and sales jumped. So how should we judge the penny press? Historians used to see it mainly as the birth of sensationalism, and the Moon story supports that. But many now emphasize something else: by depending on advertisers and readers rather than parties, newspapers became more independent of politics, and news became something meant for everyone.",
+  "questions": [
+   {
+    "prompt": "What is the lecture mainly about?",
+    "options": [
+     "How a cheap newspaper changed the content and business of news",
+     "How political parties funded the first penny newspapers",
+     "Why the Sun stopped publishing stories about the Moon",
+     "How merchants used newspapers to set shipping prices"
+    ],
+    "answer": 0,
+    "explanation": "The lecturer explains how the penny Sun changed distribution, content, and funding, and how historians judge it."
+   },
+   {
+    "prompt": "According to the lecturer, how were mercantile papers usually sold?",
+    "options": [
+     "Mainly through yearly subscriptions",
+     "Mainly by boys on street corners",
+     "Mainly as single copies for a penny",
+     "Mainly through local advertisers"
+    ],
+    "answer": 0,
+    "explanation": "He says buyers usually could not get single copies and instead paid an annual subscription of about ten dollars."
+   },
+   {
+    "prompt": "Why did the Sun depend on advertisers?",
+    "options": [
+     "Political parties refused to support a paper sold on the street.",
+     "Its low price meant sales alone could not produce a profit.",
+     "Its readers were mainly merchants who also bought advertising.",
+     "Its subscription price was too high for most working people."
+    ],
+    "answer": 1,
+    "explanation": "At one cent, the paper could not make money from sales, so profit came from advertisers."
+   },
+   {
+    "prompt": "What can be inferred about the lecturer's view of the penny press?",
+    "options": [
+     "It mattered mainly because of its reports on astronomy.",
+     "It made newspapers more dependent on political parties.",
+     "It failed because advertisers soon lost interest in it.",
+     "It encouraged sensationalism but also made news less partisan."
+    ],
+    "answer": 3,
+    "explanation": "He grants the sensationalism but stresses that relying on advertisers and readers made papers more independent of politics."
+   }
+  ]
+ }
+]

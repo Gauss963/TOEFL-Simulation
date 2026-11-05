@@ -1,0 +1,1712 @@
+[
+ {
+  "id": "at7-01",
+  "difficulty": "advanced",
+  "course": "biology",
+  "intro": "Listen to a talk in a biology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So, for the first half of the twentieth century, biologists believed that ordinary animal cells, given the right nutrients, could keep dividing in a dish forever. That belief came largely from a French surgeon, Alexis Carrel, who claimed he'd kept chicken heart cells growing for more than thirty years. In nineteen sixty-one, a researcher named Leonard Hayflick showed it wasn't true. Human fetal cells in his cultures divided roughly forty to sixty times, and then they just stopped. They didn't die; they entered a permanent retirement we call senescence. That ceiling became known as the Hayflick limit. But what was counting the divisions? The answer lies at the tips of our chromosomes, in structures called telomeres. A telomere is a short DNA sequence repeated over a thousand times, a bit like the plastic cap on a shoelace. Now, here's the mechanism, in three steps. First, every time a cell copies its DNA, the copying machinery can't quite reach the very end of the strand. Second, so with each division, the telomere gets shorter. Third, once it falls below a critical length, the cell reads that as damage and stops dividing. So why don't the cells that make sperm and eggs run out? They use an enzyme called telomerase, which rebuilds the caps. And cancer cells? Roughly eighty-five to ninety percent of them switch telomerase back on, which is partly why they divide indefinitely. As for Carrel's chicken cells? Most likely, fresh cells were added each time the cultures were fed.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why normal human cells stop dividing after a limited number of divisions",
+     "How cancer cells repair the damaged ends of their DNA before each new division",
+     "Why chicken cells survive longer in culture than human cells",
+     "How telomerase was first discovered in reproductive cells"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains the Hayflick limit and how shrinking telomeres cause normal cells to stop dividing."
+   },
+   {
+    "prompt": "According to the professor, what did Hayflick observe in his cell cultures?",
+    "options": [
+     "Human cells died immediately after about forty divisions.",
+     "Human cells divided about forty to sixty times and then stopped.",
+     "Human cells divided far more often than Carrel's chicken cells did.",
+     "Human cells kept dividing as long as nutrients were added."
+    ],
+    "answer": 1,
+    "explanation": "The professor says Hayflick's human fetal cells divided roughly forty to sixty times and then entered senescence."
+   },
+   {
+    "prompt": "What do the cells that make sperm and eggs have in common with most cancer cells?",
+    "options": [
+     "Both stop dividing once their telomeres reach a critical length.",
+     "Both copy the very ends of their DNA without any loss.",
+     "Both use telomerase to rebuild the ends of their chromosomes.",
+     "Both were first grown in Carrel's long-term cultures."
+    ],
+    "answer": 2,
+    "explanation": "The professor says reproductive cells use telomerase to rebuild telomeres and that most cancer cells switch telomerase back on."
+   },
+   {
+    "prompt": "What does the professor imply about Carrel's chicken heart cells?",
+    "options": [
+     "They lacked telomeres and therefore never aged.",
+     "They proved that some animal cells really are immortal.",
+     "They used telomerase in the same way cancer cells do.",
+     "The original cells probably never divided indefinitely."
+    ],
+    "answer": 3,
+    "explanation": "The professor suggests fresh cells were added at each feeding, so the original cells were not truly immortal."
+   }
+  ]
+ },
+ {
+  "id": "at7-02",
+  "difficulty": "advanced",
+  "course": "biology",
+  "intro": "Listen to a talk in a biology class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "Okay, here's a strange fact about your cells. Inside almost every one are hundreds, sometimes thousands, of mitochondria, the structures that produce most of the cell's usable energy. And mitochondria have their own DNA. Just thirty-seven genes in humans, but it's separate from the DNA in the nucleus, and it's arranged in a circular loop, the way bacterial DNA is. Why would that be? The explanation is called endosymbiotic theory. The modern version was laid out by Lynn Margulis in nineteen sixty-seven, and the idea is that mitochondria were once free-living bacteria. There were three stages. First, probably more than a billion and a half years ago, a larger cell engulfed a smaller bacterium, but instead of digesting it, kept it alive inside. Second, the two became partners: the bacterium used oxygen to release energy, and the host provided shelter and raw materials. Third, over countless generations, most of the bacterium's genes moved into the host's nucleus, so it could no longer live independently. Now, chloroplasts in plants have the same story, except their ancestors were cyanobacteria, bacteria that could photosynthesize. And the evidence lines up for both: double membranes, circular DNA, and ribosomes that resemble bacterial ones rather than ours. Here's what's interesting, though. Margulis's paper was reportedly rejected by about fifteen journals, and many biologists dismissed it as fanciful. Today, it's in every introductory textbook. The debate now isn't whether it happened, but exactly when, and what kind of cell did the swallowing.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How mitochondria convert oxygen into energy for the nucleus",
+     "The theory that mitochondria and chloroplasts descend from bacteria",
+     "Why bacterial DNA is arranged in a circular loop",
+     "How early cyanobacteria first developed the ability to photosynthesize"
+    ],
+    "answer": 1,
+    "explanation": "The lecturer explains endosymbiotic theory, the idea that mitochondria and chloroplasts were once free-living bacteria."
+   },
+   {
+    "prompt": "What feature of mitochondrial DNA does the lecturer point out early in the talk?",
+    "options": [
+     "It contains more genes than the DNA in the nucleus.",
+     "It is stored inside the nucleus with the cell's other DNA.",
+     "It forms a circular loop, like the DNA of bacteria.",
+     "It is identical in the cells of plants and animals."
+    ],
+    "answer": 2,
+    "explanation": "The lecturer notes that mitochondrial DNA is separate from nuclear DNA and is arranged in a circular loop like bacterial DNA."
+   },
+   {
+    "prompt": "According to the lecturer, which stage came last in the development of mitochondria?",
+    "options": [
+     "A larger cell engulfed a bacterium without digesting it.",
+     "The bacterium supplied energy in exchange for shelter.",
+     "The host cell took in cyanobacteria that were able to photosynthesize.",
+     "Most of the bacterium's genes were transferred to the host's nucleus."
+    ],
+    "answer": 3,
+    "explanation": "The third stage the lecturer describes is the movement of most of the bacterium's genes into the host's nucleus."
+   },
+   {
+    "prompt": "Why does the lecturer mention that Margulis's paper was rejected by many journals?",
+    "options": [
+     "To contrast the theory's early reception with its current acceptance",
+     "To suggest that the evidence for the theory is still weak",
+     "To explain why chloroplasts were studied long before mitochondria were",
+     "To show that the timing of the theory is still being debated"
+    ],
+    "answer": 0,
+    "explanation": "The lecturer contrasts the early rejections with the fact that the theory is now in every introductory textbook."
+   }
+  ]
+ },
+ {
+  "id": "at7-03",
+  "difficulty": "advanced",
+  "course": "ecology",
+  "intro": "Listen to a talk in an ecology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Here's a pattern naturalists noticed long before anyone explained it. Big islands have more species than small ones, and islands close to a mainland have more species than remote ones. In the nineteen sixties, two ecologists, Robert MacArthur and E. O. Wilson, turned that observation into a theory. Their key idea was that an island's species count reflects a balance between two processes: immigration, new species arriving, and extinction, species already there dying out. Now, distance mainly affects immigration. A bird or seed is far likelier to reach an island ten kilometers offshore than one a thousand kilometers out. Size mainly affects extinction, because small islands support small populations, and small populations are easily wiped out by a storm or a disease. So species numbers settle at an equilibrium. Then Wilson and his student Daniel Simberloff tested this directly. They chose tiny mangrove islands off the Florida Keys, each only about eleven to twenty-five meters across, covered them with tents, and fumigated them to remove every insect and spider. Within about a year, the islands had been recolonized, and here's the striking part: each one returned to roughly its original number of species, with the closest island again ending up with the most. But, and this is important, they weren't the same species as before. The total stayed about the same while the membership changed. Today, the theory is applied to mountaintops, lakes, and especially forest patches cut off by farms and roads, which behave a lot like islands.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "An experiment showing that insects tend to avoid the smallest mangrove islands",
+     "Why species on remote islands are more likely to become extinct",
+     "A theory explaining how island size and distance affect species numbers",
+     "How forest patches differ from ocean islands in their species"
+    ],
+    "answer": 2,
+    "explanation": "The professor presents MacArthur and Wilson's theory of how immigration and extinction set the number of species on islands."
+   },
+   {
+    "prompt": "According to the professor, how does an island's size influence its number of species?",
+    "options": [
+     "Small islands are harder for birds and seeds to reach.",
+     "Large islands are usually located closer to the mainland.",
+     "Small islands are hit by storms less often than large ones.",
+     "Small islands have small populations that die out more easily."
+    ],
+    "answer": 3,
+    "explanation": "The professor says size mainly affects extinction because small islands support small, vulnerable populations."
+   },
+   {
+    "prompt": "What did the mangrove experiment reveal about the islands after recolonization?",
+    "options": [
+     "Their species totals returned, but the species themselves were different.",
+     "They regained exactly the same species they had before fumigation.",
+     "The most distant islands ended up with more species than the closer ones.",
+     "Their species totals stayed far below their original levels."
+    ],
+    "answer": 0,
+    "explanation": "The professor says each island returned to roughly its original number of species, but not the same species as before."
+   },
+   {
+    "prompt": "What can be inferred about a patch of forest surrounded by farmland?",
+    "options": [
+     "It will gradually be recolonized by exactly the same species it lost.",
+     "Its number of species is likely to depend on its size and isolation.",
+     "It will lose all of its species within roughly one year.",
+     "It is less affected by extinction than an ocean island is."
+    ],
+    "answer": 1,
+    "explanation": "The professor says forest patches behave like islands, so the theory's factors of size and distance should apply to them."
+   }
+  ]
+ },
+ {
+  "id": "at7-04",
+  "difficulty": "advanced",
+  "course": "ecology",
+  "intro": "Listen to a talk in an ecology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "What happens to land after a disaster wipes it clean? Ecologists call the process succession, the gradual change in which species occupy a place over time. There are two kinds. Primary succession starts from bare rock or fresh lava, where there's no soil at all. The first arrivals, the pioneer species, are often lichens, which can cling to rock and slowly break it down. Then mosses take hold, then grasses, then shrubs, and eventually trees. That can take centuries, because the soil has to be built almost from nothing. Secondary succession is faster. It follows a fire, a flood, or an abandoned farm, where the soil survives, along with seeds and roots buried in it. An old field in New England, for instance, can go from weeds to a young pine forest in about thirty years. Now, for much of the twentieth century, ecologists, following Frederic Clements, described this as an orderly march toward a single stable endpoint, the climax community, like an organism growing up. But the eruption of Mount Saint Helens in nineteen eighty challenged that picture. Recovery didn't follow one script. In places, gophers that had survived underground churned up buried soil, and plants sprang up almost immediately. Elsewhere, a single lupine seed blown in started a patch that enriched the soil for others. So today ecologists see succession as far more variable, shaped by chance, by which survivors remained, and by repeated disturbance. It's less a staircase than a branching set of possible paths.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why lichens are the first species to grow on fresh lava",
+     "How the eruption of Mount Saint Helens destroyed a stable, mature climax forest",
+     "Why abandoned farms recover more slowly than lava fields",
+     "How plant communities recover after disturbance and how that view changed"
+    ],
+    "answer": 3,
+    "explanation": "The professor describes primary and secondary succession and explains how ecologists' view of the process has changed."
+   },
+   {
+    "prompt": "According to the professor, what role do lichens play in primary succession?",
+    "options": [
+     "They begin breaking down bare rock before other plants arrive.",
+     "They replace the mosses and grasses that grow on the rock first.",
+     "They survive underground and sprout again after a fire.",
+     "They form the stable final stage of the plant community."
+    ],
+    "answer": 0,
+    "explanation": "The professor says lichens are pioneer species that cling to rock and slowly break it down."
+   },
+   {
+    "prompt": "Why is secondary succession faster than primary succession?",
+    "options": [
+     "Pioneer lichens build new soil much more quickly after a fire.",
+     "Soil, seeds, and roots remain in place after the disturbance.",
+     "Disturbances such as floods leave behind fresh lava rock.",
+     "Trees arrive first and shade out the weeds and grasses."
+    ],
+    "answer": 1,
+    "explanation": "The professor contrasts primary succession, which must build soil from nothing, with secondary succession, where soil, seeds, and roots survive."
+   },
+   {
+    "prompt": "Why does the professor mention gophers and a lupine seed?",
+    "options": [
+     "To show that animals always recover before plants after an eruption",
+     "To illustrate the orderly stages of Clements's climax model",
+     "To show that recovery depended on chance survivors and arrivals",
+     "To explain why primary succession takes many centuries"
+    ],
+    "answer": 2,
+    "explanation": "These cases show that recovery at Mount Saint Helens followed different paths depending on what happened to survive or arrive."
+   }
+  ]
+ },
+ {
+  "id": "at7-05",
+  "difficulty": "advanced",
+  "course": "zoology",
+  "intro": "Listen to a talk in a zoology class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "female"
+  },
+  "talk": "What do we mean when we say an animal hibernates? It's more than a long sleep. Hibernation is a state in which an animal deliberately lowers its metabolism, its body temperature, and its heart rate to survive a season when food is scarce. Let's compare two examples. The first is the arctic ground squirrel of Alaska. Its normal body temperature is around thirty-seven degrees Celsius, like ours. In hibernation, it falls below zero, to about minus three degrees, the lowest ever recorded in a mammal, and yet its blood doesn't freeze. Its heart slows from about two hundred beats a minute to a few. Now, here's the odd part. Every two or three weeks, the squirrel rewarms itself to normal temperature for about a day, then cools down again. These arousals burn most of its winter energy, and nobody's sure why they're needed, though one idea is that the brain and immune system need maintenance. The second example is the black bear. A bear's temperature drops only a few degrees, to around thirty-two or thirty-three. So for decades, many biologists said bears weren't true hibernators; they just entered a deep winter sleep. But when researchers measured bear metabolism directly, they found it falls to about a quarter of the normal rate, a drop far bigger than the small temperature change would predict. Bears also go months without eating or drinking, recycling their waste into protein. So the old distinction is mostly gone. Bears are hibernators, just at a warmer temperature.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Two patterns of hibernation and how scientists classify them",
+     "Why arctic ground squirrels hibernate longer than black bears",
+     "How bears recycle waste to survive months without food",
+     "Why some animals sleep through winter instead of hibernating"
+    ],
+    "answer": 0,
+    "explanation": "The lecturer compares hibernation in the arctic ground squirrel and the black bear and explains why bears are now considered hibernators."
+   },
+   {
+    "prompt": "What is notable about the arctic ground squirrel's body temperature during hibernation?",
+    "options": [
+     "It stays near thirty-seven degrees in spite of the arctic cold.",
+     "It drops below zero, yet the animal's blood does not freeze.",
+     "It falls only a few degrees below its normal level.",
+     "It drops below zero, which causes its blood to freeze."
+    ],
+    "answer": 1,
+    "explanation": "The lecturer says the squirrel's temperature falls to about minus three degrees without its blood freezing."
+   },
+   {
+    "prompt": "How do the ground squirrel and the black bear differ, according to the lecturer?",
+    "options": [
+     "The bear's metabolism drops much further than the squirrel's does.",
+     "The squirrel goes all winter without rewarming, unlike the bear.",
+     "The squirrel's temperature falls much further than the bear's does.",
+     "The bear rewarms itself every few weeks, unlike the squirrel."
+    ],
+    "answer": 2,
+    "explanation": "The squirrel cools to about minus three degrees, while the bear drops only to around thirty-two or thirty-three."
+   },
+   {
+    "prompt": "Why does the lecturer mention that bear metabolism falls to about a quarter of normal?",
+    "options": [
+     "To show that bears save more energy than ground squirrels",
+     "To explain why bears must wake up every few weeks",
+     "To support the view that bears simply sleep deeply",
+     "To explain why bears are now considered true hibernators"
+    ],
+    "answer": 3,
+    "explanation": "The large metabolic drop is the evidence that led biologists to abandon the claim that bears only sleep deeply."
+   }
+  ]
+ },
+ {
+  "id": "at7-06",
+  "difficulty": "advanced",
+  "course": "zoology",
+  "intro": "Listen to a talk on a podcast about animal behavior.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Welcome back. Today's puzzle is one of nature's great navigation feats. A Pacific salmon hatches in a small stream, swims down to the ocean, and spends two to five years there, traveling thousands of kilometers. Then it returns, often to the exact stream where it hatched. How? In the nineteen forties, a biologist named Arthur Hasler had an idea while hiking. He came around a bend and recognized the smell of a waterfall from his childhood. Maybe salmon, he thought, do the same thing. Each stream has its own chemical signature. So his hypothesis worked in two steps. First, young salmon memorize the smell of their home stream before they leave, a process called imprinting. Second, as adults, they follow that smell upstream, choosing the right branch at each fork. And experiments supported it. When Hasler's team plugged the noses of returning salmon, the fish chose branches almost at random. Later, they raised young fish in water containing an artificial chemical, morpholine, and released them. Years later, those fish were drawn to streams that had been scented with morpholine. But smell has a limit. In the open ocean, far from the coast, there's no river odor to follow. So how do they find the right coastline? The current answer is magnetism. Studies of sockeye salmon suggest they also imprint on the magnetic field near the river mouth. So the picture now is a two-stage journey: a magnetic map for the ocean, and smell for the final stretch.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "How young salmon learn to survive in the open ocean",
+     "How salmon find their way back to the streams where they hatched",
+     "Why salmon migrate farther than most other kinds of fish",
+     "How natural chemicals in streams affect the growth of young salmon"
+    ],
+    "answer": 1,
+    "explanation": "The host explains the evidence that salmon use smell and magnetism to return to their home streams."
+   },
+   {
+    "prompt": "What gave Hasler the idea for his hypothesis?",
+    "options": [
+     "He noticed salmon choosing branches of a stream at random.",
+     "He saw salmon leaping up a waterfall near his childhood home.",
+     "He recognized a familiar smell from his childhood while hiking.",
+     "He measured chemicals in the soil around several streams."
+    ],
+    "answer": 2,
+    "explanation": "The host says Hasler recognized the smell of a waterfall from his childhood and wondered if salmon did the same."
+   },
+   {
+    "prompt": "According to the host, how do salmon use smell and magnetism on their return journey?",
+    "options": [
+     "They use smell in the ocean and magnetism near their home stream.",
+     "They use smell to imprint and magnetism to choose at each fork.",
+     "They use magnetism only when their sense of smell is blocked.",
+     "They use magnetism in the ocean and smell near their home stream."
+    ],
+    "answer": 3,
+    "explanation": "The host describes a magnetic map for the open ocean and smell for the final stretch upstream."
+   },
+   {
+    "prompt": "Why does the host mention morpholine?",
+    "options": [
+     "To describe an experiment showing that salmon imprint on a stream's odor",
+     "To explain why salmon avoid streams that are polluted by artificial chemicals",
+     "To show that plugging the noses of salmon changed their behavior",
+     "To identify the chemical that gives each stream its signature"
+    ],
+    "answer": 0,
+    "explanation": "Fish raised in morpholine later chose streams scented with it, supporting the idea that salmon imprint on odors."
+   }
+  ]
+ },
+ {
+  "id": "at7-07",
+  "difficulty": "advanced",
+  "course": "botany",
+  "intro": "Listen to a talk in a botany class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Okay, photosynthesis has a built-in flaw. The enzyme that captures carbon dioxide, called rubisco, is probably the most abundant protein on Earth, but it's surprisingly sloppy. It sometimes grabs oxygen instead of carbon dioxide, and that mistake, called photorespiration, wastes energy. It gets worse when it's hot and dry, because in heat, plants close their stomata, the tiny pores on their leaves, to save water. That means less carbon dioxide gets in, so rubisco grabs oxygen more often. Some plants have evolved two main workarounds. The first is C4 photosynthesis, used by corn and sugarcane. These plants separate the work in space. Cells near the leaf surface capture carbon dioxide using a different enzyme, one that ignores oxygen, and pack it into a four-carbon molecule. That's where the name comes from. Then it's shuttled to cells deeper inside the leaf, where the carbon dioxide is released at high concentration, right next to rubisco. The second is CAM, used by cacti and pineapples. These plants separate the work in time. They open their stomata only at night, when it's cool, store the carbon dioxide as an acid, and then close up during the day and use that stored carbon for photosynthesis. You might expect such systems to be common. They're not. Only about three percent of plant species use C4. And yet, those few species account for nearly a quarter of all the photosynthesis on land. Even more surprising, C4 didn't evolve once. It appeared independently more than sixty times.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why rubisco is the most abundant protein on Earth",
+     "How cacti and pineapples store water in their stems during the day",
+     "Two ways that plants reduce a weakness of the enzyme rubisco",
+     "Why corn grows faster than most other food crops"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains how C4 and CAM photosynthesis help plants avoid rubisco's tendency to grab oxygen."
+   },
+   {
+    "prompt": "According to the professor, why does photorespiration increase in hot, dry conditions?",
+    "options": [
+     "Rubisco breaks down more quickly at high temperatures.",
+     "Plants open their stomata, so more oxygen enters.",
+     "Heat causes plants to produce more four-carbon molecules.",
+     "Plants close their stomata, so less carbon dioxide enters."
+    ],
+    "answer": 3,
+    "explanation": "The professor says plants close their stomata to save water, so less carbon dioxide gets in and rubisco grabs oxygen more often."
+   },
+   {
+    "prompt": "What is the main difference between C4 plants and CAM plants?",
+    "options": [
+     "C4 plants separate the steps in space, and CAM plants in time.",
+     "C4 plants separate the steps in time, and CAM plants in space.",
+     "C4 plants open their stomata at night, and CAM plants by day.",
+     "C4 plants rely on rubisco, while CAM plants avoid it entirely."
+    ],
+    "answer": 0,
+    "explanation": "The professor says C4 plants divide the work between different cells, while CAM plants divide it between night and day."
+   },
+   {
+    "prompt": "Why does the professor point out that C4 photosynthesis evolved more than sixty times?",
+    "options": [
+     "To explain why only three percent of plant species use the pathway",
+     "To emphasize how strongly the pathway has been favored by evolution",
+     "To suggest that CAM plants originally evolved from C4 plants",
+     "To show that corn and sugarcane are not closely related plants"
+    ],
+    "answer": 1,
+    "explanation": "The professor presents the repeated independent evolution of C4 as a surprising sign of how advantageous the pathway is."
+   }
+  ]
+ },
+ {
+  "id": "at7-08",
+  "difficulty": "advanced",
+  "course": "botany",
+  "intro": "Listen to a talk in a botany class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "Charles Darwin called the Venus flytrap one of the most wonderful plants in the world. It grows wild only in a small area of the Carolinas, in boggy soil that's very poor in nitrogen. So it gets nitrogen another way: by catching insects. Compare it with a more common strategy, the pitcher plant. A pitcher plant is passive. Its leaves form a deep, slippery tube, often with sweet nectar near the rim. Insects fall in, can't climb out, and drown. Nothing moves. The flytrap, on the other hand, actively snaps shut. Each lobe of the trap has three tiny trigger hairs. Here's the clever part: touching one hair once does nothing. The trap closes only if hairs are touched twice within about twenty seconds. In effect, the plant counts. So a raindrop, which touches just once, doesn't waste a closure. After two touches, the trap shuts in about a tenth of a second. And if the insect keeps struggling and triggers the hairs three more times, so five in total, the trap seals tightly and begins releasing digestive enzymes. If nothing struggles, it reopens in a day or so. How does a plant without muscles move that fast? Botanists long assumed it was mainly water rushing between cells. Water plays a role, but in two thousand five, physicists showed the key is the shape of the leaf. The lobes curve outward, under tension, and when triggered, they suddenly flip to curve inward, like a contact lens popping inside out.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why pitcher plants are more common than Venus flytraps",
+     "How carnivorous plants obtain water in boggy soil",
+     "Why Darwin studied carnivorous plants in the Carolinas",
+     "How the Venus flytrap detects and captures its prey"
+    ],
+    "answer": 3,
+    "explanation": "The lecturer explains how the flytrap counts touches, closes, digests prey, and moves so quickly."
+   },
+   {
+    "prompt": "According to the lecturer, how does a pitcher plant catch insects?",
+    "options": [
+     "Insects fall into a slippery tube and cannot climb out.",
+     "Its leaves snap shut when trigger hairs are touched.",
+     "It releases digestive enzymes as soon as insects land.",
+     "Sweet nectar at the bottom poisons insects that drink it."
+    ],
+    "answer": 0,
+    "explanation": "The lecturer describes the pitcher plant as passive: insects fall into a slippery tube and drown."
+   },
+   {
+    "prompt": "What happens if a trapped insect triggers the hairs several more times after the trap closes?",
+    "options": [
+     "The trap reopens to release the struggling insect within about a day.",
+     "The trap seals tightly and starts releasing digestive enzymes.",
+     "The trap closes for the first time in a tenth of a second.",
+     "The trap fills with fluid that slowly drowns the insect."
+    ],
+    "answer": 1,
+    "explanation": "The lecturer says three more touches, five in total, cause the trap to seal and begin releasing enzymes."
+   },
+   {
+    "prompt": "Why does the lecturer mention a contact lens?",
+    "options": [
+     "To show how water rushes between the cells of the trap",
+     "To compare the thinness of the trap's lobes with that of a clear lens",
+     "To illustrate how the curved lobes suddenly reverse their shape",
+     "To explain how the trap counts the number of touches"
+    ],
+    "answer": 2,
+    "explanation": "The contact lens popping inside out illustrates the lobes flipping from curving outward to curving inward."
+   }
+  ]
+ },
+ {
+  "id": "at7-09",
+  "difficulty": "advanced",
+  "course": "physiology",
+  "intro": "Listen to a talk in a physiology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "If you've eaten chicken, you've noticed the breast meat is white and the leg meat dark. That's a great introduction to muscle fiber types. Skeletal muscle contains two broad kinds of fibers. Type one, or slow-twitch fibers, contract relatively slowly, but they can keep going for hours. They're packed with mitochondria and with a red, oxygen-storing protein called myoglobin, which is what makes them dark. Type two, or fast-twitch fibers, contract two or three times faster and more forcefully, but they rely mainly on energy sources that don't need oxygen, so they tire within seconds to minutes. They have less myoglobin, so they look pale. Now, back to the chicken. A chicken walks around all day, so its legs are rich in slow-twitch fibers. But it flies only in short, explosive bursts to escape danger, so its breast is mostly fast-twitch. Compare that with a duck or a goose. Those birds migrate long distances, and sure enough, their breast meat is dark. Humans show a similar pattern. In the calf muscles of elite marathon runners, as much as eighty percent of fibers may be slow-twitch, while top sprinters often have the reverse. So, does training create these differences? But the evidence suggests your basic proportion is largely inherited. Training improves how well each fiber works, and it can shift fast fibers from one subtype to another, but turning fast fibers into slow ones happens only to a limited degree. Champions are partly made, and partly born.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "The properties of two types of muscle fibers and what shapes them",
+     "Why white chicken breast meat is healthier to eat than dark leg meat",
+     "How marathon runners train to build fast-twitch fibers",
+     "Why ducks can fly much longer distances than chickens"
+    ],
+    "answer": 0,
+    "explanation": "The professor contrasts slow-twitch and fast-twitch fibers and discusses whether training or inheritance determines their proportions."
+   },
+   {
+    "prompt": "According to the professor, what makes slow-twitch fibers look dark?",
+    "options": [
+     "They contain fewer mitochondria than fast fibers.",
+     "They contain a red protein that stores oxygen.",
+     "They contract more forcefully than other fibers.",
+     "They rely on energy that does not require oxygen."
+    ],
+    "answer": 1,
+    "explanation": "The professor says slow-twitch fibers are dark because they are packed with myoglobin, a red oxygen-storing protein."
+   },
+   {
+    "prompt": "Why is a duck's breast meat dark while a chicken's is white?",
+    "options": [
+     "Chickens fly long distances, so their breast muscles contain no myoglobin.",
+     "Ducks walk more than chickens, so they use their breasts less.",
+     "Ducks fly long distances, so their breast muscles are mostly slow-twitch.",
+     "Ducks fly in short bursts, so their breasts are mostly fast-twitch."
+    ],
+    "answer": 2,
+    "explanation": "Migrating ducks need endurance flight muscles, which are slow-twitch and dark, while chickens fly only in short bursts."
+   },
+   {
+    "prompt": "What is the professor's view about the role of training in muscle fiber types?",
+    "options": [
+     "It is the main reason that elite sprinters have mostly fast-twitch fibers.",
+     "It has no measurable effect on any type of muscle fiber.",
+     "It converts most fast fibers into slow ones over time.",
+     "It improves fiber performance but changes the basic mix only slightly."
+    ],
+    "answer": 3,
+    "explanation": "The professor says the basic proportion is largely inherited and training shifts fast fibers to slow ones only to a limited degree."
+   }
+  ]
+ },
+ {
+  "id": "at7-10",
+  "difficulty": "advanced",
+  "course": "physiology",
+  "intro": "Listen to a talk on a podcast about the human body.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Hi everyone, welcome back. Today: how does a seal hold its breath for over an hour? The Weddell seal of Antarctica regularly dives to a few hundred meters, and its record dives last more than eighty minutes and reach about six hundred meters deep. A trained human diver might manage a few minutes. You'd probably guess the seal takes a huge breath. Actually, it does the opposite. It breathes out before diving. Its lungs collapse under the pressure, which keeps nitrogen from dissolving into its blood and protects it from the bends. So where's its oxygen? Mostly in the blood and muscles. A seal has roughly twice as much blood per kilogram as we do, and its muscles are so full of myoglobin they look almost black. Then, once it submerges, a set of responses called the diving reflex kicks in, in three steps. First, its heart rate drops sharply, sometimes to a small fraction of its resting rate. Second, blood vessels to the skin, gut, and muscles constrict, so the limited oxygen goes mainly to the brain and heart. Third, the spleen contracts, squeezing a reserve of red blood cells into circulation. Here's what surprised me. Humans have this reflex too, just a weaker version. Put your face in cold water, and your heart rate slows within seconds. And among the Bajau people of Southeast Asia, who've dived for food for generations, researchers found spleens about fifty percent larger than those of their non-diving neighbors.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "Why seals breathe in deeply before beginning a long dive",
+     "How seals and other mammals survive long periods underwater",
+     "How the Bajau people learned to dive by watching seals",
+     "Why nitrogen in the blood causes the bends in human divers"
+    ],
+    "answer": 1,
+    "explanation": "The host explains how the Weddell seal stores oxygen and uses the diving reflex, and notes that humans share a weaker version."
+   },
+   {
+    "prompt": "According to the host, why does a Weddell seal breathe out before diving?",
+    "options": [
+     "Empty lungs allow it to store much more oxygen in its blood and muscles.",
+     "Breathing out slows its heart rate before it submerges.",
+     "Its collapsed lungs keep nitrogen from dissolving into its blood.",
+     "Exhaling makes its spleen release extra red blood cells."
+    ],
+    "answer": 2,
+    "explanation": "The host says the seal's lungs collapse, which prevents nitrogen from dissolving into the blood and causing the bends."
+   },
+   {
+    "prompt": "Which response does the host describe as the final step of the diving reflex?",
+    "options": [
+     "The heart rate drops to a fraction of its resting level.",
+     "Blood vessels to the skin and gut begin to narrow.",
+     "The lungs collapse and push out the remaining air.",
+     "The spleen releases stored red blood cells into the blood."
+    ],
+    "answer": 3,
+    "explanation": "The host lists a slower heart rate first, narrowed blood vessels second, and the spleen contracting third."
+   },
+   {
+    "prompt": "Why does the host mention the Bajau people?",
+    "options": [
+     "To show that humans can also have diving adaptations",
+     "To compare the size of their lungs with a seal's lungs",
+     "To explain where the diving reflex was first discovered",
+     "To show that some humans can dive as deeply as seals"
+    ],
+    "answer": 0,
+    "explanation": "The Bajau's enlarged spleens illustrate that humans have a version of the same adaptations seen in seals."
+   }
+  ]
+ },
+ {
+  "id": "at7-11",
+  "difficulty": "advanced",
+  "course": "medicine",
+  "intro": "Listen to a talk in a medicine class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Vaccination didn't start in a laboratory. It started with a risky practice called variolation. For centuries, in parts of Asia and Africa, people deliberately infected healthy individuals with material from a smallpox sore, usually scratched into the skin. This generally produced a milder case, followed by lifelong immunity. It wasn't safe, though. About one or two percent of variolated people died, compared with roughly thirty percent of those who caught smallpox naturally. The practice reached England in seventeen twenty-one, largely through Lady Mary Wortley Montagu, who'd seen it in Constantinople. Then came the decisive step. Country people had long noticed that milkmaids who caught cowpox, a mild disease from cattle, seemed never to get smallpox. In seventeen ninety-six, the English doctor Edward Jenner tested this. He took material from a cowpox sore on a milkmaid's hand and inoculated an eight-year-old boy, James Phipps. Weeks later, he exposed the boy to smallpox. Nothing happened. The boy was protected without ever having had smallpox itself. That's where our word vaccine comes from: vacca is Latin for cow. Now, textbooks often call Jenner the inventor of vaccination. That's not quite fair. In seventeen seventy-four, twenty-two years earlier, a farmer named Benjamin Jesty had inoculated his wife and two sons with cowpox during an outbreak. What Jenner did differently was test the idea deliberately, document it, and publish it, so others could repeat it. And that's what eventually led to smallpox being declared eradicated in nineteen eighty.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why variolation was safer than catching smallpox naturally",
+     "How Lady Mary Wortley Montagu discovered the cowpox method",
+     "How methods of protecting people from smallpox developed",
+     "Why milkmaids were more likely than others to catch smallpox"
+    ],
+    "answer": 2,
+    "explanation": "The professor traces the path from variolation to Jenner's cowpox vaccination and the eradication of smallpox."
+   },
+   {
+    "prompt": "According to the professor, what was the main risk of variolation?",
+    "options": [
+     "About thirty percent of those treated died from the smallpox itself.",
+     "The immunity it gave lasted for only a few years.",
+     "It spread cowpox from cattle to otherwise healthy people.",
+     "A small percentage of people died from the induced infection."
+    ],
+    "answer": 3,
+    "explanation": "The professor says about one or two percent of variolated people died."
+   },
+   {
+    "prompt": "How did Jenner's method differ from variolation?",
+    "options": [
+     "It used material from cowpox rather than from smallpox.",
+     "It used material from smallpox rather than from cowpox.",
+     "It was scratched into the skin rather than swallowed.",
+     "It was tested on cattle before being given to people."
+    ],
+    "answer": 0,
+    "explanation": "Variolation used material from smallpox sores, while Jenner inoculated with material from a cowpox sore."
+   },
+   {
+    "prompt": "What is the professor's opinion about calling Jenner the inventor of vaccination?",
+    "options": [
+     "It is accurate because Jenner was the first to use cowpox.",
+     "It overlooks earlier work, though Jenner's testing still mattered.",
+     "It is unfair because Jesty also documented and published his work.",
+     "It is misleading because vaccination began in England in 1721."
+    ],
+    "answer": 1,
+    "explanation": "The professor notes Jesty used cowpox earlier but credits Jenner with testing, documenting, and publishing the method."
+   }
+  ]
+ },
+ {
+  "id": "at7-12",
+  "difficulty": "advanced",
+  "course": "medicine",
+  "intro": "Listen to a talk in a medicine class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "Until the nineteen eighties, medical students learned that stomach ulcers were caused by stress, spicy food, and too much acid. Patients were told to relax and take antacids, and the ulcers often returned. Doctors also assumed the stomach was sterile. With a pH of around one or two, it seemed far too acidic for bacteria to survive. Then, in Perth, Australia, a pathologist named Robin Warren began noticing curved bacteria in stomach tissue samples, almost always where the lining was inflamed. A young doctor, Barry Marshall, joined him to test whether the bacteria caused it. At first, they couldn't grow the bacteria in the lab. Culture plates were routinely thrown out after two days. But over the Easter holiday in nineteen eighty-two, some plates were left for five days, and finally there were colonies. The bacterium simply grew slowly. It was later named Helicobacter pylori. How does it survive the acid? It burrows into the mucus lining the stomach and produces an enzyme, urease, that generates ammonia, which neutralizes the acid around it. Few experts believed them, so in nineteen eighty-four, Marshall drank a culture of the bacteria himself. Within about a week he was vomiting, and a biopsy showed severe inflammation. Eventually, the evidence won, ulcers became curable with antibiotics, and in two thousand five, the two men shared the Nobel Prize. One caution, though: the bacterium isn't the whole story. Most infected people never develop an ulcer, and painkillers like aspirin cause many ulcers on their own.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why stress and spicy food are the main causes of stomach ulcers",
+     "How the enzyme urease helps doctors to treat stomach ulcers",
+     "Why stomach acid prevents most kinds of bacteria from growing",
+     "How a bacterium was identified as a major cause of stomach ulcers"
+    ],
+    "answer": 3,
+    "explanation": "The professor describes how Warren and Marshall showed that Helicobacter pylori causes many stomach ulcers."
+   },
+   {
+    "prompt": "According to the professor, why did doctors once believe the stomach contained no bacteria?",
+    "options": [
+     "Its acid seemed far too strong for bacteria to survive.",
+     "Tissue samples from the stomach never showed inflammation.",
+     "Bacteria grown from the stomach died within two days.",
+     "Milk and antacids were thought to kill any bacteria."
+    ],
+    "answer": 0,
+    "explanation": "The professor says the stomach's pH of one or two seemed too acidic for bacteria to live there."
+   },
+   {
+    "prompt": "Why were the researchers unable to grow the bacteria at first?",
+    "options": [
+     "The bacteria needed stomach acid that the culture plates did not contain.",
+     "The plates were discarded before the slow-growing colonies appeared.",
+     "The samples came from patients without any stomach inflammation.",
+     "The bacteria produced ammonia that killed them on the plates."
+    ],
+    "answer": 1,
+    "explanation": "Plates were normally thrown out after two days, but the slow-growing bacterium appeared only when plates were left for five days."
+   },
+   {
+    "prompt": "What does the professor imply at the end of the talk?",
+    "options": [
+     "Aspirin is now the most common treatment for stomach ulcers.",
+     "Marshall's experiment on himself failed to convince the Nobel committee.",
+     "Infection with the bacterium does not by itself explain every ulcer.",
+     "The old view that stress causes ulcers was correct after all."
+    ],
+    "answer": 2,
+    "explanation": "He notes that most infected people never get ulcers and that painkillers cause many ulcers independently."
+   }
+  ]
+ },
+ {
+  "id": "at7-13",
+  "difficulty": "advanced",
+  "course": "geology",
+  "intro": "Listen to a talk in a geology class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "female"
+  },
+  "talk": "In nineteen twelve, the German meteorologist Alfred Wegener proposed something outrageous: that the continents had once been joined in a single landmass and had since drifted apart. He called that supercontinent Pangaea. His evidence was threefold. First, the coastlines of South America and Africa fit together like puzzle pieces. Second, fossils of the same species turned up on continents now separated by oceans. The best example is Mesosaurus, a small reptile that lived in fresh water, found in both Brazil and southern Africa. It didn't swim the Atlantic. Third, ancient glaciers had left traces in now-tropical places like India. Yet geologists rejected him for decades, because he couldn't explain how it happened. He suggested continents plowed through the ocean floor, pushed by forces linked to Earth's rotation, which physicists showed were far too weak. After the Second World War, the ocean floor was mapped. Researchers found a mountain range down the middle of the Atlantic, with a rift valley along its center. And when ships towed magnetic instruments across it, they found stripes of rock magnetized in alternating directions, a record of Earth's magnetic field flipping over time. Crucially, the stripes were symmetrical on both sides of the ridge. New sea floor was forming at the ridge and spreading outward, a few centimeters a year, about as fast as fingernails grow. So Wegener was right that continents move, but wrong about how. They don't plow through the sea floor; they ride along with it, as parts of larger plates.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How the idea of drifting continents was rejected and later revised",
+     "How Wegener measured the speed at which the continents drifted apart",
+     "Why the coastlines of Africa and South America match",
+     "How Earth's magnetic field created the Atlantic Ocean"
+    ],
+    "answer": 0,
+    "explanation": "The lecturer explains Wegener's evidence, why his theory was rejected, and how sea-floor spreading later confirmed and revised it."
+   },
+   {
+    "prompt": "According to the lecturer, what was significant about Mesosaurus fossils?",
+    "options": [
+     "A marine reptile had clearly swum across the Atlantic Ocean.",
+     "A freshwater reptile was found on continents now separated by an ocean.",
+     "A reptile's remains showed traces of ancient glaciers in tropical India.",
+     "A reptile from the tropics was found in what is now India."
+    ],
+    "answer": 1,
+    "explanation": "The lecturer says Mesosaurus lived in fresh water yet was found in both Brazil and southern Africa."
+   },
+   {
+    "prompt": "What did the magnetic stripes on the ocean floor provide that Wegener lacked?",
+    "options": [
+     "Evidence that the coastlines of continents once fit together",
+     "Proof that Earth's rotation pushes continents through the sea floor",
+     "A mechanism by which new sea floor carries continents apart",
+     "Evidence that the same species once lived on several continents"
+    ],
+    "answer": 2,
+    "explanation": "Wegener was rejected for lacking a mechanism, and the symmetrical stripes showed sea floor spreading from the ridge."
+   },
+   {
+    "prompt": "What is the lecturer's view of Wegener's theory?",
+    "options": [
+     "His evidence was weak, but his proposed mechanism was sound.",
+     "His ideas were accepted quickly once the ocean was mapped.",
+     "His theory was correct in nearly every important detail.",
+     "His main claim was correct, but his explanation was mistaken."
+    ],
+    "answer": 3,
+    "explanation": "The lecturer says Wegener was right that continents move but wrong about how they move."
+   }
+  ]
+ },
+ {
+  "id": "at7-14",
+  "difficulty": "advanced",
+  "course": "geology",
+  "intro": "Listen to a talk in a geology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "How do geologists know a rock is, say, two billion years old? The answer is radiometric dating, and it depends on one key fact. Radioactive atoms break down at a steady, predictable rate, unaffected by heat, pressure, or chemistry. We describe that rate by the half-life, the time it takes for half the atoms in a sample to decay. The most famous method, carbon dating, is also the most misunderstood. Carbon fourteen has a half-life of about five thousand seven hundred thirty years. Living things absorb it constantly, and when they die, the clock starts. But after about fifty thousand years, so little remains that it can't be measured. So carbon dating is useless for dinosaurs, which died out sixty-six million years ago. For really old rocks, geologists use uranium, and the favorite tool is a tiny crystal called zircon. Here's how it works. First, when a zircon crystal forms from cooling magma, it readily takes uranium into its structure but almost completely rejects lead. Second, over time, uranium two thirty-eight decays into lead, with a half-life of about four and a half billion years. Third, a geologist measures the ratio of lead to uranium in the crystal. Since the crystal started with essentially no lead, all the lead must have come from decay. Zircons from Western Australia have been dated this way to about four point four billion years, among Earth's oldest materials. And dinosaur bones? They're dated indirectly, by dating volcanic ash layers above and below them.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why carbon dating is the most accurate method for old rocks",
+     "How scientists use radioactive decay to find the ages of materials",
+     "How zircon crystals form when magma slowly cools beneath the surface",
+     "Why dinosaur bones contain more carbon than volcanic rocks do"
+    ],
+    "answer": 1,
+    "explanation": "The professor explains half-lives and compares carbon dating with uranium-lead dating of zircon."
+   },
+   {
+    "prompt": "According to the professor, why can't carbon dating be used on dinosaur remains?",
+    "options": [
+     "Dinosaur bones contain uranium instead of carbon fourteen.",
+     "Carbon fourteen decays much faster under great heat and pressure underground.",
+     "Too little carbon fourteen remains after about fifty thousand years.",
+     "Dinosaurs absorbed very little carbon fourteen while alive."
+    ],
+    "answer": 2,
+    "explanation": "The professor says carbon fourteen becomes unmeasurable after about fifty thousand years, far less than sixty-six million."
+   },
+   {
+    "prompt": "Why is the lead in a zircon crystal useful for dating it?",
+    "options": [
+     "The crystal absorbed lead from magma at a steady, predictable rate.",
+     "Lead decays into uranium with a half-life of four and a half billion years.",
+     "The crystal rejected uranium when it formed, so its uranium came later.",
+     "The crystal rejected lead when it formed, so its lead came from decay."
+    ],
+    "answer": 3,
+    "explanation": "Zircon takes in uranium but rejects lead as it forms, so any lead present must come from uranium decay."
+   },
+   {
+    "prompt": "What can be inferred about the volcanic ash layers mentioned at the end?",
+    "options": [
+     "They can be dated with long-lived isotopes such as uranium.",
+     "They contain enough carbon fourteen to be dated directly.",
+     "They are always younger than the fossils found beneath them.",
+     "They formed at exactly the same time as the dinosaur bones."
+    ],
+    "answer": 0,
+    "explanation": "Since carbon dating fails for such ages, the ash layers must be dated with long half-life methods like the uranium method."
+   }
+  ]
+ },
+ {
+  "id": "at7-15",
+  "difficulty": "advanced",
+  "course": "oceanography",
+  "intro": "Listen to a talk on a podcast about ocean science.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "female"
+  },
+  "talk": "Welcome back. Today's topic is the tide. Most coastlines get two high tides and two low tides a day, and each high tide arrives about fifty minutes later than the day before. That's a clue the Moon is involved, because the Moon also rises about fifty minutes later each day. Now, the Moon's gravity pulls on the ocean, creating a bulge of water on the side of Earth facing it. But there's also a second bulge on the opposite side, facing away. Why? Because the Moon pulls hardest on the near side, less on Earth's center, and least on the far side. So the far-side water is essentially left behind. Earth rotates through both bulges, giving two high tides. What about the Sun? Its pull on Earth is much stronger than the Moon's, yet its effect on tides is only about half as large. That's because tides depend on the difference in pull from one side of Earth to the other, and that difference fades quickly with distance. When the Sun, Moon, and Earth line up, at new moon and full moon, their effects add together, giving extra-high spring tides. That has nothing to do with the season. At half moon, they work against each other, producing weaker neap tides. In the open ocean, the tide is often under a meter. But in Canada's Bay of Fundy it can reach sixteen meters, because water sloshes back and forth in the bay at nearly the same rhythm as the tide itself.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "Why the Moon rises fifty minutes later each day",
+     "Why the Sun's gravity is stronger than the Moon's",
+     "What causes tides and why their size varies",
+     "Why the Bay of Fundy has only two tides a day"
+    ],
+    "answer": 2,
+    "explanation": "The host explains how the Moon and Sun produce tides and why spring tides, neap tides, and local tides differ in size."
+   },
+   {
+    "prompt": "According to the host, why is there a bulge of water on the side of Earth facing away from the Moon?",
+    "options": [
+     "The Sun pulls that water toward itself during the night.",
+     "The Moon pulls the far-side water more strongly than the near side.",
+     "Earth's rotation flings that water outward toward space.",
+     "The Moon pulls the far-side water less than it pulls Earth's center."
+    ],
+    "answer": 3,
+    "explanation": "The host says the Moon pulls least on the far side, so that water is left behind as Earth's center is pulled away."
+   },
+   {
+    "prompt": "What is the difference between spring tides and neap tides?",
+    "options": [
+     "Spring tides come when the Sun and Moon align, neap tides at half moon.",
+     "Spring tides occur only in spring, and neap tides during the rest of the year.",
+     "Spring tides occur at half moon, and neap tides at the new and full moon.",
+     "Spring tides are caused by the Sun, and neap tides are caused by the Moon."
+    ],
+    "answer": 0,
+    "explanation": "Spring tides come when the Sun, Moon, and Earth line up; neap tides come at half moon when their effects work against each other."
+   },
+   {
+    "prompt": "Why does the host mention the Bay of Fundy?",
+    "options": [
+     "To show that tides in the open ocean are usually less than a meter high",
+     "To show how a coastline's shape can greatly increase a tide's height",
+     "To show where spring tides were first measured and named",
+     "To give an example of a place that has only one tide a day"
+    ],
+    "answer": 1,
+    "explanation": "The bay's tide reaches sixteen meters because its water sloshes at nearly the same rhythm as the tide."
+   }
+  ]
+ },
+ {
+  "id": "at7-16",
+  "difficulty": "advanced",
+  "course": "oceanography",
+  "intro": "Listen to a talk in an oceanography class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "In nineteen seventy-seven, geologists took the submersible Alvin down about two and a half kilometers to a volcanic ridge near the Galápagos Islands. They were looking for hot springs on the sea floor, and they found them. What they didn't expect was life: clams the size of dinner plates, mussels, and, most striking, giant tube worms, some nearly two meters long, with bright red plumes. With no biologists aboard, they reportedly preserved specimens in vodka. This was a shock, because at that depth there's no sunlight, and nearly every food chain we knew began with photosynthesis. So what were these animals eating? The answer is chemosynthesis. The vent water is loaded with hydrogen sulfide, the gas that smells like rotten eggs. Certain bacteria get energy by breaking it down, and they use that energy to build sugars from carbon dioxide, the way plants use sunlight. Tube worms are remarkable. An adult has no mouth and no gut at all. Instead, it houses billions of these bacteria inside its body. Its red plume, colored by a special hemoglobin, absorbs sulfide and oxygen from the water and delivers them to the bacteria, which in turn feed the worm. Two years later, explorers found even hotter vents, called black smokers, pouring out water at over three hundred fifty degrees Celsius. Now, it's often said that vent life is completely independent of the Sun. That's not quite right. The bacteria need oxygen, and that oxygen originally came from photosynthesis near the surface.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why geologists first explored the ridge near the Galápagos",
+     "How black smokers heat seawater to very high temperatures",
+     "Why giant tube worms have plumes that are bright red",
+     "How animals at deep-sea vents survive without sunlight"
+    ],
+    "answer": 3,
+    "explanation": "The professor explains that vent communities depend on chemosynthetic bacteria rather than on photosynthesis."
+   },
+   {
+    "prompt": "What was the original purpose of the nineteen seventy-seven expedition?",
+    "options": [
+     "To search for hot springs on the sea floor",
+     "To collect giant tube worms for biologists",
+     "To test whether sunlight reaches the deep sea",
+     "To find bacteria that break down sulfide gas"
+    ],
+    "answer": 0,
+    "explanation": "The professor says the geologists were looking for hot springs on the sea floor and did not expect to find life."
+   },
+   {
+    "prompt": "How does a giant tube worm obtain its food, according to the professor?",
+    "options": [
+     "It filters bacteria out of the surrounding vent water with its red plume.",
+     "Bacteria inside its body make food from chemicals its plume collects.",
+     "It feeds on the clams and mussels that live near the vents.",
+     "It swallows sulfide-rich water and digests it in its gut."
+    ],
+    "answer": 1,
+    "explanation": "The worm has no mouth or gut; its plume delivers sulfide and oxygen to internal bacteria that feed it."
+   },
+   {
+    "prompt": "What is the professor's view of the claim that vent life is independent of the Sun?",
+    "options": [
+     "It is correct, since chemosynthesis requires no oxygen of any kind.",
+     "It is misleading, since a small amount of sunlight still reaches the deepest vents.",
+     "It is an overstatement, since the bacteria depend on oxygen from photosynthesis.",
+     "It is accurate only for the black smokers that were found later."
+    ],
+    "answer": 2,
+    "explanation": "The professor says the claim is not quite right because the bacteria need oxygen produced by photosynthesis at the surface."
+   }
+  ]
+ },
+ {
+  "id": "at7-17",
+  "difficulty": "advanced",
+  "course": "meteorology",
+  "intro": "Listen to a talk in a meteorology class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "So, what's actually happening in a lightning strike? It starts with a separation of electric charge inside a thunderstorm cloud. Strong updrafts carry droplets high up, where they freeze. Mid-cloud, small ice crystals rising in the updraft collide with heavier pellets of soft hail called graupel. In those collisions, the ice crystals usually end up positively charged and get carried to the top of the cloud, while the graupel becomes negatively charged and sinks toward the bottom. So the base of the cloud becomes strongly negative. Air is normally a good insulator, so the charge builds until it overcomes that resistance. The strike itself happens in stages. First, a faint channel of charged air, called a stepped leader, zigzags down from the cloud in jumps of about fifty meters. Second, as it nears the ground, tall objects, a tree, a tower, send up a streamer of positive charge to meet it. Third, once they connect, a huge current surges through the channel. That's the return stroke, and it's the bright flash you actually see. Interestingly, it travels upward, from ground to cloud, too fast for our eyes to tell. The return stroke heats the air to around thirty thousand degrees Celsius, about five times hotter than the surface of the Sun. The air expands so violently that it creates a shock wave: thunder. And the saying that lightning never strikes the same place twice is simply false. The Empire State Building gets hit about twenty times a year.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How electric charge builds up in storms and produces lightning",
+     "Why tall buildings are struck by lightning more often than trees",
+     "How thunder travels faster than the flash of lightning",
+     "Why graupel forms only in the middle of storm clouds"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains charge separation in thunderclouds and the stages of a lightning strike."
+   },
+   {
+    "prompt": "According to the professor, what happens when ice crystals collide with graupel?",
+    "options": [
+     "The crystals gain negative charge and sink to the cloud base.",
+     "The crystals gain positive charge and are carried upward.",
+     "The graupel gains positive charge and rises to the top.",
+     "The graupel melts and releases its charge as rain."
+    ],
+    "answer": 1,
+    "explanation": "The professor says the ice crystals become positively charged and are carried to the top of the cloud."
+   },
+   {
+    "prompt": "Which event occurs immediately before the return stroke?",
+    "options": [
+     "The stepped leader zigzags upward in jumps from the ground to the cloud.",
+     "A shock wave from the heated air produces the sound of thunder.",
+     "A streamer rising from the ground connects with the stepped leader.",
+     "The ice crystals rise and leave the top of the cloud positive."
+    ],
+    "answer": 2,
+    "explanation": "The professor says the return stroke begins once the upward streamer and the descending stepped leader connect."
+   },
+   {
+    "prompt": "Why does the professor mention the Empire State Building?",
+    "options": [
+     "To show that the return stroke moves upward from buildings",
+     "To explain why thunder sounds louder in large cities",
+     "To show that tall buildings protect the areas around them",
+     "To contradict a popular belief about where lightning strikes"
+    ],
+    "answer": 3,
+    "explanation": "Being hit about twenty times a year disproves the saying that lightning never strikes the same place twice."
+   }
+  ]
+ },
+ {
+  "id": "at7-18",
+  "difficulty": "advanced",
+  "course": "meteorology",
+  "intro": "Listen to a talk on a podcast about weather.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Hey everyone. Today's story is about a river of wind, and a scientist the world almost forgot. In the nineteen twenties, a Japanese meteorologist named Wasaburo Ooishi ran an observatory north of Tokyo. He launched about thirteen hundred weather balloons and tracked them as they rose. He found that high up, around nine to twelve kilometers, a powerful wind blew steadily from west to east, far stronger than anything at the surface. He published his results in Esperanto, the international language he championed, and almost no one outside Japan read them. Then came the Second World War. Japan used Ooishi's findings to launch around nine thousand balloons carrying bombs toward North America, and some crossed the Pacific in about three days. At the same time, American bomber pilots flying high over Japan ran into headwinds of more than two hundred kilometers an hour, so strong their planes almost stood still over the ground. That's how the rest of the world discovered what we now call the jet stream. What drives it? The contrast between cold polar air and warm tropical air. Where they meet, the temperature difference creates a strong pressure difference high in the atmosphere, and the wind races along that boundary. That's why it's strongest in winter, when the contrast is greatest. Flights from New York to London are often an hour shorter than the return trip. But forecasters stress that it isn't a straight, steady river. It meanders in huge waves, and those bends steer storms.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "How Japanese weather balloons were used to measure winds near the surface",
+     "How a powerful high-altitude wind was discovered and what drives it",
+     "Why Ooishi chose to publish his scientific work in Esperanto",
+     "Why flights from London to New York take longer than expected"
+    ],
+    "answer": 1,
+    "explanation": "The host tells how the jet stream was discovered and explains that it is driven by the contrast between polar and tropical air."
+   },
+   {
+    "prompt": "Why did Ooishi's discovery go largely unnoticed at first?",
+    "options": [
+     "His balloons failed to rise high enough to detect the strongest winds.",
+     "Japan kept his findings secret until the war had ended.",
+     "He reported it in a language few scientists outside Japan read.",
+     "Other scientists doubted the accuracy of his balloon data."
+    ],
+    "answer": 2,
+    "explanation": "The host says Ooishi published in Esperanto, so almost no one outside Japan read his results."
+   },
+   {
+    "prompt": "What did Ooishi's balloons and the American bomber pilots' experiences have in common?",
+    "options": [
+     "Both were used to carry bombs across the Pacific Ocean.",
+     "Both showed that the winds are strongest close to Earth's surface.",
+     "Both were reported in Esperanto after the war had ended.",
+     "Both revealed very strong westerly winds high in the atmosphere."
+    ],
+    "answer": 3,
+    "explanation": "Ooishi's balloons detected a strong west-to-east wind at high altitude, and the bombers met the same powerful wind over Japan."
+   },
+   {
+    "prompt": "Why does the host mention flights between New York and London?",
+    "options": [
+     "To give a familiar example of the jet stream's effect",
+     "To show that the jet stream blows from east to west",
+     "To explain how pilots first discovered the jet stream",
+     "To show that the jet stream is strongest in summer"
+    ],
+    "answer": 0,
+    "explanation": "The shorter eastbound flight is an everyday example of the west-to-east jet stream helping travelers."
+   }
+  ]
+ },
+ {
+  "id": "at7-19",
+  "difficulty": "advanced",
+  "course": "astronomy",
+  "intro": "Listen to a talk in an astronomy class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Every star eventually runs out of fuel. What's left afterward depends mostly on the star's mass. Take a star like our Sun. In about five billion years, it'll swell into a red giant, then gently shed its outer layers into space. What remains is the core, a white dwarf. A white dwarf packs about as much mass as the Sun into something the size of Earth. A teaspoonful would weigh tons. What keeps it from collapsing further? Not heat, but a quantum effect: electrons resist being squeezed into the same state, and that resistance holds the star up. Now, in nineteen thirty, a nineteen-year-old Indian student named Subrahmanyan Chandrasekhar was on a ship sailing to England, and he worked out that this resistance has a limit. Above about one point four times the mass of the Sun, the electrons can't hold out, and gravity wins. That's the Chandrasekhar limit. Back then, though, the most famous astronomer in Britain, Arthur Eddington, publicly mocked the idea. He was sure nature wouldn't let a star collapse endlessly. So what happens to cores above the limit? They come from much heavier stars, roughly eight or more times the Sun's mass. Their cores collapse in under a second, triggering a supernova, and leave behind either a neutron star, only about twenty kilometers across, or, if heavy enough, a black hole. Chandrasekhar turned out to be right, and in nineteen eighty-three, more than fifty years later, he won the Nobel Prize for this work.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How white dwarfs gradually cool and turn into neutron stars",
+     "Why Eddington rejected the existence of red giants",
+     "How a star's mass determines what remains after it dies",
+     "How the Sun will eventually explode as a supernova"
+    ],
+    "answer": 2,
+    "explanation": "The professor explains that a star's mass decides whether it ends as a white dwarf, a neutron star, or a black hole."
+   },
+   {
+    "prompt": "According to the professor, what prevents a white dwarf from collapsing further?",
+    "options": [
+     "Heat produced by continued fusion in its core",
+     "Gravity pulling its outer layers away from the core",
+     "Material it gains after shedding its outer layers",
+     "Electrons resisting being squeezed into the same state"
+    ],
+    "answer": 3,
+    "explanation": "The professor says it is not heat but a quantum effect in which electrons resist being squeezed together."
+   },
+   {
+    "prompt": "How does a white dwarf differ from a neutron star, according to the professor?",
+    "options": [
+     "A white dwarf comes from a lighter star and is far larger in size.",
+     "A white dwarf comes from a heavier star and is far smaller in size.",
+     "A white dwarf forms in a supernova, but a neutron star does not.",
+     "A white dwarf is about twenty kilometers across, unlike a neutron star."
+    ],
+    "answer": 0,
+    "explanation": "White dwarfs come from Sun-like stars and are Earth-sized, while neutron stars come from much heavier stars and are about twenty kilometers across."
+   },
+   {
+    "prompt": "Why does the professor mention Arthur Eddington?",
+    "options": [
+     "To credit him with being the first to calculate the white dwarf mass limit",
+     "To show that Chandrasekhar's idea was at first dismissed by an authority",
+     "To explain why neutron stars are only twenty kilometers across",
+     "To show that he discovered the first known black hole"
+    ],
+    "answer": 1,
+    "explanation": "Eddington, Britain's most famous astronomer, publicly mocked Chandrasekhar's limit, which was later proven correct."
+   }
+  ]
+ },
+ {
+  "id": "at7-20",
+  "difficulty": "advanced",
+  "course": "astronomy",
+  "intro": "Listen to a talk in an astronomy class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "In nineteen sixty-four, two radio astronomers at Bell Labs in New Jersey, Arno Penzias and Robert Wilson, had a problem with their antenna. It was a horn-shaped receiver built for satellite communication, and wherever they pointed it, they picked up a faint hiss of microwave noise. Day or night, every direction, the same. Naturally, they blamed the equipment. They even evicted nesting pigeons and scrubbed off what they politely called white dielectric material. The noise didn't change. Nearby, at Princeton, a team led by Robert Dicke was building an instrument to look for exactly this signal. Their reasoning: if the universe began in a hot, dense state, then about three hundred eighty thousand years later it would've cooled enough for atoms to form, and at that moment light could finally travel freely. That ancient light should still be everywhere, but stretched by the expansion of the universe into microwaves. Hearing the Bell Labs result, Dicke reportedly told his team, well, boys, we've been scooped. Why did this matter? At the time, the Big Bang had a serious rival, the steady-state theory, which said the universe had no beginning and always looked the same. That model had no natural way to produce a uniform glow at about three degrees above absolute zero. The Big Bang predicted it. Later satellites added a twist: the glow isn't perfectly uniform. It varies by about one part in a hundred thousand, and those tiny ripples were the seeds of galaxies.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How nesting pigeons interfered with early satellite communication systems",
+     "Why the steady-state theory predicted a uniform microwave glow",
+     "How a team at Princeton built the first horn-shaped antenna",
+     "The accidental discovery of radiation left over from the early universe"
+    ],
+    "answer": 3,
+    "explanation": "The lecturer describes how Penzias and Wilson accidentally detected the leftover glow of the Big Bang."
+   },
+   {
+    "prompt": "What did Penzias and Wilson first assume about the noise they detected?",
+    "options": [
+     "It was caused by a problem with their equipment.",
+     "It came from a communication satellite overhead.",
+     "It was the signal predicted by the Big Bang theory.",
+     "It changed depending on the time of day."
+    ],
+    "answer": 0,
+    "explanation": "The lecturer says they naturally assumed the equipment was at fault and even cleaned out the pigeons' nest."
+   },
+   {
+    "prompt": "What signal was Dicke's team preparing to search for, according to the lecturer?",
+    "options": [
+     "Noise produced by birds nesting inside radio antennas",
+     "Light released when atoms formed, now stretched into microwaves",
+     "Microwaves released much later, when the first galaxies began forming",
+     "Light that varied greatly from one direction to another"
+    ],
+    "answer": 1,
+    "explanation": "Dicke's team predicted that light freed when atoms formed would now fill the sky as microwaves, matching what Bell Labs had detected."
+   },
+   {
+    "prompt": "Why does the lecturer mention the steady-state theory?",
+    "options": [
+     "To identify the theory Penzias and Wilson set out to test",
+     "To explain why the glow varies by one part in a hundred thousand",
+     "To explain why the discovery strongly supported the Big Bang",
+     "To show that Dicke's team had rejected the Big Bang theory"
+    ],
+    "answer": 2,
+    "explanation": "The steady-state theory could not explain a uniform microwave glow, while the Big Bang predicted it."
+   }
+  ]
+ },
+ {
+  "id": "at7-21",
+  "difficulty": "advanced",
+  "course": "physics",
+  "intro": "Listen to a talk in a physics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "In eighteen twenty-seven, the Scottish botanist named Robert Brown was looking through his microscope at pollen grains suspended in water. Well, actually, at tiny particles that had come out of the pollen grains. And he noticed they were jiggling constantly, darting this way and that, never settling down. His first thought, natural for the time, was a life force, since the particles came from living plants. So he tested that idea. He examined pollen dried and stored for over a century. It jiggled. Then he tried things that had never been alive: powdered glass, ground-up rock, even dust from a fragment of the Sphinx. Everything small enough jiggled. So it wasn't life. We now call it Brownian motion. For nearly eighty years, nobody had a convincing answer. Remember, even in the late eighteen hundreds, some respected scientists doubted that atoms really existed. They saw them as a useful fiction for doing chemistry. Then, in nineteen oh five, Albert Einstein offered an explanation. A particle in water is constantly struck by water molecules from all sides. At any instant, slightly more hit one side than the other, so it gets nudged randomly. Einstein went further and predicted exactly how far a particle should drift over time. Three years later, a French physicist, Jean Perrin, carefully tracked particles under a microscope and found that Einstein's predictions matched. He could even estimate how many molecules a given amount of substance contains. After that, the doubters gave up. Atoms were real.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How a puzzling motion of tiny particles helped prove that atoms exist",
+     "How Robert Brown discovered that pollen grains are alive",
+     "Why particles from ground-up rocks move faster than particles from pollen",
+     "How Perrin disproved Einstein's predictions about molecules"
+    ],
+    "answer": 0,
+    "explanation": "The professor traces Brownian motion from Brown's observation to Einstein's explanation and Perrin's confirmation that atoms are real."
+   },
+   {
+    "prompt": "Why did Brown examine powdered glass and ground-up rock?",
+    "options": [
+     "To compare their speed with that of particles from pollen",
+     "To see whether the motion required something that had been alive",
+     "To find particles small enough to be seen moving under a microscope",
+     "To show that only old pollen produced the jiggling motion"
+    ],
+    "answer": 1,
+    "explanation": "Brown tested materials that had never been alive to check his idea that a life force caused the motion."
+   },
+   {
+    "prompt": "What was Perrin's contribution, according to the professor?",
+    "options": [
+     "He first observed particles jiggling in water under a microscope.",
+     "He proposed that molecules strike particles from all sides.",
+     "He confirmed Einstein's predictions by carefully tracking particles.",
+     "He showed the motion was caused by a life force in pollen."
+    ],
+    "answer": 2,
+    "explanation": "Perrin tracked particles under a microscope three years after Einstein's paper and found the predictions matched."
+   },
+   {
+    "prompt": "What can be inferred about the scientists who doubted atoms in the late eighteen hundreds?",
+    "options": [
+     "They believed Brown's particles were driven by a kind of life force.",
+     "They rejected atoms because Brown's experiments with rock had failed.",
+     "They had already accepted that atoms existed before Einstein offered an explanation.",
+     "They were persuaded by the match between Einstein's theory and Perrin's data."
+    ],
+    "answer": 3,
+    "explanation": "The professor says the doubters gave up after Perrin's measurements confirmed Einstein's predictions."
+   }
+  ]
+ },
+ {
+  "id": "at7-22",
+  "difficulty": "advanced",
+  "course": "physics",
+  "intro": "Listen to a talk in a physics class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "male"
+  },
+  "talk": "In nineteen eleven, the Dutch physicist named Heike Kamerlingh Onnes was studying how metals behave at extremely low temperatures. He'd recently become the first to liquefy helium, which boils at about four degrees above absolute zero, so he could go colder than anyone before him. He cooled a thread of mercury, and as the temperature dropped, its electrical resistance did what you'd expect: it decreased gradually. Then, at about four point two kelvin, it didn't just get small. It vanished, all at once. He called it superconductivity. It really is zero. Current in a superconducting loop has flowed for years with no measurable loss. Then, in nineteen thirty-three, researchers found a second property. A superconductor pushes magnetic fields out of itself. That's called the Meissner effect, and it's why you can make a magnet float above one. For decades, the big limitation was temperature. Every known superconductor had to be cooled with expensive liquid helium, and many physicists believed the effect couldn't survive much above thirty kelvin. Then, in nineteen eighty-six, two researchers in Switzerland, Georg Bednorz and Alex Müller, found superconductivity in a ceramic, a copper oxide, at around thirty-five kelvin. Ceramics, materials usually thought of as poor conductors! Within a year, others found a related ceramic that worked at ninety-two kelvin. That's above seventy-seven kelvin, the boiling point of liquid nitrogen, which is about as cheap as milk. And here's the humbling part: almost forty years later, physicists still don't fully agree on why these ceramics work.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How Onnes became the first scientist to liquefy helium gas in his laboratory",
+     "The discovery of superconductivity and efforts to raise its temperature",
+     "Why magnets float above all metals at low temperatures",
+     "How liquid nitrogen is produced cheaply for laboratories"
+    ],
+    "answer": 1,
+    "explanation": "The professor describes the discovery of superconductivity and the later discovery of ceramics that superconduct at higher temperatures."
+   },
+   {
+    "prompt": "What surprised Onnes about mercury's resistance at about four point two kelvin?",
+    "options": [
+     "It increased suddenly instead of continuing to fall gradually.",
+     "It decreased gradually, just as he had expected it would.",
+     "It disappeared suddenly instead of continuing to fall gradually.",
+     "It fell to zero only after several years of cooling."
+    ],
+    "answer": 2,
+    "explanation": "The professor says the resistance did not just get small but vanished all at once."
+   },
+   {
+    "prompt": "Why was the ceramic found within a year of the Swiss discovery so significant?",
+    "options": [
+     "It was the first material shown to have the Meissner effect.",
+     "It confirmed the thirty-kelvin limit that many physicists had expected.",
+     "It was the first copper oxide known to conduct electricity.",
+     "It could be cooled with liquid nitrogen rather than liquid helium."
+    ],
+    "answer": 3,
+    "explanation": "It worked at ninety-two kelvin, above the seventy-seven-kelvin boiling point of cheap liquid nitrogen, whereas earlier superconductors needed liquid helium."
+   },
+   {
+    "prompt": "What is the professor's attitude toward the current understanding of ceramic superconductors?",
+    "options": [
+     "He finds it humbling that they are still not fully explained.",
+     "He believes earlier theories already explain their behavior well.",
+     "He doubts that the ceramics are true superconductors.",
+     "He thinks they are too costly to be worth studying."
+    ],
+    "answer": 0,
+    "explanation": "He calls it humbling that physicists still do not fully agree on why the ceramics work."
+   }
+  ]
+ },
+ {
+  "id": "at7-23",
+  "difficulty": "advanced",
+  "course": "chemistry",
+  "intro": "Listen to a talk in a chemistry class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "female"
+  },
+  "talk": "By the eighteen sixties, chemists knew of about sixty-three elements, and several had noticed patterns. But it was the Russian chemist Dmitri Mendeleev, in eighteen sixty-nine, who produced the table that stuck. He arranged the elements by atomic weight and grouped together those with similar chemical properties. Two bold decisions set his table apart. First, he left gaps. Where no known element fit, he didn't force one in; he said an undiscovered element belonged there, and he predicted its properties. For a gap below aluminum, he described an element he called eka-aluminum, with a density of about five point nine grams per cubic centimeter. In eighteen seventy-five, a French chemist discovered gallium, and it matched almost perfectly, except that he measured its density as four point seven. Mendeleev wrote back, essentially saying, your sample's impure, measure again. He did, and got five point nine. Second, Mendeleev occasionally broke his own rule. Tellurium is slightly heavier than iodine, but he put tellurium first, because iodine's properties clearly matched the next column. He assumed the atomic weights must be wrong. But the weights were right. The real explanation came in nineteen thirteen, when a young British physicist, Henry Moseley, used X-rays to show that each element has a characteristic number, the atomic number, which we now know is the number of protons. Ordered by atomic number, tellurium comes before iodine naturally. So the table's true organizing principle wasn't weight at all. Mendeleev had the right order for the wrong reason.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why gallium was the most difficult element for chemists to discover",
+     "How Moseley used X-rays to discover several new elements",
+     "How Mendeleev organized the elements and how his system was later explained",
+     "Why atomic weights were measured incorrectly by chemists in the eighteen sixties"
+    ],
+    "answer": 2,
+    "explanation": "The lecturer explains Mendeleev's bold choices in his table and how Moseley's atomic numbers later explained them."
+   },
+   {
+    "prompt": "What happened when gallium's density was first measured?",
+    "options": [
+     "It matched Mendeleev's predicted value of four point seven exactly.",
+     "It showed that gallium belonged in a gap above aluminum.",
+     "It proved that Mendeleev had predicted the wrong density.",
+     "It differed from Mendeleev's prediction because the sample was impure."
+    ],
+    "answer": 3,
+    "explanation": "The first measurement was four point seven, but after Mendeleev said the sample was impure, it was remeasured at five point nine."
+   },
+   {
+    "prompt": "Why did Mendeleev place tellurium before iodine?",
+    "options": [
+     "Their chemical properties fit that order better than their weights did.",
+     "Tellurium had been measured with a slightly lower atomic weight than iodine.",
+     "Moseley's X-ray results showed that tellurium had fewer protons.",
+     "Iodine had not yet been discovered when he made his table."
+    ],
+    "answer": 0,
+    "explanation": "Mendeleev put tellurium first because iodine's properties matched the next column, even though tellurium is heavier."
+   },
+   {
+    "prompt": "What does the lecturer mean when she says Mendeleev had the right order for the wrong reason?",
+    "options": [
+     "His weights were correct, but his arrangement of the elements was not.",
+     "His arrangement was correct, but his belief about faulty weights was not.",
+     "His predictions were correct, but no one believed them at first.",
+     "His table was correct only for elements discovered after eighteen sixty-nine."
+    ],
+    "answer": 1,
+    "explanation": "Mendeleev's tellurium-iodine order was right, but the true reason was atomic number, not inaccurate weights."
+   }
+  ]
+ },
+ {
+  "id": "at7-24",
+  "difficulty": "advanced",
+  "course": "chemistry",
+  "intro": "Listen to a talk on a podcast about the history of science.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Welcome back. Today's story is about a tiny number that wouldn't go away. In the eighteen nineties, the English physicist Lord Rayleigh was precisely measuring the densities of gases, and noticed something odd about nitrogen. Nitrogen taken from the air, after removing oxygen, water, and carbon dioxide, was slightly heavier than nitrogen made from chemical compounds like ammonia, by about half a percent. Most people would've called that experimental error. Rayleigh didn't. He repeated the measurements, got the same gap, and wrote to the journal Nature asking readers to explain it. The chemist William Ramsay took up the challenge. His approach had three steps. First, he took nitrogen from the air. Second, he passed it repeatedly over hot magnesium, which reacts with nitrogen and removes it. Third, he examined what was left. About one percent of the gas refused to react. When he looked at its light through a spectroscope, he saw lines that matched no known element. They named it argon, from the Greek word for lazy. That created a headache: there was no place for it on the periodic table. The solution was an entirely new column, and within a few years Ramsay had found the rest of the family: helium, neon, krypton, and xenon. Both men won Nobel Prizes in nineteen oh four. Here's the twist. Back in seventeen eighty-five, Henry Cavendish had done a similar experiment and found a tiny bubble of air that wouldn't react. He recorded it, and nobody followed it up.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "Why nitrogen made from ammonia is heavier than the nitrogen taken from the air",
+     "How Henry Cavendish discovered argon in the eighteenth century",
+     "How Lord Rayleigh measured the density of helium and neon",
+     "How a small measurement difference led to the discovery of new elements"
+    ],
+    "answer": 3,
+    "explanation": "The host explains how Rayleigh's half-percent density puzzle led Ramsay to discover argon and the other noble gases."
+   },
+   {
+    "prompt": "What did Rayleigh notice about nitrogen taken from the air?",
+    "options": [
+     "It was slightly denser than nitrogen made from chemical compounds.",
+     "It was slightly lighter than nitrogen made from ammonia.",
+     "It reacted more quickly with hot magnesium than Rayleigh had expected.",
+     "It still contained about one percent oxygen and water."
+    ],
+    "answer": 0,
+    "explanation": "The host says nitrogen from air was about half a percent heavier than nitrogen made from compounds like ammonia."
+   },
+   {
+    "prompt": "In Ramsay's procedure, what was the purpose of the hot magnesium?",
+    "options": [
+     "To remove the oxygen and water from the original air sample",
+     "To remove the nitrogen so that any other gas would be left over",
+     "To make the leftover gas react so its identity could be revealed",
+     "To produce pure nitrogen from compounds such as ammonia"
+    ],
+    "answer": 1,
+    "explanation": "The magnesium reacted with and removed the nitrogen, leaving about one percent of an unreactive gas, argon."
+   },
+   {
+    "prompt": "Why does the host mention Henry Cavendish?",
+    "options": [
+     "To identify who first wrote to Nature about the nitrogen puzzle",
+     "To explain how Ramsay later found helium and neon",
+     "To point out that an earlier clue to argon had been overlooked",
+     "To show that Cavendish was the one who named argon"
+    ],
+    "answer": 2,
+    "explanation": "Cavendish found an unreactive bubble of air over a century earlier, but nobody followed it up."
+   }
+  ]
+ },
+ {
+  "id": "at7-25",
+  "difficulty": "advanced",
+  "course": "materials science",
+  "intro": "Listen to a talk in a materials science class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "Diamond and the graphite in your pencil are both pure carbon. Yet diamond is the hardest natural material known, and graphite is soft enough to mark paper. Why? It comes down to bonding. In diamond, every carbon atom is bonded to four neighbors, in a rigid three-dimensional network. There's no easy direction to break it. And since all of each atom's outer electrons are locked into bonds, diamond doesn't conduct electricity. In graphite, each carbon bonds to just three neighbors, forming flat sheets of hexagons, like chicken wire. The sheets are strong, but they're stacked loosely, held by weak forces, so they slide over each other. That's why graphite works as a lubricant, and why it rubs off onto paper. And because each atom has one electron left over, free to move, graphite conducts electricity. Here's a surprise. At normal surface conditions, graphite, not diamond, is the more stable form. A diamond is technically turning into graphite, just so slowly you'd never notice in a billion years. Now, what if you peeled graphite down to a single sheet, one atom thick? That's graphene. For decades, many physicists argued a sheet that thin would be unstable and crumple. Then, in two thousand four, two researchers in Manchester, Andre Geim and Konstantin Novoselov, made it using ordinary sticky tape, peeling layers off graphite again and again. Graphene turned out to be among the strongest materials ever tested, and it won them the Nobel Prize in twenty ten.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How the arrangement of carbon atoms determines a material's properties",
+     "Why diamonds very slowly turn into graphite under normal surface conditions",
+     "How graphite is processed to make pencils and lubricants",
+     "How physicists first predicted the strength of graphene"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains how different bonding arrangements give diamond, graphite, and graphene very different properties."
+   },
+   {
+    "prompt": "According to the professor, why doesn't diamond conduct electricity?",
+    "options": [
+     "Its atoms are arranged in flat, loosely stacked sheets.",
+     "All of its atoms' outer electrons are locked into bonds.",
+     "Each of its atoms has one free electron left over.",
+     "Its bonds break easily in one particular direction."
+    ],
+    "answer": 1,
+    "explanation": "The professor says diamond does not conduct because every outer electron is locked into a bond."
+   },
+   {
+    "prompt": "How is graphene related to graphite, according to the professor?",
+    "options": [
+     "It forms when graphite slowly changes into diamond.",
+     "It is a three-dimensional network of graphite's atoms.",
+     "It is a single sheet of the layers that make up graphite.",
+     "It is the weak force holding graphite's layers together."
+    ],
+    "answer": 2,
+    "explanation": "The professor describes graphene as graphite peeled down to a single sheet one atom thick."
+   },
+   {
+    "prompt": "Why does the professor mention that physicists thought a single sheet would crumple?",
+    "options": [
+     "To explain why graphene is weaker than diamond",
+     "To show why ordinary sticky tape could not produce graphene",
+     "To explain why graphite works well as a lubricant",
+     "To emphasize how unexpected the creation of graphene was"
+    ],
+    "answer": 3,
+    "explanation": "The prediction that such a sheet would be unstable makes its simple creation with sticky tape more surprising."
+   }
+  ]
+ },
+ {
+  "id": "at7-26",
+  "difficulty": "advanced",
+  "course": "materials science",
+  "intro": "Listen to a talk in a materials science class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "Why does an iron gate rust away while an aluminum ladder left outside for years looks fine? Both metals react with oxygen; the difference is what happens next. When iron reacts with oxygen and water, it forms rust, iron oxide, and rust is flaky and porous. It takes up more space than the original metal, so it cracks and falls off, exposing fresh iron underneath, and the process continues. Aluminum also forms an oxide, but it's a thin, tightly attached film that seals the surface, so oxygen can't reach the metal below. Engineers call this passivation. Stainless steel borrows aluminum's trick. In nineteen thirteen, in Sheffield, England, metallurgist Harry Brearley was seeking a gun-barrel steel that wouldn't wear away. As the story goes, he noticed that some rejected samples, thrown on a scrap pile, hadn't rusted. They contained a lot of chromium. Once steel has more than about ten and a half percent chromium, the chromium reacts with oxygen to form an invisible oxide layer only a few nanometers thick. Remarkably, if you scratch it, the layer re-forms within moments, as long as oxygen is around. It heals itself. But the name is a bit misleading. Stainless steel isn't stain-proof. Salt is its weakness. Chloride ions, in seawater or even swimming-pool air, can break through the film at tiny points and eat small, deep holes into the metal. That's called pitting. So for boats and coastal structures, engineers add another element, molybdenum, to toughen the film.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "Why aluminum is stronger than iron in outdoor structures",
+     "How a protective oxide layer keeps some metals from corroding",
+     "How Harry Brearley designed a new steel for making gun barrels",
+     "Why molybdenum is added to nearly every type of steel"
+    ],
+    "answer": 1,
+    "explanation": "The lecturer explains how thin oxide films protect aluminum and stainless steel, unlike flaky rust on iron."
+   },
+   {
+    "prompt": "According to the lecturer, why does rust allow iron to keep corroding?",
+    "options": [
+     "It forms a thin, tight film that traps water on the metal.",
+     "It takes up less space than the iron, leaving small gaps.",
+     "It cracks and falls off, exposing fresh metal underneath.",
+     "It reacts with chromium in the air to form a new oxide."
+    ],
+    "answer": 2,
+    "explanation": "The lecturer says rust takes up more space than the iron, so it cracks and falls off and exposes fresh iron."
+   },
+   {
+    "prompt": "How is stainless steel similar to aluminum?",
+    "options": [
+     "Both contain at least ten and a half percent chromium.",
+     "Both form flaky oxides that fall off and then re-form.",
+     "Both resist the chloride ions that are found in seawater.",
+     "Both are protected by a thin oxide film that blocks oxygen."
+    ],
+    "answer": 3,
+    "explanation": "The lecturer says stainless steel borrows aluminum's trick of a thin, sealing oxide layer."
+   },
+   {
+    "prompt": "What does the lecturer imply about the name stainless steel?",
+    "options": [
+     "It overstates how well the metal resists every kind of corrosion.",
+     "It was chosen because Brearley's samples were completely stain-proof.",
+     "It accurately describes how the metal behaves in seawater.",
+     "It refers to the molybdenum added for use on boats."
+    ],
+    "answer": 0,
+    "explanation": "The lecturer calls the name misleading because chloride ions can still cause pitting corrosion."
+   }
+  ]
+ },
+ {
+  "id": "at7-27",
+  "difficulty": "advanced",
+  "course": "structural engineering",
+  "intro": "Listen to a talk in a structural engineering class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "On November seventh, nineteen forty, the Tacoma Narrows Bridge in Washington State twisted itself apart in a wind of only about sixty-five kilometers an hour. Open for just four months, it was a suspension bridge with a main span of over eight hundred meters, but its deck was unusually thin and narrow, only about two point four meters deep, much shallower than earlier designs. That made it elegant and cheap, but flexible. Even in light winds, the deck rose and fell in waves, so much that locals nicknamed it Galloping Gertie, and people drove across it for the thrill. On the final morning, though, the motion changed. After a cable connection slipped, the deck stopped simply moving up and down and started twisting, one side rising as the other fell. Within about an hour, the center span tore loose and fell. For decades, physics textbooks called this the classic example of resonance: the idea that the wind pushed at exactly the bridge's natural frequency, like a child being pushed on a swing. But engineers point out a problem: a steady wind doesn't push in rhythm. The accepted explanation now is aeroelastic flutter. As the deck twisted, its changing angle altered how the wind struck it, and that pushed it to twist even further. The motion fed itself, drawing more and more energy from a steady wind. Today, models of major bridges are tested in wind tunnels, and the replacement bridge was built with a much deeper, stiffer deck.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How engineers designed a deeper, stiffer bridge deck to resist very strong winds",
+     "Why thin bridge decks are cheaper to build than deep ones",
+     "Why a suspension bridge collapsed and how that collapse is now explained",
+     "How wind tunnels were first invented to test bridge models"
+    ],
+    "answer": 2,
+    "explanation": "The professor describes the Tacoma Narrows collapse and why flutter, not simple resonance, is now the accepted explanation."
+   },
+   {
+    "prompt": "What does the professor say about the bridge's deck?",
+    "options": [
+     "It was deeper and stiffer than earlier bridge designs.",
+     "It was designed after testing models in wind tunnels.",
+     "It moved only during unusually strong winds.",
+     "It was much shallower than the decks of earlier bridges."
+    ],
+    "answer": 3,
+    "explanation": "The professor says the deck was only about two point four meters deep, much shallower than earlier designs."
+   },
+   {
+    "prompt": "How did the bridge's motion on the final morning differ from its usual motion?",
+    "options": [
+     "The deck began twisting instead of only rising and falling.",
+     "The deck began rising and falling instead of twisting.",
+     "The deck stopped moving after a cable connection slipped.",
+     "The deck moved up and down for the very first time."
+    ],
+    "answer": 0,
+    "explanation": "The deck normally rose and fell in waves, but after a cable connection slipped it started twisting."
+   },
+   {
+    "prompt": "Why does the professor mention a child being pushed on a swing?",
+    "options": [
+     "To show how a steady wind can produce regular, rhythmic pushes",
+     "To illustrate an explanation that is now considered inadequate",
+     "To explain the current theory of aeroelastic flutter",
+     "To describe how drivers enjoyed crossing the bridge"
+    ],
+    "answer": 1,
+    "explanation": "The swing illustrates the textbook resonance explanation, which engineers now reject because a steady wind does not push in rhythm."
+   }
+  ]
+ },
+ {
+  "id": "at7-28",
+  "difficulty": "advanced",
+  "course": "aerospace engineering",
+  "intro": "Listen to a talk in an aerospace engineering class.",
+  "speaker": {
+   "role": "lecturer",
+   "gender": "male"
+  },
+  "talk": "How does a wing produce lift? You've probably heard this. The wing's top is curved and its bottom flat, so air over the top travels farther. Since the air above and below has to meet again at the back edge at the same time, the top air must go faster, and faster air has lower pressure, so the wing is pushed up. It's in many textbooks, and its key step is wrong. There's no physical law saying the two streams have to meet at the back. In wind tunnels with puffs of smoke, the air over the top actually arrives well before the air underneath. So the top air is faster, much faster than predicted, but not for that reason. Two cases defeat the textbook version. First, stunt planes can fly upside down, with the curved side facing the ground. Second, a paper airplane has completely flat wings, and it flies fine. So what's going on? The key is the angle of attack, the angle between the wing and the oncoming air. A wing tilted slightly upward, helped by its curved shape, turns the airflow downward. If the wing pushes air down, the air pushes the wing up. That's Newton's third law. The pressure difference is just another description of the same flow. More angle gives more lift, but only up to a point. At around fifteen degrees, the air can no longer follow the top surface. It breaks away, lift drops suddenly, and the wing stalls.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How stunt planes are specially designed to fly upside down",
+     "Why faster-moving air always produces higher pressure",
+     "How wind tunnels with smoke are used to measure the speed of airplanes",
+     "Why a common explanation of lift is wrong and what really causes it"
+    ],
+    "answer": 3,
+    "explanation": "The lecturer rejects the equal-path explanation of lift and explains lift in terms of angle of attack and downward-turned air."
+   },
+   {
+    "prompt": "According to the lecturer, what did wind-tunnel tests with smoke reveal?",
+    "options": [
+     "Air over the top of the wing reaches the back edge first.",
+     "Air above and below the wing reaches the back edge together.",
+     "Air under the wing moves faster than air over the top.",
+     "Air over the top moves more slowly than textbooks predict."
+    ],
+    "answer": 0,
+    "explanation": "The lecturer says the smoke shows air over the top arriving well before the air underneath."
+   },
+   {
+    "prompt": "What point does the lecturer make with stunt planes and paper airplanes?",
+    "options": [
+     "Both rely on wings that are curved on top and completely flat underneath.",
+     "Both fly in ways the common textbook explanation cannot account for.",
+     "Both stall when their wings are tilted at very small angles.",
+     "Both produce lift mainly from faster air beneath the wing."
+    ],
+    "answer": 1,
+    "explanation": "Upside-down flight and flat paper wings both contradict the idea that lift depends on a curved top and longer path."
+   },
+   {
+    "prompt": "What can be inferred about a wing tilted at twenty degrees?",
+    "options": [
+     "It produces more lift than the same wing tilted at ten degrees.",
+     "It forces the air above and below to meet at the back edge.",
+     "It is likely to lose lift because air separates from its surface.",
+     "It turns the airflow downward better than at any other angle."
+    ],
+    "answer": 2,
+    "explanation": "The lecturer says that at around fifteen degrees the air breaks away and the wing stalls, so twenty degrees would be past that point."
+   }
+  ]
+ },
+ {
+  "id": "at7-29",
+  "difficulty": "advanced",
+  "course": "computer science",
+  "intro": "Listen to a talk in a computer science class.",
+  "speaker": {
+   "role": "professor",
+   "gender": "female"
+  },
+  "talk": "In the late nineteen forties, the mathematician Richard Hamming, at Bell Labs, could use an early relay computer only on weekends. The machine could detect errors, but all it could do was abandon the job and move on. Hamming came back two weekends in a row to find his work dumped. He asked, essentially, if the machine can tell something's wrong, why can't it tell where, and fix it? The standard trick then was a parity bit. You add one extra bit so the total number of ones is always even. If a single bit flips, the count becomes odd, and you know there's an error. But you don't know which bit. Another option was sending every bit three times and take a majority vote. That does correct errors, but it triples the amount of data. Hamming found a middle path. In his best-known code, you take four bits of data and add three parity bits, so seven in total. The trick is that each parity bit checks a different, overlapping group of positions. When a bit flips, some checks fail and others pass, and that pattern of failures spells out, in binary, the exact position of the bad bit. Flip it back, and the error's corrected. Published in nineteen fifty, versions of it still protect computer memory. Now, Hamming's code fixes only one error at a time. Modern codes, like those in QR codes, can recover data even when about thirty percent of the symbol is damaged.",
+  "questions": [
+   {
+    "prompt": "What is the talk mainly about?",
+    "options": [
+     "How a method was developed to locate and correct errors in data",
+     "Why early computers were available to researchers only on weekends",
+     "How parity bits double the amount of data that is transmitted",
+     "Why QR codes are more easily damaged than computer memory"
+    ],
+    "answer": 0,
+    "explanation": "The professor explains how Hamming moved beyond error detection to a code that finds and corrects a flipped bit."
+   },
+   {
+    "prompt": "What frustrated Hamming about the computer he used?",
+    "options": [
+     "It failed to detect errors made by its relays.",
+     "It detected errors but simply abandoned the job.",
+     "It corrected errors but took the whole weekend.",
+     "It sent each bit three times and ran too slowly."
+    ],
+    "answer": 1,
+    "explanation": "The professor says the machine noticed errors but could only drop the job and move on."
+   },
+   {
+    "prompt": "How does Hamming's seven-bit code compare with sending each bit three times?",
+    "options": [
+     "Both can detect an error, but neither can locate the flipped bit.",
+     "Hamming's code triples the data, while repetition adds three bits.",
+     "Both can correct an error, but Hamming's code adds fewer extra bits.",
+     "Repetition corrects more errors because it relies on parity checks."
+    ],
+    "answer": 2,
+    "explanation": "Repetition corrects errors but triples the data, while Hamming's code corrects one error by adding just three bits to four."
+   },
+   {
+    "prompt": "Why does the professor mention QR codes at the end of the talk?",
+    "options": [
+     "To give an example of where Hamming's original code is used today",
+     "To explain how parity bits are arranged in overlapping groups",
+     "To show that QR codes can correct only one error at a time",
+     "To show that newer codes can handle much more damage than Hamming's"
+    ],
+    "answer": 3,
+    "explanation": "The professor contrasts Hamming's single-error correction with modern codes that recover data despite about thirty percent damage."
+   }
+  ]
+ },
+ {
+  "id": "at7-30",
+  "difficulty": "advanced",
+  "course": "computer science",
+  "intro": "Listen to a talk on a podcast about technology.",
+  "speaker": {
+   "role": "podcast host",
+   "gender": "male"
+  },
+  "talk": "Hi everyone. Today: packet switching, the idea that makes the internet work. Start with the old telephone network. A call got a dedicated circuit, a continuous connection reserved for the whole call, even during long silences. That's called circuit switching, and for voice, it works. But computers don't talk like people. They send data in short bursts with long gaps, so a reserved line would sit idle most of the time. In the early nineteen sixties, an engineer at the RAND Corporation, Paul Baran, proposed something different. A few years later, Donald Davies in Britain came up with nearly the same idea independently, and he's the one who coined the word packet. Here's how it works. First, a message is broken into small pieces, each labeled with its destination. Second, each piece travels through the network on its own, and two pieces of the same message might take completely different routes. Third, the receiving computer puts them back in order. If a link fails, packets simply go around it. Telephone engineers were skeptical; one reportedly told Baran it wouldn't work. But in nineteen sixty-nine, the ARPANET sent its first message, from UCLA to a research institute in northern California. They tried to type the word login. The system crashed after two letters, L and O. You've probably heard the ARPANET was built to survive a nuclear war. That was Baran's motivation, yes. But the people who funded ARPANET mainly wanted researchers to share expensive computers.",
+  "questions": [
+   {
+    "prompt": "What is the podcast mainly about?",
+    "options": [
+     "Why telephone calls require a dedicated circuit to be reserved for them",
+     "How data is sent across networks in small, separately routed pieces",
+     "How the ARPANET was designed mainly to survive a nuclear war",
+     "Why early computers crashed when they sent long messages"
+    ],
+    "answer": 1,
+    "explanation": "The host explains packet switching, contrasts it with circuit switching, and describes its early history."
+   },
+   {
+    "prompt": "According to the host, why was circuit switching poorly suited to computers?",
+    "options": [
+     "Computers need several circuits reserved at once to send their long messages.",
+     "Computer data was too large to fit on one telephone circuit.",
+     "Computers send data in bursts, so a reserved line would often sit idle.",
+     "Computers could not send any data during long silences."
+    ],
+    "answer": 2,
+    "explanation": "The host says computers send short bursts with long gaps, so a dedicated line would be idle most of the time."
+   },
+   {
+    "prompt": "According to the host, what happens after the packets travel through the network?",
+    "options": [
+     "The receiving computer labels each one with its destination.",
+     "They are combined into a single circuit for the return trip.",
+     "They are broken into smaller pieces for each separate route.",
+     "The receiving computer puts them back in the correct order."
+    ],
+    "answer": 3,
+    "explanation": "The host lists breaking and labeling first, independent travel second, and reassembly by the receiver third."
+   },
+   {
+    "prompt": "What is the host's point about the claim that ARPANET was built to survive a nuclear war?",
+    "options": [
+     "It confuses Baran's goal with the main reason ARPANET was funded.",
+     "It is accurate because Baran personally designed and built the ARPANET.",
+     "It explains why the first message crashed after two letters.",
+     "It shows that telephone engineers supported packet switching."
+    ],
+    "answer": 0,
+    "explanation": "The host says survival was Baran's motivation, but ARPANET's funders mainly wanted researchers to share computers."
+   }
+  ]
+ }
+]

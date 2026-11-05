@@ -1199,6 +1199,486 @@
    "voice": "bf_emma"
   }
  ],
+ "an3-01": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a hydrology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Okay, a quick update on next Friday's visit to the Riverside Water Treatment Plant. Originally, we were going to drive ourselves, but the plant now limits visitor parking, so we'll take a university van that leaves from the east entrance of Turner Hall at one fifteen. There are only twelve seats, so sign up on the course page by Wednesday at noon. If the van fills up, I'll arrange a second trip for the following Monday. One more thing: the plant requires closed-toe shoes, and visitors without them won't be allowed past the lobby.",
+   "voice": "am_puck"
+  }
+ ],
+ "an3-02": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in an anatomy class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. About the lab practical on the skeletal system. It was scheduled for Tuesday the fourteenth, but because the anatomy lab is being deep-cleaned that day, we're moving it to Thursday the sixteenth, same time, two to four. You'll rotate through twenty stations and have ninety seconds at each one. Please don't bring anything into the lab except a pencil; phones and notes go in the lockers in Room 110. And if you have a documented accommodation for extra time, email me by Monday so I can set up a separate session that morning.",
+   "voice": "af_kore"
+  }
+ ],
+ "an3-03": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a world history class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "I have news about our guest speaker. Dr. Samuel Ortiz, the curator of maritime history at the City Museum, was going to visit on Monday, but he's traveling that week, so he'll come next Wednesday instead. Because he's bringing several original ship logs from the eighteen hundreds, we'll meet in the Rare Books Room on the third floor of the library rather than in our classroom. The room holds only forty people, so the session is for our class only. Please read the two logbook excerpts I posted, and write down one question you'd like to ask him.",
+   "voice": "af_aoede"
+  }
+ ],
+ "an3-04": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a general chemistry class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Before you leave, important information about the final exam on December twelfth. Because enrollment grew this term, we no longer fit in Hamilton Auditorium. So, if your last name begins with A through L, you'll stay in Hamilton; M through Z, you'll go to Room 204 in the Science Center. The exam starts at nine sharp, so please arrive by eight forty-five. You may bring one index card of handwritten notes, but no calculators other than the basic model sold at the bookstore for twelve dollars. Graphing calculators will be collected at the door.",
+   "voice": "am_puck"
+  }
+ ],
+ "an3-05": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a photography class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, photographers. Some changes to darkroom access. Until now, the darkroom in the basement of Wells Hall was open whenever the building was, but after a few chemical spills, it'll now be open only during supervised hours: Monday through Thursday, four to nine p.m. You'll need to sign in with the monitor at the door. Each session is limited to two hours, unless nobody is waiting, in which case you can stay longer. And remember, your first pack of photo paper is free, but additional packs cost eight dollars at the front desk.",
+   "voice": "af_kore"
+  }
+ ],
+ "an3-06": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a French class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Bonjour, everyone. About the conversation partner requirement. I originally said you'd meet your partners every Friday during class, but the international students' schedules didn't allow that, so now you'll arrange your own meetings. You need six thirty-minute sessions before Thanksgiving break, and after each one, fill out the short log sheet on the course site. You can meet anywhere on campus, but the Language Center on the second floor of Grant Hall lets you reserve a quiet room for free, except during midterm week, when the rooms are used for testing. Partners' names will be posted Thursday morning.",
+   "voice": "bm_george"
+  }
+ ],
+ "an3-07": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a zoology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Good news about our trip to the Lakeview Zoo. We'd planned to go on the twentieth, but the zoo's research staff offered us a behind-the-scenes tour of the reptile house if we come on the eighteenth instead, so that's our new date. We'll meet at the zoo's north gate at ten. Admission is normally fifteen dollars, but it's free for us, as long as you wear your student ID where staff can see it. Lunch is on your own. Afterward, you'll write a two-page observation report, which is due exactly one week after the visit.",
+   "voice": "af_bella"
+  }
+ ],
+ "an3-08": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a music theory class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. A reminder about your short compositions for the end-of-term recital. Last week I said to upload them as audio files, but the performers need sheet music to rehearse, so please submit a printed score instead. Bring it to my mailbox in the music office, Room 312, by five p.m. on Friday. Pieces should be no longer than three minutes. The recital itself is on December fourth at seven in Kessler Hall. Attendance is required, unless you have an evening class that conflicts, in which case let me know and I'll give you an alternate assignment.",
+   "voice": "bm_george"
+  }
+ ],
+ "an3-09": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at the campus library.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Good afternoon, library users. Starting Monday, group study rooms on the second floor can no longer be booked in person at the front desk. Instead, please use the reservation page on the library website. Each group may book up to two hours per day, and rooms must be reserved for at least three people. If your group doesn't arrive within fifteen minutes of your start time, the room will be released to someone else. The rooms on the fourth floor will stay first-come, first-served, so if you just need a quiet place to work alone, head up there.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "an3-10": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at a residence hall meeting.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, residents. If you're going home for winter break, here's an update on storage. In past years, you could leave belongings in the basement of Elm Hall, but that space is being renovated, so this year storage will be in the gym annex on Parker Street. Drop-off is December fifteenth and sixteenth, from ten to four. Each student can store up to three boxes for twenty dollars, charged to your housing account. However, if you're keeping the same room next semester, you don't need the storage service at all. Just leave your things and lock your door.",
+   "voice": "af_aoede"
+  }
+ ],
+ "an3-11": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement on the campus radio station.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hello, this is Campus Transportation with an update on the Thanksgiving airport shuttle. We'd announced departures every two hours on Tuesday, but because so many students signed up, we're adding hourly departures from eight a.m. to six p.m. All shuttles leave from the bus stop in front of the student union. Tickets are five dollars, and you must buy them online by Sunday at midnight; drivers won't accept cash. Return shuttles from the airport run on Sunday, November thirtieth, only, so if you're flying back on Saturday, you'll need to arrange your own ride to campus.",
+   "voice": "am_puck"
+  }
+ ],
+ "an3-12": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement on the campus radio station.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone! The International Food Festival is this Saturday, but because of the rain forecast, we've moved it from the main lawn into the Morgan Center gymnasium. Doors open at eleven, and booths run until three. Food tickets are a dollar each, and most dishes cost two or three tickets. Members of the twenty participating clubs can come in early, at ten thirty, to set up, but everyone else should wait until eleven. And if you'd like to help out, volunteers get five free tickets, but only if they sign up at the student activities office by Thursday.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "an3-13": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the student health center.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hello, this is the student health center. All students living on campus must submit proof of a meningitis vaccine. The original deadline was September thirtieth, but we've extended it to October fifteenth because our online portal was down last week. Upload your records through the portal, or bring a paper copy to our front desk in Rowan Hall. If you haven't been vaccinated, we offer the shot here on Tuesdays and Thursdays from one to four, and it's covered by the student health plan. Students who miss the deadline will have a hold placed on their spring registration.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "an3-14": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at the campus recreation center.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Attention, tennis players. The outdoor courts behind the stadium will be resurfaced starting next Monday. We expected the work to take one week, but the contractor now says two, so the courts will reopen on the twenty-fourth. In the meantime, the four indoor courts at the Field House are available to students for free, but they must be reserved online, and each reservation is limited to one hour. The varsity team has priority on weekday afternoons from three to six, so recreational players should book mornings, evenings, or weekends.",
+   "voice": "bf_emma"
+  }
+ ],
+ "an3-15": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the campus career center.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. The career center's mock interview day is coming up. It was scheduled for Wednesday, but because several employers couldn't attend, it's moving to Thursday, March sixth, from noon to five, in the Hall of Flags. Volunteers from local companies will give you a twenty-minute practice interview, followed by written feedback. To take part, upload your résumé to our website by Monday. Business attire is recommended but not required. And if you can't come in person, a limited number of video interviews are available on Friday morning, so mention that when you register.",
+   "voice": "bm_fable"
+  }
+ ],
+ "an3-16": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a materials science lab.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Before you start your projects, there's a change in how we're handling the tensile testing machine in Room B12. Earlier I said each group could book it for three hours, but with eighteen groups and only one machine, that just doesn't add up, so bookings are now ninety minutes. Sign-up sheets go up on the door Monday at eight. You may test only samples you've already measured and labeled. And unless trained staff are in the room, the machine stays locked, which means no testing after six p.m., even if your booking runs later.",
+   "voice": "bm_fable"
+  }
+ ],
+ "an3-17": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in an international relations class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "About the Security Council simulation. I'd planned to hold it during our regular class on the twenty-first, but ninety minutes isn't enough, so it'll now be a single evening session on Thursday the twenty-third, six to nine, in the Hargrove Conference Room. If you have a work or class conflict that evening, you may join by video, but only if you tell me by Friday, since I need to arrange the equipment. And your country position paper, which was due at the simulation, is now due two days earlier, at the start of class, so I can read them beforehand.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "an3-18": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a kinesiology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Okay, for next week's fitness assessment lab, a few changes. We'll measure resting heart rate, grip strength, and aerobic capacity on the treadmill. Originally, all three were going to be tested on Tuesday, but the treadmill needs repairs, so the aerobic test moves to Thursday, in the Human Performance Lab, Room 140. On test days, please don't eat for two hours beforehand, and skip coffee that morning. If you have a heart condition or asthma, you'll be excused from the treadmill test, though you still need to bring me a doctor's note by Monday.",
+   "voice": "am_puck"
+  }
+ ],
+ "an3-19": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a criminology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "I'm pleased to confirm that Judge Patricia Hale from the county court will speak to us on the ninth. She was originally going to talk about juvenile sentencing, but because of an ongoing case, she's asked to focus on jury selection instead, so the reading for that day changes from chapter eight to chapter eleven. The talk will be in Lyman Auditorium, not our classroom, because two other sections are joining us. Questions are welcome, except about specific cases currently before her court, which she can't discuss. Please send me your questions in advance, by the seventh.",
+   "voice": "bm_fable"
+  }
+ ],
+ "an3-20": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in an oceanography class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Some news about our day on the research vessel Petrel. The trip was set for Saturday, but the marine forecast shows high winds, so the captain has moved us to Sunday. We'll board at Dock C in Harbor Point at seven a.m., and the boat will leave at seven fifteen whether everyone's there or not. Because it holds only twenty-four passengers, students in the Tuesday lab section will go this weekend; the Thursday section will sail the following weekend. Seasickness pills are a good idea, but take them at least an hour before boarding, or they won't help.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "an3-21": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a computer engineering class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, all. An update on demo day for your robot projects. It was going to be held here in our lab, but the dean's office asked to make it a public event, so we're moving to the atrium of the Engineering Building, on May second, from one to four. Each team gets a ten-minute slot, and the schedule will be posted Wednesday. Your robot must pass a safety check in Room 220 by April thirtieth, or it can't be demonstrated. Final reports are still due May fifth, but teams that present before two o'clock may submit theirs a day later.",
+   "voice": "af_kore"
+  }
+ ],
+ "an3-22": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a marketing class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Let me update you on the client presentations for Brightwater Coffee. We'd planned for each team to present in class on the fifteenth, but the company's marketing director, who'll be judging, can only come on the seventeenth, so we'll present then, at their downtown office on Fifth Avenue. Each team will have twelve minutes, plus five for questions, and business dress is required. The company will cover your bus fare, but only if you keep the receipt and turn it in to me by the end of the month. The winning campaign may actually appear in Brightwater's spring advertising.",
+   "voice": "af_kore"
+  }
+ ],
+ "an3-23": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in an epidemiology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "About Monday's midterm. Originally it was going to be closed-book, but because the material is so formula-heavy, I've decided to allow one sheet of notes, both sides, handwritten only. Printed or photocopied sheets will be taken away. The exam will be in our usual room, 305 Clark Hall, but it'll start fifteen minutes early, at nine forty-five, so you'll have the full ninety minutes. Bring a calculator, but phones must stay in your bags, even if you planned to use them as calculators. Your notes sheet gets turned in with your exam, so make a copy first.",
+   "voice": "bm_george"
+  }
+ ],
+ "an3-24": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a ceramics class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "An update about kiln firings. Until now, we fired the large kiln every Friday, but with the final critique coming, we'll fire it twice a week, on Tuesdays and Fridays. Pieces go on the shelf marked 'ready' in Room 18 by noon the day before. Anything still damp won't be loaded, because wet clay can crack, or even explode, and damage other students' work. Glaze firings work differently: they happen only on Fridays, and only for pieces already fired once. Your final pieces must be glazed and fired by December sixth, so plan backward from that date.",
+   "voice": "bf_emma"
+  }
+ ],
+ "an3-25": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in an entomology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. About your insect collections. The original requirement was twenty-five specimens from ten different families, but since the cold weather came early this year, it's now twenty specimens from eight families. The deadline stays the same: November eighteenth, in the lab, Room 3 of the Agriculture Building. Each specimen needs a label with the date and location of collection. Specimens bought online or from a supplier don't count, unless they're from a family you genuinely couldn't find outdoors, and in that case you may include up to two, as long as you note where they came from.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "an3-26": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a physiology lab.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Before we begin today's blood pressure lab, a change to the procedure. Originally, you were going to measure each other before and after climbing the stairs in the east stairwell, but that stairwell is closed for repairs, so instead, you'll do two minutes of step exercise on the platforms by the window. Record three readings: at rest, right after exercise, and five minutes later. Anyone with a heart condition or high blood pressure should be the recorder, not the subject, for this lab. And if a reading looks unusually high, stop and call me over rather than repeating it yourself.",
+   "voice": "af_bella"
+  }
+ ],
+ "an3-27": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement in a landscape architecture class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "About Friday's site visit to Corliss Park. The city planning office originally planned to meet us at the park's main entrance, but since the north meadow is the area you'll be redesigning, we'll meet at the meadow parking lot off Route Nine instead, at two thirty. Bring measuring tapes and the base map I handed out. If it's raining, we'll still go, but we'll spend the first hour in the park's visitor center, going over the drainage plans with the city engineer. Your site analysis is due in two weeks, and the city will review the three strongest proposals.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "an3-28": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at the campus library.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hello, everyone. Some changes to the Special Collections reading room on the library's fifth floor. Starting next month, it'll be open by appointment only, rather than for walk-ins, and appointments must be made at least two days in advance. Hours are also changing: instead of nine to five, the room will be open ten to four, Monday through Thursday. As before, only pencils are allowed, and bags go in the lockers outside. Faculty bringing an entire class may still book evening sessions, but only if they request them a full two weeks ahead.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "an3-29": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at a residence hall meeting.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Good evening. This year's room selection process is changing. Instead of choosing rooms in order of class year, everyone will receive a random lottery number on March third. To be included, you must pay a two-hundred-dollar deposit by February twentieth, which counts toward next year's rent. Students who want to keep their current room can skip the lottery, unless they live in Harper Hall, which is being converted to first-year housing. Selection days run March tenth through the twelfth, and if you're studying abroad, a friend may choose for you, with your written permission.",
+   "voice": "bm_george"
+  }
+ ],
+ "an3-30": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement on the campus radio station.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Good morning. This is Campus Transit. Starting Monday, the Green Line will no longer stop at Fairview Apartments. Instead, it'll run directly between the library and the medical campus every ten minutes, rather than every twenty. Fairview residents should use the new Orange Line, which leaves from the apartment entrance on the hour and half hour. Both lines are free with a student ID, except that after nine p.m., the Orange Line becomes an on-demand service, which you'll need to request through the campus app. Updated maps are posted at every stop and online.",
+   "voice": "af_bella"
+  }
+ ],
+ "an3-31": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement on the campus radio station.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. Plans for Saturday's homecoming parade have changed. Because of construction on College Avenue, the route will now start at the north end of Maple Street and finish at the stadium, instead of going through downtown. Lineup for floats begins at eight thirty, and the parade starts at ten. Student groups entering a float must register by Wednesday, and floats can be no wider than ten feet, so they'll fit through the stadium gate. Parking on Maple Street is prohibited from seven to noon, except for residents with permits; any other cars will be towed.",
+   "voice": "bm_george"
+  }
+ ],
+ "an3-32": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the campus facilities office.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "This is an important message from Facilities. Power to the Science Quad, including Baxter, Lund, and Reyes Halls, will be shut off this Sunday from six a.m. to two p.m. while we replace a transformer. This work was originally scheduled for next month, but last week's storm damaged the equipment. All three buildings will be locked. Researchers with freezers or incubators should move samples to the backup cold room in the Medical Sciences Building, which will stay powered. Anyone who can't move their materials by Saturday at five should contact our office about a portable generator.",
+   "voice": "bf_emma"
+  }
+ ],
+ "an3-33": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the campus career center.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. The career center's annual headshot day is this Thursday. We originally planned to hold it in our office, but since we're expecting more than two hundred students, we've moved it to the Commons Ballroom. Photos are free and take about five minutes, and you'll receive your digital photo by email within three business days. Walk-ins are welcome from ten to two. However, if you also want a résumé review, book an appointment online, because advisors will be there only from two to four. Please dress as you would for an interview.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "an3-34": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the campus counseling center.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hello. This is a message from the counseling center. Starting next week, we're replacing our Friday walk-in hours with daily drop-in sessions, Monday through Friday, from one to three. Each drop-in visit lasts about twenty minutes and is meant for short-term concerns. If you'd like ongoing support, you'll still need to schedule an intake appointment, which now happens over the phone instead of in person. All services are free for enrolled students. And if you're facing an urgent situation outside these hours, call our after-hours line rather than waiting for the next drop-in session.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "an3-35": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at the campus recreation center.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Good afternoon. The annual Campus Fun Run is happening next Sunday, but there's been a change: the course is now five kilometers rather than ten, because part of the river path is flooded. Check-in opens at the north end of the stadium at seven thirty, and the race starts at eight thirty sharp. Registration is fifteen dollars and includes a T-shirt, but only if you register by Wednesday; after that, it's twenty dollars, and shirts aren't guaranteed. All proceeds go to the campus food pantry. Runners with strollers or dogs should start at the back of the group.",
+   "voice": "am_puck"
+  }
+ ],
+ "an3-36": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at a campus literary event.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Good evening, everyone. I'm excited to announce that novelist Daniel Asante will give a reading on campus on October ninth. We'd planned to hold it in the Wren Library lounge, but with more than three hundred people registered, it's moving to Marlow Theater, which seats five hundred. The reading starts at seven, followed by a book signing at eight thirty. Copies of his new novel will be sold at the door for eighteen dollars. Admission is free, but registration is still required, except for students in creative writing courses, who are automatically on the list.",
+   "voice": "af_aoede"
+  }
+ ],
+ "an3-37": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the campus tutoring center.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. Some news from the Tutoring Center. The Math Help Room is moving from the basement of Pell Hall to Room 210 in the new Learning Commons. Because of the move, it'll be closed this Thursday and Friday, and it reopens on Monday with longer hours, nine a.m. to nine p.m. Tutors cover all courses up to Calculus Three. Most help is drop-in, but for courses above that level, you'll need to request an appointment at least a day ahead, so we can find a qualified tutor. Bring your textbook and the specific problems you're stuck on.",
+   "voice": "bm_george"
+  }
+ ],
+ "an3-38": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the financial aid office.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hello, everyone. The financial aid office is holding a workshop on completing next year's aid application. We'd scheduled just one session, on January twentieth, but since it filled within a day, we've added a second on the twenty-seventh, both from five to seven in Room 101 of Ashford Hall. Bring your family's tax information from last year. The priority deadline is March first; applications after that are still accepted, but only for loans, not grants. Parents who can't attend in person may join by video, as long as you let us know in advance.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "an3-39": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement from the registrar's office.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Attention, graduating seniors. Commencement tickets will be handed out at the registrar's office in Bishop Hall from May first through the fifth. Each graduate receives four guest tickets, down from the six we originally announced, because the ceremony has moved indoors to Carlton Arena after the stadium renovation fell behind schedule. You must pick up your tickets in person with your student ID; friends can't collect them for you, unless you submit a signed form beforehand. Extra tickets may become available on May eighth, but only if other graduates return ones they won't use.",
+   "voice": "am_puck"
+  }
+ ],
+ "an3-40": [
+  {
+   "pause": 0.8,
+   "text": "Listen to an announcement at the campus makerspace.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi, everyone. Some changes at the Makerspace in the basement of Dunn Library. Because demand for our 3D printers has doubled, print jobs are now limited to six hours each, down from twelve. Material is free for jobs under fifty grams; larger jobs cost ten cents a gram, charged to your student account. We're also closing on Sundays, but staying open until midnight Monday through Thursday. Before using any printer, you need to complete the one-hour safety training, unless you already took it last year, in which case a short online refresher is enough.",
+   "voice": "af_aoede"
+  }
+ ],
  "at1-01": [
   {
    "pause": 0.8,
@@ -2637,6 +3117,726 @@
    "speed": 0.85,
    "text": "We tend to imagine life before farming as a constant struggle for survival, people working from dawn to dusk just to eat. In the 1960s, the anthropologist Marshall Sahlins challenged that picture with a deliberately provocative phrase: the original affluent society. His argument drew on new studies of foragers, people who live by hunting and gathering, including groups in the Kalahari Desert. Researchers had recorded how much time people actually spent getting food, and the numbers were surprisingly low, often around fifteen to twenty hours a week. So in what sense were they affluent? Sahlins pointed out that there are two ways to satisfy your wants. You can produce a lot, or you can want little. Foragers moved often, so owning many things was a burden, not a benefit. With modest wants and fairly reliable food sources, they had plenty of leisure. Now, the critique. Later anthropologists pointed out that those early figures counted only time spent hunting and gathering. They left out making tools, processing food, collecting firewood, and other household work. Include all of that, and the total comes much closer to a full working week. Studies also found seasonal hunger in some groups. So the strong version of Sahlins's claim hasn't held up. But his deeper point, that affluence depends on what people want, not only on what they have, still challenges ideas of economic progress.",
    "voice": "bm_george"
+  }
+ ],
+ "at6-01": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a history class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "So, here's a question that sounds silly at first: who decides what time it is? Before the 1880s, the answer in the United States was basically, the sun. Each town set its clocks by local solar time, so when it was noon in Chicago, it was already a few minutes past noon in towns to the east. For a farmer, that was fine. For a railroad, it was chaos. Each company ran on its own time, and a busy station might display several clocks at once. In fact, there were dozens of separate railroad times in use. Now, Britain had faced this problem earlier, in the 1840s, and its solution was simple: the railways adopted one national time, Greenwich time. But Britain is small. The United States spans about four hours of solar time, so a single national time wouldn't work. The solution the American railroads chose was zones. On November 18, 1883, they switched to four standard time zones: Eastern, Central, Mountain, and Pacific. People called it the day of two noons, because in many towns the clocks struck twelve, were set back, and later struck twelve again. A year later, in 1884, an international conference in Washington chose Greenwich as the world's prime meridian. But here's what surprises students. Congress didn't make the time zones official until 1918. So for thirty-five years, the time most Americans lived by was set not by the government, but by private companies. The law simply caught up.",
+   "voice": "af_bella"
+  }
+ ],
+ "at6-02": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a history class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today let's look at what happened to ordinary workers after the Black Death. The plague reached England in 1348, and within about two years it had killed somewhere between a third and a half of the population. Think about that economically. Suddenly there were far fewer people to plow fields and bring in harvests, but the land was still there. So laborers were scarce, and scarce things get expensive. Workers began demanding higher wages, and many simply moved to whichever lord offered the best terms. Landowners didn't like this. So the government responded in two steps. First came an emergency ordinance in 1349, and then, in 1351, the Statute of Laborers, which tried to freeze wages at their pre-plague levels and made it illegal to refuse work. Did it work? Only partly. Wages still rose, and resentment over these controls, along with new taxes, fed into the Peasants' Revolt of 1381. Over the following century, serfdom in England largely faded away. Now, historians used to tell this as a simple story: the plague made labor scarce, so peasants became free. But compare England with parts of Eastern Europe, like Poland and Prussia. There, labor was also scarce compared with the amount of land, yet over the next two centuries, lords actually tightened their control, binding peasants more firmly to their estates. Same kind of shortage, opposite result. So the current view is that the plague created pressure, but what happened next depended on who held power.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at6-03": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an archaeology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "For most of the twentieth century, the textbook sequence went like this. First, people settled down and started farming. Then, with food surpluses, they had the time and the labor to build big monuments and temples. Farming first, monuments later. Göbekli Tepe, a hilltop site in southeastern Turkey, turned that sequence upside down. Excavations led by the German archaeologist Klaus Schmidt began in 1995, and his team uncovered large circular enclosures ringed by T-shaped limestone pillars. Some pillars are over five meters tall and weigh ten tons or more, and many are carved with animals: foxes, boars, snakes, vultures. The oldest enclosures date to around 9600 BCE. That's more than six thousand years before Stonehenge, and, crucially, before there's any clear evidence of domesticated crops or animals in the region. So who built it? Hunter-gatherers. Schmidt's interpretation was striking. He argued that Göbekli Tepe was a ceremonial center, a place where people gathered for rituals and feasts, but where nobody actually lived. He summed it up with a memorable phrase: first came the temple, then the city. Now, since Schmidt's death in 2014, newer excavations have complicated that picture. Archaeologists have found what look like houses, a system for collecting rainwater, and thousands of grinding stones for processing wild grain. So it now seems people did live at the site. The pillars are no less astonishing, but the neat contrast between a pure temple and an ordinary settlement has largely dissolved.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at6-04": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about archaeology.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Welcome back. Today's object is a lump of corroded bronze that turned out to be one of the most surprising finds in archaeology. In 1900, sponge divers sheltering from a storm near the small Greek island of Antikythera spotted a shipwreck on the seabed. Divers brought up statues, pottery, and coins. The ship had sunk sometime around 70 to 60 BCE. Among the finds was a shoebox-sized wooden case, so badly decayed that nobody paid it much attention. Then, in 1902, an archaeologist noticed a gear wheel embedded in one of the fragments. A gear? From ancient Greece? Many scholars assumed it must come from a later period, or that it was a simple navigation instrument. In the 1950s, the historian Derek de Solla Price argued that it was a calculating device, and in the 1970s he used X-rays to count the gear teeth. Then, starting in 2005, researchers used high-resolution CT scanning, which revealed inscriptions hidden inside the fragments, basically a user's manual. Here's what we now know. Turning a handle drove at least thirty interlocking gears, and pointers showed the positions of the sun and moon, the phases of the moon, and the dates of eclipses. One dial even tracked the four-year cycle of athletic games, including the Olympics. That's why it's often called the first analog computer. And here's the strangest part: nothing with comparable gearing appears in the historical record for more than a thousand years, until the astronomical clocks of medieval Europe.",
+   "voice": "am_puck"
+  }
+ ],
+ "at6-05": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an anthropology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today we're looking at a famous book in anthropology, and a famous argument about it. In 1925, a twenty-three-year-old Margaret Mead traveled to the island of Ta'ū in American Samoa. She spent about nine months there, observing and interviewing dozens of adolescent girls. Her question came from a debate back home. Many American psychologists claimed that adolescence was naturally a time of storm and stress, that the emotional turmoil of teenagers was biological. If that were true, Mead reasoned, it should happen everywhere. In her 1928 book, Coming of Age in Samoa, she reported that it didn't. Samoan girls, she wrote, passed through adolescence calmly, with relatively relaxed attitudes about relationships. So the turmoil of American teenagers had to be cultural, not biological. The book became a bestseller. Then, in 1983, five years after Mead died, the anthropologist Derek Freeman published a fierce critique. Freeman had worked in Samoa for years, and he argued that Samoan society actually placed a strong value on virginity and had plenty of conflict and violence. He even suggested that some of Mead's informants had been joking with her. So who was right? Well, most anthropologists today wouldn't simply side with Freeman, either. His fieldwork was done mostly in a different part of Samoa, and decades later, after major social changes. What the controversy really exposed was a problem of method: how much can one researcher, working alone in one place for a few months, claim to know about an entire culture?",
+   "voice": "bf_emma"
+  }
+ ],
+ "at6-06": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an anthropology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In 1958, the anthropologist Clifford Geertz and his wife arrived in a small village in Bali to do fieldwork. For about ten days, the villagers treated them as if they didn't exist. Then, one afternoon, the couple attended a cockfight, which was illegal at the time. The police raided it, and everyone ran, including the two anthropologists, who fled alongside the villagers and hid in a courtyard. The next day, the whole village suddenly accepted them. From that fieldwork came his famous 1972 essay, 'Deep Play.' Geertz borrowed two ideas to make sense of the cockfight. The first was thick description, a phrase from the philosopher Gilbert Ryle. Ryle's example was two boys rapidly contracting their right eyelids. For one, it's an involuntary twitch; for the other, it's a wink, a signal to a friend. A camera records the same movement. Only a thick description, one that captures meaning, tells them apart. The second idea, deep play, came from Jeremy Bentham, who used it for bets so high that it's irrational to make them. Geertz noticed two kinds of betting. Side bets between individual spectators were mostly about money. But the large central bet, pooled by groups of allies, was about status. The higher those stakes, the more the fight was really about honor. So, Geertz concluded, the cockfight was a story the Balinese told themselves about themselves. Critics later asked a pointed question, though: whose story? Geertz, they said, rarely asked the participants what they thought.",
+   "voice": "bm_fable"
+  }
+ ],
+ "at6-07": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an art history class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today: a painter who changed how light works in pictures. Michelangelo Merisi, known as Caravaggio, was born in 1571 and died in 1610, before he turned forty. In that short career, he developed a style we call tenebrism, from the Italian word for darkness. Now, you've heard of chiaroscuro, the contrast of light and shadow. Painters had used it for a century. But compare Leonardo's approach with Caravaggio's. Leonardo blended light into shadow so gradually, so smoothly, that you can't see where one ends and the other begins. Caravaggio did the opposite. His figures emerge from almost black backgrounds, struck by a strong light from a single source, often outside the frame, like a spotlight in a dark room. A great example is The Calling of Saint Matthew, finished around 1600 for a chapel in Rome. Christ points across a dim room at a group of men counting money, and a beam of light follows his gesture. And Caravaggio painted saints as ordinary people, with dirty feet and wrinkled faces, using models from the street. He influenced a generation of followers, the Caravaggisti, across Europe. Now, for a long time it was said that Caravaggio never drew, that he painted straight onto the canvas without any preparation. After all, no drawings by him survive. But technical studies have found lines scratched into the wet ground layer of his canvases, marking where figures would go. So he did plan, just not on paper, the way other painters did.",
+   "voice": "af_kore"
+  }
+ ],
+ "at6-08": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about art history.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today's episode is about how a cheap kind of Japanese print ended up transforming European painting. For over two centuries, Japan had sharply limited contact with the West. Then, in 1854, under pressure from American warships, it signed a treaty opening its ports, and Japanese goods began flowing to Europe. Among them were ukiyo-e, woodblock prints showing actors, landscapes, and city life. Now, each print was a team effort. A designer drew the image. A carver cut it into wooden blocks, a separate block for each color. A printer pressed the paper onto the blocks, one after another. Then a publisher sold them cheaply, like posters. In Japan, these were popular entertainment, not high art. Parisian artists saw them as revelations. After Japan exhibited at the Paris World's Fair of 1867, the craze took off, and by 1872 a critic had a name for it: Japonisme. So what did Europeans take from the prints? Flat areas of bright color, bold outlines, unusual high viewpoints, and figures cut off by the edge of the frame. Compare two painters. Vincent van Gogh copied prints by Hiroshige almost directly, in oil, even painting Japanese characters into the borders. Edgar Degas did something subtler. He borrowed the compositions, the off-center figures and cropped edges, but his subjects stayed entirely Parisian: dancers, racehorses, cafés. And here's the irony. Just as Europe was celebrating these prints as fine art, Japan, eager to modernize, was treating them as disposable and old-fashioned.",
+   "voice": "am_puck"
+  }
+ ],
+ "at6-09": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a music history class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today: sonata form, the structure behind the first movements of most symphonies, sonatas, and string quartets from the classical period, roughly 1750 to 1820. The standard textbook version has three sections. First comes the exposition, which presents two main themes. The first theme is in the home key. Then a transition moves to a new key, usually the dominant, a fifth higher, and the second theme appears there, often more lyrical. The second section is the development. Here the composer breaks the themes into fragments, moves restlessly through different keys, and builds tension. The third section is the recapitulation, where both themes return, but now, crucially, the second theme stays in the home key. That's what resolves the tension. So: exposition, development, recapitulation. Easy to memorize. But here's what textbooks rarely stress. Haydn and Mozart never used the term sonata form. It was coined in the 1840s by theorists like Adolf Bernhard Marx, who described the form mainly in terms of contrasting themes. An earlier theorist, Heinrich Christoph Koch, writing in 1793, during Haydn's lifetime, described the same movements in terms of keys rather than themes: a journey away from home and back again. And Koch's view fits Haydn better. In many of Haydn's movements, the so-called second theme is just the first theme again, in the new key. By Marx's definition, those movements barely qualify. By Koch's, they fit perfectly. So sonata form was a description written after the fact, not a recipe composers followed.",
+   "voice": "bf_emma"
+  }
+ ],
+ "at6-10": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a music history class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Before public concerts, where did people hear music? Mostly in church, at noble courts, and in private homes. If you were a composer, you worked for a patron, a church or a prince, and you wrote what your employer needed. Then, in London in 1672, a violinist named John Banister did something new. He advertised in a newspaper that music would be performed every afternoon at his house, and anyone could attend for a shilling. That's often considered the first series of public concerts with paid admission. Now, compare this with Paris. There, public concerts developed differently. The most important series, the Concert Spirituel, founded in 1725, operated under a royal privilege, and it originally performed on religious holidays when the opera houses were closed. So in Paris, concert life grew under the protection of the crown, while in London it grew as a business. And by the late 1700s, the London market was strong enough for an impresario named Johann Peter Salomon to bring Joseph Haydn over, twice, in the 1790s. Haydn wrote twelve symphonies for those visits, and he wrote them for a paying public. You know the Surprise Symphony, with the sudden loud chord in the quiet slow movement? The famous story is that Haydn wanted to wake up sleeping listeners. He later denied that, saying he simply wanted to do something new and make a brilliant debut. Either way, notice who he was trying to impress: not a prince, but a ticket-buying crowd.",
+   "voice": "bm_george"
+  }
+ ],
+ "at6-11": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an architecture class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Let's talk about the Pantheon in Rome, perhaps the most impressive dome ever built. The building we see today was completed under the emperor Hadrian, around 125 CE, although the inscription on the front credits Agrippa, who built an earlier temple on the site. Now, the numbers. The dome spans about forty-three meters, and the height from the floor to the top is exactly the same, so a perfect sphere would fit inside. At the top is the oculus, an open hole about eight meters across, with no glass. And here's the remarkable part: the dome is unreinforced concrete, no steel at all, and nearly nineteen hundred years later, it's still the largest dome of its kind in the world. So how did the Romans do it? Three strategies. First, they varied the aggregate, the stones mixed into the concrete. Near the base, they used heavy material like travertine; higher up, they switched to lighter volcanic stone, with pumice near the top. Second, the dome's thickness decreases from about six meters at the base to just over one meter at the oculus. Third, the coffers, the sunken ceiling panels, remove even more weight. Compare that with Brunelleschi's dome in Florence, finished in the 1430s. It's slightly wider, but it's built of brick, with two shells, inner and outer. For a long time, people talked about a lost Roman secret. But really, the key was ordinary volcanic ash, which helps concrete set strongly even in damp conditions.",
+   "voice": "af_heart"
+  }
+ ],
+ "at6-12": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an architecture class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "So, why did the skyscraper appear in Chicago in the 1880s? There were really three conditions. The first was a disaster. In 1871, the Great Chicago Fire destroyed much of the city's center, and during rebuilding, land in the business district became very expensive. The economic logic was simple: if land is costly, build up. The second condition was the safety elevator. Elisha Otis had demonstrated one in New York in 1854, with a brake that stopped the car if the cable broke. Without elevators, nobody wanted to climb past five or six floors. But the third condition was the real structural problem. In a traditional building, the walls carry the weight, and the taller you build, the thicker the walls at the bottom have to be. Look at the Monadnock Building in Chicago, completed in 1891. It's sixteen stories tall with load-bearing brick walls, and at the base those walls are about six feet thick. That's about the limit. Now compare the Home Insurance Building, designed by William Le Baron Jenney and completed in 1885. It used an internal metal frame to carry much of the load, so the walls could be thinner. It's usually called the first skyscraper, even though it was only ten stories. But historians argue about that title. Jenney's frame still relied partly on masonry, and others were experimenting too. So the skyscraper wasn't a single invention. It was a gradual shift from walls that hold a building up to a frame that does.",
+   "voice": "bm_fable"
+  }
+ ],
+ "at6-13": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a literature class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today we're comparing two versions of the sonnet. Every sonnet has fourteen lines, but how those lines are organized changes how the poem thinks. Start with Petrarch, in fourteenth-century Italy. The Petrarchan sonnet divides into two parts: an octave of eight lines, then a sestet of six. The octave usually rhymes A-B-B-A, A-B-B-A, so it reuses just two rhyme sounds, four times each. And between the octave and the sestet, at line nine, there's a turn, which Italian critics call the volta. The octave raises a problem; the sestet answers or reconsiders it. Now, poets like Thomas Wyatt brought the sonnet to England in the 1530s. But there was a practical difficulty. Italian is full of words with similar endings, so rhymes are easy to find. English has far fewer rhyming words, and finding four rhymes on the same sound, twice, is hard. So English poets gradually developed a different structure: three quatrains of four lines, each with its own new rhymes, and then a final rhyming couplet. When Shakespeare's sonnets were published in 1609, there were a hundred and fifty-four of them, almost all in this form. So where's the turn in the English sonnet? Usually it's delayed until the couplet, which often delivers a sharp twist or summary. That's the standard contrast. But don't apply it too rigidly. Many of Shakespeare's sonnets also shift direction at line nine, just as Petrarch's do. So in practice, the English form often contains two turns, not one.",
+   "voice": "af_kore"
+  }
+ ],
+ "at6-14": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about literature.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Welcome back. Today: how money shaped the Victorian novel. In the 1830s, a new novel in Britain was usually published in three volumes, and it was very expensive, about a guinea and a half, more than many workers earned in a week. So most readers didn't buy novels. They borrowed them from circulating libraries that charged an annual subscription. Then, in 1836, a young writer named Charles Dickens began publishing The Pickwick Papers in monthly installments. Each part had thirty-two pages and two illustrations, and it cost one shilling. So readers paid a little each month, for about a year and a half. At first, sales were weak; the first part sold only a few hundred copies. But in the fourth installment, Dickens introduced a witty servant named Sam Weller, and sales took off. By the end, each part was selling around forty thousand copies. Now, think about what this format did to writing. A three-volume novel was finished before readers saw it. A serial wasn't. Dickens was often writing just a few weeks ahead of publication, so he could watch sales and readers' letters and adjust his plots. And each installment needed a reason to buy the next one, which encouraged cliffhangers. For a long time, critics treated these features as flaws, saying serial novels were baggy and padded because authors were paid by length. More recently, scholars have argued nearly the opposite: that serialization created a shared, ongoing experience, much like a television series today.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at6-15": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a linguistics class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Here's a pattern you can test yourself. Latin pater, English father. Latin tres, English three. Latin cornu, English horn. Where Latin has a p, English has an f. Where Latin has a t, English has a th. And where Latin has a k sound, English has an h. These aren't random. In 1822, Jacob Grimm, yes, one of the brothers who collected fairy tales, laid out these correspondences systematically, building on work by the Danish scholar Rasmus Rask. Today we call it Grimm's Law. The idea is that the Germanic languages, including English, German, and Dutch, went through a sound shift that Latin and Greek didn't. One set of consonants, p, t, and k, became f, th, and h. Another set, b, d, and g, became p, t, and k. That's why Latin decem corresponds to English ten. Now, linguists think the order mattered. If b, d, and g had become p, t, and k first, those new sounds would have been swept up into the change to f, th, and h. Since they weren't, the first shift probably happened earlier. But Grimm's Law had exceptions. Latin pater should give Gothic a word with th, but Gothic has fadar, with a d. Scholars treated such cases as irregular. Then, in 1875, Karl Verner showed that these exceptions depended on where the stress fell in the original word. The exceptions followed a rule too. And that discovery encouraged a bold claim: that sound changes operate without exceptions.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at6-16": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a linguistics class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "A language with no native speakers is usually considered dead. So here's a remarkable case. Hebrew stopped being anyone's everyday spoken language around the second or third century CE. For more than fifteen hundred years after that, it survived, but only in prayer, scholarship, and writing, a bit like Latin in medieval Europe. Then, in 1881, a young man named Eliezer Ben-Yehuda moved to Jerusalem, determined to revive it as a spoken language. He insisted that his family speak only Hebrew at home, and his son, born in 1882, is often called the first native speaker of Hebrew in modern times. He also began a huge dictionary, coining words for modern things. That's the popular story: a single determined man. But historians of language now give much more credit to schools. In the farming settlements of the late 1800s, teachers began teaching all subjects in Hebrew, and children who learned it at school spoke it with each other, and later with their own children. So the revival really happened in three steps: first an ideology, then the classroom, then the homes of the next generation. Compare this with Irish. After Irish independence in 1922, Irish became an official language and was required in schools. Yet today, relatively few use it as their main daily language. One reason: in Palestine, immigrants arrived speaking many different languages, so Hebrew filled a real need as a common language. In Ireland, nearly everyone already shared English.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at6-17": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a philosophy class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In 1967, the British philosopher Philippa Foot published a brief thought experiment. A runaway tram is heading toward five workers on the track. The driver can steer onto a side track, where only one worker stands. Should he? Most people say yes. But Foot paired it with a second case. A judge can stop a deadly riot by framing and executing an innocent man. Again, one life against several, yet almost everyone says no. So what's the difference? Foot drew on distinctions between doing and allowing, and between intending and merely foreseeing. Later, in 1976 and again in 1985, the American philosopher Judith Jarvis Thomson pushed the puzzle further and gave it its name, the trolley problem. She introduced two famous variants. In the first, you're a bystander next to a switch, not the driver. In the second, you're on a footbridge above the track, and the only way to stop the trolley is to push a large man off the bridge onto the rails. Surveys consistently show that most people would pull the switch but would not push the man, though the numbers are identical. A common explanation is that pushing uses the man as a means, while switching merely foresees a death as a side effect. But here's a twist. In 2008, Thomson changed her mind. She argued that the bystander, unlike the driver, isn't permitted to switch either, because he'd be imposing a cost on someone else that he wouldn't accept himself.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at6-18": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a philosophy class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Here's a belief you hold with complete confidence: the sun will rise tomorrow. Why? Because it has risen every day so far. That kind of reasoning, from past cases to future ones, is called induction. In 1739, the Scottish philosopher David Hume asked a devastating question: what justifies it? Hume's argument works in two steps. Induction assumes that the future will resemble the past, that nature is uniform. So, step one: can we prove that assumption by pure logic? No. There's no contradiction in imagining that tomorrow the sun doesn't rise. It would be surprising, but it isn't logically impossible, the way a square circle is. Step two: can we prove it from experience? We could say the future has always resembled the past before. But that's itself an inductive argument. We'd be using induction to justify induction, which is circular. So Hume concluded that our expectations rest not on reason but on custom, or habit. After seeing one thing follow another many times, the mind simply expects it. Bertrand Russell later made the point vividly with a chicken. Fed every day, it confidently expects food, until the day the farmer wrings its neck instead. In the twentieth century, Karl Popper accepted Hume's argument but denied that science needs induction at all. Scientists, he said, don't prove theories from repeated observations; they propose bold theories and try to refute them. No number of fed days proves a theory, but one wrung neck can disprove it.",
+   "voice": "am_puck"
+  }
+ ],
+ "at6-19": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about philosophy.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Welcome back. Today's question: is there anything you can know with absolute certainty? In his 1641 Meditations on First Philosophy, René Descartes tried to answer this by doubting everything he possibly could. His strategy was like sorting a basket of apples: if you suspect some are rotten, you dump them all out and put back only the ones you're sure are good. He doubted in three stages, each stronger than the last. Stage one: the senses. They sometimes deceive us; a tower that looks round from far away turns out to be square up close. But surely I know I'm sitting by the fire, holding this paper? Which leads to stage two: dreaming. He has often dreamed exactly that, and there's no sure sign to tell dreaming from waking. Still, even in dreams, two plus three equals five. So, stage three: suppose there's an evil demon, as powerful as it is deceptive, fooling me even about mathematics. Now, what survives? Descartes noticed that even if he's being deceived, he must exist in order to be deceived. Whenever he thinks 'I am, I exist,' it must be true. The famous version, 'I think, therefore I am,' actually comes from an earlier book, his Discourse on Method, published in 1637. But was even that certain? The eighteenth-century German writer Georg Lichtenberg objected that Descartes was only entitled to say 'there is thinking,' the way we say 'it is raining.' The 'I' itself, Lichtenberg suggested, was an assumption sneaking in.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at6-20": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a psychology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Before the 1880s, most people assumed memory was too complex to measure scientifically. Then a German psychologist, Hermann Ebbinghaus, decided to try, using the only subject he had complete access to: himself. His key problem was that real words come with associations. If you learn the word 'apple,' it connects to everything you already know. So he invented over two thousand nonsense syllables, things like 'dax' or 'bok,' consonant, vowel, consonant, with no meaning at all. Then he memorized lists of them perfectly and tested himself after different delays. He didn't just ask, how many can I recall? He measured savings: how much less time it took to relearn the list compared with the first time. Even if you can't recall a single item, relearning might be faster, which shows something remained. His 1885 results produced what's called the forgetting curve. The drop is steep at first. Within about an hour, more than half the savings were gone. After a day, about two thirds. But then the curve flattens, so that a month later, he still retained around a fifth. He also found that spreading practice over several days was more efficient than cramming it into one session. Now, compare nonsense syllables with meaningful material. Ebbinghaus also memorized stanzas of a poem by Byron, and those took roughly a tenth of the effort. That points to a real limitation. The very thing that made his method precise, removing meaning, also made it unlike most real-world memory.",
+   "voice": "bm_fable"
+  }
+ ],
+ "at6-21": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a psychology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In 1932, the British psychologist Frederic Bartlett published a book called Remembering, taking a different approach from earlier memory research, which often used meaningless material to keep things controlled. Bartlett thought that missed the point. Real memory, he argued, is all about meaning. So he gave his participants, students at Cambridge, a Native American folk tale called 'The War of the Ghosts.' To a British reader, it's a strange story: two young men hunting seals hear war cries, join a war party in canoes, and one realizes his companions are ghosts. Bartlett used two methods. In repeated reproduction, the same person retold the story several times, after delays of minutes, months, even years. In serial reproduction, one person's version was passed to a second person, who retold it to a third, a bit like the children's game of telephone. Both methods produced the same kinds of changes. The story got shorter. Unfamiliar details were replaced with familiar ones: canoes became boats, and hunting seals became fishing. And the supernatural element, the ghosts, was often explained away or forgotten. Bartlett explained this with the concept of a schema, organized knowledge that shapes how we take in and recall information. We don't replay memories like a recording; we rebuild them using what we already expect. Now, a caveat. His instructions were informal, and some later researchers who asked participants to be as accurate as possible found fewer distortions. Still, his central claim, that remembering is reconstruction, is now widely accepted.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at6-22": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a sociology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Suicide seems like the most individual act imaginable. That's exactly why the French sociologist Émile Durkheim chose to study it. In his 1897 book, Suicide, he wanted to show that even this decision has social causes. He compared official statistics across countries and groups and found stable patterns. Suicide rates were higher among Protestants than Catholics, higher among unmarried people than married people, and, interestingly, they fell during wars and political crises. Individual psychology couldn't explain why whole groups differed so consistently, year after year. So Durkheim proposed two social forces. The first is integration, how strongly people are bound into a group. Too little integration produces what he called egoistic suicide. Protestantism, he argued, encouraged individual judgment and integrated people less than Catholicism. Too much integration, where the individual barely matters compared with the group, produces altruistic suicide, like a soldier sacrificing himself. The second force is regulation, how much society limits people's desires. Too little produces anomic suicide, from the word anomie, meaning normlessness. Strikingly, rates rose not only during economic crashes but also during sudden booms. Any rapid change loosens the rules that tell people what to expect. Too much regulation produces fatalistic suicide, which he barely discussed. Critics later raised a problem. Official statistics depend on who records a death as suicide. Where suicide carried strong religious stigma, as in many Catholic areas, families and officials may have reported fewer cases. So some of Durkheim's patterns may partly reflect recording, not reality.",
+   "voice": "bm_fable"
+  }
+ ],
+ "at6-23": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an economics class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In 1857, a German statistician named Ernst Engel studied the household budgets of about two hundred working-class families in Belgium. He noticed a regularity that's now called Engel's law: as a family's income rises, the share of income spent on food falls. Not the amount, the share. Richer families do spend more on food in total, but it takes a smaller fraction of their budget. The poorest families in his data spent around sixty to seventy percent of their income on food. It's one of the most reliable patterns in economics, holding across countries and time. In fact, it became a standard way to compare living standards. If you want to know how well-off a population is, look at its food share. Here's a famous application. In the early 1960s, an American economist named Mollie Orshansky needed a way to define poverty. She knew from a 1955 survey that a typical family spent about one third of its income on food. So she took the cost of a minimal food budget and multiplied it by three. That became the basis of the official US poverty line. But notice what Engel's law implies. As the country grew richer, the food share kept falling, well below one third. Yet the poverty line was mainly updated for inflation, not rebuilt from new spending patterns. So many economists argue that the multiplier of three is outdated, since housing, health care, and childcare now take a much bigger share of family budgets.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at6-24": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an economics class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In 1958, a New Zealand-born economist working in London, A. W. Phillips, published a study of British data covering nearly a century, from 1861 to 1957. He found a strikingly consistent relationship: when unemployment was low, wages rose quickly, and when unemployment was high, wages rose slowly or even fell. In 1960, the American economists Paul Samuelson and Robert Solow restated the idea in terms of prices. Plotting US data, they suggested a tradeoff between inflation and unemployment. Policymakers loved this, because it looked like a menu. Want lower unemployment? Accept a bit more inflation. Then, in 1968, Milton Friedman argued that the menu was an illusion, at least in the long run. His reasoning went in stages. Suppose the government stimulates the economy and inflation rises. At first, workers don't expect the higher inflation, so they accept wage offers that look generous, and unemployment falls. But in the second stage, workers notice that prices have risen, and they start demanding higher wages to keep up. Firms hire less, and unemployment drifts back to what Friedman called its natural rate. Now the economy has the same unemployment as before, but higher inflation. The 1970s seemed to confirm this. Many Western economies suffered high inflation and high unemployment at the same time, so-called stagflation, which the simple curve said shouldn't happen. Today, economists still use a Phillips curve, but one in which expectations play a central role. The tradeoff exists, but only temporarily.",
+   "voice": "am_puck"
+  }
+ ],
+ "at6-25": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a business class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In January 1914, the Ford Motor Company announced something that stunned American industry: it would pay workers five dollars a day. At the time, Ford's typical wage was about two dollars and thirty-four cents for a nine-hour day, so this roughly doubled pay, and it cut the workday to eight hours. Why? Let's go back one year. In 1913, Ford introduced the moving assembly line at its Highland Park plant. Productivity soared. But the work was monotonous and exhausting, and workers quit in huge numbers. Turnover that year reached about three hundred seventy percent. In other words, to keep a workforce of around fourteen thousand people, the company had to hire more than fifty thousand over the year. Every new worker had to be trained, and every departure slowed the line. So the five-dollar day was a business decision. And it worked. After it was introduced, turnover dropped dramatically and absenteeism fell. Henry Ford later called it one of the finest cost-cutting moves the company ever made. Economists call this an efficiency wage: paying above the market rate because it raises productivity. Now, there's a popular story that Ford raised wages so workers could afford to buy Ford cars. That might have been a small bonus, but most historians doubt it was the main reason. Ford's own workers were a tiny fraction of its customers. And there was a catch. To qualify, workers had to meet standards of personal behavior, checked by company investigators who visited their homes.",
+   "voice": "af_bella"
+  }
+ ],
+ "at6-26": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about business.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today: how Toyota changed the way factories think about inventory. After World War Two, American companies like Ford relied on mass production: make huge numbers of identical parts, store them in warehouses, and push them down the line, just in case they're needed. That requires lots of space and lots of capital, and Toyota had neither. An engineer named Taiichi Ohno, working from the late 1940s on, came up with an alternative. His inspiration, reportedly, was the American supermarket. In a supermarket, shelves aren't filled based on a forecast. A customer takes a can of soup, and only then does the store restock that can. So Ohno reversed the flow. Instead of pushing parts forward, each step pulls parts from the step before, only when needed. The signal was a simple card called a kanban. When a box of parts was used up, its card went back to the previous process, ordering exactly that many more. This became known as just-in-time production. A second idea was even older. In the 1920s, Sakichi Toyoda, the father of Toyota's founder, had invented a loom that stopped automatically when a thread broke. Ohno extended this: any worker could stop the entire line on spotting a defect. That sounds wasteful, but it meant problems were fixed immediately, not built into hundreds of cars. Now, just-in-time has a weakness. With almost no inventory, a single disruption can halt production. After the 2011 earthquake in Japan, Toyota itself began keeping larger stockpiles of critical parts.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at6-27": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an education class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Today: Maria Montessori, whose methods are still used worldwide. She didn't start as a teacher. In 1896, she became one of the first women in Italy to earn a medical degree, and her early work was with children who had intellectual disabilities. With carefully designed materials, these children learned far more than expected, which made her wonder about other children. Her chance came on January sixth, 1907, when she opened the Casa dei Bambini, the Children's House, in a poor district of Rome called San Lorenzo. The children came from working families in a new housing project. So what made her classroom different? Picture a typical school of the time: rows of fixed desks, a teacher at the front, every child doing the same task at the same moment. Montessori's room had child-sized tables and chairs that children could move. Children of different ages worked together, and they chose their own activities from shelves of materials. Many materials were self-correcting. For example, a wooden block with holes for cylinders of different sizes: if a child puts a cylinder in the wrong hole, one will be left over, so the child discovers the error without an adult. The teacher's job was mainly to observe and guide. Her ideas spread quickly to the United States around 1912, then collapsed. In 1914, the American educator William Kilpatrick published a critique calling her methods outdated and too narrow, and interest faded for decades. Not until the late 1950s did American Montessori schools return.",
+   "voice": "bf_emma"
+  }
+ ],
+ "at6-28": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an education class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "If you've taken a teacher-training course, you've probably seen a colorful pyramid labeled Bloom's taxonomy. But its real story is different from the pyramid. In 1956, a team led by the educational psychologist Benjamin Bloom published a framework that classified learning goals into six levels. From bottom to top: knowledge, comprehension, application, analysis, synthesis, and evaluation. The idea was that each level builds on the ones below it. You can't analyze something you don't comprehend. Now, here's the part people forget. The original purpose wasn't to guide teaching at all. It was to help university examiners. Examiners at different universities wanted to share test questions, and needed a common vocabulary for what each question measured. And the original handbook had no pyramid; that came later. Then, in 2001, a group including several of Bloom's former students and colleagues published a revision. They made two important changes. First, they turned the nouns into verbs: remember, understand, apply, analyze, evaluate, create. That emphasized what learners actually do. Second, they swapped the top two levels. Synthesis, now renamed create, moved to the very top, above evaluate. Their reasoning was that producing something new is generally more demanding than judging something that already exists. Some educators have questioned the hierarchy itself, though. The pyramid makes remembering look like the least important level. But you can't evaluate an argument about history without knowing a good deal of history. So critics argue that the lower levels aren't less valuable, just more basic.",
+   "voice": "bm_george"
+  }
+ ],
+ "at6-29": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a media studies class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "On the evening of October 30, 1938, the night before Halloween, CBS radio broadcast an adaptation of H. G. Wells's novel The War of the Worlds, produced by Orson Welles and his Mercury Theatre company. The clever twist was the format. Instead of simply narrating the story, the first part was presented as a series of news bulletins interrupting a music program: reports of explosions on Mars, then a strange object landing at a farm in Grovers Mill, New Jersey, then creatures emerging and attacking. The next morning, newspapers across the country carried headlines about mass panic: people fleeing their homes, jamming phone lines, crowding the roads. And in 1940, a Princeton researcher named Hadley Cantril published a study estimating that about six million people had heard the broadcast and more than a million had been frightened. For decades, it served as the classic example of media power. More recent historians have looked again, and the picture has changed. First, the audience was small. A ratings survey that night found only about two percent of respondents listening to the program; most people were tuned to a popular comedy show on another network. Second, the newspaper reports were mostly based on anecdotes, and many were quickly exaggerated. Why? Radio was their fast-growing competitor for advertising money, and a story about radio's irresponsibility served their interests. So, some people were frightened, certainly. But the mass panic was, to a large extent, a media creation itself, just not by radio.",
+   "voice": "af_heart"
+  }
+ ],
+ "at6-30": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a media studies class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In New York in the early 1830s, a daily newspaper usually meant a mercantile paper, full of shipping news, commodity prices, and political speeches. It cost six cents a copy, but usually you couldn't buy single copies; you paid an annual subscription of around ten dollars, more than many workers earned in a week. These papers were aimed at merchants and politicians, and many survived on support from political parties. Then, on September 3, 1833, a young printer named Benjamin Day launched the New York Sun, priced at one penny. Day changed three things at once. First, distribution: instead of subscriptions, boys sold the paper on street corners, one copy at a time. Second, content: instead of shipping lists, the Sun ran crime reports, stories from the police court, and human-interest tales about ordinary people. And third, the business model. At one cent, the paper couldn't make money from sales alone. Profit came from advertisers paying to reach a huge audience. Within a few years, the Sun had one of the largest circulations in the world. In 1835, it even ran articles claiming a famous astronomer had found creatures on the Moon, and sales jumped. So how should we judge the penny press? Historians used to see it mainly as the birth of sensationalism, and the Moon story supports that. But many now emphasize something else: by depending on advertisers and readers rather than parties, newspapers became more independent of politics, and news became something meant for everyone.",
+   "voice": "bm_fable"
+  }
+ ],
+ "at7-01": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a biology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "So, for the first half of the twentieth century, biologists believed that ordinary animal cells, given the right nutrients, could keep dividing in a dish forever. That belief came largely from a French surgeon, Alexis Carrel, who claimed he'd kept chicken heart cells growing for more than thirty years. In nineteen sixty-one, a researcher named Leonard Hayflick showed it wasn't true. Human fetal cells in his cultures divided roughly forty to sixty times, and then they just stopped. They didn't die; they entered a permanent retirement we call senescence. That ceiling became known as the Hayflick limit. But what was counting the divisions? The answer lies at the tips of our chromosomes, in structures called telomeres. A telomere is a short DNA sequence repeated over a thousand times, a bit like the plastic cap on a shoelace. Now, here's the mechanism, in three steps. First, every time a cell copies its DNA, the copying machinery can't quite reach the very end of the strand. Second, so with each division, the telomere gets shorter. Third, once it falls below a critical length, the cell reads that as damage and stops dividing. So why don't the cells that make sperm and eggs run out? They use an enzyme called telomerase, which rebuilds the caps. And cancer cells? Roughly eighty-five to ninety percent of them switch telomerase back on, which is partly why they divide indefinitely. As for Carrel's chicken cells? Most likely, fresh cells were added each time the cultures were fed.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at7-02": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a biology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Okay, here's a strange fact about your cells. Inside almost every one are hundreds, sometimes thousands, of mitochondria, the structures that produce most of the cell's usable energy. And mitochondria have their own DNA. Just thirty-seven genes in humans, but it's separate from the DNA in the nucleus, and it's arranged in a circular loop, the way bacterial DNA is. Why would that be? The explanation is called endosymbiotic theory. The modern version was laid out by Lynn Margulis in nineteen sixty-seven, and the idea is that mitochondria were once free-living bacteria. There were three stages. First, probably more than a billion and a half years ago, a larger cell engulfed a smaller bacterium, but instead of digesting it, kept it alive inside. Second, the two became partners: the bacterium used oxygen to release energy, and the host provided shelter and raw materials. Third, over countless generations, most of the bacterium's genes moved into the host's nucleus, so it could no longer live independently. Now, chloroplasts in plants have the same story, except their ancestors were cyanobacteria, bacteria that could photosynthesize. And the evidence lines up for both: double membranes, circular DNA, and ribosomes that resemble bacterial ones rather than ours. Here's what's interesting, though. Margulis's paper was reportedly rejected by about fifteen journals, and many biologists dismissed it as fanciful. Today, it's in every introductory textbook. The debate now isn't whether it happened, but exactly when, and what kind of cell did the swallowing.",
+   "voice": "bm_george"
+  }
+ ],
+ "at7-03": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an ecology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Here's a pattern naturalists noticed long before anyone explained it. Big islands have more species than small ones, and islands close to a mainland have more species than remote ones. In the nineteen sixties, two ecologists, Robert MacArthur and E. O. Wilson, turned that observation into a theory. Their key idea was that an island's species count reflects a balance between two processes: immigration, new species arriving, and extinction, species already there dying out. Now, distance mainly affects immigration. A bird or seed is far likelier to reach an island ten kilometers offshore than one a thousand kilometers out. Size mainly affects extinction, because small islands support small populations, and small populations are easily wiped out by a storm or a disease. So species numbers settle at an equilibrium. Then Wilson and his student Daniel Simberloff tested this directly. They chose tiny mangrove islands off the Florida Keys, each only about eleven to twenty-five meters across, covered them with tents, and fumigated them to remove every insect and spider. Within about a year, the islands had been recolonized, and here's the striking part: each one returned to roughly its original number of species, with the closest island again ending up with the most. But, and this is important, they weren't the same species as before. The total stayed about the same while the membership changed. Today, the theory is applied to mountaintops, lakes, and especially forest patches cut off by farms and roads, which behave a lot like islands.",
+   "voice": "bf_emma"
+  }
+ ],
+ "at7-04": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an ecology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "What happens to land after a disaster wipes it clean? Ecologists call the process succession, the gradual change in which species occupy a place over time. There are two kinds. Primary succession starts from bare rock or fresh lava, where there's no soil at all. The first arrivals, the pioneer species, are often lichens, which can cling to rock and slowly break it down. Then mosses take hold, then grasses, then shrubs, and eventually trees. That can take centuries, because the soil has to be built almost from nothing. Secondary succession is faster. It follows a fire, a flood, or an abandoned farm, where the soil survives, along with seeds and roots buried in it. An old field in New England, for instance, can go from weeds to a young pine forest in about thirty years. Now, for much of the twentieth century, ecologists, following Frederic Clements, described this as an orderly march toward a single stable endpoint, the climax community, like an organism growing up. But the eruption of Mount Saint Helens in nineteen eighty challenged that picture. Recovery didn't follow one script. In places, gophers that had survived underground churned up buried soil, and plants sprang up almost immediately. Elsewhere, a single lupine seed blown in started a patch that enriched the soil for others. So today ecologists see succession as far more variable, shaped by chance, by which survivors remained, and by repeated disturbance. It's less a staircase than a branching set of possible paths.",
+   "voice": "bm_george"
+  }
+ ],
+ "at7-05": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a zoology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "What do we mean when we say an animal hibernates? It's more than a long sleep. Hibernation is a state in which an animal deliberately lowers its metabolism, its body temperature, and its heart rate to survive a season when food is scarce. Let's compare two examples. The first is the arctic ground squirrel of Alaska. Its normal body temperature is around thirty-seven degrees Celsius, like ours. In hibernation, it falls below zero, to about minus three degrees, the lowest ever recorded in a mammal, and yet its blood doesn't freeze. Its heart slows from about two hundred beats a minute to a few. Now, here's the odd part. Every two or three weeks, the squirrel rewarms itself to normal temperature for about a day, then cools down again. These arousals burn most of its winter energy, and nobody's sure why they're needed, though one idea is that the brain and immune system need maintenance. The second example is the black bear. A bear's temperature drops only a few degrees, to around thirty-two or thirty-three. So for decades, many biologists said bears weren't true hibernators; they just entered a deep winter sleep. But when researchers measured bear metabolism directly, they found it falls to about a quarter of the normal rate, a drop far bigger than the small temperature change would predict. Bears also go months without eating or drinking, recycling their waste into protein. So the old distinction is mostly gone. Bears are hibernators, just at a warmer temperature.",
+   "voice": "bf_isabella"
+  }
+ ],
+ "at7-06": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about animal behavior.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Welcome back. Today's puzzle is one of nature's great navigation feats. A Pacific salmon hatches in a small stream, swims down to the ocean, and spends two to five years there, traveling thousands of kilometers. Then it returns, often to the exact stream where it hatched. How? In the nineteen forties, a biologist named Arthur Hasler had an idea while hiking. He came around a bend and recognized the smell of a waterfall from his childhood. Maybe salmon, he thought, do the same thing. Each stream has its own chemical signature. So his hypothesis worked in two steps. First, young salmon memorize the smell of their home stream before they leave, a process called imprinting. Second, as adults, they follow that smell upstream, choosing the right branch at each fork. And experiments supported it. When Hasler's team plugged the noses of returning salmon, the fish chose branches almost at random. Later, they raised young fish in water containing an artificial chemical, morpholine, and released them. Years later, those fish were drawn to streams that had been scented with morpholine. But smell has a limit. In the open ocean, far from the coast, there's no river odor to follow. So how do they find the right coastline? The current answer is magnetism. Studies of sockeye salmon suggest they also imprint on the magnetic field near the river mouth. So the picture now is a two-stage journey: a magnetic map for the ocean, and smell for the final stretch.",
+   "voice": "bm_george"
+  }
+ ],
+ "at7-07": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a botany class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Okay, photosynthesis has a built-in flaw. The enzyme that captures carbon dioxide, called rubisco, is probably the most abundant protein on Earth, but it's surprisingly sloppy. It sometimes grabs oxygen instead of carbon dioxide, and that mistake, called photorespiration, wastes energy. It gets worse when it's hot and dry, because in heat, plants close their stomata, the tiny pores on their leaves, to save water. That means less carbon dioxide gets in, so rubisco grabs oxygen more often. Some plants have evolved two main workarounds. The first is C4 photosynthesis, used by corn and sugarcane. These plants separate the work in space. Cells near the leaf surface capture carbon dioxide using a different enzyme, one that ignores oxygen, and pack it into a four-carbon molecule. That's where the name comes from. Then it's shuttled to cells deeper inside the leaf, where the carbon dioxide is released at high concentration, right next to rubisco. The second is CAM, used by cacti and pineapples. These plants separate the work in time. They open their stomata only at night, when it's cool, store the carbon dioxide as an acid, and then close up during the day and use that stored carbon for photosynthesis. You might expect such systems to be common. They're not. Only about three percent of plant species use C4. And yet, those few species account for nearly a quarter of all the photosynthesis on land. Even more surprising, C4 didn't evolve once. It appeared independently more than sixty times.",
+   "voice": "af_bella"
+  }
+ ],
+ "at7-08": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a botany class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Charles Darwin called the Venus flytrap one of the most wonderful plants in the world. It grows wild only in a small area of the Carolinas, in boggy soil that's very poor in nitrogen. So it gets nitrogen another way: by catching insects. Compare it with a more common strategy, the pitcher plant. A pitcher plant is passive. Its leaves form a deep, slippery tube, often with sweet nectar near the rim. Insects fall in, can't climb out, and drown. Nothing moves. The flytrap, on the other hand, actively snaps shut. Each lobe of the trap has three tiny trigger hairs. Here's the clever part: touching one hair once does nothing. The trap closes only if hairs are touched twice within about twenty seconds. In effect, the plant counts. So a raindrop, which touches just once, doesn't waste a closure. After two touches, the trap shuts in about a tenth of a second. And if the insect keeps struggling and triggers the hairs three more times, so five in total, the trap seals tightly and begins releasing digestive enzymes. If nothing struggles, it reopens in a day or so. How does a plant without muscles move that fast? Botanists long assumed it was mainly water rushing between cells. Water plays a role, but in two thousand five, physicists showed the key is the shape of the leaf. The lobes curve outward, under tension, and when triggered, they suddenly flip to curve inward, like a contact lens popping inside out.",
+   "voice": "am_puck"
+  }
+ ],
+ "at7-09": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a physiology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "If you've eaten chicken, you've noticed the breast meat is white and the leg meat dark. That's a great introduction to muscle fiber types. Skeletal muscle contains two broad kinds of fibers. Type one, or slow-twitch fibers, contract relatively slowly, but they can keep going for hours. They're packed with mitochondria and with a red, oxygen-storing protein called myoglobin, which is what makes them dark. Type two, or fast-twitch fibers, contract two or three times faster and more forcefully, but they rely mainly on energy sources that don't need oxygen, so they tire within seconds to minutes. They have less myoglobin, so they look pale. Now, back to the chicken. A chicken walks around all day, so its legs are rich in slow-twitch fibers. But it flies only in short, explosive bursts to escape danger, so its breast is mostly fast-twitch. Compare that with a duck or a goose. Those birds migrate long distances, and sure enough, their breast meat is dark. Humans show a similar pattern. In the calf muscles of elite marathon runners, as much as eighty percent of fibers may be slow-twitch, while top sprinters often have the reverse. So, does training create these differences? But the evidence suggests your basic proportion is largely inherited. Training improves how well each fiber works, and it can shift fast fibers from one subtype to another, but turning fast fibers into slow ones happens only to a limited degree. Champions are partly made, and partly born.",
+   "voice": "bf_emma"
+  }
+ ],
+ "at7-10": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about the human body.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi everyone, welcome back. Today: how does a seal hold its breath for over an hour? The Weddell seal of Antarctica regularly dives to a few hundred meters, and its record dives last more than eighty minutes and reach about six hundred meters deep. A trained human diver might manage a few minutes. You'd probably guess the seal takes a huge breath. Actually, it does the opposite. It breathes out before diving. Its lungs collapse under the pressure, which keeps nitrogen from dissolving into its blood and protects it from the bends. So where's its oxygen? Mostly in the blood and muscles. A seal has roughly twice as much blood per kilogram as we do, and its muscles are so full of myoglobin they look almost black. Then, once it submerges, a set of responses called the diving reflex kicks in, in three steps. First, its heart rate drops sharply, sometimes to a small fraction of its resting rate. Second, blood vessels to the skin, gut, and muscles constrict, so the limited oxygen goes mainly to the brain and heart. Third, the spleen contracts, squeezing a reserve of red blood cells into circulation. Here's what surprised me. Humans have this reflex too, just a weaker version. Put your face in cold water, and your heart rate slows within seconds. And among the Bajau people of Southeast Asia, who've dived for food for generations, researchers found spleens about fifty percent larger than those of their non-diving neighbors.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at7-11": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a medicine class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Vaccination didn't start in a laboratory. It started with a risky practice called variolation. For centuries, in parts of Asia and Africa, people deliberately infected healthy individuals with material from a smallpox sore, usually scratched into the skin. This generally produced a milder case, followed by lifelong immunity. It wasn't safe, though. About one or two percent of variolated people died, compared with roughly thirty percent of those who caught smallpox naturally. The practice reached England in seventeen twenty-one, largely through Lady Mary Wortley Montagu, who'd seen it in Constantinople. Then came the decisive step. Country people had long noticed that milkmaids who caught cowpox, a mild disease from cattle, seemed never to get smallpox. In seventeen ninety-six, the English doctor Edward Jenner tested this. He took material from a cowpox sore on a milkmaid's hand and inoculated an eight-year-old boy, James Phipps. Weeks later, he exposed the boy to smallpox. Nothing happened. The boy was protected without ever having had smallpox itself. That's where our word vaccine comes from: vacca is Latin for cow. Now, textbooks often call Jenner the inventor of vaccination. That's not quite fair. In seventeen seventy-four, twenty-two years earlier, a farmer named Benjamin Jesty had inoculated his wife and two sons with cowpox during an outbreak. What Jenner did differently was test the idea deliberately, document it, and publish it, so others could repeat it. And that's what eventually led to smallpox being declared eradicated in nineteen eighty.",
+   "voice": "bf_emma"
+  }
+ ],
+ "at7-12": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a medicine class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Until the nineteen eighties, medical students learned that stomach ulcers were caused by stress, spicy food, and too much acid. Patients were told to relax and take antacids, and the ulcers often returned. Doctors also assumed the stomach was sterile. With a pH of around one or two, it seemed far too acidic for bacteria to survive. Then, in Perth, Australia, a pathologist named Robin Warren began noticing curved bacteria in stomach tissue samples, almost always where the lining was inflamed. A young doctor, Barry Marshall, joined him to test whether the bacteria caused it. At first, they couldn't grow the bacteria in the lab. Culture plates were routinely thrown out after two days. But over the Easter holiday in nineteen eighty-two, some plates were left for five days, and finally there were colonies. The bacterium simply grew slowly. It was later named Helicobacter pylori. How does it survive the acid? It burrows into the mucus lining the stomach and produces an enzyme, urease, that generates ammonia, which neutralizes the acid around it. Few experts believed them, so in nineteen eighty-four, Marshall drank a culture of the bacteria himself. Within about a week he was vomiting, and a biopsy showed severe inflammation. Eventually, the evidence won, ulcers became curable with antibiotics, and in two thousand five, the two men shared the Nobel Prize. One caution, though: the bacterium isn't the whole story. Most infected people never develop an ulcer, and painkillers like aspirin cause many ulcers on their own.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at7-13": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a geology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In nineteen twelve, the German meteorologist Alfred Wegener proposed something outrageous: that the continents had once been joined in a single landmass and had since drifted apart. He called that supercontinent Pangaea. His evidence was threefold. First, the coastlines of South America and Africa fit together like puzzle pieces. Second, fossils of the same species turned up on continents now separated by oceans. The best example is Mesosaurus, a small reptile that lived in fresh water, found in both Brazil and southern Africa. It didn't swim the Atlantic. Third, ancient glaciers had left traces in now-tropical places like India. Yet geologists rejected him for decades, because he couldn't explain how it happened. He suggested continents plowed through the ocean floor, pushed by forces linked to Earth's rotation, which physicists showed were far too weak. After the Second World War, the ocean floor was mapped. Researchers found a mountain range down the middle of the Atlantic, with a rift valley along its center. And when ships towed magnetic instruments across it, they found stripes of rock magnetized in alternating directions, a record of Earth's magnetic field flipping over time. Crucially, the stripes were symmetrical on both sides of the ridge. New sea floor was forming at the ridge and spreading outward, a few centimeters a year, about as fast as fingernails grow. So Wegener was right that continents move, but wrong about how. They don't plow through the sea floor; they ride along with it, as parts of larger plates.",
+   "voice": "af_sarah"
+  }
+ ],
+ "at7-14": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a geology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "How do geologists know a rock is, say, two billion years old? The answer is radiometric dating, and it depends on one key fact. Radioactive atoms break down at a steady, predictable rate, unaffected by heat, pressure, or chemistry. We describe that rate by the half-life, the time it takes for half the atoms in a sample to decay. The most famous method, carbon dating, is also the most misunderstood. Carbon fourteen has a half-life of about five thousand seven hundred thirty years. Living things absorb it constantly, and when they die, the clock starts. But after about fifty thousand years, so little remains that it can't be measured. So carbon dating is useless for dinosaurs, which died out sixty-six million years ago. For really old rocks, geologists use uranium, and the favorite tool is a tiny crystal called zircon. Here's how it works. First, when a zircon crystal forms from cooling magma, it readily takes uranium into its structure but almost completely rejects lead. Second, over time, uranium two thirty-eight decays into lead, with a half-life of about four and a half billion years. Third, a geologist measures the ratio of lead to uranium in the crystal. Since the crystal started with essentially no lead, all the lead must have come from decay. Zircons from Western Australia have been dated this way to about four point four billion years, among Earth's oldest materials. And dinosaur bones? They're dated indirectly, by dating volcanic ash layers above and below them.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at7-15": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about ocean science.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Welcome back. Today's topic is the tide. Most coastlines get two high tides and two low tides a day, and each high tide arrives about fifty minutes later than the day before. That's a clue the Moon is involved, because the Moon also rises about fifty minutes later each day. Now, the Moon's gravity pulls on the ocean, creating a bulge of water on the side of Earth facing it. But there's also a second bulge on the opposite side, facing away. Why? Because the Moon pulls hardest on the near side, less on Earth's center, and least on the far side. So the far-side water is essentially left behind. Earth rotates through both bulges, giving two high tides. What about the Sun? Its pull on Earth is much stronger than the Moon's, yet its effect on tides is only about half as large. That's because tides depend on the difference in pull from one side of Earth to the other, and that difference fades quickly with distance. When the Sun, Moon, and Earth line up, at new moon and full moon, their effects add together, giving extra-high spring tides. That has nothing to do with the season. At half moon, they work against each other, producing weaker neap tides. In the open ocean, the tide is often under a meter. But in Canada's Bay of Fundy it can reach sixteen meters, because water sloshes back and forth in the bay at nearly the same rhythm as the tide itself.",
+   "voice": "af_sarah"
+  }
+ ],
+ "at7-16": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an oceanography class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In nineteen seventy-seven, geologists took the submersible Alvin down about two and a half kilometers to a volcanic ridge near the Galápagos Islands. They were looking for hot springs on the sea floor, and they found them. What they didn't expect was life: clams the size of dinner plates, mussels, and, most striking, giant tube worms, some nearly two meters long, with bright red plumes. With no biologists aboard, they reportedly preserved specimens in vodka. This was a shock, because at that depth there's no sunlight, and nearly every food chain we knew began with photosynthesis. So what were these animals eating? The answer is chemosynthesis. The vent water is loaded with hydrogen sulfide, the gas that smells like rotten eggs. Certain bacteria get energy by breaking it down, and they use that energy to build sugars from carbon dioxide, the way plants use sunlight. Tube worms are remarkable. An adult has no mouth and no gut at all. Instead, it houses billions of these bacteria inside its body. Its red plume, colored by a special hemoglobin, absorbs sulfide and oxygen from the water and delivers them to the bacteria, which in turn feed the worm. Two years later, explorers found even hotter vents, called black smokers, pouring out water at over three hundred fifty degrees Celsius. Now, it's often said that vent life is completely independent of the Sun. That's not quite right. The bacteria need oxygen, and that oxygen originally came from photosynthesis near the surface.",
+   "voice": "bm_george"
+  }
+ ],
+ "at7-17": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a meteorology class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "So, what's actually happening in a lightning strike? It starts with a separation of electric charge inside a thunderstorm cloud. Strong updrafts carry droplets high up, where they freeze. Mid-cloud, small ice crystals rising in the updraft collide with heavier pellets of soft hail called graupel. In those collisions, the ice crystals usually end up positively charged and get carried to the top of the cloud, while the graupel becomes negatively charged and sinks toward the bottom. So the base of the cloud becomes strongly negative. Air is normally a good insulator, so the charge builds until it overcomes that resistance. The strike itself happens in stages. First, a faint channel of charged air, called a stepped leader, zigzags down from the cloud in jumps of about fifty meters. Second, as it nears the ground, tall objects, a tree, a tower, send up a streamer of positive charge to meet it. Third, once they connect, a huge current surges through the channel. That's the return stroke, and it's the bright flash you actually see. Interestingly, it travels upward, from ground to cloud, too fast for our eyes to tell. The return stroke heats the air to around thirty thousand degrees Celsius, about five times hotter than the surface of the Sun. The air expands so violently that it creates a shock wave: thunder. And the saying that lightning never strikes the same place twice is simply false. The Empire State Building gets hit about twenty times a year.",
+   "voice": "af_bella"
+  }
+ ],
+ "at7-18": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about weather.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hey everyone. Today's story is about a river of wind, and a scientist the world almost forgot. In the nineteen twenties, a Japanese meteorologist named Wasaburo Ooishi ran an observatory north of Tokyo. He launched about thirteen hundred weather balloons and tracked them as they rose. He found that high up, around nine to twelve kilometers, a powerful wind blew steadily from west to east, far stronger than anything at the surface. He published his results in Esperanto, the international language he championed, and almost no one outside Japan read them. Then came the Second World War. Japan used Ooishi's findings to launch around nine thousand balloons carrying bombs toward North America, and some crossed the Pacific in about three days. At the same time, American bomber pilots flying high over Japan ran into headwinds of more than two hundred kilometers an hour, so strong their planes almost stood still over the ground. That's how the rest of the world discovered what we now call the jet stream. What drives it? The contrast between cold polar air and warm tropical air. Where they meet, the temperature difference creates a strong pressure difference high in the atmosphere, and the wind races along that boundary. That's why it's strongest in winter, when the contrast is greatest. Flights from New York to London are often an hour shorter than the return trip. But forecasters stress that it isn't a straight, steady river. It meanders in huge waves, and those bends steer storms.",
+   "voice": "bm_george"
+  }
+ ],
+ "at7-19": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an astronomy class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Every star eventually runs out of fuel. What's left afterward depends mostly on the star's mass. Take a star like our Sun. In about five billion years, it'll swell into a red giant, then gently shed its outer layers into space. What remains is the core, a white dwarf. A white dwarf packs about as much mass as the Sun into something the size of Earth. A teaspoonful would weigh tons. What keeps it from collapsing further? Not heat, but a quantum effect: electrons resist being squeezed into the same state, and that resistance holds the star up. Now, in nineteen thirty, a nineteen-year-old Indian student named Subrahmanyan Chandrasekhar was on a ship sailing to England, and he worked out that this resistance has a limit. Above about one point four times the mass of the Sun, the electrons can't hold out, and gravity wins. That's the Chandrasekhar limit. Back then, though, the most famous astronomer in Britain, Arthur Eddington, publicly mocked the idea. He was sure nature wouldn't let a star collapse endlessly. So what happens to cores above the limit? They come from much heavier stars, roughly eight or more times the Sun's mass. Their cores collapse in under a second, triggering a supernova, and leave behind either a neutron star, only about twenty kilometers across, or, if heavy enough, a black hole. Chandrasekhar turned out to be right, and in nineteen eighty-three, more than fifty years later, he won the Nobel Prize for this work.",
+   "voice": "af_bella"
+  }
+ ],
+ "at7-20": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an astronomy class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In nineteen sixty-four, two radio astronomers at Bell Labs in New Jersey, Arno Penzias and Robert Wilson, had a problem with their antenna. It was a horn-shaped receiver built for satellite communication, and wherever they pointed it, they picked up a faint hiss of microwave noise. Day or night, every direction, the same. Naturally, they blamed the equipment. They even evicted nesting pigeons and scrubbed off what they politely called white dielectric material. The noise didn't change. Nearby, at Princeton, a team led by Robert Dicke was building an instrument to look for exactly this signal. Their reasoning: if the universe began in a hot, dense state, then about three hundred eighty thousand years later it would've cooled enough for atoms to form, and at that moment light could finally travel freely. That ancient light should still be everywhere, but stretched by the expansion of the universe into microwaves. Hearing the Bell Labs result, Dicke reportedly told his team, well, boys, we've been scooped. Why did this matter? At the time, the Big Bang had a serious rival, the steady-state theory, which said the universe had no beginning and always looked the same. That model had no natural way to produce a uniform glow at about three degrees above absolute zero. The Big Bang predicted it. Later satellites added a twist: the glow isn't perfectly uniform. It varies by about one part in a hundred thousand, and those tiny ripples were the seeds of galaxies.",
+   "voice": "bm_george"
+  }
+ ],
+ "at7-21": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a physics class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In eighteen twenty-seven, the Scottish botanist named Robert Brown was looking through his microscope at pollen grains suspended in water. Well, actually, at tiny particles that had come out of the pollen grains. And he noticed they were jiggling constantly, darting this way and that, never settling down. His first thought, natural for the time, was a life force, since the particles came from living plants. So he tested that idea. He examined pollen dried and stored for over a century. It jiggled. Then he tried things that had never been alive: powdered glass, ground-up rock, even dust from a fragment of the Sphinx. Everything small enough jiggled. So it wasn't life. We now call it Brownian motion. For nearly eighty years, nobody had a convincing answer. Remember, even in the late eighteen hundreds, some respected scientists doubted that atoms really existed. They saw them as a useful fiction for doing chemistry. Then, in nineteen oh five, Albert Einstein offered an explanation. A particle in water is constantly struck by water molecules from all sides. At any instant, slightly more hit one side than the other, so it gets nudged randomly. Einstein went further and predicted exactly how far a particle should drift over time. Three years later, a French physicist, Jean Perrin, carefully tracked particles under a microscope and found that Einstein's predictions matched. He could even estimate how many molecules a given amount of substance contains. After that, the doubters gave up. Atoms were real.",
+   "voice": "af_bella"
+  }
+ ],
+ "at7-22": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a physics class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In nineteen eleven, the Dutch physicist named Heike Kamerlingh Onnes was studying how metals behave at extremely low temperatures. He'd recently become the first to liquefy helium, which boils at about four degrees above absolute zero, so he could go colder than anyone before him. He cooled a thread of mercury, and as the temperature dropped, its electrical resistance did what you'd expect: it decreased gradually. Then, at about four point two kelvin, it didn't just get small. It vanished, all at once. He called it superconductivity. It really is zero. Current in a superconducting loop has flowed for years with no measurable loss. Then, in nineteen thirty-three, researchers found a second property. A superconductor pushes magnetic fields out of itself. That's called the Meissner effect, and it's why you can make a magnet float above one. For decades, the big limitation was temperature. Every known superconductor had to be cooled with expensive liquid helium, and many physicists believed the effect couldn't survive much above thirty kelvin. Then, in nineteen eighty-six, two researchers in Switzerland, Georg Bednorz and Alex Müller, found superconductivity in a ceramic, a copper oxide, at around thirty-five kelvin. Ceramics, materials usually thought of as poor conductors! Within a year, others found a related ceramic that worked at ninety-two kelvin. That's above seventy-seven kelvin, the boiling point of liquid nitrogen, which is about as cheap as milk. And here's the humbling part: almost forty years later, physicists still don't fully agree on why these ceramics work.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at7-23": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a chemistry class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "By the eighteen sixties, chemists knew of about sixty-three elements, and several had noticed patterns. But it was the Russian chemist Dmitri Mendeleev, in eighteen sixty-nine, who produced the table that stuck. He arranged the elements by atomic weight and grouped together those with similar chemical properties. Two bold decisions set his table apart. First, he left gaps. Where no known element fit, he didn't force one in; he said an undiscovered element belonged there, and he predicted its properties. For a gap below aluminum, he described an element he called eka-aluminum, with a density of about five point nine grams per cubic centimeter. In eighteen seventy-five, a French chemist discovered gallium, and it matched almost perfectly, except that he measured its density as four point seven. Mendeleev wrote back, essentially saying, your sample's impure, measure again. He did, and got five point nine. Second, Mendeleev occasionally broke his own rule. Tellurium is slightly heavier than iodine, but he put tellurium first, because iodine's properties clearly matched the next column. He assumed the atomic weights must be wrong. But the weights were right. The real explanation came in nineteen thirteen, when a young British physicist, Henry Moseley, used X-rays to show that each element has a characteristic number, the atomic number, which we now know is the number of protons. Ordered by atomic number, tellurium comes before iodine naturally. So the table's true organizing principle wasn't weight at all. Mendeleev had the right order for the wrong reason.",
+   "voice": "af_heart"
+  }
+ ],
+ "at7-24": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about the history of science.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Welcome back. Today's story is about a tiny number that wouldn't go away. In the eighteen nineties, the English physicist Lord Rayleigh was precisely measuring the densities of gases, and noticed something odd about nitrogen. Nitrogen taken from the air, after removing oxygen, water, and carbon dioxide, was slightly heavier than nitrogen made from chemical compounds like ammonia, by about half a percent. Most people would've called that experimental error. Rayleigh didn't. He repeated the measurements, got the same gap, and wrote to the journal Nature asking readers to explain it. The chemist William Ramsay took up the challenge. His approach had three steps. First, he took nitrogen from the air. Second, he passed it repeatedly over hot magnesium, which reacts with nitrogen and removes it. Third, he examined what was left. About one percent of the gas refused to react. When he looked at its light through a spectroscope, he saw lines that matched no known element. They named it argon, from the Greek word for lazy. That created a headache: there was no place for it on the periodic table. The solution was an entirely new column, and within a few years Ramsay had found the rest of the family: helium, neon, krypton, and xenon. Both men won Nobel Prizes in nineteen oh four. Here's the twist. Back in seventeen eighty-five, Henry Cavendish had done a similar experiment and found a tiny bubble of air that wouldn't react. He recorded it, and nobody followed it up.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at7-25": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a materials science class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Diamond and the graphite in your pencil are both pure carbon. Yet diamond is the hardest natural material known, and graphite is soft enough to mark paper. Why? It comes down to bonding. In diamond, every carbon atom is bonded to four neighbors, in a rigid three-dimensional network. There's no easy direction to break it. And since all of each atom's outer electrons are locked into bonds, diamond doesn't conduct electricity. In graphite, each carbon bonds to just three neighbors, forming flat sheets of hexagons, like chicken wire. The sheets are strong, but they're stacked loosely, held by weak forces, so they slide over each other. That's why graphite works as a lubricant, and why it rubs off onto paper. And because each atom has one electron left over, free to move, graphite conducts electricity. Here's a surprise. At normal surface conditions, graphite, not diamond, is the more stable form. A diamond is technically turning into graphite, just so slowly you'd never notice in a billion years. Now, what if you peeled graphite down to a single sheet, one atom thick? That's graphene. For decades, many physicists argued a sheet that thin would be unstable and crumple. Then, in two thousand four, two researchers in Manchester, Andre Geim and Konstantin Novoselov, made it using ordinary sticky tape, peeling layers off graphite again and again. Graphene turned out to be among the strongest materials ever tested, and it won them the Nobel Prize in twenty ten.",
+   "voice": "af_sarah"
+  }
+ ],
+ "at7-26": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a materials science class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Why does an iron gate rust away while an aluminum ladder left outside for years looks fine? Both metals react with oxygen; the difference is what happens next. When iron reacts with oxygen and water, it forms rust, iron oxide, and rust is flaky and porous. It takes up more space than the original metal, so it cracks and falls off, exposing fresh iron underneath, and the process continues. Aluminum also forms an oxide, but it's a thin, tightly attached film that seals the surface, so oxygen can't reach the metal below. Engineers call this passivation. Stainless steel borrows aluminum's trick. In nineteen thirteen, in Sheffield, England, metallurgist Harry Brearley was seeking a gun-barrel steel that wouldn't wear away. As the story goes, he noticed that some rejected samples, thrown on a scrap pile, hadn't rusted. They contained a lot of chromium. Once steel has more than about ten and a half percent chromium, the chromium reacts with oxygen to form an invisible oxide layer only a few nanometers thick. Remarkably, if you scratch it, the layer re-forms within moments, as long as oxygen is around. It heals itself. But the name is a bit misleading. Stainless steel isn't stain-proof. Salt is its weakness. Chloride ions, in seawater or even swimming-pool air, can break through the film at tiny points and eat small, deep holes into the metal. That's called pitting. So for boats and coastal structures, engineers add another element, molybdenum, to toughen the film.",
+   "voice": "bm_fable"
+  }
+ ],
+ "at7-27": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a structural engineering class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "On November seventh, nineteen forty, the Tacoma Narrows Bridge in Washington State twisted itself apart in a wind of only about sixty-five kilometers an hour. Open for just four months, it was a suspension bridge with a main span of over eight hundred meters, but its deck was unusually thin and narrow, only about two point four meters deep, much shallower than earlier designs. That made it elegant and cheap, but flexible. Even in light winds, the deck rose and fell in waves, so much that locals nicknamed it Galloping Gertie, and people drove across it for the thrill. On the final morning, though, the motion changed. After a cable connection slipped, the deck stopped simply moving up and down and started twisting, one side rising as the other fell. Within about an hour, the center span tore loose and fell. For decades, physics textbooks called this the classic example of resonance: the idea that the wind pushed at exactly the bridge's natural frequency, like a child being pushed on a swing. But engineers point out a problem: a steady wind doesn't push in rhythm. The accepted explanation now is aeroelastic flutter. As the deck twisted, its changing angle altered how the wind struck it, and that pushed it to twist even further. The motion fed itself, drawing more and more energy from a steady wind. Today, models of major bridges are tested in wind tunnels, and the replacement bridge was built with a much deeper, stiffer deck.",
+   "voice": "bf_emma"
+  }
+ ],
+ "at7-28": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in an aerospace engineering class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "How does a wing produce lift? You've probably heard this. The wing's top is curved and its bottom flat, so air over the top travels farther. Since the air above and below has to meet again at the back edge at the same time, the top air must go faster, and faster air has lower pressure, so the wing is pushed up. It's in many textbooks, and its key step is wrong. There's no physical law saying the two streams have to meet at the back. In wind tunnels with puffs of smoke, the air over the top actually arrives well before the air underneath. So the top air is faster, much faster than predicted, but not for that reason. Two cases defeat the textbook version. First, stunt planes can fly upside down, with the curved side facing the ground. Second, a paper airplane has completely flat wings, and it flies fine. So what's going on? The key is the angle of attack, the angle between the wing and the oncoming air. A wing tilted slightly upward, helped by its curved shape, turns the airflow downward. If the wing pushes air down, the air pushes the wing up. That's Newton's third law. The pressure difference is just another description of the same flow. More angle gives more lift, but only up to a point. At around fifteen degrees, the air can no longer follow the top surface. It breaks away, lift drops suddenly, and the wing stalls.",
+   "voice": "am_fenrir"
+  }
+ ],
+ "at7-29": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk in a computer science class.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "In the late nineteen forties, the mathematician Richard Hamming, at Bell Labs, could use an early relay computer only on weekends. The machine could detect errors, but all it could do was abandon the job and move on. Hamming came back two weekends in a row to find his work dumped. He asked, essentially, if the machine can tell something's wrong, why can't it tell where, and fix it? The standard trick then was a parity bit. You add one extra bit so the total number of ones is always even. If a single bit flips, the count becomes odd, and you know there's an error. But you don't know which bit. Another option was sending every bit three times and take a majority vote. That does correct errors, but it triples the amount of data. Hamming found a middle path. In his best-known code, you take four bits of data and add three parity bits, so seven in total. The trick is that each parity bit checks a different, overlapping group of positions. When a bit flips, some checks fail and others pass, and that pattern of failures spells out, in binary, the exact position of the bad bit. Flip it back, and the error's corrected. Published in nineteen fifty, versions of it still protect computer memory. Now, Hamming's code fixes only one error at a time. Modern codes, like those in QR codes, can recover data even when about thirty percent of the symbol is damaged.",
+   "voice": "bf_emma"
+  }
+ ],
+ "at7-30": [
+  {
+   "pause": 0.8,
+   "text": "Listen to a talk on a podcast about technology.",
+   "voice": "am_michael"
+  },
+  {
+   "speed": 0.85,
+   "text": "Hi everyone. Today: packet switching, the idea that makes the internet work. Start with the old telephone network. A call got a dedicated circuit, a continuous connection reserved for the whole call, even during long silences. That's called circuit switching, and for voice, it works. But computers don't talk like people. They send data in short bursts with long gaps, so a reserved line would sit idle most of the time. In the early nineteen sixties, an engineer at the RAND Corporation, Paul Baran, proposed something different. A few years later, Donald Davies in Britain came up with nearly the same idea independently, and he's the one who coined the word packet. Here's how it works. First, a message is broken into small pieces, each labeled with its destination. Second, each piece travels through the network on its own, and two pieces of the same message might take completely different routes. Third, the receiving computer puts them back in order. If a link fails, packets simply go around it. Telephone engineers were skeptical; one reportedly told Baran it wouldn't work. But in nineteen sixty-nine, the ARPANET sent its first message, from UCLA to a research institute in northern California. They tried to type the word login. The system crashed after two letters, L and O. You've probably heard the ARPANET was built to survive a nuclear war. That was Baran's motivation, yes. But the people who funded ARPANET mainly wanted researchers to share expensive computers.",
+   "voice": "am_fenrir"
   }
  ],
  "cr-a-001": [
