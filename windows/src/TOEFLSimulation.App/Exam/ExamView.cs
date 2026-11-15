@@ -71,6 +71,9 @@ public sealed partial class ExamView : UserControl
         Render();
     }
 
+    /// <summary>The running session, for the CI smoke test (<see cref="SmokeTest"/>).</summary>
+    internal TOEFLExamSession SessionForTesting => session;
+
     /// <summary>Stops audio, recording, and timers when the test closes (called by <see cref="ExamLauncher"/>).</summary>
     public void Shutdown()
     {
