@@ -4,3 +4,7 @@ DerivedData/
 *.xcuserstate
 xcuserdata/
 *.m4a
+windows/**/bin/
+windows/**/obj/
+windows/**/*.user
+windows/.vs/
