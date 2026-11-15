@@ -133,6 +133,8 @@ public sealed class SpeakingRecorder : ISpeakingRecorder, INotifyPropertyChanged
                     WaveFormat = new WaveFormat(SampleRate, 16, 1),
                     BufferMilliseconds = 80,
                     NumberOfBuffers = 3,
+                    // WAVE_MAPPER: the microphone chosen as the default in Windows sound settings.
+                    DeviceNumber = -1,
                 };
             }
             finally
@@ -149,7 +151,16 @@ public sealed class SpeakingRecorder : ISpeakingRecorder, INotifyPropertyChanged
             }
             capture.DataAvailable += OnDataAvailable;
             capture.RecordingStopped += (_, _) => capture.Dispose();
-            capture.StartRecording();
+            try
+            {
+                capture.StartRecording();
+            }
+            catch (NAudio.MmException)
+            {
+                // Some drivers reject the mapper; fall back to the first device.
+                capture.DeviceNumber = 0;
+                capture.StartRecording();
+            }
             PermissionDenied = false;
             LastRecordingPath = path;
             IsRecording = true;
