@@ -29,3 +29,7 @@ The bundled `WordPronunciations.pack` (one pronunciation clip per headword, `af_
 The application bundles normalized vocabulary records derived from the project owner's authorized study sources. The original PDFs and books remain outside the distributed application and repository. See `SOURCES.md` for the inventory and provenance notes.
 
 TOEFL® and ETS® are registered trademarks of ETS. This independent project is not endorsed or approved by ETS.
+
+## Windows version
+
+The Windows build (in `windows/`) uses these MIT-licensed components: [Windows App SDK / WinUI 3](https://github.com/microsoft/WindowsAppSDK), [CommunityToolkit.Mvvm](https://github.com/CommunityToolkit/dotnet), and the .NET runtime. The TOEFL build also uses [NAudio](https://github.com/naudio/NAudio) (MIT) for microphone recording, [Whisper.net](https://github.com/sandrohanea/whisper.net) (MIT) with [whisper.cpp](https://github.com/ggml-org/whisper.cpp) (MIT), and the OpenAI Whisper `base.en` model in ggml format (MIT) for on-device Speaking transcription.

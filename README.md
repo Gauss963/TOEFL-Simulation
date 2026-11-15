@@ -58,6 +58,10 @@ See [SOURCES.md](SOURCES.md) for the official standard and authorized reference 
 
 The Universal build supports both Apple Silicon and Intel Macs running macOS 15.7 or later. The release also includes a SHA-256 file so the downloaded ZIP can be verified.
 
+### Windows release
+
+Download `TOEFL-Simulation-<version>-Windows-x64.zip` (or `-arm64.zip` for ARM PCs) from the same release, unzip it, and run `TOEFLSimulation.exe` on Windows 10 (19041) or later. The Windows version is a WinUI 3 app with the same features, content, and version number; see [`windows/README.md`](windows/README.md) for first-launch, microphone, and data-location notes.
+
 ### App workflow
 
 - Choose **Full-length 2026 Practice Test** for the four-section simulation, or run any single section exactly as it appears in the full test.
