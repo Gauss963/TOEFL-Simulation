@@ -20,6 +20,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="2.6.4" />
+    <!-- Microphone recording (16 kHz mono WAV) and offline speech recognition for Speaking scores. -->
+    <PackageReference Include="NAudio" Version="3.2.0" />
+    <PackageReference Include="Whisper.net" Version="1.9.1" />
+    <PackageReference Include="Whisper.net.Runtime" Version="1.9.1" />
   </ItemGroup>
 
   <ItemGroup>
