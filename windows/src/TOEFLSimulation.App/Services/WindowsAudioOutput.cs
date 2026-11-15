@@ -44,13 +44,20 @@ public sealed class WindowsAudioOutput : IAudioOutput
     public void Stop()
     {
         TaskCompletionSource<PlaybackEnd>? ended;
+        MediaPlayer? oldPlayer;
+        IDisposable? oldSource;
         lock (gate)
         {
             generation++;
             ended = pending;
             pending = null;
-            ReleasePlayer();
+            oldPlayer = player;
+            oldSource = source;
+            player = null;
+            source = null;
         }
+        // Released outside the lock: MediaPlayer events (which take the lock) may be in flight.
+        Release(oldPlayer, oldSource);
         registration.Dispose();
         ended?.TrySetResult(PlaybackEnd.Stopped);
     }
@@ -141,12 +148,8 @@ public sealed class WindowsAudioOutput : IAudioOutput
         if (current) Stop();
     }
 
-    private void ReleasePlayer()
+    private static void Release(MediaPlayer? oldPlayer, IDisposable? oldSource)
     {
-        var oldPlayer = player;
-        var oldSource = source;
-        player = null;
-        source = null;
         if (oldPlayer is null && oldSource is null) return;
         try
         {
