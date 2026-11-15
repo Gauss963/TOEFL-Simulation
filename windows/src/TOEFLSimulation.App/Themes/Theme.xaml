@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Brand colors and shared styles, matching the Mac app's TOEFLTheme. -->
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.ThemeDictionaries>
+        <ResourceDictionary x:Key="Light">
+            <SolidColorBrush x:Key="BrandHeaderBrush" Color="#083863" />
+            <SolidColorBrush x:Key="BrandActionBrush" Color="#056EA8" />
+            <SolidColorBrush x:Key="BrandAquaBrush" Color="#059EAB" />
+            <SolidColorBrush x:Key="BrandGoldBrush" Color="#ED991F" />
+            <SolidColorBrush x:Key="NavyBrush" Color="#083863" />
+            <SolidColorBrush x:Key="BlueBrush" Color="#056EA8" />
+            <SolidColorBrush x:Key="TealBrush" Color="#05808A" />
+        </ResourceDictionary>
+        <ResourceDictionary x:Key="Dark">
+            <SolidColorBrush x:Key="BrandHeaderBrush" Color="#083863" />
+            <SolidColorBrush x:Key="BrandActionBrush" Color="#056EA8" />
+            <SolidColorBrush x:Key="BrandAquaBrush" Color="#059EAB" />
+            <SolidColorBrush x:Key="BrandGoldBrush" Color="#ED991F" />
+            <SolidColorBrush x:Key="NavyBrush" Color="#99D6FA" />
+            <SolidColorBrush x:Key="BlueBrush" Color="#54C2F5" />
+            <SolidColorBrush x:Key="TealBrush" Color="#54D6D1" />
+        </ResourceDictionary>
+    </ResourceDictionary.ThemeDictionaries>
+
+    <!-- Accent controls (AccentButtonStyle, ProgressBar, CheckBox, …) use the brand action color. -->
+    <Color x:Key="SystemAccentColor">#056EA8</Color>
+    <Color x:Key="SystemAccentColorLight1">#2A8BC4</Color>
+    <Color x:Key="SystemAccentColorLight2">#54A8DA</Color>
+    <Color x:Key="SystemAccentColorLight3">#8CC7EA</Color>
+    <Color x:Key="SystemAccentColorDark1">#045C8C</Color>
+    <Color x:Key="SystemAccentColorDark2">#034A71</Color>
+    <Color x:Key="SystemAccentColorDark3">#023856</Color>
+
+    <!-- The Mac app's card: rounded surface with a hairline border. -->
+    <Style x:Key="CardStyle" TargetType="Border">
+        <Setter Property="Padding" Value="20" />
+        <Setter Property="CornerRadius" Value="8" />
+        <Setter Property="Background" Value="{ThemeResource CardBackgroundFillColorDefaultBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource CardStrokeColorDefaultBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+
+    <!-- Page content column with the Mac app's margins. -->
+    <Style x:Key="PageContentStyle" TargetType="StackPanel">
+        <Setter Property="Margin" Value="36,28,36,36" />
+        <Setter Property="Spacing" Value="18" />
+        <Setter Property="MaxWidth" Value="1180" />
+    </Style>
+</ResourceDictionary>
