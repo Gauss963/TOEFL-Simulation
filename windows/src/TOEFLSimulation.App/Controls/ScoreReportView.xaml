@@ -122,7 +122,7 @@
         </Border>
 
         <ScrollViewer Grid.Row="1" HorizontalScrollBarVisibility="Disabled">
-            <StackPanel MaxWidth="1040" HorizontalAlignment="Left" Padding="30" Spacing="22">
+            <StackPanel MaxWidth="1100" Padding="30" Spacing="22">
 
                 <!-- Score hero: ring with the overall band, CEFR, comparable 0–120 score, and timing. -->
                 <Border Style="{StaticResource CardStyle}">

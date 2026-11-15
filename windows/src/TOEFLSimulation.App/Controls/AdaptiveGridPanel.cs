@@ -76,6 +76,7 @@ public sealed partial class WrapFlowPanel : Panel
 {
     private double horizontalSpacing = 14;
     private double verticalSpacing = 12;
+    private VerticalAlignment itemAlignment = VerticalAlignment.Center;
 
     public double HorizontalSpacing
     {
@@ -87,6 +88,14 @@ public sealed partial class WrapFlowPanel : Panel
     {
         get => verticalSpacing;
         set { verticalSpacing = Math.Max(0, value); InvalidateMeasure(); }
+    }
+
+    /// <summary>How items of different heights line up within a line: Center (default), Top, or Bottom (≈ first baseline
+    /// for text of different sizes).</summary>
+    public VerticalAlignment ItemVerticalAlignment
+    {
+        get => itemAlignment;
+        set { itemAlignment = value; InvalidateArrange(); }
     }
 
     private List<List<UIElement>> Lines(double width)
@@ -135,7 +144,13 @@ public sealed partial class WrapFlowPanel : Panel
             foreach (var child in line)
             {
                 var size = child.DesiredSize;
-                child.Arrange(new Rect(x, y + (lineHeight - size.Height) / 2, Math.Min(size.Width, finalSize.Width), size.Height));
+                var offset = itemAlignment switch
+                {
+                    VerticalAlignment.Top => 0,
+                    VerticalAlignment.Bottom => lineHeight - size.Height,
+                    _ => (lineHeight - size.Height) / 2,
+                };
+                child.Arrange(new Rect(x, y + offset, Math.Min(size.Width, finalSize.Width), size.Height));
                 x += size.Width + horizontalSpacing;
             }
             y += lineHeight + verticalSpacing;
