@@ -2,11 +2,153 @@
 <Page
     x:Class="TOEFLSimulation.App.Pages.DashboardPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <ScrollViewer>
-        <StackPanel Style="{StaticResource PageContentStyle}">
-            <TextBlock Text="Practice Tests" Style="{StaticResource TitleTextBlockStyle}" />
-            <TextBlock Text="This page is being ported from the Mac app." Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="using:TOEFLSimulation.App.Controls">
+    <Page.Resources>
+        <Style x:Key="DashSecondaryText" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="{ThemeResource TextFillColorSecondaryBrush}" />
+            <Setter Property="TextWrapping" Value="Wrap" />
+        </Style>
+        <Style x:Key="DashNavyText" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="{ThemeResource NavyBrush}" />
+            <Setter Property="TextWrapping" Value="Wrap" />
+        </Style>
+        <Style x:Key="DashBlueIcon" TargetType="FontIcon">
+            <Setter Property="Foreground" Value="{ThemeResource BlueBrush}" />
+        </Style>
+        <Style x:Key="DashSecondaryIcon" TargetType="FontIcon">
+            <Setter Property="Foreground" Value="{ThemeResource TextFillColorSecondaryBrush}" />
+        </Style>
+        <Style x:Key="DashScorePill" TargetType="Border">
+            <Setter Property="MinWidth" Value="82" />
+            <Setter Property="Padding" Value="10,9" />
+            <Setter Property="CornerRadius" Value="9" />
+            <Setter Property="Background" Value="{ThemeResource SubtleFillColorSecondaryBrush}" />
+        </Style>
+    </Page.Resources>
+
+    <ScrollViewer HorizontalScrollBarVisibility="Disabled">
+        <StackPanel Spacing="26" Padding="30" MaxWidth="1080">
+            <InfoBar x:Name="LoadErrorBar" Severity="Error" IsClosable="False" IsOpen="False"
+                     Title="The question bank could not be loaded" />
+
+            <!-- Hero -->
+            <Border Style="{StaticResource CardStyle}" CornerRadius="14">
+                <Grid ColumnSpacing="28">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Spacing="12" VerticalAlignment="Center">
+                        <TextBlock x:Name="HeroTitle" FontSize="32" FontWeight="Bold" Style="{StaticResource DashNavyText}" />
+                        <TextBlock x:Name="HeroSubtitle" FontSize="17" Style="{StaticResource DashSecondaryText}" />
+                        <StackPanel Orientation="Horizontal" Spacing="8">
+                            <FontIcon Glyph="&#xE8F1;" FontSize="14" Foreground="{ThemeResource TealBrush}" />
+                            <TextBlock x:Name="BankSummaryText" FontSize="13" FontWeight="SemiBold"
+                                       Foreground="{ThemeResource TealBrush}" VerticalAlignment="Center" />
+                        </StackPanel>
+                    </StackPanel>
+                    <Border Grid.Column="1" Width="170" Height="120" CornerRadius="24" VerticalAlignment="Center"
+                            AutomationProperties.Name="Current 2026 format">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#056EA8" Offset="0" />
+                                <GradientStop Color="#059EAB" Offset="1" />
+                            </LinearGradientBrush>
+                        </Border.Background>
+                        <StackPanel Spacing="4" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <TextBlock Text="2026" FontSize="34" FontWeight="Black" Foreground="White" HorizontalAlignment="Center" />
+                            <TextBlock Text="CURRENT FORMAT" FontSize="12" FontWeight="Bold" CharacterSpacing="120"
+                                       Foreground="White" HorizontalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                </Grid>
+            </Border>
+
+            <!-- Latest practice estimate -->
+            <Border x:Name="LatestCard" Style="{StaticResource CardStyle}" CornerRadius="14" Visibility="Collapsed">
+                <Grid ColumnSpacing="12">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Spacing="5" VerticalAlignment="Center">
+                        <TextBlock x:Name="LatestTitle" FontSize="15" FontWeight="SemiBold" TextWrapping="Wrap" />
+                        <TextBlock x:Name="LatestDate" FontSize="12" Style="{StaticResource DashSecondaryText}" />
+                    </StackPanel>
+                    <Border Grid.Column="1" Style="{StaticResource DashScorePill}">
+                        <StackPanel Spacing="2">
+                            <TextBlock x:Name="OverallValue" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" Style="{StaticResource DashNavyText}" />
+                            <TextBlock Text="Overall" FontSize="11" HorizontalAlignment="Center" Style="{StaticResource DashSecondaryText}" />
+                        </StackPanel>
+                    </Border>
+                    <Border Grid.Column="2" Style="{StaticResource DashScorePill}">
+                        <StackPanel Spacing="2">
+                            <TextBlock x:Name="CefrValue" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" Style="{StaticResource DashNavyText}" />
+                            <TextBlock Text="CEFR" FontSize="11" HorizontalAlignment="Center" Style="{StaticResource DashSecondaryText}" />
+                        </StackPanel>
+                    </Border>
+                    <Border Grid.Column="3" Style="{StaticResource DashScorePill}">
+                        <StackPanel Spacing="2">
+                            <TextBlock x:Name="ComparableValue" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" Style="{StaticResource DashNavyText}" />
+                            <TextBlock Text="Comparable" FontSize="11" HorizontalAlignment="Center" Style="{StaticResource DashSecondaryText}" />
+                        </StackPanel>
+                    </Border>
+                </Grid>
+            </Border>
+
+            <!-- Full-length simulation -->
+            <Border Style="{StaticResource CardStyle}" CornerRadius="14">
+                <StackPanel Spacing="18">
+                    <Grid ColumnSpacing="16">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Spacing="7">
+                            <StackPanel Orientation="Horizontal" Spacing="10">
+                                <FontIcon Glyph="&#xE70F;" FontSize="20" Foreground="{ThemeResource NavyBrush}" />
+                                <TextBlock x:Name="FullTestTitle" FontSize="20" FontWeight="Bold" Style="{StaticResource DashNavyText}" VerticalAlignment="Center" />
+                            </StackPanel>
+                            <TextBlock x:Name="FullTestDetail" FontSize="14" Style="{StaticResource DashSecondaryText}" />
+                        </StackPanel>
+                        <Button x:Name="StartFullButton" Grid.Column="1" Style="{StaticResource AccentButtonStyle}"
+                                Padding="22,9" FontWeight="SemiBold" VerticalAlignment="Top" Click="OnStartFullTest" />
+                    </Grid>
+                    <Rectangle Height="1" Fill="{ThemeResource DividerStrokeColorDefaultBrush}" />
+                    <controls:WrapFlowPanel x:Name="FeatureRow" HorizontalSpacing="18" VerticalSpacing="8" />
+                </StackPanel>
+            </Border>
+
+            <!-- Section practice -->
+            <controls:AdaptiveGridPanel x:Name="PracticeGrid" MinItemWidth="230" Spacing="14" />
+
+            <!-- Official blueprint -->
+            <Border Style="{StaticResource CardStyle}" CornerRadius="14">
+                <StackPanel Spacing="16">
+                    <TextBlock x:Name="BlueprintTitle" FontSize="20" FontWeight="Bold" Style="{StaticResource DashNavyText}" />
+                    <Grid x:Name="BlueprintGrid" ColumnSpacing="18" RowSpacing="11">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </StackPanel>
+            </Border>
+
+            <!-- Accuracy notice -->
+            <Grid ColumnSpacing="10" Margin="4,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <FontIcon Glyph="&#xE946;" FontSize="14" Foreground="{ThemeResource BrandGoldBrush}" VerticalAlignment="Top" Margin="0,2,0,0" />
+                <TextBlock x:Name="AccuracyNotice" Grid.Column="1" FontSize="12" Style="{StaticResource DashSecondaryText}" />
+            </Grid>
         </StackPanel>
     </ScrollViewer>
 </Page>

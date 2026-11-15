@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Theme-aware styles for the code-built practice test screens (ExamView). Elements take these styles, so their colors
+    follow light and dark mode the way TOEFLTheme's adaptive colors do on the Mac.
+-->
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.ThemeDictionaries>
+        <ResourceDictionary x:Key="Light">
+            <SolidColorBrush x:Key="ExamBlueTintBrush" Color="#17056EA8" />
+            <SolidColorBrush x:Key="ExamActionTintBrush" Color="#24056EA8" />
+            <SolidColorBrush x:Key="ExamActionStrongTintBrush" Color="#29056EA8" />
+            <SolidColorBrush x:Key="ExamActionBorderBrush" Color="#80056EA8" />
+            <SolidColorBrush x:Key="ExamTealTintBrush" Color="#2905808A" />
+            <SolidColorBrush x:Key="ExamGoldTintBrush" Color="#29ED991F" />
+            <SolidColorBrush x:Key="ExamCriticalBrush" Color="#C42B1C" />
+        </ResourceDictionary>
+        <ResourceDictionary x:Key="Dark">
+            <SolidColorBrush x:Key="ExamBlueTintBrush" Color="#2454C2F5" />
+            <SolidColorBrush x:Key="ExamActionTintBrush" Color="#33056EA8" />
+            <SolidColorBrush x:Key="ExamActionStrongTintBrush" Color="#47056EA8" />
+            <SolidColorBrush x:Key="ExamActionBorderBrush" Color="#9954C2F5" />
+            <SolidColorBrush x:Key="ExamTealTintBrush" Color="#2954D6D1" />
+            <SolidColorBrush x:Key="ExamGoldTintBrush" Color="#33ED991F" />
+            <SolidColorBrush x:Key="ExamCriticalBrush" Color="#FF99A4" />
+        </ResourceDictionary>
+        <ResourceDictionary x:Key="HighContrast">
+            <SolidColorBrush x:Key="ExamBlueTintBrush" Color="{ThemeResource SystemColorWindowColor}" />
+            <SolidColorBrush x:Key="ExamActionTintBrush" Color="{ThemeResource SystemColorHighlightColor}" />
+            <SolidColorBrush x:Key="ExamActionStrongTintBrush" Color="{ThemeResource SystemColorHighlightColor}" />
+            <SolidColorBrush x:Key="ExamActionBorderBrush" Color="{ThemeResource SystemColorHighlightColor}" />
+            <SolidColorBrush x:Key="ExamTealTintBrush" Color="{ThemeResource SystemColorWindowColor}" />
+            <SolidColorBrush x:Key="ExamGoldTintBrush" Color="{ThemeResource SystemColorWindowColor}" />
+            <SolidColorBrush x:Key="ExamCriticalBrush" Color="{ThemeResource SystemColorWindowTextColor}" />
+        </ResourceDictionary>
+    </ResourceDictionary.ThemeDictionaries>
+
+    <!-- Text -->
+    <Style x:Key="ExamText" TargetType="TextBlock">
+        <Setter Property="Foreground" Value="{ThemeResource TextFillColorPrimaryBrush}" />
+        <Setter Property="TextWrapping" Value="Wrap" />
+        <Setter Property="FontSize" Value="14" />
+    </Style>
+    <Style x:Key="ExamTextSecondary" TargetType="TextBlock" BasedOn="{StaticResource ExamText}">
+        <Setter Property="Foreground" Value="{ThemeResource TextFillColorSecondaryBrush}" />
+    </Style>
+    <Style x:Key="ExamTextNavy" TargetType="TextBlock" BasedOn="{StaticResource ExamText}">
+        <Setter Property="Foreground" Value="{ThemeResource NavyBrush}" />
+    </Style>
+    <Style x:Key="ExamTextBlue" TargetType="TextBlock" BasedOn="{StaticResource ExamText}">
+        <Setter Property="Foreground" Value="{ThemeResource BlueBrush}" />
+    </Style>
+    <Style x:Key="ExamTextTeal" TargetType="TextBlock" BasedOn="{StaticResource ExamText}">
+        <Setter Property="Foreground" Value="{ThemeResource TealBrush}" />
+    </Style>
+    <Style x:Key="ExamTextAction" TargetType="TextBlock" BasedOn="{StaticResource ExamText}">
+        <Setter Property="Foreground" Value="{ThemeResource BlueBrush}" />
+    </Style>
+    <Style x:Key="ExamTextCritical" TargetType="TextBlock" BasedOn="{StaticResource ExamText}">
+        <Setter Property="Foreground" Value="{ThemeResource ExamCriticalBrush}" />
+    </Style>
+    <Style x:Key="ExamTextOnBrand" TargetType="TextBlock" BasedOn="{StaticResource ExamText}">
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <!-- Icons -->
+    <Style x:Key="ExamIcon" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="{ThemeResource TextFillColorPrimaryBrush}" />
+    </Style>
+    <Style x:Key="ExamIconSecondary" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="{ThemeResource TextFillColorSecondaryBrush}" />
+    </Style>
+    <Style x:Key="ExamIconNavy" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="{ThemeResource NavyBrush}" />
+    </Style>
+    <Style x:Key="ExamIconBlue" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="{ThemeResource BlueBrush}" />
+    </Style>
+    <Style x:Key="ExamIconTeal" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="{ThemeResource TealBrush}" />
+    </Style>
+    <Style x:Key="ExamIconGold" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="{ThemeResource BrandGoldBrush}" />
+    </Style>
+    <Style x:Key="ExamIconCritical" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="{ThemeResource ExamCriticalBrush}" />
+    </Style>
+    <Style x:Key="ExamIconOnBrand" TargetType="FontIcon">
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <!-- Surfaces -->
+    <Style x:Key="ExamCard" TargetType="Border">
+        <Setter Property="Padding" Value="20" />
+        <Setter Property="CornerRadius" Value="12" />
+        <Setter Property="Background" Value="{ThemeResource CardBackgroundFillColorDefaultBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource CardStrokeColorDefaultBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+    <Style x:Key="ExamSurface" TargetType="Border">
+        <Setter Property="CornerRadius" Value="10" />
+        <Setter Property="Background" Value="{ThemeResource CardBackgroundFillColorSecondaryBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource CardStrokeColorDefaultBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+    <Style x:Key="ExamChoice" TargetType="Border">
+        <Setter Property="CornerRadius" Value="9" />
+        <Setter Property="Background" Value="{ThemeResource CardBackgroundFillColorDefaultBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource CardStrokeColorDefaultBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+    <Style x:Key="ExamChoiceSelected" TargetType="Border">
+        <Setter Property="CornerRadius" Value="9" />
+        <Setter Property="Background" Value="{ThemeResource ExamBlueTintBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource BrandActionBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+    <Style x:Key="ExamBlueBubble" TargetType="Border">
+        <Setter Property="CornerRadius" Value="12" />
+        <Setter Property="Padding" Value="12" />
+        <Setter Property="Background" Value="{ThemeResource ExamBlueTintBrush}" />
+    </Style>
+    <Style x:Key="ExamChip" TargetType="Border">
+        <Setter Property="CornerRadius" Value="16" />
+        <Setter Property="Padding" Value="12,7" />
+        <Setter Property="Background" Value="{ThemeResource CardBackgroundFillColorSecondaryBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource CardStrokeColorDefaultBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+    <Style x:Key="ExamChipCurrent" TargetType="Border">
+        <Setter Property="CornerRadius" Value="16" />
+        <Setter Property="Padding" Value="12,7" />
+        <Setter Property="Background" Value="{ThemeResource ExamActionStrongTintBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource BrandActionBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+    <Style x:Key="ExamHeaderBar" TargetType="Grid">
+        <Setter Property="Background" Value="{ThemeResource BrandHeaderBrush}" />
+        <Setter Property="Padding" Value="24,10" />
+    </Style>
+    <Style x:Key="ExamFooterBar" TargetType="Border">
+        <Setter Property="Background" Value="{ThemeResource LayerFillColorDefaultBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource DividerStrokeColorDefaultBrush}" />
+        <Setter Property="BorderThickness" Value="0,1,0,0" />
+        <Setter Property="Padding" Value="24,14" />
+    </Style>
+    <Style x:Key="ExamInterviewer" TargetType="Border">
+        <Setter Property="CornerRadius" Value="14" />
+        <Setter Property="Background" Value="{ThemeResource BrandHeaderBrush}" />
+        <Setter Property="Width" Value="200" />
+        <Setter Property="Height" Value="140" />
+    </Style>
+    <Style x:Key="ExamRoot" TargetType="Grid">
+        <Setter Property="Background" Value="{ThemeResource SolidBackgroundFillColorBaseBrush}" />
+    </Style>
+
+    <!-- Speaker avatars (index 0, 1, 2 → blue, teal, gold, as on the Mac) -->
+    <Style x:Key="ExamAvatar0" TargetType="Ellipse">
+        <Setter Property="Fill" Value="{ThemeResource ExamBlueTintBrush}" />
+    </Style>
+    <Style x:Key="ExamAvatar1" TargetType="Ellipse">
+        <Setter Property="Fill" Value="{ThemeResource ExamTealTintBrush}" />
+    </Style>
+    <Style x:Key="ExamAvatar2" TargetType="Ellipse">
+        <Setter Property="Fill" Value="{ThemeResource ExamGoldTintBrush}" />
+    </Style>
+    <Style x:Key="ExamRingTrack" TargetType="Ellipse">
+        <Setter Property="Stroke" Value="{ThemeResource ControlStrongStrokeColorDisabledBrush}" />
+        <Setter Property="StrokeThickness" Value="8" />
+    </Style>
+
+    <!-- Complete the Words blank -->
+    <Style x:Key="ExamBlankUnderline" TargetType="Border">
+        <Setter Property="BorderBrush" Value="{ThemeResource ExamActionBorderBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+        <Setter Property="CornerRadius" Value="4" />
+    </Style>
+
+    <!-- Build a Sentence slots -->
+    <Style x:Key="ExamSlotEmpty" TargetType="Border">
+        <Setter Property="MinWidth" Value="86" />
+        <Setter Property="MinHeight" Value="34" />
+        <Setter Property="CornerRadius" Value="6,6,0,0" />
+        <Setter Property="Background" Value="{ThemeResource ControlFillColorDefaultBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource BrandActionBrush}" />
+        <Setter Property="BorderThickness" Value="0,0,0,2" />
+    </Style>
+    <Style x:Key="ExamSlotFilled" TargetType="Border">
+        <Setter Property="MinWidth" Value="86" />
+        <Setter Property="MinHeight" Value="34" />
+        <Setter Property="CornerRadius" Value="6,6,0,0" />
+        <Setter Property="Background" Value="{ThemeResource ExamActionTintBrush}" />
+        <Setter Property="BorderBrush" Value="{ThemeResource BrandActionBrush}" />
+        <Setter Property="BorderThickness" Value="0,0,0,2" />
+    </Style>
+</ResourceDictionary>
