@@ -4,12 +4,12 @@ The Windows version of the TOEFL Simulation app: a WinUI 3 (Windows App SDK) des
 
 ## Use
 
-1. From the [latest release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest), download `TOEFL-Simulation-<version>-Windows-x64.zip` (most PCs) or `-Windows-arm64.zip` (Snapdragon / ARM PCs).
-2. Unzip it anywhere and run `TOEFL Simulation\TOEFLSimulation.exe`. Nothing is installed; Windows 10 (19041) or later, Windows 11 recommended.
-3. The app is not code-signed, so the first launch may show **Windows protected your PC**. Choose **More info → Run anyway**.
+1. From the [latest release](https://github.com/Gauss963/TOEFL-Simulation/releases/latest), download `TOEFL-Simulation-<version>-Windows-Setup.exe`. One installer works on every Windows 10 (19041) / Windows 11 PC; it installs the x64 or ARM64 build to match the machine.
+2. Double-click it. The app isn't code-signed, so Windows may show **Windows protected your PC**: choose **More info → Run anyway**. Then click through the installer; no administrator rights are needed.
+3. Open **TOEFL Simulation** from the Start menu (or the desktop shortcut). To update, run a newer Setup.exe over it. To remove it, use **Settings → Apps → Installed apps**.
 4. For Speaking, allow microphone access in **Settings → Privacy & security → Microphone → Let desktop apps access your microphone**. Responses are transcribed on the PC with the bundled Whisper model; audio never leaves the device.
 
-Progress, settings, and score history are saved in `%LOCALAPPDATA%\TOEFL Simulation` (same keys and JSON format as the Mac app), so replacing the app with a newer zip keeps them.
+The app installs to `%LOCALAPPDATA%\Programs\TOEFL Simulation`. Progress, settings, and score history are saved separately in `%LOCALAPPDATA%\TOEFL Simulation` (same keys and JSON format as the Mac app), so updating or uninstalling keeps them.
 
 ## Layout
 
@@ -20,4 +20,4 @@ Progress, settings, and score history are saved in `%LOCALAPPDATA%\TOEFL Simulat
 
 ## Build
 
-GitHub Actions (`.github/workflows/build-windows-app.yml`) builds x64 and ARM64 on every push, runs the core tests, downloads the Whisper `base.en` model (hash-checked), and runs a smoke test that opens every page and practice mode and saves screenshots. Pushing a version tag attaches the zips to that version's release. On Windows you can also build locally with `dotnet publish src/TOEFLSimulation.App -c Release -r win-x64 -p:Platform=x64` (place `ggml-base.en-q5_1.bin` in `Models\` next to the exe for Speaking scoring).
+GitHub Actions (`.github/workflows/build-windows-app.yml`) builds x64 and ARM64 on every push, runs the core tests, packs both builds into one Setup.exe with Inno Setup (`installer/Setup.iss`, adding the hash-checked Whisper `base.en` model), installs it silently on a Windows runner, runs a smoke test on the installed app that opens every page and practice mode and saves screenshots, and checks that uninstalling keeps saved progress. Pushing a version tag attaches the Setup.exe to that version's release. On Windows you can also build locally with `dotnet publish src/TOEFLSimulation.App -c Release -r win-x64 -p:Platform=x64` (place `ggml-base.en-q5_1.bin` in `Models\` next to the exe for Speaking scoring).

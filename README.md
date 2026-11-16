@@ -60,7 +60,7 @@ The Universal build supports both Apple Silicon and Intel Macs running macOS 15.
 
 ### Windows release
 
-Download `TOEFL-Simulation-<version>-Windows-x64.zip` (or `-arm64.zip` for ARM PCs) from the same release, unzip it, and run `TOEFLSimulation.exe` on Windows 10 (19041) or later. The Windows version is a WinUI 3 app with the same features, content, and version number; see [`windows/README.md`](windows/README.md) for first-launch, microphone, and data-location notes.
+Download `TOEFL-Simulation-<version>-Windows-Setup.exe` from the same release and double-click it (if Windows SmartScreen appears, choose **More info → Run anyway**). It installs without administrator rights, adds TOEFL Simulation to the Start menu, and works on Windows 10 (19041) or later on both x64 and ARM PCs. The Windows version is a WinUI 3 app with the same features, content, and version number; see [`windows/README.md`](windows/README.md) for microphone and data-location notes.
 
 ### App workflow
 
